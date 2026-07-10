@@ -1,0 +1,413 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<style>
+@font-face{font-family:'Anton';src:url('./assets/anton.woff2') format('woff2');font-weight:400;font-display:block}
+@font-face{font-family:'Archivo';src:url('./assets/archivo-400.woff2') format('woff2');font-weight:400;font-display:block}
+@font-face{font-family:'Archivo';src:url('./assets/archivo-700.woff2') format('woff2');font-weight:700;font-display:block}
+@font-face{font-family:'Archivo';src:url('./assets/archivo-800.woff2') format('woff2');font-weight:800;font-display:block}
+
+:root{
+  --gold:#FDBD27;
+  --ink:#0d0d0d;
+  --city:#C4161C;            /* cor de Criciúma (da bandeira) */
+  --paper:#ffffff;
+  --muted:#6b6b6b;
+  --line:#e7e7e7;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+@page{size:A4;margin:0}
+html,body{background:var(--paper);color:var(--ink);font-family:'Archivo',sans-serif;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+
+.page{
+  position:relative;width:210mm;height:297mm;overflow:hidden;
+  page-break-after:always;background:var(--paper);
+}
+.page:last-child{page-break-after:auto}
+.pad{padding:18mm 16mm}
+
+/* ---------- utilidades de marca ---------- */
+.anton{font-family:'Anton',sans-serif;font-weight:400;letter-spacing:.3px;text-transform:uppercase}
+.kicker{font-family:'Archivo';font-weight:800;text-transform:uppercase;letter-spacing:3px;font-size:9pt}
+.gold{color:var(--gold)}
+
+/* rosetas de onça (textura) */
+.spots{position:absolute;inset:0;pointer-events:none}
+.rosette{position:absolute}
+
+/* ============ CAPA ============ */
+.cover{background:#0a0a0a;color:#fff}
+.cover .pad{height:100%;display:flex;flex-direction:column;position:relative;z-index:2}
+.cover-logo{height:26mm;width:auto;filter:none}
+.cover-top{display:flex;justify-content:space-between;align-items:flex-start}
+.cover-tag{border:2px solid var(--gold);color:var(--gold);font-family:'Archivo';font-weight:800;
+  text-transform:uppercase;letter-spacing:2px;font-size:8.5pt;padding:6px 12px;border-radius:2px;margin-top:6mm}
+.cover-mid{margin-top:auto;margin-bottom:auto}
+.cover .eyebrow{font-family:'Archivo';font-weight:800;letter-spacing:4px;text-transform:uppercase;
+  font-size:11pt;color:var(--gold)}
+.cover h1{font-family:'Anton';text-transform:uppercase;font-size:53pt;line-height:.92;margin:8px 0 0}
+.cover h1 .l2{color:var(--gold)}
+.cover .sub{font-size:13pt;color:#d9d9d9;margin-top:14px;max-width:118mm;line-height:1.5;font-weight:400}
+.cover-photo{position:absolute;right:-8mm;bottom:0;height:190mm;z-index:1;filter:drop-shadow(0 0 30px rgba(0,0,0,.6))}
+.cover-region{margin-top:26px;max-width:118mm}
+.cover-region .rlabel{font-family:'Archivo';font-weight:800;text-transform:uppercase;letter-spacing:2px;
+  font-size:8.5pt;color:var(--gold);margin-bottom:8px;display:flex;align-items:center;gap:8px}
+.cover-region .rlabel::before{content:"";width:26px;height:3px;background:var(--gold);display:inline-block}
+.cover-region .rcities{font-family:'Archivo';font-weight:700;font-size:11pt;line-height:1.7;color:#eaeaea}
+.cover-foot{position:relative;z-index:2;display:flex;justify-content:space-between;align-items:center;
+  border-top:1px solid rgba(255,255,255,.18);padding-top:10px;font-size:8.5pt;color:#9a9a9a;letter-spacing:1px}
+.cover-foot b{color:var(--gold)}
+
+/* ============ FAIXA DE CIDADE (cabeçalho de página) ============ */
+.cityhead{display:flex;align-items:center;gap:14px;border-bottom:4px solid var(--city);padding-bottom:10px;margin-bottom:8mm}
+.cityhead img.flag{height:14mm;border:1px solid var(--line);border-radius:3px}
+.cityhead .h-t{flex:1}
+.cityhead .h-t .big{font-family:'Anton';font-size:30pt;text-transform:uppercase;line-height:.9;color:var(--ink)}
+.cityhead .h-t .small{font-weight:800;letter-spacing:2px;text-transform:uppercase;font-size:8.5pt;color:var(--city)}
+.cityhead .h-logo{height:11mm;opacity:.9}
+
+/* ---------- cartão de identidade da cidade ---------- */
+.idgrid{display:grid;grid-template-columns:1fr 1fr;gap:8mm;margin-bottom:8mm}
+.card{border:1px solid var(--line);border-radius:8px;padding:6mm;background:#fff}
+.card .lab{font-weight:800;text-transform:uppercase;letter-spacing:2px;font-size:8pt;color:var(--muted);margin-bottom:8px}
+.mayor{display:flex;align-items:center;gap:14px}
+.mayor .brasao{height:22mm}
+.mayor .mn{font-family:'Anton';font-size:20pt;text-transform:uppercase;line-height:.95}
+.mayor .mr{font-size:9.5pt;color:var(--muted);margin-top:2px}
+.mayor .vice{font-size:9.5pt;margin-top:8px}
+.mayor .vice b{color:var(--ink)}
+.facts{display:flex;flex-direction:column;justify-content:center;gap:9px}
+.fact{display:flex;align-items:baseline;gap:10px}
+.fact .n{font-family:'Anton';font-size:26pt;color:var(--city);line-height:1;min-width:22mm}
+.fact .d{font-size:9.5pt;color:#333;line-height:1.25}
+
+.verhead{font-weight:800;text-transform:uppercase;letter-spacing:2px;font-size:9pt;color:var(--ink);
+  margin:0 0 10px;display:flex;align-items:center;gap:8px}
+.verhead::before{content:"";width:14px;height:14px;background:var(--city);border-radius:3px;display:inline-block}
+.verlist{display:grid;grid-template-columns:1fr 1fr 1fr;gap:5px 10px;margin-bottom:8mm}
+.ver{display:flex;align-items:center;gap:8px;font-size:9.5pt;padding:5px 0;border-bottom:1px solid var(--line)}
+.ver .dot{width:7px;height:7px;border-radius:50%;background:var(--gold);flex:none}
+.ver .vname{font-weight:700}
+.ver .vparty{color:var(--muted);font-size:8pt;margin-left:auto}
+
+.legend{background:#faf7ec;border:1px solid #f0e6c2;border-left:5px solid var(--gold);border-radius:6px;padding:5mm 6mm}
+.legend .lt{font-weight:800;text-transform:uppercase;letter-spacing:1px;font-size:9pt;margin-bottom:8px}
+.legend p{font-size:9.5pt;line-height:1.55;color:#333}
+.legend .tags{display:flex;gap:18px;margin-top:10px;flex-wrap:wrap}
+.legend .tags span{font-size:9pt;font-weight:700}
+
+/* ============ LINHA DO TEMPO / CASOS ============ */
+.tl-title{font-family:'Anton';font-size:22pt;text-transform:uppercase;margin-bottom:2mm}
+.tl-sub{color:var(--muted);font-size:9.5pt;margin-bottom:7mm;font-weight:700;letter-spacing:.5px}
+
+.case{display:grid;grid-template-columns:26mm 1fr;gap:0;margin-bottom:7mm;break-inside:avoid}
+.case .rail{border-right:3px solid var(--line);padding-right:10px;text-align:right;position:relative}
+.case .rail .yr{font-family:'Anton';font-size:15pt;color:var(--city);line-height:1}
+.case .rail .dm{font-size:8.5pt;color:var(--muted);font-weight:700;letter-spacing:1px}
+.case .rail::after{content:"";position:absolute;right:-7.5px;top:4px;width:12px;height:12px;border-radius:50%;
+  background:#fff;border:3px solid var(--city)}
+.case.arq .rail .yr{color:#2e9e5b}
+.case.arq .rail::after{border-color:#2e9e5b}
+.case .body{padding-left:16px}
+.pill{display:inline-flex;align-items:center;gap:6px;font-size:7.5pt;font-weight:800;text-transform:uppercase;
+  letter-spacing:1px;padding:4px 9px;border-radius:20px;margin-bottom:7px}
+.pill.red{background:#fbe7e7;color:#b4131c}
+.pill.green{background:#e5f5ec;color:#1f7a44}
+.pill.tce{background:#0d0d0d;color:var(--gold)}
+.case h3{font-family:'Archivo';font-weight:800;font-size:13.5pt;line-height:1.15;margin-bottom:8px}
+.case .rowline{display:flex;gap:8px;margin:5px 0;font-size:9.7pt;line-height:1.4}
+.case .rowline .k{font-weight:800;text-transform:uppercase;letter-spacing:.5px;font-size:7.5pt;color:var(--muted);
+  min-width:26mm;padding-top:2px}
+.case .rowline .v{flex:1}
+.case .ref{margin-top:8px;font-size:8pt;color:#999;font-family:'Archivo';letter-spacing:.3px}
+.miniflag{height:auto}
+
+/* multas table dentro do caso */
+.mt{width:100%;border-collapse:collapse;margin:6px 0 2px;font-size:9pt}
+.mt th{background:var(--ink);color:#fff;text-align:left;padding:5px 8px;font-size:7.5pt;text-transform:uppercase;letter-spacing:1px}
+.mt td{border-bottom:1px solid var(--line);padding:5px 8px}
+
+/* ============ CTA / CONTRACAPA ============ */
+.cta{background:#0a0a0a;color:#fff}
+.cta .pad{height:100%;display:flex;flex-direction:column;position:relative;z-index:2}
+.cta h2{font-family:'Anton';font-size:40pt;text-transform:uppercase;line-height:.95;margin-top:auto}
+.cta h2 .g{color:var(--gold)}
+.cta p{font-size:12.5pt;color:#dcdcdc;max-width:120mm;line-height:1.55;margin-top:16px}
+.cta .box{margin-top:22px;background:var(--gold);color:#0a0a0a;border-radius:10px;padding:6mm 7mm;max-width:120mm}
+.cta .box b{font-weight:800}
+.cta .box .big{font-family:'Anton';font-size:17pt;text-transform:uppercase;margin-bottom:4px}
+.cta-foot{margin-top:auto;display:flex;justify-content:space-between;align-items:flex-end;
+  border-top:1px solid rgba(255,255,255,.18);padding-top:12px}
+.wa-btn{display:inline-flex;align-items:center;gap:10px;margin-top:14px;background:#0a0a0a;color:#fff;
+  text-decoration:none;font-weight:800;font-size:11pt;padding:12px 18px;border-radius:8px;letter-spacing:.3px}
+.wa-btn .wa-ic{background:#25D366;color:#0a0a0a;width:22px;height:22px;border-radius:50%;
+  display:inline-flex;align-items:center;justify-content:center;font-size:12pt}
+.cta-foot img{height:16mm}
+.cta-foot .disc{font-size:7.5pt;color:#8f8f8f;max-width:96mm;line-height:1.5;position:relative;z-index:3}
+.cta-photo{position:absolute;right:-6mm;bottom:0;height:150mm;z-index:1}
+</style>
+</head>
+<body>
+
+<!-- ================= CAPA ================= -->
+<section class="page cover">
+  <svg class="spots" viewBox="0 0 210 297" preserveAspectRatio="none">
+    <g fill="#FDBD27" opacity="0.10">
+      <g id="ros" transform="translate(150,40)">
+        <circle cx="0" cy="-9" r="2.4"/><circle cx="8" cy="-4" r="2.2"/><circle cx="8" cy="5" r="2.4"/>
+        <circle cx="0" cy="10" r="2.2"/><circle cx="-8" cy="5" r="2.4"/><circle cx="-8" cy="-4" r="2.2"/>
+        <circle cx="0" cy="0" r="2.6"/>
+      </g>
+      <use href="#ros" transform="translate(28,-16) scale(.7)"/>
+      <use href="#ros" transform="translate(40,26) scale(.85)"/>
+      <use href="#ros" transform="translate(12,52) scale(.6)"/>
+      <use href="#ros" transform="translate(-120,150) scale(.9)"/>
+      <use href="#ros" transform="translate(-138,180) scale(.6)"/>
+      <use href="#ros" transform="translate(-100,205) scale(.75)"/>
+    </g>
+  </svg>
+  <img class="cover-photo" src="./assets/foto.png" alt="">
+  <div class="pad">
+    <div class="cover-top">
+      <img class="cover-logo" src="./assets/logo-branco.png" alt="JAIRO">
+      <div class="cover-tag">Santa Catarina · 2025–2026</div>
+    </div>
+
+    <div class="cover-mid">
+      <div class="eyebrow">Transparência Radical · Santa Catarina</div>
+      <h1>Transparência<br><span class="l2">Radical</span><br>AMREC</h1>
+      <p class="sub">Saiba <b style="color:#fff">todas as investigações da sua cidade</b> — tudo o que o Ministério Público e o Tribunal de Contas apuram na Região Carbonífera, em linguagem que qualquer pessoa entende.</p>
+      <div class="cover-region">
+        <div class="rlabel">12 cidades nesta edição</div>
+        <div class="rcities">Criciúma · Içara · Urussanga · Forquilhinha · Cocal do Sul · Nova Veneza · Siderópolis · Orleans · Morro da Fumaça · Balneário Rincão · Treviso · Lauro Müller</div>
+      </div>
+    </div>
+
+    <div class="cover-foot">
+      <span>Fontes públicas oficiais · Diário do MPSC + DOTC-e/TCE-SC</span>
+      <span><b>TECNOLOGIA MATA CORRUPÇÃO</b></span>
+    </div>
+  </div>
+</section>
+
+<!-- ================= IDENTIDADE DA CIDADE ================= -->
+<section class="page">
+  <div class="pad">
+    <div class="cityhead">
+      <img class="flag" src="./assets/bandeira.png" alt="">
+      <div class="h-t">
+        <div class="small">Transparência Radical AMREC · Região Carbonífera</div>
+        <div class="big">Criciúma</div>
+      </div>
+      <img class="h-logo" src="./assets/logo-preto.png" alt="JAIRO">
+    </div>
+
+    <div class="idgrid">
+      <div class="card">
+        <div class="lab">Prefeitura (mandato 2025–2028)</div>
+        <div class="mayor">
+          <img class="brasao" src="./assets/brasao.png" alt="Brasão de Criciúma">
+          <div>
+            <div class="mn">Vagner Espíndola</div>
+            <div class="mr">“Vaguinho” · Prefeito</div>
+            <div class="vice">Vice-prefeito: <b>Salésio Lima</b></div>
+          </div>
+        </div>
+      </div>
+      <div class="card facts">
+        <div class="fact"><div class="n">400+</div><div class="d">registros do MP e do TCE ligados a Criciúma no período analisado</div></div>
+        <div class="fact"><div class="n">8</div><div class="d">casos de maior interesse público selecionados neste dossiê</div></div>
+      </div>
+    </div>
+
+    <div class="verhead">Câmara de Vereadores · 17 vereadores eleitos em 2024</div>
+    <div class="verlist">
+      <div class="ver"><span class="dot"></span><span class="vname">Giovana Mondardo</span><span class="vparty">PCdoB</span></div>
+      <div class="ver"><span class="dot"></span><span class="vname">Nícola Martins</span><span class="vparty">PL</span></div>
+      <div class="ver"><span class="dot"></span><span class="vname">Obadias Benones</span><span class="vparty">PL</span></div>
+      <div class="ver"><span class="dot"></span><span class="vname">Juarez de Jesus</span><span class="vparty">PL</span></div>
+      <div class="ver"><span class="dot"></span><span class="vname">Gorete C. Boaroli</span><span class="vparty">PSDB</span></div>
+      <div class="ver"><span class="dot"></span><span class="vname">Ademir Honorato</span><span class="vparty">PL</span></div>
+      <div class="ver"><span class="dot"></span><span class="vname">Dr. Luiz Fontana</span><span class="vparty">PL</span></div>
+      <div class="ver"><span class="dot"></span><span class="vname">Márcio Daros da Luz</span><span class="vparty">PSD</span></div>
+      <div class="ver"><span class="dot"></span><span class="vname">Amaral Bittencourt</span><span class="vparty">PSD</span></div>
+      <div class="ver"><span class="dot"></span><span class="vname">Neto Uggioni</span><span class="vparty">PSDB</span></div>
+      <div class="ver"><span class="dot"></span><span class="vname">Geovana B. Zanette</span><span class="vparty">PSD</span></div>
+      <div class="ver"><span class="dot"></span><span class="vname">Dudi Sônego</span><span class="vparty">PSD</span></div>
+      <div class="ver"><span class="dot"></span><span class="vname">Marquinho Machado</span><span class="vparty">MDB</span></div>
+      <div class="ver"><span class="dot"></span><span class="vname">Miri Dagostim</span><span class="vparty">PP</span></div>
+      <div class="ver"><span class="dot"></span><span class="vname">Aldinei Potelecki</span><span class="vparty">Rep.</span></div>
+      <div class="ver"><span class="dot"></span><span class="vname">Neri Xavier</span><span class="vparty">União</span></div>
+      <div class="ver"><span class="dot"></span><span class="vname">Daniel Cipriano</span><span class="vparty">PSDB</span></div>
+    </div>
+
+    <div class="legend">
+      <div class="lt">Como ler este documento</div>
+      <p><b>Ministério Público (MP):</b> investiga suspeitas de irregularidade e, se achar prova, processa na Justiça. &nbsp;•&nbsp; <b>Tribunal de Contas (TCE):</b> julga as contas da prefeitura — quando diz “contas irregulares”, já é uma <b>decisão</b>, com multa e devolução de dinheiro.</p>
+      <div class="tags">
+        <span style="color:#b4131c">🔴 Irregularidade encontrada</span>
+        <span style="color:#1f7a44">🟢 Investigado e arquivado</span>
+        <span style="color:#0d0d0d">⬛ TCE — já tem decisão</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ================= LINHA DO TEMPO — PARTE 1 ================= -->
+<section class="page">
+  <div class="pad">
+    <div class="cityhead">
+      <img class="flag" src="./assets/bandeira.png" alt="">
+      <div class="h-t"><div class="small">Criciúma · linha do tempo</div><div class="big">O que apareceu</div></div>
+      <img class="h-logo" src="./assets/logo-preto.png" alt="JAIRO">
+    </div>
+    <div class="tl-sub">Casos em ordem, do mais recente para o mais antigo · junho/2026 → junho/2025</div>
+
+    <div class="case arq">
+      <div class="rail"><div class="yr">2026</div><div class="dm">16 JUN</div></div>
+      <div class="body">
+        <span class="pill green">🟢 Investigado e arquivado</span>
+        <h3>Uso de carro oficial da prefeitura para fins particulares</h3>
+        <div class="rowline"><div class="k">O que aconteceu</div><div class="v">O MP apurou se um servidor usava um veículo da frota da Prefeitura de Criciúma para fins particulares.</div></div>
+        <div class="rowline"><div class="k">Quem</div><div class="v">Servidor Pedro Paulo Merêncio (Intendente Distrital).</div></div>
+        <div class="rowline"><div class="k">Em que pé está</div><div class="v">O relatório técnico do GAECO <b>não encontrou desvio</b> — o uso era justificado pelo cargo. <b>Arquivado.</b></div></div>
+        <div class="ref">Inquérito Civil 06.2026.00000374-0 · 2ª Promotoria de Justiça</div>
+      </div>
+    </div>
+
+    <div class="case">
+      <div class="rail"><div class="yr">2026</div><div class="dm">22 MAI</div></div>
+      <div class="body">
+        <span class="pill tce">⬛ TCE — já tem decisão</span>
+        <h3>Escola “Filho do Mineiro”: contas de R$ 5,88 milhões julgadas irregulares</h3>
+        <div class="rowline"><div class="k">O que aconteceu</div><div class="v">O Tribunal de Contas julgou <b>IRREGULARES</b> as contas da construção da Escola Municipal “Filho do Mineiro” (contrato de R$ 5,88 milhões com a MTX Construções), por serviços atestados como executados quando não deviam.</div></div>
+        <div class="rowline"><div class="k">Quem levou multa</div><div class="v">
+          <table class="mt"><tr><th>Nome</th><th>Cargo na época</th></tr>
+          <tr><td>João Batista Belloli</td><td>Secretário de Obras</td></tr>
+          <tr><td>Joice M. de M. Gerônimo</td><td>Engenheira fiscal da obra</td></tr>
+          <tr><td>Clésio Salvaro</td><td>Ex-prefeito (apontado como responsável)</td></tr></table>
+        </div></div>
+        <div class="rowline"><div class="k">Em que pé está</div><div class="v">Já tem <b>decisão</b>: o TCE julgou e aplicou multas (Acórdão 2/2026).</div></div>
+        <div class="ref">Processo TCE 20/00672226 · DOTC-e nº 4320, 22/05/2026</div>
+      </div>
+    </div>
+
+    <div class="case">
+      <div class="rail"><div class="yr">2025</div><div class="dm">17 DEZ</div></div>
+      <div class="body">
+        <span class="pill red">🔴 Irregularidade encontrada</span>
+        <h3>Superfaturamento no asfalto da Avenida Centenário</h3>
+        <div class="rowline"><div class="k">O que aconteceu</div><div class="v">A perícia do MP concluiu que houve <b>superfaturamento</b> no contrato de revitalização do asfalto da Avenida Centenário — a cidade pagou mais caro do que devia.</div></div>
+        <div class="rowline"><div class="k">Quem</div><div class="v">Empresa JR Construções e Terraplanagem + Prefeitura de Criciúma.</div></div>
+        <div class="rowline"><div class="k">Em que pé está</div><div class="v">A empresa <b>não quis fazer acordo</b> para devolver o valor — o MP decidiu <b>processar na Justiça</b> por improbidade.</div></div>
+        <div class="ref">Inquérito Civil 06.2020.00004010-0 · Contrato 318/PMC/2019</div>
+      </div>
+    </div>
+
+    <div class="case">
+      <div class="rail"><div class="yr">2025</div><div class="dm">15 OUT</div></div>
+      <div class="body">
+        <span class="pill red">🔴 Irregularidade encontrada</span>
+        <h3>Pagamento indevido de horas extras e adicionais</h3>
+        <div class="rowline"><div class="k">O que aconteceu</div><div class="v">O MP concluiu que houve <b>recebimento indevido</b> de horas extras e adicionais por titulação, entre 2016 e 2019 — enriquecimento ilícito e prejuízo aos cofres públicos.</div></div>
+        <div class="rowline"><div class="k">Quem</div><div class="v">Servidora Nelísia Uggioni de Azevedo.</div></div>
+        <div class="rowline"><div class="k">Em que pé está</div><div class="v">Sem acordo — o MP decidiu <b>processar na Justiça</b>.</div></div>
+        <div class="ref">Inquérito Civil 06.2018.00002237-5</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ================= LINHA DO TEMPO — PARTE 2 ================= -->
+<section class="page">
+  <div class="pad">
+    <div class="cityhead">
+      <img class="flag" src="./assets/bandeira.png" alt="">
+      <div class="h-t"><div class="small">Criciúma · linha do tempo</div><div class="big">O que apareceu</div></div>
+      <img class="h-logo" src="./assets/logo-preto.png" alt="JAIRO">
+    </div>
+
+    <div class="case arq">
+      <div class="rail"><div class="yr">2025</div><div class="dm">15 OUT</div></div>
+      <div class="body">
+        <span class="pill green">🟢 Investigado e arquivado</span>
+        <h3>Desvio de função no Pátio de Máquinas</h3>
+        <div class="rowline"><div class="k">O que aconteceu</div><div class="v">O MP apurou suposto desvio de função de servidores do Pátio de Máquinas do município.</div></div>
+        <div class="rowline"><div class="k">Em que pé está</div><div class="v">A função foi <b>extinta por lei</b> e a investigação perdeu o objeto. <b>Arquivado.</b></div></div>
+        <div class="ref">Inquérito Civil 06.2022.00004442-6</div>
+      </div>
+    </div>
+
+    <div class="case">
+      <div class="rail"><div class="yr">2025</div><div class="dm">08 AGO</div></div>
+      <div class="body">
+        <span class="pill red">🔴 Irregularidade encontrada</span>
+        <h3>Técnica de enfermagem que não cumpria a carga horária</h3>
+        <div class="rowline"><div class="k">O que aconteceu</div><div class="v">O MP concluiu que uma técnica de enfermagem <b>não cumpria a carga horária</b> de trabalho, com anuência da enfermeira responsável — enriquecimento ilícito.</div></div>
+        <div class="rowline"><div class="k">Quem</div><div class="v">Alcione Alves (técnica) e Camila Rossi (enfermeira), lotadas no Centro Social Urbano.</div></div>
+        <div class="rowline"><div class="k">Em que pé está</div><div class="v">Irregularidade confirmada; MP propôs acordo para devolução dos valores.</div></div>
+        <div class="ref">Inquérito Civil 06.2025.00001373-4</div>
+      </div>
+    </div>
+
+    <div class="case">
+      <div class="rail"><div class="yr">2025</div><div class="dm">30 JUL</div></div>
+      <div class="body">
+        <span class="pill red">🔴 Irregularidade encontrada</span>
+        <h3>Desvio de recursos em convênio com associação de deficientes físicos</h3>
+        <div class="rowline"><div class="k">O que aconteceu</div><div class="v">O MP concluiu que houve <b>desvio de dinheiro público</b> repassado, via convênio, à Associação dos Deficientes Físicos de Criciúma.</div></div>
+        <div class="rowline"><div class="k">Quem</div><div class="v">Cláudio Pacheco.</div></div>
+        <div class="rowline"><div class="k">Em que pé está</div><div class="v">O investigado <b>não respondeu</b> à proposta de acordo — o MP decidiu <b>processar na Justiça</b>.</div></div>
+        <div class="ref">Inquérito Civil 06.2018.00000313-4</div>
+      </div>
+    </div>
+
+    <div class="case arq">
+      <div class="rail"><div class="yr">2025</div><div class="dm">23 JUN</div></div>
+      <div class="body">
+        <span class="pill green">🟢 Investigado e arquivado</span>
+        <h3>Portal da Transparência da prefeitura</h3>
+        <div class="rowline"><div class="k">O que aconteceu</div><div class="v">O MP investigou se o Portal da Transparência do município escondia informações.</div></div>
+        <div class="rowline"><div class="k">Em que pé está</div><div class="v">A prefeitura <b>ajustou o portal</b>, que passou a atender tudo o que era exigido. <b>Arquivado.</b></div></div>
+        <div class="ref">Inquérito Civil 06.2023.00004269-8</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ================= CTA / CONTRACAPA ================= -->
+<section class="page cta">
+  <svg class="spots" viewBox="0 0 210 297" preserveAspectRatio="none">
+    <g fill="#FDBD27" opacity="0.10">
+      <g id="ros2" transform="translate(45,60)">
+        <circle cx="0" cy="-9" r="2.4"/><circle cx="8" cy="-4" r="2.2"/><circle cx="8" cy="5" r="2.4"/>
+        <circle cx="0" cy="10" r="2.2"/><circle cx="-8" cy="5" r="2.4"/><circle cx="-8" cy="-4" r="2.2"/>
+        <circle cx="0" cy="0" r="2.6"/>
+      </g>
+      <use href="#ros2" transform="translate(20,30) scale(.7)"/>
+      <use href="#ros2" transform="translate(-20,60) scale(.85)"/>
+      <use href="#ros2" transform="translate(10,95) scale(.6)"/>
+    </g>
+  </svg>
+  <img class="cta-photo" src="./assets/foto.png" alt="">
+  <div class="pad">
+    <div class="eyebrow" style="font-family:'Archivo';font-weight:800;letter-spacing:4px;text-transform:uppercase;color:var(--gold);font-size:11pt">Sua cidade é só o começo</div>
+    <h2>Quer o dossiê<br>completo da <span class="g">sua região?</span></h2>
+    <p>Este documento mostra 8 casos de Criciúma. O dossiê completo cobre <b style="color:#fff">todas as cidades da região Carbonífera</b> — cada prefeitura, cada investigação do MP e cada julgamento do TCE, atualizado a cada nova edição dos Diários Oficiais.</p>
+    <div class="box">
+      <div class="big">Receba o dossiê da sua cidade</div>
+      <div>Deixe seu <b>nome, WhatsApp e cidade</b> e entre no grupo da sua região. É de graça — e você fica sabendo antes de todo mundo.</div>
+      <a class="wa-btn" href="https://chat.whatsapp.com/SUBSTITUA_PELO_LINK_DO_GRUPO">
+        <span class="wa-ic">✆</span> Entrar no grupo de apoiadores no WhatsApp
+      </a>
+    </div>
+    <div class="cta-foot">
+      <img src="./assets/logo-branco.png" alt="JAIRO">
+      <div class="disc">Documento produzido a partir de fontes públicas oficiais (Diário Oficial Eletrônico do MPSC e DOTC-e/TCE-SC). Cada caso cita seu número de processo para conferência. Casos arquivados são apresentados como tal.</div>
+    </div>
+  </div>
+</section>
+
+</body>
+</html>
