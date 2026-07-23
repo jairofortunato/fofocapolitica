@@ -1,0 +1,20 @@
+[
+ {
+  "i": 16,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 17,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aprova cobrança da taxa do lixo em Sangão, mas pede revisão da lei municipal",
+  "description": "O Tribunal de Contas inspecionou a cobrança de taxa ou tarifa pelos serviços de manejo de resíduos sólidos em Sangão. Os atos analisados foram considerados regulares. O TCE recomendou ao prefeito que avalie a adequação das normas municipais à Lei do Saneamento (Lei n. 11.445/2007, alterada pela Lei n. 14.026/2020), e determinou o arquivamento do processo.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ }
+]

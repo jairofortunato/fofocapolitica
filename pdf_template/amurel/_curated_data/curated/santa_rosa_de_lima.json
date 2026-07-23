@@ -1,0 +1,456 @@
+{
+ "mp": [
+  {
+   "i": 0,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP processa contadora de Santa Rosa de Lima por improbidade em contrato com empresa",
+   "description": "O Ministério Público investigou irregularidades na contratação e no pagamento da empresa Alexandre Silva de Oliveira ME pela Prefeitura de Santa Rosa de Lima, além de suposto enriquecimento ilícito de Suzyane Indiamarha Medeiros, contadora do município. Ao concluir o inquérito, o MP entendeu que houve violação da Lei de Improbidade Administrativa. O caso terminou com o ajuizamento de ação por ato de improbidade contra os envolvidos.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 1,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP vai à Justiça por repasse irregular de verba social a centro comunitário em Santa Rosa de Lima",
+   "description": "O inquérito apurou repasses irregulares de subvenções sociais do Fundo de Desenvolvimento Social (FUNDSOCIAL) ao Centro Comunitário Comunidade de Rio Santo Antonio, em Santa Rosa de Lima. O MP concluiu que houve violação de dispositivos da Lei de Improbidade Administrativa que tratam de dano ao erário. Foi ajuizada ação por ato de improbidade administrativa.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 2,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Empresa faz acordo com MP por irregularidade na compra de escavadeira em Santa Rosa de Lima",
+   "description": "O MP apurou irregularidades na aquisição de escavadeira hidráulica e britador pela Prefeitura de Santa Rosa de Lima. Os sócios-administradores da fornecedora Bruch e Rauber Mecânica Pesada Ltda. aceitaram um Acordo de Não Persecução Cível, e essa parte do inquérito foi arquivada. As demais irregularidades, atribuídas à então prefeita, seguem para Ação Civil Pública por improbidade administrativa.",
+   "status": "🟠 ACNP firmado",
+   "severity": "alta"
+  },
+  {
+   "i": 3,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou contratação de projeto teatral e acúmulo de cargos em Santa Rosa de Lima, mas arquivou",
+   "description": "O Ministério Público apurou uma contratação direta para projeto teatral no município e a situação das servidoras Suely Defrein e Naiana Boeing, sob suspeita de incompatibilidade de horários e cumulação de cargos. A investigação não encontrou irregularidades nem ato de improbidade administrativa. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 4,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 5,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP confirma desvio de função de servidores em Santa Rosa de Lima, mas arquiva após regularização",
+   "description": "O inquérito apurou suposto desvio de função de cinco servidores da Prefeitura de Santa Rosa de Lima e o suposto acúmulo indevido de cargos pela servidora Heloísa Assing. O MP constatou que havia mesmo desvio de função, mas a situação foi regularizada com o retorno dos servidores às lotações previstas em lei. Como não houve dolo nem prejuízo aos cofres públicos, o caso foi arquivado sem responsabilização.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 6,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 7,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cobrou municípios por interrupção de atendimento do SUS no Hospital Santa Teresinha",
+   "description": "O Ministério Público investigou a interrupção do atendimento pelo SUS na Sociedade Beneficente Santa Terezinha (Hospital Santa Teresinha), que atende Santa Rosa de Lima e outros municípios da comarca de Braço do Norte. Ao longo do inquérito, as prefeituras firmaram convênios e passaram a repassar os valores devidos ao hospital, que também manteve seu Portal da Transparência atualizado. Com as irregularidades sanadas, o MP arquivou o caso.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 8,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 9,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo e aplica multa por desmatamento de 10 hectares de Mata Atlântica em Santa Rosa de Lima",
+   "description": "O inquérito apurou a destruição de 10 hectares de vegetação nativa do Bioma Mata Atlântica, em estágio inicial e médio de regeneração, no município de Santa Rosa de Lima, atribuída a Guido Wiemes e Leandro Wiemes. A situação foi regularizada com a assinatura de um Termo de Ajustamento de Conduta, que incluiu a imposição de multa. Sem novas irregularidades, o MP arquivou o inquérito.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 10,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo com Santa Rosa de Lima para execução de estudo técnico socioambiental",
+   "description": "O Ministério Público instaurou inquérito para cobrar do Município de Santa Rosa de Lima a execução de um estudo técnico socioambiental. O caso foi encerrado com a assinatura de um Termo de Ajustamento de Conduta, que passou a reger a obrigação do município. Com o acordo, o MP reconheceu não haver mais interesse em prosseguir com o inquérito.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 11,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 12,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Prefeitura de Santa Rosa de Lima corrige estrutura do Conselho Tutelar após cobrança do MP",
+   "description": "O Ministério Público instaurou inquérito para apurar irregularidades na estrutura física do Conselho Tutelar de Santa Rosa de Lima. Durante a apuração, o município sanou os problemas apontados. Sem motivo para ação judicial, o MP arquivou o caso.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 13,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP obtém ressarcimento parcial em acordo por compra irregular de equipamentos em Santa Rosa de Lima",
+   "description": "O inquérito apurou irregularidades na aquisição de escavadeira hidráulica e britador pela Prefeitura de Santa Rosa de Lima. O sócio-administrador da fornecedora Macromaq Equipamentos Ltda. aceitou um Termo de Ajustamento de Condutas, com ressarcimento parcial do dano nos termos da Lei de Improbidade. As demais irregularidades, atribuídas à então prefeita e aos sócios da Bruch e Rauber Mecânica Pesada, foram apuradas em processo separado. Esta parte do caso foi arquivada.",
+   "status": "🟠 TAC firmado",
+   "severity": "alta"
+  },
+  {
+   "i": 14,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cobrou estrutura adequada para o Conselho Tutelar de Santa Rosa de Lima e município se ajustou",
+   "description": "A partir de representação do CMDCA, o Ministério Público apurou possível irregularidade na estrutura física do Conselho Tutelar de Santa Rosa de Lima, em desacordo com a Lei Municipal n. 2.253/2019. O município corrigiu os problemas durante a apuração. O inquérito foi arquivado por não haver fundamento para ação judicial.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 15,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 16,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 17,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Santa Rosa de Lima regulariza fiscal de vigilância sanitária após atuação do MP",
+   "description": "O inquérito acompanhou o cumprimento, pelo Município de Santa Rosa de Lima, da exigência de manter um cargo de Fiscal de Vigilância Sanitária, prevista em deliberação estadual. Durante a apuração houve a contratação de uma servidora para a função e o afastamento do servidor anterior. Com a irregularidade sanada, o MP arquivou o caso.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 18,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 19,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 20,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Após cobrança do MP, Santa Rosa de Lima adapta posto de saúde às regras de acessibilidade",
+   "description": "O Ministério Público acompanhou as condições de acessibilidade da Unidade Básica de Saúde de Santa Rosa de Lima. O município fez as adequações necessárias no prédio. Com a situação resolvida, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 21,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Secretaria de Saúde de Santa Rosa de Lima regulariza registro no CRM após inquérito do MP",
+   "description": "A partir de comunicação do setor de fiscalização do Conselho Regional de Medicina de Santa Catarina, o MP apurou a falta de inscrição da Secretaria de Saúde de Santa Rosa de Lima no CRM/SC. A inscrição foi regularizada durante a apuração. O procedimento foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 22,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo para que Santa Rosa de Lima elabore seu Plano Diretor",
+   "description": "O Ministério Público instaurou procedimento para exigir do Município de Santa Rosa de Lima a elaboração do Plano Diretor, instrumento que organiza o crescimento e o uso do solo na cidade. O município firmou um Termo de Ajustamento de Conduta assumindo o compromisso. Com o acordo assinado, o caso foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 23,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 24,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP processa Santa Rosa de Lima para garantir psicólogos e serviço social nas escolas",
+   "description": "O Ministério Público ajuizou Ação Civil Pública contra o Município de Santa Rosa de Lima cobrando o cumprimento da Lei n. 13.935/2019, que obriga a prestação de serviços de psicologia e de serviço social na rede pública de ensino. A ação pede provimento judicial que obrigue o município a cumprir a lei. O processo está em curso na Justiça.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 25,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP checou segurança de estádio em Santa Rosa de Lima e encontrou tudo em ordem",
+   "description": "O inquérito apurou as condições de segurança e a infraestrutura de estádio de futebol em Santa Rosa de Lima, sob a ótica da defesa do consumidor. O MP verificou que os alvarás de funcionamento e o atestado do Corpo de Bombeiros estavam válidos. Sem irregularidades, o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 26,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 27,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Santa Rosa de Lima exonera servidor temporário após recomendação do MP",
+   "description": "O Ministério Público apurou a regularidade de contratação temporária feita pelo Município de Santa Rosa de Lima, envolvendo Gilmar Hanck da Silva e Luana Fernandes Delgado. O MP expediu recomendação, que foi integralmente acatada pela prefeitura, com a exoneração do servidor temporário. Com isso, o inquérito foi arquivado.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  }
+ ],
+ "tce": [
+  {
+   "i": 0,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE suspende pregão de software em Santa Rosa de Lima por indícios de direcionamento",
+   "description": "O Tribunal de Contas concedeu medida cautelar determinando ao prefeito Salésio Wiemes a sustação do Pregão Presencial n. 39/2022, que contratava plataforma web de gestão pública. O TCE apontou excesso de detalhamentos no edital, com indícios de direcionamento e restrição à participação de concorrentes. O prefeito foi chamado em audiência para se justificar, corrigir o edital ou anular a licitação.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 1,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 2,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 3,
+   "tipo": "tce",
+   "keep": true,
+   "title": "Santa Rosa de Lima anula pregão de software e TCE recomenda que prefeito evite editais restritivos",
+   "description": "A empresa Betha Sistemas representou ao Tribunal de Contas contra o Pregão n. 31/2022 da Prefeitura de Santa Rosa de Lima, para contratação de plataforma web de gestão. Como a prefeitura anulou o edital, o TCE arquivou a representação por perda de objeto. Ainda assim, recomendou ao prefeito Salésio Wiemes e ao pregoeiro Kathior José Machado que, em futuros editais, evitem excessos de detalhamento que restrinjam a concorrência.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 4,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE emite parecer pela rejeição das contas de 2021 do prefeito de Santa Rosa de Lima",
+   "description": "O Tribunal de Contas analisou a prestação de contas do prefeito de Santa Rosa de Lima referente ao exercício de 2021. O resultado foi parecer prévio pela rejeição das contas. O parecer é encaminhado à Câmara de Vereadores, a quem cabe o julgamento final.",
+   "status": "🔴 parecer pela rejeição",
+   "severity": "media"
+  },
+  {
+   "i": 5,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE manda parar pregão de software de Santa Rosa de Lima após denúncia de direcionamento",
+   "description": "Após representação da empresa Betha Sistemas, o Tribunal de Contas concedeu cautelar determinando ao prefeito Salésio Wiemes e ao pregoeiro Kathior José Machado a sustação do Pregão Presencial n. 31/2022. O TCE apontou falta de justificativa para o excesso de detalhamentos do edital, com indícios de direcionamento e restrição à concorrência. O prefeito foi convocado a apresentar justificativas ou anular a licitação.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 6,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE emite parecer pela rejeição das contas de 2022 do prefeito de Santa Rosa de Lima",
+   "description": "O Tribunal de Contas apreciou a prestação de contas do prefeito de Santa Rosa de Lima relativa ao exercício de 2022 e concluiu por parecer prévio pela rejeição. É o segundo ano seguido em que as contas do município recebem parecer desfavorável. O julgamento definitivo cabe à Câmara de Vereadores.",
+   "status": "🔴 parecer pela rejeição",
+   "severity": "media"
+  },
+  {
+   "i": 7,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE recomenda aprovação das contas de 2024 do prefeito de Santa Rosa de Lima",
+   "description": "O Tribunal de Contas analisou a prestação de contas do prefeito de Santa Rosa de Lima referente ao exercício de 2024. O parecer prévio foi pela aprovação das contas. Cabe à Câmara de Vereadores o julgamento final.",
+   "status": "🟢 parecer pela aprovação",
+   "severity": "media"
+  },
+  {
+   "i": 8,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multa prefeito e secretária de Santa Rosa de Lima por contrato com empresa da filha dela",
+   "description": "O Tribunal de Contas julgou procedente representação sobre os Pregões n. 02/2018 e 02/2019, para fornecimento de medicamentos de uso emergencial em Santa Rosa de Lima. O TCE concluiu que houve contratação irregular da empresa Suziani Baumann - ME, cuja proprietária é filha da Secretária Municipal de Saúde, além de cláusulas que limitavam a competição nos editais. O prefeito Salésio Wiemes e a secretária Siuzete Vandresen Baumann foram multados em R$ 1.684,66 cada.",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta"
+  },
+  {
+   "i": 9,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 10,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE confirma que Santa Rosa de Lima comprou álcool em gel de empresa da filha da secretária de Saúde",
+   "description": "A partir de comunicação à Ouvidoria do Tribunal de Contas, o TCE julgou procedente a representação sobre a contratação da empresa Soul Saneantes Produtos de Limpeza Ltda. para fornecer álcool ao Município de Santa Rosa de Lima. A sócia-proprietária da empresa é filha da Secretária de Saúde e Meio Ambiente do município, o que configura impedimento de contratar previsto na Lei Orgânica Municipal. A decisão foi comunicada ao prefeito e ao controle interno.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "alta"
+  },
+  {
+   "i": 11,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE recomenda aprovação das contas de 2023 do prefeito de Santa Rosa de Lima",
+   "description": "O Tribunal de Contas apreciou a prestação de contas do prefeito de Santa Rosa de Lima referente ao exercício de 2023. O parecer prévio foi pela aprovação. O julgamento final cabe à Câmara de Vereadores.",
+   "status": "🟢 parecer pela aprovação",
+   "severity": "media"
+  },
+  {
+   "i": 12,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE condena servidor e contadora de Santa Rosa de Lima a devolver R$ 5,6 mil da Saúde",
+   "description": "O Tribunal de Contas julgou irregulares as contas de adiantamentos de recursos concedidos ao servidor Jardel Mendes na Secretaria Municipal de Saúde de Santa Rosa de Lima, entre março e dezembro de 2020. Foram apontados gastos sem comprovação do objeto das viagens, uso em finalidade diferente da autorizada e documentos inaptos para comprovar as despesas. Jardel Mendes e a contadora Suzyane Indiamarha Medeiros Feldhaus foram condenados solidariamente a devolver R$ 5.650,38 aos cofres públicos.",
+   "status": "⬛ julgado irregular",
+   "severity": "alta"
+  },
+  {
+   "i": 13,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 14,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE considera regulares licenças-prêmio em Santa Rosa de Lima e rejeita representação",
+   "description": "O Tribunal de Contas analisou representação sobre a concessão de gratificação de habilitação e licença-prêmio no Município de Santa Rosa de Lima, envolvendo o prefeito Salésio Wiemes e o servidor Sebastião Vanderlinde. O TCE julgou a representação improcedente: as licenças concedidas em 2020 não estavam prescritas, porque a lei municipal permite acumular até três licenças-prêmio. O tribunal apenas recomendou que o município ajuste a legislação para eliminar ambiguidades, e arquivou o processo.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 15,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE recomenda aprovação das contas de 2020 do prefeito de Santa Rosa de Lima",
+   "description": "O Tribunal de Contas apreciou a prestação de contas do prefeito de Santa Rosa de Lima referente ao exercício de 2020. O parecer prévio foi pela aprovação das contas. O julgamento definitivo cabe à Câmara de Vereadores.",
+   "status": "🟢 parecer pela aprovação",
+   "severity": "media"
+  },
+  {
+   "i": 16,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 17,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 18,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 19,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE nega recurso e mantém condenação da contadora de Santa Rosa de Lima",
+   "description": "A contadora Suzyane Indiamarha Medeiros Feldhaus recorreu do Acórdão n. 14/2022, que a condenou solidariamente a devolver recursos usados irregularmente em adiantamentos na Secretaria de Saúde de Santa Rosa de Lima. O Tribunal de Contas negou provimento ao recurso de reconsideração. A condenação foi mantida na íntegra.",
+   "status": "⬛ julgado irregular",
+   "severity": "alta"
+  },
+  {
+   "i": 20,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 21,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  }
+ ]
+}

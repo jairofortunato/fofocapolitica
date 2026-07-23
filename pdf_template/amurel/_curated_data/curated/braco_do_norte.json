@@ -1,0 +1,3363 @@
+{
+ "mp": [
+  {
+   "i": 0,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou ordem de convocação em processo seletivo de Braço do Norte e arquivou",
+   "description": "O Ministério Público apurou irregularidade na ordem de convocação de aprovados no Processo Seletivo 01/2023 da Prefeitura de Braço do Norte, em caso envolvendo Marisa Leandro dos Santos. A investigação não encontrou enriquecimento ilícito, dano ao erário nem violação a princípios da administração. O inquérito civil foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 1,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Após recomendação do MP, Grão Pará corrigiu acúmulo de cargos e desvio de função",
+   "description": "O Ministério Público investigou acumulação indevida de cargos, desvio de função e concessão de função gratificada envolvendo o Município de Grão Pará e a servidora Milene Marques da Corejo. O MP expediu recomendação, que foi acatada pelo município. Como não se constatou dolo nem ato de improbidade, o caso foi arquivado.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 2,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Prefeitura de Braço do Norte acatou recomendação do MP sobre diárias e adiantamentos",
+   "description": "O Ministério Público apurou a concessão de adiantamentos e diárias a servidores da Prefeitura de Braço do Norte. Não houve comprovação de enriquecimento ilícito nem de ato de improbidade administrativa. A prefeitura acatou a recomendação expedida pelo MP e o inquérito foi arquivado.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 3,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou show do Raça Negra contratado sem licitação em Braço do Norte e arquivou",
+   "description": "O Ministério Público investigou suposto ato de improbidade do prefeito de Braço do Norte na contratação direta, por inexigibilidade de licitação, da empresa Evolution Produtora de Eventos para o show da banda Raça Negra no aniversário de 67 anos do município, em outubro de 2022. As irregularidades não foram confirmadas. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 4,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou contratação de consultoria por Grão Pará e arquivou o caso",
+   "description": "O Ministério Público apurou irregularidade na contratação da empresa C&S Consultoria em Gestão Ltda. pelo Município de Grão Pará. A apuração não comprovou enriquecimento ilícito, dano ao erário nem violação aos princípios da administração pública. O inquérito civil foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 5,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Braço do Norte acatou recomendação do MP sobre controle de jornada de servidores",
+   "description": "O Ministério Público apurou descumprimento de carga horária e ausência de controle de jornada de servidores no Município de Braço do Norte. Não se comprovou enriquecimento ilícito, dano ao erário ou ato de improbidade. O município acatou a recomendação do MP e o caso foi arquivado.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 6,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou repasse do Fundosocial à Associação Amigos da Música e não achou irregularidade",
+   "description": "O Ministério Público investigou eventual repasse irregular de subvenções sociais do Fundosocial à Associação dos Amigos da Música, de Braço do Norte. A apuração concluiu pela regularidade no uso da verba pública, sem comprovação de ato doloso, enriquecimento ilícito ou dano ao erário. O caso foi encerrado sem responsabilização.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 7,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou ex-gestor de Grão Pará após rejeição de contas de 2016 e arquivou",
+   "description": "O Ministério Público apurou possível improbidade de Amilton Ascari relacionada à rejeição das contas de 2016 da Prefeitura de Grão Pará. A investigação não comprovou enriquecimento ilícito, dano ao erário nem violação aos princípios administrativos. O inquérito civil foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 8,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou suspeita de superfaturamento em licitações de Braço do Norte e arquivou",
+   "description": "O Ministério Público investigou irregularidades em processos licitatórios do Município de Braço do Norte, com suspeita de superfaturamento de preços. As irregularidades não foram evidenciadas e não se configurou ato de improbidade administrativa. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 9,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Segunda apuração do MP sobre superfaturamento em licitações de Braço do Norte foi arquivada",
+   "description": "Em outro inquérito civil sobre o mesmo tema, o Ministério Público apurou irregularidades e suposto superfaturamento de preços em licitações do Município de Braço do Norte. As irregularidades não foram evidenciadas e não houve ato de improbidade. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 10,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou suspeita de desvio no Hospital Santa Teresinha, mas arquivou o caso",
+   "description": "O Ministério Público apurou notícias de desvio de dinheiro público, malversação de verbas em contratação de serviços e possível favorecimento de uma construtora e da então diretora da Sociedade Beneficente Santa Teresinha, que mantém o Hospital Santa Teresinha em Braço do Norte. A apuração não comprovou favorecimento nem irregularidade na aplicação de convênios estaduais, e apontou que as verbas eram de natureza privada da entidade. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 11,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Braço do Norte acatou recomendação do MP sobre compra de medicamentos sem licitação",
+   "description": "O Ministério Público apurou dispensa irregular de licitação na aquisição de medicamentos para acolhidos no CIACA pela Prefeitura de Braço do Norte. Não houve comprovação de enriquecimento ilícito nem de ato de improbidade. A recomendação do MP foi acatada e o inquérito, arquivado.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 12,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou desvio de função e horas extras em Braço do Norte; recomendação foi acatada",
+   "description": "O Ministério Público investigou desvio de função e pagamento de horas extras a servidores do Município de Braço do Norte. A apuração não identificou dolo nem ato de improbidade administrativa. A recomendação expedida pelo MP foi acatada pelo município e o caso foi arquivado.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 13,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 14,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 15,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 16,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou prefeito de Braço do Norte por direitos de servidores com nível superior",
+   "description": "O Ministério Público apurou supostos atos de improbidade do prefeito Roberto Kuerten Marcelino por não observar direitos devidos a servidores efetivos com ensino superior em Braço do Norte. A investigação concluiu pela ausência de ato de improbidade administrativa. O inquérito civil foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 17,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 18,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP processa por improbidade contratos de Braço do Norte e São Ludgero com FEPESE e Publicabr",
+   "description": "O Ministério Público investigou as contratações das empresas FEPESE e Publicabr Assessoria e Consultoria pelos municípios de Braço do Norte e São Ludgero, em 2014, 2015 e 2019, para compensação tributária de valores repassados à União. Ao final, o MP decidiu ajuizar ação por ato de improbidade administrativa e também ação de ressarcimento dos danos causados ao erário. Os processos judiciais foram propostos e ainda não há decisão informada.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 19,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP vai à Justiça por suspeita de licitação direcionada de semáforos em Braço do Norte",
+   "description": "O Ministério Público apurou suposto direcionamento do objeto licitado na Concorrência Pública 01/2020 do Município de Braço do Norte, voltada à contratação da empresa SRB - Sinal Rota do Brasil (atual Dygi Comunicação), fornecedora de semáforos e serviços viários. Concluída a apuração, o MP ajuizou ação por ato de improbidade administrativa por violação ao artigo 11, inciso V, da lei de improbidade. O caso está agora na Justiça.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 20,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 21,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 22,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP processa por improbidade repasse do Fundosocial à Associação Amigos dos Amigos",
+   "description": "O Ministério Público apurou repasse irregular de subvenções sociais do Fundo de Desenvolvimento Social (Fundosocial) à Associação Amigos dos Amigos, sediada em Braço do Norte. Ao concluir o inquérito, o MP ajuizou ação civil pública por ato de improbidade administrativa, apontando dano ao erário. O caso está na Justiça.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 23,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP leva à Justiça repasse do Fundosocial à Associação Desportiva e Cultural Unidos",
+   "description": "O Ministério Público investigou o repasse irregular de subvenções sociais do Fundosocial à Associação Desportiva e Cultural Unidos, de Braço do Norte. Concluída a apuração, o MP ajuizou ação por ato de improbidade administrativa por dano ao erário e violação a princípios da administração. O processo corre na Justiça.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 24,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP processa Associação São Cristóvão por repasse irregular do Fundosocial",
+   "description": "O Ministério Público apurou repasse irregular de subvenções sociais do Fundosocial à Associação São Cristóvão Futebol Clube, sediada em Braço do Norte. Ao final do inquérito, o MP ajuizou ação por ato de improbidade administrativa, apontando dano ao erário. O caso aguarda julgamento na Justiça.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 25,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP processa Associação de Servidores de Braço do Norte por verba do Fundosocial",
+   "description": "O Ministério Público investigou o repasse irregular de subvenções sociais do Fundosocial à Associação dos Servidores Municipais da Comarca de Braço do Norte. Concluída a apuração, o MP ajuizou ação por ato de improbidade administrativa por dano ao erário. O processo está na Justiça.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 26,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP leva à Justiça repasse do Fundosocial à Associação Tigres do Sul",
+   "description": "O Ministério Público apurou repasse irregular de subvenções sociais do Fundosocial à Associação Desportiva Social Tigres do Sul, de Braço do Norte. Ao concluir o inquérito, o MP ajuizou ação por ato de improbidade administrativa, apontando dano ao erário e violação a princípios da administração. O caso corre na Justiça.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 27,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 28,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou licitações de material esportivo em Braço do Norte e não viu improbidade",
+   "description": "A partir de denúncia sigilosa, o Ministério Público investigou supostas irregularidades em processos licitatórios de materiais esportivos do Município de Braço do Norte. A apuração concluiu pela ausência de ato de improbidade administrativa e de dolo dos envolvidos. O caso foi encerrado sem responsabilização.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 29,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Servidor de Braço do Norte foi investigado por uso de máquina pública em terreno particular, mas MP arquivou",
+   "description": "O Ministério Público apurou se o servidor municipal Lourival da Silva Marcílio teria usado maquinário público para beneficiar propriedade particular de Zélia Della Giustina, em Braço do Norte. A investigação concluiu que não houve violação aos princípios da administração pública. O inquérito civil foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 30,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 31,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 32,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 33,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 34,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 35,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 36,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Médico de Braço do Norte foi investigado por atender consultório no expediente; MP arquivou",
+   "description": "O Ministério Público apurou se o servidor João Eugênio Henrique Heidemann e Silva, médico do Município de Braço do Norte, atuava em consultório particular durante o horário de expediente público. A investigação não constatou atos ímprobos, dolo ou prejuízo ao erário. O inquérito civil foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 37,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP processa centro comunitário de Santa Rosa de Lima por verba do Fundosocial",
+   "description": "O Ministério Público apurou repasse irregular de subvenções sociais do Fundosocial ao Centro Comunitário Comunidade de Rio Santo Antônio, em Santa Rosa de Lima. Concluída a apuração, o MP ajuizou ação por ato de improbidade administrativa, apontando dano ao erário. O caso está na Justiça.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 38,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Servidores da Funbama foram investigados pelo MP por dano ambiental, mas caso foi arquivado",
+   "description": "O Ministério Público apurou possível ato de improbidade contra os princípios da administração por parte de servidores da Funbama, envolvendo Ana Valéria Jesus de Souza e Elton Nunes da Silva Júnior. A apuração não identificou erro grosseiro nem configurou improbidade administrativa, e as medidas para apurar o dano ambiental já estavam em curso em outra frente. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 39,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP leva à Justiça uso de subvenção pela Associação Amigos Eletrofest, de Braço do Norte",
+   "description": "O Ministério Público apurou o repasse e a aplicação indevida de recursos de subvenção social à Associação Desportiva e Social Amigos Eletrofest, em Braço do Norte. Ao concluir o inquérito, o MP ajuizou ação por ato de improbidade administrativa, apontando dano ao erário. O processo corre na Justiça.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 40,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP processa Associação Real Angel's por aplicação indevida de subvenção social",
+   "description": "O Ministério Público investigou o repasse e a aplicação indevida de recursos de subvenção social à Associação de Ação Social e Desportiva Real Angel's, de Braço do Norte. Concluída a apuração, o MP ajuizou ação por ato de improbidade administrativa por dano ao erário. O caso está na Justiça.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 41,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP processa Associação Esportiva e Recreativa Uruguaia por subvenção aplicada indevidamente",
+   "description": "O Ministério Público apurou o repasse e a aplicação indevida de recursos de subvenção social à Associação Esportiva e Recreativa Uruguaia, em Braço do Norte. Ao final da investigação, o MP ajuizou ação por ato de improbidade administrativa, apontando dano ao erário. O processo tramita na Justiça.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 42,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 43,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP leva à Justiça uso de subvenção social pela Acovalle, em Braço do Norte",
+   "description": "O Ministério Público apurou o repasse e a aplicação indevida de recursos de subvenção social à Associação Comunitária do Valle (Acovalle), de Braço do Norte. Concluída a apuração, o MP ajuizou ação por ato de improbidade administrativa por dano ao erário. O caso aguarda julgamento na Justiça.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 44,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 45,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 46,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 47,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 48,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Servidor de Braço do Norte foi investigado por desvio de função, mas MP não confirmou",
+   "description": "A partir de representação sigilosa, o Ministério Público apurou se Sidnei Walter, empregado de serviços gerais do Município de Braço do Norte, estaria atuando como motorista de maquinário pesado. A investigação não constatou desvio de função nem assédio moral por parte dos superiores, e não identificou dolo ou prejuízo ao erário. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 49,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 50,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 51,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 52,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou pregão de leiloeiro em Braço do Norte; prefeitura acatou recomendação",
+   "description": "O Ministério Público investigou o Pregão Eletrônico 44/PMBN/2022, para contratação de leiloeiro em Braço do Norte, diante de suspeita de concorrência injusta entre interessados, possível enriquecimento ilícito e dano ao erário, em caso envolvendo Paulo Roberto Worm. A recomendação do MP foi acatada e a apuração não confirmou ato ímprobo. O inquérito foi arquivado por falta de justa causa para novas providências.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 53,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 54,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma aditivo a acordo ambiental sobre construção em área protegida do Rio Braço do Norte",
+   "description": "O Ministério Público apurou irregularidades na construção de uma edificação em Área de Preservação Permanente às margens do Rio Braço do Norte, no Município de São Ludgero, além da falta de diagnóstico socioambiental no município. O caso já havia sido arquivado, mas foi desarquivado para que se firmasse termo aditivo ao Termo de Ajustamento de Conduta, adequando as obrigações do município à legislação ambiental. O acordo seguiu para nova homologação.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 55,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 56,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP vai à Justiça contra loteamento clandestino 'Geraldão' e pede demolição de 12 casas",
+   "description": "O Ministério Público apurou a implantação de um loteamento clandestino na Rodovia SC-370, no Alto Travessão, em Braço do Norte, por José Geraldo Rech, com intervenção em Área de Preservação Permanente. O MP ajuizou ação civil pública pedindo a demolição de 12 construções em APP, a recuperação da área degradada, a regularização fundiária dos lotes em favor dos compradores e indenização pelos danos ambientais. A ação está em curso na Justiça.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 57,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 58,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Câmara de Santa Rosa de Lima firma acordo com MP após denúncia sobre assessoria contábil",
+   "description": "O Ministério Público apurou denúncia de irregularidade na contratação de serviços de assessoria contábil pela Câmara Municipal de Vereadores de Santa Rosa de Lima, em caso envolvendo Laurimar Gross. O caso foi resolvido com a celebração de um Termo de Ajustamento de Conduta. Com o acordo firmado, o inquérito foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 59,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Após ação do MP, municípios retomam repasses e Hospital Santa Terezinha segue no SUS",
+   "description": "O Ministério Público apurou a interrupção do atendimento pelo SUS no Hospital Santa Terezinha, mantido pela Sociedade Beneficente Santa Terezinha e usado por Braço do Norte, Grão Pará, Santa Rosa de Lima, São Ludgero e Rio Fortuna. Durante a apuração, os municípios da comarca sanaram as irregularidades, firmaram convênios e voltaram a repassar valores ao hospital, que passou a manter seu portal da transparência atualizado. Sem motivo para ação judicial, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 60,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou reclamações sobre sinal da TIM em Santa Rosa de Lima e arquivou o caso",
+   "description": "O Ministério Público investigou a má qualidade dos serviços de telefonia móvel prestados pela TIM aos moradores de Santa Rosa de Lima, a partir de questionamento da Câmara de Vereadores. A irregularidade noticiada não foi comprovada. Sem fundamento para ação judicial, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 61,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 62,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo e aplica multa por loteamento clandestino em Grão Pará",
+   "description": "O Ministério Público apurou um possível loteamento clandestino na localidade de Rio Pequeno, em Grão Pará, sob responsabilidade de Paulo Meurer. A situação foi regularizada e o caso terminou com a formalização de um Termo de Ajustamento de Conduta, com imposição de multa. Sem novas irregularidades, o inquérito foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 63,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 64,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou aprovações em concurso de agente de saúde em Braço do Norte; falha foi corrigida",
+   "description": "A partir de representação sigilosa, o Ministério Público investigou supostas irregularidades na aprovação de candidatos ao cargo de Agente Comunitário de Saúde da ESF Centro, no Concurso Público 01/2023 de Braço do Norte. Não se constatou ato ímprobo, dolo ou prejuízo ao erário, e a irregularidade foi sanada com o acatamento da recomendação do MP. O inquérito foi arquivado.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 65,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 66,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 67,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou lançamento de esgoto em rua de Grão Pará e caso foi regularizado",
+   "description": "O Ministério Público investigou possível poluição causada pelo lançamento de esgoto sanitário na Rua Geraldo Heidemann, no centro de Grão Pará, atribuída a Odair Brolez Antonello. A situação foi regularizada durante a apuração e não foram identificadas novas irregularidades. O inquérito civil foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 68,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 69,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Braço do Norte firma acordo com MP sobre contratações temporárias e terceirizados",
+   "description": "O Ministério Público apurou irregularidades na legislação municipal e na contratação de servidores temporários e de serviços terceirizados pelo Poder Executivo de Braço do Norte. O caso foi resolvido com a celebração de um Termo de Ajustamento de Conduta entre o MP e a prefeitura. Firmado o acordo, o inquérito foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 70,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 71,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 72,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 73,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 74,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 75,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo e multa dono de granja por despejo de dejetos em córregos em Rio Fortuna",
+   "description": "O Ministério Público apurou poluição causada por Vilmar Heidemann pelo despejo de insumos de uma granja de frangos em córregos, além de construção em Área de Preservação Permanente na Estrada Geral Santa Rosa de Lima, no bairro Rio Bravo Baixo, em Rio Fortuna. O caso foi resolvido com a formalização de um Termo de Ajustamento de Conduta e imposição de multa. Sem novas irregularidades, o inquérito foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 76,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo com multa por criação de peixes sem licença e desvio de curso d'água",
+   "description": "O Ministério Público apurou possível dano ambiental praticado por Adilson Warmling, que mantinha atividade de criação de peixes sem licença ambiental e desviou um curso d'água. O caso terminou com a assinatura de um Termo de Ajustamento de Conduta para regularização, com imposição de multa. Sem novas irregularidades, o inquérito foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 77,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 78,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cobra Braço do Norte por telefones fora do ar e dificuldade de contato com a prefeitura",
+   "description": "O Ministério Público apurou deficiências no atendimento ao público pela Prefeitura de Braço do Norte, especialmente no Setor Administrativo, na Secretaria de Infraestrutura e no Procon, após reclamações sobre instabilidade das linhas telefônicas e dificuldade de contato com os serviços municipais. Foi instaurado procedimento para acompanhar e fiscalizar as providências do município. A prefeitura comprovou a adoção de medidas administrativas para regularizar o sistema de telefonia, incluindo um processo de migração, mas o texto publicado está truncado e não deixa claro o desfecho final.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 79,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou loteamento irregular em Braço do Norte e não confirmou parcelamento nem dano",
+   "description": "O Ministério Público apurou suposto parcelamento irregular de solo por Arno Antonio Meurer e Regina Soethe Meurer, em Braço do Norte, com intervenção em área de preservação permanente. A apuração concluiu que não houve parcelamento irregular nem danos ambientais, e o inquérito foi arquivado. O MP, porém, abriu novo procedimento para apurar a falta de licenciamento ambiental de uma empresa instalada no local.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 80,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou empresa de concreto em área protegida em Rio Fortuna; caso foi regularizado",
+   "description": "O Ministério Público investigou a instalação da empresa Concretos Willemann, na Rua Santa Rosa, em Rio Fortuna, em Área de Preservação Permanente e sem licença ambiental. A situação foi regularizada, com oferta de transação penal na esfera criminal, e o inquérito civil foi arquivado. O MP determinou a abertura de procedimento para acompanhar o cumprimento da transação penal.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 81,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 82,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Após ação do MP, Braço do Norte suspende vaga de concurso com exigência restritiva",
+   "description": "O Ministério Público apurou, em caso envolvendo Egon A. Telles, um edital de concurso público de Braço do Norte com previsão restritiva que feria os princípios da razoabilidade e do amplo acesso a cargos públicos. O concurso foi suspenso para a vaga em questão e a legislação municipal foi alterada. Sanada a irregularidade, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 83,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 84,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 85,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 86,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 87,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 88,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 89,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Câmara de Grão Pará acata recomendação do MP após falta de atas e pareceres genéricos",
+   "description": "O Ministério Público apurou falhas no processo legislativo da Câmara Municipal de Grão Pará, com ausência de atas das reuniões de comissões e pareceres jurídicos genéricos nos projetos de lei. O MP expediu a Recomendação 0002/2026, cobrando a observância das formalidades legais e regulamentares. A Casa Legislativa acatou a recomendação.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 90,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 91,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 92,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 93,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 94,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 95,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 96,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 97,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou extração de areão contratada por Grão Pará; área foi licenciada e caso arquivado",
+   "description": "O Ministério Público investigou possível dano ambiental causado pela extração de areão, por empresas privadas, em barreira de Valmor Borgheti contratada pelo Município de Grão Pará. Durante a apuração, a atividade foi regularizada e o licenciamento ambiental foi obtido. O inquérito foi arquivado, com o plano de recuperação da área degradada seguindo acompanhado em procedimento próprio.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 98,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou falhas na coleta seletiva de Grão Pará e não encontrou irregularidade",
+   "description": "O Ministério Público apurou suposta omissão do Município de Grão Pará em ações de coleta seletiva de resíduos domésticos e materiais recicláveis. A apuração concluiu que a atuação da empresa responsável estava dentro do esperado e que o município realizava campanhas de conscientização sobre reciclagem. Sem irregularidades a sanar, o procedimento foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 99,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cobrou Braço do Norte por vazamento de esgoto em residência e problema foi resolvido",
+   "description": "A partir de comunicação da Vigilância Sanitária, o Ministério Público apurou a atuação do Município de Braço do Norte diante de um vazamento de esgoto em residência na Rua Adolfo Jerônimo da Silva. A situação foi regularizada durante a apuração e não surgiram novas irregularidades. O inquérito foi arquivado, e a questão mais ampla do esgoto na cidade segue acompanhada pela Promotoria Regional do Meio Ambiente.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 100,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 101,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cobrou Braço do Norte por falhas na cobrança do ISS e em alvarás; prefeitura reorganizou setores",
+   "description": "O Ministério Público apurou possível negligência da Prefeitura de Braço do Norte na gestão dos setores de Tributação e Planejamento Urbano, sobretudo na cobrança do ISS e na expedição de alvarás de construção e habite-se, em caso envolvendo Hermann Joseph Brauan. Durante a apuração, o município implantou fluxograma de trabalho no setor de tributação, integrou as secretarias envolvidas e alocou servidores. Como não se constatou ato ímprobo, dolo ou prejuízo ao erário, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 102,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou acúmulo de funções por servidores em Braço do Norte e arquivou o caso",
+   "description": "A partir de denúncia anônima, o Ministério Público apurou suposto acúmulo irregular de funções remuneradas pelos servidores Patrícia Alexandra Domingues Teles, Juliana Spiecker da Silva e Fabiano Pires de Oliveira na Prefeitura de Braço do Norte. Durante a apuração, a candidata aprovada para o cargo efetivo de Analista de Licitações foi nomeada. Não se constatou ato ímprobo, dolo ou prejuízo ao erário, e o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 103,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP analisou lei de Braço do Norte sobre água e luz sem habite-se e não viu ilegalidade",
+   "description": "O Ministério Público apurou possíveis vícios na lei municipal de Braço do Norte que trata das ligações de água e energia em imóveis sem alvará de construção ou habite-se. A análise não identificou irregularidade nem ilegalidade na norma. Sem novas representações, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 104,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 105,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP encerra apuração de intervenção em área protegida após município processar responsável",
+   "description": "O Ministério Público investigou intervenção ilegal em área de preservação permanente atribuída a Rômulo Salvágio, que descumpriu obrigação assumida em procedimento administrativo. Diante do descumprimento, o Município de Braço do Norte ajuizou ação contra ele. Como o caso já estava na Justiça, o MP arquivou o inquérito e passará a atuar no processo como fiscal da lei.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 106,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou granja de suínos sem licença em área protegida e encerrou o caso",
+   "description": "O Ministério Público investigou a falta de licença ambiental para criação de suínos na granja de Valísio Rohling e possíveis danos por construção irregular em área de preservação permanente. Durante a apuração, a suinocultura foi descontinuada e a piscicultura remanescente ficou em APP já consolidada, com a faixa mínima preservada. Sem justa causa para novas medidas, o inquérito foi encerrado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 107,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 108,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Após cobrança do MP, Braço do Norte regulariza psicólogos e assistentes sociais nas escolas",
+   "description": "O Ministério Público apurou se o Município de Braço do Norte cumpria a Lei 13.935/2019, que obriga a prestação de serviços de psicologia e serviço social nas redes públicas de educação básica por equipes multiprofissionais. O município sanou as irregularidades durante a apuração. Sem fundamento para ação judicial, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 109,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 110,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou prédio da HM Engenharia à beira de córrego em Braço do Norte e arquivou",
+   "description": "O Ministério Público investigou possível construção em área de preservação permanente, às margens de córrego na Rua Santa Augusta, em Braço do Norte, sob responsabilidade da HM Engenharia e Incorporadora. O órgão ambiental considerou a metragem de proteção prevista na Lei de Parcelamento do Solo e a área foi equiparada a área urbana consolidada, sem danos ambientais. Sem medidas a tomar, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 111,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou construção à margem de córrego em Braço do Norte e não achou dano ambiental",
+   "description": "O Ministério Público apurou possível edificação em área de preservação permanente, às margens de córrego na Rua Wilson Westphal, em Braço do Norte, de responsabilidade de Manoel José Bernardo. O órgão ambiental aplicou a metragem prevista na Lei de Parcelamento do Solo e a área foi equiparada a área urbana consolidada, sem danos ambientais. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 112,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou prédio da Perfare em área protegida em Braço do Norte e arquivou o caso",
+   "description": "O Ministério Público investigou a construção de um prédio em área de preservação permanente, às margens de córrego na Rua Manoel Antônio Machado, bairro São Basílio, em Braço do Norte, sob responsabilidade da Perfare Construções. O órgão ambiental considerou a metragem prevista na Lei de Parcelamento do Solo e a área foi equiparada a área urbana consolidada, sem danos ambientais. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 113,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 114,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou galpão de empresa de limpeza urbana em área protegida e arquivou o caso",
+   "description": "O Ministério Público investigou a construção de um galpão da Racli Limpeza Urbana em Área de Preservação Permanente, sem as licenças e condições necessárias para funcionamento, em caso que envolveu também a Funbama. O órgão ambiental aplicou a metragem prevista na Lei de Parcelamento do Solo e a área foi equiparada a área urbana consolidada, sem danos ambientais. Aplicando o princípio da razoabilidade ao caso, o MP arquivou o inquérito.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 115,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 116,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou condições de agentes de apoio em creches de Braço do Norte e arquivou",
+   "description": "O Ministério Público investigou supostas irregularidades nas condições de trabalho dos Agentes de Apoio à Educação nos centros de educação infantil de Braço do Norte, em caso que envolveu as servidoras Layse Heidemann e Alice Voss. A apuração não constatou irregularidade na composição das salas do CEI Bela Vista quanto à lotação das agentes de apoio, nem atos ímprobos. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 117,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 118,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP vai à Justiça contra aviário da Granja Locks construído em área de preservação",
+   "description": "O Ministério Público apurou intervenção irregular em área de preservação permanente pela construção de um aviário da Granja Locks, na localidade de São Januário, em Braço do Norte, além da canalização indevida de um curso d'água. O MP ajuizou ação civil pública sobre os mesmos fatos e, com o caso levado à Justiça, encerrou o inquérito civil. A ação está em curso.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 119,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 120,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 121,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Braço do Norte corrige irregularidades no SAMU após inquérito do MP",
+   "description": "O Ministério Público apurou irregularidades no Serviço de Atendimento Móvel de Urgência (SAMU) do Município de Braço do Norte. Durante a tramitação do inquérito, o município sanou as falhas apontadas. Com o problema resolvido, o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 122,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 123,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Antena da Claro sem licença ambiental é retirada de Braço do Norte após apuração do MP",
+   "description": "O Ministério Público apurou a regularidade ambiental de uma antena de telecomunicações da Claro instalada em Braço do Norte e constatou que ela operava sem licenciamento ambiental. A antena foi retirada do local e a atividade irregular, desmobilizada. Sem objeto, o inquérito civil foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 124,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 125,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Grão Pará corrige acessibilidade em postos de saúde após inquérito do MP",
+   "description": "O Ministério Público apurou as condições de acessibilidade nas unidades básicas de saúde do Município de Grão Pará. Durante a apuração, o município sanou as irregularidades encontradas. Com isso, o inquérito civil foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 126,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 127,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 128,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 129,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou descarte de resíduos por borracharia em Braço do Norte e não achou irregularidade",
+   "description": "O Ministério Público investigou suposto depósito irregular de resíduos sólidos, em desacordo com normas ambientais e sanitárias, pela Borracharia Truck Center, no bairro Rio Bonito, em Braço do Norte. A fiscalização comprovou que os resíduos tinham destinação final adequada. Sem irregularidades ambientais, o procedimento foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 130,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 131,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 132,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 133,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou queixas sobre sinal da TIM em Braço do Norte e arquivou por falta de prova",
+   "description": "O Ministério Público investigou eventuais irregularidades na prestação do serviço de telefonia móvel pela TIM no Município de Braço do Norte, a partir de representação de Laurimar Gross. A irregularidade noticiada não foi comprovada. Sem fundamento para ação judicial, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 134,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 135,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo e multa frigorífico de Braço do Norte por abate acima do limite licenciado",
+   "description": "O Ministério Público apurou o abate de suínos acima do limite diário permitido pela Licença Ambiental de Operação do Frigorífico Braçonortense, em caso que envolveu Irineu Heidemann e Walneide Voss Heidemann. A situação foi regularizada com a formalização de um Termo de Ajustamento de Conduta e imposição de multa. Sem novas irregularidades, o inquérito foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 136,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou reclamação sobre estrada em Grão Pará e concluiu que não cabia ação judicial",
+   "description": "A partir de denúncia anônima, o Ministério Público apurou possível omissão do Município de Grão Pará quanto às condições de tráfego de uma estrada pública. O MP entendeu que a decisão sobre pavimentar a via é de competência discricionária do poder público, que não havia outras representações sobre o tema e que existia trajeto alternativo, tratando-se de descontentamento individual. O procedimento foi arquivado por não caber ação civil pública no caso.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 137,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 138,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 139,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 140,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo com Braço do Norte por ocupações irregulares no Córrego Santa Augusta",
+   "description": "O Ministério Público investigou ocupações irregulares em áreas de preservação permanente ao longo do Córrego Santa Augusta, em Braço do Norte, e questionou a validade da Lei Complementar municipal 097/2008, que trata das faixas não edificáveis de rios e córregos na área urbana. O caso já havia sido arquivado e homologado; foi reaberto apenas para assinar um termo aditivo ao Termo de Ajustamento de Conduta já existente. O novo acordo seguiu para homologação.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 141,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo e aplica multa por dano ambiental em propriedade em Braço do Norte",
+   "description": "O Ministério Público, junto com o IMA, apurou a necessidade de recuperação de dano ambiental na propriedade de Jaime Philippi. O caso terminou com a assinatura de um Termo de Ajustamento de Conduta para regularizar a situação, acompanhado de multa. O MP registrou que não foram encontradas novas irregularidades e arquivou o inquérito.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 142,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso de obra sem licença ambiental autorizada pela prefeitura de Braço do Norte",
+   "description": "O Ministério Público apurou uma obra particular para transporte de esterco na comunidade Rio Pequeno, executada com aval do poder público municipal mesmo sem as licenças ambientais necessárias. A investigação concluiu que não houve dano ambiental e que não havia providências a tomar. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 143,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 144,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 145,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 146,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 147,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou favorecimento de empresa em acesso à energia em Braço do Norte e arquivou o caso",
+   "description": "O Ministério Público investigou se a prefeitura de Braço do Norte e a Cerbranorte teriam priorizado o fornecimento de energia elétrica para a empresa Gaidzinski Equipamentos em detrimento dos moradores do bairro Sertão do Rio Bonito. A apuração não encontrou atos de improbidade nem irregularidade na concessão à empresa, e foi firmado um Termo de Compromisso com ganho para a ordem urbanística. O caso foi arquivado, com a ressalva de que a demanda dos moradores por ligação é direito individual.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 148,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou contratação de professora de educação especial em Braço do Norte e arquivou",
+   "description": "O Ministério Público apurou se houve irregularidade na contratação temporária da servidora Rosângela da Silva como professora de atendimento educacional especializado e na conversão do seu vínculo de 40h semanais em dois contratos de 20h. A conclusão foi de que não houve irregularidade: a alteração de carga horária partiu de escolha da própria servidora e não houve dolo nem prejuízo ao erário. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 149,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 150,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 151,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou remoção de professores em Braço do Norte e não achou irregularidade",
+   "description": "A partir de representação sigilosa, o Ministério Público investigou o procedimento de remoção de professores adotado pela administração municipal de Braço do Norte. A apuração não identificou atos de improbidade, dolo ou prejuízo aos cofres públicos, e entendeu que eventual preterição na disputa por vagas é questão de direito individual. O inquérito foi arquivado em julho de 2025.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 152,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 153,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 154,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP checou habilitação de técnico de enfermagem do SAMU em Braço do Norte e arquivou o caso",
+   "description": "O Ministério Público investigou se a contratação de técnico de enfermagem para o SAMU, pelo Concurso Público 01/2023 de Braço do Norte, teria desrespeitado os requisitos de habilitação profissional exigidos para o cargo. O certificado de conclusão do curso foi apresentado durante a apuração. Sem indício de improbidade, dolo ou prejuízo ao erário, o inquérito foi arquivado em outubro de 2025.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 155,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 156,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 157,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre contratação de servidores pela CLT em Braço do Norte",
+   "description": "O Ministério Público apurou possível irregularidade na contratação de servidores do município de Braço do Norte sob o regime celetista. A conclusão reconheceu que é constitucional a existência de mais de um regime jurídico no serviço público. Com a perda do objeto, o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 158,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 159,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP vai à Justiça contra granja acusada de vender ovos comuns como \"caipiras\"",
+   "description": "Após denúncia, o Ministério Público investigou a Agroindústria Ivonete Lembeck Locks (Granja Free Lar) por vender ovos comuns rotulados como \"caipiras\" e por problemas nas condições de higiene da produção, do armazenamento e da comercialização. O MP concluiu pelo ajuizamento de ação civil pública para fazer cessar a fraude, adequar a empresa às normas sanitárias e obter reparação de danos. A ação foi ajuizada e aguarda decisão da Justiça.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 160,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 161,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 162,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 163,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 164,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 165,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 166,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo por açudes construídos sem licença em área de preservação",
+   "description": "O Ministério Público apurou a construção de açudes sem licença ambiental, dentro da faixa de 5 metros de curso d'água em área de preservação permanente, em propriedade na localidade de Rio Bravo Alto, em Santa Rosa de Lima. O caso foi encerrado com a assinatura de um Termo de Ajustamento de Conduta e o arquivamento do inquérito. O MP abriu um procedimento administrativo próprio para acompanhar o cumprimento das obrigações assumidas.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 167,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 168,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 169,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP acompanhou vacinação infantil contra Covid em Braço do Norte e apontou falta de doses",
+   "description": "O Ministério Público acompanhou as políticas de imunização de crianças de zero a cinco anos contra a Covid-19 em Braço do Norte, envolvendo as secretarias de Saúde e Educação, o Conselho Tutelar e a rede privada de ensino. O procedimento registrou falta de vacinas para essa faixa etária, o que impediu o município de cumprir integralmente a obrigação. O MP anotou que as medidas de fiscalização e conscientização foram adotadas, mas o texto não deixa claro o desfecho formal do caso.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 170,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo por construção em área de preservação no bairro Rio Bonito",
+   "description": "O Ministério Público apurou uma possível construção em área de preservação permanente às margens de um curso d'água no bairro Rio Bonito, em Braço do Norte, perto do \"Atacado Vencedor\". O caso foi encerrado com a assinatura de um Termo de Ajustamento de Conduta com os investigados. Com o acordo firmado, o MP entendeu não haver mais interesse em prosseguir e arquivou o inquérito.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 171,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo por despejo de entulho às margens do Rio Braço do Norte",
+   "description": "O Ministério Público investigou o despejo irregular de entulho em área de preservação permanente à beira do Rio Braço do Norte, em terreno às margens da SC-108, no sentido de Santa Rosa de Lima. O responsável apontado foi Volnei Dirksen. O caso terminou com a assinatura de um Termo de Ajustamento de Conduta e o arquivamento do inquérito.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 172,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo com Madeireira Boeing por uso de área de preservação em Rio Fortuna",
+   "description": "O Ministério Público apurou danos ambientais decorrentes da utilização de área de preservação permanente pela Madeireira Boeing, em Rio Fortuna. O caso foi resolvido com a assinatura de um Termo de Ajustamento de Conduta com a empresa. Com o acordo, o MP arquivou o inquérito por falta de interesse em seguir com a ação.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 173,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP renova acordo com indústria de plásticos por poluição de córrego em São Ludgero",
+   "description": "O Ministério Público investigou possível poluição de um córrego pela Terraplast Indústria de Plásticos, na Estrada Geral Mar Grosso, em São Ludgero. O caso já havia sido arquivado e homologado, e foi reaberto apenas para a assinatura de um termo aditivo ao Termo de Ajustamento de Conduta. O novo acordo seguiu para homologação.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 174,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou falta de segundo professor para aluna em Braço do Norte e não confirmou a omissão",
+   "description": "O Ministério Público investigou denúncia de que o município de Braço do Norte e a Coordenadoria Regional de Educação não estariam fornecendo segundo professor e atendimento educacional especializado a uma aluna. A apuração constatou que a estudante frequenta turma atendida por segundo professor e está inserida no atendimento especializado. A omissão não se confirmou e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 175,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP conclui que canalização de curso d'água em empresa de São Ludgero não gerou dano atual",
+   "description": "A partir de denúncia, o Ministério Público apurou a existência de um curso d'água canalizado dentro da Artplast Indústria e Comércio de Plásticos, em São Ludgero, em área de preservação permanente. Manifestação técnica do IMA indicou edificações anteriores ao marco temporal do Código Florestal, ocupação consolidada, licenciamento regular e ausência de dano ambiental atual ou reparável. O texto publicado está truncado e não permite afirmar com segurança qual foi o desfecho formal do procedimento.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 176,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso de dejetos de suínos no Rio Hawerroth após vistoria não achar poluição",
+   "description": "O Ministério Público apurou denúncia sigilosa de poluição do Rio Hawerroth, na comunidade de Pinheiral, na divisa entre Braço do Norte e Rio Fortuna, por lançamento irregular de dejetos de suínos. Vistoria do IMA constatou que os parâmetros da água estavam dentro da conformidade e que não havia dano ambiental atual. Sem justa causa para ação civil pública, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 177,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva denúncia de fios fora de norma em prédio da Construtora Heidemann",
+   "description": "O sindicato SINDICEL representou ao Ministério Público alegando, com base em relatórios laboratoriais, que fios elétricos fora das normas da ABNT e do Inmetro teriam sido usados em um empreendimento residencial da Construtora Heidemann. A apuração não encontrou laudo técnico idôneo, não havia anotação de responsabilidade técnica e a cadeia de custódia das amostras não foi comprovada, o que impediu o centro de apoio técnico do MP de validar os documentos. Sem elementos para seguir, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 178,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre transporte escolar para crianças de 0 a 3 anos em Braço do Norte",
+   "description": "A partir de comunicação genérica do Conselho Tutelar, o Ministério Público apurou a falta de transporte escolar para crianças de 0 a 3 anos na educação infantil de Braço do Norte. Não foi identificado nenhum caso concreto de criança ou família que tenha tido o transporte negado, e o município informou manter 17 centros de educação infantil espalhados por vários bairros para facilitar o acesso. Sem elementos que justificassem medidas do MP, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 179,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou uso de trator da prefeitura de Braço do Norte em proveito próprio; desfecho não consta",
+   "description": "O Ministério Público investigou, por moralidade administrativa, o uso de maquinário do município de Braço do Norte — um trator — em benefício próprio, em caso que envolve Alexandre Coan e Ilson Coan. O extrato publicado registra apenas o objeto da apuração. O texto não informa qual foi a conclusão, se alguém foi responsabilizado ou se o caso foi arquivado.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 180,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 181,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 182,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP conclui que taxa de vistoria sanitária de São Ludgero é legal e arquiva o caso",
+   "description": "O Ministério Público analisou a cobrança da Taxa de Vistoria Sanitária pelo município de São Ludgero, sob suspeita de bitributação. A conclusão foi de que a cobrança é legal, decorre do exercício regular do poder de polícia na fiscalização sanitária e não configura bitributação, por se tratar de fatos geradores distintos. O procedimento foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 183,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 184,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 185,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 186,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 187,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 188,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 189,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 190,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso de criação de galinhas em área urbana de Braço do Norte",
+   "description": "O Ministério Público apurou a criação de galinhas de postura em zona urbana de Braço do Norte, em desacordo com as regras do Plano Diretor do município. Os animais foram retirados do local durante a apuração e não se constatou dano ambiental. Com o problema resolvido, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 191,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso sobre responsável técnico da Casan em Rio Fortuna",
+   "description": "O Conselho Regional de Química da 13ª Região acionou o Ministério Público alegando que a Casan de Rio Fortuna não apresentava responsável técnico químico para o tratamento de água e esgoto, o que violaria direitos do consumidor. A apuração não comprovou a irregularidade apontada. Sem fundamento para ação judicial, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 192,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso sobre responsável técnico da Casan em Santa Rosa de Lima",
+   "description": "O Conselho Regional de Química da 13ª Região representou ao Ministério Público contra a Casan de Santa Rosa de Lima por não apresentar responsável técnico químico para o tratamento de água e esgoto. A investigação não comprovou a irregularidade noticiada. O MP concluiu que não havia base para ação judicial e arquivou o inquérito.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 193,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 194,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Braço do Norte assina acordo com MP para estruturar a Vigilância Sanitária do município",
+   "description": "O Ministério Público cobrou do município de Braço do Norte a adequação da sua Vigilância Sanitária às exigências da Constituição e da legislação. O caso terminou com a assinatura de um Termo de Ajustamento de Conduta em que a prefeitura se comprometeu a estruturar o serviço. Com o acordo firmado, o inquérito foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 195,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso de efluentes do Frigorífico Catarinense em Grão-Pará após correções",
+   "description": "O Ministério Público apurou irregularidades no sistema de tratamento de efluentes do Frigorífico Catarinense, em Grão-Pará. Durante a apuração, a empresa adotou as medidas necessárias para corrigir as falhas apontadas. O dano ambiental não foi confirmado e o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 196,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 197,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 198,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 199,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 200,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 201,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 202,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 203,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP faz acordo e encerra apuração sobre home office na Fundação Ambiental de Grão-Pará",
+   "description": "O Ministério Público apurou supostas irregularidades no regime de home office instituído pela Fundação Ambiental Municipal de Grão-Pará, em investigação de moralidade administrativa. O caso foi resolvido com a celebração de um Acordo de Não Persecução Cível e o inquérito foi arquivado. O texto não detalha as obrigações assumidas no acordo.",
+   "status": "🟠 ACNP firmado",
+   "severity": "media"
+  },
+  {
+   "i": 204,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 205,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 206,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo e aplica multa por abatedouro ilegal em Braço do Norte",
+   "description": "O Ministério Público apurou a existência de um abatedouro clandestino na propriedade de Eduardo Vieira Walter. O caso foi encerrado com a assinatura de um Termo de Ajustamento de Conduta para regularizar a atividade, acompanhado de multa. O MP registrou não haver novas irregularidades e arquivou o inquérito.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 207,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 208,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 209,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 210,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou transporte de passageiros com veículos irregulares em Braço do Norte e arquivou",
+   "description": "O Ministério Público investigou se a Geo Tur Transportes estaria descumprindo contrato com o município de Braço do Norte ao fazer transporte de passageiros com veículos irregulares. A apuração não encontrou atos de improbidade, dolo, prejuízo ao erário nem afronta a princípios administrativos. O inquérito foi arquivado em abril de 2025.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 211,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 212,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 213,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 214,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 215,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 216,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 217,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 218,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 219,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 220,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 221,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 222,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 223,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 224,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 225,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cobrou estrutura do serviço de inspeção de alimentos de Braço do Norte e encerrou o caso",
+   "description": "O Ministério Público analisou se o Serviço de Inspeção Municipal de Braço do Norte tinha condições de funcionar e, num primeiro momento, constatou carências de estrutura material, de pessoal e administrativa, apuradas por questionário do centro de apoio do consumidor do MP. Ao longo do procedimento, o município comprou uniformes, equipamentos e instrumentos de fiscalização, ampliou o quadro técnico e editou lei própria regulamentando o serviço. Com as principais falhas superadas e sem justa causa para ação civil pública, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 226,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 227,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 228,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 229,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 230,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 231,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP processa empresa por obra irregular em esquina no centro de Braço do Norte",
+   "description": "O Ministério Público apurou uma construção irregular na esquina das ruas Jorge Lacerda e Bernardo Locks, em Braço do Norte, de propriedade da A. R. R. Administradora de Bens, representada por Alexandre Rafael da Rosa. O MP ajuizou ação civil pública para exigir a regularização da obra conforme o Plano Diretor do município (Lei Complementar 215/2012). A ação está em curso na Justiça.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 232,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 233,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 234,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 235,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 236,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou venda casada de óculos em ótica e não encontrou irregularidade",
+   "description": "A partir de denúncia sigilosa, o Ministério Público apurou se a Ótica Evolve praticava venda casada, obrigando o cliente a comprar óculos completos depois do exame de vista. Foram feitas requisições ao Procon municipal e estadual e fiscalização no local, com três autos de constatação. Nenhuma irregularidade ou violação ao Código de Defesa do Consumidor foi encontrada, e o inquérito foi arquivado em junho de 2026.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 237,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 238,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 239,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 240,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou poluição do ar por fábrica de molduras, mas não conseguiu comprovar",
+   "description": "O Ministério Público apurou denúncia de poluição atmosférica causada pela empresa Franedo Molduras. As diligências não foram conclusivas sobre a emissão de poluentes. Sem justa causa para outras medidas, o MP encerrou o inquérito.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 241,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 242,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 243,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo por poluição de rios causada por suinocultura em Grão-Pará",
+   "description": "O Ministério Público apurou possível poluição na junção do Rio Pequeno com o Rio Fortuna, perto da Gruta Nossa Senhora Aparecida, na localidade de Rio Pequeno, em Grão-Pará, atribuída à criação de suínos por Amilton Wiggers Meurer. O caso foi encerrado com a assinatura de um Termo de Ajustamento de Conduta. Com o acordo firmado, o inquérito foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 244,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 245,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP encerra caso de recuperação de área de preservação após proprietário cercar o local",
+   "description": "O Ministério Público acompanhava a necessidade de recuperar a área de preservação permanente na propriedade de Bertino Vandresen. Durante o procedimento, a área de preservação foi cercada, o que atendeu ao objetivo do inquérito. Com a finalidade cumprida, o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 246,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 247,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 248,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 249,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 250,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 251,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 252,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 253,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 254,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso sobre qualidade do leite fornecido a laticínio da região",
+   "description": "O Ministério Público apurou irregularidades envolvendo o Laticínios Silva Indústria e Comércio e a produção de leite de fornecedores. A conclusão foi de que o leite produzido atende ao interesse público por ser saudável e não adulterado, e que as irregularidades apontadas no início já haviam sido resolvidas. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 255,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva denúncia de abate clandestino de animais doentes após responsável deixar o local",
+   "description": "Uma denúncia anônima, somada a apontamentos da Cidasc, levou o Ministério Público a apurar suposto abate clandestino de animais doentes e de matrizes mortas no parto em propriedade ligada a Celso Nei da Silva Martins. O MP concluiu que as irregularidades não persistiam, já que o responsável pela prática não morava mais na propriedade. O procedimento foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 256,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou barulho de empresa no centro de Grão-Pará e problema foi resolvido",
+   "description": "O Ministério Público investigou a regularidade do funcionamento da empresa BCL Empreendimentos, no centro de Grão-Pará, acusada de causar perturbação por atividade ruidosa. A irregularidade foi identificada e sanada depois de notificação da fundação ambiental. O extrato publicado está cortado e não informa o desfecho formal do procedimento.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 257,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP encerra caso de dejetos de gado em córrego após acordo com compromisso de reparar dano",
+   "description": "O Ministério Público apurou o descarte de dejetos da criação de bovinos em um córrego e o suposto corte de mata nativa atribuídos a Rudinei Schuroeff. Os mesmos fatos motivaram um inquérito policial, no qual foi homologado um Acordo de Não Persecução Penal em que ele se comprometeu a reparar o dano ambiental. Sem justa causa para novas medidas na área cível, o MP encerrou o inquérito civil.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 258,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso de foco de dengue em terreno em São Ludgero após limpeza do local",
+   "description": "A Vigilância Sanitária de São Ludgero identificou depósito de materiais a céu aberto em propriedade de Nilva Hobold, feito por Maria Salete Francelino, com risco de virar foco do mosquito Aedes aegypti. Durante a apuração do Ministério Público, os resíduos foram retirados e a atividade encerrada. Sem dano ambiental configurado, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 259,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 260,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo para recuperação de dano ambiental em propriedade de Sidnei Voss",
+   "description": "O Ministério Público apurou a necessidade de recuperar dano ambiental na propriedade de Sidnei Werner Voss, a partir de informações de um procedimento administrativo anterior. O caso terminou com a assinatura de um Termo de Ajustamento de Conduta e o arquivamento do inquérito. O cumprimento das obrigações será acompanhado em procedimento próprio.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 261,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo para recuperação de dano ambiental em propriedade de Nilo Ricken",
+   "description": "O Ministério Público apurou a necessidade de recuperação de dano ambiental na propriedade de Nilo Ricken, com base em informações vindas de procedimento administrativo anterior. O caso foi resolvido com a assinatura de um Termo de Ajustamento de Conduta. O extrato não detalha as obrigações assumidas.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 262,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 263,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 264,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 265,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso ambiental após proprietário adotar medidas para conservar área de preservação",
+   "description": "O Ministério Público apurou a necessidade de recuperar dano ambiental na propriedade de Seno Buss, com base em informações de procedimento anterior. Fiscalização do órgão ambiental estadual indicou que o investigado adotou as medidas necessárias para conservar a área de preservação permanente. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 266,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 267,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 268,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 269,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 270,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 271,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 272,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva denúncia sobre material de saneamento fora das normas técnicas",
+   "description": "A Associação Brasileira dos Fabricantes de Materiais para Saneamento (Asfamas) representou ao Ministério Público contra a IBMF Indústria de Materiais para Construções, por comercializar produto supostamente em desacordo com as normas da ABNT. A apuração não comprovou a irregularidade noticiada. Sem base para ação judicial, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 273,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Optometrista de São Ludgero foi acusado de exercício ilegal da profissão, mas MP arquivou",
+   "description": "A Associação Catarinense de Oftalmologia levou ao Ministério Público a suspeita de que o optometrista Ricardo Volpato, com endereço profissional em São Ludgero, estaria exercendo ilegalmente a profissão em prejuízo dos consumidores. A investigação não comprovou as irregularidades apontadas. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 274,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 275,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo com bar de Braço do Norte interditado pela Polícia Militar",
+   "description": "Depois de a Polícia Militar de Braço do Norte lavrar um termo de interdição cautelar de ordem pública contra o Bar Fabiano Vieira Carvalho, representado por Gilmara Wiemes, o Ministério Público cobrou a correção das irregularidades apontadas. O caso terminou com a assinatura de um Termo de Ajustamento de Conduta para sanar os problemas. Com o acordo firmado, o inquérito foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 276,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso de frango fora dos padrões da Granja Pinheiros após correções",
+   "description": "A Vigilância Sanitária Estadual constatou contagem de bactérias acima do limite permitido e problemas de rotulagem no produto \"corte temperado resfriado de frango meio das asas\", da Granja Pinheiros, fornecedora da marca Ave Serra. O Ministério Público abriu inquérito e acompanhou o caso. A empresa corrigiu as irregularidades e, sem fundamento para ação judicial, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 277,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou vazamento de esgoto atribuído a edifício e concluiu que a origem era outra",
+   "description": "O Ministério Público investigou denúncia de vazamento de esgoto no Edifício Solar dos Girassóis, cujo síndico era Agostinho May. A vistoria não confirmou a situação: o vazamento vinha do prédio vizinho, sob responsabilidade de quem fez a denúncia. Como o edifício passou a ser atendido pelo sistema coletivo de tratamento de esgoto e não se constatou dano ambiental, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 278,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva reclamação contra fábrica de móveis em São Ludgero",
+   "description": "O Ministério Público apurou a regularidade das atividades da Bela Vista Móveis, em São Ludgero, após reclamações de perturbação e de infestação de animais peçonhentos atribuídas à empresa. Nenhuma irregularidade foi constatada e a atividade já havia sido encerrada no município. Sem dano nem necessidade de outras medidas, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 279,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 280,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou venda de material de saneamento fora das normas técnicas e arquivou o caso",
+   "description": "O Ministério Público abriu inquérito civil a partir de representação da Associação Brasileira dos Fabricantes de Materiais para Saneamento (ASFAMAS) contra a IBMF Indústria de Materiais para Construções, sob suspeita de que a empresa comercializava produto em desacordo com as normas técnicas da ABNT. Ao final da apuração, o MP concluiu que a irregularidade não foi comprovada. O inquérito foi arquivado por ausência de fundamento para ação judicial.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 281,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cobrou registro de bens apreendidos em prisão em Braço do Norte e situação foi regularizada",
+   "description": "O Ministério Público apurou uma suposta omissão na informação sobre bens apreendidos durante a prisão de Lucas Ferreira Tanello, na Comarca de Braço do Norte. Durante o inquérito, a situação foi regularizada e a recomendação do MP foi acatada. Sem novas irregularidades, o caso foi encerrado.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 282,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou loteamento irregular em Braço do Norte e não encontrou parcelamento nem dano ambiental",
+   "description": "O Ministério Público instaurou inquérito civil para apurar comunicação de possível parcelamento irregular de solo em Braço do Norte, atribuído a Acácio Agostinho Martins e outros. As informações obtidas, inclusive junto ao Registro de Imóveis, apontaram que não houve parcelamento irregular. O MP concluiu não haver dano ambiental nem medidas a adotar e arquivou o caso.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 283,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 284,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP fecha acordo para recuperação de área degradada em Braço do Norte",
+   "description": "Em inquérito civil sobre dano ambiental envolvendo Adilson Warmeling, o Ministério Público firmou termo de ajustamento de conduta prevendo a recuperação da área degradada. Com o acordo assinado, o inquérito foi arquivado. O cumprimento das obrigações passa a ser acompanhado pelo MP.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 285,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP flagrou venda de produto impróprio para consumo em comércio de Braço do Norte; loja se adequou",
+   "description": "O Ministério Público apurou a comercialização de produto impróprio para consumo em estabelecimento ligado a Priscilla Gomes de Souza e à empresa Simone Belmiro ME. A irregularidade foi constatada na época da fiscalização, mas o comércio fez as adequações exigidas. Verificada a regularização, o MP arquivou o procedimento.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 286,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou turismo irregular no Parque da Serra Furada, mas não comprovou dano ambiental",
+   "description": "O Ministério Público instaurou inquérito civil para apurar possível irregularidade na exploração de atividade turística no Parque da Serra Furada, com suspeita de danos ambientais e paisagísticos. Os danos não foram comprovados ao longo da apuração. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 287,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 288,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP processa granja avícola em Braço do Norte e exige adequação sanitária e reparação de danos",
+   "description": "Após inquérito civil aberto a partir de notícia de Priscilla Borges de Souza, o Ministério Público ajuizou ação civil pública contra a Granja Avícola Douglas Soethe. O MP pede a cessação das irregularidades, obrigações de fazer e não fazer, a adequação sanitária integral do estabelecimento e a reparação dos danos causados. O caso agora está na Justiça, aguardando decisão.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 289,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 290,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cobrou ventilação em escola estadual de Braço do Norte e ar-condicionado voltou a funcionar",
+   "description": "O Ministério Público apurou a falta de sistema de ventilação na Escola de Educação Básica Cônego Nicolau Gesing, em Braço do Norte, e requisitou providências à rede pública estadual. A Secretaria Estadual de Educação informou que os aparelhos de ar-condicionado da unidade estão em pleno funcionamento. Com o problema resolvido, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 291,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 292,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 293,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cobrou uso do sistema nacional de proteção à criança pelos Conselhos Tutelares da região",
+   "description": "O Ministério Público acompanhou se os Conselhos Tutelares de Braço do Norte, São Ludgero, Rio Fortuna, Grão-Pará e Santa Rosa de Lima estavam capacitados e usando o SIPIA, sistema que registra as demandas atendidas envolvendo crianças e adolescentes. Os conselhos comprovaram a capacitação e o uso do sistema. Diante disso, o MP arquivou o inquérito.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 294,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 295,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 296,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 297,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 298,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 299,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 300,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 301,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 302,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 303,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 304,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 305,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 306,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou aterramento de córrego e destruição de mata no centro de Braço do Norte",
+   "description": "O Ministério Público investigou possíveis danos ambientais em imóvel entre as ruas Irineu Bornhausen e Nereu da Cruz Sombrio, em Braço do Norte, com suspeita de aterramento de córrego e degradação de vegetação nativa. Foram apontados como envolvidos Uliano Natalício Sombrio da Silva e Nereu Maciel Sombrio. O extrato publicado no Diário Oficial está truncado e não permite afirmar qual foi o desfecho da apuração.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 307,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo com produtor de Grão-Pará por descarte irregular de dejetos de porcos e gado",
+   "description": "O Ministério Público apurou a necessidade de reparação de danos ambientais causados por Janir Oenning, decorrentes do descarte irregular de dejetos suínos e bovinos em propriedade no interior de Grão-Pará. O caso terminou com a assinatura de um termo de ajustamento de conduta. O cumprimento do acordo segue sendo acompanhado pelo MP em procedimento próprio.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 308,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 309,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo para corrigir informação de quantidade em embalagens vendidas na região",
+   "description": "Inquérito civil envolvendo o Supermercado Orondino terminou com termo de ajustamento de conduta para regularizar a produção de insumos fabricados pela Qualilux Comércio Atacadista de Papel. O foco do acordo é a indicação correta da quantidade de produto nas embalagens, para que o consumidor não seja prejudicado. Com o TAC firmado, o inquérito foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 310,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou obra fora do projeto no centro de Braço do Norte; prefeitura regularizou e liberou habite-se",
+   "description": "O Ministério Público investigou a construção de estabelecimento comercial no centro de Braço do Norte, ligada a Lorival Salvalaggio, executada em desacordo com o projeto aprovado pelo município e com a legislação municipal. A situação foi resolvida administrativamente pelo próprio município, que deferiu a Declaração de Habite-se. Sem outras medidas a adotar, o MP arquivou o inquérito.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 311,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 312,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou proliferação de insetos por dejetos às margens da SC-108 e problema foi sanado",
+   "description": "O Ministério Público investigou riscos à saúde e danos ambientais causados pela proliferação de insetos que atingia propriedades vizinhas na altura do km 316 da SC-108, em Braço do Norte. A apuração identificou Richard Voss como responsável pela atividade. O despejo de dejetos foi adequado aos padrões exigidos e a proliferação de insetos cessou, levando ao arquivamento do caso.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 313,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Servidor da Câmara de Braço do Norte não cumpria jornada; MP firmou acordo com o Legislativo",
+   "description": "O Ministério Público apurou descumprimento de carga horária e ausência de controle de jornada envolvendo o servidor Laurimar Gross, no Poder Legislativo municipal. O caso foi encerrado com termo de ajustamento de conduta firmado entre o MP, o presidente da Câmara e o próprio servidor. Após o acordo, o inquérito foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 314,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 315,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 316,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 317,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou propaganda de remédios da Farmácia do Trabalhador e arquivou o caso",
+   "description": "O Ministério Público abriu inquérito civil para apurar suposta publicidade de medicamentos em desacordo com a resolução da Anvisa que regula o tema, por parte da Farmácia do Trabalhador. Ao final, o MP concluiu não haver fundamento para propor ação judicial. O caso foi encerrado sem responsabilização.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 318,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 319,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo por rua aberta em área verde de loteamento em Braço do Norte",
+   "description": "O Ministério Público apurou a possível abertura de rua sobre área verde no Loteamento Jardim Carolina, no bairro Rio Bonito, em Braço do Norte, atribuída a Osmar Becker. O caso foi encerrado com a assinatura de um termo de ajustamento de conduta. O cumprimento do acordo é acompanhado pelo MP em procedimento administrativo próprio.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 320,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 321,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 322,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 323,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 324,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 325,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 326,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 327,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 328,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 329,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 330,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 331,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 332,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 333,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 334,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 335,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 336,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 337,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 338,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 339,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 340,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 341,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 342,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 343,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 344,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 345,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 346,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 347,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 348,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 349,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 350,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 351,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 352,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 353,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 354,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cobra casa-abrigo para mulheres vítimas de violência em Braço do Norte e mais 4 cidades",
+   "description": "O Ministério Público instaurou inquérito civil para apurar a falta de casa-abrigo ou instituição semelhante mantida pelos municípios da Comarca de Braço do Norte — que inclui Grão-Pará, Santa Rosa de Lima, São Ludgero e Rio Fortuna — para acolher mulheres vítimas de violência doméstica e seus dependentes. O MP reconheceu a relevância social do tema e informou existir procedimento administrativo específico sobre o assunto. O extrato publicado está truncado e não permite afirmar qual foi o desfecho.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 355,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 356,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  }
+ ],
+ "tce": [
+  {
+   "i": 0,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta superfaturamento em compra de remédio da covid em Braço do Norte e manda apurar dano",
+   "description": "O Tribunal de Contas julgou irregular a compra de 24 mil comprimidos de sulfato de zinco pela Prefeitura de Braço do Norte, feita por dispensa de licitação e classificada como despesa de combate à covid-19. O município pagou R$ 1,20 por unidade à empresa Boing & Dacoregio, total de R$ 28.800, enquanto Rio Fortuna comprou medicamento equivalente por R$ 0,50 a unidade — indício de superfaturamento. O TCE também apontou que a dispensa sequer foi formalizada em processo administrativo numerado e determinou ao prefeito que abra tomada de contas especial para identificar responsáveis e calcular o prejuízo.",
+   "status": "⬛ julgado irregular",
+   "severity": "alta"
+  },
+  {
+   "i": 1,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta edital direcionado em concessão de publicidade em Braço do Norte e manda anular parte do contrato",
+   "description": "Após representação da empresa SSAT Sinalização e Adesivos, o Tribunal de Contas considerou irregular a Concorrência 01/2020 e o Contrato 70/2020 da Prefeitura de Braço do Norte, que concederam espaços públicos para publicidade. O TCE concluiu que o edital foi direcionado, com especificações técnicas copiadas do catálogo da empresa que já era concessionária, e que a instalação de painéis digitais de publicidade junto à sinalização semafórica viola o Código de Trânsito. O prefeito Roberto Kuerten Marcelino e o chefe de compras Wando Furlan Ceolin foram intimados a invalidar parcialmente o edital e o contrato em 30 dias.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "alta"
+  },
+  {
+   "i": 2,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 3,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 4,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE analisou contratação do Bradesco sem licitação por Braço do Norte e não achou irregularidade",
+   "description": "O Tribunal de Contas examinou representação sobre a Dispensa de Licitação 02/2022 da Prefeitura de Braço do Norte, que contratou o Banco Bradesco. No mérito, o TCE julgou a representação improcedente e mandou arquivar o processo, sem responsabilizar ninguém. O tribunal apenas recomendou que a prefeitura faça pesquisa de preços adequada e a inclua nos autos das próximas contratações.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 5,
+   "tipo": "tce",
+   "keep": true,
+   "title": "Prefeitura de Braço do Norte anula licitação questionada no TCE e processo é encerrado",
+   "description": "Depois de o Tribunal de Contas suspender a Tomada de Preços 08/2023, a Prefeitura de Braço do Norte anulou o edital, o que fez a representação perder o objeto e o processo ser arquivado. O TCE recomendou que o município republique o ato de anulação, porque a publicação no Diário Oficial registrou por engano uma revogação, quando a licitação foi anulada por ilegalidade. Não houve aplicação de multa.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 6,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta falhas no edital do estacionamento rotativo de Braço do Norte, mas libera a licitação",
+   "description": "A empresa Excelência Gestão de Negócios questionou no Tribunal de Contas o edital da Concorrência 42/2024 da Prefeitura de Braço do Norte, que concede áreas públicas para estacionamento rotativo. O TCE julgou a representação parcialmente procedente, mas negou o pedido de suspensão por não ver risco de prejuízo ao certame. O tribunal recomendou ao prefeito Roberto Kuerten Marcelino que corrija, em licitações futuras, exigências de capital social, planilhas econômico-financeiras bloqueadas, valores defasados e prazos de qualificação técnica, e arquivou o caso.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 7,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE recomenda aprovação das contas de 2023 da Prefeitura de Braço do Norte",
+   "description": "O Tribunal de Contas analisou a prestação de contas do prefeito de Braço do Norte referente ao exercício de 2023. O parecer prévio foi pela aprovação das contas. A palavra final cabe à Câmara Municipal, que julga as contas do prefeito.",
+   "status": "🟢 parecer pela aprovação",
+   "severity": "media"
+  },
+  {
+   "i": 8,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE recomenda aprovação das contas de 2024 da Prefeitura de Braço do Norte",
+   "description": "O Tribunal de Contas analisou a prestação de contas do prefeito de Braço do Norte referente ao exercício de 2024. O parecer prévio foi pela aprovação das contas. Cabe à Câmara Municipal dar a palavra final sobre o julgamento.",
+   "status": "🟢 parecer pela aprovação",
+   "severity": "media"
+  },
+  {
+   "i": 9,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta que Braço do Norte rejeitou recursos sem análise em licitação da merenda escolar",
+   "description": "A empresa Grazi Supermercados representou ao Tribunal de Contas contra o Pregão Eletrônico 84/2024 da Prefeitura de Braço do Norte, para compra de alimentos da merenda escolar da rede municipal. O TCE julgou a representação parcialmente procedente ao constatar que os recursos apresentados por duas empresas foram indeferidos sumariamente, contrariando a Lei de Licitações. O tribunal recomendou que a prefeitura oriente o pregoeiro sobre quem tem competência para julgar recursos e arquivou o processo, sem multa.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 10,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE recomenda aprovação das contas de 2021 da Prefeitura de Braço do Norte",
+   "description": "O Tribunal de Contas analisou a prestação de contas do prefeito de Braço do Norte referente ao exercício de 2021. O parecer prévio foi pela aprovação das contas. O julgamento final cabe à Câmara Municipal.",
+   "status": "🟢 parecer pela aprovação",
+   "severity": "media"
+  },
+  {
+   "i": 11,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE recomenda aprovação das contas de 2022 da Prefeitura de Braço do Norte",
+   "description": "O Tribunal de Contas analisou a prestação de contas do prefeito de Braço do Norte referente ao exercício de 2022. O parecer prévio foi pela aprovação das contas. A decisão final é da Câmara Municipal.",
+   "status": "🟢 parecer pela aprovação",
+   "severity": "media"
+  },
+  {
+   "i": 12,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 13,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE suspende licitação de Braço do Norte para plano de carreira dos professores",
+   "description": "A pedido do escritório Zampieri & Luft, o Tribunal de Contas determinou a suspensão cautelar da Tomada de Preços 08/2023, com que a Prefeitura de Braço do Norte pretendia contratar assessoria para elaborar e revisar o plano de carreira do magistério municipal. O TCE apontou como irregular a exigência de equipe técnica específica para habilitação, em desacordo com a Lei de Licitações e contrária ao interesse público. O prefeito Roberto Kuerten Marcelino e a secretária de Educação Nívea Willemann Rocha foram intimados a se justificar, corrigir ou anular o edital em até 30 dias.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 14,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE inspeciona Plano Municipal de Educação de Braço do Norte e considera tudo regular",
+   "description": "O Tribunal de Contas fiscalizou o cumprimento das metas 18 e 19 do Plano Municipal de Educação de Braço do Norte, que tratam de plano de carreira do magistério e gestão democrática do ensino. Os atos analisados foram considerados regulares, diante da existência de plano de cargos e salários, do pagamento do piso nacional aos professores em dezembro de 2022 e do decreto que regulamenta a gestão democrática. O TCE apenas recomendou deixar mais claro no decreto o que acontece se a comunidade escolar reprovar o Plano de Gestão Escolar, e arquivou o processo.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 15,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  }
+ ]
+}

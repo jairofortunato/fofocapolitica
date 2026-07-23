@@ -1,0 +1,635 @@
+{
+ "cidade": "Jaguaruna",
+ "casos": [
+  {
+   "i": 280,
+   "tipo": "mp",
+   "ref": "01.2025.00048627-1",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00048627-1",
+   "status": "🟢 arquivado",
+   "data": "14/10/2025",
+   "texto": "IMA/SC e Erivaldo da Rosa Sebastião. Conclusão: Notícia de Fato. Comunicação em razão do dever de ofício do sistema GAIA. Instaurado o termo circunstanciado pelo órgão ambiental competente. A medida é considerada adequada à tutela do bem jurídico ambiental, não se vislumbrando, por ora, necessidade de outra providência. Indeferimento é medida que se impõe. Indeferimento com arrimo no art. 7°, inc. II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 281,
+   "tipo": "mp",
+   "ref": "01.2025.00046069-2",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00046069-2",
+   "status": "🟢 arquivado",
+   "data": "21/11/2025",
+   "texto": "Alzanir Maria Fernandes e sujeito indeterminado. Conclusão: Notícia de Fato. Comunicação de crime de maus-tratos. Instauração de inquérito policial pelo Órgão criminal. As medidas são consideradas adequadas à tutela do bem jurídico ambiental, não se verificando, por ora, necessidade de outra providência. Indeferimento é medida que se impõe."
+  },
+  {
+   "i": 282,
+   "tipo": "mp",
+   "ref": "01.2025.00039158-8",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00039158-8",
+   "status": "🟢 arquivado",
+   "data": "16/12/2025",
+   "texto": "Sistema Gaia e Hidropet Indústria e Comércio de Embalagens Plásticas Ltda. Conclusão: notícia de fato. Comunicação de crime ambiental. Instauração de inquérito policial pela autoridade competente. As medidas são consideradas adequadas à tutela do bem jurídico ambiental, não se verificando, por ora, necessidade de outra providência. Indeferimento é medida que se impõe."
+  },
+  {
+   "i": 283,
+   "tipo": "mp",
+   "ref": "01.2025.00051291-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00051291-0",
+   "status": "🟢 arquivado",
+   "data": "02/03/2026",
+   "texto": "Minercril Serviço de Terraplanagem Ltda. e Colombo Retroterra Empreendimentos. Conclusão: indeferimento. Notícia de fato autuada para Verificar a necessidade de investigação ministerial cível por comunicação de suposta infração ambiental. Fatos que já são objeto da Notícia de Fato n. 01.2025.00054248-0. Desnecessidade de instauração de novo procedimento investigativo."
+  },
+  {
+   "i": 284,
+   "tipo": "mp",
+   "ref": "01.2025.00040054-9",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00040054-9",
+   "status": "🟢 arquivado",
+   "data": "25/03/2026",
+   "texto": "Sistema Gaia e Jucemar de Medeiros. Conclusão: notícia de fato. Comunicação de crime ambiental. Notificação e fiscalização realizadas pelo órgão competente IMASA. As medidas são consideradas adequadas à tutela do bem jurídico ambiental, não se vislumbrando, por ora, necessidade de outra providência. Indeferimento é medida que se impõe."
+  },
+  {
+   "i": 285,
+   "tipo": "mp",
+   "ref": "01.2025.00046069-2",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00046069-2",
+   "status": "🟢 arquivado",
+   "data": "25/03/2026",
+   "texto": "Sistema Gaia e Jucemar de Medeiros. Conclusão: notícia de fato. Comunicação de crime ambiental. Notificação e fiscalização realizadas pelo órgão competente IMASA. As medidas são consideradas adequadas à tutela do bem jurídico ambiental, não se vislumbrando, por ora, necessidade de outra providência. Indeferimento é medida que se impõe."
+  },
+  {
+   "i": 286,
+   "tipo": "mp",
+   "ref": "01.2025.00048201-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00048201-0",
+   "status": "🟢 arquivado",
+   "data": "07/04/2026",
+   "texto": "Sistema Gaia e Konder Motor do Brasil Ltda. EPP, Unidade II. Conclusão: notícia de fato. Comunicação de crime ambiental. Fiscalização realizada pelo órgão competente IMA. As medidas são consideradas adequadas à tutela do bem jurídico ambiental, não se verificando, por ora, necessidade de outra providência. Indeferimento é medida que se impõe."
+  },
+  {
+   "i": 287,
+   "tipo": "mp",
+   "ref": "09.2025.00010046-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00010046-9",
+   "status": "🟡 em apuração",
+   "data": "15/04/2026",
+   "texto": "Comarca de Jaguaruna."
+  },
+  {
+   "i": 288,
+   "tipo": "mp",
+   "ref": "06.2024.00004075-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00004075-0",
+   "status": "🟢 arquivado",
+   "data": "11/05/2026",
+   "texto": "MPSC e Antônio Sorato Dias. Conclusão: Inquérito Civil. Instauração para apurar possível parcelamento clandestino do solo efetuado na cidade de Sangão/SC, na localidade de Morro Grande, em imóvel possuído por Antônio Sorato Dias. Diligência realizada. Irregularidade não constatada. Imóvel de família, dividido entre os herdeiros. Arquivamento do feito."
+  },
+  {
+   "i": 289,
+   "tipo": "mp",
+   "ref": "01.2026.00009972-7",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2026.00009972-7",
+   "status": "🟢 arquivado",
+   "data": "11/06/2026",
+   "texto": "GAIA e Kiko Materiais de Construção Ltda. Conclusão: notícia de fato. Comunicação de suposta infração ambiental decorrente do Auto de Infração Ambiental n. 34525-D. Informações prestadas pelo órgão ambiental competente demonstrando a adoção das providências administrativas cabíveis, com análise da defesa apresentada pelo autuado e regular tramitação do processo administrativo ambiental. Comprovação do cumprimento das condicionantes ambientais exigidas e da regularização do empreendimento mediante emissão de Licença Ambiental de Operação. Ausência de elementos indicativos de omissão dos órgãos responsáveis pela tutela ambiental ou de necessidade de atuação complementar do Ministério Público. Situação devidamente acompanhada e fiscalizada pelo órgão ambiental competente. Indeferimento da no…"
+  },
+  {
+   "i": 290,
+   "tipo": "mp",
+   "ref": "01.2026.00009963-8",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2026.00009963-8",
+   "status": "🟢 arquivado",
+   "data": "18/06/2026",
+   "texto": "Gaia e Wagner Batista da Silva. Conclusão: notícia de fato. Comunicação de suposta infração ambiental decorrente da manutenção irregular em cativeiro de espécime da fauna silvestre ameaçada de extinção (papagaio-de-peito-roxo - Amazona vinacea), objeto do Auto de Infração Ambiental n. 16388-E. Informações prestadas pelos órgãos ambientais competentes demonstrando a lavratura do auto de infração, apreensão do animal, instauração e regular tramitação do processo administrativo ambiental, bem como adequada destinação da ave ao CEPTAS/UNISUL para avaliação e manejo especializado. Existência de procedimento administrativo e persecução penal correlata. Ausência de omissão dos órgãos responsáveis e inexistência de providências complementares a serem adotadas pelo Ministério Público. Indeferiment…"
+  },
+  {
+   "i": 291,
+   "tipo": "mp",
+   "ref": "09.2022.00002035-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00002035-6",
+   "status": "🟡 em apuração",
+   "data": "30/05/2022",
+   "texto": "Sérgio Martins de Souza Queiroz;,Municípios de Jaguaruna, Sangão e Treze de Maio."
+  },
+  {
+   "i": 292,
+   "tipo": "mp",
+   "ref": "01.2024.00018440-1",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00018440-1",
+   "status": "❔ status indef.",
+   "data": "04/07/2024",
+   "texto": "Amanda Rocha Dela Vedova e Secretária Municipal de Educação de Treze de Maio. Conclusão: Noticia de Fato autuada para verificar a necessidade de investigação ministerial cível diante da comunicação que, no CEI Gente Miúda, no período em que a professora regente cumpre hora atividade, a classe fica com auxiliar (profissional de ensino médio, sem magistério) e estagiário bolsista\". Ausência de elementos de tentativa de resolução na esfera administrativa. Situação, prima facie, de fácil composição e sem a caracterização de omissão injustificável. Ausência de legitimidade, no presente momento, do Ministério Público, em respeito a autonomia do Poder Executivo."
+  },
+  {
+   "i": 293,
+   "tipo": "mp",
+   "ref": "01.2025.00026258-5",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00026258-5",
+   "status": "🟢 arquivado",
+   "data": "12/06/2025",
+   "texto": "S.M.S.Q., Municípios de Jaguaruna, Sangão e Treze de Maio. Conclusão: indeferimento. Notícia de Fato autuada para apurar necessidade de instauração de investigação ministerial cível em virtude da comunicação de suposto descumprimento das metas n. 5, 6 e 7 do Plano Nacional de Educação pelos Municípios da Comarca de Jaguaruna. PNE com vigência prorrogada até 31/12/2025, com possibilidade de posterior verificação do descumprimento das metas pelos entes publicos. Existência de Procedimento Administrativo instaurado para acompanhamento da Meta 6. Evolução da nota do IDEB. Ausência de justa causa para instauração de procedimento investigativo, por ora. Racionalização do Parquet."
+  },
+  {
+   "i": 294,
+   "tipo": "mp",
+   "ref": "06.2022.00000086-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00000086-0",
+   "status": "🟡 em apuração",
+   "data": "18/01/2022",
+   "texto": "Karina Pacheco Patrício e Kássia Pacheco Patrício."
+  },
+  {
+   "i": 295,
+   "tipo": "mp",
+   "ref": "01.2021.00025123-9",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N.01.2021.00025123-9",
+   "status": "🟢 arquivado",
+   "data": "24/01/2022",
+   "texto": "M.R.D.S., A.S.E. e A.V.D. Conclusão: indeferimento. Notícia de Fato instaurada para verificar direcionamentos indevidos para servidores públicos realizarem vendas de bens relacionados a prestação de serviços públicos. Ausência de verossimilhança nas alegações formuladas pelo noticiante. Situação sanada em parte. Ausência de proibição de prestação de serviços particulares por servidores públicos."
+  },
+  {
+   "i": 296,
+   "tipo": "mp",
+   "ref": "06.2022.00000720-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00000720-9",
+   "status": "🟡 em apuração",
+   "data": "25/01/2022",
+   "texto": "coletividade de consumidores inicialmente representados por Gildecir Muzi Muller, SF Incorporadora e Construtora Eireli."
+  },
+  {
+   "i": 297,
+   "tipo": "mp",
+   "ref": "01.2022.00001088-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N.01.2022.00001088-0",
+   "status": "🟢 arquivado",
+   "data": "02/02/2022",
+   "texto": "anônimo e V.F. e M.C.R. Conclusão: Indeferimento. Notícia de Fato instaurada para apurar possíveis atos que atentem contra os princípios da administração pública, praticados por servidores municipais de Treze de Maio/SC. Fatos que já estão sendo objeto de investigação em Inquérito Policial instaurado naquele Município. Medidas investigativas que cabem à Autoridade Policial. Ausência de verossimilhança nas demais alegações."
+  },
+  {
+   "i": 298,
+   "tipo": "mp",
+   "ref": "01.2021.00034420-2",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N.01.2021.00034420-2",
+   "status": "🟢 arquivado",
+   "data": "03/02/2022",
+   "texto": "coletividade e J.O.B.G. Conclusão: indeferimento. Notícia de Fato instaurada para apurar crime de falsidade ideológica praticado em decorrência dos registros de ponto da servidora Janaína Oenning Borges Goulart - vinculada aos Municípios de Sangão e Jaguaruna - nos dias 25/7/2016 e 5/8/2016, já que existentes sobreposições de horário nos dois municípios. Inquérito Policial instaurado para investigação dos fatos. Questões cíveis já debatidas no bojo do Inquérito Civil n. 06.2013.00008747-1."
+  },
+  {
+   "i": 299,
+   "tipo": "mp",
+   "ref": "06.2022.00000720-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00000720-9",
+   "status": "🔴 ACP ajuizada",
+   "data": "04/04/2022",
+   "texto": "coletividade de consumidores, inicialmente representada por Gildecir Muzy Muller, e SF Incorporadora e Construtora EIRELI. Conclusão: Inquérito Civil instaurado para apurar eventual lesão aos consumidores pela imobiliária Joel Cruz em razão da comercialização de lotes irregulares. Em razão dos elementos angariados e da gravidade dos fatos, impõe-se a evolução do procedimento para o imediato ajuizamento de ação civil pública."
+  },
+  {
+   "i": 300,
+   "tipo": "mp",
+   "ref": "01.2022.00001427-6",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00001427-6",
+   "status": "🟢 arquivado",
+   "data": "12/04/2022",
+   "texto": "Roseli Margarete Rathe Ruedell. Conclusão: representação acerca de conflito envolvendo a posse/propriedade de bem imóvel privado. Partes civilmente capazes. Interesse individual disponível. Caso judicializado. Objeto da representação que é alvo de ações judiciais deflagradas pela Noticiante. Ausência de lesão ou ameaça aos interesses ou direitos tutelados pelo Ministério Público. Indeferimento de instauração de procedimento investigatório. Arquivamento do feito."
+  },
+  {
+   "i": 301,
+   "tipo": "mp",
+   "ref": "01.2021.00033767-8",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2021.00033767-8",
+   "status": "🟢 arquivado",
+   "data": "19/04/2022",
+   "texto": "Conselhos Tutelares da Comarca de Jaguaruna. Conclusão: Indeferimento. Notícia de Fato instaurada para verificar a efetividade da atuação dos Conselhos Tutelares da Comarca de Jaguaruna no programa APOIA. Em que pese a atuação deficitária não foi possível evidenciar o dolo das condutas. Situação excepcional de retorno das aulas presenciais, no ano de 2021, que ensejou um elevado número de notificações. Comprometimento de aperfeiçoamento da atuação. Desnecessidade de instauração de procedimento, por ora."
+  },
+  {
+   "i": 302,
+   "tipo": "mp",
+   "ref": "09.2022.00003061-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00003061-0",
+   "status": "🟡 em apuração",
+   "data": "26/05/2022",
+   "texto": "Ministério Público de Santa Catarina e Municípios de Jaguaruna, Sangão e Treze de Maio."
+  },
+  {
+   "i": 303,
+   "tipo": "mp",
+   "ref": "01.2022.00014181-5",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00014181-5",
+   "status": "❔ status indef.",
+   "data": "31/05/2022",
+   "texto": "de ofício, Polícia Civil e Delegacia de Treze de Maio. Conclusão: requisitado instauração de inquérito policial. Requisição atendida, sem a necessidade de outras providências."
+  },
+  {
+   "i": 304,
+   "tipo": "mp",
+   "ref": "06.2018.00000690-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2018.00000690-9",
+   "status": "🟢 arquivado",
+   "data": "29/06/2022",
+   "texto": "Ministério Público do Estado de Santa Catarina e Wolnei Serafim. Conclusão: arquivamento. Procedimento instaurado para apurar suposta acumulação de cargos públicos por Wolnei Serafim no"
+  },
+  {
+   "i": 305,
+   "tipo": "mp",
+   "ref": "09.2022.00004478-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00004478-1",
+   "status": "🟡 em apuração",
+   "data": "03/08/2022",
+   "texto": "Ministério Público de Santa Catarina e C.N.M.M."
+  },
+  {
+   "i": 306,
+   "tipo": "mp",
+   "ref": "09.2022.00004480-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00004480-4",
+   "status": "🟡 em apuração",
+   "data": "03/08/2022",
+   "texto": "Ministério Público de Santa Catarina e A.M.E."
+  },
+  {
+   "i": 307,
+   "tipo": "mp",
+   "ref": "09.2022.00004508-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00004508-0",
+   "status": "🟡 em apuração",
+   "data": "03/08/2022",
+   "texto": "Ministério Público de Santa Catarina e L.A.N."
+  },
+  {
+   "i": 308,
+   "tipo": "mp",
+   "ref": "01.2022.00026211-8",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N.01.2022.00026211-8",
+   "status": "🟢 arquivado",
+   "data": "13/09/2022",
+   "texto": "Sartor Alimentos Eireli. Conclusão: arquivamento. Fiscalização realizada pelo Ministério da Agricultura, Pecuária e Abastecimento. Coleta de amostras. Análise laboratorial. Índices inobservantes à legislação. Ingrediente da composição do produto final que ultrapassou o limite previsto na Instrução Normativa n. 52/2011. Responsabilização na esfera administrativa. Imposição de multa. Envio ao Ministério Público. Medidas adotadas na via administrativa que se mostram pertinentes e suficientes à repressão e prevenção. Desnecessidade, ao menos por ora, de adoção de outra medida."
+  },
+  {
+   "i": 309,
+   "tipo": "mp",
+   "ref": "01.2022.00030827-6",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N.01.2022.00030827-6",
+   "status": "❔ status indef.",
+   "data": "13/09/2022",
+   "texto": "J. G. de S. e E.E.A.T."
+  },
+  {
+   "i": 310,
+   "tipo": "mp",
+   "ref": "01.2022.00030833-2",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N.01.2022.00030833-2",
+   "status": "🟢 arquivado",
+   "data": "13/09/2022",
+   "texto": "N.F. e E.E.A.T. Conclusão: indeferimento. Comunicação de possível unificação de turma com troca de horário. Necessidade de observância da Lei Complementar Estadual n. 170/1998. Inexistência de perigo concreto a ensejar atuação, diante do fato de se tratar de notícias de uma possível reunião de turmas sem elementos concretos."
+  },
+  {
+   "i": 311,
+   "tipo": "mp",
+   "ref": "01.2022.00030834-3",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N.01.2022.00030834-3",
+   "status": "🟢 arquivado",
+   "data": "13/09/2022",
+   "texto": "J.M.C. e E.E.A.T. Conclusão: Indeferimento. Comunicação de possível unificação de turma com troca de horário. Necessidade de observância da Lei Complementar Estadual n. 170/1998. Inexistência de perigo concreto a ensejar atuação, diante do fato de se tratar de notícias de uma possível reunião de turma sem elementos concretos."
+  },
+  {
+   "i": 312,
+   "tipo": "mp",
+   "ref": "01.2022.00030835-4",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N.01.2022.00030835-4",
+   "status": "🟢 arquivado",
+   "data": "13/09/2022",
+   "texto": "C.V.J.D. e E.E.A.T. Conclusão: indeferimento. Comunicação de possível unificação de turma com troca de horário. Necessidade de observância da Lei Complementar Estadual n. 170/1998. Inexistência de perigo concreto a ensejar atuação, diante do fato de se tratar de notícias de uma possível reunião de turmas sem elementos concretos."
+  },
+  {
+   "i": 313,
+   "tipo": "mp",
+   "ref": "01.2022.00030836-5",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N.01.2022.00030836-5",
+   "status": "🟢 arquivado",
+   "data": "13/09/2022",
+   "texto": "R.F.S. e E.E.A.T Conclusão: indeferimento. Comunicação de possível unificação de turma com troca de horário. Necessidade de observância da Lei Complementar Estadual n. 170/1998. Inexistência de perigo concreto a ensejar atuação, diante do fato de se tratar de notícias de uma possível reunião de turma sem elementos concretos."
+  },
+  {
+   "i": 314,
+   "tipo": "mp",
+   "ref": "06.2017.00006076-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2017.00006076-5",
+   "status": "❔ status indef.",
+   "data": "13/09/2022",
+   "texto": "anônimo e Servidores do IMA CODAM Tubarão."
+  },
+  {
+   "i": 315,
+   "tipo": "mp",
+   "ref": "01.2022.00043025-3",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N.01.2022.00043025-3",
+   "status": "❔ status indef.",
+   "data": "12/12/2022",
+   "texto": ""
+  },
+  {
+   "i": 316,
+   "tipo": "mp",
+   "ref": "01.2022.00042130-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N.01.2022.00042130-0",
+   "status": "🟢 arquivado",
+   "data": "13/12/2022",
+   "texto": "D. R. N. G. Conclusão: indeferimento. Notícia de Fato autuada em razão da comunicação de \"necessidade de agendar uma reunião com representantes do Ministério Público de Santa Catarina, Polícia Militar e Corpo de Bombeiros Militar, com o fito de mapear e instalar um portão no imóvel que serve como acesso principal à Lagoa de Jaguaruna, com o fito de controlar o acesso ao corpo hídrico\". Incompetência do Ministério Público para mapear propriedades privadas e elaborar políticas de acesso a bens públicos. Concessão que pode ser facultativamente concedida pelo Poder Público. Necessidade de que a comunicante procure os órgãos competentes. Interesse do Ministério Público que se limita aos casos em que o acesso ao corpo hídrico é obstruído de forma indevida, hipótese que não se verifica por ora."
+  },
+  {
+   "i": 317,
+   "tipo": "mp",
+   "ref": "09.2022.00009205-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00009205-1",
+   "status": "🟡 em apuração",
+   "data": "13/02/2023",
+   "texto": "coletividade; Municípios de Jaguaruna, Sangão e Treze de Maio."
+  },
+  {
+   "i": 318,
+   "tipo": "mp",
+   "ref": "09.2023.00000801-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2023.00000801-2",
+   "status": "🟡 em apuração",
+   "data": "14/02/2023",
+   "texto": "Ministério Público de Santa Catarina; Rocha & Filhos Ltda."
+  },
+  {
+   "i": 319,
+   "tipo": "mp",
+   "ref": "06.2023.00001169-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00001169-4",
+   "status": "🟡 em apuração",
+   "data": "30/03/2023",
+   "texto": "Gustavo Kuerten Limaco Botega, Itamar Vieira Rodrigues, Valério Vieira Rodrigues e Anair Vieira Rodrigues."
+  },
+  {
+   "i": 320,
+   "tipo": "mp",
+   "ref": "06.2023.00001213-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00001213-8",
+   "status": "🟡 em apuração",
+   "data": "31/03/2023",
+   "texto": "coletividade de Crianças e Adolescentes; Municípios de Jaguaruna e Sangão e S.D.S.F."
+  },
+  {
+   "i": 321,
+   "tipo": "mp",
+   "ref": "09.2023.00002941-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE PROCEDIMENTO ADMINISTRATIVO N. 09.2023.00002941-8",
+   "status": "🟡 em apuração",
+   "data": "27/04/2023",
+   "texto": "coletividade, Municípios de Jaguaruna, Treze de Maio e Sangão."
+  },
+  {
+   "i": 322,
+   "tipo": "mp",
+   "ref": "01.2023.00016306-8",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00016306-8",
+   "status": "🟢 arquivado",
+   "data": "02/06/2023",
+   "texto": "Diretora de Planejamento Urbano de Jaguaruna. Conclusão: questionamento quanto à possibilidade de aplicação da modalidade de desdobro. Modalidade de desdobro não prevista na Lei n. 6.766/79. Necessidade de legislação municipal para regulamentar o processo de aprovação de parcelamento do solo na modalidade do desdobro. Inexistência de Lei Municipal em Jaguaruna. Impossibilidade de analisar os procedimentos e aprovar pela modalidade do desdobro. Havendo dúvidas quanto às características do imóvel e também quanto à modalidade de parcelamento de solo que deve ser aplicada, deve-se remeter o procedimento ao Ministério Público para análise jurídico- urbanística. Inexistência de caso concreto. Indeferimento que se impõe, pois não há situação a ser investigada."
+  },
+  {
+   "i": 323,
+   "tipo": "mp",
+   "ref": "09.2023.00004329-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2023.00004329-7",
+   "status": "🟡 em apuração",
+   "data": "05/07/2023",
+   "texto": "Ministério Público de Santa Catarina e Fundação Médico Social Rural São Sebastião."
+  },
+  {
+   "i": 324,
+   "tipo": "mp",
+   "ref": "09.2023.00004655-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2023.00004655-0",
+   "status": "🟡 em apuração",
+   "data": "05/07/2023",
+   "texto": "Ministério Público de Santa Catarina, Terezinha Virtuoso Patrício, João dos Passos Patrício, Janice Patrício de Jesus, Osmar Batista de Jesus, Solange Patrício Lacerda, Leonaldo Simon Lacerda, Zoraide Ciria Patrícia Morona e Afonso Morona."
+  },
+  {
+   "i": 325,
+   "tipo": "mp",
+   "ref": "09.2023.00005395-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2023.00005395-1",
+   "status": "🟡 em apuração",
+   "data": "07/08/2023",
+   "texto": "Ministério Público de Santa Catarina e Guarezi Administradora de Bens Ltda."
+  },
+  {
+   "i": 326,
+   "tipo": "mp",
+   "ref": "01.2023.00029795-5",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N.01.2023.00029795-5",
+   "status": "❔ status indef.",
+   "data": "11/09/2023",
+   "texto": "2ª Vara da Comarca de Jaguaruna. Conclusão: comunicação de deficiência de políticas públicas para o bem-estar animal. Comprovada a existência de adoção de políticas públicas. Não se verificou necessidade de adoção de outras medidas para o caso concreto."
+  },
+  {
+   "i": 327,
+   "tipo": "mp",
+   "ref": "06.2023.00003767-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00003767-3",
+   "status": "🟡 em apuração",
+   "data": "05/10/2023",
+   "texto": "coletividade, J. F.S., E. de A. S., CS S. Ltda. e M. de J."
+  },
+  {
+   "i": 328,
+   "tipo": "mp",
+   "ref": "09.2023.00002941-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE PROCEDIMENTO ADMINISTRATIVO N. 09.2023.00002941-8",
+   "status": "🟡 em apuração",
+   "data": "22/11/2023",
+   "texto": "coletividade; Municípios de Jaguaruna, Treze de Maio e Sangão."
+  },
+  {
+   "i": 329,
+   "tipo": "mp",
+   "ref": "09.2021.00006252-0",
+   "header": "· EXTRATO DE CONCLUSÃO DE PROCEDIMENTO ADMINISTRATIVO N. 09.2021.00006252-0",
+   "status": "🟠 TAC firmado",
+   "data": "09/01/2024",
+   "texto": "Ministério Público de Santa Catarina e J.O.B.G. Conclusão: moralidade. Procedimento Administrativo para acompanhar e fiscalizar o cumprimento do Termo de Ajustamento de Conduta firmado entre o Ministério Público de Santa Catarina e a compromissária J.O.B.G nos autos no Inquérito Civil n. 06.2013.00008747-1. Compensação de valores recebidos indevidamente diante do não cumprimento da carga horária semanal. Trabalho sem remuneração pelo total de 840 horas. Cumprimento integral do Termo de Ajustamento de Conduta. Arquivamento."
+  },
+  {
+   "i": 330,
+   "tipo": "mp",
+   "ref": "09.2024.00003250-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00003250-5",
+   "status": "🟡 em apuração",
+   "data": "29/04/2024",
+   "texto": "Comarca de Jaguaruna."
+  },
+  {
+   "i": 331,
+   "tipo": "mp",
+   "ref": "06.2024.00002653-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00002653-6",
+   "status": "🟡 em apuração",
+   "data": "17/06/2024",
+   "texto": "Ministério Público de Santa Catarina, Lenir Feuser e Volnei Asckel Wesling."
+  },
+  {
+   "i": 332,
+   "tipo": "mp",
+   "ref": "09.2024.00006204-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00006204-3",
+   "status": "🟡 em apuração",
+   "data": "31/07/2024",
+   "texto": "Ministério Público de Santa Catarina; E.R.M."
+  },
+  {
+   "i": 333,
+   "tipo": "mp",
+   "ref": "06.2018.00002599-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2018.00002599-4",
+   "status": "🔴 ACP ajuizada",
+   "data": "02/08/2024",
+   "texto": "coletividade e Altair de Pieri de Souza. Conclusão: necessidade de ajuizamento de ação civil pública."
+  },
+  {
+   "i": 334,
+   "tipo": "mp",
+   "ref": "06.2021.00001637-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00001637-0",
+   "status": "🔴 ACP ajuizada",
+   "data": "05/08/2024",
+   "texto": "coletividade, Marli Cabral Schmitz, Symoni Schmitz Goulart Delgado, Synara Schmitz Goulart, A. Nunes Cia. Ltda. e Argemiro Antônio Nunes. Conclusão: necessidade de ajuizamento de ação civil pública."
+  },
+  {
+   "i": 335,
+   "tipo": "mp",
+   "ref": "01.2024.00030365-6",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00030365-6",
+   "status": "❔ status indef.",
+   "data": "19/08/2024",
+   "texto": "Poder Legislativo de Treze de Maio e Poder Executivo de Treze de Maio. Conclusão: comunicação da não observância legal dos critérios de carreira e salarial. Ausência de legitimidade do Ministério Público. Questão a ser resolvida pelo sindicato da categoria."
+  },
+  {
+   "i": 336,
+   "tipo": "mp",
+   "ref": "01.2024.00030365-6",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00030365-6",
+   "status": "❔ status indef.",
+   "data": "28/08/2024",
+   "texto": "Poder Legislativo de Treze de Maio e Poder Executivo de Treze de Maio. Conclusão: comunicação da não observância legal dos critérios de carreira e salarial. Ausência de legitimidade do Ministério Público. Questão a ser resolvida pelo sindicato da categoria."
+  },
+  {
+   "i": 337,
+   "tipo": "mp",
+   "ref": "01.2024.00030363-4",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00030363-4",
+   "status": "❔ status indef.",
+   "data": "16/09/2024",
+   "texto": "Poder Legislativo de Treze de Maio e Poder Executivo de Treze de Maio."
+  },
+  {
+   "i": 338,
+   "tipo": "mp",
+   "ref": "06.2018.00002221-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2018.00002221-0",
+   "status": "🔴 ACP ajuizada",
+   "data": "29/11/2024",
+   "texto": "coletividade; Rosimar Osmar de Souza. Conclusão: necessidade de ajuizamento de ação civil pública."
+  },
+  {
+   "i": 339,
+   "tipo": "mp",
+   "ref": "06.2018.00002789-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2018.00002789-2",
+   "status": "🔴 ACP ajuizada",
+   "data": "02/12/2024",
+   "texto": "coletividade; Zenildo da Silva Burato. Conclusão: necessidade de ajuizamento de ação civil pública."
+  },
+  {
+   "i": 340,
+   "tipo": "mp",
+   "ref": "09.2024.00009325-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00009325-8",
+   "status": "🟡 em apuração",
+   "data": "02/12/2024",
+   "texto": "Ministério Público de Santa Catarina; A.M.E; J.J.L; S.O.E."
+  },
+  {
+   "i": 341,
+   "tipo": "mp",
+   "ref": "01.2024.00052774-2",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00052774-2",
+   "status": "🟢 arquivado",
+   "data": "30/01/2025",
+   "texto": "sigiloso, G.F.A e a apurar. Conclusão: indeferimento. Notícia de Fato autuada para apurar necessidade de investigaçao ministerial cível em razão de comunicação de suposto não cumprimento de atribuições por servidores da Escola Municipal Dalcy Ávila de Souza. Suposta divisão desproporcional de trabalho e interesse patrimonial que devem ser buscados por meio de advogado ou sindicato. Ausência de atribuição do Ministério Público para atuação no ponto. Notícia de susposto descumprimento de carga horária por servidor público que inicialmente deve ser encaminhado à Ouvidoria do Município para devida apuração com posterior compartilhamento de provas acaso necessário. Busca da atuação racional do Parquet."
+  },
+  {
+   "i": 342,
+   "tipo": "mp",
+   "ref": "01.2025.00005601-2",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00005601-2",
+   "status": "🟢 arquivado",
+   "data": "14/02/2025",
+   "texto": "Marco Antônio Remor. Conclusão: pedido de reunião formulado pelo engenheiro agrônomo Marco Antônio Remor, nos interesses do réus nas ações civis públicas números 5004505-93.2024.8.24.0282 e 5001137-76.2024.8.24.0282. Exiguidade do prazo requerido, contudo, sem justificativa plausível. Existência de compromissos judiciais e extrajudiciais pretéritos ao pedido formulado. Casos judicializados, cuja demanda/requerimento pode ser feito nos autos do processo judicial. Requerente sem procuração para agir em nome dos réus das citadas ações civis públicas. Possibilidade da realização de reunião pretendida, desde que com procuração em nome dos interessados e conforme disponibilidade da agenda de compromissos judiciais e institucionais da 1ª Promotoria de Justiça da Comarca de Jaguaruna. Indeferimen…"
+  },
+  {
+   "i": 343,
+   "tipo": "mp",
+   "ref": "09.2025.00003184-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00003184-3",
+   "status": "🟡 em apuração",
+   "data": "02/06/2025",
+   "texto": "Ministério Público de Santa Catarina, Elisandra Marlene Serafim, Teânia Regina Vieira Mota, Gisele Silvano Pereira, Marilesia Cleria Alexandre e Jamilia Duarte Felisbino."
+  },
+  {
+   "i": 344,
+   "tipo": "mp",
+   "ref": "01.2025.00026231-9",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00026231-9",
+   "status": "❔ status indef.",
+   "data": "05/06/2025",
+   "texto": "Sistema Gaia e J. A. M. ME. Conclusão: Notícia de Fato. Comunicação em razão do dever de ofício do sistema GAIA. Aplicação de multa administrativa e acompanhamento pelo IMA para recuperação da área degradada em APP. Ausência de necessidade de intervenção ministerial, sem prejuízo, contudo, de adoção de providências, caso exaurida a possibilidade de intervenção pelos órgãos fiscalizadores do SISNAMA."
+  },
+  {
+   "i": 345,
+   "tipo": "mp",
+   "ref": "09.2025.00004569-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00004569-2",
+   "status": "🟡 em apuração",
+   "data": "30/06/2025",
+   "texto": "Ministério Público de Santa Catarina e Fundação Médico Social Rural São Sebastião."
+  },
+  {
+   "i": 346,
+   "tipo": "mp",
+   "ref": "09.2023.00005395-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2023.00005395-1",
+   "status": "🟠 TAC firmado",
+   "data": "02/07/2025",
+   "texto": "MPSC x Guarezi Administradora de Bens Ltda. Conclusão: Procedimento Administrativo. Instauração de Ofício. Objetivo: Acompanhar e fiscalizar o cumprimento do Termo de Ajustamento de Conduta firmado entre o Ministério Público do Estado de Santa Catarina e a compromissária Guarezi Administradora de Bens Ltda, nos autos do Inquérito Civil n. 06.2022.00000897-4. Comprovação documental do cumprimento das obrigações constantes no Termo de Ajustamento de Conduta firmado com o Ministério Público de Santa Catarina. Arquivamento em razão do cumprimento do objetivo do procedimento em epígrafe."
+  },
+  {
+   "i": 347,
+   "tipo": "mp",
+   "ref": "01.2025.00036301-5",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00036301-5",
+   "status": "🟢 arquivado",
+   "data": "07/08/2025",
+   "texto": "Junia Werner Soares e Juízo da Vara do Trabalho de Tubarão. Conclusão: indeferimento. Notícia de Fato autuada para apurar necessidade de investigação ministerial cível em razão de"
+  },
+  {
+   "i": 348,
+   "tipo": "mp",
+   "ref": "01.2025.00036491-4",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO Nº 01.2025.00036491-4",
+   "status": "❔ status indef.",
+   "data": "21/08/2025",
+   "texto": "L. S. x Ministério Público. Conclusão: comunicação de interesse em relatar questões de regularização de área em ação de usucapião. Posterior extinção do processo por desistência do autor. Perda superveniente do interesse."
+  },
+  {
+   "i": 349,
+   "tipo": "mp",
+   "ref": "09.2025.00005385-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00005385-9",
+   "status": "🟡 em apuração",
+   "data": "27/08/2025",
+   "texto": "Comarca de Jaguaruna."
+  }
+ ]
+}

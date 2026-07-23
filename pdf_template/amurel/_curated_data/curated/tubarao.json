@@ -1,0 +1,5190 @@
+{
+ "mp": [
+  {
+   "i": 0,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 1,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 2,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 3,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 4,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou enriquecimento ilícito de servidores do IMA em Tubarão e arquivou",
+   "description": "O Ministério Público instaurou inquérito civil em março de 2020 para apurar suposto enriquecimento ilícito de servidores no exercício de cargos no Instituto do Meio Ambiente (IMA) de Tubarão, com foco na compra de bens em valor desproporcional à renda declarada. A apuração não encontrou elementos que evidenciassem essa desproporção. Com a entrada em vigor da Lei 14.230/2021, que passou a exigir requisitos mais rígidos para configurar esse tipo de improbidade, o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 5,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Tubarão pagou horas extras acima do limite legal à Guarda Municipal; MP não puniu ninguém",
+   "description": "O Ministério Público apurou o pagamento, pela Prefeitura de Tubarão, de horas extras a servidores da Guarda Municipal em percentual acima dos limites permitidos por lei. O MP reconheceu que houve ato ilegal, mas concluiu que não ficou demonstrado dolo ou má-fé de nenhum agente público, elemento hoje indispensável para caracterizar improbidade administrativa. Sem base para ação civil pública, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 6,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 7,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 8,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP confirma conflito de interesses no órgão ambiental de Tubarão, mas arquiva o caso",
+   "description": "O inquérito civil apurou se servidores do Instituto do Meio Ambiente (IMA/SC) em Tubarão priorizavam licenças e pareceres ambientais em causa própria, favorecendo o engenheiro Arthur de Mello da Cunha, irmão do então gerente do órgão, Felipe de Mello da Cunha, e filho do técnico Rudemar Silveira da Cunha. O Ministério Público constatou o conflito de interesses, que durou alguns meses e não persiste mais, mas não identificou o dolo ou a má-fé exigidos para caracterizar improbidade administrativa. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 9,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP acompanhou recuperação de dano ambiental aprovada pelo conselho de meio ambiente de Tubarão",
+   "description": "O Ministério Público investigou a regularidade da aprovação, pelo Conselho Municipal de Meio Ambiente de Tubarão, do plano de recuperação de área degradada (PRAD) apresentado após intervenção feita por um particular. Um novo PRAD foi apresentado e aprovado pelo órgão ambiental municipal, corrigindo eventual irregularidade anterior, e seu cumprimento passou a ser fiscalizado pela Fundação Municipal de Meio Ambiente. Sem elementos de improbidade administrativa, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 10,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 11,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Técnico do IMA em Tubarão foi acusado de favorecer consultoria ambiental; MP arquivou",
+   "description": "O Ministério Público apurou possível ato de improbidade de um técnico ambiental do Instituto do Meio Ambiente em Tubarão, que supostamente teria favorecido uma empresa privada de assessoria e consultoria ambiental. A investigação não encontrou elementos que indicassem participação do servidor no momento em que a consultoria assumiu os trabalhos da empresa licenciada. Sem elementos mínimos para atribuir a prática de ato ímprobo, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 12,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 13,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 14,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 15,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou prorrogações do contrato de limpeza urbana de Tubarão e não achou dolo",
+   "description": "A partir de denúncia anônima, o Ministério Público investigou as prorrogações do Contrato 67/2013 firmado entre o Município de Tubarão e a empresa Racli Limpeza Urbana Ltda. A investigação concluiu que não houve comprovação de dolo por parte dos agentes públicos envolvidos nas prorrogações. Sem os pressupostos para uma ação por improbidade administrativa, o inquérito civil foi encerrado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 16,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Conflito de interesses no IMA de Tubarão gerou processo disciplinar e revisão de licenças",
+   "description": "O Ministério Público investigou possíveis atos de improbidade de dois servidores do Instituto do Meio Ambiente de Santa Catarina em Tubarão. Constatou conflito de interesses que durou quatro meses e não persiste mais, mas entendeu que faltaram o dolo e a má-fé necessários para configurar improbidade, sobretudo porque a presidência do órgão ambiental sabia e concordava com a situação. O IMA instaurou processo administrativo disciplinar e determinou a revisão de todos os processos ambientais atingidos pelo conflito de interesses; o inquérito do MP foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 17,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 18,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 19,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 20,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 21,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 22,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP checou obra de asfalto e drenagem no bairro São Clemente, em Tubarão, e não achou falha",
+   "description": "Uma denúncia anônima levou o Ministério Público a apurar a suposta execução incompleta da obra de pavimentação e drenagem pluvial da Rua Leoclides Zandavalle, no bairro São Clemente, em Tubarão. A investigação concluiu que a irregularidade noticiada não ocorreu. O inquérito civil foi encerrado sem ação contra a prefeitura ou a empresa executora.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 23,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 24,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Uso de verbas da fundação de meio ambiente de Tubarão prescreveu antes de o MP concluir",
+   "description": "O Ministério Público apurou o suposto uso indevido de valores recebidos pela Fundação Municipal de Meio Ambiente de Tubarão (FUNAT) entre julho de 2013 e outubro de 2018. A investigação não encontrou elementos que demonstrassem a prática de ato de improbidade administrativa, e a pretensão de cobrar de volta os valores aplicados em desacordo com a legislação já estava prescrita. O inquérito civil foi arquivado.",
+   "status": "⚫ prescrito",
+   "severity": "media"
+  },
+  {
+   "i": 25,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Benefícios sem previsão em norma na Fundação Unisul vão a nova promotoria em Tubarão",
+   "description": "A Curadoria das Fundações do Ministério Público concluiu a apuração dos fatos noticiados sobre a Fundação Unisul (Inoversasul) e encerrou seu inquérito civil, por não haver outras medidas a adotar naquela promotoria. Cópia integral do caso foi enviada à 7ª Promotoria de Justiça de Tubarão, da área de moralidade administrativa, para avaliar a responsabilização pela concessão de benefícios sem previsão normativa, inclusive como possível ato de improbidade. O desfecho dessa nova análise não consta da publicação.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 26,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 27,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 28,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 29,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 30,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 31,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 32,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 33,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 34,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 35,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 36,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 37,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 38,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 39,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 40,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 41,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 42,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Após cobrança do MP, Tubarão contrata técnicos e mantém licenciamento ambiental próprio",
+   "description": "O Ministério Público acompanhou se a Fundação Municipal de Meio Ambiente de Tubarão reunia condições para manter a habilitação de licenciamento ambiental em nível III, que exige um número mínimo de profissionais efetivos. O município comprovou a realização de concurso público, com nomeação de engenheiro agrônomo e convocação do aprovado para engenheiro florestal. Regularizado o quadro da FUNAT, o inquérito civil foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 43,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 44,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Creche de Tubarão exigia laudo atualizado de crianças autistas; MP derrubou a exigência",
+   "description": "O Ministério Público apurou a exigência, pelo Centro de Educação Infantil Theresa da Silva Rosendo e pela Fundação Municipal de Educação de Tubarão, de laudo médico atualizado para crianças e adolescentes com Transtorno do Espectro Autista ou deficiências permanentes e irreversíveis. O MP expediu recomendação para que o laudo atualizado deixasse de ser exigido nesses casos, e a recomendação foi acatada, com alteração da Resolução 1/2019/COMET/SC. Sanada a irregularidade, o inquérito foi arquivado sem necessidade de ação judicial.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 45,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou irregularidades nas castrações de cães feitas pela prefeitura de Tubarão",
+   "description": "O Ministério Público investigou as condições em que a Unidade de Vigilância de Zoonoses de Tubarão realizava castrações, sobretudo de cães. Foram verificadas irregularidades, e o município deixou de executar o serviço diretamente, contratando por licitação uma empresa especializada. Como as irregularidades da unidade já vinham sendo acompanhadas em outro procedimento do MP, este inquérito perdeu o objeto e foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 46,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Esgoto em curso d'água e loteamento clandestino no bairro São Martinho, em Tubarão",
+   "description": "O Ministério Público apurou intervenção em área de preservação permanente ao longo da Rua Nicolau Manoel da Silva, no bairro São Martinho, em Tubarão, com poluição de curso d'água, descarte de efluentes e parcelamento clandestino do solo. O município acatou a Recomendação 0005/2023 do MP, com prazo determinado para execução das providências. O inquérito foi arquivado e o cumprimento da recomendação passou a ser acompanhado em procedimento administrativo próprio.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 47,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 48,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Imóvel com acúmulo de lixo em Tubarão vira alvo de ação de demolição da prefeitura",
+   "description": "O Ministério Público apurou possível poluição causada pelo acúmulo de resíduos em um imóvel particular na Rua José Manoel Mendes, bairro São Martinho, em Tubarão. A Prefeitura de Tubarão acompanhou o caso, concluiu que as condições do imóvel ofereciam risco aos moradores vizinhos e ajuizou ação demolitória contra o proprietário. Sem providências remanescentes na área ambiental, o MP arquivou o inquérito e encaminhou cópia à Promotoria da Cidadania para cuidar da situação do idoso que morava no local.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 49,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Deque na Praça do Chafariz, em Tubarão, derrubou vegetação sem autorização",
+   "description": "O Ministério Público apurou a construção de um deque às margens do Rio Tubarão, na Praça do Chafariz, no Centro da cidade, em área de preservação permanente. O MP entendeu que a obra se enquadra em exceção prevista no Código Florestal, mas houve supressão de vegetação sem autorização. O Município de Tubarão firmou termo de compromisso com o Instituto do Meio Ambiente para recuperar o dano ambiental, com fiscalização a cargo do IMA, e o inquérito foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 50,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 51,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 52,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Loteamento clandestino de Tubarão ficou sem drenagem e foi regularizado por programa judicial",
+   "description": "O Ministério Público apurou a falta de infraestrutura mínima, especialmente escoamento pluvial, em um loteamento clandestino implantado em Tubarão. A área foi regularizada pelo projeto Lar Legal e depois complementada por processos de regularização fundiária (REURB) do município, com a instalação de todos os equipamentos urbanos necessários. Resolvido o problema, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 53,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 54,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 55,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP processa responsável por desmatamento e loteamento clandestino em Azambuja, Tubarão",
+   "description": "O Ministério Público apurou desmatamento para implantar loteamento clandestino e descarte de entulhos em curso d'água na Estrada Geral de Azambuja, em Tubarão. Concluída a investigação, o MP ajuizou ação civil pública contra o responsável pelos fatos. O processo tramita na Justiça de Tubarão.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 56,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 57,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP vai à Justiça contra loteamento clandestino e cobra omissão da prefeitura de Sangão",
+   "description": "Inquérito civil conduzido em Tubarão apurou a implantação de um loteamento clandestino em imóvel registrado no 2º Ofício de Registro de Imóveis da comarca, com fracionamento irregular e venda de lotes sem infraestrutura básica nem resguardo das áreas públicas. O Ministério Público apontou a inércia da responsável em regularizar o parcelamento e a negligência do Município de Sangão, que não adotou providências administrativas ou judiciais mesmo depois de instado. O caso evoluiu para o ajuizamento imediato de ação civil pública.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 58,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo para regularizar o Loteamento Prezinho, em Sangão",
+   "description": "O Ministério Público apurou de ofício a implantação do loteamento clandestino conhecido como Loteamento Prezinho, no bairro Morro Grande, em Sangão, registrado na comarca de Tubarão. Foi firmado termo de ajustamento de conduta para regularizar a área pela via da regularização fundiária urbana (REURB), já que se trata de núcleo informal consolidado antes de 2016. O cumprimento do acordo será fiscalizado em procedimento próprio.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 59,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 60,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP analisou uso de área verde para estação de esgoto em Tubarão e não viu irregularidade",
+   "description": "O Ministério Público apurou a suposta desafetação irregular de 1.143 m² de área verde do Loteamento Teixeira, em Tubarão, para instituir servidão administrativa destinada ao sistema de esgoto. Durante a apuração, o local da estação elevatória foi transferido para área institucional do Loteamento Falchetti, e o MP entendeu que a utilidade pública dos equipamentos de saneamento justifica esse uso, sem indícios de prejuízo ambiental. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 61,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 62,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 63,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 64,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Cooperativa que interveio em área protegida em Tubarão cumpriu acordo com órgão ambiental",
+   "description": "O Ministério Público apurou intervenção em área de preservação permanente atribuída à Cooperativa de Usuários dos Campos Públicos (COOPERCAMPO). A infratora já havia firmado termo de ajustamento de conduta com o Instituto do Meio Ambiente de Santa Catarina e comprovou o cumprimento das cláusulas ajustadas, com as medidas administrativas adotadas pelo IMA. Sem justa causa para atuação própria, o MP arquivou o procedimento.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 65,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 66,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 67,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 68,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP processa três bares de Tubarão por poluição sonora",
+   "description": "O Ministério Público instaurou inquérito civil para apurar poluição sonora provocada pelas atividades de três estabelecimentos em Tubarão: Good Times Bar, Black Wood Bar e um bar de Roberto de Oliveira Machado. Concluída a apuração, o MP ajuizou três ações civis públicas, uma contra cada empreendimento. Os processos tramitam na Justiça de Tubarão.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 69,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 70,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP recomenda a Tubarão regularizar loteamento clandestino em área de preservação",
+   "description": "Inquérito do Ministério Público apurou parcelamento de solo clandestino em imóvel de espólio, dentro de área de preservação permanente já incluída em processo de Reurb. O MP concluiu que faltou exigir o estudo técnico ambiental e a formalização de compromisso com os moradores, e expediu recomendação à Secretaria do município para corrigir a regularização fundiária. O cumprimento ainda depende do poder público.",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 71,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 72,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 73,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP processa Tubarão por irregularidade na contratação de estagiário na educação infantil",
+   "description": "O Ministério Público apurou que a contratação de um estagiário para atuar na educação infantil de Tubarão não observou a escolaridade exigida nem as funções previstas. Como o município não corrigiu a situação por via extrajudicial, o MP ajuizou ação civil pública. O inquérito foi arquivado após o ajuizamento da ação.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 74,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP aciona Tubarão por falhas na educação especial de alunos com deficiência",
+   "description": "O Ministério Público investigou a formação exigida para profissionais de apoio escolar, a elaboração dos Planos de Desenvolvimento Individual e a omissão na oferta de educação especial e de Atendimento Educacional Especializado a alunos com deficiência da rede municipal, inclusive nas creches. Sem regularização extrajudicial, o MP ajuizou ação civil pública contra o município. O inquérito foi arquivado após o ajuizamento.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 75,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 76,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou criação de cargo de educador social em creches de Tubarão e não achou irregularidade",
+   "description": "O Ministério Público apurou se a contratação de educadores sociais para os centros de educação infantil, cargo criado por lei municipal em 2022, teria desvio de finalidade. Não foram encontradas irregularidades e o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 77,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 78,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 79,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Após ação do MP, proprietária recupera área de preservação com galpão irregular em Tubarão",
+   "description": "O Ministério Público apurou a construção de um galpão em área de preservação permanente às margens do Rio Caruru, em Tubarão. A responsável apresentou plano de recuperação ambiental (PRAD), aprovado e fiscalizado pela Fundação Municipal de Meio Ambiente. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 80,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura desmatamento em área de preservação em Tubarão; dono recupera área e caso é arquivado",
+   "description": "O Ministério Público investigou supressão de vegetação nativa e terraplanagem em área de preservação permanente em imóvel no bairro Sombrio, em Tubarão. O proprietário apresentou plano de recuperação ambiental aprovado e fiscalizado pela fundação ambiental do município. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 81,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Após recomendação do MP, Tubarão revoga alvará de quadra esportiva que causava poluição sonora",
+   "description": "O Ministério Público apurou poluição sonora causada por uma quadra esportiva de areia no bairro Recife, em Tubarão. O município acatou a recomendação do MP, revogou o alvará de construção e determinou o desfazimento das obras. O inquérito foi arquivado.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 82,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso de loteamento clandestino em Tubarão após Justiça mandar regularizar imóvel",
+   "description": "O Ministério Público investigou intervenção em área de preservação permanente e parcelamento clandestino em imóvel no bairro São João, em Tubarão. Uma ação civil pública movida pelo próprio município já havia obtido sentença determinando a regularização do loteamento e a demolição de construções na área protegida. Diante disso, o MP arquivou o inquérito por perda de objeto.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 83,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 84,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP aciona indústria de argamassa em Tubarão por poluição e funcionamento sem licença",
+   "description": "O Ministério Público apurou que a Tilecol Indústria de Argamassa operava atividade poluente sem licenciamento ambiental, com emissão de ruído acima do permitido e forte emissão de poeira. O MP ajuizou ação civil pública pedindo a paralisação imediata das atividades irregulares e a reparação dos danos ao meio ambiente e à saúde. A ação foi ajuizada.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 85,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 86,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre condomínio em Tubarão aprovado sem sua participação prévia",
+   "description": "O Ministério Público apurou a aprovação de projetos de condomínios urbanísticos em Tubarão sem sua atuação prévia, com possível falha formal no registro do Residencial Moradas da Guarda. Como não havia indícios de dano ambiental ou urbanístico e a situação estava consolidada há mais de cinco anos, o inquérito foi arquivado por ausência de justa causa.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 87,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP conclui que doação de praça pública a bombeiros em Tubarão foi legal",
+   "description": "O Ministério Público apurou lei municipal que autorizou a doação de uma praça pública na Avenida Pedro Zapelini, ao lado do Colégio Santíssimo Sacramento, ao Estado de Santa Catarina para construção de uma unidade do Corpo de Bombeiros. Concluiu que a doação entre entes públicos é possível e não encontrou dano ambiental ou urbanístico decorrente da lei.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 88,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso de descarte irregular de entulho em Tubarão após limpeza da área",
+   "description": "O Ministério Público apurou descarte irregular de resíduos sólidos no solo pela empresa Trans Entulho, no bairro Revoredo, em Tubarão. Os resíduos foram removidos e o órgão ambiental estadual atestou que não restaram danos. O MP indeferiu a abertura de procedimento por falta de justa causa.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 89,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Após ação do MP, Estado passa a fornecer colchões e roupas de cama a presos em Tubarão",
+   "description": "O Ministério Público apurou a falta de fornecimento de colchões, roupas de cama e toalhas às pessoas presas em Tubarão, conforme resolução nacional. Durante o inquérito, o Estado de Santa Catarina regularizou o fornecimento. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 90,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou depósito de resíduos pela prefeitura de Tubarão e não achou contaminação",
+   "description": "O Ministério Público apurou suposto depósito irregular de resíduos pelo município de Tubarão em imóvel na Rua Sebastião Mendes de Faria. Vistoria constatou que o local recebia areia da dragagem do rio, sem material contaminante. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 91,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso de parcelamento clandestino em Tubarão por ser irregularidade apenas cartorária",
+   "description": "O Ministério Público apurou possível parcelamento clandestino de área registrada no 2º Ofício de Imóveis de Tubarão. Concluiu que a irregularidade era parcial, de natureza cartorária e de interesse privado, com os equipamentos urbanos mínimos presentes. O inquérito foi arquivado por ausência de justa causa.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 92,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 93,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 94,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP processa por desmatamento de restinga em Tubarão e Justiça manda recuperar área",
+   "description": "O Ministério Público apurou supressão de vegetação de restinga e ajuizou ação civil pública contra o responsável. A Justiça julgou o pedido parcialmente procedente e determinou a recuperação do dano ambiental. Com a decisão, o inquérito foi arquivado por perda de objeto.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 95,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP aciona Tubarão para anular lei ambiental e alvarás em área de preservação",
+   "description": "O Ministério Público apontou possível ilegalidade e inconstitucionalidade de lei municipal de Tubarão que alterou o Código Ambiental do município, contrariando o Código Florestal. Ajuizou ação civil pública para anular a lei e os alvarás de construção concedidos com base nela. A ação foi proposta.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 96,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 97,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou denúncias de violência e superlotação no presídio de Tubarão e arquivou o caso",
+   "description": "O Ministério Público apurou uma série de denúncias sobre o Presídio Masculino de Tubarão, incluindo transferências imotivadas, ação violenta do grupo tático em operação de novembro de 2022, falhas na saúde e nas visitas, alimentação precária, superlotação e venda de ventiladores por policiais penais. Concluiu não haver elementos que justificassem manter o inquérito e o arquivou, sem apontar responsáveis neste procedimento.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 98,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cobra correção na equipe do acolhimento familiar de Tubarão e caso é arquivado",
+   "description": "O Ministério Público apurou irregularidade na composição da equipe técnica do Serviço de Acolhimento Familiar (Família Acolhedora) de Tubarão, em desacordo com norma do SUAS. A falha foi corrigida e o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 99,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP aponta falha em relatório do acolhimento familiar de Tubarão; município corrige e caso é arquivado",
+   "description": "O Ministério Público apurou irregularidade na atuação da equipe técnica do Serviço de Acolhimento Familiar de Tubarão na elaboração de relatório conclusivo em medida de proteção, em desacordo com o Estatuto da Criança e do Adolescente. A situação foi sanada e o inquérito arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 100,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Após inquérito do MP, Tubarão faz obras de drenagem e firma TAC ambiental na Rua Pedro Menegaz",
+   "description": "O Ministério Público apurou omissão do poder público em obras de escoamento pluvial na Rua Pedro Menegaz, em Tubarão. Estado e município adotaram providências, como desobstrução do canal, instalação de bocas de lobo e comportas, demolição de edificação irregular e assinatura de termo de ajustamento de conduta para recuperar danos. O inquérito foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 101,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 102,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 103,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 104,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 105,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou falta de pediatra para crianças em Tubarão e não achou irregularidade atual",
+   "description": "O Ministério Público apurou possível omissão ou demora do município de Tubarão no atendimento pediátrico a crianças e adolescentes. Concluiu não haver irregularidade atual e arquivou o inquérito.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 106,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Donos de terreno firmam TAC com MP para regularizar loteamento clandestino em Tubarão",
+   "description": "O Ministério Público apurou parcelamento clandestino de solo em imóvel no bairro Santa Luzia, em Tubarão. Os proprietários firmaram termo de ajustamento de conduta para resolver as irregularidades, cujo cumprimento será fiscalizado. O inquérito foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 107,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Após cobrança do MP, Tubarão garante acessibilidade na UBS Recife",
+   "description": "O Ministério Público constatou falta de acessibilidade na Unidade Básica de Saúde do bairro Recife, em Tubarão. O município atendeu às requisições e realizou as adequações, além de comprovar o andamento de uma nova unidade de saúde para o bairro. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 108,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 109,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou loteamento clandestino em Tubarão e não confirmou irregularidade",
+   "description": "O Ministério Público apurou possível loteamento clandestino na Rua Vitório Guarezi, no bairro São Cristóvão, em Tubarão. Concluiu que o 'Loteamento Presidente Juscelino' não apresentava irregularidade e arquivou o inquérito.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 110,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 111,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura atividade poluente sem licença em Tubarão; após regularização, caso é arquivado",
+   "description": "O Ministério Público apurou o exercício de atividade potencialmente poluente sem as licenças ambientais, de responsabilidade de Giovane Soares Joaquim. As autorizações municipais foram obtidas no curso do inquérito e não restaram danos a recuperar. O caso foi arquivado por ausência de justa causa.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 112,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 113,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Posto de combustível em Tubarão operava sem licença; MP firma TAC para reparar dano ambiental",
+   "description": "O Ministério Público apurou que um posto de combustível operava sem licenciamento ambiental, causando poluição. A licença foi obtida durante o inquérito e a empresa firmou termo de ajustamento de conduta para recuperar o dano ambiental. O caso foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 114,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC com indústria de plásticos em Tubarão por resíduos em área protegida",
+   "description": "O Ministério Público apurou disposição irregular de resíduos e intervenção em área de preservação permanente pela Sanplast Indústria de Plásticos. A empresa firmou termo de ajustamento de conduta para recuperar o dano ambiental e o inquérito foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 115,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP processa por descarte de resíduos e operação sem licença em área protegida em Tubarão",
+   "description": "O Ministério Público apurou descarte irregular de resíduos e funcionamento de empresa sem licenciamento ambiental, em área de preservação permanente, de responsabilidade de Vamilson e Rosa Mendes Cascaes. Ajuizou ação civil pública sobre o caso.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 116,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura poluição de metalúrgica sem licença em Tubarão; empresa encerra atividade e caso é arquivado",
+   "description": "O Ministério Público apurou poluição sonora e do ar causada pela Metalúrgica Demag, que operava sem licenciamento ambiental. A empresa mudou de endereço e encerrou a atividade poluente, sem danos remanescentes. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 117,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Empresa é condenada na Justiça a demolir obra em área protegida em Tubarão; MP arquiva inquérito civil",
+   "description": "O Ministério Público apurou intervenção em área de preservação permanente para instalação do Supermachado, no bairro São Clemente, em Tubarão. A empresa já havia sido condenada em ação penal a demolir a obra irregular e recuperar a área, ou regularizá-la com licença. Diante do título judicial existente, o MP arquivou o inquérito civil.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 118,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 119,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração de parcelamento clandestino em Tubarão já tratado em outra ação",
+   "description": "O Ministério Público apurou parcelamento clandestino de solo e intervenção em área de preservação permanente em imóvel no bairro São Martinho, em Tubarão. Constatou que o caso já era objeto de outra ação civil pública e arquivou o inquérito.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 120,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC por desmatamento em área protegida e abre apuração criminal em Pedras Grandes",
+   "description": "O Ministério Público apurou supressão de vegetação nativa e em área de preservação permanente, sem licença, por Loreni Casagrande, em Pedras Grandes. Os investigados firmaram termo de ajustamento de conduta e o inquérito civil foi arquivado, com fiscalização do cumprimento. O MP também abriu apuração criminal sobre os mesmos fatos.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 121,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Indústria de plásticos firma TAC com MP por resíduos e sucata a céu aberto em Tubarão",
+   "description": "O Ministério Público apurou disposição inadequada de resíduos e armazenamento de sucata a céu aberto pela Sanplast, no bairro São Martinho, em Tubarão. A empresa firmou termo de ajustamento de conduta, homologado pelo Conselho Superior do MP, prevendo recuperação da área de preservação e regularização ambiental. Depois, a empresa alegou estar em área urbana consolidada.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 122,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC com empresa por descarte de resíduos em área protegida em Tubarão",
+   "description": "O Ministério Público apurou descarte irregular de resíduos em área de preservação permanente pela empresa Camila Jaqueline Rosa ME, na Estrada Geral de Congonhas. A empresa firmou termo de ajustamento de conduta com medidas de recuperação, indenização e compromisso de não reincidir, o que dispensou o ajuizamento de ação. O inquérito foi arquivado, com fiscalização do TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 123,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 124,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC com indústria por dano em área protegida e falhas de licenciamento em Tubarão",
+   "description": "O Ministério Público apurou intervenção em área de preservação permanente, descumprimento de condicionantes ambientais e atividades sem licenciamento pela Vipel Indústria e Comércio, no bairro São Martinho, em Tubarão, alvo de autos de infração. A empresa firmou termo de ajustamento de conduta, assumindo regularizar a ocupação e o licenciamento e pagar medidas compensatórias. O inquérito foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 125,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Cervejaria em Tubarão instala contenção acústica após inquérito do MP por poluição sonora",
+   "description": "O Ministério Público apurou poluição sonora causada pela Cervejaria Cambirela. A empresa executou projeto de contenção acústica, aprovado pelo órgão ambiental, reduzindo os ruídos. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 126,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 127,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Marmoraria em Tubarão regulariza licença ambiental após inquérito do MP",
+   "description": "O Ministério Público apurou a falta de autorização ambiental da marmoraria SBC Pedras e sua possível localização em área de preservação permanente. A empresa regularizou a atividade com autorização ambiental e o MP concluiu não haver crime. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 128,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura poluição sonora de bar em Tubarão; estabelecimento muda atividade e caso é arquivado",
+   "description": "O Ministério Público apurou poluição sonora do Bar Rocket Beer, no bairro Morrotes, em Tubarão. O estabelecimento passou a funcionar apenas como comércio de bebidas, sem entretenimento, sendo dispensado de tratamento acústico pelo órgão ambiental. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 129,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC com empresa de alumínio e vidros sem licença ambiental em Tubarão",
+   "description": "O Ministério Público apurou a falta de licença ambiental da Alumínios e Vidros Tubarão, no bairro Monte Castelo, e sua localização em área de preservação permanente, alvo de auto de infração. A empresa firmou termo de ajustamento de conduta e o inquérito foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 130,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Vidraçaria em Tubarão faz melhorias acústicas após inquérito do MP por poluição sonora",
+   "description": "O Ministério Público apurou poluição sonora causada pela Vidraçaria União, no centro de Tubarão. O estabelecimento fez melhorias internas de contenção acústica, atestadas pelo órgão ambiental. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 131,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura vazamento de derivado de petróleo em Tubarão; estudo aponta ausência de dano",
+   "description": "O Ministério Público apurou suposta poluição de águas subterrâneas por vazamento de material derivado de petróleo, de responsabilidade da Pavsul Asfaltos, no bairro São João, em Tubarão. Estudo técnico concluiu não haver dano ambiental e a empresa regularizou o licenciamento. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 132,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 133,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 134,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Oficina em Tubarão corrige irregularidades ambientais e de ruído após apuração do MP",
+   "description": "O Ministério Público apurou possíveis irregularidades no funcionamento da oficina Ferreira & Silva (Mecânica de Freios Néo), no bairro Humaitá, em Tubarão, incluindo poluição sonora. O responsável adotou providências que corrigiram as irregularidades ambientais apontadas.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 135,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 136,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 137,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP aciona morador de Tubarão que se recusou a recuperar área de preservação",
+   "description": "O Ministério Público apurou intervenção irregular em área de preservação permanente na Estrada Geral do Caruru, em Tubarão, por Marcos Ouriques Elias. Diante da recusa do investigado em apresentar plano de recuperação com remoção da construção, o MP ajuizou ação civil pública para reparar o dano ambiental.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 138,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 139,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Após inquérito do MP, Tubarão contrata melhorias de acessibilidade em pontos de ônibus",
+   "description": "O Ministério Público apurou as condições de acessibilidade dos pontos de ônibus de Tubarão. Um pregão realizado pelo município em 2021 passou a garantir as condições mínimas de acessibilidade nos pontos. O caso foi encaminhado para arquivamento.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 140,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 141,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 142,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP conclui investigação sobre loteamento clandestino em Tubarão e vai à Justiça",
+   "description": "O Ministério Público investigou o parcelamento clandestino de uma área registrada no 2º Ofício de Registro de Imóveis de Tubarão. Concluída a apuração, o MP ajuizou a Ação Civil Pública n. 5001422-79.2022.8.24.0075. O caso agora corre na Justiça.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 143,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Loteamento irregular em Tubarão: MP fecha acordo de regularização e arquiva caso",
+   "description": "O Ministério Público apurou a implantação de um loteamento irregular sob responsabilidade de Maria Salete Magalhães Fransiconi. Foi firmado Termo de Ajustamento de Conduta prevendo a regularização da área conforme a Lei 6.766/79. Com o acordo assinado, o inquérito foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 144,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração de loteamento clandestino em Tubarão por não achar irregularidade",
+   "description": "O Ministério Público investigou suposto parcelamento clandestino de solo em imóvel de Alberto Mussoi Bardini. A apuração não encontrou elementos que indicassem o parcelamento irregular, nem irregularidade urbanística ou dano ambiental. O inquérito foi arquivado sem responsabilização.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 145,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 146,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo para regularizar loteamento clandestino em Tubarão",
+   "description": "O Ministério Público apurou a implantação de loteamento clandestino atribuída a Fernando Benjamin Michels. Foi celebrado Termo de Ajustamento de Conduta prevendo a regularização da área nos termos da Lei 6.766/79. O inquérito foi arquivado após o acordo.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 147,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Espólio assina acordo com MP para regularizar loteamento clandestino em Tubarão",
+   "description": "O Ministério Público investigou a implantação de loteamento clandestino ligado ao espólio de José Braz Gonçalves. Foi firmado Termo de Ajustamento de Conduta prevendo a regularização da área conforme a Lei 6.766/79. Com o acordo, o inquérito foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 148,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 149,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 150,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Após cobrança do MP, Tubarão executa pavimentação e drenagem que estavam paradas",
+   "description": "O Ministério Público apurou a responsabilidade do município pela fiscalização e, diante da omissão dos beneficiários, pela execução das obras do plano de pavimentação comunitária. A recomendação do MP foi acatada e a prefeitura executou as obras de pavimentação e drenagem da via. Sem danos urbanísticos remanescentes, o caso foi arquivado.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 151,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 152,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 153,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 154,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 155,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 156,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 157,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 158,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 159,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 160,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 161,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 162,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 163,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 164,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 165,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 166,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 167,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 168,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 169,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP constata que as 36 unidades de saúde de Tubarão não cumprem normas de acessibilidade",
+   "description": "O Ministério Público apurou a falta de acessibilidade em prédios e estabelecimentos ligados à Fundação Municipal de Saúde de Tubarão. A conclusão foi de que todas as 36 unidades de saúde estão fora das normas de acessibilidade. O MP arquivou este inquérito e abriu um procedimento próprio para cada unidade, para cobrar as adequações individualmente.",
+   "status": "🟢 arquivado",
+   "severity": "alta"
+  },
+  {
+   "i": 170,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 171,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 172,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 173,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 174,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 175,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 176,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 177,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 178,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 179,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 180,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 181,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 182,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 183,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 184,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 185,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 186,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 187,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 188,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 189,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 190,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 191,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 192,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 193,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 194,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 195,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Grão-Pará cria conselho de direitos da pessoa com deficiência após recomendação do MP",
+   "description": "O Ministério Público recomendou ao município de Grão-Pará a criação do Conselho Municipal dos Direitos das Pessoas com Deficiência. A recomendação foi cumprida integralmente pela prefeitura. Sem interesse em seguir agindo, o MP arquivou o inquérito.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 196,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 197,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 198,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Conselheira tutelar de Tubarão é destituída após recomendação do Ministério Público",
+   "description": "O MP recomendou ao Conselho Municipal dos Direitos da Criança e do Adolescente de Tubarão a destituição da conselheira tutelar titular Andréa Mara Lopes e o respeito à ordem de classificação do Edital 001/2019. A recomendação foi acatada: a conselheira foi destituída e demitida, e Sara dos Santos, suplente, assumiu a vaga. Sem omissão a apurar, o inquérito foi arquivado.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 199,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Tubarão revoga lei que cedia área pública a associação após recomendação do MP",
+   "description": "O Ministério Público apurou a cessão, pela prefeitura de Tubarão, de área institucional à Associação Tubaronense para Integração do Deficiente Visual (ATIDEV). O MP recomendou a revogação da Lei n. 5.031/18 e o município cumpriu integralmente. Sem motivo para ação civil pública, o inquérito foi arquivado.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 200,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP acompanha regularização de loteamento clandestino no bairro São João, em Tubarão",
+   "description": "O Ministério Público apurou o parcelamento clandestino de área na Rua José Manoel Borges, bairro São João, de propriedade de Agenor Bernardo Gonçalves. Quatro imóveis foram regularizados por usucapião e outros três seguem em processo de REURB; o município acatou a recomendação de fazer a regularização de forma coletiva. Como o núcleo já tem toda a infraestrutura essencial, o MP não viu motivo para ação judicial e passou a acompanhar o caso em procedimento administrativo.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 201,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Loteamento clandestino de 30 anos em Tubarão vai à REURB, sem ação do MP",
+   "description": "O Ministério Público apurou parcelamento clandestino na Rua José Manoel Borges, bairro São João, de responsabilidade de Isaura Correa Borges, já falecida. O parcelamento está consolidado há mais de 30 anos e tem a infraestrutura mínima para REURB, com ações de usucapião, inventário e processo de regularização em curso. O MP não viu fundamento para ação civil pública e vai acompanhar o desfecho em procedimento próprio.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 202,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 203,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 204,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva denúncia sobre licença de cerâmicas por já haver ação do órgão ambiental",
+   "description": "O Ministério Público analisou representação sobre possível falta de licenciamento ambiental das empresas San Marcos Revestimentos Cerâmicos e Cerâmica Cejatel. O Instituto Municipal de Meio Ambiente de Sangão (IMASA) já havia adotado medidas administrativas no caso. Diante da atuação efetiva do órgão ambiental, o MP indeferiu a representação e arquivou.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 205,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Coordenador de zoonoses de Tubarão é punido após recusa de cão que acabou abatido",
+   "description": "O Ministério Público apurou a conduta do coordenador da Unidade de Vigilância de Zoonoses, que se recusou a receber um cachorro envolvido em ataque e sem tutor identificado, o que levou à ação policial que resultou no abate do animal. Na esfera administrativa, o servidor foi punido; na criminal, foi firmado acordo de não persecução penal por infração ao artigo 68 da Lei 9.605/98.",
+   "status": "🟠 ACNP firmado",
+   "severity": "media"
+  },
+  {
+   "i": 206,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 207,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso de estação de esgoto construída em área verde de loteamento em Tubarão",
+   "description": "O Ministério Público apurou a construção, pela Tubarão Saneamento S.A., de estação elevatória de esgoto em área verde do Loteamento Santo Antônio de Pádua sem observar as normas vigentes. A prefeitura comprovou ter compensado a área verde usada por outra equivalente dentro do próprio loteamento. Considerando a utilidade pública do saneamento, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 208,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso de loteamento clandestino porque a prefeitura já foi à Justiça",
+   "description": "O Ministério Público apurou suposto parcelamento clandestino do solo na Estrada Geral da Madre, atribuído a Matheus Aguiar Gomes de Melo e Nivaldo Cesar de Melo. Verificou-se que a mesma área já é objeto de Ação Civil Pública ajuizada pelo Município de Tubarão. Sem motivo para nova ação, o MP arquivou o inquérito.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 209,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 210,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 211,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 212,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Após cobrança do MP, prefeitura de Tubarão demole imóvel abandonado no Centro",
+   "description": "O Ministério Público apurou a situação de um imóvel abandonado na Rua Coronel Cabral, no Centro de Tubarão, pertencente a Fernando Mario Lazzarotto, em desacordo com as regras urbanísticas e com a função social da propriedade. A prefeitura adotou providências e demoliu o prédio abandonado. Com isso, o inquérito foi encerrado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 213,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso de imóvel que virou urbano sem definir reserva legal em Tubarão",
+   "description": "O Ministério Público apurou a transformação de um imóvel rural em urbano, de propriedade da Fregnani e Cardoso Empreendimentos, sem a especialização da reserva legal. Durante a apuração, o imóvel foi inscrito no Cadastro Ambiental Rural e a reserva legal declarada foi analisada e aprovada pelo Instituto do Meio Ambiente. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 214,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Tubarão contrata fiscais após MP apontar falha na fiscalização de terrenos baldios",
+   "description": "O Ministério Público apurou possível omissão da prefeitura de Tubarão na fiscalização de terrenos urbanos baldios quanto a limpeza, cercamento e calçadas. O município acatou a recomendação do MP, alterou a lei que fixava o número de vagas de Agentes de Fiscalização de Posturas e admitiu imediatamente quatro fiscais. Equilibrada a demanda do setor, o inquérito foi arquivado.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 215,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 216,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 217,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 218,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 219,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Área verde ocupada em loteamento de Tubarão é devolvida ao uso da comunidade",
+   "description": "O Ministério Público apurou quais medidas a prefeitura de Tubarão vinha tomando para retomar a área verde 2 do Loteamento Parque Cerâmica. O município adotou providências para destinar a área ao uso comunitário. Com a questão resolvida, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 220,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP conclui que Tubarão não foi omissa em terrenos baldios com lixo no Monte Castelo",
+   "description": "O Ministério Público apurou a falta de limpeza e o despejo irregular de resíduos em terrenos baldios do Loteamento Arino Bressan, no bairro Monte Castelo. A prefeitura notificou e autuou os proprietários, e todos os imóveis foram adequados, à exceção de um, cujo dono já foi autuado por não construir a calçada. Sem omissão do município, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 221,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 222,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 223,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 224,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 225,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 226,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 227,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 228,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 229,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 230,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 231,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Loteamento clandestino em Tubarão vira ação na Justiça movida pela prefeitura",
+   "description": "O Ministério Público investigava parcelamento clandestino de solo atribuído a Deise Helena dos Passos Alano Andrejczuk, Paulo Sérgio Ouriques Nunes e Zuleide Ouriques Nunes. Durante a apuração, o Município de Tubarão ajuizou ação civil pública sobre os mesmos fatos, com a participação do MP no processo. Como a questão já está na Justiça, o inquérito do MP foi arquivado.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 232,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 233,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 234,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 235,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 236,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 237,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP não encontra má-fé de servidores em licitação de Tubarão e encerra investigação",
+   "description": "A partir de representação de Alexandre Loch Gesing, o Ministério Público investigou a condução de um procedimento licitatório na prefeitura de Tubarão. A conclusão foi de que não há nos autos qualquer elemento que indique que os agentes públicos envolvidos tenham agido com o propósito de descumprir as regras da administração, nem qualquer indício de má-fé. Ninguém foi responsabilizado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 238,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 239,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 240,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 241,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 242,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 243,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 244,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Morador de Tubarão derruba vegetação nativa sem licença e é obrigado a recuperar a área",
+   "description": "O Ministério Público apurou a supressão de vegetação nativa em regeneração, sem autorização ambiental, feita por Luiz Alberto Mendes da Silva em imóvel no bairro São Martinho. O investigado apresentou um Plano de Recuperação de Área Degradada (PRAD), aprovado pelo órgão ambiental municipal, cujo cumprimento é fiscalizado pela Fundação Municipal de Meio Ambiente de Tubarão. Sem motivo para ação judicial, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 245,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 246,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 247,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo com investigado por promover rinhas de galo em Tubarão",
+   "description": "O Ministério Público apurou a suposta promoção de rinhas de galo por Jacinto de Souza, com base em auto de infração ambiental e termo circunstanciado. Foi firmado Termo de Ajustamento de Conduta para solucionar as irregularidades apuradas. O cumprimento das obrigações será fiscalizado em procedimento administrativo próprio, e o inquérito foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 248,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 249,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 250,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 251,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Loteamento clandestino no Passo do Gado será regularizado por REURB, e MP encerra caso",
+   "description": "O Ministério Público apurou o parcelamento clandestino de área na Rua Nicolau José da Silva, bairro Passo do Gado, pertencente aos herdeiros de Nicolau José da Silva. A prefeitura de Tubarão adotou as medidas administrativas para regularizar a área pela via da REURB, superando as questões urbanísticas e ambientais. Sem fundamento para ação civil pública, o MP arquivou o inquérito.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 252,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 253,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura denúncia de que presídio de Tubarão negava leitura a presos e não vê violação",
+   "description": "O Ministério Público apurou denúncia de que o Presídio Regional de Tubarão estaria negando aos presos o direito à leitura e à remição de pena pelos resumos das obras. A apuração concluiu que o programa de remição pela leitura funciona regularmente, com critérios técnicos e pedagógicos definidos, e que a limitação de vagas se justifica por razões estruturais, com rotatividade e possibilidade de ampliação. Não foi constatada violação de direito.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 254,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 255,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 256,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 257,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso de construção fora do recuo mínimo em rua do São Martinho, em Tubarão",
+   "description": "O Ministério Público apurou uma construção que não teria respeitado o distanciamento mínimo da via na Rua das Bromélias, bairro São Martinho. Verificou-se que a rua já estava fora dos parâmetros legais por ter sido aberta antes da legislação municipal, e que a obra seguiu o alinhamento pré-existente, com aprovação da prefeitura. Como a calçada se mostrou suficiente para o fluxo de pedestres, o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 258,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 259,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 260,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Após ação do MP, prefeitura leva energia elétrica a trechos do Loteamento Vila Genovez",
+   "description": "O Ministério Público apurou a falta de rede de energia elétrica em parte do Loteamento Vila Genovez, em Tubarão. A prefeitura adotou providências que resultaram na implantação da rede nos trechos que estavam sem abastecimento. Resolvido o problema, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 261,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 262,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 263,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura falhas da prefeitura de Tubarão na análise de pedidos de parcelamento de solo",
+   "description": "O Ministério Público instaurou inquérito civil para apurar a deficiência na análise dos pedidos de parcelamento de solo pela prefeitura de Tubarão. O extrato publicado no Diário Oficial está truncado e não informa qual foi a conclusão do caso. Assim, não é possível afirmar o desfecho da apuração.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 264,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 265,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP processa prefeitura de Tubarão por não regularizar o Loteamento Jardim Incocesa",
+   "description": "O Ministério Público apurou a situação do Loteamento Jardim Incocesa, que não foi concluído por causa de áreas de preservação permanente no local, e também do terreno vizinho. Segundo o MP, a prefeitura de Tubarão não respondeu às requisições de informação e se recusou expressamente a adotar providências para regularizar o loteamento. Diante disso, o MP ajuizou ação civil pública para forçar a regularização.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 266,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP vistoria residencial geriátrico em Tubarão e não encontra risco a idosos",
+   "description": "O Ministério Público acompanhou a situação do Residencial Geriátrico Vida Sênior. A vistoria constatou que a instituição tem alvará sanitário válido e funciona regularmente, ainda que com exigências técnicas já apontadas e acompanhadas pela Vigilância Sanitária. Sem risco iminente ou violação de direitos dos idosos, o MP encerrou o acompanhamento, podendo retomá-lo se surgirem fatos novos.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 267,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 268,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 269,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 270,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP vai à Justiça contra muro em via pública em Tubarão e aponta omissão da prefeitura",
+   "description": "O Ministério Público apurou a possível invasão de via pública ou de área non aedificandi por um muro erguido em imóvel na Avenida Manoel Tobias, bairro Passo do Gado. A apuração apontou omissão da prefeitura de Tubarão em agir depois de constatado o dano, e a recusa dos investigados, Fabrício Marcelino Nunes e Pedro de Souza Nunes, em regularizar a construção. O MP ajuizou ação civil pública pedindo a regularização da edificação em área pública.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 271,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP conclui que corte de aluguel social em Tubarão foi regular",
+   "description": "O Ministério Público acompanhou a interrupção do benefício de aluguel social pago pela prefeitura de Tubarão a Eduardo Pedro de Souza, Zaira Castro Vieira de Souza e outros. A conclusão foi de que o corte foi regular, por se tratar de benefício temporário e porque a reavaliação técnica constatou que os beneficiários não preenchiam mais os requisitos legais. O procedimento foi encerrado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 272,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 273,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 274,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva investigação de poluição por empresa de reciclagem de sucata em Tubarão",
+   "description": "O Ministério Público investigou a Dandolini Reciclagem de Sucatas Metálicas por suspeita de poluição do solo, das águas subterrâneas e sonora. A empresa retirou os poluentes encontrados no solo e os destinou a local licenciado; a contaminação da água subterrânea não foi ligada à sua atividade e a poluição sonora não foi confirmada. Sem danos remanescentes, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 275,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Intervenção em área de preservação em Tubarão vira acordo penal com reparação do dano",
+   "description": "O Ministério Público apurou intervenção em área de preservação permanente em imóvel de Lúcia Maria Konrad Schwengber e Valdir Luiz Schwengber. Na esfera criminal, o MP denunciou a coproprietária por crime ambiental e foi proposta suspensão condicional do processo, aceita e homologada em juízo, condicionada à reparação e compensação integral do dano. Com o objetivo alcançado, o inquérito civil foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 276,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo para recuperar margem de rio aterrada e canalizada em Tubarão",
+   "description": "O Ministério Público apurou intervenção em área de preservação permanente atribuída a José Medeiros Martins, com terraplanagem às margens de um curso d'água e sua canalização. Foi celebrado Termo de Ajustamento de Conduta prevendo a apresentação de um Plano de Recuperação de Área Degradada. Com o acordo, o inquérito foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 277,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 278,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Restaurante em Tubarão assina acordo com MP para reduzir barulho acima do permitido",
+   "description": "O Ministério Público apurou poluição sonora causada pelo Restaurante e Lanchonete Jardim da Praça. O estabelecimento firmou Termo de Ajustamento de Conduta comprometendo-se a adotar medidas para reduzir sons e ruídos acima dos níveis permitidos. O inquérito foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 279,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 280,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 281,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 282,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 283,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva denúncia de barulho contra duas indústrias em Pedras Grandes",
+   "description": "O Ministério Público apurou suposta poluição sonora causada pelas empresas Airela Indústria Farmacêutica e Usindi Montagens e Manutenção, na Estrada Geral da Ilhota, em Pedras Grandes. As medições registraram uma única aferição diurna acima do limite, e as empresas ficam em área industrial pelo Plano Diretor, onde a tolerância de ruído é maior. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 284,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Empresa que causava barulho no bairro Oficinas deixa o local e MP encerra caso",
+   "description": "O Ministério Público apurou poluição sonora e funcionamento fora das regras de zoneamento em estabelecimento na Rua Antonio Delpizzo Junior, no bairro Oficinas, em Tubarão. Durante a apuração, a empresa responsável pelo barulho saiu do local. Com a perda do objeto e sem fundamento para ação civil pública, o caso foi encerrado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 285,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 286,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 287,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Casa de festas de Tubarão assina acordo com MP para conter barulho",
+   "description": "O Ministério Público apurou poluição sonora causada pelo Light Stage Casa de Festas e Eventos, no bairro Humaitá, em Tubarão. O estabelecimento firmou termo de ajustamento de conduta com o MP. O inquérito foi arquivado, e o cumprimento do acordo será fiscalizado em procedimento administrativo próprio.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 288,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Empreendimento derruba mata em 2.200 m² de área protegida e assina acordo com MP",
+   "description": "O Ministério Público apurou a supressão de vegetação nativa em área de preservação permanente, com material lenhoso empilhado, atingindo 2.200 m², pelo empreendimento Vila Dom Affonso, na Estrada Geral de Ilhota, em Pedras Grandes. A empresa firmou termo de ajustamento de conduta com cláusulas de reparação, mitigação e indenização. O inquérito foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 289,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Aterro em margem de rio no São Martinho vira acordo de recuperação com o MP",
+   "description": "O Ministério Público apurou intervenção em área de preservação permanente na Rua Adolfo das Neves, bairro São Martinho, em Tubarão, com aterramento por saibro, pedras e tubos de concreto na faixa marginal de um curso d'água. Osmar de Souza Corrêa e Carlos Alexandre das Neves firmaram termo de ajustamento de conduta para recuperar a área degradada. O inquérito foi arquivado, com fiscalização do acordo em procedimento próprio.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 290,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 291,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura barulho em igreja no Centro de Tubarão a partir de reclamação de um morador",
+   "description": "O Ministério Público apurou suposta poluição sonora nas atividades da Igreja Internacional da Graça de Deus, na Avenida Marcolino Martins Cabral, no Centro de Tubarão, a partir de reclamação de uma única pessoa. A apuração registrou que a atividade não exige alvará e que o local está com os itens de segurança aprovados e instalados conforme o Corpo de Bombeiros. O extrato publicado está truncado e não informa a conclusão final do caso.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 292,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Casa de eventos de Tubarão faz isolamento acústico e MP encerra caso de barulho",
+   "description": "O Ministério Público apurou poluição sonora causada pelo Espaço Rota 60, na Rodovia Norberto Brunato, bairro São João, em Tubarão. O estabelecimento fez melhorias internas de contenção acústica e o problema relatado foi resolvido. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 293,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 294,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 295,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Após ação do MP, escola estadual em Tubarão reduz número de alunos em turma do 1º ano",
+   "description": "O Ministério Público apurou o excesso de alunos matriculados numa turma do 1º ano do ensino fundamental, no vespertino, da Escola de Educação Básica Professora Célia Coelho Cruz. O número de alunos por sala foi reduzido, atendendo ao artigo 82 da Lei Complementar 1780/98. Com a irregularidade sanada, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 296,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 297,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 298,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 299,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Lanchonete investigada por barulho em Tubarão encerra atividades e MP arquiva caso",
+   "description": "O Ministério Público apurou, a partir de denúncia anônima, suposta poluição sonora causada pelo estabelecimento Gaúcho Lanches, na Rua Andrino Sales Borges, bairro São Clemente, em Tubarão. O estabelecimento encerrou as atividades durante a apuração. Sem objeto, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 300,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Escola estadual de Tubarão barrava saída de alunos para tratamento; MP fez corrigir",
+   "description": "O Ministério Público apurou irregularidade no impedimento de saída de estudantes para tratamento de saúde contínuo, pela E.E.B. Hercílio Luz e pela Coordenadoria Regional de Educação de Tubarão. A irregularidade foi sanada durante a apuração. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 301,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 302,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 303,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 304,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 305,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 306,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 307,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cobra e escola Hercílio Luz corrige superlotação em turmas do ensino fundamental",
+   "description": "O Ministério Público apurou o excesso de alunos matriculados nas turmas de 1º e 2º ano do ensino fundamental em período integral da Escola de Educação Básica Hercílio Luz, em Tubarão. A irregularidade foi sanada durante a apuração. Sem necessidade de medidas judiciais, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 308,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 309,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Creche municipal de Tubarão reduz alunos por sala após recomendação do MP",
+   "description": "O Ministério Público apurou o excesso de alunos matriculados nas salas do Centro de Educação Infantil Theresa da Silva Rosendo, ligado à Fundação Municipal de Educação de Tubarão. A recomendação do MP foi acatada e a irregularidade foi sanada. O inquérito foi arquivado.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 310,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cobrou efetivo para ala do semiaberto no presídio de Tubarão e encerrou o caso",
+   "description": "O Ministério Público apurou as medidas do Estado de Santa Catarina para garantir efetivo suficiente na ala do regime semiaberto do Presídio Masculino de Tubarão. A partir de junho de 2025 a ala passou a ser gerenciada pela Penitenciária Masculina de Tubarão, e houve concurso interno de servidores e chamamento de novos policiais penais aprovados em concurso. Com a perda do objeto, o inquérito foi arquivado, e o MP segue acompanhando as unidades em visitas mensais.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 311,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Posto de combustível em Tubarão regulariza licença ambiental e MP arquiva caso",
+   "description": "O Ministério Público apurou o descumprimento de condicionantes da Licença Ambiental de Operação pelo Auto Posto Monte Sião. O posto obteve depois a renovação do licenciamento e não foram constatados danos ambientais remanescentes. Sem justa causa, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 312,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP vai à Justiça para regularizar cemitérios de Tubarão e Pedras Grandes",
+   "description": "O Ministério Público apurou a situação de todos os cemitérios dos municípios de Tubarão e Pedras Grandes diante da legislação ambiental. Concluída a apuração, o MP ajuizou duas ações civis públicas para obter a regularização. Os casos correm na Justiça.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 313,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 314,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso de açude sem licença em Tubarão após certidão de conformidade ambiental",
+   "description": "O Ministério Público apurou a instalação de um açude sem licença ambiental por Josué Cristiano da Cruz. Certidão de Conformidade Ambiental atestou que o porte da obra fica abaixo dos limites que exigem licenciamento, e não foram constatados danos ambientais remanescentes. O procedimento foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 315,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP vai à Justiça com pedido de liminar contra Centro Geriátrico Santa Catarina",
+   "description": "O Ministério Público investigou o Centro Geriátrico Santa Catarina em inquérito civil. Ao final, o MP ajuizou Ação de Apuração de Irregularidades em Instituição de Longa Permanência para Idosos, com pedido de liminar. O extrato publicado não detalha quais irregularidades foram apontadas nem o resultado da ação.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 316,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Empresa que descartava efluentes irregularmente em Tubarão encerra atividade e faz acordo",
+   "description": "O Ministério Público apurou o descarte irregular de efluentes pela Renofer Comércio e Representações. A empresa encerrou as atividades poluentes, não foram constatados danos ambientais atuais ou remanescentes no local, e foi firmado termo de ajustamento de conduta com o órgão ambiental do Estado (IMA). O inquérito foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 317,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 318,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Contaminação de solo e água por posto de combustível em Tubarão vira acordo de recuperação",
+   "description": "O Ministério Público apurou a contaminação do solo e de águas subterrâneas ligada ao Auto Posto Pit Stop. Foi firmado termo de ajustamento de conduta com a atual proprietária da área, Santina Marcon Victoreti, prevendo o restabelecimento ambiental integral por meio de processo de Recuperação de Áreas Contaminadas, com estudos e monitoramento do local. O inquérito foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 319,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 320,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 321,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Desmatamento em Tubarão termina em acordo penal com reparação do dano ambiental",
+   "description": "O Ministério Público apurou danos ambientais por supressão de vegetação nativa atribuídos a Alisson Souza Nunes e Geanderson Souza Nunes, apontados em autos de infração do órgão ambiental estadual. A reparação foi acertada na esfera criminal, por meio de Acordo de Não Persecução Penal, cujas obrigações serão fiscalizadas em procedimentos próprios. Sem mais providências administrativas a adotar, o inquérito civil foi arquivado.",
+   "status": "🟠 ACNP firmado",
+   "severity": "media"
+  },
+  {
+   "i": 322,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 323,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 324,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 325,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Terreno baldio usado como lixão no bairro Oficinas é limpo e cercado, e MP arquiva caso",
+   "description": "O Ministério Público apurou o descarte de resíduos sólidos em terrenos baldios na Avenida Altamiro Guimarães, bairro Oficinas, em Tubarão, pertencentes aos herdeiros de Mário Ingrácio. A vistoria não constatou irregularidades, já que o local foi limpo e cercado. Sem fundamento para ação civil pública, o caso foi encerrado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 326,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP conclui que prefeitura de Tubarão agiu contra obra irregular no bairro Humaitá",
+   "description": "O Ministério Público apurou uma obra possivelmente irregular na Rua Januário Alves Garcia, bairro Humaitá, em Tubarão. Verificou-se que a prefeitura não foi omissa: notificou o proprietário, embargou a obra, e o embargo foi respeitado, sem invasão de área pública. O município já autuou o responsável para demolição espontânea e prevê ação judicial de demolição se preciso; o MP arquivou o caso.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 327,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 328,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Prefeitura de Tubarão limpa entulho descartado por moradores em rua do bairro Fábio Silva",
+   "description": "O Ministério Público apurou o descarte irregular de entulhos, sacolas plásticas, embalagens, restos de móveis e resíduos de jardinagem na Rua Sebastião Mendes de Farias, bairro Fábio Silva. A Fundação Municipal do Meio Ambiente informou que os resíduos eram depositados por moradores, sem possibilidade de identificar os responsáveis. A Secretaria Municipal de Serviços Públicos fez a limpeza do local e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 329,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Proprietário limpa terreno com resíduos à beira da BR-101 em Tubarão após atuação do MP",
+   "description": "O Ministério Público apurou a falta de limpeza de terreno às margens da BR-101, no bairro São Martinho, de propriedade de Mário César Brasil. O proprietário retirou o material e o destinou a aterro licenciado, e o processo administrativo no órgão ambiental foi encerrado. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 330,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 331,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 332,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Açudes e criação de peixes sem autorização em Tubarão viram acordo com o MP",
+   "description": "O Ministério Público apurou dano ambiental pela construção de dois açudes e prática de piscicultura no Sítio Duron, de Gilson Cesca Vitoretti, no bairro São Cristóvão, em Tubarão. O investigado firmou termo de ajustamento de conduta com o MP. O inquérito foi arquivado, e o cumprimento do acordo será fiscalizado em procedimento próprio.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 333,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 334,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso de loteadora que virou área urbana sem reserva legal em Tubarão",
+   "description": "O Ministério Público apurou a transformação de imóveis rurais em urbanos pela Jardins Loteadora, sem a prévia especialização da reserva legal. O Instituto do Meio Ambiente constatou que a área não tinha remanescente florestal nativo desde 1990 e é inferior a quatro módulos fiscais, o que atrai a exceção do artigo 67 do Código Florestal. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 335,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP processa um e faz acordo com outro por desmate de Mata Atlântica em Tubarão",
+   "description": "O Ministério Público apurou a supressão de vegetação nativa de Mata Atlântica e a extração de rochas e minério sem autorização ambiental em imóvel na Rua Nicolau Manoel da Silva, bairro São Martinho. Ariel Floriano Koop firmou termo de ajustamento de conduta com o MP, cujo cumprimento será fiscalizado em procedimento próprio. Contra o outro investigado, Luiz Alberto Mendes da Silva, o MP ajuizou ação civil pública; o inquérito teve arquivamento parcial.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 336,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP ajusta acordo com pavimentadora em Tubarão e descarta ação na Justiça",
+   "description": "O Ministério Público apurou a regularidade da licença ambiental de operação e da localização da Pavimentadora e Construtora Falchetti. Foi celebrado novo aditamento ao termo de ajustamento de conduta já existente, para acertar a cláusula sobre a metodologia de cálculo da medida compensatória. O MP concluiu que não havia fundamento para ajuizar ação civil pública e arquivou o inquérito.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 337,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 338,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 339,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 340,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 341,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 342,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Gráfica investigada por contaminar solo em Tubarão se adequa e MP encerra o caso",
+   "description": "O Ministério Público apurou suposta contaminação do solo por descarte de resíduos químicos pela Gráfica e Editora Copiart, na Rodovia Norberto Brunato, em Tubarão. A empresa adotou providências para adequar suas atividades às normas ambientais, medidas consideradas satisfatórias pela Fundação Municipal de Meio Ambiente, que arquivou o processo administrativo. Sem justa causa para ação civil pública, o inquérito foi encerrado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 343,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 344,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 345,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 346,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 347,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 348,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investiga desmanche sem licença em Tubarão e conclui que não houve contaminação do solo",
+   "description": "O Ministério Público apurou a falta de licença ambiental da Maleal Comércio de Peças Novas e Usadas para Veículos e o possível dano pelo acondicionamento de resíduos oleosos direto no solo, em dois endereços da empresa, conforme autos de infração do IMA. O material foi retirado e a análise do solo concluiu que não houve contaminação; verificou-se ainda que a atividade é dispensada de licenciamento. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 349,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Presos de Tubarão ficaram sem medicamentos; MP cobrou e falha foi corrigida",
+   "description": "O Ministério Público apurou a falta de medicamentos para detentos nas unidades prisionais de Tubarão, a partir de atuação da Pastoral Carcerária. As irregularidades foram sanadas no curso da investigação no presídio masculino e na penitenciária masculina; o presídio feminino encerrou as atividades em 2022. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "alta"
+  },
+  {
+   "i": 350,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP abre inquérito sobre o serviço de acolhimento familiar de Tubarão",
+   "description": "O Ministério Público instaurou inquérito civil para acompanhar o Serviço de Acolhimento Familiar \"Família Acolhedora\", programa que coloca crianças e adolescentes afastados da família de origem em famílias acolhedoras. O extrato publicado não detalha o que motivou a apuração. O caso segue em andamento.",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 351,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou contaminação do solo com resíduo de carvão em loteamento de Tubarão",
+   "description": "O Ministério Público investigou a suspeita de contaminação do solo pelo uso de resíduos de carvão como aterro na implantação do loteamento Parque Empresarial Revoredo, de responsabilidade da SH Participações Imobiliárias. O órgão ambiental determinou a retirada do material depositado irregularmente e a medida foi considerada eficaz para cessar e reparar o dano. Com o problema resolvido, o MP arquivou o inquérito.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 352,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apontou falhas na Vigilância Sanitária de Pedras Grandes; órgão corrigiu parte delas",
+   "description": "O Ministério Público apurou irregularidades na estrutura e na atuação da Vigilância Sanitária Municipal de Pedras Grandes. Durante a investigação, o órgão sanou parte das falhas e apresentou justificativas para as demais. O MP concluiu que as pendências restantes não exigem intervenção ministerial e encerrou o caso.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 353,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 354,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 355,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cobrou limpeza de terreno irregular em Tubarão e caso foi encerrado após autuação",
+   "description": "O Ministério Público acompanhou a persistência de irregularidade urbanística em imóvel da família Bonetti Quaresmin, na Rua Ancleto Carlos Alves. O município lavrou auto de infração e a medida foi eficaz para obrigar os proprietários a limpar o local. Sanada a irregularidade, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 356,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 357,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou recusa do Conselho Tutelar de Tubarão em dar acesso a informações",
+   "description": "O Ministério Público investigou a negativa do Conselho Tutelar de Tubarão em franquear acesso a informações e registros do órgão colegiado. Durante a apuração, a irregularidade foi corrigida. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 358,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 359,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 360,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP acompanhou depósito de lixo no bairro São Clemente até a limpeza do terreno",
+   "description": "O Ministério Público apurou o depósito irregular de lixo em imóvel na Rua Alexandre Serafim Neto, no bairro São Clemente, em Tubarão. A atuação da prefeitura foi eficaz para obrigar a proprietária a limpar o local. Com a irregularidade sanada, o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 361,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 362,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 363,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 364,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cobrou cadastro ambiental de propriedade rural em Tubarão e arquivou o caso",
+   "description": "O Ministério Público apurou a regularidade do Cadastro Ambiental Rural de imóvel pertencente a Ademar Bressan e Nerci Benedet Bressan. Os investigados fizeram a inscrição no CAR por georreferenciamento, com base nas coordenadas da matrícula. Como a análise dos dados cabe a órgãos administrativos, sobretudo o IMA, o MP entendeu que não havia motivo para ação civil pública e arquivou o inquérito.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 365,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 366,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquivou apuração sobre cadastro ambiental de imóvel rural após regularização",
+   "description": "O Ministério Público investigou a regularidade do Cadastro Ambiental Rural de imóvel de Pedro Fanderlind Gregório e Marli Maria de Bona Gregório. Os proprietários fizeram a inscrição no CAR durante a apuração. Por entender que a análise cabe aos órgãos administrativos, em especial a SEMAE, o MP concluiu não haver fundamento para ação civil pública e arquivou o caso.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 367,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP não viu atribuição para apurar prisão civil e arquivou denúncia anônima",
+   "description": "Uma denúncia anônima levou o Ministério Público a examinar suposta irregularidade na prisão civil de Claudir Czarnobai. O MP concluiu que a matéria tem via judicial própria e foge da atuação extrajudicial da promotoria, e que não havia elementos sobre a alegada falta de contato do preso com família e advogado. A notícia de fato foi indeferida liminarmente.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 368,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 369,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 370,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Presídio de Tubarão foi investigado por irregularidade contra preso, mas MP arquivou",
+   "description": "O Ministério Público apurou supostas irregularidades cometidas pelo Presídio Regional de Tubarão contra o preso José Márcio dos Santos. As informações prestadas pela unidade prisional foram consideradas suficientes para resolver o caso. Sem elementos que justificassem seguir investigando, o MP indeferiu a notícia de fato.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 371,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou barreiras a visitas no presídio de Tubarão e não viu irregularidade",
+   "description": "O Ministério Público investigou queixas de impedimentos reiterados de visita a presos e de mau atendimento a familiares e visitantes no Presídio Masculino de Tubarão. A apuração concluiu que a unidade seguia regras previamente definidas. Sem elementos para prosseguir, a notícia de fato foi indeferida.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 372,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 373,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Casa de repouso Lírio dos Vales regularizou alvará sanitário sob acompanhamento do MP",
+   "description": "O Ministério Público acompanhou a situação da ILPI Lírio dos Vales, instituição de longa permanência para idosos. A entidade fez as adequações exigidas pela Vigilância Sanitária e obteve o alvará sanitário, sem que outras irregularidades fossem apontadas. O procedimento administrativo foi encerrado por perda de objeto.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 374,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou comida estragada e spray de pimenta em presídio de Tubarão e arquivou",
+   "description": "O Ministério Público investigou denúncias sobre o tratamento do preso Lucas Dias Prestes na Penitenciária de Tubarão, além de suposta entrega de comida estragada, falta de ventilação nas celas e abuso no uso de spray de pimenta. A apuração concluiu que a alimentação e a gramatura seguem o padrão nutricional previsto em contrato. Sem elementos para prosseguir, a notícia de fato foi indeferida.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 375,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquivou denúncia sobre tratamento de presos em Tubarão; superlotação segue na Justiça",
+   "description": "O Ministério Público apurou supostas irregularidades do Presídio Regional de Tubarão no tratamento dos presos. Concluiu que a unidade adota procedimento padrão e que a superlotação já é tratada em processo judicial mais amplo, com mais chance de resultado. Nos demais pontos, não encontrou elementos para seguir investigando e indeferiu a notícia de fato.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 376,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou se a Faepesul, fundação ligada à Unisul, deveria ser extinta",
+   "description": "O Ministério Público investigou a impossibilidade de a Fundação de Apoio à Educação, Pesquisa e Extensão da Unisul (Faepesul) cumprir as finalidades previstas em seu estatuto e a necessidade de promover sua extinção. O extrato publicado registra a conclusão do inquérito, mas não deixa claro qual desfecho foi adotado.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 377,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 378,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 379,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP processa o Estado por não contratar profissionais de apoio escolar em Tubarão",
+   "description": "O Ministério Público apurou a omissão do Estado de Santa Catarina em contratar profissionais de apoio escolar para as escolas da rede estadual na comarca de Tubarão — profissionais essenciais para o atendimento de alunos com deficiência. Diante da falta de solução administrativa, o MP ajuizou ação civil pública contra o Estado, a Secretaria de Estado da Educação e a Coordenadoria Regional de Educação de Tubarão. O inquérito foi encerrado e a cobrança passou a tramitar na Justiça.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 380,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Unisul foi investigada por curso de Ciência da Computação, mas MP arquivou o caso",
+   "description": "A partir de representação de pessoa que não quis se identificar, o Ministério Público investigou a Universidade do Sul de Santa Catarina (Unisul) e a Ânima Educação por questionamentos sobre o curso de Ciências da Computação. A instituição apresentou resposta considerada plausível e o Ministério da Educação também concluiu pelo arquivamento do processo de supervisão sobre o mesmo curso. O MP entendeu não haver fundamento para ação civil pública e arquivou.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 381,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 382,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 383,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 384,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 385,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 386,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Arena Beach Sports fez acordo por som acima do limite e MP encerrou a apuração",
+   "description": "O Ministério Público apurou a emissão de ruídos acima dos limites permitidos pela Arena Beach Sports, em Tubarão. Os mesmos fatos foram tratados na esfera criminal, com acordo de não persecução penal proposto, aceito e homologado na 1ª Vara Criminal, condicionado à reparação e compensação integral do dano. Esgotado o objeto da investigação civil, o procedimento foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 387,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo para recuperar área com depósito irregular de resíduos em Tubarão",
+   "description": "O Ministério Público investigou o depósito irregular de resíduos diretamente no solo, em imóvel de Blaudinei Nunes Gonçalves. O investigado firmou termo de ajustamento de conduta comprometendo-se a apresentar um Plano de Recuperação de Área Degradada. Com o acordo assinado, o inquérito foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 388,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 389,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 390,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 391,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP acompanhou crise financeira da Fundação Unisul e a venda da mantença à Ânima",
+   "description": "O Ministério Público apurou a situação financeira da Fundação Unisul e sua capacidade de honrar obrigações, inclusive trabalhistas e decorrentes de decisões judiciais. Constatou que a fundação não tinha condições de continuar mantendo a Universidade do Sul de Santa Catarina, que corria risco de encerrar as atividades, e acompanhou a transferência onerosa da mantença para a Ânima Holding S.A. O extrato está cortado e não deixa claro o desfecho final do inquérito.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 392,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo por imóvel convertido de rural para urbano sem reserva legal",
+   "description": "O Ministério Público apurou a transformação de imóvel rural em urbano sem a especialização prévia da reserva legal, de responsabilidade de Glenio Rosso Gonçalves e Denise Rosso Gonçalves. Os investigados firmaram termo de ajustamento de conduta prevendo a averbação da reserva legal correspondente na matrícula do imóvel. O inquérito foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 393,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Oficina de gás veicular foi investigada em Tubarão, mas MP não achou irregularidade",
+   "description": "O Ministério Público apurou a atuação da Fly Tech Ltda., empresa de montagem e reparação de sistemas de gás natural veicular. A investigação constatou que a empresa tem licença e alvará de funcionamento, está em local compatível com o zoneamento municipal e não causou danos ambientais ou urbanísticos. Por falta de justa causa, o procedimento foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 394,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 395,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquivou caso de cão com leishmaniose após responsável deixar a comarca",
+   "description": "O Ministério Público apurou o caso de um cão diagnosticado com leishmaniose visceral, doença de relevância para a saúde pública. Há indícios de que o responsável pelo animal deixou a comarca e passou a residir em outro estado, o que inviabilizou medidas pelo MP catarinense. O inquérito foi arquivado, com comunicação à autoridade sanitária competente para as providências cabíveis.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 396,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Após cobrança do MP, proprietário regulariza imóveis sem calçada e cercamento em Tubarão",
+   "description": "O Ministério Público apurou imóveis de Pedrinho Bissoni Correa de Souza em desacordo com exigências urbanísticas, sem cercamento, passeio público e meio-fio. Notificado, o proprietário comprovou ter feito as obras necessárias para adequar os imóveis à legislação municipal. Sem danos remanescentes, o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 397,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 398,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 399,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 400,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP vai à Justiça contra parcelamento clandestino de terreno em Tubarão",
+   "description": "O Ministério Público investigou o parcelamento clandestino de área registrada sob o n. 49.634 no 2º Ofício de Registro de Imóveis, envolvendo integrantes das famílias Negro, Gonçalves e Silveira. Concluída a apuração, o MP ajuizou a Ação Civil Pública n. 5006330-82.2022.8.24.0075. O caso passou a tramitar na Justiça.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 401,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 402,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 403,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 404,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 405,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 406,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 407,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquivou apuração sobre reserva legal em imóvel de ferragem em Tubarão",
+   "description": "O Ministério Público apurou a transformação de imóvel rural em urbano sem a prévia especialização de reserva legal, envolvendo a A. Silva Ferragens Ltda. e a Delupo Comércio de Ferramentas e Máquinas Ltda. Ficou comprovado que, em 2006, o imóvel já não tinha mata nativa, situação amparada pelo artigo 67 do Código Florestal. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 408,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 409,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 410,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 411,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 412,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Loteadora faz acordo com MP após burlar lei ao desmembrar terrenos em Tubarão",
+   "description": "O Ministério Público apurou possível burla à Lei do Parcelamento do Solo em desmembramentos feitos pela Marcon Administração de Empreendimentos Imobiliários em três matrículas do 2º Ofício de Registro de Imóveis de Tubarão — manobra que reduz a obrigação de destinar áreas verdes e institucionais ao município. A empresa firmou termo de ajustamento de conduta prevendo medidas de compensação dessas áreas públicas, o que afastou a necessidade de ação civil pública. O inquérito foi arquivado e o cumprimento do acordo segue sob fiscalização.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 413,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 414,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 415,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 416,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 417,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP conclui que Jaguaruna e Sangão não são obrigados a ter plano da Mata Atlântica",
+   "description": "O Ministério Público examinou a elaboração e a implementação do Plano Municipal de Conservação e Recuperação da Mata Atlântica pelos municípios de Jaguaruna e Sangão, a partir de procedimento anterior da 6ª Promotoria de Justiça de Tubarão. Concluiu que, pelo artigo 38 da Lei 11.428/2006, o plano é facultativo — cabe a cada prefeitura decidir, com incentivo financeiro federal como contrapartida —, o que afasta a possibilidade de intervenção ministerial. A notícia de fato foi arquivada.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 418,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo por loteamento clandestino no bairro São Clemente, em Tubarão",
+   "description": "O Ministério Público apurou o parcelamento clandestino de solo em imóvel de Samuel Gomes, na Rua Tenente João Luiz Maus, bairro São Clemente. O investigado firmou termo de ajustamento de conduta, o que afastou o interesse em ajuizar ação. O inquérito foi arquivado, com o cumprimento do acordo fiscalizado em procedimento próprio, e o MP abriu nova apuração sobre parcelamento irregular do outro lado da mesma rua.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 419,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 420,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 421,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 422,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 423,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 424,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 425,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo por corte de vegetação nativa na Estrada Geral da Guarda, em Tubarão",
+   "description": "O Ministério Público apurou a supressão de vegetação nativa promovida por João Augusto da Silva em área no Km 60 da Estrada Geral da Guarda, em Tubarão. O investigado firmou termo de ajustamento de conduta para recuperar a chamada \"Área 2\" do imóvel, e o inquérito foi parcialmente arquivado. O MP abriu um novo inquérito para definir quem responde pela recuperação da \"Área 1\".",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 426,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 427,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 428,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 429,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 430,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Cartórios de Tubarão acatam recomendação do MP sobre matrícula de fração de imóvel",
+   "description": "O Ministério Público apurou suposta burla à Lei de Registros Públicos e ao Código de Normas da Corregedoria-Geral da Justiça nos cartórios de registro de imóveis de Tubarão, que vedam a abertura de matrícula para parte ideal de um imóvel. Os cartorários justificaram as providências tomadas nos casos concretos e acataram recomendação do MP para não abrir matrícula de fração ideal. A Corregedoria-Geral da Justiça concluiu pela regularidade dos atos e o inquérito foi arquivado.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 431,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou condições de funcionamento de centro para dependentes químicos em Pedras Grandes",
+   "description": "O Ministério Público apurou as condições de funcionamento do Centro de Apoio ao Dependente Químico de Pedras Grandes. O extrato publicado registra o encerramento do inquérito, mas apenas reproduz as hipóteses legais de arquivamento, sem dizer qual delas se aplicou. Não é possível afirmar, pelo texto, se houve acordo, recomendação cumprida ou simples falta de fundamento para ação.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 432,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 433,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 434,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 435,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 436,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 437,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 438,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Hospital de Tubarão deixou de operar paciente e só agiu após recomendação do MP",
+   "description": "O Ministério Público constatou a omissão do Hospital Nossa Senhora da Conceição em realizar procedimento cirúrgico na paciente Santina Corrêa da Silva. O MP expediu recomendação ao hospital para que a cirurgia fosse feita. O procedimento foi realizado conforme as orientações médicas, as condições de saúde da paciente e a Política Hospitalar Catarinense, e o inquérito foi encerrado.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 439,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 440,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 441,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 442,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Transportadora na SC-370 foi investigada pelo MP e teve funcionamento considerado regular",
+   "description": "O Ministério Público apurou a regularidade do funcionamento da Sul Catarinense Transportes (atual DM2 Transporte), instalada na Rodovia SC-370, no bairro São Martinho, em Tubarão. A apuração constatou que a atividade é permitida pelo zoneamento urbano e que o alvará de funcionamento foi regularizado. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 443,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 444,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 445,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 446,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 447,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 448,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou cobrança da Tubarão Saneamento em imóveis com um só hidrômetro e não viu abuso",
+   "description": "O Ministério Público investigou denúncia de cobrança abusiva pela Tubarão Saneamento em imóveis com mais de uma edificação atendidos por um único hidrômetro. A concessionária atendeu às requisições do MP e a apuração concluiu que não havia abusividade — o critério usado, na verdade, resultava em vantagem para o consumidor. O inquérito foi encerrado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 449,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 450,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 451,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 452,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 453,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 454,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 455,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 456,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 457,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 458,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP encerra inquérito sobre loteamento clandestino no Centro de Tubarão, já discutido na Justiça",
+   "description": "O Ministério Público apurou o parcelamento clandestino do solo implantado por Reinaldo José Hoepers Marcelino em imóvel da empresa Móveis Kaiuby, na Rua Adelcia Mendes Cargnin, no Centro de Tubarão. A apuração constatou que o mesmo parcelamento já é objeto da Ação Civil Pública n. 5004539-10.2024.8.24.0075. O inquérito foi arquivado e a discussão segue no processo judicial.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 459,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 460,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Asilo Jardim dos Idosos se adequou à Vigilância Sanitária e MP encerrou acompanhamento",
+   "description": "O Ministério Público acompanhou a ILPI Jardim dos Idosos, instituição de longa permanência para idosos, quanto ao cumprimento das exigências da Vigilância Sanitária. Após a mudança de local, a instituição se adequou e foi inspecionada pelo MP e pela Visa, com alvará sanitário e atestado do corpo de bombeiros válidos. O procedimento foi encerrado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 461,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 462,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou corpo d'água no bairro Oficinas e cobrou regularização de esgoto",
+   "description": "O Ministério Público abriu inquérito de ofício para definir se o corpo d'água da Rua Senador Arnor Damiani, no bairro Oficinas, em Tubarão, era um curso d'água natural alterado ou apenas um trecho de drenagem. A apuração concluiu tratar-se de trecho de drenagem e registrou a regularização dos sistemas de tratamento de esgoto das residências às margens. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 463,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 464,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 465,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 466,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP abre inquérito sobre a COSIP, taxa de iluminação pública cobrada em Tubarão",
+   "description": "O Ministério Público instaurou inquérito civil tendo como objeto a Contribuição para Custeio do Serviço de Iluminação Pública (COSIP) de Tubarão, cobrada dos moradores na conta de luz. O extrato publicado não detalha qual aspecto da cobrança ou da aplicação do dinheiro está sob exame. A apuração segue em curso.",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 467,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 468,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 469,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 470,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 471,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 472,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 473,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 474,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Tribunal descarta burla em desmembramento de terreno e MP arquiva inquérito em Tubarão",
+   "description": "O Ministério Público investigou possível burla no parcelamento do solo de imóvel na Avenida Visconde de Barbacena, bairro Recife, em Tubarão, envolvendo Jairo Fernandes Gonçalves, Maria Helena Marin e o Posto Oficinas. O Conselho da Magistratura do Tribunal de Justiça de Santa Catarina entendeu que não houve burla e liberou o prosseguimento do desmembramento. Sem justa causa, o MP arquivou o inquérito.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 475,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 476,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 477,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 478,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 479,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 480,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 481,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Casa de repouso Bem Viver faz acordo com MP e vai indenizar por falhas sanitárias",
+   "description": "O Ministério Público, junto com a Vigilância Sanitária, apurou a situação da ILPI Bem Viver, instituição de longa permanência para idosos em Tubarão. A entidade firmou termo de ajustamento de conduta que prevê o pagamento de medida indenizatória e obrigações para cumprir integralmente as exigências sanitárias previstas em lei. O inquérito foi encerrado e o cumprimento do acordo passou a ser fiscalizado pelo MP.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 482,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 483,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 484,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 485,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 486,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 487,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 488,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 489,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 490,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Guarda Municipal de Tubarão foi alvo de denúncia anônima, mas MP arquivou o caso",
+   "description": "O Ministério Público abriu um procedimento preparatório a partir de uma denúncia anônima envolvendo a Guarda Municipal de Tubarão. Ao final, os promotores concluíram que não havia fundamento para entrar com ação civil pública nem para novas diligências. O caso foi arquivado, sem responsabilização de ninguém.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 491,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investiga Hospital Nossa Senhora da Conceição após denúncia ao Disque Direitos Humanos",
+   "description": "O Ministério Público instaurou inquérito civil sobre o Hospital Nossa Senhora da Conceição, em Tubarão, a partir de comunicação do Disque Direitos Humanos. O extrato publicado não detalha qual conduta está sendo apurada. A investigação está em andamento.",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 492,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 493,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo com casa de repouso de Tubarão e abre procedimento para cobrar o cumprimento",
+   "description": "O Ministério Público firmou um Termo de Ajustamento de Conduta (TAC) com a Ággia Casa de Repouso Ltda., de Tubarão, e instaurou procedimento administrativo para acompanhar se o acordo está sendo cumprido. O extrato publicado não informa quais irregularidades motivaram o acordo. O acompanhamento segue em curso.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 494,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 495,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 496,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP checou atendimento a presos em situação de rua no Presídio de Tubarão e não achou falhas",
+   "description": "O Ministério Público abriu notícia de fato para verificar como as redes de saúde e assistência social atendem os presos do Presídio Masculino de Tubarão, com foco na população em situação de rua. A apuração concluiu que o atendimento é adequado, com encaminhamentos feitos em conjunto com a Prefeitura. Sem indícios de irregularidade, o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 497,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP avaliou saúde e assistência social na Penitenciária de Tubarão e considerou a atuação adequada",
+   "description": "A notícia de fato foi instaurada para verificar o atendimento das redes de saúde e assistência social na Penitenciária Masculina de Tubarão, com foco em presos em situação de rua. O Ministério Público constatou que os atendimentos e encaminhamentos são feitos em conjunto com o Município. Sem elementos para prosseguir, o procedimento foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 498,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 499,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Denúncia de falta de comida e maus-tratos na Penitenciária de Tubarão foi apurada e arquivada pelo MP",
+   "description": "O Ministério Público apurou relatos de escassez de alimentos para presos da ala B e de maus-tratos a internos das alas A e B da Penitenciária Masculina de Tubarão. A investigação concluiu que a alimentação e as porções servidas seguem o padrão nutricional previsto em contrato. Por falta de elementos, o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 500,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou soltura indevida de preso em Tubarão e não achou culpa de servidor específico",
+   "description": "O Ministério Público investigou a soltura indevida de João Vitor Medeiros, que estava preso no Presídio Regional de Tubarão. A promotoria de controle externo da atividade policial atestou que não há elementos apontando conduta dolosa ou culposa de servidor determinado, e classificou o episódio como possível falha ocasional. A apuração administrativa não prosseguiu, mas foi determinada a instauração de um procedimento judicial sobre a questão.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 501,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 502,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo com Colégio São José e Sociedade Divina Providência e vai fiscalizar o cumprimento",
+   "description": "O Ministério Público celebrou Termo de Ajustamento de Conduta (TAC) com o Colégio São José e a Sociedade Divina Providência, em Tubarão, e abriu procedimento para acompanhar a execução do acordo. O extrato não informa o que motivou o compromisso. O acompanhamento está em andamento.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 503,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou restrição de visitas e maus-tratos a preso em Tubarão e arquivou por faltas disciplinares comprovadas",
+   "description": "O Ministério Público investigou possíveis irregularidades no tratamento dado ao preso Leonardo Serafim Alves no Presídio Masculino de Tubarão, incluindo dificuldade no direito de visitas e suposto maus-tratos. A apuração constatou faltas disciplinares comprovadas que justificam a suspensão das visitas. Sem elementos para prosseguir, o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 504,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP verificou situação de presos LGBTQIA+ na Penitenciária de Tubarão e considerou a atuação adequada",
+   "description": "A notícia de fato foi aberta para checar a situação das pessoas LGBTQIA+ custodiadas na Penitenciária Masculina de Tubarão. O Ministério Público concluiu que a atuação da unidade é adequada. O procedimento foi arquivado por ausência de elementos que justificassem a continuidade da investigação.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 505,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou possíveis violações a direitos de presos LGBTQIA+ em Tubarão e arquivou o caso",
+   "description": "O Ministério Público instaurou notícia de fato para apurar eventuais afrontas aos direitos de pessoas LGBTQIA+ na Penitenciária Masculina de Tubarão. Não foram encontrados elementos que justificassem o prosseguimento da investigação. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 506,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP checou queixas sobre marcação de visitas na Penitenciária de Tubarão e arquivou o caso",
+   "description": "A investigação tratou de dificuldades relatadas no sistema de marcação de visitas da Penitenciária de Tubarão. O Ministério Público verificou que a unidade segue regras previamente definidas e que já foram buscadas providências para melhorar a designação das visitas. Sem elementos para seguir adiante, o procedimento foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 507,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou falta de pagamento a presos que trabalham em Tubarão e não responsabilizou a penitenciária",
+   "description": "O Ministério Público investigou suposta falta de pagamento a apenados que prestam serviços para empresa terceirizada, sob responsabilidade da Penitenciária Masculina de Tubarão. A apuração concluiu que a unidade adota o procedimento padrão e que o problema não pode ser atribuído a ela. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 508,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou corte de visitas em galeria da Penitenciária de Tubarão e arquivou por falta de provas",
+   "description": "A notícia de fato apurou a suposta supressão do direito de visitas a familiares de presos das celas B6, B8 e B14 da Galeria B da Penitenciária Masculina de Tubarão. A unidade prisional respondeu em sentido contrário ao relato. Sem elementos que sustentassem a denúncia, o Ministério Público arquivou o caso.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 509,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 510,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 511,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 512,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 513,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 514,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  }
+ ],
+ "tce": [
+  {
+   "i": 0,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multa ex-prefeito de Tubarão por contrato de R$ 689 mil da iluminação de Natal sem licitação",
+   "description": "O Tribunal de Contas inspecionou o Termo de Fomento n. 007/2022, de R$ 689.428,00, firmado pela Prefeitura de Tubarão com a Câmara de Dirigentes Lojistas para a iluminação natalina de 2022, sem chamamento público. O TCE considerou o contrato irregular e apontou burla evidente ao procedimento licitatório, além da liberação do dinheiro sem pareceres técnico e jurídico. O ex-prefeito Joares Carlos Ponticelli, que assinou o termo, recebeu duas multas de R$ 1.990,60 cada. O Tribunal ainda recomendou mudanças na forma como o município celebra parcerias.",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta"
+  },
+  {
+   "i": 1,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE manda Tubarão manter suspensa licitação do estacionamento rotativo",
+   "description": "O Tribunal de Contas analisou o edital do Pregão Presencial n. 27/2021, da Prefeitura de Tubarão, para contratar a informatização do estacionamento rotativo, com venda de créditos e monitoramento de vagas. Após examinar as justificativas apresentadas pelo então prefeito Joares Carlos Ponticelli, o relator determinou que o edital continuasse sustado e que fossem feitas adequações. A Prefeitura teve de comprovar as correções ao Tribunal para que a suspensão pudesse ser revista.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 2,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE suspende licitação de asfalto em Tubarão por suspeita de sobrepreço de R$ 5,7 milhões",
+   "description": "O Tribunal de Contas determinou a suspensão imediata da Concorrência n. 05/2023, lançada pela Prefeitura de Tubarão para contratar serviços de pavimentação asfáltica, reperfilagem e faixas elevadas. A área técnica apontou possível sobrepreço de R$ 5.757.080,00, orçamento inadequado, projeto de qualidade insuficiente e falta de ARTs. O prefeito Jairo dos Passos Cascaes foi chamado a se explicar, corrigir as falhas ou anular a licitação.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 3,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta dano de R$ 267 mil em contrato de iluminação pública de Tubarão e cobra explicações",
+   "description": "Auditoria do Tribunal de Contas no Contrato n. 11/2021, de manutenção da iluminação pública de Tubarão, firmado com a empresa João Eduardo Botega EIRELI por R$ 479,9 mil ao ano, constatou medições e pagamentos indevidos à contratada. O processo foi convertido em Tomada de Contas Especial e o TCE definiu responsabilidade solidária, citando o gerente da COSIP Everson Barbosa Martins e a empresa por dano de R$ 267.986,12, e o ex-gerente de gestão Darlan Mendes da Silva e a empresa por R$ 9.834,21 referentes a aumento indevido de 25% nos custos via aditivo. Os citados foram intimados a apresentar defesa em 30 dias; não há decisão final sobre responsabilização.",
+   "status": "🟡 em instrução (citação/audiência)",
+   "severity": "alta"
+  },
+  {
+   "i": 4,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE reafirma dano de R$ 386 mil no contrato de iluminação pública de Tubarão",
+   "description": "Em nova manifestação no processo sobre o Contrato n. 11/2021 de iluminação pública de Tubarão, o relator do Tribunal de Contas confirmou a metodologia da área técnica que apurou dano ao erário de R$ 386.485,36. Ele destacou que o edital do Pregão Presencial n. 07/2021 tinha orçamento genérico, sem a decomposição de custos exigida pela lei de licitações. O relator determinou o saneamento de parte dos autos, e o julgamento definitivo das responsabilidades ainda não ocorreu.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "alta"
+  },
+  {
+   "i": 5,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 6,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE considera irregular licitação de R$ 4,8 milhões do lixo de Tubarão e Prefeitura anula o edital",
+   "description": "O Tribunal de Contas julgou irregular o Pregão Eletrônico n. 26/2023, da Prefeitura de Tubarão, para destinação final de resíduos sólidos, no valor máximo de R$ 4.834.800,00. Foram apontadas a falta de orçamento detalhado e uma exigência restritiva de que o aterro da empresa vencedora ficasse a no máximo 50 km da sede do município. O prefeito Jairo dos Passos Cascaes foi obrigado a anular a licitação, o que foi comprovado com a publicação do termo de anulação em abril de 2024, e o processo foi encaminhado para arquivamento.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 7,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 8,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multa ex-prefeito de Tubarão por atrasar de novo a entrega das contas do município",
+   "description": "O Tribunal de Contas apurou a reincidência no atraso do envio da Prestação de Contas do Prefeito de Tubarão e considerou o ato irregular. Joares Carlos Ponticelli, prefeito em 2021, foi multado em R$ 1.990,60, com prazo de 30 dias para recolher o valor aos cofres do município ou recorrer. A decisão foi tomada em sessão plenária de março de 2024.",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta"
+  },
+  {
+   "i": 9,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 10,
+   "tipo": "tce",
+   "keep": true,
+   "title": "Área técnica do TCE pede suspensão de licitação de manutenção predial em Tubarão",
+   "description": "A Diretoria de Licitações e Contratações do Tribunal de Contas analisou o Pregão Presencial n. 06/2022, da Prefeitura de Tubarão, para registro de preços de insumos e serviços de manutenção predial em prédios municipais e órgãos conveniados. O relatório apontou pagamento por hora trabalhada, em desacordo com a lei de licitações, e parcelamento indevido do objeto, e sugeriu ao relator a sustação cautelar do edital e a audiência do então prefeito Joares Carlos Ponticelli. O documento traz a proposta da área técnica; o texto publicado não mostra a decisão final do Tribunal.",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 11,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE manda apurar atraso nas contas, dívida ativa e gasto com creches privadas em Tubarão",
+   "description": "Ao analisar a Prestação de Contas do Prefeito de Tubarão referente a 2023, o Tribunal de Contas determinou a abertura de autos apartados para apurar a remessa fora do prazo das contas, fiscalizar a dívida ativa do município e examinar despesas feitas com creches privadas com fins lucrativos. O período teve três gestores: Joares Carlos Ponticelli, Gelson José Bento e Jairo dos Passos Cascaes. O trecho publicado traz as determinações do parecer prévio, sem indicar de forma explícita a recomendação final sobre aprovação das contas.",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 12,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE suspende licitação da nova sede da Defesa Civil de Tubarão",
+   "description": "A partir de uma representação sobre supostas irregularidades, o Tribunal de Contas determinou cautelarmente a sustação da Tomada de Preços n. 22/2022, lançada pelo Município de Tubarão para reformar e ampliar a nova sede da Defesa Civil, no antigo prédio do 5º DP. O prefeito em exercício teve cinco dias para comprovar a suspensão, sob risco de sanções, e foi chamado a prestar esclarecimentos. O Tribunal determinou ainda a realização de auditorias e diligências para apurar os fatos.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 13,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multa ex-prefeito e gestoras de Tubarão por cancelar empenhos e R$ 843 mil em FGTS",
+   "description": "O Tribunal de Contas julgou irregulares o empenho e o cancelamento indevidos de despesas da Prefeitura (R$ 54 mil) e do Fundo Municipal de Saúde (R$ 14,9 mil) de Tubarão em 2016, além do cancelamento, sem justificativa técnica ou legal, de restos a pagar de FGTS de 2012 no valor de R$ 789.126,11 (Fundo Municipal de Saúde) e R$ 53.850,40 (Fundação Municipal de Educação). Para o TCE, as manobras contaminaram os registros contábeis e o balanço do exercício. Foram aplicadas multas de R$ 1.990,60 cada a João Olávio Falchetti, prefeito em 2016, a Maryucha Miranda de Oliveira, gestora do Fundo de Saúde, e a Lúcia Helena Fernandes de Souza, gestora da Fundação de Educação.",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta"
+  },
+  {
+   "i": 14,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE cobra explicações de dois prefeitos de Tubarão sobre obra de pavimentação com custo inflado",
+   "description": "Após representação sobre as obras de pavimentação da Rua Dom Anselmo Pietrula, no Sertão dos Corrêas, o Tribunal de Contas apontou projeto básico inadequado e execução contratual deficitária, com provável aumento dos custos da obra sem motivação adequada. O pedido de suspensão foi negado porque o contrato já estava em execução. O TCE determinou a audiência do ex-prefeito Joares Ponticelli e do prefeito Jairo dos Passos Cascaes, além da oitiva da empresa SETEP Construções S/A, para apresentarem justificativas em 30 dias.",
+   "status": "🟡 em instrução (citação/audiência)",
+   "severity": "media"
+  },
+  {
+   "i": 15,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 16,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE encontra falhas nos repasses de Tubarão a entidades e dá 180 dias para a Prefeitura corrigir",
+   "description": "Auditoria do Tribunal de Contas verificou a regularidade dos repasses feitos pela Prefeitura de Tubarão, pela Fundação de Esporte, pela Fundação de Desenvolvimento Social e pela Secretaria de Desenvolvimento Econômico a organizações da sociedade civil em 2022 e no primeiro semestre de 2023. Foram apontadas falhas na publicação dos editais de chamamento público, na análise e no julgamento das propostas pelas comissões de seleção e nas justificativas de inexigibilidade de chamamento. O TCE proibiu o município de bancar ações de patrocínio sem lei que regulamente o tema e deu 180 dias para que os órgãos comprovem as correções.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 17,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE julga irregular atraso nas contas de 2023 de Tubarão, mas não aplica multa",
+   "description": "O Tribunal de Contas apurou as causas do envio fora do prazo do balanço anual de 2023 da Prefeitura de Tubarão e considerou os atos irregulares, porém sem aplicação de penalidade. O prefeito recebeu recomendação para reestruturar os setores responsáveis e garantir o cumprimento dos prazos, com alerta sobre a nova resolução que prevê multa automática por atraso. O processo foi arquivado.",
+   "status": "⬛ julgado irregular",
+   "severity": "media"
+  },
+  {
+   "i": 18,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE congela julgamento de contas de Tubarão até a Justiça decidir caso do Instituto Marka",
+   "description": "O Tribunal de Contas decidiu suspender o julgamento da Tomada de Contas Especial que apura supostas irregularidades envolvendo o Instituto Marka e a Prefeitura de Tubarão, até o trânsito em julgado de uma ação condenatória que corre na Vara da Fazenda Pública de Tubarão. Enquanto isso, fica suspensa a prescrição na esfera administrativa. Os autos seguiram para a diretoria técnica monitorar o desfecho judicial; não há decisão sobre responsabilização.",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 19,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 20,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 21,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 22,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE suspende licitação da Rua Coberta de Tubarão por falhas no edital",
+   "description": "Após representação da construtora PROSUD, o Tribunal de Contas determinou cautelarmente a suspensão da Concorrência Eletrônica n. 10/2026, da Prefeitura de Tubarão, para obras de requalificação urbanística, pavimentação, drenagem e cobertura metálica em trecho da Rua Laguna, a chamada Rua Coberta. O TCE apontou exigência cumulativa indevida de qualificação técnica, falta de publicidade da resposta a uma impugnação e alteração das condições de participação sem reabertura de prazos. O prefeito Estêner Soratto da Silva Júnior e o secretário adjunto Elom Alano Guimarães foram intimados a se manifestar; o mérito ainda será julgado.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 23,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 24,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multa prefeito de Tubarão por descumprir de novo decisão sobre o antigo lixão",
+   "description": "Ao analisar o cumprimento de decisão anterior sobre o tratamento de resíduos sólidos, o Tribunal de Contas aplicou multa de R$ 4.000,00 ao então prefeito de Tubarão, Joares Carlos Ponticelli, por reincidir no descumprimento do Acórdão n. 527/2019. O TCE também mandou abrir processo de inspeção envolvendo Tubarão, Capivari de Baixo, Gravatal, Laguna e Pescaria Brava para apurar a falta de monitoramento do antigo lixão às margens da BR-101, onde o chorume é lançado diretamente no corpo receptor, causando grave impacto ambiental.",
+   "status": "🔴 multa aplicada",
+   "severity": "alta"
+  },
+  {
+   "i": 25,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multa prefeito de Tubarão por ignorar decisão sobre conservação da Policlínica Central",
+   "description": "O Tribunal de Contas aplicou multa de R$ 3.000,00 ao então prefeito Joares Carlos Ponticelli por deixar de cumprir, sem justificativa, decisão anterior sobre as condições de manutenção e segurança da Policlínica Central, da Farmácia Central e de outras unidades de Tubarão. O TCE ainda deu 30 dias para que a administração municipal comprovasse a correção dos problemas apontados pela área técnica. A decisão foi comunicada também ao Ministério Público de Santa Catarina.",
+   "status": "🔴 multa aplicada",
+   "severity": "alta"
+  },
+  {
+   "i": 26,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 27,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 28,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 29,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 30,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multa prefeito de Tubarão em R$ 2,8 mil por não responder a diligências do Tribunal",
+   "description": "O Tribunal de Contas aplicou multa de R$ 2.866,70 ao prefeito de Tubarão, Estêner Soratto da Silva Júnior, por descumprir diligências determinadas no processo que apura a adesão e o uso efetivo do Portal Nacional de Contratações Públicas. O prefeito recebeu novo prazo de 30 dias para enviar a documentação exigida. Caso não cumpra, o TCE fixou multa diária de R$ 180,00.",
+   "status": "🔴 multa aplicada",
+   "severity": "alta"
+  },
+  {
+   "i": 31,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 32,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE julga irregulares R$ 19,2 milhões que Tubarão gastou com creches privadas com fins lucrativos",
+   "description": "O Tribunal de Contas apurou que a Prefeitura de Tubarão gastou R$ 19.229.730,00 em 2023 com entidades privadas com fins lucrativos para atender à educação infantil, e julgou os atos irregulares por contrariarem o art. 213 da Constituição, que restringe a destinação de recursos públicos a escolas comunitárias, confessionais ou filantrópicas. O município e a Secretaria de Educação foram intimados a apresentar, em 90 dias, um plano de ação para ampliar a rede própria de creches. O TCE determinou monitoramento do cumprimento, sob pena de sanções aos responsáveis, entre eles os ex-prefeitos Joares Carlos Ponticelli, Gelson José Bento e Jairo dos Passos Cascaes.",
+   "status": "⬛ julgado irregular",
+   "severity": "alta"
+  },
+  {
+   "i": 33,
+   "tipo": "tce",
+   "keep": true,
+   "title": "Ex-gestora da Saúde de Tubarão foi multada pelo TCE, mas recurso derrubou a punição por falta de provas",
+   "description": "O Tribunal de Contas deu provimento ao recurso de reexame de Maryucha Miranda de Oliveira contra o Acórdão n. 270/2021 e julgou improcedente a representação que havia originado a punição. O TCE reconheceu que não havia prova nos autos da irregularidade apontada. Como consequência, a multa aplicada a ela foi cancelada.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 34,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 35,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 36,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 37,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 38,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE rejeita representação do Ministério Público sobre obra de pavimentação em Tubarão",
+   "description": "O Tribunal de Contas julgou improcedente a representação feita pelo Ministério Público de Contas sobre supostas irregularidades nas obras de pavimentação da Rua Dom Anselmo Pietrula, no Sertão dos Corrêas, em Tubarão. Nenhum gestor foi responsabilizado. Ainda assim, o TCE recomendou à Prefeitura que melhore o detalhamento dos projetos básicos, cuide das desapropriações antes de iniciar obras, avalie os impactos ambientais da mudança de traçado, garanta acessibilidade e corrija as informações do Portal da Transparência. O processo foi arquivado.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 39,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 40,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 41,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 42,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 43,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 44,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 45,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 46,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 47,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 48,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 49,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 50,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aprova cumprimento do Plano de Educação em Tubarão e cobra piso salarial dos professores",
+   "description": "Inspeção do Tribunal de Contas na Prefeitura de Tubarão analisou o cumprimento das Metas 18 e 19 do Plano Municipal de Educação, que tratam do plano de carreira e da gestão do magistério, e considerou os atos regulares. Ainda assim, o TCE recomendou que o município ajuste o vencimento básico do cargo de professor para atender à atualização do piso salarial nacional do magistério. O processo foi arquivado.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 51,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 52,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 53,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 54,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 55,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 56,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE cobra prefeito de Tubarão por pendências da extinta COUDETU, de imóveis a carros e dívidas",
+   "description": "O Tribunal de Contas acompanha há anos a liquidação da extinta Companhia de Urbanização e Desenvolvimento de Tubarão (COUDETU), cujo patrimônio passou ao município. A área técnica reconheceu que a Prefeitura vem tomando providências, mas o TCE alertou o prefeito Estêner Soratto da Silva Júnior sobre pendências: falta a escritura de doação de quatro imóveis, nove veículos continuam registrados em nome da companhia, faltam os registros contábeis de dívidas herdadas e há possíveis débitos tributários de COFINS, CSLL, INSS e IPTU. O Tribunal também cobrou o resultado da sindicância aberta pela Prefeitura para apurar responsabilidades. O caso segue em acompanhamento.",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 57,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE nega recurso e mantém decisão contra responsável por licitação sem orçamento detalhado em Tubarão",
+   "description": "Otaviano Eduardo Pamplona recorreu ao Tribunal de Contas contra o Acórdão n. 664/2020, proferido em auditoria na Prefeitura de Tubarão. O TCE conheceu do recurso, mas negou provimento, apontando violação às regras da lei de licitações que exigem orçamento com composições analíticas de custos unitários. A decisão anterior foi mantida integralmente; o texto publicado não detalha as sanções que ela impôs.",
+   "status": "⬛ julgado irregular",
+   "severity": "media"
+  },
+  {
+   "i": 58,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 59,
+   "tipo": "tce",
+   "keep": true,
+   "title": "Prefeito de Tubarão recorre e suspende efeitos da multa do TCE sobre o portal de contratações",
+   "description": "Estêner Soratto da Silva Júnior, prefeito de Tubarão, entrou com recurso de reexame contra o Acórdão n. 54/2026, que o havia multado e cobrado documentos no processo sobre a adesão ao Portal Nacional de Contratações Públicas. O relator conheceu do recurso e suspendeu, em relação a ele, os efeitos dos itens 2 e 3 daquela decisão. O mérito ainda será analisado pela Diretoria de Recursos e Revisões do Tribunal.",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 60,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  }
+ ]
+}

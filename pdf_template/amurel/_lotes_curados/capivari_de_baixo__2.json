@@ -1,0 +1,110 @@
+[
+  {
+    "i": 22,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE manda prefeita de Capivari suspender licitação da concessão de água e esgoto",
+    "description": "A empresa Aegea Saneamento representou ao Tribunal de Contas contra o edital de Concorrência Pública 04/2023, que iria conceder à iniciativa privada os serviços de água e esgoto de Capivari de Baixo. O relator determinou cautelarmente que a prefeita Márcia Roberg Cargnin sustasse o edital na fase em que estava, apontando o uso indevido do tipo de licitação 'técnica e preço' e critérios de avaliação das propostas técnicas sem objetividade. A suspensão teve de ser comprovada em cinco dias e o processo voltou à área técnica porque há outras irregularidades ainda não analisadas.",
+    "status": "🟠 cautelar / sustação",
+    "severity": "alta"
+  },
+  {
+    "i": 23,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE cobra explicações de pregoeira e prefeito de Capivari sobre compra de R$ 1,48 milhão",
+    "description": "A empresa R.R. Nandi Materiais de Construção denunciou ao Tribunal de Contas o Pregão Eletrônico 001/2025, que registraria preços de materiais de construção, hidráulicos, elétricos e madeiras para o município, no valor previsto de R$ 1,48 milhão. O TCE viu indícios de que documentos das concorrentes ficaram indisponíveis e a confusão no chat do pregão atrapalhou o recurso da representante, além de duas empresas terem sido habilitadas sem apresentar todos os documentos exigidos. A pregoeira Cahina Jussara Martins e o prefeito Claudir Antônio de Bitencourt, que homologou o edital, foram chamados a se manifestar em cinco dias. O pedido de suspensão do pregão ficou para depois dessas explicações.",
+    "status": "🟡 em instrução (citação/audiência)",
+    "severity": "media"
+  },
+  {
+    "i": 24,
+    "tipo": "tce",
+    "keep": true,
+    "title": "Vereadoras levam ao TCE licitação de R$ 14,8 milhões de terceirizados em Capivari de Baixo",
+    "description": "As vereadoras Cariny Elizabeth Mendes Figueiredo e Heloisa Cardoso dos Santos Pereira representaram contra o Pregão Eletrônico 018/2025, que contrataria mão de obra terceirizada para órgãos do município por até R$ 14.872.472,52. O Tribunal de Contas negou suspender a licitação, mas mandou o prefeito Claudir Antônio Bittencourt e os secretários Vilmar Batista Cardoso e Felipe Goulart Correa explicarem em 30 dias por que usaram registro de preços em um serviço contínuo e de quantidade definida, sem justificar a escolha. Se não corrigirem, podem ser multados. O caso segue em apuração.",
+    "status": "🟡 em instrução (citação/audiência)",
+    "severity": "media"
+  },
+  {
+    "i": 25,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 26,
+    "tipo": "tce",
+    "keep": true,
+    "title": "Caso do sistema de águas de Capivari de Baixo prescreveu e o TCE não julgou o mérito",
+    "description": "Uma representação apurava supostas irregularidades no sistema de águas do município entre 2009 e 2014. Em junho de 2022, o Tribunal Pleno reconheceu que o caso havia prescrito, conforme a Lei Complementar estadual 793/2022, e encerrou o processo sem analisar se as irregularidades existiram. Ninguém foi responsabilizado.",
+    "status": "⚫ prescrito",
+    "severity": "media"
+  },
+  {
+    "i": 27,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 28,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 29,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 30,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE aponta excesso de contratados temporários na saúde de Capivari de Baixo",
+    "description": "Uma inspeção do Tribunal de Contas verificou que a prefeitura mantinha número excessivo e desproporcional de servidores temporários em funções permanentes da saúde, que deveriam ser preenchidas por concurso público. O TCE considerou apenas parcialmente cumpridas as determinações que já havia feito em 2021 sobre o mesmo problema. O município tem 90 dias para informar como está substituindo os temporários pelos aprovados no concurso realizado em agosto de 2025, e recebeu recomendações para planejar melhor futuras contratações.",
+    "status": "🔴 apontou irregularidade",
+    "severity": "media"
+  },
+  {
+    "i": 31,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 32,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE multa ex-secretário de Saúde de Capivari por exigência que restringiu licitação de software",
+    "description": "A empresa IPM Sistemas representou contra o Pregão Presencial 69/2021, que contratava sistema informatizado de gestão pública para a prefeitura, a Câmara e o Fundo Municipal de Saúde. O Tribunal de Contas considerou a representação parcialmente procedente por exigências excessivas quanto à localização do data center, que restringiram a competição, e classificou a conduta como erro grosseiro. Everson Barbosa Martins, secretário de Saúde à época e signatário do edital, foi multado em R$ 2.293,36, junto com outros responsáveis. O TCE ainda determinou que a prefeitura não renove o contrato e abra nova licitação em 30 dias.",
+    "status": "🔴 multa aplicada",
+    "severity": "alta"
+  },
+  {
+    "i": 33,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  }
+]

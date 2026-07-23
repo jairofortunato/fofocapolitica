@@ -1,0 +1,635 @@
+{
+ "cidade": "Braço do Norte",
+ "casos": [
+  {
+   "i": 70,
+   "tipo": "mp",
+   "ref": "06.2022.00004716-7",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004716-7",
+   "status": "🟡 em apuração",
+   "data": "05/12/2022",
+   "texto": "Câmara de Vereadores de Santa Rosa de Lima e TIM/SA."
+  },
+  {
+   "i": 71,
+   "tipo": "mp",
+   "ref": "06.2023.00001504-6",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00001504-6",
+   "status": "🟡 em apuração",
+   "data": "28/04/2023",
+   "texto": "Centro de Habilitação Vida Humana (CERVHU)."
+  },
+  {
+   "i": 72,
+   "tipo": "mp",
+   "ref": "06.2023.00003147-9",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00003147-9",
+   "status": "🟡 em apuração",
+   "data": "15/08/2023",
+   "texto": "anônimo, Município de Braço do Norte/SC e Roberto Kuerten Marcelino."
+  },
+  {
+   "i": 73,
+   "tipo": "mp",
+   "ref": "06.2023.00000977-7",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N.06.2023.00000977-7",
+   "status": "🟢 arquivado",
+   "data": "19/02/2024",
+   "texto": "Ministério Público de Santa Catarina, Odair Brolez Antonello, Município de Grão Pará. Conclusão: meio ambiente. Inquérito Civil instaurado para apurar necessidade de recuperação do dano ambiental praticado por Edvaldo Volpato Moraes. Arquivamento do feito em razão da regularização do noticiado. Ausência de novas irregularidades."
+  },
+  {
+   "i": 74,
+   "tipo": "mp",
+   "ref": "06.2023.00001504-6",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00001504-6",
+   "status": "🟡 em apuração",
+   "data": "22/08/2024",
+   "texto": "Centro de Habilitação Vida Humana (CERVHU) e Arlete Ramos."
+  },
+  {
+   "i": 75,
+   "tipo": "mp",
+   "ref": "06.2018.00000857-3",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2018.00000857-3",
+   "status": "🟠 TAC firmado",
+   "data": "26/09/2024",
+   "texto": "Ministério Público de Santa Catarina, Cláudio Heidemann e Vilmar Heidemann. Conclusão: Meio Ambiente. Inquérito Civil instaurado para apurar eventual poluição causada por Vilmar Heidemann, em razão de despejo de insumos de granja de frango em córregos, bem como construção em Área de Preservação Permanente (APP), na localidade da Estrada Geral Santa Rosa de Lima, ao lado do Restaurante Lacantina, Bairro Rio Bravo Baixo, Rio Fortuna/SC. Arquivamento do feito em razão do compromisso firmado para regularização do noticiado. Formalização de Termo de Ajustamento de Conduta. Imposição de multa. Ausência de novas irregularidades."
+  },
+  {
+   "i": 76,
+   "tipo": "mp",
+   "ref": "06.2023.00002786-4",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00002786-4",
+   "status": "🟠 TAC firmado",
+   "data": "30/10/2024",
+   "texto": "Ministério Público de Santa Catarina e Adilson Warmling. Conclusão: Meio Ambiente. Inquérito Civil instaurado para apurar possível dano ambiental praticado por Adilson Wareling, em razão de atividade de criação de peixes sem licença ambiental e desvio de curso d'água Arquivamento do feito em razão do compromisso firmado para regularização do noticiado. Formalização de Termo de Ajustamento de Conduta. Imposição de multa. Ausência de novas irregularidades."
+  },
+  {
+   "i": 77,
+   "tipo": "mp",
+   "ref": "06.2024.00005270-1",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00005270-1",
+   "status": "🟡 em apuração",
+   "data": "12/12/2024",
+   "texto": "Município de Grão Pará."
+  },
+  {
+   "i": 78,
+   "tipo": "mp",
+   "ref": "06.2025.00000381-4",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00000381-4",
+   "status": "❔ status indef.",
+   "data": "20/05/2026",
+   "texto": "Município de Braço do Norte. Conclusão: apuração de eventual irregularidade e deficiência no atendimento público prestado pela Prefeitura Municipal de Braço do Norte, especialmente no Setor Administrativo, Secretaria de Infraestrutura e PROCON. Reclamações relacionadas à instabilidade das linhas telefônicas e dificuldades de contato com os serviços públicos municipais. Instauração de procedimento para acompanhamento e fiscalização das providências adotadas pela Municipalidade. Comprovação de adoção de medidas administrativas voltadas à regularização do sistema de telefonia, inclusive com implementação de processo de migração para"
+  },
+  {
+   "i": 79,
+   "tipo": "mp",
+   "ref": "06.2023.00001487-0",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00001487-0",
+   "status": "🟢 arquivado",
+   "data": "21/06/2024",
+   "texto": "Ministério Público de Santa Catarina, Arno Antonio Meurer e Regina Soethe Meurer. Conclusão: meio ambiente. Inquérito Civil instaurado para apurar parcelamento de solo irregular praticado por Arno Antonio Meurer e Regina Soethe Meurer, em Braço do Norte, com intervenção em área de preservação permanente. Arquivamento do feito. Informação acerca da inexistência de parcelamento irregular. Ausência de danos ambientais. Ausência de medidas a serem tomadas pelo Ministério Público. Instauração de procedimento para apuração das irregularidades referentes à empresa inserida no local e a ausência de licenciamento ambiental."
+  },
+  {
+   "i": 80,
+   "tipo": "mp",
+   "ref": "06.2016.00005909-8",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2016.00005909-8",
+   "status": "🟢 arquivado",
+   "data": "01/10/2024",
+   "texto": "Ministério Público de Santa Catarina, Concretos Willemann Ltda. ME e representante anônimo. Conclusão: Meio Ambiente. Inquérito Civil instaurado para Apurar eventual instalação da empresa Concretos Willemann Ltda. - ME, situada na Rua Santa Rosa, n. 625, Bairro Centro, em Rio Fortuna/SC, em Área de Preservação Permanente (APP), bem como desprovida de licença ambiental. Arquivamento do feito em razão da regularização do noticiado na esfera penal, na qual ofertada transação penal. Ausência de novas irregularidades. Determinada a instauração de PA para acompanhamento do cumprimento da transação penal."
+  },
+  {
+   "i": 81,
+   "tipo": "mp",
+   "ref": "06.2024.00004394-6",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00004394-6",
+   "status": "🟡 em apuração",
+   "data": "15/10/2024",
+   "texto": "Município de Braço do Norte."
+  },
+  {
+   "i": 82,
+   "tipo": "mp",
+   "ref": "06.2023.00004570-7",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N.06.2023.00004570-7",
+   "status": "🟢 arquivado",
+   "data": "30/10/2024",
+   "texto": "Egon A. Telles e Município de Braço do Norte Conclusão: Moralidade Administrativa. Concurso Público. Edital com previsão restritiva. Afronta aos princípios da razoabilidade e do amplo acesso aos cargos públicos. Suspensão do concurso para a referida vaga. Alteração da legislação. Irregularidade sanada. Arquivamento."
+  },
+  {
+   "i": 83,
+   "tipo": "mp",
+   "ref": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE ACOMPANHAMENTO DE TAC N.",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE ACOMPANHAMENTO DE TAC N.",
+   "status": "🟡 em apuração",
+   "data": "04/12/2024",
+   "texto": "Ministério Público de Santa Catarina, Alberto Kemper e Rita Rohling Kemper."
+  },
+  {
+   "i": 84,
+   "tipo": "mp",
+   "ref": "06.2024.00005333-3",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00005333-3",
+   "status": "🟡 em apuração",
+   "data": "27/02/2025",
+   "texto": "Município de Braço do Norte."
+  },
+  {
+   "i": 85,
+   "tipo": "mp",
+   "ref": "06.2024.00004009-3",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00004009-3",
+   "status": "🟡 em apuração",
+   "data": "25/04/2025",
+   "texto": "Município de Braço do Norte, Omar da Conceição Martins e Alice Voss."
+  },
+  {
+   "i": 86,
+   "tipo": "mp",
+   "ref": "06.2025.00004496-0",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00004496-0",
+   "status": "🟡 em apuração",
+   "data": "30/10/2025",
+   "texto": "Albertina Rodrigues Soeth e Município de Braço do Norte."
+  },
+  {
+   "i": 87,
+   "tipo": "mp",
+   "ref": "06.2026.00000070-0",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2026.00000070-0",
+   "status": "🟡 em apuração",
+   "data": "14/01/2026",
+   "texto": "Câmara Municipal de Grão-Pará."
+  },
+  {
+   "i": 88,
+   "tipo": "mp",
+   "ref": "06.2024.00005333-3",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00005333-3",
+   "status": "❔ status indef.",
+   "data": "06/05/2026",
+   "texto": "Município de Braço do Norte. Conclusão: apuração de possível irregularidade nas exigências previstas em edital de Concurso Público n. 01/2023 do Município"
+  },
+  {
+   "i": 89,
+   "tipo": "mp",
+   "ref": "06.2026.00000070-0",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2026.00000070-0",
+   "status": "🟢 recomendação cumprida",
+   "data": "06/05/2026",
+   "texto": "Câmara Municipal de Grão-Pará. Conclusão: Promover a observância das formalidades legais e regulamentares do processo legislativo do Município de Grão- Pará, em razão da ausência de atas das reuniões de comissões e pareceres jurídicos genéricos nos projetos de lei. Expedida Recomendação n. 0002/2026/01PJ/BN e acatada pela Casa Legislativa."
+  },
+  {
+   "i": 90,
+   "tipo": "mp",
+   "ref": "06.2026.00002394-7",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2026.00002394-7",
+   "status": "🟡 em apuração",
+   "data": "15/06/2026",
+   "texto": "representante: Polícia Militar Ambiental; representado: Renaldo Roecker."
+  },
+  {
+   "i": 91,
+   "tipo": "mp",
+   "ref": "06.2022.00000474-5",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00000474-5",
+   "status": "🟡 em apuração",
+   "data": "09/02/2022",
+   "texto": "Hilário Meurer."
+  },
+  {
+   "i": 92,
+   "tipo": "mp",
+   "ref": "06.2022.00000476-7",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00000476-7",
+   "status": "🟡 em apuração",
+   "data": "09/02/2022",
+   "texto": "Pascasio Blasius."
+  },
+  {
+   "i": 93,
+   "tipo": "mp",
+   "ref": "06.2022.00003205-2",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00003205-2",
+   "status": "🟡 em apuração",
+   "data": "29/07/2022",
+   "texto": "Renato Heidemann."
+  },
+  {
+   "i": 94,
+   "tipo": "mp",
+   "ref": "06.2022.00004482-6",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004482-6",
+   "status": "🟡 em apuração",
+   "data": "16/11/2022",
+   "texto": "Adriana Meurer Perin Dacoregio e Município de Grão Pará."
+  },
+  {
+   "i": 95,
+   "tipo": "mp",
+   "ref": "06.2022.00004566-9",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004566-9",
+   "status": "🟡 em apuração",
+   "data": "01/12/2022",
+   "texto": "Marcenaria do Neném e Valdir Costa."
+  },
+  {
+   "i": 96,
+   "tipo": "mp",
+   "ref": "06.2023.00000102-0",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00000102-0",
+   "status": "🟡 em apuração",
+   "data": "03/02/2023",
+   "texto": "Maria de Oliveira e outros."
+  },
+  {
+   "i": 97,
+   "tipo": "mp",
+   "ref": "06.2021.00000273-2",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00000273-2",
+   "status": "🟢 arquivado",
+   "data": "01/02/2024",
+   "texto": "Município de Grão Pará. Conclusão: Inquérito Civil instaurado para apurar eventual dano ambiental decorrente de extração de areão, por empresas privadas, de barreira de Valmor Borgheti, contratada pelo Município de Grão Pará/SC. Arquivamento do feito em razão da regularização do noticiado. Licenciamento ambiental realizado. Ausência de novas irregularidades. Acompanhamento do PRAD em procedimento administrativo próprio."
+  },
+  {
+   "i": 98,
+   "tipo": "mp",
+   "ref": "06.2024.00000722-8",
+   "header": "• EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000722-8",
+   "status": "🟢 arquivado",
+   "data": "11/06/2024",
+   "texto": "Ministério Público de Santa Catarina, Município de Grão Pará e Tiago Onofre. Conclusão: meio ambiente. Procedimento Preparatório instaurado para apurar omissão do Município de Grão Pará, em relação a ações relacionadas a coleta seletiva de resíduos domésticos e materiais recicláveis. Arquivamento do feito em razão da inexistência de irregularidades a serem sanadas. Atuação da Urbe dentro do esperado. Realização de campanhas de conscientização da população acerca da importância da reciclagem. Ausência de providências a serem tomadas."
+  },
+  {
+   "i": 99,
+   "tipo": "mp",
+   "ref": "06.2023.00000777-9",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00000777-9",
+   "status": "🟢 arquivado",
+   "data": "27/09/2024",
+   "texto": "Ministério Público de Santa Catarina, Vigilância Sanitária do Município de Braço do Norte e Vera Lúcia Gotera. Conclusão: Meio Ambiente. Inquérito Civil instaurado para apurar ação do Município na solução de caso relacionado a vazamento de esgoto em residência situada na Rua Adolfo Jerônimo da Silva, em Braço do Norte, tendo em vista o fato noticiado pela Vigilância Sanitária. Arquivamento do feito em razão da regularização do noticiado. Ausência de novas irregularidades. Situação macro sendo acompanhada pela Promotoria Regional do Meio Ambiente."
+  },
+  {
+   "i": 100,
+   "tipo": "mp",
+   "ref": "06.2025.00000202-6",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00000202-6",
+   "status": "🟡 em apuração",
+   "data": "30/01/2025",
+   "texto": "representante anônimo e Município de Braço do Norte."
+  },
+  {
+   "i": 101,
+   "tipo": "mp",
+   "ref": "06.2023.00004447-4",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00004447-4",
+   "status": "🟢 arquivado",
+   "data": "07/10/2025",
+   "texto": "Ministério Público de Santa Catarina, Município de Braço do Norte e Hermann Joseph Brauan. Conclusão: Moralidade Administrativa. Inquérito Civil instaurado para apurar a possível negligência da Prefeitura Municipal de Braço do Norte/SC na gestão dos setores de Tributação e Planejamento Urbano, especialmente em relação a cobrança do ISS e expedição do alvará de construção e habite-se. Implementação do devido fluxograma de trabalho do Setor de Tributação, da integração entre as secretarias municipais envolvidas na gestão do ISS e alocação de servidores para o setor. Arquivamento em razão da ausência da constatação de atos improbos. Ausência de dolo ou prejuízo ao erário nas condutas. Arquivamento do feito."
+  },
+  {
+   "i": 102,
+   "tipo": "mp",
+   "ref": "06.2025.00000202-6",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00000202-6",
+   "status": "🟢 arquivado",
+   "data": "07/10/2025",
+   "texto": "Ministério Público de Santa Catarina, Município de Braço do Norte, Representante Anônimo e representante sigiloso. Conclusão: Moralidade Administrativa. Inquérito Civil instaurado para Apurar suposto acúmulo irregular de funções remuneradas pelos servidores públicos Patrícia Alexandra Domingues Teles, Juliana Spiecker da Silva e Fabiano Pires de Oliveira, no âmbito da Prefeitura Municipal de Braço do Norte. Arquivamento em razão da ausência da constatação de atos ímprobos. Nomeação da candidata aprovada para o cargo efetivo de Analista de Licitações. Ausência de dolo ou prejuízo ao erário nas condutas. Arquivamento do feito."
+  },
+  {
+   "i": 103,
+   "tipo": "mp",
+   "ref": "06.2023.00002785-3",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00002785-3",
+   "status": "🟢 arquivado",
+   "data": "15/01/2026",
+   "texto": "Ministério Público de Santa Catarina e Município de Braço do Norte. Conclusão: meio ambiente. InquéritoCivil instaurado para apurar eventual existência de vícios na Lei Municipal de Braço do Norte, tratando de ligações de água e energia em imóveis que não tenham alvará de construção e/ou habite-se. Arquivamento do feito em razão da ausência de irregularidade e ilegalidades na lei municipal. Ausência de novas irregularidades e representações."
+  },
+  {
+   "i": 104,
+   "tipo": "mp",
+   "ref": "06.2022.00000837-4",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00000837-4",
+   "status": "🟡 em apuração",
+   "data": "03/02/2022",
+   "texto": "Município de Grão Pará."
+  },
+  {
+   "i": 105,
+   "tipo": "mp",
+   "ref": "06.2021.00002806-6",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00002806-6",
+   "status": "🟢 arquivado",
+   "data": "16/03/2022",
+   "texto": "Rômulo Salvágio. Conclusão: Inquérito Civil Instaurado para apurar intervenção ilegal em área de preservação permanente praticada por Rômulo Salvágio. Descumprimento de obrigação assumida no procedimento administrativo. Ajuizamento de ação pelo Município de Braço do Norte. Desnecessidade de outras providências por parte do Ministério Público, que atuará na ação judicial como fiscal. Arquivamento viável."
+  },
+  {
+   "i": 106,
+   "tipo": "mp",
+   "ref": "06.2016.00001138-1",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2016.00001138-1",
+   "status": "❔ status indef.",
+   "data": "17/06/2022",
+   "texto": "Valísio Rohl. Conclusão: Inquérito Civil instaurado para apurar suposto apurar possíveis irregularidades ambientais decorrentes da ausência de licença ambiental para o exercício da atividade de suinocultura na granja de propriedade de Valísio Rohling, bem como eventuais danos ambientais em decorrência de construção irregular em área de preservação permanente. Atividade de suinocultura descontinuada. Piscicultura realizada em área de APP consolidada. Faixa mínima reservada. Ausência de justa causa para outras medidas. Encerramento que se impõe."
+  },
+  {
+   "i": 107,
+   "tipo": "mp",
+   "ref": "06.2022.00004529-1",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004529-1",
+   "status": "🟡 em apuração",
+   "data": "30/11/2022",
+   "texto": "Bar QG."
+  },
+  {
+   "i": 108,
+   "tipo": "mp",
+   "ref": "06.2022.00004883-3",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00004883-3",
+   "status": "🟢 arquivado",
+   "data": "13/02/2023",
+   "texto": "Vlarissa da Fonseca Pinto e do Município de Braço do Norte. Conclusão: Inquérito Civil instaurado com o objetivo de apurar o cumprimento, por parte do Município de Braço do Norte/SC, das obrigações estabelecidas na Lei n. 13.935/2019 que dispõe sobre a prestação de serviços de psicologia e de serviço social nas redes públicas de educação básica, para atender às necessidades e prioridades definidas pelas políticas de educação, por meio de equipes multiprofissionais. Arquivamento haja vista que o Município de Braço do Norte sanou as irregularidades. Inexistência de fundamento para a propositura de ação judicial."
+  },
+  {
+   "i": 109,
+   "tipo": "mp",
+   "ref": "06.2023.00000806-7",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00000806-7",
+   "status": "🟡 em apuração",
+   "data": "24/03/2023",
+   "texto": "Edson Cruz."
+  },
+  {
+   "i": 110,
+   "tipo": "mp",
+   "ref": "06.2015.00004765-4",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N.06.2015.00004765-4",
+   "status": "🟢 arquivado",
+   "data": "08/02/2024",
+   "texto": "Ministério Público de Santa Catarina, HM Engenharia e Incorporadora Ltda. Conclusão: Meio Ambiente. Inquérito Civil instaurado para apurar possível construção de edificação em área de preservação permanente, às margens de córrego, na Rua Santa Augusta, em Braço do Norte/SC, de responsabilidade da empresa HM Engenharia e Incorporadora Ltda. Arquivamento do feito. Consideração, pelo órgão ambiental, de metragem de área de preservação ambiental tal como exposto na Lei de Parcelamento de Solo. Ausência de danos ambientais. Área equiparada a área urbana consolidada. Ausência de medidas a serem tomadas pelo Ministério Público."
+  },
+  {
+   "i": 111,
+   "tipo": "mp",
+   "ref": "06.2015.00004768-7",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N.06.2015.00004768-7",
+   "status": "🟢 arquivado",
+   "data": "08/02/2024",
+   "texto": "Ministério Público de Santa Catarina, Manoel José Bernardo. Conclusão: meio ambiente. Inquérito Civil instaurado para apurar possível construção de edificação em área de preservação permanente, às margens de córrego, na Rua Wilson Westphal (ao lado da empresa Água da Serra), em Braço do Norte, de responsabilidade de Manoel José Bernardo. Arquivamento do feito. Consideração, pelo órgão ambiental, de metragem de área de preservação ambiental tal como exposto na Lei de Parcelamento de Solo. Ausência de danos ambientais. Área equiparada a área urbana consolidada. Ausência de medidas a serem tomadas pelo Ministério Público."
+  },
+  {
+   "i": 112,
+   "tipo": "mp",
+   "ref": "06.2014.00011242-5",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2014.00011242-5",
+   "status": "🟢 arquivado",
+   "data": "09/02/2024",
+   "texto": "Ministério Público de Santa Catarina, PERFARE Construções Ltda. Conclusão: meio ambiente. Inquérito Civil instaurado para apurar possível construção de prédio em área de preservação permanente, às margens de córrego, na Rua Manoel Antônio Machado, Bairro São Basílio, em Braço do Norte, de responsabilidade da empresa PERFARE Construções Ltda. Arquivamento do feito. Consideração, pelo órgão ambiental, de metragem de área de preservação ambiental tal como exposto na Lei de Parcelamento de Solo. Ausência de danos ambientais. Área equiparada a área urbana consolidada. Ausência de medidas a serem tomadas pelo Ministério Público."
+  },
+  {
+   "i": 113,
+   "tipo": "mp",
+   "ref": "06.2024.00000869-3",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00000869-3",
+   "status": "🟡 em apuração",
+   "data": "04/03/2024",
+   "texto": "Município de Braço do Norte e Layse Heidemann."
+  },
+  {
+   "i": 114,
+   "tipo": "mp",
+   "ref": "06.2020.00001454-6",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00001454-6",
+   "status": "🟢 arquivado",
+   "data": "04/09/2024",
+   "texto": "Ministério Público de Santa Catarina, FUNBAMA, Racli Limpeza Urbana. Conclusão: Meio Ambiente. Inquérito Civil instaurado para apurar suposta construção de galpão em Área de Preservação Permanente (APP) e sem condições físicas, licenças e autorizações necessárias para funcionamento. Arquivamento do feito. Consideração, pelo órgão ambiental, de metragem de área de preservação ambiental tal como exposto na Lei de Parcelamento de solo. Ausência de danos ambientais. Área equiparada a área urbana consolidada. Peculiaridades do caso concreto que recomendam a aplicação do princípio da razoabilidade. Ausência de medidas a serem tomadas pelo Ministério Público."
+  },
+  {
+   "i": 115,
+   "tipo": "mp",
+   "ref": "06.2024.00003954-2",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00003954-2",
+   "status": "🟡 em apuração",
+   "data": "17/09/2024",
+   "texto": "Município de Braço do Norte e Alice Voss."
+  },
+  {
+   "i": 116,
+   "tipo": "mp",
+   "ref": "06.2024.00000869-3",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00000869-3",
+   "status": "🟢 arquivado",
+   "data": "18/07/2025",
+   "texto": "Ministério Público de Santa Catarina, Município de Braço do Norte, Layse Heidemann e Alice Voss. Conclusão: Moralidade Administrativa. Inquérito Civil instaurado para Apurar supostas irregularidades envolvendo as condições do ofício dos Agentes de Apoio à Educação nos centros educacionais infantis do Município de Braço do Norte/SC. Arquivamento em razão da ausência da constatação de atos improbos. Não constatação de irregularidades na composição das salas do CEI Bela Vista no que tange à lotação das agentes de apoio. Arquivamento do feito."
+  },
+  {
+   "i": 117,
+   "tipo": "mp",
+   "ref": "06.2025.00003586-1",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00003586-1",
+   "status": "🟡 em apuração",
+   "data": "03/10/2025",
+   "texto": "Ivonete Lembeck Locks."
+  },
+  {
+   "i": 118,
+   "tipo": "mp",
+   "ref": "06.2025.00003586-1",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00003586-1",
+   "status": "🔴 ACP ajuizada",
+   "data": "26/02/2026",
+   "texto": "Ivonete Lembeck Locks e Ministério Público de Santa Catarina. Conclusão: inquérito civil instaurado para apurar possível intervenção irregular em área de preservação permanente, consistente na construção de aviário pela Granja Locks, situada na localidade de São Januário, no Município de Braço do Norte e canalização indevida de curso d´água. Ajuizamento de ação civil pública sobre os mesmos fatos. Arquivamento."
+  },
+  {
+   "i": 119,
+   "tipo": "mp",
+   "ref": "06.2022.00000799-7",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00000799-7",
+   "status": "🟡 em apuração",
+   "data": "03/02/2022",
+   "texto": "Claro."
+  },
+  {
+   "i": 120,
+   "tipo": "mp",
+   "ref": "06.2022.00001430-0",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00001430-0",
+   "status": "🟡 em apuração",
+   "data": "24/03/2022",
+   "texto": "Dilcei Heidemann, Ismael Isidoro Bruch e Fernando Luis Sopra Rauber."
+  },
+  {
+   "i": 121,
+   "tipo": "mp",
+   "ref": "06.2014.00011750-9",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2014.00011750-9",
+   "status": "🟢 arquivado",
+   "data": "01/11/2022",
+   "texto": "Município de Braço do Norte. Conclusão: arquivamento haja vista que o Município de Braço do Norte sanou as irregularidades constatadas no Serviço de Atendimento Móvel de Urgência (SAMU)."
+  },
+  {
+   "i": 122,
+   "tipo": "mp",
+   "ref": "06.2022.00004632-4",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004632-4",
+   "status": "🟡 em apuração",
+   "data": "29/11/2022",
+   "texto": "Cooperativa de Eletrificação de Braço do Norte - Cerbranorte."
+  },
+  {
+   "i": 123,
+   "tipo": "mp",
+   "ref": "06.2022.00000799-7",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00000799-7",
+   "status": "🟢 arquivado",
+   "data": "01/12/2022",
+   "texto": "Claro SA. Conclusão: apurar a regularidade ambiental da antena de telecomunicações da empresa Claro, situada no Município de Braço do Norte. Antena de Telecomunicações sem licenciamento ambiental. Antena retirada do local. Atividade irregular desmobilizada. Perda do objeto do Inquérito Civil. Arquivamento que se impõe."
+  },
+  {
+   "i": 124,
+   "tipo": "mp",
+   "ref": "06.2022.00003218-5",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00003218-5",
+   "status": "🟡 em apuração",
+   "data": "14/12/2022",
+   "texto": "Município de Braço do Norte, Simoni de Souza Gonçalvez, Joana Silva Lessa e Silvana da Silva Ramos."
+  },
+  {
+   "i": 125,
+   "tipo": "mp",
+   "ref": "06.2016.00007347-8",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2016.00007347-8",
+   "status": "🟢 arquivado",
+   "data": "20/01/2023",
+   "texto": "Município de Grão Pará. Conclusão: Inquérito Civil instaurado para apurar as condições de acessibilidade nas unidades básicas de saúde existentes no Município de Grão Pará. Arquivamento, haja vista que o Município de Grão Pará sanou as irregularidades. Inexistência de"
+  },
+  {
+   "i": 126,
+   "tipo": "mp",
+   "ref": "06.2023.00000133-0",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00000133-0",
+   "status": "🟡 em apuração",
+   "data": "27/01/2023",
+   "texto": "Município de Braço do Norte e Paulo Roberto Worm."
+  },
+  {
+   "i": 127,
+   "tipo": "mp",
+   "ref": "06.2023.00000373-9",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00000373-9",
+   "status": "🟡 em apuração",
+   "data": "02/02/2023",
+   "texto": "Zenesio Agostinho Pires da Silva e Ivonete Lembeck Loocks (Granja Free Lar)."
+  },
+  {
+   "i": 128,
+   "tipo": "mp",
+   "ref": "06.2023.00000379-4",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00000379-4",
+   "status": "🟡 em apuração",
+   "data": "03/02/2023",
+   "texto": "Município de Braço do Norte/SC e Cooperativa Permissionária de Distribuição de Energia Elétrica - Cerbranorte."
+  },
+  {
+   "i": 129,
+   "tipo": "mp",
+   "ref": "06.2023.00000807-8",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00000807-8",
+   "status": "🟢 arquivado",
+   "data": "08/08/2023",
+   "texto": "Borracharia Truck Center e Município de Braço do Norte. Conclusão: procedimento instaurado para apurar depósito irregular de resíduos sólidos, em suposto desacordo às normas ambientais e sanitárias, pela Borracharia Truck Center, no Bairro Rio Bonito, em Braço do Norte. Ato fiscalizatório que comprovou a destinação final de resíduos de forma adequada. Inexistência de irregularidades ambientais. Arquivamento que se impõe."
+  },
+  {
+   "i": 130,
+   "tipo": "mp",
+   "ref": "06.2023.00002786-4",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00002786-4",
+   "status": "🟡 em apuração",
+   "data": "19/09/2023",
+   "texto": "Adilson Warmeling."
+  },
+  {
+   "i": 131,
+   "tipo": "mp",
+   "ref": "06.2023.00004191-1",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00004191-1",
+   "status": "🟡 em apuração",
+   "data": "14/11/2023",
+   "texto": "José Wanderlei da Silva Soethe, Emiliano Rodrigues Filho, Adir Engel e Município de Braço do Norte."
+  },
+  {
+   "i": 132,
+   "tipo": "mp",
+   "ref": "06.2023.00004577-3",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00004577-3",
+   "status": "🟡 em apuração",
+   "data": "27/11/2023",
+   "texto": "R.L.S. e Município de Braço do Norte."
+  },
+  {
+   "i": 133,
+   "tipo": "mp",
+   "ref": "06.2015.00006078-0",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2015.00006078-0",
+   "status": "🟢 arquivado",
+   "data": "06/12/2023",
+   "texto": "Laurimar Gross e TIM S/A. Conclusão: Inquérito Civil instaurado para apurar eventuais irregularidades na prestação do serviço de telefonia móvel pela empresa TIM/SA no Município de Braço do Norte. Arquivamento haja vista que não foi comprovada a irregularidade noticiada. Ausência de fundamento para propositura de ação judicial."
+  },
+  {
+   "i": 134,
+   "tipo": "mp",
+   "ref": "06.2023.00004851-5",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00004851-5",
+   "status": "🟡 em apuração",
+   "data": "24/01/2024",
+   "texto": "Laticínios Becker."
+  },
+  {
+   "i": 135,
+   "tipo": "mp",
+   "ref": "06.2016.00005920-0",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2016.00005920-0",
+   "status": "🟠 TAC firmado",
+   "data": "24/04/2024",
+   "texto": "Ministério Público de Santa Catarina, Frigorífico Braçonortense Ltda. ME, Irineu Heidemann e Walneide Voss Heidemann. Conclusão: meio ambiente. Inquérito Civil instaurado para apurar eventual abate de suínos acima do limite diário permitido na Licença Ambiental de Operação (LAO) n. 8420/2015, expedido pela FATMA ao Frigorífico Braçonortense Ltda. Arquivamento do feito em razão da regularização do noticiado. Formalização de Termo de Ajustamento de Conduta. Imposição de multa. Ausência de novas irregularidades."
+  },
+  {
+   "i": 136,
+   "tipo": "mp",
+   "ref": "06.2024.00000723-9",
+   "header": "• EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000723-9",
+   "status": "🔴 ACP ajuizada",
+   "data": "11/06/2024",
+   "texto": "Ministério Público de Santa Catarina, Município de Grão Pará e representante anônimo. Conclusão: meio ambiente. Procedimento Preparatório instaurado para apurar possível omissão do Município de Grão Pará no tocante à trafegabilidade de estrada pública. Ausência de providências a serem tomadas. Discricionariedade do Poder Público na realização de obra de pavimentação. Inexistência de outras representações. Descontentamento individual e possibilidade de outro trajeto. Arquivamento em razão da impossibilidade de ajuizamento de ação civil pública sobre o caso em comendo."
+  },
+  {
+   "i": 137,
+   "tipo": "mp",
+   "ref": "06.2024.00003450-3",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00003450-3",
+   "status": "🟡 em apuração",
+   "data": "12/08/2024",
+   "texto": "Município de Braço do Norte, Cooperativa de Eletrificação de Braço do Norte - Cerbranorte e Gaidzinski Equipamentos Ltda."
+  },
+  {
+   "i": 138,
+   "tipo": "mp",
+   "ref": "06.2024.00003662-3",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00003662-3",
+   "status": "🟡 em apuração",
+   "data": "27/08/2024",
+   "texto": "Rosângela da Silva e Município de Braço do Norte."
+  },
+  {
+   "i": 139,
+   "tipo": "mp",
+   "ref": "06.2024.00003777-7",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00003777-7",
+   "status": "🟡 em apuração",
+   "data": "04/09/2024",
+   "texto": "Município de Braço do Norte."
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+[
+ {
+  "i": 0,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP cobrou São Martinho por controladoria interna frágil e município mudou a lei",
+  "description": "O Ministério Público investigou o funcionamento dos órgãos de controle interno de São Martinho, em especial o fato de o cargo de Controlador Interno ser de livre nomeação (provimento em comissão) e ligado ao Gabinete do Prefeito, conforme a Lei Complementar Municipal n. 25/2017 — arranjo que compromete a independência de quem deveria fiscalizar a própria administração. Durante a apuração, o MP expediu recomendações administrativas, acompanhou a tramitação legislativa e pediu apoio técnico a centros especializados do órgão. O município acabou promovendo alterações na legislação, e o inquérito foi encerrado.",
+  "status": "🟢 recomendação cumprida",
+  "severity": "media"
+ },
+ {
+  "i": 1,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Loteamento clandestino em São Martinho foi regularizado e MP arquivou a investigação",
+  "description": "O Ministério Público apurou a existência de um loteamento clandestino na Rua Alfredo Hulse, no Bairro Francisco Eyng, em São Martinho, envolvendo Gasparino Bernardo Feuzer e Otilia Hulse Feuzer. Ao longo do caso, a área foi regularizada pelos próprios moradores por meio da REURB, a regularização fundiária urbana prevista na Lei n. 13.465/2017. O MP concluiu que não havia justa causa para seguir com a investigação e promoveu o arquivamento, submetido à homologação do Conselho Superior do Ministério Público.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 2,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Escolas de São Martinho regularizaram sistema contra incêndio e MP encerrou o caso",
+  "description": "O Ministério Público instaurou inquérito para apurar a falta de Sistema de Segurança Contra Incêndio e Pânico nas escolas municipais de São Martinho, na área de direitos das crianças e dos adolescentes. Durante a apuração, os sistemas de segurança contra incêndio dos estabelecimentos municipais de ensino foram regularizados. Sem fundamento para ação judicial ou medidas extrajudiciais, o MP arquivou o inquérito.",
+  "status": "🟢 recomendação cumprida",
+  "severity": "media"
+ },
+ {
+  "i": 3,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP acompanhou reparo de campo de futebol e centro de convivência atingidos por enchente em São Martinho",
+  "description": "O Ministério Público abriu inquérito para apurar quais medidas já haviam sido tomadas e quais ainda seriam necessárias para regularizar o campo de futebol e o centro de convivência do Centro de São Martinho, ambos danificados por uma enchente. O extrato publicado no Diário Oficial não detalha o desfecho da apuração, de modo que não é possível afirmar em que situação o caso terminou.",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 0,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE recomendou aprovar as contas de 2023 do prefeito de São Martinho",
+  "description": "O Tribunal de Contas do Estado analisou a prestação de contas da Prefeitura de São Martinho referente ao exercício de 2023 e emitiu parecer pela aprovação. O julgamento final das contas do prefeito cabe à Câmara de Vereadores.",
+  "status": "🟢 parecer pela aprovação",
+  "severity": "media"
+ },
+ {
+  "i": 1,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE recomendou aprovar as contas de 2024 do prefeito de São Martinho",
+  "description": "O Tribunal de Contas do Estado examinou a prestação de contas da Prefeitura de São Martinho do exercício de 2024 e se manifestou pela aprovação. A decisão definitiva sobre as contas é da Câmara Municipal.",
+  "status": "🟢 parecer pela aprovação",
+  "severity": "media"
+ },
+ {
+  "i": 2,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE multa prefeito de São Martinho em R$ 1.990 por atrasar de novo a entrega das contas",
+  "description": "O Tribunal de Contas julgou irregular a reincidência no atraso do envio da Prestação de Contas do Prefeito de São Martinho, descumprindo prazo previsto em lei estadual e em instrução normativa da própria corte. Os conselheiros aplicaram ao prefeito Robson Jean Back multa de R$ 1.990,60, com prazo de 30 dias para comprovar o pagamento aos cofres do município ou recorrer. Se nada for feito, o TCE já autorizou o encaminhamento da dívida para cobrança judicial.",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta"
+ },
+ {
+  "i": 3,
+  "tipo": "tce",
+  "keep": true,
+  "title": "Vereadores acusam servidora de acumular cargo com presidência da Câmara e TCE apura",
+  "description": "Os vereadores Carlos Roberto Rodrigues, Nilmo Bechtold e José Schmitz representaram ao Tribunal de Contas apontando possível incompatibilidade de horários da servidora Anelise Weimes, que ocupa cargo efetivo na Prefeitura de São Martinho e ao mesmo tempo exerce o mandato de vereadora e a presidência da Câmara. O relator conheceu da representação e determinou diligências: a prefeitura deve enviar registros de frequência, contracheques e relatórios de trabalho da servidora desde janeiro de 2021, e a Câmara precisa informar horários de expediente e das sessões. O caso segue em instrução, sem julgamento de mérito até aqui.",
+  "status": "🟡 em instrução (citação/audiência)",
+  "severity": "media"
+ },
+ {
+  "i": 4,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 5,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE recomendou aprovar as contas de 2021 do prefeito de São Martinho",
+  "description": "O Tribunal de Contas do Estado analisou a prestação de contas da Prefeitura de São Martinho relativa ao exercício de 2021 e emitiu parecer pela aprovação. Cabe à Câmara de Vereadores o julgamento final.",
+  "status": "🟢 parecer pela aprovação",
+  "severity": "media"
+ },
+ {
+  "i": 6,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE recomendou aprovar as contas de 2022 do prefeito de São Martinho",
+  "description": "O Tribunal de Contas do Estado examinou a prestação de contas da Prefeitura de São Martinho do exercício de 2022 e se manifestou pela aprovação. A palavra final sobre essas contas é da Câmara Municipal.",
+  "status": "🟢 parecer pela aprovação",
+  "severity": "media"
+ },
+ {
+  "i": 7,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ }
+]

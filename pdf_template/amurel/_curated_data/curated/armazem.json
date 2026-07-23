@@ -1,0 +1,537 @@
+{
+ "mp": [
+  {
+   "i": 0,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 1,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 2,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou suspeita de superfaturamento em compra de peça de veículo em Armazém e arquivou",
+   "description": "O Ministério Público abriu procedimento para apurar possível ato de improbidade administrativa por valores superfaturados em licitação do Município de Armazém para a compra de \"palheta\" automobilística. O procedimento envolveu Bruno Alcântara e a Prefeitura. Em dezembro de 2024, o MP concluiu que não havia provas suficientes de improbidade e arquivou o caso.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 3,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 4,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 5,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 6,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 7,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 8,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 9,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 10,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 11,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 12,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 13,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 14,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 15,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 16,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 17,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 18,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 19,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 20,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 21,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 22,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou falha em concurso de agentes de saúde de Armazém e não encontrou irregularidade",
+   "description": "A partir de uma denúncia sigilosa, o Ministério Público apurou se o edital do Processo Seletivo n. 02/2023 do Município de Armazém era irregular por não especificar quais bairros seriam atendidos pelos novos cargos de Agente Comunitário de Saúde. O MP concluiu que a delimitação mínima feita pelo edital era adequada diante da geografia e da demografia do município. O procedimento foi arquivado em dezembro de 2024.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 23,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP processa Cerâmica Schmidt na Justiça por operar sem licença ambiental em São Martinho",
+   "description": "O Ministério Público investigou a suposta ausência de licença ambiental para a operação da Cerâmica Schmidt Ltda., em São Martinho. Ao concluir o inquérito civil, o MP entendeu que havia fundamento para ir à Justiça e ajuizou a Ação Civil Pública n. 5002187-55.2023.8.24.0159. O caso está agora sob análise do Judiciário.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 24,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 25,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 26,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 27,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 28,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 29,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 30,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Após ação do MP, Casan regulariza abastecimento de água em bairro de Armazém",
+   "description": "O Ministério Público acompanhou a falta de regularidade no abastecimento de água da Casan no Bairro Vila São Bernardo, em Armazém, a partir de reclamação de uma moradora da Rua Veni Michels Pessoa. Durante o inquérito, a companhia regularizou o fornecimento na região. Com a finalidade do inquérito cumprida, o MP arquivou o caso em março de 2026.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 31,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 32,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 33,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Laticínio Käse Haus firma acordo com o MP após venda de alimentos impróprios para consumo",
+   "description": "O Ministério Público apurou a comercialização, pela Laticínios Käse Haus Ltda., de produtos de origem animal impróprios para consumo humano, com irregularidades físico-químicas e de rotulagem. A empresa firmou termo de ajustamento de conduta se comprometendo com medidas preventivas, compensatórias e indenizatórias, sob pena de multa em caso de descumprimento. O inquérito foi arquivado e o cumprimento do acordo passou a ser acompanhado em procedimento administrativo.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 34,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Frigoneves firma acordo com o MP após venda de carnes impróprias para consumo humano",
+   "description": "O Ministério Público apurou a comercialização, pela Frigoneves Comércio de Carnes Ltda., de produtos de origem animal impróprios para consumo humano, com irregularidades físico-químicas e de rotulagem. A empresa assinou termo de ajustamento de conduta, assumindo medidas preventivas, compensatórias e indenizatórias, com multa prevista caso descumpra. O inquérito foi arquivado e o cumprimento das cláusulas segue sendo acompanhado pelo MP.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 35,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 36,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou irregularidades em comunidade terapêutica ligada ao Monte Ararat",
+   "description": "O Ministério Público instaurou inquérito civil para apurar irregularidades no funcionamento da comunidade terapêutica mantida pela Associação Centro de Recuperação e Integração Social Desafio Jovem Monte Ararat, tendo como responsável legal Josué Izidoro Flor. O extrato de conclusão publicado pelo MP em dezembro de 2024 está truncado na origem e não permite afirmar qual foi o desfecho. Não é possível dizer, com base no documento, se houve responsabilização, acordo ou arquivamento.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 37,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 38,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP encerra caso ambiental em Armazém após acordo penal que obriga recuperar área degradada",
+   "description": "O inquérito civil apurava conduta de Márcio Rocha enquadrada como crime ambiental previsto no artigo 50 da Lei n. 9.605/98. Pelos mesmos fatos, houve inquérito policial em que a Justiça homologou uma transação penal, com cláusula expressa exigindo a recuperação do dano ambiental e a execução do PRAD (plano de recuperação de área degradada). Com o acordo firmado, o MP arquivou o inquérito civil e o cumprimento das obrigações passou a ser acompanhado em procedimento administrativo.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 39,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou farmácia de Gravatal por funcionar sem farmacêutico e arquivou o caso",
+   "description": "O Ministério Público apurou a ausência de profissional farmacêutico durante todo o horário de funcionamento da Drogaria Capivari, em Gravatal, mantida pela Gliese Distribuidora de Produtos Alimentícios Ltda. Ao longo da investigação, a empresa deixou de comercializar medicamentos, o que esvaziou o objeto do inquérito. Sem fundamento para ação judicial ou medida extrajudicial, o MP arquivou o caso em julho de 2022.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 40,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou uso de água não potável em bar de São Martinho; situação foi regularizada",
+   "description": "A partir de denúncia anônima, o Ministério Público investigou o suposto uso de água não potável no estabelecimento Rancho dos Temperos e Tragos, em São Martinho. O laudo de análise da água não apontou risco à saúde humana e o estabelecimento regularizou a captação, obtendo Declaração de Uso Insignificante de Água por dispensa de outorga. Sem fundamento para prosseguir, o MP arquivou o inquérito em janeiro de 2023.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 41,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 42,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 43,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 44,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  }
+ ],
+ "tce": [
+  {
+   "i": 0,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE recomenda rejeição das contas de 2024 da Prefeitura de Armazém",
+   "description": "O Tribunal de Contas de Santa Catarina analisou a Prestação de Contas do Prefeito de Armazém referente ao exercício de 2024 e emitiu parecer prévio pela rejeição. O parecer do TCE é uma recomendação técnica: a palavra final sobre aprovar ou rejeitar as contas do prefeito é da Câmara de Vereadores. A decisão foi publicada em dezembro de 2025.",
+   "status": "🔴 parecer pela rejeição",
+   "severity": "media"
+  },
+  {
+   "i": 1,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multa prefeito de Armazém em R$ 842 por atrasar 177 dias a prestação de contas",
+   "description": "O Tribunal de Contas considerou irregular o atraso de 177 dias na entrega da Prestação de Contas do Prefeito de Armazém referente a 2020. O prefeito Luiz Paulo Rodrigues Mendes foi multado em R$ 842,33, com prazo de 30 dias para recolher o valor ao Tesouro do Estado ou recorrer. Caso não pague nem recorra, a dívida pode ser encaminhada para cobrança judicial.",
+   "status": "🔴 multa aplicada",
+   "severity": "media"
+  },
+  {
+   "i": 2,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE abre tomada de contas sobre R$ 16 mil pagos pela Prefeitura de Armazém sem contrato",
+   "description": "Ao inspecionar atrasos reiterados no envio de dados ao sistema e-Sfinge, o Tribunal de Contas encontrou pagamentos de R$ 16 mil feitos pela Prefeitura de Armazém à empresa J. F. Onofre Ltda. em 2023, por assessoria contábil, sem que existisse contrato entre as partes e sem comprovação de que os serviços foram prestados. O TCE converteu o processo em Tomada de Contas Especial e mandou citar o prefeito Luiz Paulo Rodrigues Mendes e o secretário de Administração Adalton dos Santos Moisés, em responsabilidade solidária, além do servidor João Ricardo da Silva quanto aos atrasos. Eles têm 30 dias para apresentar defesa ou comprovar o ressarcimento. Nenhum deles foi condenado até aqui — o caso está em fase de defesa.",
+   "status": "🟡 em instrução (citação/audiência)",
+   "severity": "alta"
+  },
+  {
+   "i": 3,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE recomenda rejeição das contas de 2023 da Prefeitura de Armazém",
+   "description": "O Tribunal de Contas de Santa Catarina examinou a Prestação de Contas do Prefeito de Armazém do exercício de 2023 e emitiu parecer prévio pela rejeição, em agosto de 2024. O parecer é uma recomendação técnica ao Legislativo: cabe à Câmara de Vereadores decidir se aprova ou rejeita as contas.",
+   "status": "🔴 parecer pela rejeição",
+   "severity": "media"
+  },
+  {
+   "i": 4,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 5,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE recomenda aprovação das contas de 2021 da Prefeitura de Armazém",
+   "description": "O Tribunal de Contas de Santa Catarina analisou a Prestação de Contas do Prefeito de Armazém referente ao exercício de 2021 e emitiu parecer prévio pela aprovação, em dezembro de 2022. A decisão final sobre as contas cabe à Câmara de Vereadores.",
+   "status": "🟢 parecer pela aprovação",
+   "severity": "media"
+  },
+  {
+   "i": 6,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE recomenda aprovação das contas de 2022 da Prefeitura de Armazém",
+   "description": "O Tribunal de Contas de Santa Catarina examinou a Prestação de Contas do Prefeito de Armazém do exercício de 2022 e emitiu parecer prévio pela aprovação, em dezembro de 2023. Como nos demais casos, a palavra final é da Câmara de Vereadores.",
+   "status": "🟢 parecer pela aprovação",
+   "severity": "media"
+  },
+  {
+   "i": 7,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE condena empreiteira e engenheiro a devolver R$ 191 mil de obra de pavimentação em Armazém",
+   "description": "O Tribunal de Contas julgou irregulares as contas de um convênio de R$ 1 milhão repassado pelo Governo do Estado, via Fundo de Apoio aos Municípios (FUNDAM), para pavimentar onze ruas de Armazém. A fiscalização apontou materiais e serviços pagos pela prefeitura e não executados pela empresa contratada. O TCE condenou solidariamente José Luiz Bonifácio, sócio-administrador da JL Construtora Ltda., e Lucas de Oliveira Neves, engenheiro civil do município responsável pela fiscalização da obra, a devolver R$ 191.752,80 aos cofres municipais, corrigidos. Eles têm 30 dias para comprovar o pagamento ou recorrer, sob pena de cobrança judicial.",
+   "status": "⬛ julgado irregular",
+   "severity": "alta"
+  },
+  {
+   "i": 8,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 9,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 10,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 11,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 12,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 13,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  }
+ ]
+}

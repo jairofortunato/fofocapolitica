@@ -1,0 +1,1437 @@
+{
+ "mp": [
+  {
+   "i": 0,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou gastos da festa de 134 anos de Imaruí e arquivou o caso",
+   "description": "O Ministério Público apurou se houve improbidade na dispensa de licitação para contratar bens e serviços das festividades do 134º aniversário do município, cujos valores foram considerados expressivos. A investigação encontrou uma irregularidade pontual: a contratação da Banda Matusa pela empresa Pro-Motion Serviços e Eventos foi feita sem comprovação de que ela era a representante exclusiva da banda, o que a Lei 14.133/2021 exige. Ainda assim, o MP concluiu que não houve enriquecimento ilícito nem indícios suficientes para uma ação civil pública, e arquivou o inquérito.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 1,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou a contratação da 'Tenda do Covid' em Imaruí e não achou irregularidade",
+   "description": "O inquérito investigava a licitação da chamada 'Tenda do Covid' pela prefeitura. Apurou-se que a empresa Silva & Silva Estruturas Metálicas foi inicialmente inabilitada, recorreu e teve a habilitação aceita após parecer jurídico, e que a homologação seguiu o rito regular. O MP verificou ainda que os preços contratados eram compatíveis com o mercado, houve competição e o valor inicial caiu, sem qualquer sinal de direcionamento, fraude ou superfaturamento. O caso foi encerrado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 2,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Caso do repasse não feito à Câmara de Imaruí prescreveu e prefeito não foi processado",
+   "description": "O Ministério Público apurou suposta improbidade do prefeito Rui José Candemil Júnior e do secretário de Administração e Finanças, Jailson Manoel Rosa, pela falta de repasse dos duodécimos devidos à Câmara Municipal. A investigação não identificou dolo específico, enriquecimento ilícito nem prejuízo deliberado ao interesse público. Como os fatos são de 2018 e 2019, o MP reconheceu a prescrição de cinco anos prevista na Lei de Improbidade e encerrou o inquérito sem responsabilizar ninguém.",
+   "status": "⚫ prescrito",
+   "severity": "media"
+  },
+  {
+   "i": 3,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou diárias pagas a servidores de Imaruí sem comprovante e encerrou o inquérito",
+   "description": "O inquérito investigava a concessão de diárias a servidores municipais. Dois servidores apresentaram documentação idônea comprovando a regularidade das diárias que receberam. Quanto a outros quatro empenhos, a prefeitura informou que consultou seu acervo e não localizou os comprovantes exigidos pela legislação da época. O extrato publicado é truncado e não deixa claro qual foi o desfecho para esses casos.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 4,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP checou convênio do Hospital São João Batista de Imaruí e não viu desvio de recursos",
+   "description": "O inquérito apurava se o hospital deixou de recolher encargos sociais e trabalhistas com dinheiro do Termo de Convênio 01/2022, firmado com a prefeitura. Foram identificadas inconsistências formais e atrasos no cumprimento de obrigações, mas o MP não encontrou indícios de improbidade, desvio de finalidade ou dano ao erário. Pesou a favor a fiscalização feita pelo município, os ajustes administrativos e a regularização gradual pela entidade hospitalar. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 5,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Após suspeita de superfaturamento, Imaruí acatou recomendação do MP e caso foi encerrado",
+   "description": "A Promotoria de Justiça abriu o procedimento a partir da notícia de possível superfaturamento na contratação da empresa Ailton Silveira Júnior - ME. Para prevenir novas irregularidades, o MP expediu a Recomendação 0001/2021 ao município, que informou tê-la acolhido integralmente. Sem elementos suficientes para uma ação de improbidade e com a recomendação cumprida, o procedimento foi encerrado — podendo ser reaberto se surgirem novas irregularidades.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 6,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 7,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Diretor de escola em Imaruí foi investigado por usar telefone da escola em anúncio, mas MP arquivou",
+   "description": "O inquérito apurava se o então diretor da Escola de Educação Básica Professora Eulina Heleodoro Barreto, Ailton Silveira Júnior, cometeu improbidade ao usar o telefone institucional da escola para fins pessoais, divulgando um estabelecimento comercial. O MP reconheceu que usar canal institucional para fim particular contraria os princípios da Administração Pública, mas concluiu que não havia elementos de má-fé nem indícios mínimos para prosseguir. O caso foi arquivado sem ação civil pública.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 8,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 9,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Procurador de Imaruí advogou para o prefeito em causa particular, e MP concluiu que podia",
+   "description": "O inquérito apurava suposta improbidade do procurador jurídico do município, Sylvester Vieira Rochadel da Silva, por representar judicialmente o prefeito Rui José Candemil Júnior em uma ação de interesse pessoal dele. O MP verificou que o município distingue dedicação integral de dedicação exclusiva e que o cargo de procurador não era de dedicação exclusiva. Assim, não havia impedimento para o advogado atuar em causa privada fora do expediente, e o caso foi encerrado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 10,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou nepotismo em nomeações na Prefeitura de Imaruí e não confirmou a prática",
+   "description": "O inquérito apurava se as nomeações de Marlei Moretti, Matheus Guterro Brasil, Bibiane Vieira Rodrigues e Lucas de Bittencourt configuravam nepotismo. Em dois casos, o parentesco não se confirmou ou não estava em grau juridicamente relevante. No caso de Marlei Moretti, secretária municipal, o MP entendeu que o cargo é de natureza política e que não havia troca de favores, falta de qualificação técnica ou desvio de finalidade, situação em que a vedação ao nepotismo não se aplica. O caso foi encerrado sem responsabilização.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 11,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquivou caso da capela mortuária de Imaruí após inauguração da Casa Mortuária",
+   "description": "O inquérito apurava irregularidades nas obras da capela mortuária municipal e o uso de local sem condições de salubridade para o manejo de corpos. O MP arquivou o caso porque a situação foi superada com a inauguração da Casa Mortuária, em fevereiro de 2015, e a Vigilância Sanitária constatou que o ambiente estava em conformidade com as normas. Também faltou material probatório para compreender as licitações e as condutas dos envolvidos.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 12,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Policial militar da Operação Gêmeos do Mal foi investigado por improbidade, mas MP arquivou",
+   "description": "O inquérito apurava supostos atos de improbidade do então policial militar Alcivan Antônio Goulart, no contexto da Operação Gêmeos do Mal. O MP concluiu que os elementos colhidos no processo administrativo disciplinar não trouxeram fatos novos nem demonstraram que ele obteve vantagem indevida ou contribuiu para lesão ao patrimônio público, condutas necessárias para configurar improbidade. O inquérito foi encerrado sem ação civil pública; questões residuais seguem em outros processos judiciais.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 13,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Gratificações irregulares a auxiliares de Imaruí foram revogadas e MP encerrou o caso",
+   "description": "O inquérito apurava possível desvio de função dos servidores André Luciano da Silveira e Ricardo Vargas Fermiano, ocupantes do cargo de auxiliar de serviços gerais, que recebiam funções gratificadas. As gratificações foram revogadas por portarias de 2019 e 2020, o que sanou tanto o desvio de função quanto a inconstitucionalidade da criação desses adicionais. Os servidores não têm mais vínculo com o município e o MP não viu conluio nem má-fé que justificasse cobrar a devolução dos valores.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 14,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 15,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 16,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Caso de pacientes de Imaruí mandados a clínicas particulares prescreveu sem culpados",
+   "description": "O inquérito apurava o encaminhamento de pacientes pela Secretaria Municipal de Saúde para consultas e exames em estabelecimentos particulares, pagos diretamente pelos usuários, com suposta concessão de descontos intermediada por agentes públicos. O MP não conseguiu identificar quais servidores estariam envolvidos e, com o tempo decorrido, a possibilidade de ação de improbidade prescreveu. Não foram encontrados sinais de que a prática continue hoje, e o inquérito foi arquivado.",
+   "status": "⚫ prescrito",
+   "severity": "media"
+  },
+  {
+   "i": 17,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP encerra inquérito sobre barro de Imaruí cedido a particulares; apuração segue em outro caso",
+   "description": "O procedimento apurava a suposta utilização de barro extraído da barreira do município em benefício de particulares. O MP encerrou este inquérito porque já existe outro procedimento mais antigo e de objeto mais amplo sobre o mesmo tema, o Inquérito Civil 06.2011.00006322-3, com diligências recentes para saber que medidas foram tomadas para impedir a extração e destinação do barro a particulares e apurar eventual dano ao erário. O órgão considerou que não havia razão para manter duas investigações simultâneas.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 18,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 19,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou 'empresas laranjas' de vereador no transporte escolar de Imaruí e fechou acordo",
+   "description": "O inquérito investigava fraude à licitação nas contratações de transporte escolar pela prefeitura e pelo governo do Estado na região de Imaruí, entre 2018 e 2020. A suspeita era de que as empresas Larissa Steffens ME e Edson Faust ME seriam 'laranjas', controladas de fato pelo vereador Laudemir José de Souza, que é proibido de contratar com o poder público. O caso foi resolvido por um acordo firmado nos autos do processo 5000289-14.2020.8.24.0029, que abrangeu tanto a responsabilização penal quanto a esfera cível de todos os fatos apurados, incluindo os deste inquérito.",
+   "status": "🟠 ACNP firmado",
+   "severity": "alta"
+  },
+  {
+   "i": 20,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Prefeitura de Imaruí voltou a enviar contas à Câmara após recomendação do MP",
+   "description": "O procedimento começou em 2015 por causa das falhas do Executivo em enviar à Câmara Municipal os documentos contábeis dos anos de 2013 e 2014. Depois de anos de tramitação, o MP expediu recomendação ao prefeito para cumprir rigorosamente a legislação, e tanto o prefeito da época quanto o gestor seguinte se comprometeram a atender. Como não houve novos descumprimentos desde então, o Ministério Público considerou o objetivo atingido e encerrou o caso.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 21,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 22,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 23,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Licitações com consultoria em Imaruí prescreveram sem que o MP comprovasse prejuízo",
+   "description": "O inquérito apurava possíveis irregularidades em processos licitatórios envolvendo a empresa Pública Consultoria e Desenvolvimento Profissional. As diligências não reuniram elementos que comprovassem prejuízo ao erário ou permitissem cobrá-lo, e os integrantes da comissão de licitação ouvidos não se lembravam dos fatos, pelo tempo decorrido. O MP reconheceu a prescrição quanto a eventuais atos de improbidade; o prefeito à época da licitação e da assinatura do contrato era Braz Guterro.",
+   "status": "⚫ prescrito",
+   "severity": "media"
+  },
+  {
+   "i": 24,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 25,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 26,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 27,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP checou contrato de obra da Castelo Engenharia em Imaruí e não achou irregularidade",
+   "description": "O inquérito apurava eventual irregularidade no Contrato 037/2015, firmado entre o município e a empresa Castelo Engenharia. A investigação concluiu que os pagamentos feitos à empresa correspondiam aos serviços efetivamente prestados, sem irregularidade na execução do contrato. A prefeitura ainda abriu nova concorrência para a pavimentação da Rua Serafim Barbosa Cabral. Sem indícios mínimos para prosseguir, o MP arquivou o caso.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 28,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 29,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou poluição da Lagoa de Imaruí por pesqueira e não confirmou descarte irregular",
+   "description": "O inquérito ambiental apurava se a empresa Cassimiro Pescados descartava resíduos na Lagoa de Imaruí. As diligências não confirmaram o descarte irregular: os laudos técnicos indicaram que os efluentes industriais da empresa atendem aos parâmetros legais. As irregularidades no esgoto das residências do entorno estão sendo apuradas em outro procedimento regional. Sem prova mínima de ilícito ambiental, o caso foi encerrado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 30,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 31,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 32,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Compra de canos da rede de água de Imaruí prescreveu sem que se apurasse o destino do material",
+   "description": "O inquérito apurava irregularidades na aquisição, uso e armazenamento de canos e adesivos comprados pela prefeitura e pelo SAMAE para a rede de água do município. As diligências não reuniram elementos que comprovassem prejuízo ao erário. Todos os depoentes, inclusive o prefeito da época, afirmaram que não havia controle formal dos materiais naquele período e não souberam dizer quanto sobrou nem onde o material foi parar. O MP reconheceu a prescrição quanto a eventuais atos de improbidade.",
+   "status": "⚫ prescrito",
+   "severity": "media"
+  },
+  {
+   "i": 33,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 34,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Extração de saibro sem controle em Imaruí prescreveu e o dano ao erário nunca foi medido",
+   "description": "O inquérito apurava a suposta omissão do município quanto à jazida de saibro que tinha licença para explorar, de onde particulares estariam retirando material sem autorização nem controle. Constatou-se que desde 2022 não há mais exploração no imóvel declarado de utilidade pública em 2005. As diligências não conseguiram comprovar prejuízo efetivo nem permitir sua cobrança, sobretudo pela falta de registros de fiscalização da extração. O caso foi encerrado pela prescrição.",
+   "status": "⚫ prescrito",
+   "severity": "media"
+  },
+  {
+   "i": 35,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Imaruí parou serviços de assistência social em recesso e retomou após recomendação do MP",
+   "description": "O inquérito apurou a suposta descontinuidade dos serviços socioassistenciais no município. As diligências confirmaram que os serviços foram mesmo interrompidos, porque a Secretaria Municipal de Assistência Social concedeu recesso a toda a sua estrutura de pessoal, o que o MP considerou uma descontinuidade indevida. A Promotoria recomendou ao prefeito que garantisse a prestação ininterrupta dos serviços, inclusive durante recessos administrativos, e a recomendação foi acatada integralmente. Com as providências adotadas, o caso foi encerrado.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 36,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou compras diretas da estação de tratamento de água de Imaruí sem comprovar prejuízo",
+   "description": "O inquérito investigava supostas irregularidades na aquisição da Estação de Tratamento de Água pelo município, por meio do SAMAE, com destaque para cinco compras diretas feitas em 2016. As diligências não reuniram elementos capazes de comprovar prejuízo ao erário ou viabilizar ressarcimento, e a prova testemunhal foi considerada insuficiente. O então presidente do SAMAE afirmou que as contratações diretas se deram para cumprir prazos curtos de um Termo de Ajustamento de Conduta e que os materiais foram efetivamente utilizados. O extrato publicado é truncado e não explicita o desfecho final.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 37,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 38,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Suspeita de caminhão-pipa menor que o contratado em Imaruí não se confirmou",
+   "description": "O inquérito apurava se o SAMAE de Imaruí contratou, na Licitação 1/2020, o aluguel de caminhão-pipa de 15 mil litros mas recebeu o serviço com um veículo de apenas 10 mil litros. A consulta ao CNPJ da empresa Leonardo Silva Borges ME mostrou 11 veículos registrados, cinco deles com capacidade acima de 15 mil litros. A prefeitura enviou fotografias comprovando que o serviço foi executado por veículo da empresa. O MP arquivou o caso.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 39,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 40,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Imaruí negou informação pública e só liberou documentos após ação na Justiça",
+   "description": "O procedimento foi aberto porque o município descumpriu a Lei de Acesso à Informação. O advogado que pedia os dados precisou entrar com ação judicial para conseguir a liberação, e os documentos acabaram sendo entregues. O MP não viu provas de má-fé, atribuindo o problema à desorganização interna da prefeitura, agravada pela troca de prefeito. Com o objeto resolvido, o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 41,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 42,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 43,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 44,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Fila de pagamentos furada em Imaruí prescreveu e MP aceitou justificativa da prefeitura",
+   "description": "O inquérito apurava a quebra da ordem cronológica de pagamentos do município, denunciada em ação da empresa Sul Card Administradora de Cartões. Quanto à assunção irregular de dívidas pelo então prefeito Manoel Viana de Sousa, o MP reconheceu a prescrição. Já na gestão do prefeito Rui José Candemil Júnior, o município justificou a quebra da ordem pela escassez de recursos e pela necessidade de priorizar pagamentos essenciais, hipóteses previstas como excepcionais na Instrução Normativa 02/2016. Sem indícios de dolo ou má-fé, o caso foi encerrado.",
+   "status": "⚫ prescrito",
+   "severity": "media"
+  },
+  {
+   "i": 45,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Após fiscalização de produtos impróprios em Imaruí, empresa se regularizou e MP arquivou",
+   "description": "O inquérito apurava a comercialização de produtos de origem animal impróprios ao consumo pelo estabelecimento L.S. Indústria, Comércio e Transporte de Produtos Alimentícios, no centro de Imaruí, a partir de fiscalização realizada em abril de 2024. No curso das diligências, a irregularidade identificada foi sanada. Novas fiscalizações da CIDASC, da Vigilância Sanitária e da Polícia Militar Ambiental constataram que a empresa está licenciada e operando em conformidade. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 46,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP encerra caso de resíduos de saúde em Imaruí após município regularizar plano de gestão",
+   "description": "O inquérito apurava suposta poluição ambiental envolvendo o município e Clesio Luiz da Silva. O Ministério Público concluiu que a poluição não foi comprovada e que o município regularizou o Plano de Gerenciamento dos Resíduos de Serviços de Saúde (PGRSS). Sem motivo para continuar, o procedimento foi encerrado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 47,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Quadras cobertas de Imaruí saíram fora do projeto, mas o caso prescreveu",
+   "description": "O inquérito apurava irregularidades na execução do Convênio 1424/2012-9, que financiou a construção de quadras cobertas no município. Verificou-se inicialmente que o projeto não foi executado conforme a planilha orçamentária, mas o tempo passado desde as obras inviabilizou medir o prejuízo, mesmo por perícia, e dificultou apurar eventual omissão do engenheiro civil do município e da arquiteta do Estado que fizeram as vistorias. O MP reconheceu a prescrição quanto a possíveis atos de improbidade.",
+   "status": "⚫ prescrito",
+   "severity": "media"
+  },
+  {
+   "i": 48,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 49,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 50,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 51,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 52,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquivou caso de acesso barrado à lagoa em Cangueri, Imaruí",
+   "description": "O inquérito civil, aberto a partir de denúncia anônima, apurava irregularidades e possível risco ambiental na localidade de Cangueri: moradores estariam restringindo o acesso de terceiros à lagoa que circunda a cidade e haveria edificação em locais impróprios para instalação elétrica. Ao final das apurações, o Ministério Público determinou o arquivamento do procedimento.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 53,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 54,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Descarte de resíduos de peixe na Lagoa de Imaruí foi regularizado e MP encerrou o caso",
+   "description": "O inquérito ambiental apurava o descarte irregular de resíduos de peixe e camarão diretamente na Lagoa de Imaruí. As diligências constataram que a irregularidade não persiste: as empresas mantêm contratos regulares para recolhimento e descarte adequado dos resíduos, e as visitas técnicas e a inspeção na orla não identificaram ligação direta com a lagoa nem descarte nas proximidades. As situações individuais de cada empresa foram apuradas em procedimentos próprios.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 55,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 56,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 57,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 58,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 59,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 60,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura rancho de pesca erguido em área de preservação permanente em Imaruí",
+   "description": "O Ministério Público instaurou inquérito civil para apurar possíveis danos ambientais causados pelo corte de vegetação e pela construção de um rancho de pesca em área de preservação permanente. A obra fica na propriedade de Moisés Pereira Furtado, na Estrada Geral Praia Vermelha, em Imaruí. O caso segue em apuração.",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 61,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Propaganda do aniversário de Imaruí em ano eleitoral foi arquivada por perda de prazo",
+   "description": "O procedimento preparatório eleitoral apurava conduta vedada a agentes públicos em campanha: a divulgação, pelo Instagram, dos eventos do aniversário de 134 anos do município nos três meses que antecederam a eleição. O Ministério Público arquivou o caso porque o prazo legal para apresentar representação eleitoral se esgotou, sem que o mérito fosse julgado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 62,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Justiça manda Imaruí exonerar procuradores nomeados sem concurso após ação do MP",
+   "description": "O inquérito apurava a contratação de servidores para o cargo de procurador jurídico do município sem concurso público. O caso resultou em duas ações judiciais: uma Ação Direta de Inconstitucionalidade, que derrubou 90 cargos em comissão criados pela Lei Municipal 1.028/2005 e alterações posteriores, e a Ação Civil Pública 5000809-32.2024.8.24.0029, que determinou a exoneração de quem ocupava esses cargos. O município então promulgou a Lei Complementar 105/2024, reorganizando a Procuradoria Jurídica e criando novos cargos. Com o objeto atendido pela via judicial, o inquérito foi arquivado.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 63,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 64,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 65,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 66,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 67,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 68,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 69,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 70,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 71,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 72,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cobra e Prefeitura de Imaruí corrige editais de contratação temporária de professores",
+   "description": "O Ministério Público abriu procedimento em 2024 para corrigir irregularidades nos editais de escolha de vagas dos servidores admitidos em caráter temporário (ACTs) de Imaruí. O problema era que portarias de nomeação citavam editais que não existiam. A Prefeitura comprovou por documentos que retificou as publicações, e o MP concluiu que não havia motivo para ação judicial. O caso foi encerrado em novembro de 2024.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 73,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 74,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Canil de Imaruí foi investigado por irregularidade sanitária, mas MP não achou provas e arquivou",
+   "description": "O Ministério Público investigou suspeitas de irregularidades sanitárias no Canil Magi, criador de animais domésticos em Imaruí. Após as diligências, não foram encontrados indícios que sustentassem a investigação: não se constatou irregularidade sanitária nem situação de maus-tratos, e o estabelecimento já havia feito as adequações de licenciamento. O inquérito foi arquivado em março de 2025 sem qualquer responsabilização.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 75,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 76,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 77,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP acompanhou a alimentação escolar em Imaruí e encerrou o caso após problemas serem resolvidos",
+   "description": "O inquérito apurava se Imaruí cumpria a lei estadual sobre alimentação escolar e quais dificuldades o Conselho de Alimentação Escolar enfrentava. Nas diligências, o MP verificou que as irregularidades apontadas no início foram superadas e que o município passou a manter fiscalização contínua e mecanismos de controle no entorno das escolas. Sem risco iminente nem sinal de repetição, o caso foi encerrado em fevereiro de 2026.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 78,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 79,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Após acompanhamento do MP, Vigilância Sanitária de Imaruí ganha sede e estrutura adequadas",
+   "description": "O Ministério Público acompanhou as ações da Vigilância Sanitária de Imaruí dentro do programa estadual de proteção à saúde do consumidor. Constatou que o setor passou a funcionar no novo prédio do Mercado do Produtor, em condições adequadas, com dois fiscais sanitários e um diretor, além de computadores, mesas e veículo compartilhado. As fiscalizações e a emissão de taxas passaram a ser registradas nos sistemas PHAROS e CELK. O inquérito foi arquivado em fevereiro de 2026.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 80,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou falhas no transporte escolar de escola de Imaruí e arquivou após correções",
+   "description": "O inquérito investigava irregularidades no transporte escolar da EEB Prof.ª Eulina Heleodoro Barreto, em Imaruí. O MP verificou que em 2023 o município fez nova licitação e contratou três empresas adicionais para atender a escola, e que os problemas apontados, sobretudo os relacionados aos condutores, foram sanados pela empresa contratada. A Prefeitura também passou a fiscalizar de forma contínua, checando documentação e veículos. O caso foi arquivado em fevereiro de 2026.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 81,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Escola pública desativada em Imaruí foi ocupada irregularmente; Prefeitura foi à Justiça retomá-la",
+   "description": "O Ministério Público apurou a ocupação irregular de uma escola pública desativada na comunidade de Rio Prainha, em Imaruí. Verificou que a Prefeitura adotou todas as medidas administrativas possíveis e, como as tentativas de desocupação voluntária não deram certo, ajuizou ação de reintegração de posse. Sem indício de omissão da administração, o MP encerrou a investigação em fevereiro de 2026 — a disputa segue apenas na Justiça.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 82,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 83,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou descarte irregular de lixo em comunidade de Imaruí e arquivou sem identificar responsável",
+   "description": "O inquérito investigava o descarte irregular de lixo na comunidade de Figueira Grande, em Imaruí. O Ministério Público constatou que o despejo cessou, que a área está em regeneração ambiental e que o proprietário do terreno adotou medidas preventivas. Não foi possível identificar quem fez o descarte, e o MP considerou improvável consegui-lo depois de tanto tempo. O caso foi encerrado em março de 2026.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 84,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou empresas que teriam entregado produtos fora do contrato à Prefeitura de Imaruí",
+   "description": "O inquérito apurava se as empresas Litoralm, Plasmedic, Casa de Fraldas BC e Scooby, vencedoras de licitações do Município de Imaruí, forneceram produtos em desacordo com a qualidade e a quantidade previstas nos contratos. O procedimento também envolve o servidor André Poluceno Viana. O texto publicado pelo Diário Oficial está cortado antes de informar a conclusão, então o desfecho da apuração não pode ser afirmado. O extrato de conclusão é de abril de 2026.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 85,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Após cobrança do MP, farmácia básica de Imaruí regulariza armazenamento de medicamentos",
+   "description": "O Ministério Público instaurou inquérito para que a Prefeitura de Imaruí regularizasse as condições sanitárias de armazenamento dos medicamentos da farmácia básica municipal. Depois de um longo período, a Prefeitura conseguiu a regularização e obteve o alvará da vigilância sanitária estadual sem nenhuma restrição. O extrato de conclusão foi publicado em março de 2022.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 86,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP vai à Justiça contra subcontratação ilegal no transporte escolar de Imaruí",
+   "description": "A investigação sobre o transporte escolar de Imaruí foi dividida em três frentes: o atendimento a alunos que moram a menos de 3 km da escola, a subcontratação ilegal de empresas e a segurança dos veículos da empresa IMATUR. Sobre a subcontratação ilegal, o Ministério Público ajuizou a Ação Civil Pública n. 08.2018.00192989-2, que corre na Justiça. Os demais pontos foram tratados como fiscalização e orientação ao município.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 87,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 88,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 89,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 90,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 91,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 92,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 93,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 94,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 95,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 96,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 97,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 98,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 99,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 100,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 101,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 102,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 103,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 104,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 105,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 106,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 107,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Justiça derruba 90 cargos comissionados de Imaruí e manda exonerar quem os ocupava",
+   "description": "O Ministério Público investigava servidores comissionados da Prefeitura de Imaruí que exerciam funções fora das hipóteses permitidas pela Constituição. O caso terminou em duas frentes judiciais: uma ação direta de inconstitucionalidade derrubou 90 cargos em comissão criados pela Lei Municipal 1.028/2005 e alterações posteriores, e uma ação civil pública determinou a exoneração dos servidores que os ocupavam. Com as exonerações confirmadas, o MP arquivou o inquérito em julho de 2025 por falta de interesse de agir.",
+   "status": "🟢 arquivado",
+   "severity": "alta"
+  },
+  {
+   "i": 108,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 109,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 110,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou se Imaruí abandonava seu patrimônio histórico e concluiu que não houve omissão",
+   "description": "O inquérito investigava uma possível omissão da Prefeitura de Imaruí na defesa do patrimônio histórico e cultural do município. Nas diligências, o MP verificou que a administração vem adotando providências de preservação, com iniciativas legislativas e ações de valorização cultural. A Fundação Catarinense de Cultura informou que nenhuma edificação do município foi selecionada para tombamento estadual nas vistorias realizadas. Sem indício de omissão, o caso foi encerrado em fevereiro de 2026.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 111,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Suspeita de loteamento irregular em Imaruí não se confirmou; MP orientou e arquivou o caso",
+   "description": "O Ministério Público apurou um suposto parcelamento irregular do solo na comunidade Sertão da Fazenda Rio das Garças, em Imaruí. As diligências não encontraram indício de fracionamento ou de qualquer obra voltada à divisão de lotes na área. O MP atuou de forma preventiva e expediu recomendação, acatada pelos investigados, de que qualquer parcelamento futuro siga rigorosamente a legislação do INCRA e demais normas. O inquérito foi arquivado em abril de 2026.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 112,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 113,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 114,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 115,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 116,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 117,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 118,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 119,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 120,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 121,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Mercado Mendes, de Imaruí, assina acordo com o MP para corrigir falhas sanitárias",
+   "description": "Uma vistoria do Programa de Proteção Jurídico-Sanitária dos Consumidores de Produtos de Origem Animal apontou irregularidades no estabelecimento José Mendes Filho ME, o Mercado Mendes, em março de 2023. Para resolver o caso, a empresa firmou um Termo de Compromisso de Ajustamento de Conduta (TAC) com o Ministério Público, comprometendo-se a sanar os problemas. Com o acordo assinado, o inquérito foi arquivado em junho de 2024.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 122,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Mercado e açougue Mendesgoul firma acordo com MP após vistoria apontar irregularidades",
+   "description": "A vistoria do Programa de Produtos de Origem Animal realizada em março de 2023 encontrou irregularidades no Comércio Mendesgoul Ltda. ME, que opera como Mendesgoul Mercado e Açougue, em Imaruí. A empresa firmou um Termo de Compromisso de Ajustamento de Conduta com o Ministério Público para corrigir os problemas apontados. O inquérito foi arquivado em junho de 2024 em razão do acordo.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 123,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Estabelecimento de Imaruí assina TAC com MP após irregularidades em vistoria sanitária",
+   "description": "Vistorias do Programa de Produtos de Origem Animal feitas em 23 e 24 de abril de 2024 apontaram irregularidades no estabelecimento comercial Sinara da Silva Vieira Ltda., em Imaruí. A empresa firmou Termo de Compromisso de Ajustamento de Conduta com o Ministério Público se comprometendo a corrigir as falhas. Com o acordo, o inquérito foi arquivado em agosto de 2024.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 124,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Polícias Civil e Militar de Imaruí acatam recomendações do MP sobre atendimento de ocorrências",
+   "description": "O Ministério Público, no exercício do controle externo da atividade policial, apurou como as polícias da Comarca de Imaruí conduziam pessoas e objetos à Polícia Civil no atendimento de ocorrências. O objetivo era garantir o cumprimento da Diretriz de Ação Operacional n. 037/2019 da PM e da Portaria n. 085/GABS/SSP/2019. O MP expediu recomendação às duas corporações, que a acataram integralmente. O inquérito foi arquivado em março de 2026.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 125,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 126,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou segurança do transporte escolar em Imaruí e arquivou por falta de provas",
+   "description": "O inquérito apurava a segurança do transporte escolar no município de Imaruí, envolvendo Antônio Mendonça Matos e Elionildo Tomaz Vitório. Diante da resposta apresentada pela Prefeitura sobre as condições do serviço e da ausência de provas ao longo das investigações, o Ministério Público concluiu pelo arquivamento. O caso foi encerrado em março de 2022, sem responsabilização de ninguém.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 127,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 128,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 129,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 130,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 131,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 132,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 133,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 134,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 135,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 136,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 137,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 138,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 139,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 140,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 141,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  }
+ ],
+ "tce": [
+  {
+   "i": 0,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE analisou as contas de 2020 do prefeito de Imaruí; extrato não informa o resultado",
+   "description": "O Tribunal de Contas de Santa Catarina apreciou a prestação de contas do prefeito de Imaruí referente ao exercício de 2020, no processo PCP 21/00274524, com registro em fevereiro de 2022. O extrato publicado não traz o teor do parecer prévio, de modo que não é possível afirmar se o Tribunal recomendou a aprovação ou a rejeição das contas — quem decide sobre elas, ao final, é a Câmara de Vereadores.",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 1,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 2,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 3,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multa prefeito de Imaruí por seis irregularidades em licitação do sistema de água",
+   "description": "A empresa Losüngen Consultoria representou ao Tribunal de Contas contra o Edital RDCI n. 01/2022 da Prefeitura de Imaruí, que contratava projetos de engenharia, obras de reestruturação do sistema de água e a implantação da cobrança da tarifa. O TCE julgou a representação procedente e aplicou ao prefeito Patrick Corrêa multas de R$ 4 mil para cada uma das irregularidades apontadas — entre elas a falta de justificativa para usar o regime de contratação integrada, a aglutinação do objeto, exigências indevidas de qualificação técnica, a restrição a consórcios e a terceirização total do abastecimento de água do município. A decisão é de dezembro de 2024 e fixou prazo de 30 dias para pagamento ou recurso.",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta"
+  },
+  {
+   "i": 4,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 5,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 6,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 7,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 8,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta falha de Imaruí em pareceres dos conselhos do FUNDEB, da merenda e do idoso",
+   "description": "Em inspeção ligada às contas de 2020 de Imaruí, o Tribunal de Contas considerou irregular a ausência de envio do parecer do Conselho Municipal do Idoso e a falta de apuração dos fatos relatados nos pareceres dos conselhos de acompanhamento do FUNDEB e de Alimentação Escolar. O TCE recomendou à Prefeitura e ao controle interno que verifiquem as supostas irregularidades apontadas por esses conselhos e que passem a encaminhar o parecer do Conselho do Idoso conforme a instrução normativa. A decisão é de novembro de 2023 e não aplicou multa.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 9,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 10,
+   "tipo": "tce",
+   "keep": true,
+   "title": "Após denúncia no TCE, Imaruí volta atrás e habilita empresa excluída de licitação",
+   "description": "O Tribunal de Contas apurou possíveis irregularidades na Tomada de Preços 003/2023 da Prefeitura de Imaruí, após questionamento sobre a inabilitação de um licitante. Antes do julgamento, a própria Prefeitura reviu o ato e habilitou a empresa, o que levou o TCE a arquivar o caso por perda de objeto em dezembro de 2023. O Tribunal recomendou ao município que, em licitações futuras, adeque as exigências de habilitação ao objeto contratado e explique com clareza o que será analisado.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 11,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 12,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 13,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 14,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE rejeita recurso e mantém multas ao prefeito de Imaruí pela licitação do sistema de água",
+   "description": "Patrick Corrêa recorreu ao Tribunal de Contas contra o Acórdão n. 427/2024, que o havia multado pelas irregularidades no edital RDCI n. 01/2022, da reestruturação do sistema de água de Imaruí. Em sessão de setembro de 2025, o plenário negou provimento ao recurso de reexame e manteve a decisão anterior na íntegra. As multas aplicadas seguem, portanto, de pé.",
+   "status": "🔴 multa aplicada",
+   "severity": "alta"
+  },
+  {
+   "i": 15,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 16,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  }
+ ]
+}

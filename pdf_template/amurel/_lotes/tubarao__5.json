@@ -1,0 +1,635 @@
+{
+ "cidade": "Tubarão",
+ "casos": [
+  {
+   "i": 350,
+   "tipo": "mp",
+   "ref": "06.2024.00002170-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00002170-8",
+   "status": "🟡 em apuração",
+   "data": "23/05/2024",
+   "texto": "Serviço de Acolhimento Familiar Família Acolhedora."
+  },
+  {
+   "i": 351,
+   "tipo": "mp",
+   "ref": "06.2023.00004724-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00004724-9",
+   "status": "🟢 arquivado",
+   "data": "21/08/2024",
+   "texto": "SH Participações Imobiliárias S/A. Conclusão: Inquérito Civil instaurado para apurar suposta contaminação do solo decorrente da utilização de resíduos de carvão como aterro na implantação do loteamento \"Parque Empresarial Revoredo\", de responsabilidade da empresa SH Participações Imobiliárias. Adoção de providências pelo órgão ambiental, com a determinação de retirada do material depositado irregularmente, que se mostrou efetiva para a cessação e restauração do dano ambiental constatado. Arquivamento."
+  },
+  {
+   "i": 352,
+   "tipo": "mp",
+   "ref": "06.2022.00004142-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00004142-9",
+   "status": "❔ status indef.",
+   "data": "09/09/2024",
+   "texto": "Vigilância Sanitária Regional de Santa Catarina e Vigilância Sanitária de Pedras Grandes. Conclusão: irregularidades na estrutura e atuação da Vigilância Sanitária Municipal de Pedras Grandes. Órgão sanou parte das irregularidades e justificou as demais. Pendências sem necessidade de intervenção ministerial."
+  },
+  {
+   "i": 353,
+   "tipo": "mp",
+   "ref": "06.2024.00002428-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00002428-2",
+   "status": "🟡 em apuração",
+   "data": "27/09/2024",
+   "texto": "Alcebíades Cleber Nunes Damascena e Conselho Tutelar de Tubarão."
+  },
+  {
+   "i": 354,
+   "tipo": "mp",
+   "ref": "06.2024.00004022-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00004022-7",
+   "status": "🟡 em apuração",
+   "data": "01/10/2024",
+   "texto": "Leonardo Matias Carminati e São João Terraplanagem, Extração e Locação de Máquinas Ltda."
+  },
+  {
+   "i": 355,
+   "tipo": "mp",
+   "ref": "06.2023.00000075-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00000075-3",
+   "status": "🟢 arquivado",
+   "data": "04/10/2024",
+   "texto": "Maria Salete Bonetti Quaresmin e irmãos. Conclusão: Inquérito Civil instaurado para apurar a persistência da irregularidade urbanística do imóvel pertencente a Maria Salete Bonetti Quaresmin e irmãos, situado na Rua Ancleto Carlos Alves, em frente à residência de número 106. Adoção de providências pelo órgão municipal, com a lavratura de auto de infração, que se mostrou efetiva para compelir os proprietários do imóvel a realizarem a limpeza do local, sanando as irregularidades. Promoção de arquivamento."
+  },
+  {
+   "i": 356,
+   "tipo": "mp",
+   "ref": "06.2024.00004272-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00004272-5",
+   "status": "🟡 em apuração",
+   "data": "25/10/2024",
+   "texto": "a apurar"
+  },
+  {
+   "i": 357,
+   "tipo": "mp",
+   "ref": "06.2024.00002428-2",
+   "header": "· EXTRATO DE CONCLUSÃO DE INQUÉRITO CIVIL N. 06.2024.00002428-2",
+   "status": "🟢 arquivado",
+   "data": "17/12/2024",
+   "texto": "Alcebíades Cleber Nunes Damascena, Ângelo Sebastião Gonçalves e Conselho Tutelar de Tubarão. Conclusão: Inquérito Civil instaurado para apurar eventual irregularidade na negativa, por parte do Conselho Tutelar de Tubarão, de avesso ás informações e registros constantes no órgão colegiado. Irregularidade sanada. Arquivamento."
+  },
+  {
+   "i": 358,
+   "tipo": "mp",
+   "ref": "06.2025.00000374-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00000374-7",
+   "status": "🟡 em apuração",
+   "data": "11/02/2025",
+   "texto": "Jacinto de Souza."
+  },
+  {
+   "i": 359,
+   "tipo": "mp",
+   "ref": "06.2025.00000781-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00000781-0",
+   "status": "🟡 em apuração",
+   "data": "18/03/2025",
+   "texto": "a apurar."
+  },
+  {
+   "i": 360,
+   "tipo": "mp",
+   "ref": "06.2025.00000781-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00000781-0",
+   "status": "🟢 arquivado",
+   "data": "26/06/2025",
+   "texto": "a apurar. Conclusão: Inquérito Civil instaurado para apurar eventual irregularidade relacionada ao depósito de lixo localizado na Rua Alexandre Serafim Neto, Bairro São Clemente, em Tubarão/SC. Adoção de providências pelo órgão municipal, que se mostrou efetiva para compelir a proprietária do imóvel a realizar a limpeza do local, sanando as irregularidades. Promoção de arquivamento."
+  },
+  {
+   "i": 361,
+   "tipo": "mp",
+   "ref": "06.2025.00001771-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00001771-9",
+   "status": "🟡 em apuração",
+   "data": "26/06/2025",
+   "texto": "anônimo e Presídio Regional de Tubarão."
+  },
+  {
+   "i": 362,
+   "tipo": "mp",
+   "ref": "06.2025.00002492-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00002492-0",
+   "status": "🟡 em apuração",
+   "data": "27/06/2025",
+   "texto": "MPSC e Moreira Casa de Repouso Eireli."
+  },
+  {
+   "i": 363,
+   "tipo": "mp",
+   "ref": "06.2023.00004077-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL 06.2023.00004077-8",
+   "status": "❔ status indef.",
+   "data": "25/07/2025",
+   "texto": "Romário Zapelini Ghisi. Conclusão: Inquérito Civil instaurado para apurar a regularidade do Cadastro Ambiental Rural do imóvel registrado na matrícula"
+  },
+  {
+   "i": 364,
+   "tipo": "mp",
+   "ref": "06.2023.00003395-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00003395-5",
+   "status": "🟢 arquivado",
+   "data": "07/10/2025",
+   "texto": "Ademar Bressan e Nerci Benedet Bressan. Conclusão: Inquérito Civil instaurado para apurar a regularidade do Cadastro Ambiental Rural relativo ao imóvel registrado na matrícula n. 21.507, de propriedade de Ademar Bressan e Nerci Benedet Bressan. Realização de inscrição do CAR pelos investigados por meio de georreferenciamento, com base nas coordenadas da matrícula. Análise dos dados e adoção de providências administrativas que são de competência dos órgãos administrativos, notadamente o IMA. Inexistência de fundamento para propositura de ação civil pública. Arquivamento."
+  },
+  {
+   "i": 365,
+   "tipo": "mp",
+   "ref": "06.2026.00000258-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2026.00000258-5",
+   "status": "🟡 em apuração",
+   "data": "03/02/2026",
+   "texto": "Gervásio Nogarede Redivo, Cooperativa Regional Sul de Eletrificação Ltda. - COORSEL e CELESC - Distribuição S.A."
+  },
+  {
+   "i": 366,
+   "tipo": "mp",
+   "ref": "06.2023.00004487-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00004487-4",
+   "status": "🟢 arquivado",
+   "data": "24/02/2026",
+   "texto": "Marli Maria de Bona Gregório e Pedro Fanderlind Gregório. Conclusão:Inquérito Civil instaurado para apurar a regularidade do Cadastro Ambiental Rural relativo ao imóvel registrado na M atrícula n. 74.373, de propriedade de Pedro Fanderlind Gregório e Marli Maria de Bona Gregório. Realização de inscrição do CAR pelos investigados. Análise dos dados e adoção de providências administrativas que são de competência dos órgãos administrativos, notadamente a SEMAE. Inexistência de fundamento para propositura de ação civil pública. Arquivamento."
+  },
+  {
+   "i": 367,
+   "tipo": "mp",
+   "ref": "01.2026.00013118-8",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2026.00013118-8",
+   "status": "🟢 arquivado",
+   "data": "25/03/2026",
+   "texto": "anônimo. Conclusão: notícia de fato instaurada para apurar eventual irregularidade na prisão civil de Claudir Czarnobai. Falta de atribuição na seara nesta extrajudicial para apuração dos fatos. Procedimento que conta com ação judicial própria. Eventual defesa de direito que deve ser postulada pela própria parte interessada nos judiciais adequados. Ausência de elementos informativos sobre a falta de comunicação do preso com sua família e/ou advogado. Indeferimento liminar. Art. 7º, inc. III, do Ato n. 0395/2018/PGJ."
+  },
+  {
+   "i": 368,
+   "tipo": "mp",
+   "ref": "06.2026.00001143-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2026.00001143-0",
+   "status": "🟡 em apuração",
+   "data": "25/03/2026",
+   "texto": "Altamir Nazário da Silva."
+  },
+  {
+   "i": 369,
+   "tipo": "mp",
+   "ref": "06.2026.00000993-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL n. 06.2026.00000993-4",
+   "status": "🟡 em apuração",
+   "data": "25/03/2026",
+   "texto": "Juízo da Vara da Família, Órfãos, Infância e Juventude da Comarca de Tubarão e Conselho Tutelar de São Ludgero/SC."
+  },
+  {
+   "i": 370,
+   "tipo": "mp",
+   "ref": "01.2025.00064896-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00064896-0",
+   "status": "🟢 arquivado",
+   "data": "31/03/2026",
+   "texto": "Presídio Regional de Tubarão. Conclusão: notícia de fato instaurada para apurar supostas irregularidades perpetradas pelo Presídio Regional de Tubarão contra o preso José Márcio dos Santos. Informações prestadas pela unidade prisional suficientes para resolução do feito. Ausência de elementos informativos aptos a justificar a justa causa para prosseguimento da investigação. Indeferimento. Art. 7º, inc. I e III, do Ato n. 0395/2018/PGJ."
+  },
+  {
+   "i": 371,
+   "tipo": "mp",
+   "ref": "01.2025.00067419-1",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00067419-1",
+   "status": "🟢 arquivado",
+   "data": "31/03/2026",
+   "texto": "Presídio Regional de Tubarão. Conclusão: notícia de fato instaurada para apurar eventuais irregularidades no âmbito do Presídio Masculino de Tubarão relacionadas a impedimentos reiterados de visitação a apenados bem como deficiência no atendimento prestado aos familiares e visitantes. Regras previamente definidas pela unidade prisional. Ausência de elementos informativos aptos a justificarem a justa causa para prosseguimento da investigação. Indeferimento. Art. 7º, inc. I e III, do Ato n. 0395/2018/PGJ."
+  },
+  {
+   "i": 372,
+   "tipo": "mp",
+   "ref": "06.2026.00001552-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2026.00001552-5",
+   "status": "🟡 em apuração",
+   "data": "22/04/2026",
+   "texto": "MPSC e Residência Inclusiva Centrovita Ltda."
+  },
+  {
+   "i": 373,
+   "tipo": "mp",
+   "ref": "09.2025.00009328-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00009328-4",
+   "status": "❔ status indef.",
+   "data": "27/04/2026",
+   "texto": "MPSC e ILPI Lírio dos Vales. Conclusão: instituição procedeu às adequações exigidas pela Vigilância Sanitária e obteve o alvará sanitário. Ademais, não apresentou outras irregularidades, sendo desnecessária a continuidade do presente procedimento administrativo."
+  },
+  {
+   "i": 374,
+   "tipo": "mp",
+   "ref": "01.2026.00013086-7",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2026.00013086-7",
+   "status": "🟢 arquivado",
+   "data": "04/05/2026",
+   "texto": "Penitenciária de Tubarão. Conclusão: notícia de fato instaurada para apurar possível irregularidade no tratamento do segregado Lucas Dias Prestes, além de possível entrega de comida estragada aos presos, falta de ventilação nas celas e possível abuso no uso de spray de pimenta. Alimentação e gramatura que seguem o padrão nutricional estabelecido contratualmente. Ausência de elementos informativos aptos a justificarem a justa causa para prosseguimento da investigação. Indeferimento. Art. 7º, inc. I e III, do Ato n. 0395/2018/PGJ."
+  },
+  {
+   "i": 375,
+   "tipo": "mp",
+   "ref": "01.2026.00013109-9",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2026.00013109-9",
+   "status": "🟢 arquivado",
+   "data": "26/05/2026",
+   "texto": "Presídio Masculino de Tubarão. Conclusão: notícia de fato instaurada para apurar supostas irregularidades do Presídio Regional de Tubarão no tratamento de presos. Procedimento padrão adotado pelo estabelecimento prisional. Problemática acerca da superlotação tratada em procedimento judicial mais amplo e com maiores possibilidades de medidas eficientes. Ausência de elementos informativos aptos a justificarem a justa causa para prosseguimento da investigação quanto aos demais pontos. Indeferimento. Art. 7º, inc. I e III, do Ato n. 0395/2018/PGJ."
+  },
+  {
+   "i": 376,
+   "tipo": "mp",
+   "ref": "06.2021.00004258-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00004258-0",
+   "status": "❔ status indef.",
+   "data": "25/04/2023",
+   "texto": "FAEPESUL. Conclusão: apurar a impossibilidade de consecução das finalidades previstas no estatuto pela Fundação de Apoio à Educação, Pesquisa e Extensão da Unisul e a necessidade de promover a sua extinção."
+  },
+  {
+   "i": 377,
+   "tipo": "mp",
+   "ref": "06.2023.00002151-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00002151-5",
+   "status": "🟡 em apuração",
+   "data": "10/10/2023",
+   "texto": "Estado de Santa Catarina, Secretaria de Estado da Educação e Coordenadoria Regional de Educação de Tubarão."
+  },
+  {
+   "i": 378,
+   "tipo": "mp",
+   "ref": "06.2023.00002829-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00002829-6",
+   "status": "🟡 em apuração",
+   "data": "19/10/2023",
+   "texto": "Escola de Educação Básica Professora Célia Coelho Cruz."
+  },
+  {
+   "i": 379,
+   "tipo": "mp",
+   "ref": "06.2023.00002151-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00002151-5",
+   "status": "🔴 ACP ajuizada",
+   "data": "09/01/2024",
+   "texto": "Estado de Santa Catarina, Secretaria de Estado de Educação e Coordenadoria Regional de Educação de Tubarão. Conclusão: Inquérito Civil instaurado para apurar eventual omissão do Estado de Santa Catarina ao não providenciar a contratação de profissionais de apoio escolar para atuarem nas escolas da rede estadual de ensino da Comarca de Tubarão. Ajuizamento de ação civil pública. Arquivamento."
+  },
+  {
+   "i": 380,
+   "tipo": "mp",
+   "ref": "06.2024.00002313-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00002313-9",
+   "status": "🟢 arquivado",
+   "data": "14/11/2024",
+   "texto": "pessoa que não deseja se identificar, Universidade do Sul de Santa Catarina (Unisul) e Ânima Educação. Conclusão: inexistência de fundamentos necessários à propositura da ação civil pública, eis que, no curso investigatório, a representada apresentou resposta plausível aos pontos levantados em representação e a conclusão do Ministério da Educação é pelo arquivamento de Processo de Supervisão em que o presente caso (curso de Ciências da Computação) é um dos objetos."
+  },
+  {
+   "i": 381,
+   "tipo": "mp",
+   "ref": "06.2024.00005253-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00005253-4",
+   "status": "🟡 em apuração",
+   "data": "19/02/2025",
+   "texto": "Ketelli Pires da Silva, E.E.B. Hercílio Luz, Secretaria de Estado da Educação e Estado de Santa Catarina."
+  },
+  {
+   "i": 382,
+   "tipo": "mp",
+   "ref": "09.2025.00008176-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00008176-6",
+   "status": "🟡 em apuração",
+   "data": "17/11/2025",
+   "texto": "3ª Promotoria de Justiça da Comarca de Tubarão/SC e Centro de Educação Profissional (CEDUP)."
+  },
+  {
+   "i": 383,
+   "tipo": "mp",
+   "ref": "09.2025.00008182-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00008182-2",
+   "status": "🟡 em apuração",
+   "data": "17/11/2025",
+   "texto": "Escola de Educação Básica Bertoldo Zimmermann e a apurar."
+  },
+  {
+   "i": 384,
+   "tipo": "mp",
+   "ref": "06.2022.00000008-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00000008-2",
+   "status": "🟡 em apuração",
+   "data": "17/01/2022",
+   "texto": "Reinaldo José Hoepers Marcelino."
+  },
+  {
+   "i": 385,
+   "tipo": "mp",
+   "ref": "06.2020.00005438-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00005438-2",
+   "status": "🟠 ACNP firmado",
+   "data": "04/02/2022",
+   "texto": "Interessada Maria Cristina Clemente. Conclusão: tendo em vista a celebração do Acordo de Não Persecução Cível de fls. 176/182,entende este Promotor de Justiça que o procedimento, ora submetido à elevada apreciação do Conselho Superior do Ministério Público, atingiu o propósito de salvaguardar os interesses que justificaram a atuação ministerial na espécie, sendo despiciendo, ao menos por ora, o ajuizamento de qualquer demanda civil Maria Cristina Clemente."
+  },
+  {
+   "i": 386,
+   "tipo": "mp",
+   "ref": "06.2022.00000259-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00000259-1",
+   "status": "🟠 ACNP firmado",
+   "data": "07/02/2022",
+   "texto": "Arena Beach Sports. Conclusão: Procedimento Preparatório. Emissão de ruídos acima dos limites normativos. Fatos investigados também na esfera penal, motivando o oferecimento de Acordo de Não Persecução Penal contra a investigada pela prática do crime previsto no art. 54, caput, da Lei n. 9.605/98 (autos n. 5006675-82.2021.8.24.0075, em trâmite na 1ª Vara Criminal da Comarca de Tubarão). Acordo de Não Persecução Penal proposto, aceito e homologado no juízo penal, condicionada à reparação e à compensação integral do dano. Exaurimento do objeto do expediente investigatório. Promoção de arquivamento. Proposta aceita e homologada em juízo. Arquivamento."
+  },
+  {
+   "i": 387,
+   "tipo": "mp",
+   "ref": "06.2019.00003665-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00003665-1",
+   "status": "🟠 TAC firmado",
+   "data": "10/02/2022",
+   "texto": "Blaudinei Nunes Gonçalves. Conclusão: Inquérito Civil. Depósito irregular de resíduos diretamente no solo, em imóvel de propriedade do investigado. Celebração de Termo de Ajustamento de Condutas prevendo a apresentação de Plano de Recuperação de Área Degradada para a recuperação da área. Arquivamento."
+  },
+  {
+   "i": 388,
+   "tipo": "mp",
+   "ref": "06.2022.00000348-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00000348-0",
+   "status": "🟡 em apuração",
+   "data": "10/02/2022",
+   "texto": "Renofer Comércio e Representações Ltda."
+  },
+  {
+   "i": 389,
+   "tipo": "mp",
+   "ref": "01.2022.00000970-7",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00000970-7",
+   "status": "❔ status indef.",
+   "data": "25/02/2022",
+   "texto": "Sonia Porto Luiz."
+  },
+  {
+   "i": 390,
+   "tipo": "mp",
+   "ref": "06.2022.00000768-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00000768-6",
+   "status": "🟡 em apuração",
+   "data": "07/03/2022",
+   "texto": ""
+  },
+  {
+   "i": 391,
+   "tipo": "mp",
+   "ref": "06.2017.00006896-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2017.00006896-8",
+   "status": "❔ status indef.",
+   "data": "16/03/2022",
+   "texto": "Fundação UNISUL. Conclusão: apurar a situação financeira da Fundação UNISUL e sua capacidade de adimplemento de obrigações, inclusive as trabalhistas e as decorrentes de decisões judiciais. Constatação da incapacidade da Fundação para adimplir suas obrigações e continuar mantendo a Universidade do Sul de Santa Catarina, que corria o risco de encerramento das atividades. Realização de negócio jurídico para transferência onerosa de mantença da Universidade com a Ânima Holding S.A. Acompanhamento das"
+  },
+  {
+   "i": 392,
+   "tipo": "mp",
+   "ref": "06.2021.00000982-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00000982-5",
+   "status": "🟠 TAC firmado",
+   "data": "18/03/2022",
+   "texto": "Glenio Rosso Gonçalves e Denise Rosso Gonçalves. Conclusão: Inquérito Civil. Transformação de imóvel rural para urbano sem especialização prévia de reserva legal. Celebração de Termo de Ajustamento de Condutas prevendo a averbação da reserva legal correspondente na matrícula imobiliária da área. Arquivamento."
+  },
+  {
+   "i": 393,
+   "tipo": "mp",
+   "ref": "06.2021.00004730-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2021.00004730-8",
+   "status": "🟢 arquivado",
+   "data": "24/03/2022",
+   "texto": "Fly Tech Ltda. - GNV. Conclusão: procedimento preparatório. Empresa de montagem e reparação de sistema de gás natural veicular. Demonstrada a regularidade da atividade desenvolvida, a qual conta com licença e alvará de funcionamento. Empresa cuja localização atende ao zoneamento municipal. Inexistência de danos ambientais ou urbanísticos. Ausência de justa causa. Arquivamento."
+  },
+  {
+   "i": 394,
+   "tipo": "mp",
+   "ref": "01.2022.00005834-2",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00005834-2",
+   "status": "❔ status indef.",
+   "data": "30/03/2022",
+   "texto": "Dilton Machado Ávila. Conclusão: trata-se de Notícia de Fato instaurada com a finalidade de apurar suposto descarte irregular de resíduos em imóvel"
+  },
+  {
+   "i": 395,
+   "tipo": "mp",
+   "ref": "06.2021.00001072-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00001072-1",
+   "status": "🟢 arquivado",
+   "data": "05/04/2022",
+   "texto": "Maycon Rodrigues dos Santos Lima. Conclusão: Inquérito Civil. Cão diagnosticado com leishmaniose visceral. Indícios de que o responsável pelo animal, não mais localizado nesta Comarca, teria retomado residência em outra unidade da federação, inviabilizando a adoção de medidas pelo Ministério Público de Santa Catarina. Arquivamento, sem prejuízo da cientificação da autoridade sanitária correspondente, para ciência e a adoção das providências pertinentes."
+  },
+  {
+   "i": 396,
+   "tipo": "mp",
+   "ref": "06.2020.00005145-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00005145-2",
+   "status": "🟢 arquivado",
+   "data": "22/04/2022",
+   "texto": "Pedrinho Bissoni Correa de Souza. Conclusão: Inquérito Civil. Imóveis em desacordo com as exigências urbanísticas, ante a ausência e cercamento, passeio público e meio-fio. Notificação do proprietário, que comprovou a superveniente realização das obras necessárias para adequar os imóveis às legislação urbanística municipal. Ausência de danos urbanísticos remanescentes a serem recuperados. Arquivamento."
+  },
+  {
+   "i": 397,
+   "tipo": "mp",
+   "ref": "06.2022.00001932-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00001932-7",
+   "status": "🟡 em apuração",
+   "data": "25/04/2022",
+   "texto": "Centro de Apoio ao Dependente Químico de Pedras Grandes."
+  },
+  {
+   "i": 398,
+   "tipo": "mp",
+   "ref": "06.2018.00003848-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2018.00003848-9",
+   "status": "🟢 arquivado",
+   "data": "04/05/2022",
+   "texto": "Adércio José Velter. Conclusão: arquivamento integral de Inquérito Civil."
+  },
+  {
+   "i": 399,
+   "tipo": "mp",
+   "ref": "09.2022.00002744-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00002744-9",
+   "status": "🟡 em apuração",
+   "data": "13/05/2022",
+   "texto": "Reginaldo Rafael Mendes e Polícia Civil."
+  },
+  {
+   "i": 400,
+   "tipo": "mp",
+   "ref": "06.2020.00000064-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00000064-1",
+   "status": "🔴 ACP ajuizada",
+   "data": "02/06/2022",
+   "texto": "Cleber Antunes Negro, Morgana Mendes Pinter Negro, Clesia Negro, Clesio Negro, Maria Rosimere Mota Negro, Clesionete Negro Silveira, Josias Silveira, Jose Negro, Milanea de Pieri Negro, Marcos Negro Gonçalves, Manuela Alida Horstmann da Silva Gonçalves, Miriã Negro Gonçalves, Misael Negro Gonçalves. Conclusão: Inquérito Civil instaurado com a finalidade de apurar o parcelamento clandestino da área registrada sob o n. 49.634 do 2° Ofício de Registro de Imóveis. Ajuizamento da Ação Civil Pública n. 5006330-82.2022.8.24.0075."
+  },
+  {
+   "i": 401,
+   "tipo": "mp",
+   "ref": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 6.2022.00002452-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 6.2022.00002452-0",
+   "status": "🟡 em apuração",
+   "data": "03/06/2022",
+   "texto": "Empresas filiais da Banny's Cabeleireiros Ltda., na cidade de Tubarão."
+  },
+  {
+   "i": 402,
+   "tipo": "mp",
+   "ref": "06.2021.00005025-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL n. 06.2021.00005025-7",
+   "status": "🟡 em apuração",
+   "data": "30/06/2022",
+   "texto": "Janete Gomes Albino e outros."
+  },
+  {
+   "i": 403,
+   "tipo": "mp",
+   "ref": "09.2022.00003765-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00003765-8",
+   "status": "🟡 em apuração",
+   "data": "05/07/2022",
+   "texto": "Ricardo Gaspar Maurício."
+  },
+  {
+   "i": 404,
+   "tipo": "mp",
+   "ref": "06.2022.00000008-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00000008-2",
+   "status": "🟡 em apuração",
+   "data": "06/07/2022",
+   "texto": "Reinaldo José Hoepers Marcelino."
+  },
+  {
+   "i": 405,
+   "tipo": "mp",
+   "ref": "09.2022.00003447-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00003447-2",
+   "status": "🟡 em apuração",
+   "data": "07/07/2022",
+   "texto": "Camilo e Ghisi Ltda."
+  },
+  {
+   "i": 406,
+   "tipo": "mp",
+   "ref": "09.2022.00004143-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00004143-0",
+   "status": "🟡 em apuração",
+   "data": "13/07/2022",
+   "texto": "Pedro Paulo Nunes."
+  },
+  {
+   "i": 407,
+   "tipo": "mp",
+   "ref": "06.2021.00003909-6",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00003909-6",
+   "status": "🟢 arquivado",
+   "data": "22/08/2022",
+   "texto": "A. Silva Ferragens Ltda., Delupo Comércio de Ferramentas e Máquinas Ltda. Conclusão: apurar a transformação do imóvel da matrícula n. 63.166, do 2º Ofício de Registro de Imóveis de Tubarão, de rural para urbano, sem prévia especialização de reserva legal. Comprovação de que, no ano de 2006, o imóvel era desprovido de mata nativa. Aplicação do artigo 67 do Código Florestal. Arquivamento."
+  },
+  {
+   "i": 408,
+   "tipo": "mp",
+   "ref": "06.2022.00003849-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00003849-0",
+   "status": "🟡 em apuração",
+   "data": "20/09/2022",
+   "texto": "IMA e moradores da Rua Sebastião Mendes de Farias."
+  },
+  {
+   "i": 409,
+   "tipo": "mp",
+   "ref": "09.2022.00008506-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00008506-1",
+   "status": "🟡 em apuração",
+   "data": "11/11/2022",
+   "texto": "Guilherme Roecker e Fundação Municipal do Desenvolvimento Social."
+  },
+  {
+   "i": 410,
+   "tipo": "mp",
+   "ref": "06.2022.00004642-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004642-4",
+   "status": "🟡 em apuração",
+   "data": "06/12/2022",
+   "texto": "Jairo Fernandes Gonçalves e Maria Helena Marin."
+  },
+  {
+   "i": 411,
+   "tipo": "mp",
+   "ref": "06.2022.00004932-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004932-1",
+   "status": "🟡 em apuração",
+   "data": "16/12/2022",
+   "texto": "1º Ofício do Registro de Imóveis da Comarca de Tubarão e R&L Empreendimentos Ltda."
+  },
+  {
+   "i": 412,
+   "tipo": "mp",
+   "ref": "06.2022.00003997-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00003997-8",
+   "status": "🔴 ACP em curso",
+   "data": "10/01/2023",
+   "texto": "Ministério Público e Marcon Administração de Empreendimentos Imobiliários Eireli. Conclusão: apurar possível burla à Lei n. 6.766/79 nos processos de parcelamento de solo urbano na modalidade de desmembramento relativo aos imóveis registrados nas matrículas n. 68.024, 70.076 e 70.082 do 2º Ofício de Registro de Imóveis de Tubarão. Celebração de termo de ajustamento de conduta entre a empresa investigada e o Ministério Público, com previsão de medidas de compensação das áreas públicas (verde e institucional) pelos parcelamentos de solo na modalidade de desmembramento relativo aos imóveis registrados nas referidas matrículas, que ensejou a ausência do interesse de ajuizar ação civil pública (art. 48, II, do Ato n. 395/2018/PGJ). Arquivamento e fiscalização do cumprimento do termo de ajustam…"
+  },
+  {
+   "i": 413,
+   "tipo": "mp",
+   "ref": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE OUTRAS ATIVIDADES NÃO SUJEITAS A",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE OUTRAS ATIVIDADES NÃO SUJEITAS A",
+   "status": "🟡 em apuração",
+   "data": "12/01/2023",
+   "texto": "Henrique Marcon de Souza e Manoel Marcon de Souza."
+  },
+  {
+   "i": 414,
+   "tipo": "mp",
+   "ref": "06.2021.00005025-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00005025-7",
+   "status": "❔ status indef.",
+   "data": "07/02/2023",
+   "texto": "Jaime Burato Bez Fontana, sócio administrador da empresa Transportes Rodoviários Fontana Ltda., Janete Gomes Albino. Conclusão: Inquérito Civil instaurado para apurar parcelamento do solo clandestino em parte ideal da matrícula n. 23.837 (2º"
+  },
+  {
+   "i": 415,
+   "tipo": "mp",
+   "ref": "06.2023.00000112-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00000112-0",
+   "status": "🟡 em apuração",
+   "data": "09/02/2023",
+   "texto": "1º Ofício do Registro de Imóveis da Comarca de Tubarão, Jardins Loteadora SPE LTDA."
+  },
+  {
+   "i": 416,
+   "tipo": "mp",
+   "ref": "06.2023.00000538-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00000538-1",
+   "status": "🟡 em apuração",
+   "data": "14/02/2023",
+   "texto": "2º Ofício do Registro de Imóveis da Comarca de Tubarão, Fregnani e Cardoso Empreendimentos Ltda., Diego Pacheco Fregnani."
+  },
+  {
+   "i": 417,
+   "tipo": "mp",
+   "ref": "01.2022.00043110-8",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N.01.2022.00043110-8",
+   "status": "🟢 arquivado",
+   "data": "14/02/2023",
+   "texto": "6ª Promotoria de Justiça da Comarca de Tubarão; Municípios de Jaguaruna e Sangão. Conclusão: Notícia de Fato instaurada após o recebimento de cópia integral do Procedimento Administrativo n. 09.2017.00010254-0, autuado e arquivado pela 6ª Promotoria de Justiça da Comarca de Tubarão. Elaboração e implementação do Plano Municipal de Conservação e Recuperação da Mata Atlântica (PMMA). Artigo 38 da Lei n. 11.428/2006. Implementação do referido plano não obrigatória. Faculdade aos Entes Federativos no uso de seu poder discricionário. Contraprestação por meio de fomento financeiro oriundo do Governo Federal. Decisão sobre a elaboração e implementação do referido plano que recai a cada municipalidade, sem possibilidade de intervenção do Ministério Público. Elementos que, de outro turno, demonstr…"
+  },
+  {
+   "i": 418,
+   "tipo": "mp",
+   "ref": "06.2019.00005926-6",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00005926-6",
+   "status": "🟠 TAC firmado",
+   "data": "27/02/2023",
+   "texto": "Ministério Público e Samuel Gomes. Conclusão: apurar parcelamento clandestino de solo no imóvel de matrícula n. 12.701, do 1º Ofício de Registro de Imóveis da Comarca de Tubarão, de propriedade de Samuel Gomes, localizado na Rua Tenente João Luiz Maus, Bairro São Clemente, neste município e Comarca de Tubarão. Celebração de termo de ajustamento de conduta entre o investigado e o Ministério Público, com a consequente implicação de ausência circunstancial do interesse de agir (art. 48, II, do Ato n. 395/2018/PGJ). Fiscalização do cumprimento do termo de ajustamento de conduta em Procedimento Administrativo próprio e instauração de Notícia de Fato para verificar a existência do parcelamento irregular existente no outro lado da via pública Valdelir Medeiros Nunes. Arquivamento."
+  },
+  {
+   "i": 419,
+   "tipo": "mp",
+   "ref": "06.2023.00000665-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00000665-8",
+   "status": "🟡 em apuração",
+   "data": "03/03/2023",
+   "texto": "Fábio José da Silva; Terminal Rodoviário José Guizoni e FSILVA Empreendimentos e Administrações Ltda."
+  }
+ ]
+}
