@@ -1,0 +1,608 @@
+[
+ {
+  "i": 118,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🔴 apontou irregularidade",
+  "severity": "alta",
+  "title": "Contrato de manutenção da EMASA teve subcontratação sem punição e obras fora do sistema do TCE",
+  "description": "A auditoria sobre o Contrato n. 023/2013, de manutenção dos sistemas da EMASA executado pela Itajui Engenharia de Obras, considerou irregulares dois atos: a ausência de sanções administrativas pela subcontratação de serviços, vedada pela cláusula 15ª do contrato, e a falta de cadastramento das obras da EMASA no sistema e-Sfinge Obras do Tribunal. O TCE recomendou providências ao gestor e pediu ao Controle Interno do município que acompanhe a inscrição em dívida ativa do débito referente ao reequilíbrio econômico-financeiro do contrato."
+ },
+ {
+  "i": 119,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ em tramitação",
+  "severity": "media",
+  "title": "Auditoria de atos de pessoal de 2013 e 2014 é remetida para fiscalização in loco",
+  "description": "A auditoria abrangia atos de pessoal praticados entre 1º de janeiro de 2013 e 11 de julho de 2014. Em vez de julgar, o relator determinou que a diretoria de atos de pessoal inclua a Prefeitura na programação de fiscalização para averiguar a situação no local, e apensou o processo à futura fiscalização."
+ },
+ {
+  "i": 120,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 121,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ em tramitação",
+  "severity": "media",
+  "title": "Licitação de serviços do Fundo Municipal de Saúde vira inspeção no TCE",
+  "description": "O procedimento apuratório preliminar sobre licitação de serviços do Fundo Municipal de Saúde foi convertido em relatório de inspeção. O relator autorizou desde logo a diligência sugerida pela diretoria técnica, com prazo de 15 dias."
+ },
+ {
+  "i": 122,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 123,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🔴 apontou irregularidade",
+  "severity": "alta",
+  "title": "Contrato bilionário de gestão do Hospital Ruth Cardoso entra na mira do TCE",
+  "description": "A inspeção examinou o Concurso de Projetos n. 001/2023 — SSSM/FMS, que entregaria a uma organização social o gerenciamento, a operacionalização e a execução dos serviços de saúde 24 horas por dia no Hospital Municipal Ruth Cardoso e no Centro de Diagnose e Imagem, com valor estimado de R$ 1.072.543.338,00. O Tribunal determinou diligência à Secretaria Municipal de Saúde e à comissão do concurso para explicarem como garantiram que as propostas fossem exequíveis, e determinou que a comissão só declare vencedora a organização cujo programa de trabalho siga as regras do edital, sem aceitar itens vedados pelas normas."
+ },
+ {
+  "i": 124,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ em tramitação",
+  "severity": "media",
+  "title": "TCE inspeciona o que a Prefeitura fez para reequilibrar a previdência dos servidores",
+  "description": "A inspeção foi aberta em cumprimento a determinação do parecer prévio das contas de 2023 e apura as medidas adotadas pelo gestor para o reequilíbrio atuarial do regime próprio de previdência dos servidores municipais."
+ },
+ {
+  "i": 125,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🔴 apontou irregularidade",
+  "severity": "baixa",
+  "title": "TCE nega registro de ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. Neste caso o registro foi denegado, por o ato ter sido considerado ilegal na análise técnica, com determinação ao instituto de previdência do município."
+ },
+ {
+  "i": 126,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 127,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟠 cautelar / sustação",
+  "severity": "media",
+  "title": "Chamamento público para serviço de alimentação é questionado no TCE",
+  "description": "O procedimento apuratório preliminar tratou de possíveis irregularidades no Edital de Chamamento Público n. 02/2023, para contratação de empresa prestadora de serviço de alimentação. O extrato publicado no Diário Oficial do Tribunal não traz o teor da decisão."
+ },
+ {
+  "i": 128,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 129,
+  "tipo": "tce",
+  "keep": true,
+  "status": "⚫ prescrito",
+  "severity": "media",
+  "title": "Prestação de contas do Clube de Mães do Bairro das Nações prescreve e é arquivada",
+  "description": "A tomada de contas especial tratava da prestação de contas de recursos municipais repassados ao Clube de Mães do Bairro das Nações. O Tribunal reconheceu de ofício a prescrição das pretensões punitiva e ressarcitória, extinguiu o processo sem julgamento de mérito e o arquivou."
+ },
+ {
+  "i": 130,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de aposentadoria de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de aposentadoria concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 131,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 132,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟡 em instrução (citação/audiência)",
+  "severity": "media",
+  "title": "TCE quer saber se áreas alugadas pela EMASA para reservar água estavam plantadas com arroz",
+  "description": "A representação noticia descumprimento de cláusulas contratuais que vedavam o plantio em áreas rurais locadas para reservação de água bruta destinada ao abastecimento de Camboriú e Balneário Camboriú. O Tribunal conheceu do caso e determinou diligência para que a EMASA envie, em 30 dias, todos os contratos de locação de área rural firmados entre 2019 e 2025 — com identificação dos imóveis, dos contratados, valores pactuados e pagos — e explique se sabia que as áreas estavam sendo usadas para o cultivo de arroz."
+ },
+ {
+  "i": 133,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ em tramitação",
+  "severity": "baixa",
+  "title": "TCE considera cumpridas as determinações sobre pregão de pavimentação asfáltica",
+  "description": "Na análise do Pregão n. 033/2020, de registro de preços de pavimentação asfáltica nas vias do perímetro urbano, o Tribunal considerou atendidas as determinações e recomendações da decisão anterior e apenas ajustou a redação de uma recomendação sobre contratações futuras do mesmo tipo."
+ },
+ {
+  "i": 134,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🔴 apontou irregularidade",
+  "severity": "baixa",
+  "title": "TCE nega registro de ato de aposentadoria de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de aposentadoria concedido a servidor da Prefeitura. Neste caso o registro foi denegado, por o ato ter sido considerado ilegal na análise técnica, com determinação ao instituto de previdência do município."
+ },
+ {
+  "i": 135,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Pregão da BC Investimentos é arquivado no TCE, com ordem de sanear o processo",
+  "description": "O procedimento apuratório preliminar sobre o Pregão Eletrônico n. 01/2022 da BC Investimentos S.A., para criação, desenvolvimento e locação de plataforma, foi arquivado por não preencher as condições prévias e de seletividade, e a cautelar foi indeferida. O Tribunal determinou que a diretoria da empresa, na pessoa da diretora-presidente, analise os autos do pregão e sanee o processo."
+ },
+ {
+  "i": 136,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ em tramitação",
+  "severity": "baixa",
+  "title": "Câmara consulta o TCE sobre teto do subsídio de vereador",
+  "description": "A consulta da Câmara Municipal tratou do teto do subsídio de vereador e da verba de representação do presidente da Mesa Diretora. O Tribunal conheceu da consulta e reformou o Prejulgado n. 2102 para registrar que a revisão geral de subsídios de agentes políticos é objeto de recurso extraordinário."
+ },
+ {
+  "i": 137,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Suspeita sobre convocação de aprovados em concurso é arquivada, mas TCE pede avaliação de auditoria",
+  "description": "O procedimento apuratório preliminar tratava de possível desrespeito às regras de convocação de candidatos aprovados em concurso público. O relator determinou o arquivamento, mas deu ciência às diretorias de controle externo e de atos de pessoal para que avaliem, por critérios de relevância, risco e materialidade, a abertura de inspeção ou a inclusão do tema na programação de auditorias."
+ },
+ {
+  "i": 138,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media",
+  "title": "Denúncia sobre processo seletivo não é conhecida",
+  "description": "A denúncia sobre supostas irregularidades em processo seletivo do município não foi conhecida por não preencher os pressupostos de admissibilidade. O Tribunal deu ciência às diretorias de controle externo e de atos de pessoal para avaliarem a pertinência de fiscalizar o tema."
+ },
+ {
+  "i": 139,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media",
+  "title": "Denúncia sobre contratações temporárias reiteradas não é conhecida",
+  "description": "A denúncia tratava de reiteradas contratações temporárias pelo município. Não foi conhecida por não preencher os pressupostos de admissibilidade, mas o Tribunal deu ciência às diretorias de controle externo e de atos de pessoal para avaliarem fiscalização sobre o tema."
+ },
+ {
+  "i": 140,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media",
+  "title": "Denúncia sobre contratação temporária não é conhecida",
+  "description": "A denúncia sobre supostas irregularidades em contratação temporária não foi conhecida por não preencher os pressupostos de admissibilidade, e os autos foram arquivados."
+ },
+ {
+  "i": 141,
+  "tipo": "tce",
+  "keep": true,
+  "status": "⬛ julgado irregular",
+  "severity": "alta",
+  "title": "Passarela Estaiada: TCE julga irregulares as contas da obra e condena responsáveis a devolver dinheiro",
+  "description": "A tomada de contas especial tratou das irregularidades encontradas em auditoria sobre a construção da Passarela Estaiada sobre o Rio Camboriú, executada pelo Contrato n. 005/2012 com a Helpcon Construções, Projetos e Serviços, de valor inicial de R$ 22.995.970,65, nos exercícios de 2012 a 2015. O Tribunal reconheceu a prescrição de parte dos apontamentos e, quanto ao restante, julgou as contas irregulares com imputação de débito, condenando os responsáveis a recolher os valores aos cofres do município. A condenação foi depois revista — e mantida — em recurso."
+ },
+ {
+  "i": 142,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de aposentadoria de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de aposentadoria concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 143,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de aposentadoria de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de aposentadoria concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 144,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de aposentadoria de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de aposentadoria concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 145,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de aposentadoria de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de aposentadoria concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 146,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟡 em instrução (citação/audiência)",
+  "severity": "baixa",
+  "title": "TCE dá prazo para o município sanar pendências em ato de aposentadoria",
+  "description": "Processo de rotina de registro de ato de aposentadoria de servidor municipal. Antes de decidir, o Tribunal fixou prazo para que o instituto de previdência adote as providências necessárias ao exato cumprimento da lei e comprove o saneamento das restrições apontadas."
+ },
+ {
+  "i": 147,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 148,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 149,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ em tramitação",
+  "severity": "media",
+  "title": "Auditoria no local acha problemas em horas extras e cargos, e dá 95 dias para a Prefeitura corrigir",
+  "description": "A auditoria in loco verificou a regularidade dos atos de pessoal entre 1º de janeiro de 2022 e 2 de abril de 2024: remuneração dos servidores, cargos efetivos e comissionados, cessão de servidores, contratações por tempo determinado, controle de frequência, parecer do controle interno e reavaliação de aposentadorias. O Tribunal determinou à Prefeitura, em até 95 dias, que informe as medidas sobre a gestão do Hospital Municipal Ruth Cardoso, encaminhe projeto de lei fixando o limite máximo de horas extras e adeque o pagamento de horas extras aos motoristas, inclusive com rastreamento dos veículos oficiais para aferir o tempo efetivamente dirigido."
+ },
+ {
+  "i": 150,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ em tramitação",
+  "severity": "media",
+  "title": "Auditoria operacional no Hospital Ruth Cardoso cobra plano de ação do Estado e do município",
+  "description": "A auditoria operacional avaliou a gestão do Hospital Municipal Ruth Cardoso quanto ao atendimento pelas portas de urgência e emergência, à internação e aos custos de manutenção da unidade. O Tribunal determinou à Secretaria de Estado da Saúde a apresentação de plano de ação em 30 dias, com medidas, prazos e responsáveis, para redefinir de forma articulada o papel do hospital na rede de urgência e emergência da região."
+ },
+ {
+  "i": 151,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de aposentadoria de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de aposentadoria concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 152,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 153,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 154,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 155,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 156,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 157,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 158,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 159,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 160,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 161,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 162,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 163,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 164,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 165,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 166,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 167,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 168,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 169,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 170,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 171,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 172,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 173,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 174,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 175,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 176,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 177,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 178,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 179,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 180,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 181,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 182,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 183,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 184,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 185,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 186,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 187,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ }
+]

@@ -1,0 +1,464 @@
+[
+ {
+  "i": 840,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 841,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 842,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 843,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 844,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 845,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 846,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "alta",
+  "title": "Posto de saúde do Bairro das Nações negaria atendimento oftalmológico em BC",
+  "description": "Notícia de fato apura falha na prestação do serviço público de saúde, consistente na dificuldade ou recusa de atendimento médico oftalmológico e na demora para a realização de exames na Unidade de Saúde do Bairro das Nações. Caso em apuração."
+ },
+ {
+  "i": 847,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 848,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 849,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 850,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 851,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 852,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 853,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 854,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 855,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 856,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 857,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 858,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 859,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 860,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 861,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 0,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "TCE julga improcedente representação sobre dispensa de licitação na saúde",
+  "description": "A representação da Branet Gestão de Logística em Saúde contra a contratação da Olos Tecnologia por Dispensa de Licitação n. 003/2020 do Fundo Municipal de Saúde foi julgada improcedente. O Tribunal alertou a Prefeitura e o Controle Interno de que, surgindo novos elementos que indiquem dano ao erário pela inexecução do Contrato n. 054/2019, o gestor tem o dever de instaurar tomada de contas especial."
+ },
+ {
+  "i": 1,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 2,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 3,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 4,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 5,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 6,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 7,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ em tramitação",
+  "severity": "media",
+  "title": "Pregão do transporte coletivo do BC Trânsito é questionado no TCE",
+  "description": "Representação da Transpiedade — Transportes Coletivos sobre o Pregão Eletrônico n. 001/2026 do BC Trânsito. O ponto central é a forma de remuneração prevista no termo de referência: a empresa pede que o contrato pague uma parcela fixa mensal por veículo disponibilizado, para cobrir custos fixos, somada a uma parcela variável por quilômetro rodado, de acordo com a própria estrutura de custos reconhecida pela administração. O processo está em tramitação."
+ },
+ {
+  "i": 8,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "TCE julga improcedente representação sobre dispensa de R$ 834 mil na logística das secretarias",
+  "description": "A Sincroslog questionou a contratação da Branet Gestão de Logística em Saúde, por dispensa de licitação no valor de R$ 834.000,00, para serviços de logística de distribuição e gestão dos almoxarifados das secretarias municipais. O Tribunal julgou a representação improcedente."
+ },
+ {
+  "i": 9,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media",
+  "title": "Representação sobre pregão de redes de proteção não passa no filtro de seletividade",
+  "description": "O Tribunal não conheceu da representação contra o edital do Pregão Eletrônico n. 013/2024, de registro de preços de redes de proteção no valor de R$ 636.000,00, por não atingir o percentual mínimo da matriz de seletividade. O pedido de suspensão cautelar da ata de registro de preços ficou prejudicado e o TCE apenas recomendou à Prefeitura que fiscalize e responsabilize a empresa contratada."
+ },
+ {
+  "i": 10,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🔴 multa aplicada",
+  "severity": "alta",
+  "title": "Ex-prefeito é multado por promover 12 servidoras de nível fundamental para nível médio sem concurso",
+  "description": "A representação foi julgada parcialmente procedente quanto à mudança de remuneração de 12 servidoras efetivas de Atendente de Consultório Dentário, de nível fundamental, para a remuneração do cargo de Técnico em Saúde Bucal, de nível médio e técnico-profissional. Na prática, houve reposicionamento salarial sem concurso público, por força do art. 7º da Lei municipal n. 3.913/2016, em descumprimento à Constituição Federal. O prefeito de 2009 a 2016, Edson Renato Dias, foi multado em R$ 1.136,52."
+ },
+ {
+  "i": 11,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 12,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟠 cautelar / sustação",
+  "severity": "alta",
+  "title": "TCE suspende o pregão de R$ 3,6 milhões do Natal de Brincadeiras BC",
+  "description": "O Tribunal determinou, cautelarmente, a suspensão imediata do Pregão Eletrônico n. 015/2023 do FUMTUR, que contrataria a locação, o transporte, a instalação, a manutenção diária, a segurança e a desmontagem da decoração e da iluminação do evento Natal de Brincadeiras BC, entre 2 de dezembro de 2023 e 7 de janeiro de 2024, ao valor máximo estimado de R$ 3.605.722,65. A medida foi tomada a partir da análise prévia do edital pela diretoria técnica, por presença de fumus boni juris e periculum in mora."
+ },
+ {
+  "i": 13,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 14,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ em tramitação",
+  "severity": "media",
+  "title": "Pagamentos da obra da lagoa de aeração da EMASA vão a auditoria no TCE",
+  "description": "A representação do vereador André Furlan Meirinho aponta possíveis irregularidades nos pagamentos da obra da lagoa de aeração, objeto do Contrato n. 77/2021 da EMASA. O relator conheceu a representação, determinou à diretoria técnica a adoção de providências — inclusive auditoria e inspeção — e mandou a EMASA apresentar em cinco dias os esclarecimentos e documentos necessários à instrução."
+ },
+ {
+  "i": 15,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "TCE nega liminar e julga improcedente representação sobre videomonitoramento",
+  "description": "A Splice Indústria, Comércio e Serviços apontou supostas irregularidades no edital do Pregão Eletrônico n. 036/2025, para aquisição de sistema de videomonitoramento inteligente para vias públicas. O Tribunal conheceu da representação, julgou-a improcedente por não se configurarem as irregularidades alegadas e indeferiu o pedido de sustação do edital."
+ },
+ {
+  "i": 16,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 parecer pela aprovação",
+  "severity": "media",
+  "title": "Contas do prefeito de 2024 recebem parecer prévio pela aprovação",
+  "description": "A prestação de contas do prefeito referente ao exercício de 2024 foi apreciada pelo Tribunal de Contas, que emitiu parecer prévio recomendando a aprovação à Câmara Municipal, a quem cabe o julgamento."
+ },
+ {
+  "i": 17,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🔴 apontou irregularidade",
+  "severity": "alta",
+  "title": "Procon de BC pagou água e luz do prédio inteiro quando devia pagar só a própria sala",
+  "description": "A tomada de contas especial n. 006/2025, instaurada pela Controladoria-Geral do município, concluiu que houve dano ao erário no Contrato de Locação n. 008/2014 do Procon: as faturas da Celesc e da EMASA foram pagas sobre a área total do edifício, quando deveriam incidir apenas sobre a área locada e a área comum. Os pagamentos indevidos saíram do Fundo Municipal de Defesa dos Direitos do Consumidor. Como o valor apurado ficou abaixo do limite de alçada, o TCE encerrou o processo e determinou que a Prefeitura siga com as medidas administrativas ou judiciais para recuperar o dinheiro."
+ },
+ {
+  "i": 18,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "TCE arquiva tomada de contas sobre empenho de R$ 92 mil de 2009",
+  "description": "A tomada de contas especial tratava da Nota de Empenho n. 259/2009, de 30 de abril de 2009, no valor de R$ 92.000,00. O relator determinou o arquivamento do processo com base na Instrução Normativa n. TC-29/2021 e mandou notificar a Prefeitura para que adote, por conta própria, as medidas administrativas e judiciais que forem necessárias."
+ },
+ {
+  "i": 19,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 20,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de pensão por morte de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de pensão por morte concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 21,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ em tramitação",
+  "severity": "media",
+  "title": "Obra da ligação Rua Uganda–Avenida das Gaivotas segue com projeto básico deficiente, e TCE abre inspeção",
+  "description": "O acompanhamento verificou se a Prefeitura corrigiu o apontamento de projeto básico deficiente na obra de ligação entre a Rua Uganda e a Avenida das Gaivotas, no limite dos bairros Ariribá e Nações. Como questões reiteradas ao longo do procedimento continuaram sem solução, o Tribunal determinou a abertura de um relatório de inspeção para apurá-las e arquivou o acompanhamento."
+ },
+ {
+  "i": 22,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media",
+  "title": "Representação sobre banheiros químicos do Réveillon não é conhecida",
+  "description": "A empresa Camila Venturin Zappelline Paiva questionou a Dispensa de Licitação n. 012/2025, para locação, instalação, manutenção e retirada de banheiros químicos do Réveillon 2025/2026. O Tribunal não conheceu da representação por não atender aos critérios de seletividade e recomendou à Prefeitura que adote mecanismos de planejamento para evitar contratações desse tipo por dispensa."
+ },
+ {
+  "i": 23,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 24,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 25,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 26,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🔴 apontou irregularidade",
+  "severity": "alta",
+  "title": "EMASA: TCE suspende tomada de preços e julga representação parcialmente procedente",
+  "description": "A representação da B.F. Alegria Consultoria tratou de irregularidades na Tomada de Preços n. 01/2022, do tipo técnica e preço, e no Pregão Presencial n. 01/2022, ambos da EMASA, para fornecimento de sistema de informação. O Tribunal julgou a representação parcialmente procedente. O pregão presencial foi considerado regular e sua suspensão cautelar, concedida antes pelo relator, foi revogada."
+ },
+ {
+  "i": 27,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 parecer pela aprovação",
+  "severity": "media",
+  "title": "Contas do prefeito de 2023 recebem parecer prévio pela aprovação",
+  "description": "A prestação de contas do prefeito referente ao exercício de 2023 foi apreciada pelo Tribunal de Contas, que emitiu parecer prévio recomendando a aprovação à Câmara Municipal. O parecer trouxe determinação para que fosse apurado o reequilíbrio atuarial do regime próprio de previdência dos servidores."
+ },
+ {
+  "i": 28,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟡 em instrução (citação/audiência)",
+  "severity": "alta",
+  "title": "Obras da EMASA viram tomada de contas especial com R$ 134 mil em medições pagas sem serviço feito",
+  "description": "A auditoria sobre as obras de implantação de rede contratadas pela EMASA foi convertida em tomada de contas especial e os responsáveis foram citados para se defender de irregularidades que podem gerar débito e multa. Entre os apontamentos: liquidação irregular de R$ 134.425,69 nas medições 20 a 26 de rebaixamento de lençol freático e escoramento de valas; extrapolação do limite legal de aditivos por projeto básico deficiente (termos aditivos 5, 6 e 7); e um aditivo de reequilíbrio de R$ 142.097,90 baseado em custos de mercado, sem justificativa dos novos custos unitários. Respondem o gerente de expansão e fiscal do contrato Jonas Garcia, Edson Luiz Fronza, Douglas Costa Beber Rocha e a construtora CFO."
+ },
+ {
+  "i": 29,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Contratação direta da FIPE pela EMASA é remetida ao Ministério Público",
+  "description": "O procedimento apuratório preliminar sobre a contratação direta da Fundação Instituto de Pesquisas Econômicas pela EMASA, por dispensa de licitação, não atingiu a pontuação mínima da matriz de seletividade e o pedido de cautelar foi indeferido. Mesmo assim, o Tribunal mandou remeter cópia integral dos autos à 9ª Promotoria de Justiça de Balneário Camboriú, da área da moralidade administrativa, e ao Controle Interno da EMASA."
+ },
+ {
+  "i": 30,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 31,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🔴 apontou irregularidade",
+  "severity": "alta",
+  "title": "Cartão-alimentação dos servidores: TCE julga procedente representação contra o credenciamento",
+  "description": "O Edital de Credenciamento n. 002/2022 contrataria empresa de alimentação coletiva para administrar o cartão-alimentação dos servidores da administração direta do município. O Tribunal julgou procedente a representação e apontou a adoção inadequada de chamada pública para credenciamento em um mercado de notória competitividade — ou seja, contratou-se por credenciamento aquilo que deveria ter ido a licitação. O edital já havia sido suspenso cautelarmente pelo TCE."
+ },
+ {
+  "i": 32,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 33,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 34,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "TCE julga improcedente representação sobre compra de alimentos da merenda escolar",
+  "description": "A Lider Comércio e Distribuidora questionou o edital do Pregão Eletrônico n. 026/2025, de registro de preços de hortifrutigranjeiros e leite UHT para o Programa Nacional de Alimentação Escolar da rede municipal. O Tribunal julgou a representação improcedente, e a análise da cautelar ficou prejudicada."
+ },
+ {
+  "i": 35,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media",
+  "title": "Concessão da Passarela Estaiada é questionada, mas representação não é conhecida",
+  "description": "A representação contra o edital de Concorrência Eletrônica n. 01/2026 do FUMTUR, que concederia a exploração da passarela estaiada Manoel Fermino da Rocha e áreas adjacentes pelo valor mínimo de R$ 378.000,00, não foi conhecida por questões formais. O Tribunal recomendou que, em eventual republicação do certame, a Prefeitura junte ao processo as autorizações legais e as informações que esclareçam a viabilidade do que está sendo concedido."
+ },
+ {
+  "i": 36,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media",
+  "title": "Representação sobre pregão de limpeza e zeladoria não é conhecida",
+  "description": "A representação do Sr. Christian de Souza Gonzaga contra o Pregão Eletrônico n. 70/2025, de contratação de serviços de limpeza, copeiragem, zeladoria e eletricista, não foi conhecida por não preencher os requisitos do regimento interno. O pedido de cautelar ficou prejudicado e os autos foram arquivados."
+ },
+ {
+  "i": 37,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media",
+  "title": "Rizicultores reclamam de atraso da EMASA em contratos de reserva de água, mas TCE não conhece o caso",
+  "description": "Rizicultores de Camboriú comunicaram ao Tribunal o atraso nos pagamentos de contratos de locação de área rural destinados à reserva emergencial de água para a temporada de verão 2024/2025, firmados com a EMASA. A representação não foi conhecida por não atender aos requisitos de admissibilidade."
+ },
+ {
+  "i": 38,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 39,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🔴 multa aplicada",
+  "severity": "alta",
+  "title": "Secretário de Compras é multado por edital da saúde sem orçamento detalhado",
+  "description": "No julgamento do recurso, o Tribunal manteve como parcialmente procedente a representação da empresa Smallmed contra o Pregão Eletrônico n. 050/2020 — SSM/FMS, que contrataria serviços especializados na área da saúde com apoio administrativo e operacional. O secretário de Compras e subscritor do edital, Samaroni Benedet, foi multado em R$ 1.684,66 pela ausência de orçamento detalhado em planilhas com a composição de todos os custos unitários. Embargos de declaração contra a decisão foram rejeitados."
+ },
+ {
+  "i": 40,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🔴 apontou irregularidade",
+  "severity": "alta",
+  "title": "TCE considera irregular a devolução de outorga onerosa a construtora e manda a Prefeitura parar",
+  "description": "A representação foi julgada procedente: o município devolveu valores cobrados a título de outorga onerosa de potencial construtivo adicional sem lei que autorizasse a restituição, em afronta ao princípio da legalidade. A punibilidade de André Furlan Meirinho, de Roberto Carlos Castilho e da Benveartt Construtora e Incorporadora foi extinta pela prescrição, mas o Tribunal determinou que a Prefeitura não restitua novos valores enquanto não houver lei e recomendou que a matéria seja disciplinada em norma municipal."
+ },
+ {
+  "i": 41,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 42,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Questionamento sobre pregão de registro de preços é arquivado",
+  "description": "O procedimento apuratório preliminar aberto a partir do questionamento da empresa LE Comércio Atacadista contra pregão eletrônico da Prefeitura foi arquivado pelo relator, sem apuração de mérito."
+ },
+ {
+  "i": 43,
+  "tipo": "tce",
+  "keep": true,
+  "status": "⚫ prescrito",
+  "severity": "media",
+  "title": "Auditoria de atos de pessoal prescreve e é arquivada sem julgamento",
+  "description": "A auditoria tratava de atos de pessoal da Prefeitura e envolvia vários ex-gestores, entre eles o ex-prefeito Edson Renato Dias. O Tribunal reconheceu de ofício a prescrição das pretensões punitiva e ressarcitória, com base nas alterações trazidas pela Lei Complementar estadual n. 819/2023, e arquivou os autos sem julgar o mérito."
+ },
+ {
+  "i": 44,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 45,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 46,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 47,
+  "tipo": "tce",
+  "keep": false
+ }
+]

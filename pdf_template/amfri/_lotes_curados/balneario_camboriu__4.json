@@ -1,0 +1,412 @@
+[
+ {
+  "i": 280,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 281,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 282,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 283,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 284,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 285,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 286,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "alta",
+  "title": "BC teria proibido catadores de trabalhar alegando exclusividade da concessionária",
+  "description": "Inquérito civil apura o agir irregular do poder público municipal ao vedar o trabalho de catadores de resíduos sólidos sob o pretexto de que a atividade seria exclusiva da concessionária. Caso em apuração."
+ },
+ {
+  "i": 287,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 288,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 289,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "Prédio em BC teria mais pavimentos do que o projeto aprovado pela prefeitura",
+  "description": "Inquérito civil apura a possível construção irregular de um residencial que teria ultrapassado o limite de pavimentos autorizado no projeto aprovado pelo município. Caso em apuração."
+ },
+ {
+  "i": 290,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 291,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 292,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 293,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 294,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 295,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 296,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 297,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 298,
+  "tipo": "mp",
+  "keep": true,
+  "status": "❔ status indef.",
+  "severity": "media",
+  "title": "MP examinou a legalidade da taxa de iluminação pública de BC",
+  "description": "O inquérito analisou a legalidade da cobrança da Contribuição para Custeio de Iluminação Pública no município, instituída por leis municipais. O extrato publicado no Diário está truncado e não informa o desfecho."
+ },
+ {
+  "i": 299,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 300,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 301,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 302,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 303,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 304,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "BC retira rocha com risco de deslizamento e MP arquiva o caso",
+  "description": "O inquérito tratou do risco de deslizamento de uma rocha. O município promoveu a retirada e o MP arquivou o procedimento; o extrato publicado está truncado."
+ },
+ {
+  "i": 305,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 306,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 307,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 308,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 309,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 310,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 311,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 312,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 313,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 314,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 315,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 316,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 317,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 318,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 319,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 320,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 321,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 322,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 323,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 324,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 325,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 326,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 327,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 328,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP examinou a constitucionalidade de lei complementar de BC de 2019",
+  "description": "Procedimento administrativo aberto a partir da cisão de um inquérito, com o objetivo exclusivo de aferir a constitucionalidade da Lei Complementar municipal 53/2019. O extrato publicado está truncado; o caso foi arquivado."
+ },
+ {
+  "i": 329,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 330,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 331,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "Notas fiscais de contratos de BC não seriam divulgadas de forma uniforme",
+  "description": "Notícia de fato apura a não divulgação uniforme das notas fiscais relacionadas aos serviços contratados e aos bens adquiridos pelo município. Caso em apuração."
+ },
+ {
+  "i": 332,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 333,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 334,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura os acordos de BC com entidades parceiras",
+  "description": "Notícia de fato apura a regularidade da celebração e da execução de atividades, da contratação de serviços e da compra de produtos ajustados pelo município em termos de colaboração, termos de fomento e acordos de cooperação. Caso em apuração."
+ },
+ {
+  "i": 335,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 336,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura a execução dos planos de trabalho da fundação de esportes de BC",
+  "description": "Notícia de fato apura a regularidade da execução das atividades e dos projetos previstos nos planos de trabalho da Fundação Municipal de Esportes de Balneário Camboriú. Caso em apuração."
+ },
+ {
+  "i": 337,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura a execução dos planos de trabalho da Fundação Cultural de BC",
+  "description": "Notícia de fato apura a regularidade da execução das atividades e dos projetos previstos nos planos de trabalho da Fundação Cultural de Balneário Camboriú. Caso em apuração."
+ },
+ {
+  "i": 338,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura termo de colaboração entre BC e instituto social",
+  "description": "Inquérito civil apura a possível existência de vícios de forma e de conteúdo na celebração de termo de colaboração entre o município e o Instituto Redenção. Caso em apuração."
+ },
+ {
+  "i": 339,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "alta",
+  "title": "MP apura deficiência do combate à dengue em Balneário Camboriú",
+  "description": "Inquérito civil apura a suposta deficiência no combate ao mosquito transmissor da dengue, da chikungunya, da zika e da febre amarela no município. Caso em apuração."
+ },
+ {
+  "i": 340,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP examinou a constitucionalidade do Estatuto da Guarda Municipal de BC",
+  "description": "Procedimento administrativo aberto com o escopo exclusivo de aferir a constitucionalidade do Estatuto da Guarda Municipal. O extrato publicado está truncado; o caso foi arquivado."
+ },
+ {
+  "i": 341,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 342,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "alta",
+  "title": "MP apura repasse antecipado à operação urbana do Ecoparque, em BC",
+  "description": "Notícia de fato apura eventual ilegalidade na transferência de recursos para a Operação Urbana Consorciada Humanizando Balneário Camboriú 3 — o Ecoparque —, criada pela Lei municipal 4.663/2022, antes do momento devido. Caso em apuração."
+ },
+ {
+  "i": 343,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 344,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 345,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura contratos de voluntariado da fundação de esportes de BC",
+  "description": "Notícia de fato apura a regularidade dos termos de adesão a serviço voluntário firmados pela Fundação Municipal de Esportes, diante dos pressupostos e requisitos legais dessa modalidade. Caso em apuração."
+ },
+ {
+  "i": 346,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 347,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 348,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP arquiva caso de descumprimento da Lei de Acesso à Informação em BC",
+  "description": "O inquérito apurou a inobservância da Lei de Acesso à Informação e do princípio da publicidade pelo município. O extrato publicado no Diário está truncado; o procedimento foi arquivado."
+ },
+ {
+  "i": 349,
+  "tipo": "mp",
+  "keep": false
+ }
+]

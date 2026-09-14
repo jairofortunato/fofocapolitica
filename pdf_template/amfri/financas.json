@@ -1,6 +1,11 @@
 {
  "_fonte": "pop: IBGE Censo 2022 (agregado 4714/var 93). rec/desp: Siconfi/Tesouro, RREO 2025 6º bimestre, Anexo 01 — rec=TotalReceitas 'Até o Bimestre (c)', desp=TotalDespesas 'DESPESAS EMPENHADAS ATÉ O BIMESTRE (f)'. Mesma fonte e definição usadas nas demais regiões. Arquivo aberto com as cidades já publicadas da região.",
  "_lacunas": "Ilhota não tem nenhum RREO publicado no Siconfi: a consulta bimestre a bimestre de 2023, 2024 e 2025 (18 bimestres) não retorna um único demonstrativo. Fica com rec/desp nulos e o PDF mostra '—'. Não foi preenchido com a receita bruta do DCA porque ela é ~6% maior que a receita líquida do RREO e inflaria a cidade na comparação.",
+ "Balneário Camboriú": {
+  "pop": 139155,
+  "rec": 2198998710,
+  "desp": 1995794557
+ },
  "Itapema": {
   "pop": 75940,
   "rec": 726873384,

@@ -1,0 +1,480 @@
+[
+ {
+  "i": 140,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 141,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 142,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP arquiva caso da falta de dados orçamentários no site da Prefeitura de BC",
+  "description": "O inquérito apurou a ausência de divulgação na internet de informações sobre a execução orçamentária e financeira e de outras informações de interesse coletivo pelo Executivo municipal. O extrato publicado está truncado; o procedimento foi arquivado."
+ },
+ {
+  "i": 143,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟠 TAC firmado",
+  "severity": "media",
+  "title": "Bairro Estaleiro, em BC, não tem rede de esgoto; caso termina em acordo",
+  "description": "O inquérito apurou poluição em curso d'água nas proximidades da Rua Napoleão Vieira, no Bairro Estaleiro, uma localidade sem rede de esgoto, o que impediu determinar a origem da poluição. O caso terminou com termo de ajustamento de conduta."
+ },
+ {
+  "i": 144,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "Comissionados fariam o trabalho de agente da defesa civil em BC",
+  "description": "Notícia de fato apura o exercício precário, por pessoal em cargo comissionado, de atribuições próprias do cargo efetivo de agente da defesa civil, mesmo sem a oferta de vagas imediatas no edital de 2022. Caso em apuração."
+ },
+ {
+  "i": 145,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 146,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 147,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 148,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP apurou conteúdo divulgado pela gestão de BC após representação de vereador",
+  "description": "A notícia de fato, aberta a partir de representação parlamentar, apurou a informação de que a gestão municipal estaria divulgando conteúdo não condizente com a realidade. O extrato publicado no Diário está truncado; o expediente foi arquivado."
+ },
+ {
+  "i": 149,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 150,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 151,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP cobrou transparência dos projetos na Secretaria de Planejamento de BC",
+  "description": "O inquérito apurou o cumprimento do dever de transparência ativa sobre os projetos levados à Secretaria de Planejamento e Desenvolvimento Urbano do município. O extrato publicado está truncado; o caso foi arquivado."
+ },
+ {
+  "i": 152,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP apurou seleção de farmacêutico temporário para o hospital municipal de BC",
+  "description": "O inquérito apurou possíveis vícios de juridicidade em seleção pública para recrutar pessoal em caráter temporário para a função de farmacêutico no Hospital Municipal. O extrato publicado está truncado; o procedimento foi arquivado."
+ },
+ {
+  "i": 153,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP examina cargos comissionados criados por BC sem descrever atribuições",
+  "description": "Notícia de fato apura a constitucionalidade da criação e da estruturação dos cargos comissionados da Lei municipal 5.001/2025, em especial a ausência de descrição legal das atribuições e a conformidade da norma com o princípio da legalidade. Caso em apuração."
+ },
+ {
+  "i": 154,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP apurou manobras para não entregar declaração de bens em BC",
+  "description": "O inquérito foi aberto de ofício a partir da suspeita de uso de artifícios indiretos para descumprir o artigo 13 da Lei de Improbidade, que obriga agentes públicos a apresentar declaração de bens. O extrato publicado está truncado; o caso foi arquivado."
+ },
+ {
+  "i": 155,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura risco geológico atrás de edifício na Praia dos Amores, em BC",
+  "description": "Inquérito civil apura o possível risco geológico causado por represamento de água em terreno de área de preservação permanente, atrás de um edifício na Rua Clarice Lispector, no Bairro Praia dos Amores. Caso em apuração."
+ },
+ {
+  "i": 156,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura a composição do Conselho Municipal de Educação de BC",
+  "description": "Inquérito civil apura possíveis irregularidades na composição do Conselho Municipal de Educação de Balneário Camboriú, a partir de representação do sindicato dos servidores municipais. Caso em apuração."
+ },
+ {
+  "i": 157,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP cobrou transparência na fila única de vagas escolares de BC",
+  "description": "O inquérito apurou irregularidades na transparência do Programa Fila Única Municipal, especialmente na divulgação das convocações e do chamamento de alunos. O extrato publicado está truncado; o caso foi arquivado."
+ },
+ {
+  "i": 158,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "CRAS e CREAS de BC teriam poucos servidores efetivos, apura MP",
+  "description": "Inquérito civil apura irregularidade na constituição dos serviços e cargos de assistência social prestados pelo CREAS e pelo CRAS no município, com desproporção de servidores efetivos. Caso em apuração."
+ },
+ {
+  "i": 159,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 160,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 161,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 162,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 163,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 164,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 165,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 166,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 167,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 168,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 169,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 170,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura aprovação do estudo de impacto do Triumph Tower, em BC",
+  "description": "Inquérito civil apura possível irregularidade na condução do procedimento de aprovação do Estudo de Impacto de Vizinhança do empreendimento Triumph Tower, previsto para a Avenida Atlântica, no Centro. Caso em apuração."
+ },
+ {
+  "i": 171,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 172,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 173,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 174,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 175,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "alta",
+  "title": "Parque natural de BC teria sido asfaltado contra o próprio plano de manejo",
+  "description": "Inquérito civil apura possível degradação ambiental no Parque Natural Raimundo Malta, que teria sido asfaltado em desconformidade com o seu plano de manejo. Caso em apuração."
+ },
+ {
+  "i": 176,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 177,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "alta",
+  "title": "MP apura reforma do estádio municipal de BC feita para clube e federação",
+  "description": "Notícia de fato apura irregularidades nas obras de reforma e ampliação do Estádio Municipal Eduardo Zeferino Tiago, que teriam sido feitas para atender interesses do Camboriú Futebol Clube e da Federação Catarinense de Futebol. Caso em apuração."
+ },
+ {
+  "i": 178,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 179,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 180,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 181,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "alta",
+  "title": "Hospital municipal de BC negaria laqueadura a parturientes, apura MP",
+  "description": "Inquérito civil apura a negativa de realização do procedimento cirúrgico de laqueadura a parturientes atendidas no serviço de obstetrícia do Hospital Municipal Ruth Cardoso. Caso em apuração."
+ },
+ {
+  "i": 182,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 183,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Centro de diagnóstico do hospital de BC ficou sem fazer exames por avarias",
+  "description": "O inquérito apurou o reflexo na saúde pública da precariedade estrutural do Centro de Diagnóstico anexo ao Hospital Municipal Ruth Cardoso, cujas avarias suspenderam a realização de diversos exames. O extrato publicado está truncado; o caso foi arquivado."
+ },
+ {
+  "i": 184,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura pregão eletrônico de iluminação de BC em 2023",
+  "description": "Notícia de fato apura possíveis irregularidades no Pregão Eletrônico 008/2023 lançado pelo município, do qual participou uma empresa de soluções em LED. Caso em apuração."
+ },
+ {
+  "i": 185,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟠 TAC firmado",
+  "severity": "media",
+  "title": "Acordo com o MP corrige a distribuição de ingressos do Unipraias em BC",
+  "description": "O inquérito apurou irregularidades na distribuição dos ingressos de acesso ao Parque Unipraias entregues ao município. O caso terminou com termo de ajustamento de conduta."
+ },
+ {
+  "i": 186,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 187,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 188,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "Defesa Civil de BC teria emitido autorização emergencial indevida",
+  "description": "Inquérito civil apura possível degradação ambiental em imóvel no Bairro Ariribá e a possível emissão indevida de autorização emergencial pela Defesa Civil do município. Caso em apuração."
+ },
+ {
+  "i": 189,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 190,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 191,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura mirante turístico erguido em área protegida do Morro do Careca",
+  "description": "Inquérito civil apura possível degradação ambiental em área especialmente protegida do Morro do Careca pela implantação do empreendimento turístico Sky Glass BC, com acesso pela Praia dos Amores. O município figura no procedimento."
+ },
+ {
+  "i": 192,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 193,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "BC adota medidas preventivas em pontos de risco de deslizamento",
+  "description": "O inquérito apurou os pontos de risco geológico de deslizamento no município. O MP constatou que medidas preventivas estavam sendo adotadas no âmbito administrativo e arquivou o procedimento."
+ },
+ {
+  "i": 194,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "alta",
+  "title": "MP apura irregularidades na UPA do Bairro das Nações, em BC",
+  "description": "Inquérito civil instaurado para apurar supostas irregularidades na Unidade de Pronto Atendimento do Bairro das Nações. Caso em apuração."
+ },
+ {
+  "i": 195,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "BC adota medidas contra alagamentos e MP arquiva o caso",
+  "description": "O inquérito apurou problemas de estrutura urbanística e alagamentos no município. Com a adoção de medidas de regularização, o MP arquivou o procedimento."
+ },
+ {
+  "i": 196,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura repasses de BC a organização social",
+  "description": "Notícia de fato apura irregularidades na gestão e na aplicação de recursos públicos recebidos do município por uma organização da sociedade civil. Caso em apuração."
+ },
+ {
+  "i": 197,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 198,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 199,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP apurou as condições de segurança do estádio municipal de BC",
+  "description": "O inquérito apurou as condições de segurança do Estádio Municipal Eduardo Zeferino Tiago, sob responsabilidade da Fundação Municipal de Esportes. O extrato publicado está truncado; o arquivamento foi submetido ao Conselho Superior do MP."
+ },
+ {
+  "i": 200,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "alta",
+  "title": "MP apura falta de antirretrovirais em centro de saúde de BC",
+  "description": "Inquérito civil apura irregularidade no fornecimento de medicamentos antirretrovirais e a ausência de acessibilidade no Centro Integrado de Solidariedade e Saúde do município. Caso em apuração."
+ },
+ {
+  "i": 201,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟠 TAC firmado",
+  "severity": "media",
+  "title": "Acordo com o MP trata de vagas privadas em área de uso público em BC",
+  "description": "O inquérito tratou de questão ambiental e de ordem urbanística envolvendo vagas privadas de uso, com o município, o Instituto do Meio Ambiente e quatro incorporadoras entre as partes. O caso terminou em acordo e o procedimento foi arquivado."
+ },
+ {
+  "i": 202,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 203,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 204,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 205,
+  "tipo": "mp",
+  "keep": true,
+  "status": "❔ status indef.",
+  "severity": "media",
+  "title": "MP apurou as condições de trabalho de médicos e enfermeiros da rede de BC",
+  "description": "O inquérito apurou a regularidade do atendimento prestado pelos profissionais de saúde e a existência de condições mínimas para o exercício das profissões de médico, enfermeiro e farmacêutico no município. O extrato publicado no Diário está truncado e não informa o desfecho."
+ },
+ {
+  "i": 206,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "Delegados da sociedade civil acusam BC de cercear a participação popular",
+  "description": "Inquérito civil instaurado a partir de representação de delegados representantes da sociedade civil, que apontam possível atentado ao princípio da legalidade e à garantia de ampla participação popular no processo. Caso em apuração."
+ },
+ {
+  "i": 207,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 208,
+  "tipo": "mp",
+  "keep": true,
+  "status": "❔ status indef.",
+  "severity": "media",
+  "title": "MP não encontra irregularidade no índice de reajuste do IPTU de BC",
+  "description": "O inquérito examinou o índice usado para reajustar o Imposto Predial e Territorial Urbano do município. Não foram constatadas irregularidades, o que inviabilizou tanto ação direta de inconstitucionalidade quanto ação civil pública."
+ },
+ {
+  "i": 209,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP apurou sumiço de medicamentos no hospital municipal de Balneário Camboriú",
+  "description": "A notícia de fato apurou irregularidades no controle de medicamentos e materiais ambulatoriais no Hospital Municipal Ruth Cardoso, a partir de denúncia de desaparecimento de remédios e de permuta entre unidades. O extrato publicado está truncado; o expediente foi arquivado."
+ }
+]

@@ -1,0 +1,536 @@
+[
+ {
+  "i": 48,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media",
+  "title": "Representação sobre pregão vira recomendação de pesquisa de preços",
+  "description": "O Tribunal não conheceu da representação sobre o Pregão Eletrônico n. 162/2023 por não preencher os pressupostos de admissibilidade, mas recomendou ao município que observe a Nota Técnica n. TC-1/2020, sobre pesquisa de preços, para evitar a falta de correspondência entre os valores contratados e os praticados no mercado."
+ },
+ {
+  "i": 49,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 50,
+  "tipo": "tce",
+  "keep": true,
+  "status": "⬛ julgado irregular",
+  "severity": "alta",
+  "title": "Prefeitura pagou 72 botijões de gás que nunca chegaram; empresa é condenada a devolver R$ 19,5 mil",
+  "description": "A tomada de contas especial concluiu que as notas fiscais 2627 e 2727 foram recebidas de forma irregular: o Contrato n. 086/2017 não foi cumprido integralmente e 72 botijões de gás GLP de 45 kg não foram entregues. O TCE julgou as contas irregulares e condenou a L.A. Comércio de Gás Ltda. a recolher R$ 19.531,67 aos cofres municipais, corrigidos, sob pena de cobrança judicial. Também determinou ao município que adote um controle de entregas mais transparente, com pesagem do botijão, nome legível do recebedor e data e local da entrega."
+ },
+ {
+  "i": 51,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media",
+  "title": "Denúncia sobre aprovados não nomeados em concurso não é conhecida",
+  "description": "A denúncia relatava a ausência de nomeação dos candidatos aprovados no Concurso Público n. 006/2022 para o cargo de Analista de Controle Interno. O Tribunal não conheceu da denúncia por não preenchimento dos pressupostos de admissibilidade e arquivou os autos."
+ },
+ {
+  "i": 52,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Procedimento sobre pregão de registro de preços é arquivado",
+  "description": "O procedimento apuratório preliminar aberto pela LE Comércio Atacadista contra pregão eletrônico da Prefeitura foi arquivado pelo relator."
+ },
+ {
+  "i": 53,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 54,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ em tramitação",
+  "severity": "media",
+  "title": "TCE aprova plano de ações do município sobre meta do Plano Municipal de Educação",
+  "description": "A inspeção monitorava o cumprimento da estratégia 18.1 da meta 18 da Lei municipal n. 3.862/2015, do Plano Municipal de Educação. O Tribunal conheceu e aprovou o plano de ações apresentado pela Prefeitura, que passou a valer como compromisso firmado com a Corte de Contas, e fixou 90 dias para o município apresentar relatório de acompanhamento."
+ },
+ {
+  "i": 55,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Representação sobre pregão da iluminação pública é julgada improcedente",
+  "description": "A representação sobre o Pregão Eletrônico n. 117/2020, de iluminação pública, foi considerada improcedente e os autos foram arquivados."
+ },
+ {
+  "i": 56,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 parecer pela aprovação",
+  "severity": "media",
+  "title": "Contas do prefeito de 2021 recebem parecer prévio pela aprovação",
+  "description": "A prestação de contas do prefeito referente ao exercício de 2021 foi apreciada pelo Tribunal de Contas, que emitiu parecer prévio recomendando a aprovação à Câmara Municipal, a quem cabe o julgamento."
+ },
+ {
+  "i": 57,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 parecer pela aprovação",
+  "severity": "media",
+  "title": "Contas do prefeito de 2022 recebem parecer prévio pela aprovação",
+  "description": "A prestação de contas do prefeito referente ao exercício de 2022 foi apreciada pelo Tribunal de Contas, que emitiu parecer prévio recomendando a aprovação à Câmara Municipal, a quem cabe o julgamento."
+ },
+ {
+  "i": 58,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Questionamento sobre pregão de tecnologia da saúde termina em arquivamento",
+  "description": "A representação da Olos Tecnologia contra o edital do Pregão Eletrônico n. 179/2021 foi encaminhada ao arquivamento pela diretoria técnica, sem concessão da medida cautelar de suspensão pedida contra o certame."
+ },
+ {
+  "i": 59,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟠 cautelar / sustação",
+  "severity": "alta",
+  "title": "Concessão do Estádio Municipal por 20 anos é anulada depois que o TCE achou falhas no leilão",
+  "description": "O Leilão Eletrônico n. 003/2024 concederia por 20 anos, de forma onerosa, a gestão e a implantação de melhorias no Estádio Municipal Eduardo Zeferino, com valor estimado de R$ 13.086.720,00. O TCE apontou a ausência de especificações mínimas para a construção da pista de atletismo — medidas, caimento e tipo de piso — obrigação prevista na minuta do termo de concessão, e chamou o secretário de Compras Samaroni Benedet e a secretária de Gestão Administrativa Juliana Serrão Kurth Damázio para justificar ou anular a licitação. O leilão acabou anulado e o processo foi encerrado por perda de objeto."
+ },
+ {
+  "i": 60,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Representação sobre pregão de instrumentos musicais é arquivada por seletividade",
+  "description": "A W3 Comercial Importadora e Exportadora alegou irregularidades no Pregão Eletrônico n. 043/2025, de registro de preços de instrumentos musicais para a Banda Musical Escolar. O Tribunal determinou o arquivamento sem apreciação do mérito, por não atendimento aos critérios de seletividade."
+ },
+ {
+  "i": 61,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Representação sobre pregão de R$ 36/2025 fica abaixo da nota mínima de seletividade",
+  "description": "O Tribunal conheceu a representação contra o Pregão Eletrônico n. 36/2025, mas determinou o arquivamento porque o caso obteve 43,56% na matriz de seletividade, abaixo do mínimo de 60% exigido pela Resolução n. TC-283/2025."
+ },
+ {
+  "i": 62,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 63,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media",
+  "title": "Denúncia sobre semáforos instalados fora das regras do Código de Trânsito não é conhecida",
+  "description": "A representação relatava o uso de equipamento semafórico adquirido e instalado fora das condições estabelecidas pelo Código de Trânsito Brasileiro — sinalização semafórica composta de quatro barras de LED e uma fita Real Light PRO. O Tribunal não conheceu do caso por não atendimento aos requisitos de admissibilidade."
+ },
+ {
+  "i": 64,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media",
+  "title": "Representação sobre o Pregão n. 68/2025 não é conhecida",
+  "description": "A representação sobre possíveis irregularidades no Pregão Eletrônico n. 68/2025 não foi conhecida por não atender aos critérios de seletividade, e os autos foram arquivados."
+ },
+ {
+  "i": 65,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media",
+  "title": "Representação sobre pregão de limpeza e zeladoria é rejeitada por falta de indícios",
+  "description": "A representação contra o edital do Pregão Eletrônico n. 070/2025, de contratação de serviços de limpeza, copeiragem, zeladoria e eletricista por registro de preços, não foi conhecida por ausência de indícios, evidências ou elementos de convicção razoáveis sobre as irregularidades alegadas."
+ },
+ {
+  "i": 66,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟡 em instrução (citação/audiência)",
+  "severity": "alta",
+  "title": "Dirigentes do BC Trânsito são chamados a explicar pregão de R$ 9 milhões de sinalização viária",
+  "description": "O Tribunal conheceu a representação contra o Pregão Eletrônico n. 038/2025 da Autarquia Municipal de Trânsito, que registraria preços de serviços de sinalização viária horizontal e dispositivos auxiliares no valor estimado de R$ 9.035.729,00. Foram chamados a prestar justificativas, sob pena de multa, o diretor de Departamento de Operações e Fiscalização Eduardo Olindino Domingos e o diretor-presidente do BC Trânsito Roberto Carlos Castilho, subscritores do termo de referência, e o secretário de Compras e Patrimônio José Edeltrudes da Costa Ferreira Neto, que assinou o edital e homologou a licitação."
+ },
+ {
+  "i": 67,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media",
+  "title": "Representação sobre o pregão do Tarifa Zero não é conhecida",
+  "description": "A Auto Viação Pantera Negra questionou o edital do Pregão Eletrônico n. 001/2026, que contrataria locação de veículos com condutor no âmbito do programa Tarifa Zero. O Tribunal não conheceu da representação por não preenchimento dos requisitos de admissibilidade e de seletividade."
+ },
+ {
+  "i": 68,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟠 cautelar / sustação",
+  "severity": "alta",
+  "title": "TCE suspende concorrência de obra viária por sobrepreço de R$ 2 milhões e projeto básico deficiente",
+  "description": "Na análise prévia do edital da Concorrência n. 001/2023, que contrataria a obra de ligação entre a Rua Uganda e a Avenida das Gaivotas, no limite dos bairros Ariribá e Nações, o Tribunal determinou a suspensão cautelar imediata do certame. Os apontamentos incluem a superestimativa da distância média de transporte dos materiais britados, com possível sobrepreço inicial da ordem de R$ 2.040.451,38, e projeto básico deficiente pela ausência de estudos geotécnicos para caracterizar os locais com solos moles."
+ },
+ {
+  "i": 69,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media",
+  "title": "Denúncia sobre o regime jurídico dos agentes de saúde não é conhecida",
+  "description": "A denúncia relatava possíveis irregularidades no regime jurídico dos Agentes Comunitários de Saúde e dos Agentes de Combate às Endemias do município. O Tribunal não conheceu do caso e informou ao denunciante que o tema é tratado na auditoria de atos de pessoal do processo RLA-24/00306561."
+ },
+ {
+  "i": 70,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ em tramitação",
+  "severity": "media",
+  "title": "Auditoria vê planejamento frágil na compra de computadores e manda a Prefeitura controlar o próprio patrimônio de TI",
+  "description": "A auditoria examinou o planejamento das aquisições de computadores pelos Pregões Eletrônicos n. 04, 31 e 48/2023. O Tribunal determinou que a Prefeitura implante um controle patrimonial efetivo sobre o parque de hardware e software do município, com comprovação em 180 dias, além de recomendações."
+ },
+ {
+  "i": 71,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 72,
+  "tipo": "tce",
+  "keep": true,
+  "status": "⚫ prescrito",
+  "severity": "media",
+  "title": "Operações com títulos públicos do BCPREVI prescrevem e contas são julgadas regulares com ressalvas",
+  "description": "A tomada de contas especial tratava de operações financeiras com títulos públicos federais a preços incompatíveis com o mercado, feitas pelo instituto de previdência dos servidores em 2005 e 2007. O Tribunal reconheceu a prescrição das pretensões punitiva e ressarcitória, julgou as contas regulares com ressalvas e recomendou ao gestor que observe as regras de aplicação dos recursos do regime próprio de previdência."
+ },
+ {
+  "i": 73,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 74,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ em tramitação",
+  "severity": "media",
+  "title": "Concessão dos serviços funerários do município vai a apuração no TCE",
+  "description": "O procedimento apuratório preliminar sobre possíveis irregularidades na concessão dos serviços funerários foi convertido em representação. O Tribunal determinou diligência à Prefeitura para envio de documentos e esclarecimentos em cinco dias e mandou a diretoria técnica adotar as demais providências, inclusive inspeções e auditorias."
+ },
+ {
+  "i": 75,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 76,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 77,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 78,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 79,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 80,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 81,
+  "tipo": "tce",
+  "keep": true,
+  "status": "⚫ prescrito",
+  "severity": "media",
+  "title": "Auditoria no BCPREVI prescreve, mas TCE proíbe custeio do plano de saúde de inativos com dinheiro da previdência",
+  "description": "A auditoria verificou a regularidade da gestão do instituto de previdência dos servidores nos exercícios de 2015 e 2016. O Tribunal reconheceu a prescrição das pretensões punitiva e ressarcitória sobre os fatos apurados, mas determinou ao presidente do BCPREVI que se abstenha de custear com recursos próprios, de qualquer fonte, a parte patronal do plano de saúde dos servidores inativos filiados ao regime próprio, além de determinações ao prefeito."
+ },
+ {
+  "i": 82,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ em tramitação",
+  "severity": "baixa",
+  "title": "EMASA consulta o TCE sobre compra de energia no mercado livre",
+  "description": "O controlador interno da EMASA consultou o Tribunal sobre a possibilidade de adquirir energia elétrica no ambiente de contratação livre por dispensa de licitação, diante do prazo de migração previsto na Lei n. 9.074/1995. O TCE conheceu a consulta e respondeu em tese."
+ },
+ {
+  "i": 83,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ em tramitação",
+  "severity": "media",
+  "title": "Auditoria acha falhas na planta de valores e no cancelamento de tributos, e dá 180 dias ao município",
+  "description": "A verificação tratou da atualização da Planta Genérica de Valores, da regularidade da arrecadação das taxas de alvará sanitário e da conformidade dos cancelamentos feitos nos sistemas tributários SigamWeb e TMI, nos exercícios de 2018 a 2022. O Tribunal determinou que a Prefeitura apresente em 180 dias o resultado da força-tarefa iniciada para sanar as impropriedades no lançamento e na cobrança dos tributos municipais."
+ },
+ {
+  "i": 84,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 85,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🔴 apontou irregularidade",
+  "severity": "baixa",
+  "title": "TCE nega registro de ato de aposentadoria de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de aposentadoria concedido a servidor da Prefeitura. Neste caso o registro foi denegado, por o ato ter sido considerado ilegal na análise técnica, com determinação ao instituto de previdência do município."
+ },
+ {
+  "i": 86,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 87,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media",
+  "title": "Representação sobre o Pregão n. 014/2023 não é conhecida",
+  "description": "O Tribunal não conheceu da representação por não preencher os pressupostos de admissibilidade previstos na lei orgânica e nas resoluções da Corte, e determinou o arquivamento dos autos."
+ },
+ {
+  "i": 88,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Disputa sobre cessão de estagiários é resolvida na Justiça e o TCE encerra o caso",
+  "description": "A representação tratava da gestão de estagiários do município. O Tribunal considerou a representação prejudicada porque o trânsito em julgado de ação judicial desconstituiu a Decisão n. 644/2020 da Corte e permitiu à Prefeitura manter a cessão de estagiários a órgãos estaduais e federais, nos termos da Lei municipal n. 3.014/2009."
+ },
+ {
+  "i": 89,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Representação contra pregão da EMASA é julgada improcedente, com recomendações",
+  "description": "A representação sobre o edital do Pregão Presencial n. 37/2023 da EMASA foi julgada improcedente. O Tribunal recomendou à empresa que, em licitações futuras, justifique exigências de documentação técnica que fujam ao padrão usual, com base nos princípios da motivação e da padronização."
+ },
+ {
+  "i": 90,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Representação sobre pregão do hipoclorito de sódio da EMASA é julgada improcedente",
+  "description": "A Filtros Solução apontou possíveis irregularidades no Edital de Pregão Presencial n. 65/2023 da EMASA, para ampliação do sistema de produção de solução oxidante à base de hipoclorito de sódio in loco com manutenção preventiva. Antes do mérito, o diretor-geral da EMASA chegou a ser chamado a explicar exigências de qualificação técnica consideradas restritivas. No julgamento final, a representação foi considerada improcedente."
+ },
+ {
+  "i": 91,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 92,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 93,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🔴 apontou irregularidade",
+  "severity": "baixa",
+  "title": "TCE nega registro de ato de aposentadoria de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de aposentadoria concedido a servidor da Prefeitura. Neste caso o registro foi denegado, por o ato ter sido considerado ilegal na análise técnica, com determinação ao instituto de previdência do município."
+ },
+ {
+  "i": 94,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "EMASA revoga pregão de R$ 4,3 milhões de limpeza de bocas de lobo após apontamentos do TCE",
+  "description": "O Tribunal analisou a resposta da EMASA à audiência sobre o Edital de Pregão Eletrônico n. 52/2025, de registro de preços para limpeza, sucção, desassoreamento e desobstrução de bocas de lobo, caixas de ligação, poços de visita, ramais e tubulações, com orçamento estimado de R$ 4.384.150,00. Com a revogação do certame pela própria empresa, o processo foi arquivado por perda de objeto, com recomendação para que as irregularidades apontadas não se repitam."
+ },
+ {
+  "i": 95,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟡 em instrução (citação/audiência)",
+  "severity": "media",
+  "title": "Controladoria do município leva ao TCE as obras feitas em escolas entre 2021 e 2024",
+  "description": "A representação foi apresentada pela própria Controladoria-Geral do Município e trata de supostas irregularidades na execução de contratos de obras e manutenção em unidades escolares da Secretaria Municipal de Educação, entre 2021 e 2024. O Tribunal conheceu da representação e determinou diligência à Controladoria, com prazo de 60 dias."
+ },
+ {
+  "i": 96,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟡 em instrução (citação/audiência)",
+  "severity": "media",
+  "title": "Ministério Público de Contas questiona cargos em comissão da Procuradoria do município",
+  "description": "A representação do procurador Diogo Roberto Ringenberg, do Ministério Público de Contas, aponta possíveis irregularidades nos cargos em comissão e funções de confiança da Procuradoria-Geral do Município, previstos na Lei Complementar municipal n. 101/2023. O Tribunal determinou diligência à prefeita Juliana Pavan Von Borstel para explicar, entre outros pontos, por que o cargo de Assessor Jurídico e a função gratificada de Assessor Jurídico de Procurador têm atribuições quase idênticas e de natureza burocrática e operacional, incompatíveis com cargos comissionados segundo o STF."
+ },
+ {
+  "i": 97,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de aposentadoria de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de aposentadoria concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 98,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟡 em instrução (citação/audiência)",
+  "severity": "baixa",
+  "title": "TCE dá prazo para o município sanar pendências em ato de aposentadoria",
+  "description": "Processo de rotina de registro de ato de aposentadoria de servidor municipal. Antes de decidir, o Tribunal fixou prazo para que o instituto de previdência adote as providências necessárias ao exato cumprimento da lei e comprove o saneamento das restrições apontadas."
+ },
+ {
+  "i": 99,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 100,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media",
+  "title": "Representação sobre o Pregão n. 001/2023 não é conhecida",
+  "description": "O Tribunal não conheceu da representação sobre o Pregão Eletrônico n. 001/2023 por não preencher os pressupostos de admissibilidade, e determinou o arquivamento dos autos."
+ },
+ {
+  "i": 101,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 102,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 103,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 104,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media",
+  "title": "Representação da Forte Administração sobre pregão não é conhecida",
+  "description": "A representação da Forte Administração e Serviços de Engenharia sobre o Pregão Eletrônico n. 123/2023 não foi conhecida por não preencher os pressupostos de admissibilidade, e os autos foram arquivados."
+ },
+ {
+  "i": 105,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media",
+  "title": "Representação sobre o Pregão n. 200/2023 não é conhecida",
+  "description": "A representação não foi conhecida por não atender aos requisitos de seletividade previstos nas normas do Tribunal, e os autos foram arquivados."
+ },
+ {
+  "i": 106,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media",
+  "title": "Representação da Eliseu Kopp sobre pregão não é conhecida",
+  "description": "A representação da Eliseu Kopp & Cia sobre o Pregão Eletrônico n. 001/2023 não foi conhecida por não preencher os pressupostos de admissibilidade, e os autos foram arquivados."
+ },
+ {
+  "i": 107,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 108,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media",
+  "title": "Representação da Bustamante Assessoria sobre pregão não é conhecida",
+  "description": "A representação sobre o Pregão Eletrônico n. 033/2023 não foi conhecida por não preencher os pressupostos de admissibilidade previstos na lei orgânica do Tribunal."
+ },
+ {
+  "i": 109,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media",
+  "title": "Representação sobre o Pregão n. 162/2023 não é conhecida",
+  "description": "A representação não foi conhecida por não preencher os pressupostos de admissibilidade, e os autos foram arquivados."
+ },
+ {
+  "i": 110,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media",
+  "title": "Representação sobre o Pregão n. 03/2024 não é conhecida",
+  "description": "A representação sobre o Pregão Eletrônico n. 03/2024 não foi conhecida por não preencher os pressupostos de admissibilidade, e os autos foram arquivados."
+ },
+ {
+  "i": 111,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 112,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 113,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 114,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de aposentadoria de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de aposentadoria concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 115,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "baixa",
+  "title": "TCE registra ato de aposentadoria de servidor municipal",
+  "description": "Processo de rotina em que o Tribunal de Contas examina a legalidade de ato de aposentadoria concedido a servidor da Prefeitura. O ato foi considerado legal e o registro, ordenado."
+ },
+ {
+  "i": 116,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 117,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🔴 apontou irregularidade",
+  "severity": "alta",
+  "title": "TCE manda a EMASA parar de repassar receitas de água e esgoto para o caixa da Prefeitura",
+  "description": "A denúncia sobre a implantação da tabela tarifária da EMASA foi julgada parcialmente procedente na parte que trata dos repasses feitos à Prefeitura a título de desvinculação das receitas da empresa de água e saneamento. Em cumprimento à Nota Técnica n. TC-2/2023, o Tribunal determinou a suspensão desses repasses, ressalvados os valores já previstos na lei orçamentária de 2023, e mandou monitorar o cumprimento nos exercícios de 2023 e 2024."
+ }
+]

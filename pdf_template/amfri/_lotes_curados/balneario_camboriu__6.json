@@ -1,0 +1,452 @@
+[
+ {
+  "i": 420,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 421,
+  "tipo": "mp",
+  "keep": true,
+  "status": "❔ status indef.",
+  "severity": "media",
+  "title": "MP apurou a operação do estacionamento rotativo de Balneário Camboriú",
+  "description": "O inquérito foi aberto para apurar problemas na operação do sistema rotativo de vagas de estacionamento, sob responsabilidade da Autarquia Municipal de Trânsito. O extrato publicado no Diário está truncado e não informa o desfecho."
+ },
+ {
+  "i": 422,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 423,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 424,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP apurou falta de acessibilidade em faixa de segurança de BC",
+  "description": "O inquérito, aberto a partir de representação de uma associação de apoio a pessoas com deficiência, apurou a inobservância das normas de acessibilidade no acesso a uma faixa de segurança. O extrato publicado está truncado; o caso foi arquivado."
+ },
+ {
+  "i": 425,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "alta",
+  "title": "MP apura omissão de BC na fiscalização da roda-gigante da orla",
+  "description": "Notícia de fato apura a suspeita de conduta omissiva do município na fiscalização do dever obrigacional assumido pela empresa responsável pela roda-gigante instalada na cidade. Caso em apuração."
+ },
+ {
+  "i": 426,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "alta",
+  "title": "MP apura se a Prefeitura de BC esvazia a natureza pública da administração",
+  "description": "Notícia de fato apura se o município, por meio de seus agentes, está esvaziando ou subvertendo a natureza pública da administração, com atos que desrespeitariam os princípios que a norteiam. Caso em apuração."
+ },
+ {
+  "i": 427,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 428,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟠 TAC firmado",
+  "severity": "media",
+  "title": "Praia de Taquaras imprópria para banho leva a acordo e inquérito policial",
+  "description": "O inquérito, aberto a partir de comunicação do Instituto do Meio Ambiente, tratou da balneabilidade imprópria da praia de Taquaras. Uma fonte isolada de contaminação foi constatada e um inquérito policial foi instaurado; o caso terminou em acordo e foi arquivado."
+ },
+ {
+  "i": 429,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 430,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 431,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 432,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 433,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura como BC paga professores que estão fora de sala de aula",
+  "description": "Notícia de fato apura a forma de remuneração dos professores da rede municipal que estão fora de sala de aula, com atenção especial à percepção de valores correspondentes à regência de classe. Caso em apuração."
+ },
+ {
+  "i": 434,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura falta de vagas para idosos nas ruas de Balneário Camboriú",
+  "description": "Inquérito civil apura a insuficiência do número de vagas nas vias públicas destinadas a pessoas idosas, conforme o Estatuto da Pessoa Idosa. Caso em apuração."
+ },
+ {
+  "i": 435,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 436,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 437,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura as condições do terminal rodoviário de Balneário Camboriú",
+  "description": "Inquérito civil apura o cumprimento regular e legítimo das condições de desenvolvimento do Terminal Rodoviário de Passageiros de Balneário Camboriú, com o município e a Autarquia Municipal de Trânsito entre as partes. Caso em apuração."
+ },
+ {
+  "i": 438,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura omissão de BC diante dos animais abandonados",
+  "description": "Inquérito civil apura possível omissão do poder público municipal na implementação de políticas eficazes para o enfrentamento da situação de animais abandonados ou submetidos a maus-tratos. Caso em apuração."
+ },
+ {
+  "i": 439,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "alta",
+  "title": "Resolução de BC encolheu a faixa de proteção dos rios, aponta o MP",
+  "description": "Inquérito civil apura a ilegalidade da Resolução 1, de fevereiro de 2022, que definiu faixas de área de preservação permanente com metragens distintas das impostas pelo Código Florestal, sem observar os requisitos legais. Caso em apuração."
+ },
+ {
+  "i": 440,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura omissão de BC na fiscalização de construções irregulares",
+  "description": "Inquérito civil apura a omissão do município na atividade fiscalizatória diante de uma construção irregular, e serve de procedimento macro para o fortalecimento do controle urbanístico na cidade. Caso em apuração."
+ },
+ {
+  "i": 441,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "alta",
+  "title": "Farmácia da UPA das Nações, em BC, ficaria sem farmacêutico",
+  "description": "Inquérito civil, aberto a partir de comunicação do Conselho Regional de Farmácia, apura a ausência de responsável técnico farmacêutico durante todo o horário de funcionamento da farmácia da Unidade de Pronto Atendimento das Nações. Caso em apuração."
+ },
+ {
+  "i": 442,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 443,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 444,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 445,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 446,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP arquiva suspeita de pagamento indevido levantada por vereador em BC",
+  "description": "O inquérito nasceu da representação de um ocupante de mandato eletivo à época, com a suspeita de pagamento indevido pelo município. O extrato publicado no Diário está truncado; o procedimento foi arquivado."
+ },
+ {
+  "i": 447,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "alta",
+  "title": "MP apura omissão de BC com o instituto de previdência dos servidores",
+  "description": "Inquérito civil apura possível omissão do município no cumprimento de obrigações junto ao Instituto de Previdência Social dos Servidores Públicos de Balneário Camboriú. Caso em apuração."
+ },
+ {
+  "i": 448,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 449,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 450,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura dinheiro público de BC em evento de caráter religioso",
+  "description": "Notícia de fato apura a regularidade da destinação de recursos públicos a evento de possível caráter religioso e a observância da isonomia na política municipal de patrocínio de eventos socioculturais. Caso em apuração."
+ },
+ {
+  "i": 451,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 452,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura obra de desassoreamento no Ribeirão do Kiko, em BC",
+  "description": "Inquérito civil apura a regularidade da obra de desassoreamento realizada no Ribeirão do Kiko, canal afluente do Rio Camboriú. O município e duas empresas figuram no procedimento."
+ },
+ {
+  "i": 453,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura empresa contratada para fazer auditoria no consórcio da AMFRI",
+  "description": "Inquérito civil apura a regularidade da contratação de uma empresa de assessoria e consultoria pelo consórcio intermunicipal de saúde da AMFRI, especificamente quanto à execução de funções típicas de auditoria e controle. Caso em apuração."
+ },
+ {
+  "i": 454,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 455,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 456,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 457,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "alta",
+  "title": "MP apura dano ao erário na compra de medalhas da fundação de esportes de BC",
+  "description": "Inquérito civil apura a eventual ocorrência de dano ao erário na aquisição, no pagamento, na distribuição e na destinação final de medalhas custeadas com recursos da Fundação Municipal de Esportes. Caso em apuração."
+ },
+ {
+  "i": 458,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 459,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 460,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura a macrodrenagem do Bairro dos Estados, em Balneário Camboriú",
+  "description": "Inquérito civil apura deficiências estruturais e de manutenção da macrodrenagem na bacia hidrográfica do Bairro dos Estados e avalia a adequação das políticas públicas municipais de drenagem. Caso em apuração."
+ },
+ {
+  "i": 461,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 462,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP examina decreto de BC sobre circulação editado em 2025",
+  "description": "Procedimento instaurado para apurar a constitucionalidade do Decreto municipal 12.527/2025, que alterou dispositivos de outro decreto do mesmo ano para dispor sobre circulação na cidade. Caso em apuração."
+ },
+ {
+  "i": 463,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 464,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 465,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 466,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura o funcionamento das juntas de recursos de multas de BC",
+  "description": "Procedimento instaurado para acompanhar e verificar a regularidade da organização, da composição e do funcionamento das Juntas Administrativas de Recursos de Infrações no município. Caso em apuração."
+ },
+ {
+  "i": 467,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 468,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura diárias pagas a servidores da fundação de esportes de BC",
+  "description": "Procedimento instaurado para apurar a regularidade na concessão e no pagamento de diárias aos servidores da Fundação Municipal de Esportes de Balneário Camboriú. Caso em apuração."
+ },
+ {
+  "i": 469,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura estrutura e condições de trabalho dos conselhos tutelares de BC",
+  "description": "Procedimento instaurado para apurar as condições de trabalho e a estrutura dos conselhos tutelares do município, com vistas à capacitação contínua dos conselheiros e à garantia de implementação das políticas previstas. Caso em apuração."
+ },
+ {
+  "i": 470,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 471,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura pagamento indevido de verbas a servidora de BC",
+  "description": "Inquérito civil apura os fatos que levaram ao pagamento indevido e à correlata percepção de rubricas remuneratórias por uma servidora pública municipal. Caso em apuração."
+ },
+ {
+  "i": 472,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 473,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 474,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 475,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 476,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 477,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 478,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 479,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 480,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 481,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP apurou falta de funcionários no CREAS de Balneário Camboriú",
+  "description": "O inquérito investigou a ausência de funcionários suficientes para o atendimento de famílias em situação de vulnerabilidade no Centro de Referência Especializado de Assistência Social. O extrato publicado está truncado; o caso foi arquivado."
+ },
+ {
+  "i": 482,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 483,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 484,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 485,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 486,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 487,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 488,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 489,
+  "tipo": "mp",
+  "keep": false
+ }
+]
