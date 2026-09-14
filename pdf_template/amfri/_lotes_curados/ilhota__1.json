@@ -1,0 +1,480 @@
+[
+ {
+  "i": 70,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura mudança no plano diretor de Ilhota feita sem conferência pública",
+  "description": "Inquérito civil aberto a partir de denúncia anônima para apurar irregularidades nas alterações do plano diretor promovidas pela gestão municipal, especialmente a falta das conferências municipais que deveriam discutir as mudanças com a população. Caso em apuração."
+ },
+ {
+  "i": 71,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 recomendação cumprida",
+  "severity": "media",
+  "title": "Ilhota acata recomendação do MP sobre uso repetido de contratações temporárias",
+  "description": "O inquérito apurou a prática reiterada de contratar servidores temporários sob a justificativa de excepcional interesse público, possivelmente sem os requisitos legais. A prefeitura acatou a recomendação do MP, que abriu procedimento administrativo para fiscalizar o cumprimento e arquivou o inquérito."
+ },
+ {
+  "i": 72,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 73,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP não encontra contaminação na água de abastecimento de Ilhota",
+  "description": "O inquérito ambiental apurou possível contaminação das águas de abastecimento público do município. Os dados analisados mostraram ausência de contaminação acima dos limites permitidos em lei, e o MP concluiu pela desnecessidade de prosseguir com a investigação."
+ },
+ {
+  "i": 74,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura falha no transporte escolar da Rua Bento Jacob de Oliveira, em Ilhota",
+  "description": "Notícia de fato instaurada para apurar suposta irregularidade que estaria prejudicando o transporte escolar na localidade da Rua Bento Jacob de Oliveira. O município figura no procedimento, que segue em apuração."
+ },
+ {
+  "i": 75,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP investiga doações de terras públicas de Ilhota autorizadas por leis municipais",
+  "description": "Inquérito civil apura supostas irregularidades na doação de terras públicas do município, envolvendo sete imóveis identificados por matrícula e os terrenos doados com base nas Leis municipais 1535/2009 e 1225/2004. Caso em apuração."
+ },
+ {
+  "i": 76,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 77,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP encerra apuração sobre a UBS Pedra de Amolar após reforma em Ilhota",
+  "description": "O inquérito apurou eventual precariedade na infraestrutura e nos serviços da Unidade Básica de Saúde Pedra de Amolar. O MP constatou que a equipe é condizente com a abrangência do serviço e que a reforma da unidade foi concluída em maio de 2024, sem irregularidades remanescentes. Caso arquivado."
+ },
+ {
+  "i": 78,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Ilhota cria o Parque Natural Municipal Morro do Baú e MP arquiva acompanhamento",
+  "description": "O inquérito acompanhava a criação do Parque Natural Municipal Morro do Baú. Ficou demonstrado que o município adotou as medidas administrativas necessárias e, sem ilícito ou irregularidade específica, o MP passou o acompanhamento para um procedimento administrativo. O arquivamento foi submetido ao Conselho Superior do MP."
+ },
+ {
+  "i": 79,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 80,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura irregularidades na UBS Central de Ilhota apontadas pela Vigilância",
+  "description": "Inquérito civil instaurado para apurar irregularidades verificadas pela Vigilância Municipal na Unidade Básica de Saúde Central de Ilhota em 7 de março de 2025, conforme notificação do próprio órgão. Caso em apuração."
+ },
+ {
+  "i": 81,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP cobra infraestrutura mínima em rua de Ilhota sem pavimento nem drenagem",
+  "description": "Inquérito civil apura irregularidades urbanísticas na Rua Apolinário Joaquim Teixeira, especialmente a falta de infraestrutura mínima da via pública. Caso em apuração."
+ },
+ {
+  "i": 82,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Creche Vó Varda deixa prédio improvisado em Ilhota e MP encerra o caso",
+  "description": "O inquérito apurou irregularidades no CEI Vó Varda. O local improvisado foi desativado e a creche passou a funcionar em prédio novo, com as irregularidades integralmente sanadas. O caso foi arquivado."
+ },
+ {
+  "i": 83,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Farmácia central de Ilhota corrige falhas no controle de medicamentos",
+  "description": "O inquérito apurou irregularidades no controle e na distribuição de medicamentos na Farmácia Central do município. Vistoria da Vigilância Sanitária constatou que as falhas foram integralmente sanadas e o caso foi arquivado."
+ },
+ {
+  "i": 84,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Posto de saúde André José Schmitt regulariza pendências sanitárias em Ilhota",
+  "description": "O inquérito apurou possíveis irregularidades sanitárias na Unidade Básica de Saúde André José Schmitt. As irregularidades foram integralmente sanadas pelo município e o procedimento foi arquivado."
+ },
+ {
+  "i": 85,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟠 ACNP firmado",
+  "severity": "media",
+  "title": "Acordo encerra caso de máquinas da Prefeitura de Ilhota usadas em terreno particular",
+  "description": "O inquérito apurou a prestação de serviço de maquinário público do município em um imóvel particular no Bairro Minas. O caso terminou com acordo de não persecução civil firmado com um dos investigados; o extrato publicado no Diário está truncado e não detalha as obrigações assumidas."
+ },
+ {
+  "i": 86,
+  "tipo": "mp",
+  "keep": true,
+  "status": "⚫ prescrito",
+  "severity": "media",
+  "title": "Caso de horas extras de servidoras da Saúde de Ilhota prescreve sem responsabilização",
+  "description": "O inquérito apurou o pagamento de horas extras a sete servidores municipais lotados na Secretaria de Saúde, ocupantes do cargo de auxiliar de serviços gerais. O MP não comprovou dolo, o eventual dano ao erário sequer ficou demonstrado e a ação de ressarcimento já havia prescrito. O órgão expediu recomendação de medidas administrativas de controle e abriu procedimento para acompanhar o cumprimento."
+ },
+ {
+  "i": 87,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura alvarás de construção dados sem vistoria em loteamento de Ilhota",
+  "description": "Inquérito civil investiga eventual irregularidade administrativa e urbanística na concessão de alvarás de construção em lotes do Loteamento Seu Leopoldo, sem que houvesse termo de verificação de conclusão de obras (TVO). O município, a empresa L3 Empreendimentos Imobiliários e dois particulares figuram no procedimento, que segue em apuração."
+ },
+ {
+  "i": 88,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 89,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 90,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 91,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 92,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 93,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 94,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 95,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 96,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 97,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 98,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 99,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 100,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 101,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 102,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Ilhota revoga lei que isentava empresa de impostos e MP arquiva o caso",
+  "description": "O inquérito questionava a Lei Complementar Municipal 1661/2011, que concedia isenção de tributos a uma empresa imobiliária sem prever compensação para a renúncia de receita. Com a revogação da lei pelo próprio município, o MP arquivou a investigação."
+ },
+ {
+  "i": 103,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 104,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 105,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 106,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura os motivos da proposta de mudança do Código Urbanístico de Ilhota",
+  "description": "Inquérito civil instaurado para apurar as razões que levaram à proposta de alteração do Código Urbanístico do município. O extrato publicado no Diário está truncado e não detalha o que se investiga. Caso em apuração."
+ },
+ {
+  "i": 107,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura falta constante de água em Ilhota",
+  "description": "Notícia de fato instaurada para apurar as circunstâncias da constante falta de abastecimento de água no município. Caso em apuração."
+ },
+ {
+  "i": 108,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 109,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 110,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Loteamento Primavera, no Centro de Ilhota, é pavimentado e MP arquiva o caso",
+  "description": "O inquérito apurou a possível ausência de infraestrutura no Loteamento Privamera, no Centro de Ilhota. A via pública foi pavimentada, a situação foi regularizada e o caso foi arquivado."
+ },
+ {
+  "i": 111,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 112,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 113,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 114,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 115,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 116,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 117,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura reajustes dados a empreiteiras em contratos de pavimentação de Ilhota",
+  "description": "Inquérito civil instaurado para apurar a regularidade dos reajustes concedidos a título de equilíbrio econômico-financeiro em contratos firmados pelo município com empreiteiras ao longo de 2022, para serviços de pavimentação. O extrato publicado está truncado. Caso em apuração."
+ },
+ {
+  "i": 118,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 119,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 120,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura superlotação no transporte escolar do Bairro Pocinho, em Ilhota",
+  "description": "Inquérito civil investiga a má qualidade do transporte escolar na linha que atende o Bairro Pocinho, com relatos de superlotação e ausência de monitores para acompanhar os alunos durante o trajeto. Caso em apuração."
+ },
+ {
+  "i": 121,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 122,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura se Ilhota deixou de oferecer transporte público entre os bairros",
+  "description": "Inquérito civil investiga possível omissão do município em ofertar transporte público dentro do próprio território, o chamado transporte interbairros. O procedimento nasceu da cisão de um inquérito da 4ª Promotoria de Justiça de Gaspar e segue em apuração."
+ },
+ {
+  "i": 123,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 124,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 125,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura se lei de Ilhota flexibilizou áreas de preservação além do permitido",
+  "description": "Inquérito civil apura eventual ilegalidade de lei municipal de Ilhota em face da Lei federal 14.285/2021, especialmente quanto à flexibilização das Áreas de Preservação Permanente em áreas urbanas consolidadas. Caso em apuração."
+ },
+ {
+  "i": 126,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura nomeação de coordenadora pedagógica fora do quadro do magistério em Ilhota",
+  "description": "Inquérito civil investiga a nomeação de uma servidora para o cargo de coordenadora pedagógica do município em suposto desacordo com a Lei Complementar municipal 47, que exige que o cargo seja ocupado por titular do quadro do magistério público. Caso em apuração."
+ },
+ {
+  "i": 127,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP arquiva cobrança por regras de uso do solo em áreas alagáveis de Ilhota",
+  "description": "O inquérito apurou a necessidade de o município adotar soluções para a intervenção na Bacia Hidrográfica do Rio Itajaí-Açu e regulamentar o uso do solo em áreas alagadiças e sujeitas a inundação. Feitas as diligências, o MP não constatou lesão ou ameaça de lesão a apurar naquele momento. O arquivamento foi submetido ao Conselho Superior do MP."
+ },
+ {
+  "i": 128,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Ilhota inclui área do Bairro Ilhotinha em regularização fundiária e MP arquiva o caso",
+  "description": "O inquérito apurou parcelamento irregular do solo em imóvel na Rua Nilson Lessa, Bairro Ilhotinha. Provocado pelo MP, o município adotou as medidas administrativas necessárias e incluiu as áreas em processo de REURB, que segue em andamento e será acompanhado por procedimento administrativo. O arquivamento foi submetido ao Conselho Superior do MP."
+ },
+ {
+  "i": 129,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP arquiva caso da precariedade do ônibus entre Ilhota, Gaspar e Blumenau",
+  "description": "O inquérito apurou a precariedade do transporte intermunicipal entre Ilhota, Gaspar e Blumenau prestado pela antiga concessionária. O MP registrou que as denúncias se referem ao período da empresa anterior, que o tema também tramita em promotoria com atribuição na área do consumidor e que não há reclamações desde que a nova empresa assumiu o serviço. Sem fundamento para ação civil pública, o caso foi arquivado."
+ },
+ {
+  "i": 130,
+  "tipo": "mp",
+  "keep": true,
+  "status": "❔ status indef.",
+  "severity": "media",
+  "title": "Lixo a céu aberto na garagem da Prefeitura de Ilhota vira caso criminal",
+  "description": "O inquérito apurou o transbordo de lixo no pátio da garagem da Prefeitura de Ilhota, depositado a céu aberto e sem revestimento do solo. Os resíduos encontrados foram classificados como não perigosos e o caso seguiu para responsabilização na esfera penal, por termo circunstanciado. O extrato publicado no Diário está truncado e não informa o desfecho cível."
+ },
+ {
+  "i": 0,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 1,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🔴 multa aplicada",
+  "severity": "alta",
+  "title": "TCE multa prefeito de Ilhota em R$ 5 mil por não publicar gastos no portal da transparência",
+  "description": "Em representação sobre o envio de documentação contábil à Câmara, o Pleno do TCE aplicou multa de R$ 5.000,00 ao prefeito Érico de Oliveira por descumprir determinação repetida em três decisões anteriores. O tribunal reiterou a ordem para que a prefeitura publique, de forma clara e acessível no portal da transparência, as informações pormenorizadas da execução orçamentária e financeira, sob pena de multa diária de R$ 500,00."
+ },
+ {
+  "i": 2,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 3,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟠 cautelar / sustação",
+  "severity": "media",
+  "title": "Ilhota anula licitação de R$ 260 mil para advocacia e TCE arquiva o processo",
+  "description": "O TCE examinava a Tomada de Preços 07/2022, de R$ 260.000,04, para contratar serviços de advocacia e consultoria jurídica. O Executivo municipal anulou o edital durante a tramitação, o que fez o processo perder o objeto, e o relator determinou o arquivamento sem julgamento do mérito."
+ },
+ {
+  "i": 4,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🔴 multa aplicada",
+  "severity": "alta",
+  "title": "TCE multa prefeito de Ilhota em R$ 8,6 mil por descumprir de novo a Lei de Responsabilidade Fiscal",
+  "description": "O Pleno do TCE aplicou multa de R$ 8.600,12 ao prefeito Érico de Oliveira por reincidência no descumprimento de determinações da Decisão Plenária 731/2019, já reiteradas em 2024. O tribunal fixou novo prazo de 30 dias para a prefeitura comprovar o cumprimento das providências, sob pena de multa diária. O recurso contra a decisão foi negado pelo próprio Pleno em setembro de 2025, e a multa foi mantida."
+ },
+ {
+  "i": 5,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 6,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🔴 apontou irregularidade",
+  "severity": "alta",
+  "title": "TCE cobra de Ilhota R$ 574 mil em impostos isentados indevidamente a empresa",
+  "description": "Em representação nascida de comunicação à Ouvidoria, o TCE deu 30 dias para o prefeito Érico de Oliveira comprovar a arrecadação de tributos lançados contra a Delta Park Sul Empreendimentos — empresa indicada pela Pandini Empreendimentos para gozar da isenção da Lei municipal 1.661/2011 — e apresentar a memória de cálculo dos R$ 574.165,95 que o tribunal considera indevidamente isentados. O relatório técnico apontou indícios de omissão no lançamento de tributos e risco de decadência, e alertou que o descumprimento pode gerar multa e julgamento irregular das contas."
+ },
+ {
+  "i": 7,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 8,
+  "tipo": "tce",
+  "keep": false
+ }
+]

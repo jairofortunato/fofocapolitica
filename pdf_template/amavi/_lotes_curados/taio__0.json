@@ -1,0 +1,464 @@
+[
+ {
+  "i": 0,
+  "tipo": "mp",
+  "keep": true,
+  "status": "⚫ prescrito",
+  "severity": "alta",
+  "title": "Caso de suposto direcionamento em licitação de Taió e Salete prescreve",
+  "description": "O inquérito apurou as licitações realizadas pelos municípios de Taió e Salete para contratar assessoria técnica em gerenciamento de projetos e convênios, sob suspeita de direcionamento e frustração do caráter competitivo. O extrato publicado no Diário está truncado; o procedimento foi encerrado com o reconhecimento de prescrição, sem responsabilização."
+ },
+ {
+  "i": 1,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP descarta fraude em licitação de Taió vencida por namorado de vereadora",
+  "description": "A notícia de fato apurava possível fraude na Licitação 10/2023 de Taió, porque um dos vencedores mantinha relacionamento amoroso com uma vereadora do município. O MP examinou o processo licitatório em toda a sua extensão e não verificou irregularidade nem ato de improbidade: o mero relacionamento, por si só, não caracteriza ilícito."
+ },
+ {
+  "i": 2,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Laudo apontou indício de superfaturamento em dedetização da Câmara de Taió, mas MP arquivou",
+  "description": "O inquérito apurou possível superfaturamento na compra de itens e na contratação de serviço de dedetização pelo então presidente da Câmara de Vereadores de Taió. O auxílio técnico chegou a apontar indicativos de superfaturamento; o extrato publicado no Diário está truncado nas razões, e o MP promoveu o arquivamento."
+ },
+ {
+  "i": 3,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP não comprova pagamento irregular a médico não especialista em Taió",
+  "description": "O inquérito apurou a suposta ilegalidade nos pagamentos feitos a um médico não especialista pelo município. A irregularidade não foi comprovada, tampouco a não prestação dos serviços, e o MP concluiu pela ausência de dolo e de elementos de improbidade. Caso arquivado."
+ },
+ {
+  "i": 4,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "alta",
+  "title": "Contador da Câmara de Taió teria aumentado o próprio salário na folha",
+  "description": "Inquérito civil apura suposto ato de improbidade administrativa do contador da Câmara de Vereadores de Taió, que teria inserido valores maiores na própria folha de pagamento sem as formalidades cabíveis. Caso em apuração."
+ },
+ {
+  "i": 5,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 6,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 7,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 8,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟠 TAC firmado",
+  "severity": "media",
+  "title": "Câmara de Taió assina acordo com o MP sobre falhas no portal da transparência",
+  "description": "O inquérito apurou irregularidades no site oficial e no portal da transparência do município e da Câmara de Vereadores de Taió. O caso terminou com termo de ajustamento de conduta firmado com a presidência da Casa Legislativa e a abertura de procedimento para acompanhar o cumprimento."
+ },
+ {
+  "i": 9,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 10,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 11,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 12,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 13,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 14,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 15,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 16,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "alta",
+  "title": "MP apura empréstimo de máquinas e cascalho a particulares em Taió sem critério",
+  "description": "Inquérito civil apura a regularidade da política de prestação de serviços de máquinas e fornecimento de insumos como pedra e cascalho a particulares em Taió, investigando a ausência de critérios objetivos e cronológicos de atendimento, a falta de transparência nos registros e a eventual renúncia de receita pública pela não cobrança de preços. Caso em apuração."
+ },
+ {
+  "i": 17,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 18,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP acompanha as regras de parcelamento do solo urbano em Taió",
+  "description": "Procedimento instaurado para acompanhar a estruturação da política de direito urbanístico do município, em especial o regramento do parcelamento do solo urbano. O município e a Câmara de Vereadores figuram no procedimento."
+ },
+ {
+  "i": 19,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 20,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura motoristas de Taió sem função fixa e sem curso na área da saúde",
+  "description": "Inquérito civil instaurado para apurar possível desvio de função dos motoristas concursados e celetistas do município, pela ausência de função fixa e pela falta de cursos de formação e reciclagem específicos para os motoristas da área da saúde. Caso em apuração."
+ },
+ {
+  "i": 21,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 22,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura gratificações pagas pelo presidente da Câmara de Taió",
+  "description": "Inquérito civil instaurado para apurar irregularidade na concessão de gratificações pelo presidente da Câmara de Vereadores de Taió a quatro servidores efetivos da Casa, por integrarem comissões. Caso em apuração."
+ },
+ {
+  "i": 23,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 24,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP não vê promoção pessoal nas redes sociais da Prefeitura de Taió",
+  "description": "A notícia de fato apurava o uso indevido das redes sociais oficiais de Taió para promoção pessoal do prefeito, do vice e do secretário de Planejamento. O noticiante apresentou fatos rasos e publicações esparsas; após a análise, o MP não constatou irregularidade e indeferiu o expediente."
+ },
+ {
+  "i": 25,
+  "tipo": "mp",
+  "keep": true,
+  "status": "❔ status indef.",
+  "severity": "media",
+  "title": "Gratificação a servidores da Câmara de Taió foi paga sem regra que fixasse valores",
+  "description": "O inquérito apurou a concessão de gratificação, por portaria, a servidores efetivos da Câmara de Vereadores pela participação em comissões. O MP registrou a ausência de regramento específico sobre os valores; o extrato publicado no Diário está truncado e não informa o desfecho."
+ },
+ {
+  "i": 26,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 27,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 28,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 29,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 30,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 31,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "alta",
+  "title": "Conselho de Saúde de Taió denuncia retirada de pacientes da fila do SUS",
+  "description": "Inquérito civil apura irregularidades na saúde pública de Taió em 2020, apontadas pelo Conselho Municipal de Saúde: retirada irregular de pacientes do SISREG para agendar consultas e exames pelo consórcio intermunicipal e aumento expressivo de outros indicadores. O extrato publicado no Diário está truncado na lista completa. Caso em apuração."
+ },
+ {
+  "i": 32,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 33,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 34,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura recusa de Taió em contratar professores por causa do período eleitoral",
+  "description": "Inquérito civil instaurado para apurar a recusa do município em contratar professores para a rede municipal de ensino, sob a justificativa do período eleitoral. A Secretaria de Educação figura no procedimento."
+ },
+ {
+  "i": 35,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 36,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 37,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 38,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 39,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP cobra de Taió a correção de falhas no sistema municipal de meio ambiente",
+  "description": "Inquérito civil instaurado para averiguar as medidas adotadas pelo município para sanar as irregularidades do Sistema Municipal de Meio Ambiente (SISMUMA), apontadas em relatório do centro de apoio ambiental do MP. Caso em apuração."
+ },
+ {
+  "i": 40,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "alta",
+  "title": "Taió interrompeu fisioterapia, psicologia e fonoaudiologia, aponta denúncia ao MP",
+  "description": "Inquérito civil instaurado a partir de denúncia anônima para apurar a responsabilidade do município pela interrupção e pela deficiência dos serviços de fisioterapia, psicologia e fonoaudiologia, e para fiscalizar a regularização do atendimento com a nomeação de aprovados no Concurso Público 02/2025 ou outra forma de contratação, absorvendo a demanda reprimida. Caso em apuração."
+ },
+ {
+  "i": 41,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura o destino das áreas verdes de loteamentos de Taió",
+  "description": "Inquérito civil instaurado para apurar supostas irregularidades em áreas verdes de loteamentos do município, a partir do Projeto Área Verde do Alto Vale do Itajaí. Caso em apuração."
+ },
+ {
+  "i": 42,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 43,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 44,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 45,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 46,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "Servidores de Taió estariam proibidos de trabalhar por motivo político",
+  "description": "Inquérito civil instaurado para apurar possíveis irregularidades na conduta do secretário de Obras de Taió em relação a dois servidores públicos que, segundo a denúncia, estariam sendo impedidos de exercer seus cargos por motivos políticos. Caso em apuração."
+ },
+ {
+  "i": 47,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura permissão dada por Taió a empresa para instalar placas e lixeiras",
+  "description": "Inquérito civil instaurado para apurar possíveis irregularidades na permissão concedida pelo município a uma empresa privada para instalar placas de identificação de ruas e lixeiras. Caso em apuração."
+ },
+ {
+  "i": 48,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 49,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura o contrato da coleta e triagem do lixo de Taió",
+  "description": "Inquérito civil instaurado para averiguar irregularidades no processo de coleta, triagem e destinação do lixo no município, decorrentes do Contrato 32/2020 firmado com uma associação de recicladores. Caso em apuração."
+ },
+ {
+  "i": 50,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "alta",
+  "title": "Taió teria se recusado a dar posse a conselheiras tutelares eleitas",
+  "description": "Inquérito civil instaurado para apurar eventual irregularidade do município diante da recusa em dar posse às conselheiras tutelares eleitas na eleição suplementar de 2024. Caso em apuração."
+ },
+ {
+  "i": 51,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Conselho Tutelar de Taió regulariza funcionamento e MP encerra apuração",
+  "description": "O inquérito acompanhou o cumprimento das regras do Estatuto da Criança e do Adolescente e do CONANDA pelo Conselho Tutelar e pelo Conselho Municipal dos Direitos da Criança e do Adolescente de Taió. O MP constatou o funcionamento adequado dos conselhos e as irregularidades sanadas, e arquivou o caso."
+ },
+ {
+  "i": 52,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Abrigo de Taió corrige tomadas sem proteção e janelas sem trancas",
+  "description": "A notícia de fato apurava irregularidades estruturais no Abrigo Institucional de Taió, com tomadas sem proteção para crianças e janelas sem trancas e sem cortinas. Após visita ao local e ofícios do MP, o município solucionou as irregularidades e o expediente foi indeferido."
+ },
+ {
+  "i": 53,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "alta",
+  "title": "Coordenadora de abrigo de Taió é acusada de omitir importunação sexual entre acolhidos",
+  "description": "O inquérito apurou a conduta da coordenadora do abrigo institucional Casa Lar de Taió: tratamento diferenciado aos acolhidos e desídia em comunicar a ocorrência de ato infracional, depois de acolhidas sofrerem importunação sexual praticada por outro acolhido. O extrato publicado no Diário está truncado no desfecho e registra o ajuizamento de medida judicial."
+ },
+ {
+  "i": 54,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 55,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 56,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura como Taió conduziu dois processos disciplinares contra servidoras",
+  "description": "Inquérito civil instaurado para apurar possíveis irregularidades na condução de dois processos administrativos disciplinares por membros de comissão processante do município. Caso em apuração."
+ },
+ {
+  "i": 57,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP acompanha as metas do Plano Municipal de Educação de Taió",
+  "description": "Procedimento instaurado para acompanhar e fiscalizar as ações do município para cumprir as metas definidas na lei que instituiu o Plano Municipal de Educação, durante o ciclo previsto na norma."
+ },
+ {
+  "i": 58,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 59,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 60,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 61,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 62,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 63,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 64,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 65,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 66,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP cobra de Taió a estrutura do Conselho Tutelar e do conselho da criança",
+  "description": "Inquérito civil do programa Qualifica-CT apura o cumprimento, pelo município, pelo Conselho Tutelar e pelo Conselho Municipal dos Direitos da Criança e do Adolescente de Taió, das obrigações do Estatuto da Criança e do Adolescente e das resoluções do CONANDA. Caso em apuração."
+ },
+ {
+  "i": 67,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 68,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 69,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura pagamentos de Taió a clínica por consultas de médico não especialista",
+  "description": "Inquérito civil instaurado para apurar a legalidade dos valores pagos pelo município a uma empresa de serviços hospitalares por consultas realizadas por médico não especialista. Caso em apuração."
+ }
+]

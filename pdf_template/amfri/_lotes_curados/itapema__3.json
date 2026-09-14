@@ -1,0 +1,468 @@
+[
+ {
+  "i": 210,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 211,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 212,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 213,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 214,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 215,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura caminhão da frota de Itapema usado em serviço particular",
+  "description": "Notícia de fato instaurada para apurar a utilização de um caminhão da frota oficial do município em atividade particular. Caso em apuração."
+ },
+ {
+  "i": 216,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 217,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 218,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP acompanha o monitoramento eletrônico das ruas de Itapema",
+  "description": "Inquérito civil instaurado para verificar e acompanhar o serviço de monitoramento eletrônico prestado nas vias públicas do município, com a participação da Polícia Militar, da Polícia Civil e da Guarda Municipal."
+ },
+ {
+  "i": 219,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "alta",
+  "title": "Motolâncias compradas pela Prefeitura de Itapema não estariam sendo usadas",
+  "description": "Notícia de fato instaurada para apurar a ausência de utilização das \"motolâncias\" — motocicletas de atendimento de urgência — adquiridas pelo Poder Executivo Municipal de Itapema. Caso em apuração."
+ },
+ {
+  "i": 220,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 221,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP questiona lei de 1989 que rege as permissões de táxi em Itapema",
+  "description": "Inquérito civil instaurado a partir de representação de uma ONG para apurar a incompatibilidade da Lei municipal 412/89 com os princípios da proporcionalidade, isonomia, impessoalidade e eficiência, considerando que a exploração do serviço de táxi deve ser ato personalíssimo e intransferível. Caso em apuração."
+ },
+ {
+  "i": 222,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "alta",
+  "title": "Servidores de Itapema teriam derrubado cerca e aterrado área verde de loteamento",
+  "description": "Notícia de fato instaurada para apurar denúncia de que servidores do Poder Executivo derrubaram a cerca de proteção e invadiram a área verde do loteamento Jardim Campo Verde, no Sertão do Trombudo, iniciando um aterro para construção de residências no local. Caso em apuração."
+ },
+ {
+  "i": 223,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura frota da Saúde de Itapema usada para fim particular",
+  "description": "Notícia de fato instaurada para apurar o suposto uso indevido da frota da Secretaria de Saúde do município com finalidade particular, em agosto de 2023. Caso em apuração."
+ },
+ {
+  "i": 224,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP e Procon fiscalizam nova lei estadual nos estabelecimentos de Itapema",
+  "description": "Procedimento instaurado para acompanhar e fiscalizar, com o auxílio do Procon municipal, a aplicação da Lei estadual 19.051/2024 nos estabelecimentos públicos e privados de Itapema."
+ },
+ {
+  "i": 225,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 226,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 227,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 228,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP examina se lei aprovada pela Câmara de Itapema em 2024 é constitucional",
+  "description": "Inquérito civil instaurado a partir de denúncia anônima para apurar a constitucionalidade da Lei Ordinária municipal 4.522/2024, de autoria do Poder Legislativo de Itapema. Caso em apuração."
+ },
+ {
+  "i": 229,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura negligência de agente do SAMU de Itapema",
+  "description": "Notícia de fato instaurada para apurar eventual negligência nos atendimentos prestados por um profissional do SAMU de Itapema. Caso em apuração."
+ },
+ {
+  "i": 230,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 231,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "alta",
+  "title": "MP apura possível crime em licitação de Itapema de 2024",
+  "description": "Notícia de fato instaurada para apurar a possível ocorrência de delito previsto na Lei de Licitações no Processo Licitatório 039/2024, Pregão Eletrônico 07.018.2024 do município. Caso em apuração."
+ },
+ {
+  "i": 232,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP acompanha as melhorias na iluminação da orla de Itapema",
+  "description": "Procedimento instaurado para acompanhar as melhorias na iluminação pública da orla das praias do município."
+ },
+ {
+  "i": 233,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 234,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 235,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 236,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP acompanha o cumprimento de lei municipal de 2023 em Itapema",
+  "description": "Procedimento instaurado para acompanhar o cumprimento da Lei Ordinária municipal 4.456/2023 e do Decreto 95/2023 no âmbito do município."
+ },
+ {
+  "i": 237,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 238,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP desmembra inquérito sobre mobilidade urbana em Itapema",
+  "description": "O inquérito apurava o desempenho do Executivo quanto ao ordenamento do tráfego, da mobilidade e da acessibilidade em Itapema. O MP arquivou o procedimento diante da necessidade de desmembrar as distintas notícias de fato que o compunham, cuja apuração conjunta poderia prejudicar a atuação do órgão."
+ },
+ {
+  "i": 239,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "Caminhões de fábrica de tubos apertam rua estreita no Tabuleiro das Oliveiras",
+  "description": "Notícia de fato instaurada para apurar a regularidade do tráfego na Rua 606, no Bairro Tabuleiro das Oliveiras, onde há intenso trânsito de caminhões e máquinas por causa de uma fábrica de tubos no fim da via, considerada estreita demais para comportar esse movimento. Caso em apuração."
+ },
+ {
+  "i": 240,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 241,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 242,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura omissão diante de danos ambientais no Rio Mata Camboriú, em Itapema",
+  "description": "Notícia de fato instaurada para apurar possível inércia e omissão dos órgãos públicos diante de denúncias de danos ambientais nas margens do Rio Mata Camboriú, no Bairro Ilhota, com risco de agravar enchentes. Caso em apuração."
+ },
+ {
+  "i": 243,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 244,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 245,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP não vê omissão de Itapema no atendimento a crianças autistas",
+  "description": "O inquérito apurou a deficiência nos atendimentos a crianças e adolescentes com Transtorno do Espectro Autista, em possível descumprimento da Política Nacional de Proteção dos Direitos dessas pessoas. O MP concluiu pela inexistência de omissão do município e arquivou o procedimento."
+ },
+ {
+  "i": 246,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP acompanha a criação de residência terapêutica em Itapema",
+  "description": "Procedimento instaurado para acompanhar a eventual implantação de vagas em Serviço Residencial Terapêutico, equipamento da Rede de Atenção Psicossocial, diante da possível existência de pacientes com vínculo com o município que precisem do serviço."
+ },
+ {
+  "i": 247,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP fiscaliza o programa de humanização do hospital de Itapema",
+  "description": "Procedimento instaurado para acompanhar e fiscalizar o Programa de Humanização do Atendimento Hospitalar no Hospital Santo Antônio, em especial para verificar se houve nomeação para os cargos criados e se eles vêm sendo exercidos em benefício do hospital."
+ },
+ {
+  "i": 248,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 249,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura calçadas e tráfego de rua no Tabuleiro das Oliveiras, em Itapema",
+  "description": "Inquérito civil instaurado para apurar a regularidade do tráfego e a adequação das calçadas da Rua 606, no Bairro Tabuleiro das Oliveiras, diante dos riscos à segurança e à acessibilidade dos pedestres, e a efetividade do poder de polícia exercido pelo município. Caso em apuração."
+ },
+ {
+  "i": 250,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 251,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 recomendação cumprida",
+  "severity": "media",
+  "title": "Itapema acata recomendação do MP sobre a exploração do serviço de táxi",
+  "description": "O inquérito, aberto a partir de representação de uma ONG, questionava a lei municipal que rege as permissões de táxi. O MP expediu recomendação ao município, que a acatou, e o inquérito foi arquivado."
+ },
+ {
+  "i": 252,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura descumprimento da Lei de Acesso à Informação em Itapema",
+  "description": "Notícia de fato instaurada para apurar possível descumprimento da Lei de Acesso à Informação no âmbito do Município de Itapema. Caso em apuração."
+ },
+ {
+  "i": 253,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura omissão no chamamento de PcD em processo seletivo de Itapema",
+  "description": "Notícia de fato instaurada para apurar a suposta omissão do município quanto ao chamamento de pessoa com deficiência no Processo Seletivo 0016/2023, para o cargo de agente administrativo. Caso em apuração."
+ },
+ {
+  "i": 254,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 255,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 recomendação cumprida",
+  "severity": "media",
+  "title": "Itapema acata recomendação do MP e caso de 2016 é arquivado",
+  "description": "O MP expediu a Recomendação 0007/2025 ao Município de Itapema num inquérito aberto em 2016. O município acatou a recomendação e o procedimento foi arquivado. O extrato publicado no Diário não detalha o objeto."
+ },
+ {
+  "i": 256,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP acompanha processo disciplinar contra servidora em Itapema",
+  "description": "Procedimento instaurado para acompanhar o andamento de processo administrativo disciplinar relacionado a uma servidora do município. Caso em acompanhamento."
+ },
+ {
+  "i": 257,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 258,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "Cadeirantes não conseguem atravessar a ponte do Rio Perequê, em Itapema",
+  "description": "Inquérito civil instaurado para apurar a falta de acessibilidade para pessoas com deficiência física, em especial cadeirantes, na travessia da ponte do Rio Perequê, cuja inclinação é elevada. Caso em apuração."
+ },
+ {
+  "i": 259,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 260,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP acompanha a criação da Controladoria-Geral de Itapema",
+  "description": "Procedimento instaurado para acompanhar o encaminhamento à Câmara do projeto de lei que cria, estrutura e organiza o funcionamento da Controladoria-Geral do Município de Itapema."
+ },
+ {
+  "i": 261,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 262,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura falta de calçamento entre duas ruas da Meia Praia, em Itapema",
+  "description": "Procedimento instaurado para apurar a inexistência de calçamento entre as Ruas 298 e 300, na Meia Praia. Caso em apuração."
+ },
+ {
+  "i": 263,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 264,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP volta a apurar descumprimento da Lei de Acesso à Informação em Itapema",
+  "description": "Inquérito civil instaurado para apurar suposto descumprimento da Lei de Acesso à Informação pelo Município de Itapema. Caso em apuração."
+ },
+ {
+  "i": 265,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura a segurança de pedestres na ponte do Perequê, em Itapema",
+  "description": "Inquérito civil instaurado para apurar a segurança dos transeuntes na Ponte Perequê-Itapema. Caso em apuração."
+ },
+ {
+  "i": 266,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 267,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 268,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 269,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 270,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 271,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 272,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 273,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 274,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 275,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 276,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 277,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 278,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 279,
+  "tipo": "mp",
+  "keep": false
+ }
+]

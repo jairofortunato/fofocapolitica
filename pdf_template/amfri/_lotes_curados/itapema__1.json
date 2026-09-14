@@ -1,0 +1,504 @@
+[
+ {
+  "i": 70,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 71,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura suspensão de concursos de Itapema sem publicidade",
+  "description": "Inquérito civil instaurado para apurar possível irregularidade na falta de publicidade das suspensões de concursos públicos já homologados pelo município. Caso em apuração."
+ },
+ {
+  "i": 72,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 73,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 74,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Itapema cria conselho dos direitos da pessoa com deficiência após cobrança do MP",
+  "description": "O inquérito tratava da criação do Conselho Municipal dos Direitos da Pessoa com Deficiência. A irregularidade foi suprida e o MP arquivou o procedimento."
+ },
+ {
+  "i": 75,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura irregularidades nos CRAS de Morretes e Casa Branca, em Itapema",
+  "description": "Inquérito civil instaurado a partir de representação do Conselho Municipal de Assistência Social para apurar irregularidades nos Centros de Referência de Assistência Social dos bairros Morretes e Casa Branca. Caso em apuração."
+ },
+ {
+  "i": 76,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura gestão e estrutura do serviço de abordagem social de Itapema",
+  "description": "Inquérito civil instaurado para apurar irregularidades na gestão e na estrutura do Serviço Especializado de Abordagem Social (SEAS) de Itapema, que atende pessoas em situação de rua. Caso em apuração."
+ },
+ {
+  "i": 77,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Itapema corrige a lei do conselho de assistência social e MP arquiva o caso",
+  "description": "O inquérito apontou irregularidades na lei que criou o Conselho Municipal de Assistência Social de Itapema. As falhas foram supridas pela Lei municipal 4.197/2021 e o procedimento foi arquivado."
+ },
+ {
+  "i": 78,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 79,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 80,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 81,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 82,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 83,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 84,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 85,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 86,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 87,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 88,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 89,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 90,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🔴 ACP ajuizada",
+  "severity": "alta",
+  "title": "MP processa por construções irregulares dentro de unidade de conservação de Itapema",
+  "description": "O inquérito apurou a existência de construções irregulares no interior da Unidade de Conservação Refúgio da Vida Silvestre, em Itapema. O MP ajuizou ação civil pública. A Fundação Ambiental Área Costeira e o município figuram no procedimento; a ação corre na Justiça."
+ },
+ {
+  "i": 91,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura funcionamento das duchas da orla de Itapema",
+  "description": "Inquérito civil instaurado para apurar possíveis irregularidades no funcionamento das duchas instaladas na orla das praias de Itapema. O município e a empresa responsável figuram no procedimento."
+ },
+ {
+  "i": 92,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 93,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 94,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "Obra de ponte sobre o Rio Perequê causaria prejuízo a moradores de Itapema",
+  "description": "Inquérito civil instaurado para apurar possível irregularidade na construção de uma ponte sobre o Rio Perequê, já que a empresa contratada pelo município estaria causando prejuízos aos moradores de uma residência vizinha à obra. Caso em apuração."
+ },
+ {
+  "i": 95,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura corte de cinco pinheiros em calçada do Centro de Itapema",
+  "description": "Notícia de fato instaurada para apurar eventual dano ambiental ou urbanístico na retirada de cinco pinheiros da calçada da Avenida Nereu Ramos, no Centro. A Secretaria de Obras do município figura no procedimento."
+ },
+ {
+  "i": 96,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura balneabilidade de trecho da praia de Itapema",
+  "description": "Notícia de fato instaurada para apurar a condição de balneabilidade do Ponto 5, na Rua 205, depois de coleta feita pelo Instituto do Meio Ambiente de Santa Catarina. A concessionária de água e o município figuram no procedimento."
+ },
+ {
+  "i": 97,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 98,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura irregularidade na construção do molhe da praia do Centro de Itapema",
+  "description": "Inquérito civil instaurado a partir de denúncia anônima para apurar possível irregularidade na construção do molhe na praia do Centro de Itapema. Caso em apuração."
+ },
+ {
+  "i": 99,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura contratação de empresa de comunicação pela Prefeitura de Itapema",
+  "description": "Inquérito civil instaurado para apurar possível irregularidade na contratação da empresa Ômega Comunicações pelo Poder Executivo de Itapema. Caso em apuração."
+ },
+ {
+  "i": 100,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 101,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP acompanha a implantação do estacionamento rotativo pago em Itapema",
+  "description": "Procedimento instaurado nas áreas de consumidor, segurança pública, cidadania e meio ambiente para coletar informações e acompanhar a implantação do estacionamento rotativo controlado pago na comarca de Itapema."
+ },
+ {
+  "i": 102,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura critérios para placas publicitárias nas ruas de Itapema",
+  "description": "Notícia de fato instaurada nas áreas de moralidade administrativa e meio ambiente para apurar o excesso de placas publicitárias em determinadas ruas do município, a ausência delas em outras vias e os critérios usados para a afixação."
+ },
+ {
+  "i": 103,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP acompanha as obras do píer turístico da foz do Rio Perequê, em Itapema",
+  "description": "Procedimento instaurado para acompanhar a execução das obras do Píer Turístico da Foz do Rio Perequê. O município, a Fundação Ambiental Área Costeira e a empresa responsável figuram no procedimento."
+ },
+ {
+  "i": 104,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura contrato de Itapema com empresa de tecnologia urbana",
+  "description": "Notícia de fato instaurada, no âmbito da moralidade administrativa, para apurar suposta irregularidade no Contrato 15/2023 firmado pelo município com uma empresa integradora e de consultoria em cidades inteligentes. Caso em apuração."
+ },
+ {
+  "i": 105,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "Fundação ambiental de Itapema aponta esgoto a céu aberto e loteamento irregular",
+  "description": "Notícia de fato instaurada a partir de ofício da Fundação Ambiental Área Costeira de Itapema, que relatou supressão de vegetação, depósito irregular de resíduos, lançamento de esgoto a céu aberto, ocupação de áreas de preservação e parcelamento irregular do solo em determinadas ruas do município. Caso em apuração."
+ },
+ {
+  "i": 106,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 107,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura habite-se de condomínio de quatro torres no Alto São Bento, em Itapema",
+  "description": "Notícia de fato instaurada para apurar eventual irregularidade urbanística na concessão — ou na ausência — do habite-se do Condomínio Vista do Atlântico, de quatro torres, no Bairro Alto São Bento. O município e a construtora figuram no procedimento."
+ },
+ {
+  "i": 108,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 109,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 110,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura chamamento público de Itapema para habitação em área pública",
+  "description": "Notícia de fato instaurada para apurar suposta irregularidade na condução do chamamento público lançado pelo município para selecionar construtoras que desenvolvam e implantem um empreendimento habitacional em área pública. Caso em apuração."
+ },
+ {
+  "i": 111,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 112,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "CREAS de Itapema regulariza estrutura e pessoal após inquérito do MP",
+  "description": "O inquérito apurou deficiências na estrutura física e de pessoal do CREAS de Itapema, a partir de representação de sete servidoras. As irregularidades foram supridas e o procedimento foi arquivado."
+ },
+ {
+  "i": 113,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "Conselho de Farmácia aponta irregularidades nas farmácias públicas de Itapema",
+  "description": "Inquérito civil instaurado para apurar irregularidades noticiadas pelo Conselho Regional de Farmácia nas farmácias públicas do município. Caso em apuração."
+ },
+ {
+  "i": 114,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura contratação de empresa de ônibus por pregão em Itapema",
+  "description": "Notícia de fato instaurada, a partir de representação de outra empresa do setor, para apurar supostas irregularidades na contratação da Expresso Presidente pelo Pregão Eletrônico 07.014.2024 do Poder Executivo de Itapema. Caso em apuração."
+ },
+ {
+  "i": 115,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 116,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP não encontra irregularidade na concessão do serviço de acolhimento de Itapema",
+  "description": "O inquérito examinou o processo de concessão do serviço de acolhimento de crianças e adolescentes no município. Nenhuma irregularidade foi constatada e o procedimento foi arquivado."
+ },
+ {
+  "i": 117,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Itapema corrige problemas estruturais em unidade básica de saúde",
+  "description": "O inquérito apurou problemas estruturais em uma Unidade Básica de Saúde do município. A irregularidade foi suprida e o caso foi arquivado."
+ },
+ {
+  "i": 118,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura falta de acessibilidade em rua da Meia Praia, em Itapema",
+  "description": "Notícia de fato instaurada para apurar suposta irregularidade urbanística na Rua 304, na Meia Praia, quanto à acessibilidade do local. Caso em apuração."
+ },
+ {
+  "i": 119,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "alta",
+  "title": "MP apura troca de especialistas da saúde por comissionados no hospital de Itapema",
+  "description": "Notícia de fato instaurada para apurar a suposta substituição de profissionais especializados da área da saúde por ocupantes de cargos comissionados, colocando em funções não essenciais ao atendimento pessoas sem relação com a pasta, no hospital municipal de Itapema. Caso em apuração."
+ },
+ {
+  "i": 120,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura emissão de alvarás para ambulantes em Itapema",
+  "description": "Notícia de fato instaurada para apurar supostas irregularidades na emissão de alvarás destinados aos vendedores ambulantes do município. Caso em apuração."
+ },
+ {
+  "i": 121,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura irregularidades no Departamento de Trânsito de Itapema",
+  "description": "Notícia de fato instaurada para apurar supostas irregularidades constatadas no Departamento de Trânsito do Município de Itapema (DETRAMI). Caso em apuração."
+ },
+ {
+  "i": 122,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura contratação de empresa de TI por Itapema em pregão de 2021",
+  "description": "Inquérito civil instaurado para apurar possível irregularidade na contratação da Connect City Integradora e Consultoria em Tecnologia da Informação pelo Processo Licitatório 216/2021, Pregão Presencial 86/2021. Caso em apuração."
+ },
+ {
+  "i": 123,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 124,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 125,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 126,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🔴 ACP ajuizada",
+  "severity": "media",
+  "title": "MP vai à Justiça para obrigar Itapema a regulamentar o estudo de impacto de vizinhança",
+  "description": "O procedimento tratava da falta de regulamentação do Estudo de Impacto de Vizinhança no município, envolvendo uma construtora, um shopping, a Fundação Ambiental Área Costeira e a prefeitura. O MP determinou a evolução do caso para ação civil pública e, na sequência, para mandado de injunção, a fim de obter na Justiça a regularização do instrumento."
+ },
+ {
+  "i": 127,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 128,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP fiscaliza o cumprimento do acordo sobre o bem-estar animal em Itapema",
+  "description": "Procedimento instaurado para acompanhar e fiscalizar o cumprimento do termo de ajustamento de conduta firmado no inquérito sobre o Departamento de Assistência ao Bem-Estar Animal de Itapema. O município e a Fundação Ambiental Área Costeira figuram no procedimento."
+ },
+ {
+  "i": 129,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura contratação de associação de gestão em saúde por Itapema",
+  "description": "Notícia de fato instaurada para apurar possível irregularidade na contratação da Associação de Gestão Especializada em Saúde (AGES) pelo município. Caso em apuração."
+ },
+ {
+  "i": 130,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura contratação de grupo de resgate voluntário por Itapema",
+  "description": "Notícia de fato instaurada para apurar suposta irregularidade na contratação da entidade Grupo de Operações de Resgate Voluntário pelo município. Caso em apuração."
+ },
+ {
+  "i": 131,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura contrato de Itapema decorrente de licitação de 2023",
+  "description": "Notícia de fato instaurada para apurar possíveis irregularidades na contratação de uma empresa vinculada ao Processo Licitatório 03/2023 do município. Caso em apuração."
+ },
+ {
+  "i": 132,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 133,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Construtora paga multa e habite-se é retificado em Itapema; MP arquiva o caso",
+  "description": "O inquérito apurou irregularidade na concessão do Habite-se 128/2024 pelo município. As irregularidades urbanísticas foram sanadas na esfera administrativa, com a retificação do documento e o pagamento de multa pela construtora responsável, e o MP arquivou o procedimento."
+ },
+ {
+  "i": 134,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura licitação da decoração de Páscoa de Itapema em 2025",
+  "description": "Inquérito civil instaurado para apurar possível irregularidade no procedimento licitatório da decoração da cidade para a Páscoa de 2025. O município e a empresa de decorações temáticas figuram no procedimento."
+ },
+ {
+  "i": 135,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 136,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 137,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura empresa de transporte de esgoto contratada em Itapema",
+  "description": "Notícia de fato instaurada a partir de representação de uma ONG para apurar eventuais irregularidades envolvendo uma empresa de tratamento e transporte de efluentes e o Município de Itapema. Caso em apuração."
+ },
+ {
+  "i": 138,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 139,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura permissão de exploração comercial de ponto na orla da Meia Praia",
+  "description": "Notícia de fato instaurada a partir de denúncia anônima para apurar supostas irregularidades na permissão de exploração comercial do \"Ponto 92\", na Rua 241, na orla da Meia Praia. Caso em apuração."
+ }
+]

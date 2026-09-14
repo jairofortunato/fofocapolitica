@@ -1,0 +1,396 @@
+[
+ {
+  "i": 3,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 4,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 5,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 6,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 7,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 parecer pela aprovação",
+  "severity": "media",
+  "title": "TCE recomenda aprovar as contas de 2023 do prefeito de Taió",
+  "description": "Ao examinar a prestação de contas do prefeito referente ao exercício de 2023, o TCE emitiu parecer prévio pela aprovação. O julgamento final cabe à Câmara de Vereadores."
+ },
+ {
+  "i": 8,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 9,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 10,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 11,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 12,
+  "tipo": "tce",
+  "keep": true,
+  "status": "⬛ julgado irregular",
+  "severity": "alta",
+  "title": "TCE confirma direcionamento de licitação de máquinas em Taió a uma empresa",
+  "description": "A partir de representação de um cidadão, o Pleno do TCE julgou procedente a denúncia sobre o Pregão Presencial 10/2023 da Prefeitura de Taió, para contratar seis máquinas remuneradas por hora trabalhada, reconhecendo o direcionamento do certame a uma empresa de terraplanagem. Também considerou irregular a escolha do pregão presencial em vez do eletrônico, sem previsão de requisitos de qualificação técnica no edital, e o pagamento por hora-máquina sem parâmetros de controle."
+ },
+ {
+  "i": 13,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 14,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 15,
+  "tipo": "tce",
+  "keep": true,
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta",
+  "title": "TCE cobra de Taió a licitação do serviço funerário, que nunca foi feita",
+  "description": "Provocado pelo controlador interno do próprio município, o Pleno do TCE julgou procedente a representação sobre a ausência de processo licitatório para a concessão dos serviços funerários de Taió e de decreto que regulamentasse o tema, em afronta à lei municipal. Foram considerados irregulares a falta de cronograma para os decretos de regulamentação da Lei municipal 3.994/2017 e a ausência de qualquer documento que comprovasse os estudos que a prefeitura dizia ter iniciado em 2023."
+ },
+ {
+  "i": 16,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 17,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 18,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 19,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 20,
+  "tipo": "tce",
+  "keep": true,
+  "status": "⬛ julgado irregular + multa",
+  "severity": "media",
+  "title": "TCE multa prefeito de Taió por falhas na licitação do lixo, mas recurso suspende a punição",
+  "description": "O Pleno julgou parcialmente procedente a representação sobre o Edital de Tomada de Preços 53/2021, para coleta, transporte e destinação final dos resíduos sólidos urbanos, e aplicou multas ao prefeito Horst Alexandre Purnhagen, que assinou o edital. Em recurso, o relator atribuiu efeito suspensivo aos itens do acórdão que reconheceram a irregularidade e aplicaram as multas, e devolveu os autos para exame de mérito. A punição não estava produzindo efeitos."
+ },
+ {
+  "i": 21,
+  "tipo": "tce",
+  "keep": true,
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta",
+  "title": "Taió usou R$ 1 milhão do Fundeb para tapar buraco da previdência, decide TCE",
+  "description": "Inspeção do tribunal considerou irregular a aplicação de R$ 1.030.000,00 provenientes do Fundeb para cobrir o déficit atuarial do regime próprio de previdência dos servidores municipais em 2018 e 2019, em desacordo com a lei do Fundeb e a Lei de Diretrizes e Bases da Educação. O então prefeito Almir Reni Guski foi multado em R$ 4.000,00."
+ },
+ {
+  "i": 22,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 parecer pela aprovação",
+  "severity": "media",
+  "title": "TCE recomenda aprovar as contas de 2022 do prefeito de Taió",
+  "description": "Ao examinar a prestação de contas do prefeito referente ao exercício de 2022, o TCE emitiu parecer prévio pela aprovação. O julgamento final cabe à Câmara de Vereadores."
+ },
+ {
+  "i": 23,
+  "tipo": "tce",
+  "keep": true,
+  "status": "⬛ julgado irregular + multa",
+  "severity": "media",
+  "title": "TCE multa prefeito de Taió em R$ 2,8 mil por atraso na entrega das contas",
+  "description": "O Pleno considerou irregular a remessa em atraso da documentação da prestação de contas do prefeito referente a 2022 e multou o prefeito Horst Alexandre Purnhagen em R$ 2.866,71, com prazo de 30 dias para recolher a multa ao Tesouro do Estado ou recorrer."
+ },
+ {
+  "i": 24,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 25,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 26,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 27,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 parecer pela aprovação",
+  "severity": "media",
+  "title": "TCE recomenda aprovar as contas de 2021 do prefeito de Taió",
+  "description": "Ao examinar a prestação de contas do prefeito referente ao exercício de 2021, o TCE emitiu parecer prévio pela aprovação. O julgamento final cabe à Câmara de Vereadores."
+ },
+ {
+  "i": 28,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 parecer pela aprovação",
+  "severity": "media",
+  "title": "TCE recomenda aprovar as contas de 2024 do prefeito de Taió",
+  "description": "Ao examinar a prestação de contas do prefeito referente ao exercício de 2024, o TCE emitiu parecer prévio pela aprovação. O julgamento final cabe à Câmara de Vereadores."
+ },
+ {
+  "i": 29,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 30,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 31,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 32,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 33,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 34,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 35,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 36,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "media",
+  "title": "TCE julga regulares as contas de tomada de contas especial em Taió",
+  "description": "Em tomada de contas especial aberta a partir de representação de um cidadão sobre a Prefeitura de Taió e uma construtora, o Pleno julgou as contas regulares e determinou o arquivamento dos autos. Ninguém foi responsabilizado."
+ },
+ {
+  "i": 37,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 38,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 39,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 40,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 41,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 42,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 43,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 44,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 45,
+  "tipo": "tce",
+  "keep": true,
+  "status": "⬛ julgado irregular",
+  "severity": "alta",
+  "title": "Decreto de Taió mudou as regras de processo seletivo depois do resultado, aponta TCE",
+  "description": "A partir de representação do controlador interno do município, o tribunal considerou irregular a edição do Decreto municipal 8.746/2024, que suspendeu vedações do edital do Processo Seletivo 06/2023 depois de o certame já ter sido homologado, e também a contratação temporária de três servidoras com base nesse resultado, por contrariar itens do edital. O TCE deu 30 dias para o prefeito revogar o decreto e comprovar o cumprimento."
+ },
+ {
+  "i": 46,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 47,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 48,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 49,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 50,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 51,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 52,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 53,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 54,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 55,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 56,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 57,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 58,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 59,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 60,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 61,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 62,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 63,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 64,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 65,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 66,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 67,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 68,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 69,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 70,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 71,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 72,
+  "tipo": "tce",
+  "keep": false
+ }
+]

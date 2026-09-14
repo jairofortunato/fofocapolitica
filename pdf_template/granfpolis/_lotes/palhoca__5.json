@@ -1,0 +1,635 @@
+{
+ "cidade": "Palhoça",
+ "casos": [
+  {
+   "i": 350,
+   "tipo": "mp",
+   "ref": "06.2022.00003747-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00003747-0",
+   "status": "🟡 em apuração",
+   "data": "09/09/2022",
+   "texto": "Agnaldo da Silva e Município de Palhoça. apurar a falta de manutenção das ruas no entorno da obra do contorno viários, no Bairro Alto Aririu."
+  },
+  {
+   "i": 351,
+   "tipo": "mp",
+   "ref": "06.2022.00003945-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00003945-6",
+   "status": "🟡 em apuração",
+   "data": "26/09/2022",
+   "texto": "Conselho Tutelar Proteção, Município de Palhoça e Secretaria Municipal de Assistência Social de Palhoça. apurar suposta ausência de funcionários em quantidade suficiente no Conselho Tutelar Proteção e a necessidade de retomada de atividades de forma integral no referido órgão de proteção."
+  },
+  {
+   "i": 352,
+   "tipo": "mp",
+   "ref": "09.2021.00004703-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2021.00004703-0",
+   "status": "🟠 TAC firmado",
+   "data": "29/09/2022",
+   "texto": "Município de Palhoça e Ministério Público do Estado de Santa Catarina. Conclusão: arquivamento. Cumprimento do Termo de Ajustamento de Condutas. Adequação das ondulações transversais (lombadas) e travessias elevadas, citadas no parecer técnico de fls. 43-68 do Inquérito Civil n. 06.2020.0000630-2, deixando-as de acordo com às normas vigentes, notadamente as Resoluções n. 600/2016 e 738/2018, ambas do CONTRAN."
+  },
+  {
+   "i": 353,
+   "tipo": "mp",
+   "ref": "06.2022.00004011-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004011-9",
+   "status": "🟡 em apuração",
+   "data": "04/10/2022",
+   "texto": "Casa Lar Reviver. apurar a suposta situação de maus-tratos perpetrada contra internos da Casa Lar Reviver, localizada neste Município de"
+  },
+  {
+   "i": 354,
+   "tipo": "mp",
+   "ref": "06.2022.00004188-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004188-4",
+   "status": "🟡 em apuração",
+   "data": "18/10/2022",
+   "texto": "Deise Aparecida Neckel e Brazil Tower Cessão de Infraestrutura Ltda. apurar possíveis prejuízos à saúde humana em decorrência da instalação de uma antena de telefonia, com cerca de 50m de altura, próxima de algumas residências, sem observância ao distanciamento imposto pela legislação, localizada na Servidão Novecentos e Setenta e Sete, próximo ao antigo Posto de Saúde, no Bairro Guarda do Cubatão, Município de Palhoça."
+  },
+  {
+   "i": 355,
+   "tipo": "mp",
+   "ref": "06.2021.00001777-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00001777-0",
+   "status": "❔ status indef.",
+   "data": "24/10/2022",
+   "texto": "Município de Palhoça, Paula Souza e Marco Aurélio Stopassoli. Conclusão: após a realização de diligências, foi expedida Recomendação orientando que o Município de Palhoça promova a manutenção do espaço público conhecido como Praça dos Curiós e, em caso de celebração de acordo com Associações, promova a fiscalização das obrigações eventualmente assumidas, devendo reassumir o encargo em caso de omissão, havendo notícia e comprovação do acatamento integral por parte do Município."
+  },
+  {
+   "i": 356,
+   "tipo": "mp",
+   "ref": "06.2022.00002559-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00002559-5",
+   "status": "🟢 arquivado",
+   "data": "31/10/2022",
+   "texto": "Município de Palhoça e Antônio Osvaldo Farias. Conclusão: arquivamento. Questão de acessibilidade em calçadas já é objeto de demanda judicial proposta por esta Promotoria de Justiça, tombada sob o n. 5010856-56.2020.8.24.0045, a qual possui como objeto a regularização/adequação dos passeios públicos existentes no município, de acordo com as normas de acessibilidade vigentes."
+  },
+  {
+   "i": 357,
+   "tipo": "mp",
+   "ref": "06.2022.00004341-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004341-6",
+   "status": "🟡 em apuração",
+   "data": "04/11/2022",
+   "texto": "Jussara Ilíbio de Souza e Município de Palhoça. apurar a dificuldade na realização de consultas na UBS do Bairro Aririu da Formiga."
+  },
+  {
+   "i": 358,
+   "tipo": "mp",
+   "ref": "06.2022.00004518-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004518-0",
+   "status": "🟡 em apuração",
+   "data": "17/11/2022",
+   "texto": "Soni Aparecida de Oliveira Bachmann e Município de Palhoça. apurar a ocorrência de alagamentos na Rua Adélia Werlich Bruch, Alto Aririu, Palhoça."
+  },
+  {
+   "i": 359,
+   "tipo": "mp",
+   "ref": "06.2022.00003099-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00003099-8",
+   "status": "🔴 ACP ajuizada",
+   "data": "21/11/2022",
+   "texto": "João Ricardo Machado e Município de Palhoça. Conclusão: Inquérito Civil instaurado com a finalidade de apurar acerca do despejo de esgoto diretamente no Rio Capivari, com presença de mau odor, em especial no ponto localizado nas proximidades da Rua Beira Rio, Praia da Pinheira (Praia do Meio), no Município de Palhoça. Inércia municipal, após instada em três oportunidades. Determinado o ajuizamento de Ação Civil Pública em desfavor do Município de Palhoça, por omissão."
+  },
+  {
+   "i": 360,
+   "tipo": "mp",
+   "ref": "06.2022.00004552-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004552-5",
+   "status": "🟡 em apuração",
+   "data": "23/11/2022",
+   "texto": "Fortalece VISA - Segurança dos Alimentos e Município de Palhoça. apurar a situação da VISA Municipal no cumprimento do processo de Pactuação das Atividades de Vigilância Sanitária (2020 - 2023)."
+  },
+  {
+   "i": 361,
+   "tipo": "mp",
+   "ref": "06.2022.00004594-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004594-7",
+   "status": "🟡 em apuração",
+   "data": "25/11/2022",
+   "texto": "Projeto Fortalece Procon e Município de Palhoça. avaliar a estrutura material, humana e administrativa legal do Procon Municipal de Palhoça."
+  },
+  {
+   "i": 362,
+   "tipo": "mp",
+   "ref": "06.2022.00004616-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004616-8",
+   "status": "🟡 em apuração",
+   "data": "25/11/2022",
+   "texto": "M. M. e Município de Palhoça. apurar a necessidade de limpeza em terreno baldio localizado no loteamento Bela Vista e problemas de trânsito na mesma localidade."
+  },
+  {
+   "i": 363,
+   "tipo": "mp",
+   "ref": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO ADMINISTRATIVO DE ACOMPANHAMENTO DE TAC N.",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO ADMINISTRATIVO DE ACOMPANHAMENTO DE TAC N.",
+   "status": "🟢 arquivado",
+   "data": "01/12/2022",
+   "texto": "Município de Palhoça e Ministério Público da Comarca de Palhoça. Conclusão: arquivamento. Após decurso do prazo para cumprimento da obrigação e por meio da realização de diligências, apurou-se que a municipalidade deu cumprimento ao pacto firmado na Ação Civil Pública n. 5012910-92.2020.8.24.0045. Com efeito, houve a juntada aos autos de documentos comprovando o cumprimento dos itens listados e, ainda, houve confirmação, por parte da Vigilância Sanitária, de que os itens foram devidamente cumpridos, havendo a expedição do competente Alvará Sanitário."
+  },
+  {
+   "i": 364,
+   "tipo": "mp",
+   "ref": "06.2021.00004610-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00004610-9",
+   "status": "🔴 ACP ajuizada",
+   "data": "02/12/2022",
+   "texto": "sigiloso e a apurar. Conclusão: Inquérito Civil instaurado com a finalidade de apurar apurar a ocorrência de várias invasões, em pontos identificados e ilustrados pelas imagens aéreas como A4, B1 e B2 (fls. 16, 21 e 22), em imóvel matriculado sob n. 20.585, Livro n. 2- DL, com área total de 210.128m² (duzentos e dez mil cento e vinte oito metros quadrados). O local dos fatos está localizado na Praia de Fora, Município de Palhoça. Determinado o ajuizamento de Ação Civil Pública em desfavor do Município de Palhoça, por omissão."
+  },
+  {
+   "i": 365,
+   "tipo": "mp",
+   "ref": "09.2022.00009104-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00009104-1",
+   "status": "🟡 em apuração",
+   "data": "06/12/2022",
+   "texto": "Ministério Público de Santa Catarina e Município de Palhoça. acompanhar a efetividade de Decisão Proferida na Ação Direta de Inconstitucionalidade - CEADI - ADI n. 5064027- 29.2021.8.24.0000, ajuizada pelo Ministério Público de Santa Catarina em face da Lei n. 5.059, de 15 de outubro de 2021, do Município de Palhoça."
+  },
+  {
+   "i": 366,
+   "tipo": "mp",
+   "ref": "06.2019.00003082-4",
+   "header": "· EXTRATO DE CONCLUSÃO DE INQUÉRITO CIVIL N. 06.2019.00003082-4",
+   "status": "❔ status indef.",
+   "data": "07/12/2022",
+   "texto": "Município de Palhoça. Conclusão: inexistência de fundamento para a propositura de ação civil pública."
+  },
+  {
+   "i": 367,
+   "tipo": "mp",
+   "ref": "06.2019.00003098-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00003098-0",
+   "status": "❔ status indef.",
+   "data": "07/12/2022",
+   "texto": "Município de Palhoça e Camilo Nazareno Pagani Martins. Conclusão: inexistência de fundamento para a propositura de ação civil pública."
+  },
+  {
+   "i": 368,
+   "tipo": "mp",
+   "ref": "06.2021.00000243-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00000243-2",
+   "status": "❔ status indef.",
+   "data": "07/12/2022",
+   "texto": "Município de Palhoça. Conclusão: inexistência de fundamento para a propositura de ação civil pública."
+  },
+  {
+   "i": 369,
+   "tipo": "mp",
+   "ref": "06.2022.00004798-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004798-9",
+   "status": "🟡 em apuração",
+   "data": "15/12/2022",
+   "texto": "Academia Styllus Fitness e Município de Palhoça. apurar regularidade do funcionamento da Academia Styllus Fitness perante os órgãos deste Município."
+  },
+  {
+   "i": 370,
+   "tipo": "mp",
+   "ref": "06.2022.00004802-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004802-2",
+   "status": "🟡 em apuração",
+   "data": "15/12/2022",
+   "texto": "Município de Palhoça. apurar a falta de médicos psiquiatras na rede municipal de saúde de Palhoça."
+  },
+  {
+   "i": 371,
+   "tipo": "mp",
+   "ref": "06.2022.00004820-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004820-0",
+   "status": "🟡 em apuração",
+   "data": "09/01/2023",
+   "texto": "Luiz Carlos de Oliveira e Município de Palhoça. apurar possível descumprimento do Código de Posturas Municipal em relação à coleta de podação de jardins."
+  },
+  {
+   "i": 372,
+   "tipo": "mp",
+   "ref": "06.2022.00004922-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004922-1",
+   "status": "🟡 em apuração",
+   "data": "10/01/2023",
+   "texto": "Carlos Rogério da Silva, SAMAE Palhoça e Município de Palhoça. apurar a falta de água por cerca de duas semanas na Rua Delfim Ribeiro (parte mais baixa da rua)."
+  },
+  {
+   "i": 373,
+   "tipo": "mp",
+   "ref": "06.2022.00004826-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004826-6",
+   "status": "🟡 em apuração",
+   "data": "13/01/2023",
+   "texto": "Jackson Fraga, Pedra Branca Empreendimento Imobiliários S/A, Reserva da Pedra FCVP Incorporadora SPE Ltda., VPL Empreendimentos e Participações Ltda. e AZ Holding Incorporações Ltda. apurar a edificação de muro sem alvará de construção e sem os devidos recuos para a calçada, bem como acerca da implantação de ciclofaixa de compartilhamento com o trânsito local. O local dos fatos situa-se na Rua João Bernadino da Rosa, s/n., Bairro Pedra Branca, Município de Palhoça/SC, CEP: 88137-010."
+  },
+  {
+   "i": 374,
+   "tipo": "mp",
+   "ref": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO ADMINISTRATIVO DE ACOMPANHAMENTO DE TAC N.",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO ADMINISTRATIVO DE ACOMPANHAMENTO DE TAC N.",
+   "status": "🟠 TAC firmado",
+   "data": "23/01/2023",
+   "texto": "NP Eventos, Corpo de Bombeiros Militar e Ministério Público da Comarca de Palhoça. Conclusão: arquivamento. O Inquérito Civil n. 06.2022.00003087-6 foi instaurado para apurar casa de eventos em funcionamento neste Município de forma irregular, onde houve celebração do Termo de Ajustamento de Condutas de fls. 03-09. [...]. Assim o presente Procedimento Administrativo foi instaurado com o objetivo de acompanhar o cumprimento da referida obrigação. Nas fls. 11-13, o compromissário encaminhou a documentação informando a aprovação do Projeto Preventivo contra Incêndio. Devidamente oficiado, o Corpo de Bombeiros Militar confirmou a informação às fls. 17-21."
+  },
+  {
+   "i": 375,
+   "tipo": "mp",
+   "ref": "06.2023.00000236-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00000236-2",
+   "status": "🟡 em apuração",
+   "data": "27/01/2023",
+   "texto": "comunidade terapêutica não identificada e G. I. R. O. apurar existência de comunidade terapêutica clandestina localizada no Bairro Passa Vinte, neste Município de Palhoça."
+  },
+  {
+   "i": 376,
+   "tipo": "mp",
+   "ref": "06.2023.00000425-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00000425-0",
+   "status": "🟡 em apuração",
+   "data": "07/02/2023",
+   "texto": "Bokão Lanches; L. R. L; Município de Palhoça. apurar a construção de deck sobre uma calçada, o que está prejudicando a circulação e acessibilidade de transeuntes."
+  },
+  {
+   "i": 377,
+   "tipo": "mp",
+   "ref": "06.2023.00000699-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00000699-1",
+   "status": "🟡 em apuração",
+   "data": "24/02/2023",
+   "texto": "Dalva Aparecida de Jesus e Município de Palhoça. apurar construção irregular de lombada na Rua Treze de Maio, Quadra 8, Bairro Brejarú II, neste Município de Palhoça."
+  },
+  {
+   "i": 378,
+   "tipo": "mp",
+   "ref": "06.2023.00000810-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00000810-1",
+   "status": "🟡 em apuração",
+   "data": "08/03/2023",
+   "texto": "Rosânia Terezinha de Quadros, Jotur Auto Ônibus e Turismo Palhocense e Prefeitura Municipal de Palhoça. apurar a conduta da empresa Jotur diante da realização de obras no Bairro Furadinho, nesta Comarca."
+  },
+  {
+   "i": 379,
+   "tipo": "mp",
+   "ref": "06.2020.00003667-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00003667-3",
+   "status": "❔ status indef.",
+   "data": "13/03/2023",
+   "texto": "Município de Palhoça e Camilo Nazareno Pagani Martins. Conclusão: inexistência de fundamento para a propositura de ação civil pública."
+  },
+  {
+   "i": 380,
+   "tipo": "mp",
+   "ref": "06.2021.00004599-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00004599-8",
+   "status": "❔ status indef.",
+   "data": "14/03/2023",
+   "texto": "Município de Palhoça e Vanilson Valdemar da Silveira. Conclusão: inexistência de fundamento para a propositura de ação civil pública."
+  },
+  {
+   "i": 381,
+   "tipo": "mp",
+   "ref": "09.2023.00001602-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2023.00001602-3",
+   "status": "🟡 em apuração",
+   "data": "14/03/2023",
+   "texto": "Ministério Público de Santa Catarina e Município de Palhoça. apuração da constitucionalidade da Lei Complementar n. 327 do Município de Palhoça/SC, de 13 de setembro de 2022, que ampliou a duração máxima dos contratos temporários para quatro anos."
+  },
+  {
+   "i": 382,
+   "tipo": "mp",
+   "ref": "06.2019.00003745-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00003745-0",
+   "status": "❔ status indef.",
+   "data": "22/03/2023",
+   "texto": "Município de Palhoça e Vanilson Valdemar da Silveira. Conclusão: inexistência de fundamento para a propositura de ação civil pública."
+  },
+  {
+   "i": 383,
+   "tipo": "mp",
+   "ref": "06.2020.00002009-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00002009-2",
+   "status": "❔ status indef.",
+   "data": "22/03/2023",
+   "texto": "Município de Palhoça e Vanilson Valdemar da Silveira. Conclusão: inexistência de fundamento para a propositura de ação civil pública."
+  },
+  {
+   "i": 384,
+   "tipo": "mp",
+   "ref": "06.2019.00004091-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00004091-1",
+   "status": "🔴 ACP ajuizada",
+   "data": "24/03/2023",
+   "texto": "Associação dos Moradores da Praia de Fora (ASMOPF); a apurar. Conclusão: Inquérito Civil instaurado, em 21 de agosto de 2019, para apurar o despejo de dejetos diretamente no Rio Mata Fome, que desemboca no mar da Praia de Fora. Consta que, devido às fortes enxurradas dos últimos dias, os dejetos depositados no rio foram todos encaminhados ao mar em grande volume. Determinado o ajuizamento de Ação Civil Pública em desfavor do Município de Palhoça, por omissão."
+  },
+  {
+   "i": 385,
+   "tipo": "mp",
+   "ref": "06.2019.00003787-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00003787-2",
+   "status": "❔ status indef.",
+   "data": "28/03/2023",
+   "texto": "Município de Palhoça. Conclusão: inexistência de fundamento para a propositura de ação civil pública."
+  },
+  {
+   "i": 386,
+   "tipo": "mp",
+   "ref": "06.2022.00004820-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00004820-0",
+   "status": "🟢 arquivado",
+   "data": "28/03/2023",
+   "texto": "Luiz Carlos de Oliveira e Prefeitura Municipal de Palhoça. Conclusão: arquivamento. In casu, não há como concluir que houve recusa por parte da municipalidade no que toca à remoção da podação, pois há informação de que se dirigiu até o local e constatou apenas a presença de entulho e a necessidade de roçada, o que não se enquadra no disposto no art. 47 do Código de Posturas. Tal informação, aliás, foi confirmada pelo Oficial de Diligências do Ministério Público, o qual não localizou podação aguardando recolhimento no terreno do denunciante."
+  },
+  {
+   "i": 387,
+   "tipo": "mp",
+   "ref": "06.2020.00004033-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00004033-3",
+   "status": "❔ status indef.",
+   "data": "31/03/2023",
+   "texto": "Município de Palhoça e Jaqueline Severino Amaral Dias. Conclusão: inexistência de fundamento para a propositura de ação civil pública."
+  },
+  {
+   "i": 388,
+   "tipo": "mp",
+   "ref": "06.2021.00003930-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00003930-8",
+   "status": "🟢 arquivado",
+   "data": "31/03/2023",
+   "texto": "Renata Nienchoter e a apurar. Conclusão: Inquérito Civil instaurado para apurar a ocorrência de danos ambientais decorrentes de duas ligações clandestinas de efluentes no sistema de macrodrenagem, apontadas no Relatório de Fiscalização n. 366/2021, enviado pela FCAM, a primeira na propriedade de Gilberto Ventura, na Servidão João Francisco de Medeiros, ao lado do Campo de Futebol do Cruzeiro, e a segunda na Panificadora Luíza, localizada na Rua Jorge Marcelino Coelho, n. 974, ambas no Bairro Guarda do Cubatão, no Município de Palhoça. Verificada a adoção das providências necessárias pela municipalidade consistente no lacre das duas ligações clandestinas objeto destes autos. Exaurido e satisfeito o objeto deste inquérito civil. Arquivamento."
+  },
+  {
+   "i": 389,
+   "tipo": "mp",
+   "ref": "06.2023.00001382-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00001382-6",
+   "status": "🟡 em apuração",
+   "data": "25/04/2023",
+   "texto": "sigiloso e Ana Paula Lopes. apurar suposto uso de atestado médico falso pela professora Ana Paula Lopes, da E.E.B. Governador Ivo Silveira, situada no Município de Palhoça/SC."
+  },
+  {
+   "i": 390,
+   "tipo": "mp",
+   "ref": "06.2020.00004268-6",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00004268-6",
+   "status": "❔ status indef.",
+   "data": "27/04/2023",
+   "texto": "Município de Palhoça. Conclusão: inexistência de fundamento para a propositura de ação civil pública."
+  },
+  {
+   "i": 391,
+   "tipo": "mp",
+   "ref": "06.2023.00001524-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00001524-6",
+   "status": "🟡 em apuração",
+   "data": "03/05/2023",
+   "texto": "Luiz Carlos de Oliveira e Prefeitura Municipal de Palhoça. apurar o depósito de lixo em terreno localizado no Bairro Brejarú."
+  },
+  {
+   "i": 392,
+   "tipo": "mp",
+   "ref": "06.2022.00004706-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00004706-7",
+   "status": "❔ status indef.",
+   "data": "08/05/2023",
+   "texto": "Prefeitura Municipal de Palhoça e Gladis Elisa Becker. Conclusão: inexistência de interesse de agir em face do cumprimento de Recomendação."
+  },
+  {
+   "i": 393,
+   "tipo": "mp",
+   "ref": "06.2023.00001446-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00001446-9",
+   "status": "🟡 em apuração",
+   "data": "09/05/2023",
+   "texto": "sigilosa e Isaac Chaves de Souza. apurar as circunstâncias, responsabilidade e danos ambientais decorrentes de construção irregular em um imóvel localizado na Rua José Valério de Souza, n. 05, Bairro Barra do Aririú, Município de Palhoça."
+  },
+  {
+   "i": 394,
+   "tipo": "mp",
+   "ref": "06.2023.00001653-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00001653-4",
+   "status": "🟡 em apuração",
+   "data": "09/05/2023",
+   "texto": "sigilosa e apurar. apurar a responsabilidade e danos ambientais decorrentes de construção irregular promovida por pessoa conhecida como \"Rubão\" e, também, ameaça à fauna, na Rua Manoel Martins, s/n, Praia de Cima (Pinheira), Município de Palhoça, mais precisamente no ponto de coordenadas geográficas UTM 22J 737818 m E - 6913410 m S."
+  },
+  {
+   "i": 395,
+   "tipo": "mp",
+   "ref": "06.2022.00001653-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00001653-0",
+   "status": "🟠 TAC firmado",
+   "data": "10/05/2023",
+   "texto": "G. F., C. F. S.; R. I., Corpo de Bombeiro de Palhoça e Município de Palhoça. Conclusão: arquivamento - \"[...] com o objetivo de solucionar o feito, foi elaborada minuta de Termo de Ajustamento de Condutas, cujos termos foram aceitos pela parte representada. [...] Não há portanto, interesse na continuidade das investigações, nem mesmo justa causa para formulação de medida judicial ou instauração de inquérito civil, haja vista que, se necessário, a adoção das medidas cabíveis ocorrerá em procedimento próprio.\""
+  },
+  {
+   "i": 396,
+   "tipo": "mp",
+   "ref": "06.2022.00004387-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00004387-1",
+   "status": "🟢 arquivado",
+   "data": "10/05/2023",
+   "texto": "ILPI Casagrande Espaço do Idoso, Conselho Municipal do Idoso de Palhoça, Corpo de Bombeiros de Palhoça e Município de Palhoça. Conclusão: arquivamento - \"[...] a ILPI Casagrande Espaço do Idoso, [...] comprometeu-se a, no prazo de 90 (noventa) dias, regularizar a situação sanitária da instituição, bem como apresentar inscrição junto ao Conselho Municipal do Idoso. [...] Não há, portanto, interesse na continuidade das investigações, nem mesmo justa causa para formulação de medida judicial ou instauração de inquérito civil,haja vista que, se necessário, a adoção das medidas cabíveis ocorrerá em procedimento próprio.\""
+  },
+  {
+   "i": 397,
+   "tipo": "mp",
+   "ref": "06.2023.00001654-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00001654-5",
+   "status": "🟡 em apuração",
+   "data": "10/05/2023",
+   "texto": "Luiz Carlos de Oliveira e a apurar. apurar a responsabilidade e os danos ambientais decorrentes do depósito de entulhos em um terreno baldio pertencente ao Município de Palhoça, localizado na Rua Delfim Ribeiro, ao lado do n. 284, no Bairro Brejarú, Município de Palhoça."
+  },
+  {
+   "i": 398,
+   "tipo": "mp",
+   "ref": "06.2023.00000810-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00000810-1",
+   "status": "❔ status indef.",
+   "data": "15/05/2023",
+   "texto": "Rosânia Terezinha de Quadros; JOTUR Auto Ônibus Josefense Ltda.; Município de Palhoça."
+  },
+  {
+   "i": 399,
+   "tipo": "mp",
+   "ref": "06.2023.00000700-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00000700-2",
+   "status": "🟢 arquivado",
+   "data": "19/06/2023",
+   "texto": "Débora Garcia, UPA Bela Vista e Prefeitura Municipal de Palhoça. Conclusão: arquivamento. As informações constantes nos autos [...] demonstram que houve aceitação aos termos da Recomendação expedida por este Órgão Ministerial. Tem-se, portanto, que tanto a municipalidade quanto o Instituto responsável pela UPA estão cientes da necessidade de disponibilização de médico pediatra durante o horário de funcionamento da unidade de saúde. [...] Não há, portanto, interesse na continuidade das investigações, nem mesmo justa causa para formulação de medida judicial."
+  },
+  {
+   "i": 400,
+   "tipo": "mp",
+   "ref": "09.2023.00001368-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2023.00001368-1",
+   "status": "❔ status indef.",
+   "data": "19/06/2023",
+   "texto": "Ministério Público de Santa Catarina e Município de Palhoça. Conclusão: inexistência de interesse de agir em face do cumprimento de Recomendação."
+  },
+  {
+   "i": 401,
+   "tipo": "mp",
+   "ref": "06.2023.00002313-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00002313-5",
+   "status": "🟡 em apuração",
+   "data": "20/06/2023",
+   "texto": "Vigilância Sanitária de Palhoça e Município de Palhoça. apurar a carência de fiscalização sanitária em Palhoça, em razão da defasagem na quantidade de fiscais para atender às demandas do Município."
+  },
+  {
+   "i": 402,
+   "tipo": "mp",
+   "ref": "06.2023.00002336-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00002336-8",
+   "status": "🟡 em apuração",
+   "data": "20/06/2023",
+   "texto": "Município de Palhoça e Ministério Público de Santa Catarina. apurar se o Município de Palhoça vem adotando as medidas pertinentes para requerer a concessão de incentivo financeiro e complementar de custeio para as ações de atenção à saúde, ante o aumento expressivo de casos de Dengue."
+  },
+  {
+   "i": 403,
+   "tipo": "mp",
+   "ref": "06.2022.00004950-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00004950-0",
+   "status": "🔴 ACP ajuizada",
+   "data": "28/06/2023",
+   "texto": "sigiloso e a apurar. Conclusão: Inquérito Civil instaurado em 1º de fevereiro de 2023 para apurar acerca de corte irregular de árvores de grande porte e aterramento na Área Verde (AVL 7) do Loteamento Parque Vale Verde. Consta da investigação relatório confirmando ocorrência de supressão de vegetação e plantio de espécimes vegetação. Ausência de identificação responsáveis pelos órgãos públicos. Determinado o ajuizamento de Ação Civil Pública em desfavor do Município de Palhoça, por omissão."
+  },
+  {
+   "i": 404,
+   "tipo": "mp",
+   "ref": "06.2020.00000945-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00000945-4",
+   "status": "🟢 arquivado",
+   "data": "03/07/2023",
+   "texto": "anônimo, Município de Palhoça e Graziela Nazaré Nunis. Conclusão: inexistência de fundamento para a propositura de ação civil pública. Arquivamento."
+  },
+  {
+   "i": 405,
+   "tipo": "mp",
+   "ref": "06.2023.00000237-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00000237-3",
+   "status": "🟢 arquivado",
+   "data": "04/07/2023",
+   "texto": "Maria Cedeni de Oliveira; Prefeitura Municipal de Palhoça. Conclusão: arquivamento. O presente expediente foi instaurado para apurar depósito de entulhos em via pública, o que pode ocasionar a proliferação de animais e vetores de doenças. [...] após a devida vistoria e lavratura de Termo de Notificação os objetos foram devidamente retirados. Consequentemente, com a retirada dos entulhos, a possível proliferação de vetores de doenças também foi solucionada."
+  },
+  {
+   "i": 406,
+   "tipo": "mp",
+   "ref": "06.2023.00000849-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00000849-0",
+   "status": "🟢 arquivado",
+   "data": "04/07/2023",
+   "texto": "C.R.S; Condomínio Residencial Azaleias; Prefeitura Municipal da Palhoça. Conclusão: arquivamento. As informações constantes nos autos, sobretudo os documentos apresentados pelo Condomínio e a constatação realizada pelo Oficial de Diligência do Ministério Público, demonstram que houve aceitação e integral cumprimento"
+  },
+  {
+   "i": 407,
+   "tipo": "mp",
+   "ref": "06.2021.00005014-6",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00005014-6",
+   "status": "🟢 arquivado",
+   "data": "06/07/2023",
+   "texto": "Adelson André Bruggemann e a apurar. Conclusão: Inquérito Civil instaurado com a finalidade de apurar, na defesa de patrimônio cultural e histórico, a depredação de um marco de quilometragem (Km 18), em rocha, instalado na margem do antigo caminho que ligava as cidades de São José e Lages (na literatura histórica também conhecido como Caminho Desterro/Lages), na segunda metade do século XIX, na Avenida Bom Jesus de Nazaré (em frente ao número 2157), no Bairro Aririú, no município de Palhoça. Verificado que não foi possível constatar dano ao patrimônio cultural e histórico, diante da ausência de constatação de que o citado marco de quilometragem se trata de patrimônio tombado. Inexistência de motivos suficientes e a necessidade da movimentação do aparato estatal, ou sequer fundamento para …"
+  },
+  {
+   "i": 408,
+   "tipo": "mp",
+   "ref": "06.2020.00000894-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00000894-4",
+   "status": "🟢 arquivado",
+   "data": "14/07/2023",
+   "texto": "Elia Osvaldina da Silva e desconhecidos. Conclusão: Inquérito Civil instaurado com o objetivo de apurar o lançamento de esgoto diretamente na rede pluvial, na Servidão Laura Elisa da Silva, Bairro Guarda do Cubatão, no Município de Palhoça. Informações prestadas pela FCAM e Vigilância Sanitária no sentido da ausência de constatação de vazamento de esgoto no local dos fatos. Exaurido e satisfeito o objeto deste inquérito civil. Arquivamento."
+  },
+  {
+   "i": 409,
+   "tipo": "mp",
+   "ref": "06.2020.00003169-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00003169-0",
+   "status": "🔴 ACP ajuizada",
+   "data": "18/07/2023",
+   "texto": "Sigiloso, Bruno da Silva, Thiago da Silva, Fabiano da Silva e Nauri da Silva. Conclusão: Inquérito Civil instaurado para apurar a ocupação irregular de Área Verde, que está sendo utilizada como entrada e saída de veículos, formando uma rua particular, do Loteamento Tabuleiro, no Bairro Bela Vista, Município de Palhoça. Após diligências, constatada intervenção danosa na Área Verde 02 do Loteamento Parque Residencial do Tabuleiro, matriculada sob n. 53.595. Ausência de providências pelos órgãos públicos. Determinado o ajuizamento de Ação Civil Pública em desfavor de Nauri da Silva, por ação, e contra o Município de Palhoça, por omissão."
+  },
+  {
+   "i": 410,
+   "tipo": "mp",
+   "ref": "06.2023.00002875-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00002875-2",
+   "status": "🟡 em apuração",
+   "data": "27/07/2023",
+   "texto": "Luiz Carlos de Oliveira e Município de Palhoça. apurar a negligência do Município de Palhoça na manutenção das Ruas Delfim Ribeiro, João Café Filho e Sandra Gomes, todas localizadas no Bairro Brejaru, neste Município, em razão da existência de calçadas quebradas e \"mato grande\" nas citadas vias."
+  },
+  {
+   "i": 411,
+   "tipo": "mp",
+   "ref": "06.2023.00002865-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00002865-2",
+   "status": "🟡 em apuração",
+   "data": "31/07/2023",
+   "texto": "G. C. e Município de Palhoça. apurar ausência de passeio de pedestres em determinada rua deste Município."
+  },
+  {
+   "i": 412,
+   "tipo": "mp",
+   "ref": "06.2023.00003046-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00003046-9",
+   "status": "🟡 em apuração",
+   "data": "10/08/2023",
+   "texto": "L. L. L. e Município de Palhoça. apurar a situação da UBS do Bairro Madri."
+  },
+  {
+   "i": 413,
+   "tipo": "mp",
+   "ref": "06.2022.00004616-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00004616-8",
+   "status": "🟢 arquivado",
+   "data": "22/08/2023",
+   "texto": "M. M.; Município de Palhoça. Conclusão: arquivamento. Após instrução do feito, apurou-se que a municipalidade realizou inspeção no local, oportunidade em que não constatou a presença de focos do mosquito aedes aegypti. Além disso, houve a notificação dos proprietários para limpeza do espaço. No que toca aos problemas de trânsito, houve a instalação de sinalização vertical e horizontal, o que contribuirá para a redução dos riscos de acidentes no local."
+  },
+  {
+   "i": 414,
+   "tipo": "mp",
+   "ref": "06.2023.00000576-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00000576-0",
+   "status": "🟠 TAC firmado",
+   "data": "22/08/2023",
+   "texto": "Jairo Thiago Freitas da Silva, Conselho Regional de Farmácia de Santa Catarina e Município de Palhoça. Conclusão: arquivamento. A fim de buscar solução ao feito, foi elaborada minuta de Termo de Ajustamento de Condutas (Procedimento Administrativo n. 09.2023.00005586-0), a qual foi enviada ao representado e devidamente aceita e assinada por ele, na qual se comprometeu a adequar, no prazo de 90 dias, a situação da UPA Sul perante a legislação vigente e aos órgãos"
+  },
+  {
+   "i": 415,
+   "tipo": "mp",
+   "ref": "06.2023.00002336-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00002336-8",
+   "status": "🟢 arquivado",
+   "data": "22/08/2023",
+   "texto": "Município de Palhoça e Secretaria Municipal de Saúde de Palhoça. Conclusão: arquivamento. Após a instrução do feito, [...] apurou-se que a municipalidade está adotando as medidas necessárias para enfrentamento e combate a epidemia. Isso porque as respostas apresentadas comprovam, de forma satisfatória, a adoção das medidas elencadas na Recomendação n. 0010/2023."
+  },
+  {
+   "i": 416,
+   "tipo": "mp",
+   "ref": "06.2023.00000699-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00000699-1",
+   "status": "🟢 arquivado",
+   "data": "30/08/2023",
+   "texto": "Dalva Aparecida de Jesus e Município de Palhoça. Conclusão: arquivamento. O presente Inquérito Civil foi instaurado para apurar a construção irregular de lombada na Rua Treze de Maio, quadra 8, Bairro Brejarú II, em Palhoça. Após a realização de diligências, apurou-se que a lombada está de acordo com a Resolução n. 600 do CONTRAN, atendendo ao fim a que se destina. Além disso, consta que houve a pintura da sinalização, o que permite melhor visualização da lombada e evita transtornos no trânsito."
+  },
+  {
+   "i": 417,
+   "tipo": "mp",
+   "ref": "06.2022.00003747-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00003747-0",
+   "status": "🟢 arquivado",
+   "data": "06/09/2023",
+   "texto": "Agnaldo da Silva, Auto Pista Litoral Sul - Arteris - e Município de Palhoça. Conclusão: arquivamento. O presente Inquérito Civil foi instaurado para apurar a falta de manutenção das ruas no entorno da obra do contorno viário, no Bairro Alto Aririú. Entretanto, a realização das diligências demonstrou que houve a realização de obras de manutenção no local, de modo que as condições de trafegabilidade do local estão satisfatórias. No caso em tela, importante registrar que não é razoável exigir condições impecáveis no percurso, em razão do evidente inevitável transtorno causado pela realização de obra do porte do contorno viário."
+  },
+  {
+   "i": 418,
+   "tipo": "mp",
+   "ref": "06.2023.00003394-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00003394-4",
+   "status": "🟡 em apuração",
+   "data": "06/09/2023",
+   "texto": "Hermelino João de Abreu e Município de Palhoça. apurar a falta de infraestrutura de algumas ruas localizadas no Bairro Praia do Pontal, no Município de Palhoça, apresentando muitos buracos, poças de lama, principalmente após períodos de chuva."
+  },
+  {
+   "i": 419,
+   "tipo": "mp",
+   "ref": "06.2023.00003369-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00003369-9",
+   "status": "🟡 em apuração",
+   "data": "08/09/2023",
+   "texto": "4ª Promotoria de Palhoça e Fabio Cesar da Silveira. apurar danos, responsabilidade civil e as circunstâncias que envolvem a ocorrência de incêndio de grandes proporções, acontecido no dia 1º de abril do ano em curso, dentro dos limites do Parque Estadual da Serra do Tabuleiro, na Baixada do Maciambu, Município de Palhoça."
+  }
+ ]
+}

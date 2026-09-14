@@ -1,0 +1,1801 @@
+{
+ "mp": [
+  {
+   "i": 0,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 1,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 2,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "Servidor de Videira é demitido e devolve o dinheiro; MP arquiva caso de improbidade",
+   "description": "O inquérito apurou possível enriquecimento ilícito de um servidor municipal, já investigado em processo administrativo disciplinar aberto pela prefeitura em 2023. O MP concluiu que as medidas administrativas — a demissão do servidor e o ressarcimento do dano — resolveram o caso, e que não havia prova mínima de dolo para a ação de improbidade. O arquivamento foi submetido ao Conselho Superior do MP."
+  },
+  {
+   "i": 3,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟠 TAC firmado",
+   "severity": "media",
+   "title": "MP cobra licitação do serviço funerário de Videira e fecha acordo com o município",
+   "description": "O inquérito apurou a falta de concessão por licitação do serviço funerário municipal, exigida pela Lei municipal 1.623/2011. O caso terminou em termo de ajustamento de conduta, prorrogado duas vezes por prazo justificado, com aditamentos homologados. O inquérito foi arquivado e a promoção submetida ao Conselho Superior do MP."
+  },
+  {
+   "i": 4,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 5,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "alta",
+   "title": "Videira vai à Justiça cobrar prejuízo em obra da rodovia VDR-070 e MP encerra inquérito",
+   "description": "O inquérito apurou irregularidades no Contrato 155/2012, firmado pela Prefeitura de Videira para a pavimentação asfáltica da Rodovia VDR-070. A punição por improbidade já estava prescrita, mas o Tribunal de Contas julgou os mesmos fatos em tomada de contas especial e condenou os responsáveis, solidariamente, a ressarcir o erário — decisão que vale como título executivo. Como só o município lesado pode executar essa cobrança e ele já ajuizou a ação indenizatória, o MP encerrou o procedimento."
+  },
+  {
+   "i": 6,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "MP arquiva caso de imóvel público de Videira cedido a empresa de servidor comissionado",
+   "description": "A investigação tratava da concessão de direito real de uso de um imóvel municipal a uma indústria cujo sócio-administrador ocupava cargo em comissão na Prefeitura de Videira, o que levantou suspeita de quebra da impessoalidade. O imóvel foi revertido ao Executivo e o MP não encontrou elementos de improbidade. Caso arquivado."
+  },
+  {
+   "i": 7,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 8,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 9,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 10,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "Fiscais de Videira não multaram peixaria irregular e MP abre investigação criminal",
+   "description": "O inquérito apurou a conduta de servidores municipais durante fiscalização sanitária na peixaria Meu Peixinho, em novembro de 2024: apesar de constatarem inúmeras irregularidades no manuseio e no armazenamento de pescado, os fiscais não lavraram auto de infração nem tomaram outra medida contra o estabelecimento. O MP não viu improbidade administrativa e arquivou a investigação cível, mas identificou indícios do crime de prevaricação e abriu procedimento investigatório criminal."
+  },
+  {
+   "i": 11,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 12,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 13,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 14,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 15,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "MP não comprova apagamento de dados na troca de gestão de Videira em 2017",
+   "description": "A investigação apurou a notícia de que servidores teriam suprimido dados dos computadores da prefeitura, dificultando a transição entre as gestões de 2016 e 2017. A conduta não foi demonstrada e o inquérito foi arquivado."
+  },
+  {
+   "i": 16,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta",
+   "title": "MP processa servidora de Videira por maus-tratos a alunos de creche municipal",
+   "description": "O inquérito apurou a suposta prática de maus-tratos contra alunos do CEMEI Ambrósio Fiorese, em Videira, por uma servidora pública municipal. O procedimento evoluiu para a Justiça: o MP ajuizou ação civil pública por improbidade administrativa contra a investigada. Acusação não é condenação — o processo corre na Justiça."
+  },
+  {
+   "i": 17,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟠 ACNP firmado",
+   "severity": "media",
+   "title": "Servidor de Videira faz acordo com o MP por administrar empresa médica privada",
+   "description": "O inquérito apurou se um servidor público municipal cometeu improbidade ao administrar uma empresa privada de serviços médicos e prestar serviços a outra, em Videira. O caso terminou em acordo de não persecução cível com o investigado, e o inquérito foi arquivado, com a promoção submetida ao Conselho Superior do MP."
+  },
+  {
+   "i": 18,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta",
+   "title": "MP leva à Justiça improbidade em Videira apurada na Operação Emergência",
+   "description": "O inquérito reuniu provas colhidas na Operação Emergência para apurar atos de improbidade administrativa praticados no Município de Videira. O procedimento evoluiu para processo judicial em 2023. Acusação não é condenação — o caso corre na Justiça."
+  },
+  {
+   "i": 19,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 20,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 21,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 22,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 23,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 24,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "MP descarta direcionamento em pregão da Videira Saneamento",
+   "description": "A investigação apurou possível direcionamento do Pregão Eletrônico 25/2020 da Videira Saneamento (VISAN) a uma empresa de controles automáticos. O MP não encontrou irregularidade nem ato de improbidade e arquivou o caso."
+  },
+  {
+   "i": 25,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 26,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 27,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 28,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 29,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 30,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 31,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 32,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "MP não vê prejuízo em permissão de uso da Prefeitura de Videira sem reajuste",
+   "description": "O inquérito apurou a suposta ausência de reajuste do valor mensal do Termo de Outorga de Permissão de Uso 263/2011 do município. O MP verificou que a prefeitura fez os ajustes anuais e não encontrou prejuízo ao erário, enriquecimento ilícito ou violação de princípios. Caso arquivado."
+  },
+  {
+   "i": 33,
+   "tipo": "mp",
+   "keep": true,
+   "status": "⚫ prescrito",
+   "severity": "media",
+   "title": "Transporte coletivo de Videira ganha GPS após cobrança do MP, e o resto do caso prescreve",
+   "description": "O inquérito tratava de três frentes: o itinerário da linha 27 do Pregão 95/2013, a falta de competitividade no Pregão 01/2018 e a perturbação do Pregão 27/2018. A primeira foi resolvida por recomendação do MP — o município revisou os itinerários e instalou GPS nos veículos. O extrato publicado no Diário está truncado quanto às demais, e o procedimento foi encerrado com o reconhecimento de prescrição."
+  },
+  {
+   "i": 34,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 35,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 36,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 recomendação cumprida",
+   "severity": "media",
+   "title": "Câmara de Videira retira exigência ilegal de OAB em concurso após recomendação do MP",
+   "description": "O Edital 1/2023 do concurso da Câmara de Vereadores de Videira exigia inscrição na OAB dos bacharéis em direito aprovados para o cargo de controlador interno. O MP considerou a exigência ilegal e recomendou sua retirada. A Câmara acatou integralmente e o inquérito foi arquivado."
+  },
+  {
+   "i": 37,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 recomendação cumprida",
+   "severity": "media",
+   "title": "Site da Prefeitura de Videira era usado para promoção pessoal do prefeito, aponta MP",
+   "description": "O inquérito confirmou que a página institucional do município era usada para promoção pessoal do prefeito, em desacordo com a Constituição Federal, a Constituição estadual e a Lei Orgânica de Videira. O MP recomendou a adequação das inserções publicitárias, a recomendação foi acatada e as publicações foram retiradas do ar. Caso arquivado."
+  },
+  {
+   "i": 38,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 39,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 40,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟠 TAC firmado",
+   "severity": "media",
+   "title": "Acordo com o MP regulariza quatro famílias em área pública no Bairro Santa Gema, em Videira",
+   "description": "O inquérito apurou loteamento clandestino às margens da Rodovia Waldemar Kleinubing, no Bairro Santa Gema. Constatou-se que quatro famílias ocupavam área pública havia de 14 a 25 anos, o que exigia regularização fundiária de interesse social (Reurb-S). O caso terminou em termo de ajustamento de conduta, depois aditado por prorrogação de prazo, e o inquérito foi arquivado."
+  },
+  {
+   "i": 41,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 42,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "Capela em área verde de loteamento de Videira é regularizada e MP arquiva o caso",
+   "description": "O inquérito apurou a ocupação irregular de área verde do loteamento Vila Verde pela capela e pelo pavilhão da Comunidade Nossa Senhora de Monte Serrat. A desafetação da área e a compensação ambiental foram concluídas, a irregularidade foi sanada e o caso foi arquivado."
+  },
+  {
+   "i": 43,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 44,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 45,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "Videira vai à Justiça retomar área pública ocupada no Bairro Rio das Pedras",
+   "description": "O inquérito apurou a ocupação irregular de área comunitária do município na Avenida Treze Tílias, no Bairro Rio das Pedras. Como a prefeitura ajuizou ação de reintegração de posse para proteger o patrimônio público, o objeto do procedimento se esgotou e o MP arquivou o caso."
+  },
+  {
+   "i": 46,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 47,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 48,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 49,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 50,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 51,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP apura mudança feita em estrada municipal na Linha Camboin, em Videira",
+   "description": "Inquérito civil instaurado para apurar possível irregularidade na modificação da estrada municipal da Linha Camboin, entre a Linha Bocó Rapado e a Linha Scalabrin. Caso em apuração."
+  },
+  {
+   "i": 52,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "Videira perdeu 595 kg de carne em câmara fria quebrada, mas MP não vê responsáveis",
+   "description": "O inquérito apurou o descarte de 595,25 kg de carnes armazenadas na câmara fria do município, estragadas pelo mau funcionamento do aparelho. O MP reconheceu o dano ao erário, mas concluiu que não houve má-fé nem dolo dos servidores, já que a perda decorreu de causas alheias à sua ação ou omissão. Caso arquivado."
+  },
+  {
+   "i": 53,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 54,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "Conselho Tutelar de Videira ganha sede nova e acessível após cobrança do MP",
+   "description": "O inquérito tratava das condições estruturais e de acessibilidade da sede do Conselho Tutelar. Uma nova sede foi construída, atendendo às exigências legais de acessibilidade, e as irregularidades do imóvel antigo foram sanadas. Caso arquivado."
+  },
+  {
+   "i": 55,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 56,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 57,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "MP não comprova entrega de alimentos vencidos a abrigo de crianças em Videira",
+   "description": "A investigação apurou a suposta entrega, pelo município, de alimentos com prazo de validade vencido ao Abrigo Institucional Lar Menino de Jesus I. Não houve provas da irregularidade e o MP arquivou o caso por falta de fundamento para prosseguir ou ajuizar ação civil pública."
+  },
+  {
+   "i": 58,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 59,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "MP não comprova irregularidade em combustível de veículos da Saúde de Videira",
+   "description": "O inquérito apurou possíveis irregularidades no abastecimento de combustível dos veículos da Secretaria Municipal de Saúde e Ação Social em viagens do Programa de Tratamento Fora do Domicílio. As irregularidades não foram comprovadas e o caso foi arquivado."
+  },
+  {
+   "i": 60,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "Videira retoma imóvel público onde funcionava empresa privada e MP arquiva o caso",
+   "description": "O inquérito apurou o uso de imóvel municipal cedido à Associação de Moradores do Bairro São Cristóvão, onde acabou se instalando uma empresa agropecuária. O município adotou medidas de ressarcimento ao erário e retomou o bem; com as irregularidades sanadas, o caso foi arquivado."
+  },
+  {
+   "i": 61,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "MP não comprova irregularidade no fornecimento da cooperativa de agricultores a Videira",
+   "description": "A investigação apurou possíveis irregularidades no fornecimento de produtos alimentícios ao município pela Cooperativa de Pequenos Agricultores de Videira e Iomerê (COPAVIDI). As irregularidades não foram comprovadas e o caso foi arquivado."
+  },
+  {
+   "i": 62,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 recomendação cumprida",
+   "severity": "media",
+   "title": "Videira muda lei para limitar jornada de técnicos em radiologia após recomendação do MP",
+   "description": "O inquérito apontou que a legislação municipal não previa o limite de 24 horas semanais para atividades de radiologia, contrariando a lei federal. O MP recomendou a alteração da lei, o município acatou integralmente e o inquérito foi arquivado."
+  },
+  {
+   "i": 63,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "Laudo aponta que calçada é inviável em rua do Bairro Universitário, em Videira",
+   "description": "O inquérito apurou irregularidades nos passeios e calçadas da Rua Alvin Schuler. Laudo técnico atestou a impossibilidade de construir o passeio público e garantir a acessibilidade no local, e o MP arquivou o caso por ausência de interesse de agir."
+  },
+  {
+   "i": 64,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 65,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 66,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 67,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 68,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 69,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "Perícia confirma que monitores comprados pela Saúde de Videira atendiam ao edital",
+   "description": "O inquérito apurou se os monitores de sinais vitais comprados pelo Fundo Municipal de Saúde no Pregão Eletrônico 14/2020 tinham funcionalidades inferiores às exigidas. Perícia comparativa comprovou que os equipamentos cumpriam os requisitos do edital, e o caso foi arquivado."
+  },
+  {
+   "i": 70,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 71,
+   "tipo": "mp",
+   "keep": true,
+   "status": "❔ status indef.",
+   "severity": "media",
+   "title": "Videira admite ao MP que mudou sinalização de trânsito fora do manual nacional",
+   "description": "O inquérito apurou irregularidades nas alterações da sinalização de trânsito do município, em desacordo com o Manual Brasileiro de Sinalização de Trânsito. O município reconheceu as irregularidades. O extrato publicado no Diário está truncado e não informa o desfecho do procedimento."
+  },
+  {
+   "i": 72,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 73,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 74,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 75,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 76,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 77,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 78,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 79,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 80,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP cobra psicólogos e assistentes sociais nas escolas municipais de Videira",
+   "description": "A partir de representação do sindicato dos servidores municipais (SINTRAMUVI), o MP apura se Videira cumpre a Lei federal 13.935/2019, que obriga as redes públicas de educação básica a contar com serviços de psicologia e de serviço social por meio de equipes multiprofissionais. Caso em apuração."
+  },
+  {
+   "i": 81,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 82,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP cobra fim de contratações temporárias de professores de educação física em Videira",
+   "description": "O procedimento apura a ilegalidade nas contratações temporárias de profissionais de educação física para tênis de mesa e futebol — e outras que venham a ser identificadas — porque não se destinam a suprir necessidade de caráter excepcional, como exige a Constituição. O MP busca a regularização dos contratos."
+  },
+  {
+   "i": 83,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 84,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 85,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 86,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 87,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 88,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP acompanha a vacinação de crianças e adolescentes em Videira",
+   "description": "Procedimento administrativo instaurado para acompanhar a imunização de crianças e adolescentes em Videira conforme o Calendário de Vacinação, incluindo a vacina contra a Covid-19, junto aos órgãos municipais competentes."
+  },
+  {
+   "i": 89,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 90,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 91,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 92,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 93,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 94,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 95,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "Servidor vendia serviço particular dentro da Prefeitura de Videira, mas MP não vê improbidade",
+   "description": "O inquérito apurou a conduta de um servidor que ofereceu serviços particulares dentro da prefeitura. O MP verificou que o serviço foi contratado e executado fora do horário de expediente, que o servidor não influiu na aprovação dos projetos e que não houve prejuízo ao erário nem imposição da contratação. Considerando o caso isolado e sem má-fé, o inquérito foi arquivado."
+  },
+  {
+   "i": 96,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 97,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 98,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 99,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 100,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 101,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟠 TAC firmado",
+   "severity": "media",
+   "title": "Videira assume prazo com o MP para corrigir a identificação das ruas da cidade",
+   "description": "O inquérito apurou a ausência e os erros de identificação dos logradouros públicos do município. Foi firmado termo de ajustamento de conduta, depois aditado para ampliar o prazo de cumprimento das obrigações, e o inquérito foi arquivado."
+  },
+  {
+   "i": 102,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟠 TAC firmado",
+   "severity": "alta",
+   "title": "Estacionamento rotativo de Videira funcionou sem licitação, e o município admitiu a ilegalidade",
+   "description": "O inquérito apurou o descumprimento da Lei de Licitações e da Lei de Concessões na operação do estacionamento rotativo criado pela Lei municipal 3.690/2019. O serviço havia sido outorgado à APAE de Videira por termo de permissão e depois subcontratado a uma empresa de processamento de dados, sem licitação — ilegalidade reconhecida pelo próprio município. Em outubro de 2022 foi firmado termo de ajustamento de conduta para que o serviço passe a ser prestado diretamente ou por concessão ou permissão regular; o prazo foi prorrogado duas vezes e o inquérito, arquivado."
+  },
+  {
+   "i": 103,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 104,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 105,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "MP confirma que o Procon regional de Videira cumpre o acordo firmado com os municípios",
+   "description": "O inquérito acompanhava o termo de ajustamento de conduta que definiu a atuação regional do Procon de Videira, atendendo também Salto Veloso, Arroio Trinta e Iomerê. O MP constatou que o acordo vem sendo cumprido e arquivou o procedimento por exaurimento do objeto."
+  },
+  {
+   "i": 106,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 107,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 108,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP cobra regularização da contratação de laboratórios privados pelo SUS em Videira",
+   "description": "Procedimento instaurado para regularizar a contratação de serviços laboratoriais privados pelo município para a coleta de exames custeados pelo Sistema Único de Saúde. Caso em apuração."
+  },
+  {
+   "i": 109,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 110,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 111,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 112,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 113,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP cobra de Videira lei que garanta horário especial a servidor com filho com deficiência",
+   "description": "O procedimento apura a necessidade de adequar a legislação municipal dos servidores para garantir e regulamentar o direito a horário especial sem redução de vencimentos, nas hipóteses do artigo 98 da Lei 8.112/1990, conforme decidiu o Supremo Tribunal Federal no Tema 1097. Caso em apuração."
+  },
+  {
+   "i": 114,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 115,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 116,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 117,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 118,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 119,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP apura contratação da empresa que organizou processo seletivo de Videira",
+   "description": "Inquérito civil instaurado para apurar a regularidade da contratação da empresa Public Job Soluções e Treinamentos pelo município, para elaborar, organizar e executar o Processo Seletivo 15/2024. Caso em apuração."
+  },
+  {
+   "i": 120,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 121,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 122,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 123,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 124,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 125,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 126,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 127,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "Videira retoma imóveis públicos ocupados irregularmente e MP encerra o caso",
+   "description": "O inquérito apurou a utilização irregular de imóveis públicos no município. O MP constatou que a prefeitura tomou as medidas judiciais e extrajudiciais para fazer cessar as ocupações e considerou o objeto integralmente cumprido. Caso arquivado."
+  },
+  {
+   "i": 128,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP apura ocupação de área verde no Loteamento Alto da Boa Vista II, em Videira",
+   "description": "Inquérito civil instaurado para apurar a ocupação irregular de área verde pública no Loteamento Alto da Boa Vista II, no Bairro Nossa Senhora Aparecida, e cobrar as medidas de regularização. Caso em apuração."
+  },
+  {
+   "i": 129,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta",
+   "title": "MP processa Videira na Justiça pelas condições estruturais das escolas municipais",
+   "description": "O inquérito, aberto em 2012, averiguou as condições estruturais das instituições de ensino da rede pública municipal de Videira. Em setembro de 2025 o MP ajuizou ação civil pública contra o município. A ação corre na Justiça e ainda não há decisão."
+  },
+  {
+   "i": 130,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 131,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta",
+   "title": "MP processa Videira por falta de vagas em creches e pré-escolas",
+   "description": "O inquérito apurou as deficiências no acesso a creches e pré-escolas no município. Em setembro de 2025 o MP ajuizou ação civil pública contra Videira. A ação corre na Justiça e ainda não há decisão."
+  },
+  {
+   "i": 132,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 133,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 134,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 135,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 136,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟠 TAC firmado",
+   "severity": "media",
+   "title": "Videira e cidades vizinhas assinam acordo para criar acolhimento familiar de crianças",
+   "description": "O inquérito apurou a ausência de oferta do Serviço de Alta Complexidade de Acolhimento Familiar na Comarca de Videira e a necessidade de regionalizar o acolhimento institucional e familiar de crianças e adolescentes. Os municípios de Videira, Arroio Trinta, Iomerê e Salto Veloso firmaram termo de ajustamento de conduta e o inquérito foi arquivado."
+  },
+  {
+   "i": 137,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "Videira vai à Justiça retomar área verde ocupada no Bairro Cidade Alta",
+   "description": "O inquérito apurou a ocupação irregular de um imóvel público de preservação florestal na Avenida Constantino Crestani, no Bairro Cidade Alta. O MP concluiu que a área verde urbana não podia ser regularizada por REURB-S e registrou que o município ajuizou ação de reintegração de posse. Com o objetivo atingido sem necessidade de ação civil pública, o inquérito foi arquivado."
+  },
+  {
+   "i": 138,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 139,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP apura falta de política habitacional para moradores de áreas de risco em Videira",
+   "description": "Inquérito civil instaurado para apurar a inexistência de políticas habitacionais voltadas à realocação da população que vive em áreas de risco no município. Caso em apuração."
+  },
+  {
+   "i": 140,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 141,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta",
+   "title": "MP processa Videira por contratar temporários de forma habitual em vez de fazer concurso",
+   "description": "O procedimento constatou a ilegalidade nas contratações temporárias de fisioterapeutas pelo município: eram habituais e sucessivas, sem excepcional interesse público, com aplicação inadequada da Lei municipal 3.965/2021 e sem observar os requisitos fixados pelo STF no Tema 612. Como havia procedimentos semelhantes para outros cargos, o MP ajuizou em 2026 uma ação civil pública mais ampla, que abrange também essa situação. A ação corre na Justiça."
+  },
+  {
+   "i": 142,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 143,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP apura ônibus em más condições no transporte de atletas de Videira",
+   "description": "Inquérito civil apura as precárias condições dos veículos usados para transportar atletas do município por uma empresa de turismo contratada pelo poder público, situação que, segundo a denúncia, gera insegurança para usuários e terceiros. Caso em apuração."
+  },
+  {
+   "i": 144,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP examina se lei municipal de Videira de 2025 é inconstitucional",
+   "description": "Inquérito civil instaurado para apurar a constitucionalidade da Lei Ordinária 4.397/2025 do município. O extrato publicado no Diário não detalha o conteúdo da lei. Caso em apuração."
+  },
+  {
+   "i": 145,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP acompanha encaminhamentos de Videira a comunidades terapêuticas",
+   "description": "Procedimento instaurado para verificar se as garantias de voluntariedade e de capacidade de consentir são observadas nos encaminhamentos feitos pelo município a comunidades terapêuticas. Caso em apuração."
+  },
+  {
+   "i": 146,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP apura dano em área verde pública do Bairro Santa Lúcia, em Videira",
+   "description": "Inquérito civil instaurado para apurar possíveis danos ambientais em área verde pública na Rua Aurélia Testolin Marcon, Bairro Santa Lúcia. O município figura no procedimento, que segue em apuração."
+  },
+  {
+   "i": 147,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP apura doação de imóvel público de Videira a empresa sem nenhuma contrapartida",
+   "description": "Inquérito civil instaurado para apurar a regularidade da doação, sem encargo, de um imóvel público do município a uma indústria local. Caso em apuração."
+  },
+  {
+   "i": 148,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 149,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 150,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 151,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 152,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 153,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 154,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 155,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 156,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 157,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 recomendação cumprida",
+   "severity": "media",
+   "title": "Videira anula avaliação de estágio probatório feita com erro após recomendação do MP",
+   "description": "O inquérito apurou possível violação da impessoalidade na avaliação do terceiro boletim de estágio probatório de uma servidora municipal. O MP concluiu que houve equívoco na interpretação dos fatores de avaliação por despreparo da avaliadora, sem dolo ou má-fé, e recomendou anular a avaliação, nomear comissão para reavaliar e designar novo supervisor. A recomendação foi integralmente cumprida."
+  },
+  {
+   "i": 158,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 159,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 160,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟠 ACNP firmado",
+   "severity": "media",
+   "title": "Dois servidores de Videira que tocavam comércio fazem acordo com o MP",
+   "description": "O inquérito apurou a violação dos princípios da legalidade e da moralidade pelo exercício de atividade comercial por dois servidores públicos municipais. O caso terminou em acordo de não persecução cível com os investigados e o inquérito foi arquivado, com a promoção submetida ao Conselho Superior do MP."
+  },
+  {
+   "i": 161,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "MP não comprova desvio de alimentos e uso de bem público por servidores de Videira",
+   "description": "A denúncia anônima apontava descumprimento de carga horária, uso de bens públicos em benefício particular, subtração de gêneros alimentícios e quebra da impessoalidade por servidores municipais. O MP considerou a situação não evidenciada, com provas insuficientes, e arquivou por falta de justa causa para ação civil pública."
+  },
+  {
+   "i": 162,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 163,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 164,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 165,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 166,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 167,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 168,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 169,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 170,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 171,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 172,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 173,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 174,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 175,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 176,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 177,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 178,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "MP encerra caso do ginásio da escola CAIC, em Videira, sem constatar risco",
+   "description": "O inquérito apurava a necessidade de reforma do ginásio de esportes da Escola de Educação Básica Municipal Criança do Futuro (CAIC). O MP concluiu que não havia risco e que a situação foi sanada, e arquivou o procedimento."
+  },
+  {
+   "i": 179,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 180,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "Máquina da Prefeitura de Videira tirou floreira de casa particular; prejuízo foi de R$ 40",
+   "description": "O inquérito apurou o uso de bem público por particular sem contraprestação: servidores usaram uma máquina do tipo Bobcat para retirar uma floreira da sacada de um imóvel privado, serviço que durou de 20 a 30 minutos. O MP calculou o prejuízo ao erário em R$ 40,00, aplicou o princípio da insignificância e arquivou o caso."
+  },
+  {
+   "i": 181,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 182,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "MP arquiva denúncia de condução de veículo da frota de Videira sem habilitação",
+   "description": "O inquérito apurou a suposta condução de veículos da frota municipal por servidora sem habilitação. O MP registrou que o veículo era usado no cumprimento de serviço próprio do cargo e concluiu que não havia fundamento para ação civil pública nem para acordo. Caso arquivado."
+  },
+  {
+   "i": 183,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 184,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 185,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 186,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 187,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 188,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 189,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 190,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 191,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 192,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 193,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 194,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 195,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 196,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 197,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 198,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 199,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 200,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "Falta de pediatras no hospital de Videira é resolvida e MP encerra o caso",
+   "description": "O inquérito apurou o prejuízo causado pela falta de profissionais para a especialidade de pediatria no Hospital Salvatoriano Divino Salvador, com a Secretaria de Saúde de Videira e a Gerência Regional de Saúde entre as partes. O objeto foi solucionado e o inquérito, arquivado."
+  },
+  {
+   "i": 201,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP avalia a rede de proteção ao idoso em Videira e nas cidades da comarca",
+   "description": "Procedimento instaurado para acompanhar e avaliar a organização e a suficiência da rede socioassistencial à pessoa idosa em Videira, Arroio Trinta, Iomerê e Salto Veloso, com foco na oferta e no financiamento do acolhimento institucional e na existência de alternativas à institucionalização que preservem vínculos familiares. Caso em apuração."
+  },
+  {
+   "i": 202,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 203,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 204,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 205,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 206,
+   "tipo": "mp",
+   "keep": false
+  }
+ ],
+ "tce": [
+  {
+   "i": 0,
+   "tipo": "tce",
+   "keep": true,
+   "status": "🔴 apontou irregularidade",
+   "severity": "media",
+   "title": "TCE arquiva denúncia sobre concessão de Videira, mas cobra que a prefeitura não repita as falhas",
+   "description": "O tribunal analisou representação contra a Concorrência 07/2023 da Prefeitura de Videira, que outorgava uma concessão de exploração de serviço. O processo foi arquivado, mas o TCE recomendou que o município não incida, em futuras licitações de objeto semelhante, nas irregularidades apontadas na decisão técnica do caso."
+  },
+  {
+   "i": 1,
+   "tipo": "tce",
+   "keep": true,
+   "status": "🟠 cautelar / sustação",
+   "severity": "alta",
+   "title": "TCE declara ilegal e suspende a licitação de pavimentação de Videira",
+   "description": "O Tribunal de Contas manteve a suspensão cautelar e declarou ilegal o Edital de Concorrência 06/2023 da Prefeitura de Videira, para pavimentação asfáltica. Foram apontadas quatro irregularidades: projeto básico inadequado, sem estudos técnicos preliminares; controle tecnológico insuficiente; orçamento básico inadequado; e reajuste contratual pelo INCC — índice de mercado diverso — com duplo marco temporal. O tribunal fez determinações ao então prefeito."
+  },
+  {
+   "i": 2,
+   "tipo": "tce",
+   "keep": true,
+   "status": "🔴 apontou irregularidade",
+   "severity": "alta",
+   "title": "TCE aponta pagamento em duplicidade de R$ 22,6 mil em contrato de Videira",
+   "description": "O tribunal julgou parcialmente procedente a representação sobre o Termo de Aditamento 151/2013 ao Contrato 263/2012 da Prefeitura de Videira: os serviços aditados já estavam previstos no contrato original, o que caracteriza pagamento em duplicidade e prejuízo ao erário de R$ 22.600,00. A punição já estava prescrita, mas o TCE deu 30 dias para o município instaurar tomada de contas especial e cobrar o valor, além de compatibilizar o Plano Diretor às regras do entorno do aeródromo Ângelo Ponsoni."
+  },
+  {
+   "i": 3,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 4,
+   "tipo": "tce",
+   "keep": true,
+   "status": "🟠 cautelar / sustação",
+   "severity": "media",
+   "title": "TCE manda Videira manter suspensa a licitação que concedia o serviço funerário",
+   "description": "O tribunal analisou representação contra o Edital de Concorrência 07/2021, que concedia o serviço funerário do município a três empresas. O relator determinou ao secretário municipal de Gabinete, subscritor do edital, que mantivesse o certame sustado até nova deliberação, e o convocou em audiência para apresentar justificativas, corrigir as ilegalidades ou anular o edital."
+  },
+  {
+   "i": 5,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 6,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 7,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 8,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 9,
+   "tipo": "tce",
+   "keep": true,
+   "status": "🟢 parecer pela aprovação",
+   "severity": "media",
+   "title": "TCE recomenda aprovar as contas de 2023 do prefeito de Videira, com ressalvas na educação",
+   "description": "O tribunal emitiu parecer prévio recomendando à Câmara de Vereadores a aprovação das contas de governo de 2023. Junto com o parecer, recomendou à prefeitura corrigir as deficiências apontadas pelo órgão instrutivo e adotar providências para alcançar as metas do Plano Nacional de Educação relativas a creche e pré-escola e ao ensino fundamental. O julgamento final cabe à Câmara."
+  },
+  {
+   "i": 10,
+   "tipo": "tce",
+   "keep": true,
+   "status": "🟢 parecer pela aprovação",
+   "severity": "media",
+   "title": "TCE recomenda aprovar as contas de 2024 do prefeito de Videira e cobra metas de educação",
+   "description": "O tribunal emitiu parecer prévio recomendando à Câmara de Vereadores a aprovação das contas de governo de 2024, com recomendação para que a prefeitura corrija as deficiências apontadas e busque cumprir as metas do Plano Nacional de Educação para creche, pré-escola e anos finais do ensino fundamental. O julgamento final cabe à Câmara."
+  },
+  {
+   "i": 11,
+   "tipo": "tce",
+   "keep": true,
+   "status": "🔴 apontou irregularidade",
+   "severity": "media",
+   "title": "TCE cobra que a Câmara de Videira ajuste sua regra de diárias, e ela cumpre",
+   "description": "Representação apontou irregularidades na concessão de diárias na Câmara Municipal de Videira, cuja resolução legislativa de 1998 não fixava valores nominais nem critérios claros. O tribunal determinou a readequação da norma e, em 2025, considerou cumprida a determinação. O TCE ainda orientou os controles internos de Videira e de Arroio Trinta a fiscalizar as mudanças e reportar desconformidades, sob pena de responsabilização. Os autos foram arquivados."
+  },
+  {
+   "i": 12,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 13,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 14,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 15,
+   "tipo": "tce",
+   "keep": true,
+   "status": "🟢 julgado regular",
+   "severity": "media",
+   "title": "TCE rejeita denúncia sobre pregão de triturador em Videira, mas alerta a prefeitura",
+   "description": "O tribunal conheceu e julgou improcedente a representação de uma empresa contra o Pregão Eletrônico 17/2025, para compra de um picador e triturador móvel urbano, e considerou prejudicado o pedido de suspensão. Ainda assim, alertou o município para o risco de receber equipamento incompatível com as especificações do edital, o que poderia configurar falha grave de fiscalização contratual e prejuízo ao erário."
+  },
+  {
+   "i": 16,
+   "tipo": "tce",
+   "keep": true,
+   "status": "🔴 apontou irregularidade",
+   "severity": "alta",
+   "title": "TCE declara ilegal a licitação do Contorno Norte de Videira, com sobrepreço de R$ 1,87 milhão",
+   "description": "O tribunal declarou a ilegalidade do Edital de Concorrência 06/2022, para implantar o Contorno Norte com recursos de convênio estadual. Entre as irregularidades: sobrepreço inicial de R$ 1.873.669,35, com valores fora dos sistemas de custos de referência sem motivação adequada; orçamento desatualizado; e preços de insumos asfálticos obtidos por cotação, sem considerar os parâmetros da ANP."
+  },
+  {
+   "i": 17,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 18,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 19,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 20,
+   "tipo": "tce",
+   "keep": true,
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media",
+   "title": "TCE não analisa licitação do estacionamento rotativo de Videira, mas alerta o secretário",
+   "description": "O procedimento sobre o edital da Concorrência 05/2023, que outorgava a concessão do estacionamento rotativo de veículos e motocicletas, não atingiu as condições prévias de seletividade e não foi analisado no mérito. O tribunal alertou o secretário municipal de Gabinete, subscritor do edital, de que futuras delegações de serviço público exigem a publicação prévia de ato justificando a conveniência da concessão e que o contrato precisa prever a publicação periódica das demonstrações financeiras da concessionária."
+  },
+  {
+   "i": 21,
+   "tipo": "tce",
+   "keep": true,
+   "status": "🔴 apontou irregularidade",
+   "severity": "media",
+   "title": "TCE derruba exigência de Videira que restringia manutenção de máquinas por distância",
+   "description": "O tribunal julgou procedente a representação contra o Edital de Pregão Eletrônico 165/2022, que registrava preços para manutenção preventiva e corretiva de máquinas pesadas das secretarias de Desenvolvimento Urbano e de Desenvolvimento Rural. A irregularidade era a exigência de raio máximo de localização das empresas, que, sem demonstração de imprescindibilidade, restringe a competição e fere a isonomia."
+  },
+  {
+   "i": 22,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 23,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 24,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 25,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 26,
+   "tipo": "tce",
+   "keep": true,
+   "status": "🔴 apontou irregularidade",
+   "severity": "media",
+   "title": "TCE manda Videira refazer a licitação dos plantões médicos da UPA 24 horas",
+   "description": "O tribunal julgou improcedente a representação de uma empresa que se dizia indevidamente desclassificada no Pregão Presencial 02/2022, do Fundo Municipal de Saúde, para atendimento médico ambulatorial em plantão presencial na UPA 24 horas — contrato de cerca de R$ 4,3 milhões por ano. Mesmo assim, determinou que o fundo não prorrogue o contrato firmado e promova nova licitação para o serviço."
+  },
+  {
+   "i": 27,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 28,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 29,
+   "tipo": "tce",
+   "keep": true,
+   "status": "🔴 apontou irregularidade",
+   "severity": "media",
+   "title": "TCE aponta orçamento sem detalhe e exigência restritiva em pregão da VISAN",
+   "description": "Na análise prévia do Edital de Pregão Eletrônico 26/2022 do Serviço Autônomo de Água e Esgoto de Videira (VISAN), para assentamento de redes de água e melhorias no abastecimento, o tribunal manteve duas irregularidades: ausência de detalhamento do orçamento básico, obtido por simples cotações de mercado, e qualificação técnica restritiva, ambas contrárias à Lei de Licitações."
+  },
+  {
+   "i": 30,
+   "tipo": "tce",
+   "keep": true,
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta",
+   "title": "TCE condena a devolver R$ 50,6 mil por sobrepreço em obra de Videira",
+   "description": "Em tomada de contas especial sobre o Contrato 155/2012, firmado entre a Prefeitura de Videira e a Viga Pavimentação e Obras, o Pleno do TCE julgou as contas irregulares e condenou solidariamente, em junho de 2025 (Acórdão 167/2025), a fiscal da obra, a arquiteta que atestou as notas fiscais, o secretário municipal de Planejamento e a empresa a devolver R$ 50.658,49 aos cofres do município, por sobrepreço e superfaturamento em valores já faturados e pagos. Em 2025 e 2026 o relator conheceu os recursos de reconsideração e suspendeu os efeitos da condenação em relação a todos os responsáveis, até o julgamento do mérito. Ninguém foi definitivamente condenado a pagar."
+  },
+  {
+   "i": 31,
+   "tipo": "tce",
+   "keep": true,
+   "status": "🔴 apontou irregularidade",
+   "severity": "media",
+   "title": "TCE lista erros na conta que Videira usou para conceder o serviço funerário em 2024",
+   "description": "O tribunal arquivou a representação contra a Concorrência 28/2024, que concedia a exploração do serviço funerário, mas recomendou ao município corrigir a modelagem econômica em futuros certames semelhantes: igualar a taxa interna de retorno ao custo de capital, não misturar dois regimes tributários no cálculo de PIS e Cofins, incluir no fluxo de caixa o custo do médico responsável técnico, dimensionar corretamente o número de funcionários e a receita, e usar os dados de óbitos do DATASUS em vez de números em desacordo com a base oficial."
+  },
+  {
+   "i": 32,
+   "tipo": "tce",
+   "keep": true,
+   "status": "🟢 parecer pela aprovação",
+   "severity": "media",
+   "title": "TCE recomenda aprovar as contas de 2021 do prefeito de Videira",
+   "description": "Ao examinar a prestação de contas do prefeito referente ao exercício de 2021, o TCE emitiu parecer prévio pela aprovação. O julgamento final cabe à Câmara de Vereadores."
+  },
+  {
+   "i": 33,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 34,
+   "tipo": "tce",
+   "keep": true,
+   "status": "🟢 parecer pela aprovação",
+   "severity": "media",
+   "title": "TCE recomenda aprovar as contas de 2022 do prefeito de Videira",
+   "description": "Ao examinar a prestação de contas do prefeito referente ao exercício de 2022, o TCE emitiu parecer prévio pela aprovação. O julgamento final cabe à Câmara de Vereadores."
+  },
+  {
+   "i": 35,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 36,
+   "tipo": "tce",
+   "keep": true,
+   "status": "🔴 apontou irregularidade",
+   "severity": "media",
+   "title": "TCE cobra de Videira exigências técnicas que não afastem concorrentes das licitações",
+   "description": "Ao arquivar a representação sobre o Pregão Eletrônico 08/2024, o tribunal recomendou à prefeitura que só faça exigências técnicas com relação estrita ao objeto e devidamente embasadas em termo de referência, evitando prazos exíguos e características que direcionem ou restrinjam concorrentes, e que planeje estoques de segurança para emergências. Também cobrou do controle interno o acompanhamento prévio de todas as aquisições e locações do município."
+  },
+  {
+   "i": 37,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 38,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 39,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 40,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 41,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 42,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 43,
+   "tipo": "tce",
+   "keep": true,
+   "status": "🔴 apontou irregularidade",
+   "severity": "media",
+   "title": "Edital da UPA de Videira só aceitava impugnação em papel, e o TCE considerou isso irregular",
+   "description": "O tribunal julgou procedente a representação contra o Edital de Pregão Presencial 02/2022 do Fundo Municipal de Saúde, para os plantões médicos da UPA 24 horas. A cláusula que exigia protocolar toda impugnação presencialmente, sem aceitar envio eletrônico, restringe a participação do cidadão e contraria a Lei de Licitações. O controle interno do município foi notificado e os autos, arquivados."
+  },
+  {
+   "i": 44,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 45,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 46,
+   "tipo": "tce",
+   "keep": true,
+   "status": "🔴 apontou irregularidade",
+   "severity": "media",
+   "title": "Projeto de reforma de escola de Videira ignorava normas de acessibilidade, aponta TCE",
+   "description": "Na análise da Concorrência 08/2022, para reforma e ampliação da Escola de Educação Básica Waldemar Kleinubing, a área técnica do tribunal constatou que o projeto não contemplava parte dos requisitos das normas de acessibilidade. Em vez de sustar o certame — o que prejudicaria a comunidade escolar —, o TCE optou por orientar a prefeitura a adequar o projeto e deu ciência ao controle interno para apurar as irregularidades."
+  },
+  {
+   "i": 47,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 48,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 49,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 50,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 51,
+   "tipo": "tce",
+   "keep": true,
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media",
+   "title": "Denúncia de serviço da Prefeitura de Videira em propriedade particular não passa no filtro do TCE",
+   "description": "O procedimento tratava da prestação de serviços em propriedade particular, sem justificativa, por meio da Ata de Registro de Preços 90/2022 da Prefeitura de Videira. A denúncia não atingiu a pontuação mínima de seletividade e foi arquivada sem análise de mérito, mas o tribunal deu ciência ao chefe do controle interno do município para apurar os fatos e adotar as providências cabíveis."
+  },
+  {
+   "i": 52,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 53,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 54,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 55,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 56,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 57,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 58,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 59,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 60,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 61,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 62,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 63,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 64,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 65,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 66,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 67,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 68,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 69,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 70,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 71,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 72,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 73,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 74,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 75,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 76,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 77,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 78,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 79,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 80,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 81,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 82,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 83,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 84,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 85,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 86,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 87,
+   "tipo": "tce",
+   "keep": false
+  }
+ ]
+}

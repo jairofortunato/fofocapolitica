@@ -7,3 +7,10 @@ __pycache__/
 pdfs/
 texts/
 parsed/
+.aider*
+
+# intermediários da diagramação (capa/miolo/contracapa antes do merge) e
+# resíduos do Chrome headless: regeneráveis por gen_dossie.py
+pdf_template/*/_build/
+pdf_template/*/tmp*.html
+pdf_template/*/*_profile/

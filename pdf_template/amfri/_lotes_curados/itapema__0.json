@@ -1,0 +1,496 @@
+[
+ {
+  "i": 0,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 1,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 2,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "alta",
+  "title": "MP apura nepotismo na Prefeitura e na Câmara de Itapema",
+  "description": "Notícia de fato instaurada para apurar a suposta prática de nepotismo no Poder Legislativo e no Poder Executivo de Itapema. Três pessoas, o município e a Câmara de Vereadores figuram no procedimento, que segue em apuração."
+ },
+ {
+  "i": 3,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 4,
+  "tipo": "mp",
+  "keep": true,
+  "status": "❔ status indef.",
+  "severity": "alta",
+  "title": "MP apura sobrinha da presidente da Câmara de Itapema em cargo comissionado",
+  "description": "Inquérito civil instaurado para apurar possível nepotismo na Câmara de Vereadores de Itapema, em razão do parentesco entre a presidente da Casa e sua sobrinha, ocupante do cargo comissionado de chefe de programas institucionais. O extrato de conclusão publicado no Diário está truncado e não informa o desfecho."
+ },
+ {
+  "i": 5,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura contratação de assessor de gabinete de vereador em Itapema",
+  "description": "Notícia de fato instaurada para apurar suposta prática de nepotismo na Câmara de Vereadores de Itapema, decorrente da alegada contratação de um assessor para o gabinete de um vereador. Caso em apuração."
+ },
+ {
+  "i": 6,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 7,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura anulação de eleição de conselho de saúde em Itapema",
+  "description": "Inquérito civil instaurado para apurar violações ao devido processo legal, ao contraditório e à ampla defesa na anulação da eleição do Conselho Local de Saúde da UBS Meia Praia II, e para investigar irregularidades estruturais e de funcionamento do Conselho Municipal de Saúde de Itapema, incluindo reconduções sucessivas. Caso em apuração."
+ },
+ {
+  "i": 8,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP arquiva caso de servidora de Itapema que acumulava dois cargos públicos",
+  "description": "O inquérito apurou a suposta acumulação ilegal de cargos públicos por uma servidora. O MP verificou que houve efetiva prestação de serviço nos dois órgãos, sem enriquecimento ilícito, e não apurou o dolo exigido pela lei. A irregularidade também foi sanada, porque a investigada deixou os quadros do órgão. Caso arquivado."
+ },
+ {
+  "i": 9,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura projetos que mudam a política urbana de Itapema por fora do Plano Diretor",
+  "description": "Inquérito civil instaurado para apurar possível irregularidade em projetos de lei em tramitação na Câmara de Itapema que, segundo o MP, tratam \"por via transversa\" de temas de desenvolvimento e expansão urbana reservados ao Plano Diretor — em especial os Projetos de Lei Complementar 3/2022 e 5/2022. Caso em apuração."
+ },
+ {
+  "i": 10,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura criação de cargos comissionados em Itapema por medida provisória",
+  "description": "Inquérito civil instaurado para apurar a suposta irregularidade na criação de cargos de provimento em comissão em Itapema pela Medida Provisória municipal 65/2025, abrangendo tanto o Executivo quanto a Câmara de Vereadores. Caso em apuração."
+ },
+ {
+  "i": 11,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura vereador de Itapema acusado de favorecer empreendimento náutico",
+  "description": "Inquérito civil apura possíveis irregularidades na atuação de um dirigente da Colônia de Pescadores Z-19, depois eleito vereador de Itapema, em suposto favorecimento a um empreendimento náutico. O município e a Câmara figuram no procedimento. Caso em apuração."
+ },
+ {
+  "i": 12,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura contratação de servidor que atuava nos dois poderes em Itapema",
+  "description": "Inquérito civil instaurado para apurar eventual irregularidade na contratação de um servidor público no âmbito do Executivo e do Legislativo de Itapema. Caso em apuração."
+ },
+ {
+  "i": 13,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 14,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura abuso de autoridade e uso de carro oficial por servidor da Câmara de Itapema",
+  "description": "Notícia de fato instaurada para apurar abuso de autoridade, uso irregular de veículo público e intimidação atribuídos a um servidor não efetivo da Câmara de Vereadores de Itapema. Caso em apuração."
+ },
+ {
+  "i": 15,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP encerra apuração sobre controle interno e transparência na Câmara de Itapema",
+  "description": "O inquérito apurou irregularidades na Câmara de Vereadores relacionadas à atuação do controlador interno e do secretário financeiro, além da falta de resposta a questionamentos feitos pelo Portal da Transparência. O MP concluiu não haver fundamentos suficientes para prosseguir e arquivou o procedimento."
+ },
+ {
+  "i": 16,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP não constata perseguição política na Secretaria de Obras de Itapema",
+  "description": "O procedimento apurou suposta perseguição política e desvio de função na Secretaria de Obras do município. Nenhuma irregularidade foi constatada e o caso foi arquivado por ausência de fundamentos para ação judicial."
+ },
+ {
+  "i": 17,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 18,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 19,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP não encontra irregularidade no concurso da Câmara de Itapema",
+  "description": "A apuração examinou o concurso público do Edital 01/2023, para provimento de vagas efetivas do quadro da Câmara Municipal de Itapema. O MP não verificou qualquer irregularidade no certame."
+ },
+ {
+  "i": 20,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "alta",
+  "title": "MP apura negligência no atendimento a paciente na UPA de Itapema",
+  "description": "Notícia de fato instaurada para apurar suposta negligência no atendimento médico prestado a um paciente nas dependências da Unidade de Pronto Atendimento de Itapema. O município e a Câmara de Vereadores figuram no procedimento. Caso em apuração."
+ },
+ {
+  "i": 21,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 22,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 23,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 24,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 25,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP examina se lei complementar de Itapema de 2024 é constitucional",
+  "description": "Procedimento instaurado para apurar a eventual inconstitucionalidade da Lei Complementar municipal 143/2024, que alterou a Lei Complementar 7/2002 de Itapema. Caso em apuração."
+ },
+ {
+  "i": 26,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura desvio de função no SAMU de Itapema",
+  "description": "Notícia de fato instaurada para apurar a suposta ocorrência de desvio de função no SAMU do município. Caso em apuração."
+ },
+ {
+  "i": 27,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 28,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "Motoristas de Itapema dirigiriam sem a habilitação e os cursos exigidos",
+  "description": "Notícia de fato instaurada para apurar suposto desvio de função dos motoristas do município, que estariam exercendo atividades incompatíveis com o cargo, com a categoria da carteira de habilitação e sem os cursos específicos exigidos. Caso em apuração."
+ },
+ {
+  "i": 29,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura desvio de função na Secretaria de Saúde de Itapema",
+  "description": "Notícia de fato instaurada para apurar suposto desvio de função na Secretaria de Saúde do município, em especial quanto à condução de veículos oficiais e à lotação de técnicos de enfermagem. Caso em apuração."
+ },
+ {
+  "i": 30,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura licitação do setor de bem-estar animal de Itapema",
+  "description": "Notícia de fato instaurada para apurar supostas irregularidades na licitação para prestação de serviços no Departamento do Bem-Estar Animal de Itapema. O município e a Fundação Ambiental Área Costeira figuram no procedimento. Caso em apuração."
+ },
+ {
+  "i": 31,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura serviço de carteira de identidade oferecido pela Câmara de Itapema",
+  "description": "Notícia de fato instaurada para apurar supostas irregularidades no fornecimento, pela Câmara de Vereadores de Itapema em parceria com a Polícia Civil, do serviço de confecção de documento de identidade. Caso em apuração."
+ },
+ {
+  "i": 32,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 33,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 34,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "Servidor de compras da Câmara de Itapema também cuidava do RH, apura MP",
+  "description": "Inquérito civil instaurado para apurar supostas irregularidades na nomeação de um servidor da Câmara de Vereadores de Itapema, responsável pelo setor de compras e licitações, para exercer também funções de recursos humanos. Caso em apuração."
+ },
+ {
+  "i": 35,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 36,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 37,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 38,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 39,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura carros da Câmara de Itapema usados em viagens sem fim institucional",
+  "description": "Notícia de fato instaurada para apurar denúncia de que veículos oficiais da frota do Poder Legislativo de Itapema eram usados em viagens a outros municípios sem finalidade institucional, para beneficiar pessoas ligadas a determinados vereadores. Caso em apuração."
+ },
+ {
+  "i": 40,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura convocação por cota PCD em concurso de Itapema sem vaga prevista",
+  "description": "Notícia de fato instaurada para apurar a convocação de candidato pelo cadastro de pessoa com deficiência no Concurso Público 001/2023 do município, embora o edital previsse apenas vagas de ampla concorrência e cadastro reserva. Caso em apuração."
+ },
+ {
+  "i": 41,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 42,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "alta",
+  "title": "MP apura fraude na licitação da decoração de Natal de Itapema",
+  "description": "Inquérito civil instaurado para apurar eventual fraude no Processo Licitatório 128/2018, aberto pelo município para contratar empresa especializada em decoração natalina. Duas empresas figuram no procedimento, que segue em apuração."
+ },
+ {
+  "i": 43,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP não vê base para ação sobre cargo ocupado sem requisito na Câmara de Itapema",
+  "description": "O inquérito apurou possível irregularidade na ocupação de cargo público na Câmara de Vereadores de Itapema por pessoa que não cumpriria os requisitos mínimos exigidos. O MP concluiu pela inexistência de fundamento jurídico que justificasse ação judicial."
+ },
+ {
+  "i": 44,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP encerra apuração sobre controlador interno comissionado na Câmara de Itapema",
+  "description": "O inquérito apurou possível irregularidade na contratação de controlador interno em cargo comissionado na Câmara de Vereadores de Itapema. O MP concluiu pela ausência de fundamento para propor ação judicial e arquivou o procedimento."
+ },
+ {
+  "i": 45,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 46,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura professores temporários em Itapema com concurso vigente",
+  "description": "Inquérito civil instaurado para apurar possível irregularidade nas contratações em caráter temporário do município em detrimento da convocação dos aprovados no Concurso Público 001/2023. Caso em apuração."
+ },
+ {
+  "i": 47,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 48,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "Itapema abriu processo seletivo em 2025 com concurso de 2023 ainda válido",
+  "description": "Notícia de fato instaurada para apurar supostas irregularidades no Processo Seletivo Simplificado 012/2025 do município, aberto durante a vigência do Concurso Público 001/2023. Caso em apuração."
+ },
+ {
+  "i": 49,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura lixão no Bairro Morretes, em Itapema",
+  "description": "Inquérito civil instaurado para apurar possível irregularidade na existência de um lixão na Rua 466, no Bairro Morretes. A Fundação Ambiental Área Costeira de Itapema e a cooperativa de recicladores figuram no procedimento. Caso em apuração."
+ },
+ {
+  "i": 50,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 51,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 52,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 53,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 54,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP acompanha a obra de alargamento da faixa de areia da praia de Itapema",
+  "description": "Inquérito civil instaurado para fiscalizar e acompanhar o projeto de alargamento da faixa de areia da praia de Itapema. O município, a Fundação Ambiental Área Costeira e o Instituto do Meio Ambiente de Santa Catarina figuram no procedimento."
+ },
+ {
+  "i": 55,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 56,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟠 TAC firmado",
+  "severity": "media",
+  "title": "Acordo com o MP corrige o setor de bem-estar animal de Itapema",
+  "description": "O procedimento apurou possíveis irregularidades no Departamento de Assistência ao Bem-Estar Animal de Itapema, envolvendo o município, a Fundação Ambiental Área Costeira, uma associação de gestão hospitalar e protetoras de animais. O caso terminou com a formalização de termo de compromisso de ajustamento de conduta."
+ },
+ {
+  "i": 57,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura parceria de Itapema com entidade que gere serviços públicos",
+  "description": "Inquérito civil instaurado para apurar supostas irregularidades cometidas pela Associação Catarinense Hospitalar Conhecimento e Assistência Social e por eventuais servidores públicos no âmbito da parceria firmada com o poder público de Itapema. Caso em apuração."
+ },
+ {
+  "i": 58,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 59,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 60,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura falta de transparência no transporte de universitários de Itapema",
+  "description": "Notícia de fato instaurada para apurar o eventual descumprimento da Lei municipal 3.653/2017 e a falta de transparência sobre a seleção dos alunos beneficiados, os veículos, os motoristas, as rotas e os horários do transporte escolar intermunicipal para estudantes universitários e de cursos técnicos. Caso em apuração."
+ },
+ {
+  "i": 61,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 62,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 63,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Itapema cria conselho e plano de manejo de sua unidade de conservação",
+  "description": "O inquérito fiscalizava o cumprimento do decreto municipal de 2012 que criou a Unidade de Conservação Refúgio da Vida Silvestre. O órgão ambiental municipal criou o conselho e elaborou o plano de manejo, e o MP arquivou o procedimento por ausência de fundamento para prosseguir."
+ },
+ {
+  "i": 64,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura omissão na fiscalização da pesca ilegal em Itapema",
+  "description": "Inquérito civil instaurado para apurar possível omissão da Fundação Ambiental Área Costeira de Itapema e da Polícia Militar Ambiental em fiscalizar a atividade de pesca ilegal no município. Caso em apuração."
+ },
+ {
+  "i": 65,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 66,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 67,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 68,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 69,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "Conselho de assistência social denuncia a sede do Atendimento Social de Itapema",
+  "description": "Notícia de fato instaurada a partir de representação do Conselho Municipal de Assistência Social de Itapema, que apontou supostas irregularidades na sede do Atendimento Social do município, no Centro. Caso em apuração."
+ }
+]

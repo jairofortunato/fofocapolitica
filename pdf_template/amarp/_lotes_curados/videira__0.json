@@ -1,0 +1,460 @@
+[
+ {
+  "i": 0,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 1,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 2,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Servidor de Videira é demitido e devolve o dinheiro; MP arquiva caso de improbidade",
+  "description": "O inquérito apurou possível enriquecimento ilícito de um servidor municipal, já investigado em processo administrativo disciplinar aberto pela prefeitura em 2023. O MP concluiu que as medidas administrativas — a demissão do servidor e o ressarcimento do dano — resolveram o caso, e que não havia prova mínima de dolo para a ação de improbidade. O arquivamento foi submetido ao Conselho Superior do MP."
+ },
+ {
+  "i": 3,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟠 TAC firmado",
+  "severity": "media",
+  "title": "MP cobra licitação do serviço funerário de Videira e fecha acordo com o município",
+  "description": "O inquérito apurou a falta de concessão por licitação do serviço funerário municipal, exigida pela Lei municipal 1.623/2011. O caso terminou em termo de ajustamento de conduta, prorrogado duas vezes por prazo justificado, com aditamentos homologados. O inquérito foi arquivado e a promoção submetida ao Conselho Superior do MP."
+ },
+ {
+  "i": 4,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 5,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "alta",
+  "title": "Videira vai à Justiça cobrar prejuízo em obra da rodovia VDR-070 e MP encerra inquérito",
+  "description": "O inquérito apurou irregularidades no Contrato 155/2012, firmado pela Prefeitura de Videira para a pavimentação asfáltica da Rodovia VDR-070. A punição por improbidade já estava prescrita, mas o Tribunal de Contas julgou os mesmos fatos em tomada de contas especial e condenou os responsáveis, solidariamente, a ressarcir o erário — decisão que vale como título executivo. Como só o município lesado pode executar essa cobrança e ele já ajuizou a ação indenizatória, o MP encerrou o procedimento."
+ },
+ {
+  "i": 6,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP arquiva caso de imóvel público de Videira cedido a empresa de servidor comissionado",
+  "description": "A investigação tratava da concessão de direito real de uso de um imóvel municipal a uma indústria cujo sócio-administrador ocupava cargo em comissão na Prefeitura de Videira, o que levantou suspeita de quebra da impessoalidade. O imóvel foi revertido ao Executivo e o MP não encontrou elementos de improbidade. Caso arquivado."
+ },
+ {
+  "i": 7,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 8,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 9,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 10,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Fiscais de Videira não multaram peixaria irregular e MP abre investigação criminal",
+  "description": "O inquérito apurou a conduta de servidores municipais durante fiscalização sanitária na peixaria Meu Peixinho, em novembro de 2024: apesar de constatarem inúmeras irregularidades no manuseio e no armazenamento de pescado, os fiscais não lavraram auto de infração nem tomaram outra medida contra o estabelecimento. O MP não viu improbidade administrativa e arquivou a investigação cível, mas identificou indícios do crime de prevaricação e abriu procedimento investigatório criminal."
+ },
+ {
+  "i": 11,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 12,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 13,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 14,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 15,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP não comprova apagamento de dados na troca de gestão de Videira em 2017",
+  "description": "A investigação apurou a notícia de que servidores teriam suprimido dados dos computadores da prefeitura, dificultando a transição entre as gestões de 2016 e 2017. A conduta não foi demonstrada e o inquérito foi arquivado."
+ },
+ {
+  "i": 16,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🔴 ACP ajuizada",
+  "severity": "alta",
+  "title": "MP processa servidora de Videira por maus-tratos a alunos de creche municipal",
+  "description": "O inquérito apurou a suposta prática de maus-tratos contra alunos do CEMEI Ambrósio Fiorese, em Videira, por uma servidora pública municipal. O procedimento evoluiu para a Justiça: o MP ajuizou ação civil pública por improbidade administrativa contra a investigada. Acusação não é condenação — o processo corre na Justiça."
+ },
+ {
+  "i": 17,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟠 ACNP firmado",
+  "severity": "media",
+  "title": "Servidor de Videira faz acordo com o MP por administrar empresa médica privada",
+  "description": "O inquérito apurou se um servidor público municipal cometeu improbidade ao administrar uma empresa privada de serviços médicos e prestar serviços a outra, em Videira. O caso terminou em acordo de não persecução cível com o investigado, e o inquérito foi arquivado, com a promoção submetida ao Conselho Superior do MP."
+ },
+ {
+  "i": 18,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🔴 ACP ajuizada",
+  "severity": "alta",
+  "title": "MP leva à Justiça improbidade em Videira apurada na Operação Emergência",
+  "description": "O inquérito reuniu provas colhidas na Operação Emergência para apurar atos de improbidade administrativa praticados no Município de Videira. O procedimento evoluiu para processo judicial em 2023. Acusação não é condenação — o caso corre na Justiça."
+ },
+ {
+  "i": 19,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 20,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 21,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 22,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 23,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 24,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP descarta direcionamento em pregão da Videira Saneamento",
+  "description": "A investigação apurou possível direcionamento do Pregão Eletrônico 25/2020 da Videira Saneamento (VISAN) a uma empresa de controles automáticos. O MP não encontrou irregularidade nem ato de improbidade e arquivou o caso."
+ },
+ {
+  "i": 25,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 26,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 27,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 28,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 29,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 30,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 31,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 32,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP não vê prejuízo em permissão de uso da Prefeitura de Videira sem reajuste",
+  "description": "O inquérito apurou a suposta ausência de reajuste do valor mensal do Termo de Outorga de Permissão de Uso 263/2011 do município. O MP verificou que a prefeitura fez os ajustes anuais e não encontrou prejuízo ao erário, enriquecimento ilícito ou violação de princípios. Caso arquivado."
+ },
+ {
+  "i": 33,
+  "tipo": "mp",
+  "keep": true,
+  "status": "⚫ prescrito",
+  "severity": "media",
+  "title": "Transporte coletivo de Videira ganha GPS após cobrança do MP, e o resto do caso prescreve",
+  "description": "O inquérito tratava de três frentes: o itinerário da linha 27 do Pregão 95/2013, a falta de competitividade no Pregão 01/2018 e a perturbação do Pregão 27/2018. A primeira foi resolvida por recomendação do MP — o município revisou os itinerários e instalou GPS nos veículos. O extrato publicado no Diário está truncado quanto às demais, e o procedimento foi encerrado com o reconhecimento de prescrição."
+ },
+ {
+  "i": 34,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 35,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 36,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 recomendação cumprida",
+  "severity": "media",
+  "title": "Câmara de Videira retira exigência ilegal de OAB em concurso após recomendação do MP",
+  "description": "O Edital 1/2023 do concurso da Câmara de Vereadores de Videira exigia inscrição na OAB dos bacharéis em direito aprovados para o cargo de controlador interno. O MP considerou a exigência ilegal e recomendou sua retirada. A Câmara acatou integralmente e o inquérito foi arquivado."
+ },
+ {
+  "i": 37,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 recomendação cumprida",
+  "severity": "media",
+  "title": "Site da Prefeitura de Videira era usado para promoção pessoal do prefeito, aponta MP",
+  "description": "O inquérito confirmou que a página institucional do município era usada para promoção pessoal do prefeito, em desacordo com a Constituição Federal, a Constituição estadual e a Lei Orgânica de Videira. O MP recomendou a adequação das inserções publicitárias, a recomendação foi acatada e as publicações foram retiradas do ar. Caso arquivado."
+ },
+ {
+  "i": 38,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 39,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 40,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟠 TAC firmado",
+  "severity": "media",
+  "title": "Acordo com o MP regulariza quatro famílias em área pública no Bairro Santa Gema, em Videira",
+  "description": "O inquérito apurou loteamento clandestino às margens da Rodovia Waldemar Kleinubing, no Bairro Santa Gema. Constatou-se que quatro famílias ocupavam área pública havia de 14 a 25 anos, o que exigia regularização fundiária de interesse social (Reurb-S). O caso terminou em termo de ajustamento de conduta, depois aditado por prorrogação de prazo, e o inquérito foi arquivado."
+ },
+ {
+  "i": 41,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 42,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Capela em área verde de loteamento de Videira é regularizada e MP arquiva o caso",
+  "description": "O inquérito apurou a ocupação irregular de área verde do loteamento Vila Verde pela capela e pelo pavilhão da Comunidade Nossa Senhora de Monte Serrat. A desafetação da área e a compensação ambiental foram concluídas, a irregularidade foi sanada e o caso foi arquivado."
+ },
+ {
+  "i": 43,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 44,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 45,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Videira vai à Justiça retomar área pública ocupada no Bairro Rio das Pedras",
+  "description": "O inquérito apurou a ocupação irregular de área comunitária do município na Avenida Treze Tílias, no Bairro Rio das Pedras. Como a prefeitura ajuizou ação de reintegração de posse para proteger o patrimônio público, o objeto do procedimento se esgotou e o MP arquivou o caso."
+ },
+ {
+  "i": 46,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 47,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 48,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 49,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 50,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 51,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟡 em apuração",
+  "severity": "media",
+  "title": "MP apura mudança feita em estrada municipal na Linha Camboin, em Videira",
+  "description": "Inquérito civil instaurado para apurar possível irregularidade na modificação da estrada municipal da Linha Camboin, entre a Linha Bocó Rapado e a Linha Scalabrin. Caso em apuração."
+ },
+ {
+  "i": 52,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Videira perdeu 595 kg de carne em câmara fria quebrada, mas MP não vê responsáveis",
+  "description": "O inquérito apurou o descarte de 595,25 kg de carnes armazenadas na câmara fria do município, estragadas pelo mau funcionamento do aparelho. O MP reconheceu o dano ao erário, mas concluiu que não houve má-fé nem dolo dos servidores, já que a perda decorreu de causas alheias à sua ação ou omissão. Caso arquivado."
+ },
+ {
+  "i": 53,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 54,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Conselho Tutelar de Videira ganha sede nova e acessível após cobrança do MP",
+  "description": "O inquérito tratava das condições estruturais e de acessibilidade da sede do Conselho Tutelar. Uma nova sede foi construída, atendendo às exigências legais de acessibilidade, e as irregularidades do imóvel antigo foram sanadas. Caso arquivado."
+ },
+ {
+  "i": 55,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 56,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 57,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP não comprova entrega de alimentos vencidos a abrigo de crianças em Videira",
+  "description": "A investigação apurou a suposta entrega, pelo município, de alimentos com prazo de validade vencido ao Abrigo Institucional Lar Menino de Jesus I. Não houve provas da irregularidade e o MP arquivou o caso por falta de fundamento para prosseguir ou ajuizar ação civil pública."
+ },
+ {
+  "i": 58,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 59,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP não comprova irregularidade em combustível de veículos da Saúde de Videira",
+  "description": "O inquérito apurou possíveis irregularidades no abastecimento de combustível dos veículos da Secretaria Municipal de Saúde e Ação Social em viagens do Programa de Tratamento Fora do Domicílio. As irregularidades não foram comprovadas e o caso foi arquivado."
+ },
+ {
+  "i": 60,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Videira retoma imóvel público onde funcionava empresa privada e MP arquiva o caso",
+  "description": "O inquérito apurou o uso de imóvel municipal cedido à Associação de Moradores do Bairro São Cristóvão, onde acabou se instalando uma empresa agropecuária. O município adotou medidas de ressarcimento ao erário e retomou o bem; com as irregularidades sanadas, o caso foi arquivado."
+ },
+ {
+  "i": 61,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "MP não comprova irregularidade no fornecimento da cooperativa de agricultores a Videira",
+  "description": "A investigação apurou possíveis irregularidades no fornecimento de produtos alimentícios ao município pela Cooperativa de Pequenos Agricultores de Videira e Iomerê (COPAVIDI). As irregularidades não foram comprovadas e o caso foi arquivado."
+ },
+ {
+  "i": 62,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 recomendação cumprida",
+  "severity": "media",
+  "title": "Videira muda lei para limitar jornada de técnicos em radiologia após recomendação do MP",
+  "description": "O inquérito apontou que a legislação municipal não previa o limite de 24 horas semanais para atividades de radiologia, contrariando a lei federal. O MP recomendou a alteração da lei, o município acatou integralmente e o inquérito foi arquivado."
+ },
+ {
+  "i": 63,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Laudo aponta que calçada é inviável em rua do Bairro Universitário, em Videira",
+  "description": "O inquérito apurou irregularidades nos passeios e calçadas da Rua Alvin Schuler. Laudo técnico atestou a impossibilidade de construir o passeio público e garantir a acessibilidade no local, e o MP arquivou o caso por ausência de interesse de agir."
+ },
+ {
+  "i": 64,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 65,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 66,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 67,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 68,
+  "tipo": "mp",
+  "keep": false
+ },
+ {
+  "i": 69,
+  "tipo": "mp",
+  "keep": true,
+  "status": "🟢 arquivado",
+  "severity": "media",
+  "title": "Perícia confirma que monitores comprados pela Saúde de Videira atendiam ao edital",
+  "description": "O inquérito apurou se os monitores de sinais vitais comprados pelo Fundo Municipal de Saúde no Pregão Eletrônico 14/2020 tinham funcionalidades inferiores às exigidas. Perícia comparativa comprovou que os equipamentos cumpriam os requisitos do edital, e o caso foi arquivado."
+ }
+]

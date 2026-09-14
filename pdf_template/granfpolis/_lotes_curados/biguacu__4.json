@@ -1,0 +1,396 @@
+[
+ {
+  "i": 10,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 11,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 12,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 13,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 14,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 15,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media",
+  "title": "TCE não analisa denúncia sobre concurso de Biguaçu, mas cobra estudo antes de terceirizar",
+  "description": "A denúncia sobre o Edital de Concurso Público 001/2025 não atendeu aos pressupostos de admissibilidade e não foi conhecida. Ainda assim, o tribunal recomendou ao prefeito Salmir da Silva que faça estudo prévio de impacto orçamentário, financeiro e social antes de terceirizar atividades auxiliares como a vigilância patrimonial e que, se comprovada a vantagem para o interesse público, extinga o cargo de guarda patrimonial por lei, com substituição gradual."
+ },
+ {
+  "i": 16,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 parecer pela aprovação",
+  "severity": "media",
+  "title": "TCE recomenda aprovar as contas de 2024 do prefeito de Biguaçu",
+  "description": "O tribunal emitiu parecer prévio recomendando à Câmara de Vereadores a aprovação das contas de governo de 2024, com recomendação para que a prefeitura corrija a deficiência apontada pelo órgão instrutivo. O julgamento final cabe à Câmara."
+ },
+ {
+  "i": 17,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 18,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 19,
+  "tipo": "tce",
+  "keep": true,
+  "status": "⬛ julgado irregular + multa",
+  "severity": "media",
+  "title": "TCE multa gestores de Biguaçu por esconder dados das parcerias com ONGs",
+  "description": "Inspeção do tribunal apurou fragilidades na transparência dos dados das parcerias do município com organizações da sociedade civil, o que compromete o controle social. O Pleno considerou os atos irregulares e multou os responsáveis pela falta de divulgação dos atos de designação do gestor da parceria e da comissão de monitoramento e avaliação, em desacordo com a Constituição, a Lei de Acesso à Informação e o marco regulatório das organizações da sociedade civil."
+ },
+ {
+  "i": 20,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 21,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 22,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 23,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 24,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 25,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🔴 apontou irregularidade",
+  "severity": "alta",
+  "title": "TCE manda Biguaçu não contratar fiscal de tributos por processo seletivo temporário",
+  "description": "O tribunal julgou parcialmente procedente a denúncia e constatou que o município realizou processo seletivo irregular para contratar fiscais de tributos municipais em caráter temporário, contra a Constituição e a jurisprudência do Supremo. Deu 180 dias para a prefeitura comprovar que se absteve de convocar os aprovados no Processo Seletivo 001/2022 e de abrir novos processos seletivos para a função, sob pena de sanção."
+ },
+ {
+  "i": 26,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 27,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🔴 apontou irregularidade",
+  "severity": "alta",
+  "title": "TCE questiona contrato de gestão da Saúde de Biguaçu usado só para contratar pessoal",
+  "description": "Ao inspecionar o chamamento público que resultou no Contrato de Gestão 02/2025 da Saúde de Biguaçu, o tribunal apontou que o contrato foi celebrado com o objetivo exclusivo de contratar mão de obra, e não de transferir o gerenciamento das unidades de saúde — o que contraria a lei municipal, a Constituição e a Lei de Responsabilidade Fiscal. O relator indeferiu a suspensão imediata, mas convocou em audiência o prefeito e a secretária municipal de Saúde para se justificarem em 30 dias, sob pena de multa."
+ },
+ {
+  "i": 28,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 29,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🔴 apontou irregularidade",
+  "severity": "alta",
+  "title": "IPTU de Biguaçu prescreveu por falta de protesto, e o TCE quer explicações",
+  "description": "Auditoria sobre as rotinas de inscrição, controle e cobrança da dívida ativa do município apontou que créditos de IPTU constituídos entre 2015 e 2016 prescreveram porque não foram levados a protesto extrajudicial, causando dano ao erário pela perda da chance de recuperá-los. O tribunal ampliou o escopo da auditoria para 2023 e convocou em audiência quatro responsáveis — entre eles o ex-secretário municipal da Receita e três dirigentes da administração tributária — para se justificarem em 30 dias, sob pena de multa."
+ },
+ {
+  "i": 30,
+  "tipo": "tce",
+  "keep": true,
+  "status": "⬛ julgado irregular + multa",
+  "severity": "media",
+  "title": "TCE reduz para R$ 995 a multa do prefeito de Biguaçu por servidores designados ad hoc",
+  "description": "Em 2024 o Pleno havia multado o prefeito Salmir da Silva em R$ 3.000,00 por não cumprir determinação de 2019 sobre a regularização de oito servidores designados ad hoc. Em maio de 2025, ao julgar o recurso, o tribunal deu provimento parcial: reduziu a multa para R$ 995,30 — o mínimo vigente à época — e manteve a determinação apenas em relação a um dos servidores, considerando-a cumprida quanto aos demais."
+ },
+ {
+  "i": 31,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 32,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 parecer pela aprovação",
+  "severity": "media",
+  "title": "TCE recomenda aprovar as contas de 2021 do prefeito de Biguaçu",
+  "description": "Ao examinar a prestação de contas do prefeito referente ao exercício de 2021, o TCE emitiu parecer prévio pela aprovação. O julgamento final cabe à Câmara de Vereadores."
+ },
+ {
+  "i": 33,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 34,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 parecer pela aprovação",
+  "severity": "media",
+  "title": "TCE recomenda aprovar as contas de 2022 do prefeito de Biguaçu",
+  "description": "Ao examinar a prestação de contas do prefeito referente ao exercício de 2022, o TCE emitiu parecer prévio pela aprovação. O julgamento final cabe à Câmara de Vereadores."
+ },
+ {
+  "i": 35,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 36,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 37,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 38,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 39,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 40,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 41,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 42,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 43,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 44,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "media",
+  "title": "TCE julga improcedente denúncia sobre a compra de merenda escolar em Biguaçu",
+  "description": "O tribunal considerou improcedente, no mérito, a denúncia sobre supostas irregularidades nas despesas com aquisição de merenda escolar pela Prefeitura de Biguaçu, e deu ciência à diretoria-geral de controle externo para avaliar a inclusão do tema no programa de fiscalização. Os autos foram arquivados."
+ },
+ {
+  "i": 45,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 46,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 47,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 julgado regular",
+  "severity": "media",
+  "title": "TCE considera regular a taxa do lixo de Biguaçu, mas pede atualização da norma",
+  "description": "A inspeção sobre a Taxa de Coleta de Resíduos Sólidos, instituída por lei municipal de 2007, concluiu que os atos são regulares. O tribunal recomendou que o município avalie a adequação da taxa ao novo marco legal do saneamento e que a contabilidade corrija o nome da conta de receita, hoje registrada como \"Taxa de Limpeza Pública\"."
+ },
+ {
+  "i": 48,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 49,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 50,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 51,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 52,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 53,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 54,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 55,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 56,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 57,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 58,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 59,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 60,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 61,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 62,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 63,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 64,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 65,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 66,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 67,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 68,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 69,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 70,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 71,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 72,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 73,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 74,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 75,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 76,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 77,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 78,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 79,
+  "tipo": "tce",
+  "keep": false
+ }
+]

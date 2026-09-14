@@ -1,0 +1,2633 @@
+{
+ "mp": [
+  {
+   "i": 0,
+   "tipo": "mp",
+   "keep": true,
+   "status": "⚫ prescrito",
+   "severity": "alta",
+   "title": "Caso de suposto direcionamento em licitação de Taió e Salete prescreve",
+   "description": "O inquérito apurou as licitações realizadas pelos municípios de Taió e Salete para contratar assessoria técnica em gerenciamento de projetos e convênios, sob suspeita de direcionamento e frustração do caráter competitivo. O extrato publicado no Diário está truncado; o procedimento foi encerrado com o reconhecimento de prescrição, sem responsabilização."
+  },
+  {
+   "i": 1,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "MP descarta fraude em licitação de Taió vencida por namorado de vereadora",
+   "description": "A notícia de fato apurava possível fraude na Licitação 10/2023 de Taió, porque um dos vencedores mantinha relacionamento amoroso com uma vereadora do município. O MP examinou o processo licitatório em toda a sua extensão e não verificou irregularidade nem ato de improbidade: o mero relacionamento, por si só, não caracteriza ilícito."
+  },
+  {
+   "i": 2,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "Laudo apontou indício de superfaturamento em dedetização da Câmara de Taió, mas MP arquivou",
+   "description": "O inquérito apurou possível superfaturamento na compra de itens e na contratação de serviço de dedetização pelo então presidente da Câmara de Vereadores de Taió. O auxílio técnico chegou a apontar indicativos de superfaturamento; o extrato publicado no Diário está truncado nas razões, e o MP promoveu o arquivamento."
+  },
+  {
+   "i": 3,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "MP não comprova pagamento irregular a médico não especialista em Taió",
+   "description": "O inquérito apurou a suposta ilegalidade nos pagamentos feitos a um médico não especialista pelo município. A irregularidade não foi comprovada, tampouco a não prestação dos serviços, e o MP concluiu pela ausência de dolo e de elementos de improbidade. Caso arquivado."
+  },
+  {
+   "i": 4,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "alta",
+   "title": "Contador da Câmara de Taió teria aumentado o próprio salário na folha",
+   "description": "Inquérito civil apura suposto ato de improbidade administrativa do contador da Câmara de Vereadores de Taió, que teria inserido valores maiores na própria folha de pagamento sem as formalidades cabíveis. Caso em apuração."
+  },
+  {
+   "i": 5,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 6,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 7,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 8,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟠 TAC firmado",
+   "severity": "media",
+   "title": "Câmara de Taió assina acordo com o MP sobre falhas no portal da transparência",
+   "description": "O inquérito apurou irregularidades no site oficial e no portal da transparência do município e da Câmara de Vereadores de Taió. O caso terminou com termo de ajustamento de conduta firmado com a presidência da Casa Legislativa e a abertura de procedimento para acompanhar o cumprimento."
+  },
+  {
+   "i": 9,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 10,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 11,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 12,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 13,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 14,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 15,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 16,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "alta",
+   "title": "MP apura empréstimo de máquinas e cascalho a particulares em Taió sem critério",
+   "description": "Inquérito civil apura a regularidade da política de prestação de serviços de máquinas e fornecimento de insumos como pedra e cascalho a particulares em Taió, investigando a ausência de critérios objetivos e cronológicos de atendimento, a falta de transparência nos registros e a eventual renúncia de receita pública pela não cobrança de preços. Caso em apuração."
+  },
+  {
+   "i": 17,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 18,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP acompanha as regras de parcelamento do solo urbano em Taió",
+   "description": "Procedimento instaurado para acompanhar a estruturação da política de direito urbanístico do município, em especial o regramento do parcelamento do solo urbano. O município e a Câmara de Vereadores figuram no procedimento."
+  },
+  {
+   "i": 19,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 20,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP apura motoristas de Taió sem função fixa e sem curso na área da saúde",
+   "description": "Inquérito civil instaurado para apurar possível desvio de função dos motoristas concursados e celetistas do município, pela ausência de função fixa e pela falta de cursos de formação e reciclagem específicos para os motoristas da área da saúde. Caso em apuração."
+  },
+  {
+   "i": 21,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 22,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP apura gratificações pagas pelo presidente da Câmara de Taió",
+   "description": "Inquérito civil instaurado para apurar irregularidade na concessão de gratificações pelo presidente da Câmara de Vereadores de Taió a quatro servidores efetivos da Casa, por integrarem comissões. Caso em apuração."
+  },
+  {
+   "i": 23,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 24,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "MP não vê promoção pessoal nas redes sociais da Prefeitura de Taió",
+   "description": "A notícia de fato apurava o uso indevido das redes sociais oficiais de Taió para promoção pessoal do prefeito, do vice e do secretário de Planejamento. O noticiante apresentou fatos rasos e publicações esparsas; após a análise, o MP não constatou irregularidade e indeferiu o expediente."
+  },
+  {
+   "i": 25,
+   "tipo": "mp",
+   "keep": true,
+   "status": "❔ status indef.",
+   "severity": "media",
+   "title": "Gratificação a servidores da Câmara de Taió foi paga sem regra que fixasse valores",
+   "description": "O inquérito apurou a concessão de gratificação, por portaria, a servidores efetivos da Câmara de Vereadores pela participação em comissões. O MP registrou a ausência de regramento específico sobre os valores; o extrato publicado no Diário está truncado e não informa o desfecho."
+  },
+  {
+   "i": 26,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 27,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 28,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 29,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 30,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 31,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "alta",
+   "title": "Conselho de Saúde de Taió denuncia retirada de pacientes da fila do SUS",
+   "description": "Inquérito civil apura irregularidades na saúde pública de Taió em 2020, apontadas pelo Conselho Municipal de Saúde: retirada irregular de pacientes do SISREG para agendar consultas e exames pelo consórcio intermunicipal e aumento expressivo de outros indicadores. O extrato publicado no Diário está truncado na lista completa. Caso em apuração."
+  },
+  {
+   "i": 32,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 33,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 34,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP apura recusa de Taió em contratar professores por causa do período eleitoral",
+   "description": "Inquérito civil instaurado para apurar a recusa do município em contratar professores para a rede municipal de ensino, sob a justificativa do período eleitoral. A Secretaria de Educação figura no procedimento."
+  },
+  {
+   "i": 35,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 36,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 37,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 38,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 39,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP cobra de Taió a correção de falhas no sistema municipal de meio ambiente",
+   "description": "Inquérito civil instaurado para averiguar as medidas adotadas pelo município para sanar as irregularidades do Sistema Municipal de Meio Ambiente (SISMUMA), apontadas em relatório do centro de apoio ambiental do MP. Caso em apuração."
+  },
+  {
+   "i": 40,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "alta",
+   "title": "Taió interrompeu fisioterapia, psicologia e fonoaudiologia, aponta denúncia ao MP",
+   "description": "Inquérito civil instaurado a partir de denúncia anônima para apurar a responsabilidade do município pela interrupção e pela deficiência dos serviços de fisioterapia, psicologia e fonoaudiologia, e para fiscalizar a regularização do atendimento com a nomeação de aprovados no Concurso Público 02/2025 ou outra forma de contratação, absorvendo a demanda reprimida. Caso em apuração."
+  },
+  {
+   "i": 41,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP apura o destino das áreas verdes de loteamentos de Taió",
+   "description": "Inquérito civil instaurado para apurar supostas irregularidades em áreas verdes de loteamentos do município, a partir do Projeto Área Verde do Alto Vale do Itajaí. Caso em apuração."
+  },
+  {
+   "i": 42,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 43,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 44,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 45,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 46,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "Servidores de Taió estariam proibidos de trabalhar por motivo político",
+   "description": "Inquérito civil instaurado para apurar possíveis irregularidades na conduta do secretário de Obras de Taió em relação a dois servidores públicos que, segundo a denúncia, estariam sendo impedidos de exercer seus cargos por motivos políticos. Caso em apuração."
+  },
+  {
+   "i": 47,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP apura permissão dada por Taió a empresa para instalar placas e lixeiras",
+   "description": "Inquérito civil instaurado para apurar possíveis irregularidades na permissão concedida pelo município a uma empresa privada para instalar placas de identificação de ruas e lixeiras. Caso em apuração."
+  },
+  {
+   "i": 48,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 49,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP apura o contrato da coleta e triagem do lixo de Taió",
+   "description": "Inquérito civil instaurado para averiguar irregularidades no processo de coleta, triagem e destinação do lixo no município, decorrentes do Contrato 32/2020 firmado com uma associação de recicladores. Caso em apuração."
+  },
+  {
+   "i": 50,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "alta",
+   "title": "Taió teria se recusado a dar posse a conselheiras tutelares eleitas",
+   "description": "Inquérito civil instaurado para apurar eventual irregularidade do município diante da recusa em dar posse às conselheiras tutelares eleitas na eleição suplementar de 2024. Caso em apuração."
+  },
+  {
+   "i": 51,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "Conselho Tutelar de Taió regulariza funcionamento e MP encerra apuração",
+   "description": "O inquérito acompanhou o cumprimento das regras do Estatuto da Criança e do Adolescente e do CONANDA pelo Conselho Tutelar e pelo Conselho Municipal dos Direitos da Criança e do Adolescente de Taió. O MP constatou o funcionamento adequado dos conselhos e as irregularidades sanadas, e arquivou o caso."
+  },
+  {
+   "i": 52,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "Abrigo de Taió corrige tomadas sem proteção e janelas sem trancas",
+   "description": "A notícia de fato apurava irregularidades estruturais no Abrigo Institucional de Taió, com tomadas sem proteção para crianças e janelas sem trancas e sem cortinas. Após visita ao local e ofícios do MP, o município solucionou as irregularidades e o expediente foi indeferido."
+  },
+  {
+   "i": 53,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "alta",
+   "title": "Coordenadora de abrigo de Taió é acusada de omitir importunação sexual entre acolhidos",
+   "description": "O inquérito apurou a conduta da coordenadora do abrigo institucional Casa Lar de Taió: tratamento diferenciado aos acolhidos e desídia em comunicar a ocorrência de ato infracional, depois de acolhidas sofrerem importunação sexual praticada por outro acolhido. O extrato publicado no Diário está truncado no desfecho e registra o ajuizamento de medida judicial."
+  },
+  {
+   "i": 54,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 55,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 56,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP apura como Taió conduziu dois processos disciplinares contra servidoras",
+   "description": "Inquérito civil instaurado para apurar possíveis irregularidades na condução de dois processos administrativos disciplinares por membros de comissão processante do município. Caso em apuração."
+  },
+  {
+   "i": 57,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP acompanha as metas do Plano Municipal de Educação de Taió",
+   "description": "Procedimento instaurado para acompanhar e fiscalizar as ações do município para cumprir as metas definidas na lei que instituiu o Plano Municipal de Educação, durante o ciclo previsto na norma."
+  },
+  {
+   "i": 58,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 59,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 60,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 61,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 62,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 63,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 64,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 65,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 66,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP cobra de Taió a estrutura do Conselho Tutelar e do conselho da criança",
+   "description": "Inquérito civil do programa Qualifica-CT apura o cumprimento, pelo município, pelo Conselho Tutelar e pelo Conselho Municipal dos Direitos da Criança e do Adolescente de Taió, das obrigações do Estatuto da Criança e do Adolescente e das resoluções do CONANDA. Caso em apuração."
+  },
+  {
+   "i": 67,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 68,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 69,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP apura pagamentos de Taió a clínica por consultas de médico não especialista",
+   "description": "Inquérito civil instaurado para apurar a legalidade dos valores pagos pelo município a uma empresa de serviços hospitalares por consultas realizadas por médico não especialista. Caso em apuração."
+  },
+  {
+   "i": 70,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP acompanha a resposta da Defesa Civil à emergência climática em Taió",
+   "description": "Procedimento instaurado para acompanhar e fiscalizar as políticas públicas da Defesa Civil do Estado referentes aos eventos climáticos que levaram Taió à situação de emergência. Entidades empresariais locais figuram no procedimento."
+  },
+  {
+   "i": 71,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 72,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "alta",
+   "title": "MP apura medidas de Taió contra a obrigatoriedade das vacinas do calendário nacional",
+   "description": "Procedimento instaurado para averiguar medidas adotadas pelo Município de Taió contrárias à obrigatoriedade das vacinas que compõem o Calendário Nacional de Vacinação, inclusive contra a covid-19. Caso em apuração."
+  },
+  {
+   "i": 73,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 74,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "MP encerra apuração sobre falta de psicólogos na assistência social de Taió",
+   "description": "O inquérito apurou a eventual falta de profissionais de psicologia e de assistência social no município, que causava demanda reprimida de atendimento. O extrato publicado no Diário está truncado; o procedimento foi arquivado."
+  },
+  {
+   "i": 75,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP apura médico de Taió que descumpriria a jornada de trabalho",
+   "description": "Inquérito civil instaurado para apurar o suposto descumprimento da jornada de trabalho e o desatendimento de deveres funcionais por um médico do município. Caso em apuração."
+  },
+  {
+   "i": 76,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 77,
+   "tipo": "mp",
+   "keep": true,
+   "status": "❔ status indef.",
+   "severity": "media",
+   "title": "MP apura publicidade de empresa em lixeiras e placas de rua de Taió",
+   "description": "A notícia de fato apurou possíveis favorecimentos de publicidade dados a uma empresa pelo Município de Taió nas lixeiras municipais, nas placas de ruas e na 1ª Copa de Futsal da cidade. O MP determinou a expedição de ofício à municipalidade; o extrato publicado está truncado e não informa o desfecho."
+  },
+  {
+   "i": 78,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 79,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 80,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 81,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 82,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "Taió abre processo disciplinar após denúncia de violação de direitos em abrigo",
+   "description": "A notícia de fato averiguou as medidas adotadas pelo município diante da denúncia de violações de direitos de menores acolhidos no abrigo institucional. O ente municipal comunicou a instauração de processo administrativo disciplinar e o expediente foi arquivado."
+  },
+  {
+   "i": 83,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "MP arquiva denúncia de incentivo fiscal trocado por voto em Taió",
+   "description": "A notícia de fato apurava um possível esquema de incentivos tributários concedidos em troca de votos em eleições municipais, envolvendo um particular e uma antiga assistente social do município. O feito estava instruído apenas com elementos simples e foi arquivado."
+  },
+  {
+   "i": 84,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 85,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 86,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 87,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 recomendação cumprida",
+   "severity": "media",
+   "title": "MP proíbe Taió de julgar decisão de conselheiras sobre acolhimento de criança",
+   "description": "O inquérito apurou que o município instaurou processo administrativo disciplinar contra conselheiras tutelares por causa de um acolhimento institucional que elas determinaram, adentrando no mérito da decisão do órgão de proteção. O MP expediu recomendação para que a prefeitura se abstenha de analisar o acerto dessas decisões."
+  },
+  {
+   "i": 88,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP examina projeto que muda a escolaridade de cargo na Câmara de Taió",
+   "description": "Inquérito civil instaurado para apurar possíveis inconstitucionalidades no Projeto de Lei 002/2022 da Câmara de Taió, que convalida lei complementar de 2005 para mudar a nomenclatura e a exigência de escolaridade do cargo de agente administrativo. Caso em apuração."
+  },
+  {
+   "i": 89,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 90,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "MP arquiva caso de médico de Taió que atenderia em clínica particular durante licença",
+   "description": "O inquérito apurou a apresentação frequente de atestados médicos por um servidor e o trabalho em clínica particular enquanto gozava de licença. O extrato publicado no Diário está truncado; o procedimento foi arquivado."
+  },
+  {
+   "i": 91,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 92,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 93,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 94,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 95,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 96,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 97,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 98,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 99,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP cobra de Taió medidas contra risco de deslizamento no Bairro Seminário",
+   "description": "Inquérito civil instaurado para apurar a responsabilidade do município na mitigação dos riscos de deslizamento e na solução do saneamento básico em um imóvel na Rua João Carvalho, no Bairro Seminário. Caso em apuração."
+  },
+  {
+   "i": 100,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP apura atraso na obra da ponte sobre o Ribeirão Pinheiro, em Taió",
+   "description": "Inquérito civil instaurado para apurar eventual atraso na execução da obra de construção da ponte sobre o Ribeirão Pinheiro, no município. Caso em apuração."
+  },
+  {
+   "i": 101,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 102,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "alta",
+   "title": "Transporte escolar de Taió estaria rodando sem monitor",
+   "description": "Inquérito civil instaurado para apurar a ausência de monitor no transporte escolar do Município de Taió. Caso em apuração."
+  },
+  {
+   "i": 103,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 104,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 105,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 106,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 107,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 108,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 109,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP apura risco na estrutura da escola Leopoldo Jacobsen, em Taió",
+   "description": "Inquérito civil instaurado para apurar se persistem irregularidades estruturais na sede da E.E.B. Leopoldo Jacobsen que possam oferecer risco à integridade física dos alunos. Caso em apuração."
+  },
+  {
+   "i": 110,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 111,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 112,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 113,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 114,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 115,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 116,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 117,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "Conselho Tutelar de Taió funcionava com só três conselheiros; vagas foram abertas",
+   "description": "A notícia de fato apurou a irregularidade na composição do Conselho Tutelar de Taió, que funcionava com apenas três conselheiros. O Conselho Municipal dos Direitos da Criança e do Adolescente comprovou a publicação do edital do processo de escolha e o caso foi arquivado."
+  },
+  {
+   "i": 118,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 119,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 120,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 121,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "Obras avançam na escola Leopoldo Jacobsen e MP encerra apuração",
+   "description": "O inquérito apurava irregularidades estruturais na E.E.B. Leopoldo Jacobsen, em Taió, com risco à integridade dos alunos. Com as obras em andamento e a inspeção da Defesa Civil, o MP arquivou o procedimento; o extrato publicado está truncado nas conclusões."
+  },
+  {
+   "i": 122,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "Lar de idosos de Taió funcionaria sem alvará sanitário, apura MP",
+   "description": "Inquérito civil instaurado para apurar irregularidades na Instituição de Longa Permanência de Idosos Associação Lar Beneficente Dona Lisette, no município, especialmente a ausência de alvará sanitário. Caso em apuração."
+  },
+  {
+   "i": 123,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 124,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "alta",
+   "title": "MP apura coordenadora de abrigo de Taió por omissão diante de ato ilícito",
+   "description": "Inquérito civil instaurado para apurar irregularidades, por ação e por omissão, na conduta da coordenadora do Abrigo Institucional de Taió quanto às providências adotadas diante da comunicação de um ato ilícito e quanto ao tratamento diferenciado entre os acolhidos. Caso em apuração."
+  },
+  {
+   "i": 125,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 126,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 127,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 128,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 129,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 130,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 131,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 132,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 133,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 134,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 135,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 136,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 137,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 138,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 139,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 140,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 141,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 142,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "MP arquiva caso de empresa ligada a secretária contratada pela Prefeitura de Taió",
+   "description": "O inquérito apurou a notícia de contratação, pelo município, de pessoa jurídica ligada a uma secretária municipal. O MP concluiu pela inexistência de fundamento para ação judicial e promoveu o arquivamento; o extrato publicado no Diário está truncado nas razões."
+  },
+  {
+   "i": 143,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 144,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 145,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 146,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 147,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 148,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 149,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 150,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 151,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 152,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 153,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 154,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 155,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 156,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 157,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 158,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 159,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 160,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 161,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 162,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 163,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 164,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 165,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 166,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 167,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 168,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 169,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 170,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 171,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 172,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 173,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 174,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 175,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 176,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 177,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 178,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 179,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 180,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 181,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 182,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 183,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 184,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 185,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 186,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 187,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 188,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 189,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 190,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 191,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 192,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 193,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 194,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 195,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 196,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 197,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 198,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 199,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 200,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 201,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 202,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 203,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 204,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 205,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 206,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 207,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 208,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 209,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 210,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 211,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 212,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 213,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 214,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 215,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 216,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 217,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 218,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 219,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 220,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 221,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 222,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 223,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 224,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 225,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 226,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 227,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 228,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 229,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 230,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 231,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 232,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 233,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 234,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 235,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "MP arquiva denúncia de recusa de atendimento por médico da rede de Taió",
+   "description": "A notícia de fato apurou a possível recusa de atendimento por um médico vinculado à Secretaria de Saúde de Taió a uma paciente. O extrato publicado no Diário está truncado; o expediente foi arquivado."
+  },
+  {
+   "i": 236,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 237,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 238,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 239,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 240,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 241,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 242,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 243,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 244,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 245,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 246,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 247,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 248,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 249,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 250,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 251,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 252,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 253,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 254,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 255,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 256,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 257,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 258,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 259,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 260,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 261,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 262,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 263,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 264,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 265,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 266,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 267,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 268,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 269,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 270,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 271,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 272,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "MP encerra caso dos conselheiros de Taió que levaram crianças ao abrigo no dia seguinte",
+   "description": "O inquérito apurou a conduta de conselheiros tutelares de Taió que fizeram o acolhimento emergencial de menores mas só os levaram ao abrigo institucional no dia seguinte. O extrato publicado no Diário está truncado; o procedimento foi arquivado."
+  },
+  {
+   "i": 273,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 274,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 275,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "title": "MP apurou falta de capacitação de equipe no abrigo institucional de Taió",
+   "description": "A notícia de fato apurou a possível falta de capacitação e o não preenchimento de requisitos técnicos por profissionais que atuam no Abrigo Institucional de Taió. O extrato publicado no Diário está truncado; o expediente foi arquivado."
+  },
+  {
+   "i": 276,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 277,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 278,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 279,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 280,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 281,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 282,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 283,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 284,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 285,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 286,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 287,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 288,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 289,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 290,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 291,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 292,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 293,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 294,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 295,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 296,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 297,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 298,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 299,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 300,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 301,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 302,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 303,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 304,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 305,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 306,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 307,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 308,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 309,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 310,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 311,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "alta",
+   "title": "MP apura mau atendimento a grávida no hospital de Taió",
+   "description": "Inquérito civil instaurado para apurar o eventual mau atendimento prestado a uma mulher grávida no Hospital e Maternidade Dona Lisette, em Taió, em julho de 2024. Caso em apuração."
+  },
+  {
+   "i": 312,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 313,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 314,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 315,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 316,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 317,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 318,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 319,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 320,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 321,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 322,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 323,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 324,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 325,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 326,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 327,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 328,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 329,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 330,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 331,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 332,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 333,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 334,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 335,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 336,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 337,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 338,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 339,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP age para impedir uso de programas de governo em promoção pessoal em Taió",
+   "description": "Inquérito civil instaurado para apurar e atuar preventivamente contra a divulgação de programas governamentais em perfis pessoais de agentes públicos nos municípios de Taió, Salete e Mirim Doce. Caso em apuração."
+  },
+  {
+   "i": 340,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 341,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 342,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP fiscaliza os parcelamentos de solo em tramitação em Taió",
+   "description": "Procedimento instaurado para acompanhar e fiscalizar os procedimentos de parcelamento do solo em trâmite na comarca de Taió, junto ao Cartório de Registro de Imóveis."
+  },
+  {
+   "i": 343,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "title": "MP fiscaliza as atividades dos conselhos tutelares da comarca de Taió",
+   "description": "Procedimento instaurado para acompanhar e fiscalizar as atividades desenvolvidas pelos conselhos tutelares dos municípios que integram a comarca de Taió."
+  },
+  {
+   "i": 344,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟢 recomendação cumprida",
+   "severity": "media",
+   "title": "Hospital de Taió deixa de exigir acompanhante em tempo integral após recomendação do MP",
+   "description": "O inquérito apurava a exigência, pelo Hospital e Maternidade Dona Lisette, de acompanhantes em tempo integral nos casos de internação. A recomendação do MP foi acolhida, a situação foi resolvida e o procedimento arquivado."
+  },
+  {
+   "i": 345,
+   "tipo": "mp",
+   "keep": false
+  },
+  {
+   "i": 346,
+   "tipo": "mp",
+   "keep": true,
+   "status": "🟠 TAC firmado",
+   "severity": "media",
+   "title": "Conselheiro tutelar de Taió assina acordo com o MP para adequar sua conduta",
+   "description": "O inquérito apurava comportamentos de um conselheiro tutelar de Taió incompatíveis com o cargo. O caso terminou com a celebração de termo de ajustamento de conduta para adequar sua atuação aos deveres da função."
+  }
+ ],
+ "tce": [
+  {
+   "i": 0,
+   "tipo": "tce",
+   "keep": true,
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta",
+   "title": "TCE multa ex-prefeito de Taió por contratar fundação sem licitação",
+   "description": "Em tomada de contas especial, o Pleno do TCE julgou irregulares — sem imputação de débito — as contas relativas à contratação da Fundação de Apoio à Educação, Pesquisa e Extensão da Unisul pela Prefeitura de Taió, por dispensa de licitação, para prestação de serviços de \"desenvolvimento institucional\". O ex-prefeito Almir Reni Guski foi multado, com prazo de 30 dias para recolher as sanções aos cofres do município ou recorrer."
+  },
+  {
+   "i": 1,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 2,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 3,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 4,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 5,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 6,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 7,
+   "tipo": "tce",
+   "keep": true,
+   "status": "🟢 parecer pela aprovação",
+   "severity": "media",
+   "title": "TCE recomenda aprovar as contas de 2023 do prefeito de Taió",
+   "description": "Ao examinar a prestação de contas do prefeito referente ao exercício de 2023, o TCE emitiu parecer prévio pela aprovação. O julgamento final cabe à Câmara de Vereadores."
+  },
+  {
+   "i": 8,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 9,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 10,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 11,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 12,
+   "tipo": "tce",
+   "keep": true,
+   "status": "⬛ julgado irregular",
+   "severity": "alta",
+   "title": "TCE confirma direcionamento de licitação de máquinas em Taió a uma empresa",
+   "description": "A partir de representação de um cidadão, o Pleno do TCE julgou procedente a denúncia sobre o Pregão Presencial 10/2023 da Prefeitura de Taió, para contratar seis máquinas remuneradas por hora trabalhada, reconhecendo o direcionamento do certame a uma empresa de terraplanagem. Também considerou irregular a escolha do pregão presencial em vez do eletrônico, sem previsão de requisitos de qualificação técnica no edital, e o pagamento por hora-máquina sem parâmetros de controle."
+  },
+  {
+   "i": 13,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 14,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 15,
+   "tipo": "tce",
+   "keep": true,
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta",
+   "title": "TCE cobra de Taió a licitação do serviço funerário, que nunca foi feita",
+   "description": "Provocado pelo controlador interno do próprio município, o Pleno do TCE julgou procedente a representação sobre a ausência de processo licitatório para a concessão dos serviços funerários de Taió e de decreto que regulamentasse o tema, em afronta à lei municipal. Foram considerados irregulares a falta de cronograma para os decretos de regulamentação da Lei municipal 3.994/2017 e a ausência de qualquer documento que comprovasse os estudos que a prefeitura dizia ter iniciado em 2023."
+  },
+  {
+   "i": 16,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 17,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 18,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 19,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 20,
+   "tipo": "tce",
+   "keep": true,
+   "status": "⬛ julgado irregular + multa",
+   "severity": "media",
+   "title": "TCE multa prefeito de Taió por falhas na licitação do lixo, mas recurso suspende a punição",
+   "description": "O Pleno julgou parcialmente procedente a representação sobre o Edital de Tomada de Preços 53/2021, para coleta, transporte e destinação final dos resíduos sólidos urbanos, e aplicou multas ao prefeito Horst Alexandre Purnhagen, que assinou o edital. Em recurso, o relator atribuiu efeito suspensivo aos itens do acórdão que reconheceram a irregularidade e aplicaram as multas, e devolveu os autos para exame de mérito. A punição não estava produzindo efeitos."
+  },
+  {
+   "i": 21,
+   "tipo": "tce",
+   "keep": true,
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta",
+   "title": "Taió usou R$ 1 milhão do Fundeb para tapar buraco da previdência, decide TCE",
+   "description": "Inspeção do tribunal considerou irregular a aplicação de R$ 1.030.000,00 provenientes do Fundeb para cobrir o déficit atuarial do regime próprio de previdência dos servidores municipais em 2018 e 2019, em desacordo com a lei do Fundeb e a Lei de Diretrizes e Bases da Educação. O então prefeito Almir Reni Guski foi multado em R$ 4.000,00."
+  },
+  {
+   "i": 22,
+   "tipo": "tce",
+   "keep": true,
+   "status": "🟢 parecer pela aprovação",
+   "severity": "media",
+   "title": "TCE recomenda aprovar as contas de 2022 do prefeito de Taió",
+   "description": "Ao examinar a prestação de contas do prefeito referente ao exercício de 2022, o TCE emitiu parecer prévio pela aprovação. O julgamento final cabe à Câmara de Vereadores."
+  },
+  {
+   "i": 23,
+   "tipo": "tce",
+   "keep": true,
+   "status": "⬛ julgado irregular + multa",
+   "severity": "media",
+   "title": "TCE multa prefeito de Taió em R$ 2,8 mil por atraso na entrega das contas",
+   "description": "O Pleno considerou irregular a remessa em atraso da documentação da prestação de contas do prefeito referente a 2022 e multou o prefeito Horst Alexandre Purnhagen em R$ 2.866,71, com prazo de 30 dias para recolher a multa ao Tesouro do Estado ou recorrer."
+  },
+  {
+   "i": 24,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 25,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 26,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 27,
+   "tipo": "tce",
+   "keep": true,
+   "status": "🟢 parecer pela aprovação",
+   "severity": "media",
+   "title": "TCE recomenda aprovar as contas de 2021 do prefeito de Taió",
+   "description": "Ao examinar a prestação de contas do prefeito referente ao exercício de 2021, o TCE emitiu parecer prévio pela aprovação. O julgamento final cabe à Câmara de Vereadores."
+  },
+  {
+   "i": 28,
+   "tipo": "tce",
+   "keep": true,
+   "status": "🟢 parecer pela aprovação",
+   "severity": "media",
+   "title": "TCE recomenda aprovar as contas de 2024 do prefeito de Taió",
+   "description": "Ao examinar a prestação de contas do prefeito referente ao exercício de 2024, o TCE emitiu parecer prévio pela aprovação. O julgamento final cabe à Câmara de Vereadores."
+  },
+  {
+   "i": 29,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 30,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 31,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 32,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 33,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 34,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 35,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 36,
+   "tipo": "tce",
+   "keep": true,
+   "status": "🟢 julgado regular",
+   "severity": "media",
+   "title": "TCE julga regulares as contas de tomada de contas especial em Taió",
+   "description": "Em tomada de contas especial aberta a partir de representação de um cidadão sobre a Prefeitura de Taió e uma construtora, o Pleno julgou as contas regulares e determinou o arquivamento dos autos. Ninguém foi responsabilizado."
+  },
+  {
+   "i": 37,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 38,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 39,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 40,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 41,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 42,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 43,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 44,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 45,
+   "tipo": "tce",
+   "keep": true,
+   "status": "⬛ julgado irregular",
+   "severity": "alta",
+   "title": "Decreto de Taió mudou as regras de processo seletivo depois do resultado, aponta TCE",
+   "description": "A partir de representação do controlador interno do município, o tribunal considerou irregular a edição do Decreto municipal 8.746/2024, que suspendeu vedações do edital do Processo Seletivo 06/2023 depois de o certame já ter sido homologado, e também a contratação temporária de três servidoras com base nesse resultado, por contrariar itens do edital. O TCE deu 30 dias para o prefeito revogar o decreto e comprovar o cumprimento."
+  },
+  {
+   "i": 46,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 47,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 48,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 49,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 50,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 51,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 52,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 53,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 54,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 55,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 56,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 57,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 58,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 59,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 60,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 61,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 62,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 63,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 64,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 65,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 66,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 67,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 68,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 69,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 70,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 71,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 72,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 73,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 74,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 75,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 76,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 77,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 78,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 79,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 80,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 81,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 82,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 83,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 84,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 85,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 86,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 87,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 88,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 89,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 90,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 91,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 92,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 93,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 94,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 95,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 96,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 97,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 98,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 99,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 100,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 101,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 102,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 103,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 104,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 105,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 106,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 107,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 108,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 109,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 110,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 111,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 112,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 113,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 114,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 115,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 116,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 117,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 118,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 119,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 120,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 121,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 122,
+   "tipo": "tce",
+   "keep": false
+  },
+  {
+   "i": 123,
+   "tipo": "tce",
+   "keep": false
+  }
+ ]
+}

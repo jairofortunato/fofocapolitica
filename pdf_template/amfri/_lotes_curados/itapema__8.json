@@ -1,0 +1,382 @@
+[
+ {
+  "i": 25,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 26,
+  "tipo": "tce",
+  "keep": true,
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta",
+  "title": "TCE multa prefeita de Itapema por irregularidade em pregão do transporte escolar",
+  "description": "O tribunal considerou procedente a representação e irregular o Pregão Presencial 04.133/2019, de R$ 2.582.399,96, para contratar transporte escolar com motorista e monitor. Foram aplicadas multas aos responsáveis, entre eles a prefeita de Itapema."
+ },
+ {
+  "i": 27,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 28,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 29,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 30,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 31,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🔴 apontou irregularidade",
+  "severity": "alta",
+  "title": "TCE manda Itapema anular a licitação da concessão do estacionamento rotativo",
+  "description": "O tribunal considerou procedente a representação de uma empresa contra o edital de Concorrência Pública 03.005/2022, que concedia o estacionamento rotativo do município. A irregularidade reconhecida foi a desclassificação indevida da representante, com excesso de formalismo no julgamento do pré-projeto e violação do princípio da vinculação ao edital. O TCE determinou aos responsáveis que anulem todos os atos da licitação."
+ },
+ {
+  "i": 32,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 33,
+  "tipo": "tce",
+  "keep": true,
+  "status": "⬛ julgado irregular",
+  "severity": "alta",
+  "title": "TCE julga irregular repasse de R$ 2,2 milhões de Itapema ao vôlei",
+  "description": "Inspeção do tribunal apurou a concessão de recursos antecipados pela Prefeitura de Itapema à Confederação Brasileira de Voleibol (Termo de Fomento 8/2023, de R$ 2 milhões) e à Federação Catarinense de Voleibol (Termo de Fomento 10/2023, de R$ 200 mil). Em agosto de 2025 o Pleno julgou as contas irregulares, sem imputação de débito, apontando: repasse à CBV sem publicação da justificativa de ausência de chamamento público, sem plano de trabalho detalhado, sem parecer técnico e sem designação de comissão de monitoramento; liquidação irregular do pagamento à FCV; e celebração de termos de fomento para objetos incompatíveis com o marco regulatório das parcerias."
+ },
+ {
+  "i": 34,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🔴 apontou irregularidade",
+  "severity": "media",
+  "title": "TCE aponta falhas em pregão de limpeza de caixas d'água de Itapema",
+  "description": "O tribunal julgou parcialmente procedente a representação de uma dedetizadora contra o Pregão Presencial 04.056.2021, para limpeza de caixas d'água, fossas e controle de pragas. Recomendou à prefeita que, em novos editais, não adote julgamento por menor preço global nem exija reconhecimento de firma em cartório, e determinou que não prorrogue a ata de registro de preços por causa das ilegalidades constatadas."
+ },
+ {
+  "i": 35,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media",
+  "title": "TCE arquiva denúncia sobre excesso de comissionados na Câmara de Itapema",
+  "description": "O procedimento tratava da desproporção entre servidores efetivos e comissionados na Câmara de Vereadores de Itapema. O tribunal considerou o prosseguimento prejudicado porque o objeto repetia o de outro processo já em curso, e arquivou os autos sem análise de mérito."
+ },
+ {
+  "i": 36,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 37,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 38,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 39,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🔴 apontou irregularidade",
+  "severity": "alta",
+  "title": "TCE aponta irregularidades na licitação do complexo de saúde de Itapema",
+  "description": "O tribunal julgou parcialmente procedente a representação de uma construtora contra o Edital de Concorrência 03.009.2021, que licitava a construção da segunda e da terceira etapas do complexo de saúde do município, e considerou irregulares os atos apontados no relatório técnico."
+ },
+ {
+  "i": 40,
+  "tipo": "tce",
+  "keep": true,
+  "status": "⚫ prescrito",
+  "severity": "media",
+  "title": "Caso da frota de caçambas de Itapema prescreve no TCE sem julgamento de mérito",
+  "description": "O tribunal reconheceu a prescrição intercorrente da pretensão sancionatória e extinguiu, sem julgamento de mérito, o processo sobre as despesas com manutenção da frota de caminhões-caçamba da Secretaria de Infraestrutura de Itapema."
+ },
+ {
+  "i": 41,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 42,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 43,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 44,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 45,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 46,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 47,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🟢 parecer pela aprovação",
+  "severity": "media",
+  "title": "TCE recomenda aprovar as contas de 2021 da prefeita de Itapema",
+  "description": "Ao examinar a prestação de contas referente ao exercício de 2021, o TCE emitiu parecer prévio pela aprovação. O julgamento final cabe à Câmara de Vereadores."
+ },
+ {
+  "i": 48,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 49,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 50,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 51,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 52,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 53,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 54,
+  "tipo": "tce",
+  "keep": true,
+  "status": "🔴 apontou irregularidade",
+  "severity": "media",
+  "title": "TCE aponta irregularidade em pregão de material escolar de Itapema",
+  "description": "O tribunal analisou o Pregão Eletrônico 61/2021, para aquisição de material escolar pelo município, e apontou irregularidade no certame."
+ },
+ {
+  "i": 55,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 56,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 57,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 58,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 59,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 60,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 61,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 62,
+  "tipo": "tce",
+  "keep": true,
+  "status": "❔ em tramitação",
+  "severity": "alta",
+  "title": "TCE recebe denúncia sobre falta de vagas nas creches de Itapema",
+  "description": "Denúncia apresentada ao Tribunal de Contas aponta a falta de vagas nas creches municipais de Itapema. O processo estava em tramitação na data da publicação, sem decisão de mérito."
+ },
+ {
+  "i": 63,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 64,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 65,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 66,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 67,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 68,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 69,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 70,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 71,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 72,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 73,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 74,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 75,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 76,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 77,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 78,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 79,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 80,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 81,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 82,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 83,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 84,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 85,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 86,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 87,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 88,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 89,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 90,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 91,
+  "tipo": "tce",
+  "keep": false
+ },
+ {
+  "i": 92,
+  "tipo": "tce",
+  "keep": false
+ }
+]

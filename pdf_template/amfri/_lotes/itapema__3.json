@@ -1,0 +1,635 @@
+{
+ "cidade": "Itapema",
+ "casos": [
+  {
+   "i": 210,
+   "tipo": "mp",
+   "ref": "01.2024.00014083-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00014083-5",
+   "status": "🟡 em apuração",
+   "data": "02/05/2024",
+   "texto": "Joana Darque Duarte e Município de Itapema. verificar a suposta existência de vazamento de esgoto na residência localizada na Rua 902-D, n. 721, casa 1, Alto São Bento, Itapema."
+  },
+  {
+   "i": 211,
+   "tipo": "mp",
+   "ref": "01.2024.00018210-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00018210-3",
+   "status": "🟡 em apuração",
+   "data": "09/05/2024",
+   "texto": "Katia Rovaris de Agostini. apurar eventual irregularidade ambiental e/ou urbanística decorrente da construção de ponte particular por construtora na Rua 102-B, altura do n. 177, Centro, Itapema."
+  },
+  {
+   "i": 212,
+   "tipo": "mp",
+   "ref": "06.2019.00001362-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00001362-5",
+   "status": "❔ status indef.",
+   "data": "14/05/2024",
+   "texto": "Município de Itapema, Marcelo Márcio Correia, Everaldo Medeiro Dias, Carolina Ioppi e Empresa Habitark Engenharia L tda. Conclusão: inexistência de fundamentos para propositura de ação judicial."
+  },
+  {
+   "i": 213,
+   "tipo": "mp",
+   "ref": "01.2024.00014083-5",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00014083-5",
+   "status": "❔ status indef.",
+   "data": "04/06/2024",
+   "texto": "Joana Darque Duarte e Município de Itapema. Conclusão: não se verifica conduta (ou ausência) que justifique a intervenção do Ministério Público neste momento. Isso porque o local apresenta regularidade e eventuais procedimentos administrativos deverão observar os ditames inerentes (art. 5º, LV, CF/88). Da mesma forma, a noticiante poderá tornar a acionar o poder público, em caso de intercorrência na área."
+  },
+  {
+   "i": 214,
+   "tipo": "mp",
+   "ref": "01.2024.00019566-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00019566-4",
+   "status": "🟡 em apuração",
+   "data": "04/06/2024",
+   "texto": "Gabinete do Deputado Egidio Ferrari e Município de Itapema. apurar a situação ocorrida na Rua 444, n. 1210, Morretes, Itapema, envolvendo supostos maus-tratos a dois cachorros da raça pitbull."
+  },
+  {
+   "i": 215,
+   "tipo": "mp",
+   "ref": "01.2024.00018420-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00018420-1",
+   "status": "🟡 em apuração",
+   "data": "05/06/2024",
+   "texto": "Município de Itapema e sigiloso. instaurada para apurar utilização de veículo (caminhão placa OHS 9623) da frota oficial do Município de Itapema, em atividade particular."
+  },
+  {
+   "i": 216,
+   "tipo": "mp",
+   "ref": "01.2024.00019458-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00019458-7",
+   "status": "🟡 em apuração",
+   "data": "05/06/2024",
+   "texto": "Município de Itapema e Andersom. instaurada para apurar suposta obstrução, por particular, da via que interliga as Ruas 720 e 716, Tabuleiro dos Oliveiras, Itapema."
+  },
+  {
+   "i": 217,
+   "tipo": "mp",
+   "ref": "06.2019.00002733-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00002733-0",
+   "status": "❔ status indef.",
+   "data": "26/06/2024",
+   "texto": "Município de Itapema. Conclusão: inexistência de fundamentos para propositura de ação judicial."
+  },
+  {
+   "i": 218,
+   "tipo": "mp",
+   "ref": "06.2023.00004380-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00004380-9",
+   "status": "🟡 em apuração",
+   "data": "27/06/2024",
+   "texto": "Polícia Militar, Polícia Civil, Guarda Municipal e Município de Itapema. verificar/acompanhar o serviço de monitoramento eletrônico prestado nas vias públicas do Município de Itapema/SC."
+  },
+  {
+   "i": 219,
+   "tipo": "mp",
+   "ref": "01.2024.00025425-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00025425-9",
+   "status": "🟡 em apuração",
+   "data": "08/07/2024",
+   "texto": "Município de Itapema e sigiloso.. apurar a ausência de utilização de \"motolâncias\" adquiridas pelo Poder Executivo Municipal."
+  },
+  {
+   "i": 220,
+   "tipo": "mp",
+   "ref": "01.2024.00025423-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00025423-7",
+   "status": "🟡 em apuração",
+   "data": "17/07/2024",
+   "texto": "Município de Itapema; sigiloso. apurar eventual inconstitucionalidade da Lei n. 2.545/2007, regulada pelo Decreto n. 49/2002, sob o aspecto de eventual ofensa à liberdade de expressão e atividade econômica."
+  },
+  {
+   "i": 221,
+   "tipo": "mp",
+   "ref": "06.2024.00003141-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2024.00003141-7",
+   "status": "🟡 em apuração",
+   "data": "26/07/2024",
+   "texto": "ONG Olho Vivo; Município de Itapema. apurar a incompatibilidade da Lei Municipal n. 412/89, frente aos princípios da proporcionalidade, isonomia, impessoalidade e eficiência administrativa, considerando que a exploração dos serviços de táxi no Município de Itapema deve consistir em ato personalíssimo e intransferível."
+  },
+  {
+   "i": 222,
+   "tipo": "mp",
+   "ref": "01.2024.00031748-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00031748-3",
+   "status": "🟡 em apuração",
+   "data": "06/08/2024",
+   "texto": "Município de Itapema; sigiloso. apurar que na área da Rua 2180, Sertão do Trombudo, Itapema/SC, no loteamento Jardim Campo Verde, servidores do Poder Executivo teriam \"derrubado cerca de proteção e invadido a área verde do loteamento\", iniciando um \"aterro para construção de residências na área\"."
+  },
+  {
+   "i": 223,
+   "tipo": "mp",
+   "ref": "01.2024.00027384-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00027384-5",
+   "status": "🟡 em apuração",
+   "data": "15/08/2024",
+   "texto": "Leonardo Arlindo Cordeiro, Adriano Pivotto, Wanderley Dias e Município de Itapema/SC. apurar o suposto uso indevido da frota da Secretaria de Saúde com finalidade particular, no dia 18 de agosto de 2023."
+  },
+  {
+   "i": 224,
+   "tipo": "mp",
+   "ref": "09.2024.00007098-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00007098-7",
+   "status": "🟡 em apuração",
+   "data": "04/09/2024",
+   "texto": "Procon Municipal de Itapema. acompanhar e fiscalizar a aplicação da Lei Estadual n. 19.051, de 28/8/2024, nos estabelecimentos públicos e privados do Município de Itapema/SC, com auxílio do Procon local."
+  },
+  {
+   "i": 225,
+   "tipo": "mp",
+   "ref": "06.2023.00002489-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00002489-0",
+   "status": "❔ status indef.",
+   "data": "06/09/2024",
+   "texto": "Município de Itapema, Douglas Cristian Fontana e Gustavo Roslindo Piffer. Conclusão: inexistência de fundamentos para propositura de ação judicial."
+  },
+  {
+   "i": 226,
+   "tipo": "mp",
+   "ref": "01.2024.00040864-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00040864-8",
+   "status": "🟡 em apuração",
+   "data": "16/09/2024",
+   "texto": "Luciano Rocha Pinto e Município de Itapema. apurar a regularidade da edificação construída na Rua 828 (ao lado do numeral 190), neste Município, de propriedade de Mileane Lazzarotto Farias."
+  },
+  {
+   "i": 227,
+   "tipo": "mp",
+   "ref": "01.2024.00041421-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00041421-7",
+   "status": "🟡 em apuração",
+   "data": "26/09/2024",
+   "texto": "sigiloso. apurar suposto fechamento da afluente do Rio Perequê em decorrência de obras de elevação de terreno realizadas na localidade Sertão do Trombudo, coordenadas 2708'30.3''S4838'01.6W, servidão secundaria B, neste Município de Itapema."
+  },
+  {
+   "i": 228,
+   "tipo": "mp",
+   "ref": "06.2024.00002119-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00002119-6",
+   "status": "🟡 em apuração",
+   "data": "02/10/2024",
+   "texto": "anônimo e Município de Itapema. apurar a constitucionalidade da Lei Ordinária n. 4.522/2024, de autoria do Poder Legislativo de Itapema."
+  },
+  {
+   "i": 229,
+   "tipo": "mp",
+   "ref": "01.2024.00045357-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00045357-6",
+   "status": "🟡 em apuração",
+   "data": "16/10/2024",
+   "texto": "Município de Itapema e sigiloso. apurar eventual negligência nos atendimentos prestados pelo profissional Jorge Miguel, agente do SAMU de Itapema."
+  },
+  {
+   "i": 230,
+   "tipo": "mp",
+   "ref": "06.2023.00004235-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00004235-4",
+   "status": "🟡 em apuração",
+   "data": "16/10/2024",
+   "texto": "31º Batalhão de Polícia Militar e Município de Itapema. apurar a ocorrência de crimes diversos - ambientais, patrimoniais (furto de energia elétrica) e de tráfico de drogas - perpetrados na Rua 450, Morretes, nesta cidade de Itapema, havendo, ainda, possível envolvimento de facção criminosa de abrangência nacional (PGC) naquela localidade."
+  },
+  {
+   "i": 231,
+   "tipo": "mp",
+   "ref": "01.2024.00053159-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00053159-0",
+   "status": "🟡 em apuração",
+   "data": "04/12/2024",
+   "texto": "Município de Itapema. apurar a possível ocorrência de delito previsto na Lei n. 14.133/2024 no Processo Licitatório n. 039/2024, Pregão Eletrônico n. 07.018.2024."
+  },
+  {
+   "i": 232,
+   "tipo": "mp",
+   "ref": "09.2024.00009558-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00009558-9",
+   "status": "🟡 em apuração",
+   "data": "04/12/2024",
+   "texto": "Município de Itapema. acompanhar as melhorias atinentes à iluminação pública da orla das praias situadas no Município de Itapema."
+  },
+  {
+   "i": 233,
+   "tipo": "mp",
+   "ref": "01.2024.00053510-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00053510-9",
+   "status": "🟡 em apuração",
+   "data": "13/12/2024",
+   "texto": "Suzete Terezinha dos Santos Monteiro. apurar suposta ausência de iluminação pública na Rua 706 A2, deste Município de Itapema."
+  },
+  {
+   "i": 234,
+   "tipo": "mp",
+   "ref": "01.2024.00053648-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00053648-5",
+   "status": "🟡 em apuração",
+   "data": "07/01/2025",
+   "texto": "Filipe Pieri Albanaes e Município de Itapema. apurar suposta ausência de escoamento de água na Rua 2170, na proximidade do numeral 228, neste Município de Itapema."
+  },
+  {
+   "i": 235,
+   "tipo": "mp",
+   "ref": "01.2025.00005890-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2025.00005890-0",
+   "status": "🟡 em apuração",
+   "data": "12/03/2025",
+   "texto": "Município de Itapema e Gilmara Ivone Mendes. apurar a suposta existência de esgoto a céu aberto na calçada da Rua 706-D, n. 575, casa 1, Várzea, Itapema."
+  },
+  {
+   "i": 236,
+   "tipo": "mp",
+   "ref": "09.2025.00001797-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00001797-4",
+   "status": "🟡 em apuração",
+   "data": "18/03/2025",
+   "texto": "Município de Itapema. acompanhar o cumprimento da Lei Ordinária n. 4.456/2023 e do Decreto n. 95/2023 no âmbito do Município de Itapema/SC."
+  },
+  {
+   "i": 237,
+   "tipo": "mp",
+   "ref": "06.2024.00005389-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00005389-9",
+   "status": "🟡 em apuração",
+   "data": "04/04/2025",
+   "texto": "CRECI da 11ª Região de Santa Catarina, Marco Antônio Lengler e Plataforma DWV. apurar o relato de que Marco Antônio Lengler estaria anunciando à venda, neste Município de Itapema/SC, o empreendimento denomiado \"Lady Residence\", o qual não teria o devido registro de incorporação imobiliária."
+  },
+  {
+   "i": 238,
+   "tipo": "mp",
+   "ref": "06.2023.00004578-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00004578-4",
+   "status": "🟢 arquivado",
+   "data": "13/05/2025",
+   "texto": "Construtora e Incorporadora J.A. Russi Ltda. e Município de Itapema. Conclusão: impõe-se o arquivamento do presente Inquérito Civil, diante da necessidade de desmembramento das distintas notícias de fato que o compõem, cuja apuração conjunta pode acarretar prejuízos à atuação finalística do Ministério Público."
+  },
+  {
+   "i": 239,
+   "tipo": "mp",
+   "ref": "01.2025.00022237-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2025.00022237-1",
+   "status": "🟡 em apuração",
+   "data": "20/05/2025",
+   "texto": "Município de Itapema. apurar a regularidade do tráfego de veículos na Rua 606, Bairro Tabuleiro das Oliveiras, Itapema/SC, tendo em vista que, segundo representação, no local há intenso trânsito de caminhões e máquinas, em decorrência da existência de uma fábrica de tubos no final da via, que seria muito estreita para comportar o fluxo."
+  },
+  {
+   "i": 240,
+   "tipo": "mp",
+   "ref": "06.2025.00001990-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00001990-6",
+   "status": "🟡 em apuração",
+   "data": "05/06/2025",
+   "texto": "Mileane Lazzarotto Farias e Município de Itapema. apurar a regularidade da edificação situada na Rua 828, n. 260, Bairro Alto São Bento, neste Município de Itapema, de propriedade de Mileane Lazzarotto Farias."
+  },
+  {
+   "i": 241,
+   "tipo": "mp",
+   "ref": "06.2025.00002171-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00002171-2",
+   "status": "🟡 em apuração",
+   "data": "23/06/2025",
+   "texto": "Suzete Teresinha dos Santos Monteiro e Município de Itapema. apurar suposta ausência de iluminação pública na Rua 706-A2, Bairro Várzea, no Município de Itapema."
+  },
+  {
+   "i": 242,
+   "tipo": "mp",
+   "ref": "01.2025.00027062-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2025.00027062-0",
+   "status": "🟡 em apuração",
+   "data": "27/06/2025",
+   "texto": "Acenir Bento Braz, Eduardo Luiz Romario e Município de Itapema. apurar possível inércia e omissão dos órgãos públicos quanto a denúncias de danos ambientais que vêm ocorrendo nas margens do Rio Mata Camboriú, especificamente na Rua 1204-B, Bairro Ilhota, neste Município de Itapema, podendo ocasionar o agravamento do risco de enchente na região, que já sofre com esse problema de maneira recorrente."
+  },
+  {
+   "i": 243,
+   "tipo": "mp",
+   "ref": "06.2024.00004353-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00004353-5",
+   "status": "❔ status indef.",
+   "data": "04/07/2025",
+   "texto": "Município de Itapema e sigiloso. Conclusão: inexistência de fundamentos para propositura de ação judicial."
+  },
+  {
+   "i": 244,
+   "tipo": "mp",
+   "ref": "06.2025.00002517-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00002517-4",
+   "status": "🟡 em apuração",
+   "data": "08/07/2025",
+   "texto": "Município de Itapema e sigiloso. apurar suposta ausência de escoamento de água na Rua 2170, na proximidade do numeral n. 228, no Município de Itapema."
+  },
+  {
+   "i": 245,
+   "tipo": "mp",
+   "ref": "06.2022.00004375-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004375-0",
+   "status": "🟢 arquivado",
+   "data": "16/07/2025",
+   "texto": "Município de Itapema. Conclusão: Inquérito Civil. Cidadania. Deficiência nos atendimentos às crianças e aos adolescentes com diagnóstico de transtorno do espectro autista, em descumprimento à Lei n. 12.764/12/2012, que institui a política nacional de proteção dos direitos destas pessoas. Inexistência de omissão do Município em promover o atendimento às pessoas com TEA. Ausência de fundamento para a continuidade ou adoção de qualquer medida no presente procedimento. Promoção de arquivamento. Submissão à homologação ao egrégio Conselho Superior do Ministério Público."
+  },
+  {
+   "i": 246,
+   "tipo": "mp",
+   "ref": "09.2025.00005261-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00005261-6",
+   "status": "🟡 em apuração",
+   "data": "11/08/2025",
+   "texto": "Município de Itapema. acompanhar eventual implantação de vagas em Serviço Residência Terapêutico, equipamento da Rede de Atenção Psicossocial (RAPS), no Município de Itapema, em razão da possível existência de pacientes que necessitem dos serviços e que possuem vínculos com o município."
+  },
+  {
+   "i": 247,
+   "tipo": "mp",
+   "ref": "09.2025.00005479-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00005479-1",
+   "status": "🟡 em apuração",
+   "data": "12/08/2025",
+   "texto": "Município de Itapema, Hospital Santo Antônio e sigiloso. acompanhar e fiscalizar o \"Programa de Humanização do Atendimento Hospitalar\", no Hospital Santo Antônio, no Município de Itapema, especialmente a fim de averiguar se houve nomeação para os cargos criados e se estes estão sendo devidamente exercidos em benefício do Hospital Santo Antônio. Ainda, acompanhar a vacância e eventual necessidade de preenchimento dos cargos de médicos especialistas (6 vagas para médico cardiologista, 4 para neuropediatra e 5 para cirurgião dentista - todas não preenchidas)."
+  },
+  {
+   "i": 248,
+   "tipo": "mp",
+   "ref": "06.2025.00002517-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00002517-4",
+   "status": "❔ status indef.",
+   "data": "08/09/2025",
+   "texto": "Município de Itapema e sigiloso. Conclusão: a resolução fática da questão que deu origem a este procedimento acarreta a perda superveniente de seu objeto, tornando desnecessária a continuidade das apurações ou a propositura de uma Ação Civil Pública, uma vez que não subsiste a lesão ou ameaça de lesão ao interesse coletivo que se buscava tutelar."
+  },
+  {
+   "i": 249,
+   "tipo": "mp",
+   "ref": "06.2025.00003401-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00003401-8",
+   "status": "🟡 em apuração",
+   "data": "09/09/2025",
+   "texto": "Município de Itapema. apurar a regularidade do tráfego de veículos e a adequação das calçadas da Rua 606, no Bairro Tabuleiro das Oliveiras, neste Município, em razão dos riscos à segurança e à acessibilidade dos pedestres, assim como a efetividade do exercício do poder de polícia administrativa desempenhado pelo Município de Itapema/SC no controle urbanístico."
+  },
+  {
+   "i": 250,
+   "tipo": "mp",
+   "ref": "06.2022.00004369-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00004369-3",
+   "status": "❔ status indef.",
+   "data": "15/09/2025",
+   "texto": "Município de Itapema. Conclusão: o objeto da investigação perdeu-se, não subsistindo, no momento, fundamentos para a propositura de Ação Civil Pública ou para o prosseguimento das apurações."
+  },
+  {
+   "i": 251,
+   "tipo": "mp",
+   "ref": "06.2024.00003141-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00003141-7",
+   "status": "🟢 arquivado",
+   "data": "16/09/2025",
+   "texto": "Município de Itapema e ONG Olho Vivo. Conclusão: expedido o Ofício Recomendatório n. 0002/2024/03PJ/ITM ao Município de Itapema e tendo este acatado a recomendação ministerial, promove-se o arquivamento do presente Inquérito Civil, com fundamento no artigo 48, inciso III, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 252,
+   "tipo": "mp",
+   "ref": "01.2025.00048816-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2025.00048816-9",
+   "status": "🟡 em apuração",
+   "data": "17/09/2025",
+   "texto": "Município de Itapema e Keiffer Becker. apurar possível descumprimento da Lei de Acesso à Informação (Lei Federal n. 12.527/2011), no âmbito do Município de Itapema/SC."
+  },
+  {
+   "i": 253,
+   "tipo": "mp",
+   "ref": "01.2025.00049781-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2025.00049781-3",
+   "status": "🟡 em apuração",
+   "data": "17/09/2025",
+   "texto": "Município de Itapema e sigiloso(a). apurar suposta omissão quanto ao chamamento de Pessoa com Deficiência (PcD) no Processo Seletivo n. 0016/2023, promovido pelo Município de Itapema/SC, relativamente ao cargo de \"agente administrativo\"."
+  },
+  {
+   "i": 254,
+   "tipo": "mp",
+   "ref": "01.2025.00038906-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00038906-0",
+   "status": "🟢 arquivado",
+   "data": "18/09/2025",
+   "texto": "Município de Itapema e sigiloso. Conclusão: não subsistindo, neste momento, fundamento jurídico que justifique a continuidade do presente expediente, impõe- se o indeferimento da Notícia de Fato, por ausência de justa causa para a atuação ministerial no âmbito da tutela da moralidade administrativa."
+  },
+  {
+   "i": 255,
+   "tipo": "mp",
+   "ref": "06.2016.00007512-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2016.00007512-1",
+   "status": "🟢 arquivado",
+   "data": "29/09/2025",
+   "texto": "Município de Itapema. Conclusão: considerando que a atuação preventiva deste Órgão de Execução, por meio da expedição da Recomendação n. 0007/2025/03PJ/ITM, obteve êxito, sendo acatada pelo Município de Itapema, o arquivamento do presente feito revela-se medida adequada e necessária."
+  },
+  {
+   "i": 256,
+   "tipo": "mp",
+   "ref": "09.2025.00007202-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00007202-3",
+   "status": "🟡 em apuração",
+   "data": "02/10/2025",
+   "texto": "Município de Itapema. acompanhar o andamento do Processo Administrativo Disciplinar (PAD), relacionado à servidora Denize Xavier da Silva, no âmbito do Município de Itapema/SC."
+  },
+  {
+   "i": 257,
+   "tipo": "mp",
+   "ref": "06.2024.00004113-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00004113-7",
+   "status": "❔ status indef.",
+   "data": "03/10/2025",
+   "texto": "Município de Itapema e sigilosos(as). Conclusão: inexistência de fundamento jurídico que justifique a propositura de ação judicial."
+  },
+  {
+   "i": 258,
+   "tipo": "mp",
+   "ref": "06.2025.00004587-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00004587-0",
+   "status": "🟡 em apuração",
+   "data": "29/10/2025",
+   "texto": "Município de Itapema. apurar a falta de acessibilidade para deficientes físicos, em especial pessoas que utilizam cadeira de rodas, atravessarem a ponte do Rio Perequê, ante a elevada inclinação."
+  },
+  {
+   "i": 259,
+   "tipo": "mp",
+   "ref": "06.2023.00003141-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00003141-3",
+   "status": "❔ status indef.",
+   "data": "13/11/2025",
+   "texto": "Maria Dolores Doose Valero, Francisco Doose Valero e Município de Itapema. Conclusão: esgotadas as diligências investigatórias pertinentes e não havendo outros elementos que indiquem a necessidade de novas apurações, verifica-se a ausência de justa causa - entendida como o suporte probatório mínimo de materialidade e autoria do ilícito - para o prosseguimento do feito e, consequentemente, para a propositura de uma ação civil pública."
+  },
+  {
+   "i": 260,
+   "tipo": "mp",
+   "ref": "09.2025.00009164-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00009164-2",
+   "status": "🟡 em apuração",
+   "data": "25/11/2025",
+   "texto": "Município de Itapema. instaurado com a finalidade de acompanhar o encaminhamento, ao Poder Legislativo Municipal, do Projeto de Lei \"que dispõe sobre a criação, estruturação organizacional e funcionamento da Controladoria Geral do Município, bem como sobre a"
+  },
+  {
+   "i": 261,
+   "tipo": "mp",
+   "ref": "01.2025.00064178-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2025.00064178-9",
+   "status": "🟡 em apuração",
+   "data": "16/12/2025",
+   "texto": "Vanderlei Elias Duarte e Município de Itapema. apurar suposta morosidade injustificada na análise do SPU n. 8.387/2025, referente à renovação do Alvará Sanitário n. 160/2024."
+  },
+  {
+   "i": 262,
+   "tipo": "mp",
+   "ref": "09.2025.00009934-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00009934-5",
+   "status": "🟡 em apuração",
+   "data": "17/12/2025",
+   "texto": "Município de Itapema. apurar a inexistência de calçamento entre as Ruas 298 e 300 em Meia Praia."
+  },
+  {
+   "i": 263,
+   "tipo": "mp",
+   "ref": "06.2023.00003139-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00003139-0",
+   "status": "❔ status indef.",
+   "data": "04/02/2026",
+   "texto": "Abelardo Benigno e Costa Empreendimentos Ltda. e Município de Itapema. Conclusão: considerando que o objeto do presente inquérito civil foi integralmente absorvido e resolvido pela autocomposição homologada judicialmente, a qual substitui as imputações anteriores e estabelece mecanismos de fiscalização pelo Ministério Público e órgãos ambientais, a continuidade desta investigação perde seu objeto."
+  },
+  {
+   "i": 264,
+   "tipo": "mp",
+   "ref": "06.2026.00000597-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2026.00000597-1",
+   "status": "🟡 em apuração",
+   "data": "30/03/2026",
+   "texto": "Município de Itapema e sigiloso(a). apurar suposto descumprimento da Lei de Acesso à Informação (Lei n. 12.527/2011) pelo Município de Itapema."
+  },
+  {
+   "i": 265,
+   "tipo": "mp",
+   "ref": "06.2026.00001907-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2026.00001907-6",
+   "status": "🟡 em apuração",
+   "data": "28/05/2026",
+   "texto": "Município de Itapema. apurar a segurança de transeuntes na Ponte Perequê-Itapema."
+  },
+  {
+   "i": 266,
+   "tipo": "mp",
+   "ref": "01.2022.00008766-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00008766-0",
+   "status": "🟢 arquivado",
+   "data": "28/09/2022",
+   "texto": "Reniére Augusto Dadam. Conclusão: trata-se de Notícia de Fato instaurada mediante representação a qual o noticiante trouxe o relato de poluição sonora causada pelo estabelecimento Jaws Bar. Em análise, verificou-se que o fato denunciado não se insere no contexto de poluição sonora, uma vez que não foi possível medir o nível de pressão sonora indicada pelo noticiante, o qual, inclusive, comunicou aos fiscais que o volume do estabelecimento não era tão alto em comparação às atividades da época de veraneio. Indeferimento que se impõe."
+  },
+  {
+   "i": 267,
+   "tipo": "mp",
+   "ref": "01.2022.00013508-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00013508-0",
+   "status": "❔ status indef.",
+   "data": "28/09/2022",
+   "texto": "Fausto José Ioppi. Conclusão: trata-se de Notícia de Fato instaurada em decorrência de registro de atendimento, mediante o qual o noticiante trouxe o relato de poluição sonora causada pela praça de alimentação do Calçadão Praia Shopping, situado em Itapema. Em análise, verificou-se que não há como seguramente apontar o estabelecimento como sendo o responsável pelo ruído indicado pelo noticiante, isso porque o empreendimento se localiza em Zona Residencial e Zona Mista Diversificada, portanto mista, com predominância de atividades comerciais e/ou administrativas, ou seja, o zoneamento permite todas as atividades ali instaladas e a própria avenida Nereu Ramos por si só já causa ruídos pelo tráfego de veículos."
+  },
+  {
+   "i": 268,
+   "tipo": "mp",
+   "ref": "01.2022.00013512-4",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00013512-4",
+   "status": "❔ status indef.",
+   "data": "28/09/2022",
+   "texto": "Eduardo David Alvarez Chiapara. Conclusão: trata-se de Notícia de Fato instaurada em decorrência de registro de atendimento, mediante o qual o noticiante trouxe o relato de poluição sonora na casa de um vizinho. Em análise, verificou-se que o fato denunciado não se insere no conceito de poluição sonora, caso houvesse demonstração técnica do ruído, justamente porque os episódios acontecem de forma esporádica."
+  },
+  {
+   "i": 269,
+   "tipo": "mp",
+   "ref": "01.2022.00013510-2",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00013510-2",
+   "status": "🟢 arquivado",
+   "data": "30/09/2022",
+   "texto": "André Henrique Pavan de Mattos e Bruna Marca Mattei. Conclusão: trata-se de Notícia de Fato instaurada para apurar suposta poluição sonora causada pelo estabelecimento comercial Prime Beef, situado em Itapema/SC. Em análise, verificou-se a ausência de elementos probatórios aptos para configurar o crime de poluição sonora, em especial o laudo técnico. Indeferimento é medida que se impõe."
+  },
+  {
+   "i": 270,
+   "tipo": "mp",
+   "ref": "06.2021.00001805-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00001805-7",
+   "status": "🔴 ACP ajuizada",
+   "data": "28/06/2023",
+   "texto": "sigiloso. Conclusão: Inquérito Civil instaurado para apurar possível construção irregular e supressão de vegetação em área de preservação permanente na Rua 1208 - B2, n. 164, Bairro Ilhota, Itapema. Ajuizamento de Ação Civil Pública."
+  },
+  {
+   "i": 271,
+   "tipo": "mp",
+   "ref": "01.2024.00053663-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00053663-0",
+   "status": "🟡 em apuração",
+   "data": "22/11/2024",
+   "texto": "sigiloso. apurar suposto aterro de área de preservação permanente de nascente e de curso d'água, no imóvel localizado na Estrada Geral do sertão do Trombudo, n. 5580, Itapema, supostamente de propriedade de Claudinei Pisa."
+  },
+  {
+   "i": 272,
+   "tipo": "mp",
+   "ref": "01.2024.00053671-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00053671-9",
+   "status": "🟡 em apuração",
+   "data": "22/11/2024",
+   "texto": "sigiloso. apurar suposta poluição sonora oriunda do Colégio Maria de Lourdes Cardoso Mallmann, localizada na Rua 294, n. 435, Meia Praia, Itapema."
+  },
+  {
+   "i": 273,
+   "tipo": "mp",
+   "ref": "06.2025.00002524-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00002524-1",
+   "status": "🟡 em apuração",
+   "data": "08/09/2025",
+   "texto": "Sérgio Nazareno Cabral Júnior. apurar suposto aterro em Área de Preservação Permanente (APP)."
+  },
+  {
+   "i": 274,
+   "tipo": "mp",
+   "ref": "06.2025.00002509-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00002509-6",
+   "status": "🟡 em apuração",
+   "data": "09/09/2025",
+   "texto": "Colégio Maria de Lourdes Cardoso Mallmann. apurar possível poluição sonora oriunda do Colégio Maria de Lourdes Cardoso Mallmann."
+  },
+  {
+   "i": 275,
+   "tipo": "mp",
+   "ref": "06.2025.00002523-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00002523-0",
+   "status": "🟡 em apuração",
+   "data": "09/09/2025",
+   "texto": "sigiloso. apurar suposto aterro de Área de Preservação Permanente (APP) de nascente e curso d'água."
+  },
+  {
+   "i": 276,
+   "tipo": "mp",
+   "ref": "09.2021.00005596-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2021.00005596-3",
+   "status": "🟢 arquivado",
+   "data": "14/01/2022",
+   "texto": "C.T.I., Z.P. e C.C.G. Conclusão: Procedimento Administrativo instaurado para apurar situação da adolescente C.C.G., em razão da autoviolação de direitos. Realizada audiência, verificou-se que os fatos que motivaram a instauração do presente procedimento continuam inalterados, sendo patente a situação de risco e vulnerabilidade da interessada, em decorrência da própria conduta e da negligência materna, razão pela qual determinou-se o ajuizamento de ação visando a aplicação de medidas de proteção em favor dela, inclusive o acolhimento institucional. Considerando que as questões inerentes ao grupo familiar em questão serão objeto de ação judicial própria, desnecessário o prosseguimento do presente. Arquivamento."
+  },
+  {
+   "i": 277,
+   "tipo": "mp",
+   "ref": "01.2021.00032131-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2021.00032131-0",
+   "status": "🟢 arquivado",
+   "data": "21/01/2022",
+   "texto": "C.T.I., A.L.F.M.R. e A.F.M.R. Conclusão: Notícia de Fato instaurada para apurar possível situação de risco de A.F.M.R., diante da auto violação de direitos, estando, inclusive, evadida do ambiente escolar. Diante da normalização da situação, com o retorno da aluna aos bancos escolares e a inexistência de indícios de que, atualmente, esteja exposta a alguma situação de risco, conclui-se que não há mais a necessidade de acompanhamento daquela, pela rede de proteção. Indeferimento. Arquivamento."
+  },
+  {
+   "i": 278,
+   "tipo": "mp",
+   "ref": "01.2021.00025492-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2021.00025492-5",
+   "status": "🟡 em apuração",
+   "data": "03/03/2022",
+   "texto": "C.M.A.S., M.I. e C.R.A.S. apurar representação formulada pelo C.M.A.S., acerca de irregularidades nos C.R.A.S. dos Bairros Morretes e Casa Branca."
+  },
+  {
+   "i": 279,
+   "tipo": "mp",
+   "ref": "01.2021.00019147-8",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2021.00019147-8",
+   "status": "🟢 arquivado",
+   "data": "16/03/2022",
+   "texto": "Conselho Municipal de Assistência Social de Itapema e Associação de Pais e Amigos dos Autistas de Itapema. Conclusão: representação dando conta de irregularidades na Associação de Pais e Amigos dos Autistas de Itapema. Ausência de indícios mínimos dos fatos narrados na representação, que fora embasada em depoimento prestado por mães que, sem fundamento, questionam os métodos utilizados pela instituição investigada. Fatos devidamente justificados pela Coordenação da Associação. Indeferimento."
+  }
+ ]
+}

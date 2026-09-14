@@ -1,0 +1,635 @@
+{
+ "cidade": "Taió",
+ "casos": [
+  {
+   "i": 210,
+   "tipo": "mp",
+   "ref": "01.2024.00000110-1",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00000110-1",
+   "status": "🟢 arquivado",
+   "data": "08/02/2024",
+   "texto": "D.S.J.; G.D.S. e E.K.P.I. Conclusão: Notícia de Fato instaurada para apurar eventual situação de risco vivenciada pelas infantes G.D.S e E.K.P.I., por conta de possível abuso sexual. Situação de vulnerabilidade superada. Órgãos que compõem a rede de proteção vêm assistindo os menores e sua família de maneira constante, tomando as medidas necessárias ao caso, motivo pelo qual não há falar na adoção de outras providências pelo Ministério Público. Indeferimento."
+  },
+  {
+   "i": 211,
+   "tipo": "mp",
+   "ref": "06.2023.00002608-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00002608-7",
+   "status": "🟡 em apuração",
+   "data": "14/02/2024",
+   "texto": "Marcos Kniess e Laurinda Kniess, apurar a ausência de especialização de reserva legal nos imóveis matriculados sob n. 22.236 e n. 22.238, pertencentes a Marcos Kniess e Laurinda Kniess, localizados em Salete/SC, após a alteração para o perímetro urbano."
+  },
+  {
+   "i": 212,
+   "tipo": "mp",
+   "ref": "01.2024.00004391-3",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00004391-3",
+   "status": "🟢 arquivado",
+   "data": "20/02/2024",
+   "texto": "Osnir Anderle e Sérgio Bagatolli. Conclusão: Notícia de Fato instaurada para apurar a necessidade de internação de Osnir Anderle em Instituição de Longa Permanência para Idosos - ILPI, devido à idade, condição de saúde e falta de familiares. Expedidos ofícios à Secretaria de Saúde e Assistência Social de Taió os órgãos de proteção não verificaram necessidade de internação imediata do idoso. Situação de saúde estável e auxílio prestado pela sobrinha de Osnir. Indeferimento."
+  },
+  {
+   "i": 213,
+   "tipo": "mp",
+   "ref": "06.2023.00002608-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00002608-7",
+   "status": "🟡 em apuração",
+   "data": "22/02/2024",
+   "texto": "Marcos Kniess e Laurinda Kniess. apurar a ausência de especialização de reserva legal nos imóveis matriculados sob n. 22.236 e n. 22.238, pertencentes a Marcos Kniess e Laurinda Kniess, localizados em Salete, após a alteração para o perímetro urbano."
+  },
+  {
+   "i": 214,
+   "tipo": "mp",
+   "ref": "01.2023.00040679-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00040679-0",
+   "status": "🟢 arquivado",
+   "data": "27/02/2024",
+   "texto": "A. S. F. Conclusão: Notícia de Fato instaurada para apurar a atual situação de saúde de A. S. F. e a necessidade de sua internação em estabelecimento de reabilitação ou instituto de psiquiatria. Realizadas diligências por parte dos órgão de saúde e proteção social, constatou-se que a situação parece ter se normalizado, não tendo A. apresentado novos quadros de surtos psicóticos. Indeferimento."
+  },
+  {
+   "i": 215,
+   "tipo": "mp",
+   "ref": "01.2024.00007248-5",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00007248-5",
+   "status": "🟢 arquivado",
+   "data": "01/03/2024",
+   "texto": "Conselho Tutelar de Taió, Joice Aparecida Portes Nickeforuk, Abel Nickeforuk e C.P.N. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de C.P.N., filho de Joice Aparecida Portes Nickeforuk e Abel Nickeforuk, estudante do Ceja de Taió. C.P.N. completará 18 anos em breve. Maioridade que faz cessar a obrigação legal dos genitores em acompanhar a frequência escolar do filho. Indeferimento."
+  },
+  {
+   "i": 216,
+   "tipo": "mp",
+   "ref": "01.2023.00045470-5",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00045470-5",
+   "status": "🟢 arquivado",
+   "data": "06/03/2024",
+   "texto": "E.V.P.F. Conclusão: Notícia de Fato instaurada para apurar eventual situação de risco/vulnerabilidade da adolescente E.V.P.F., nascida em 16 de março de 2011. Aplicação de medidas de proteção pelo Conselho Tutelar. Assistência, pelos órgãos da rede de proteção, à menor e à sua família de maneira constante. Inexistência de lesão ou ameaça a interesse ou direito passível de tutela pelo Ministério Público. Indeferimento."
+  },
+  {
+   "i": 217,
+   "tipo": "mp",
+   "ref": "01.2024.00007995-6",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00007995-6",
+   "status": "🟢 arquivado",
+   "data": "06/03/2024",
+   "texto": "Conselho tutelar de Taió, Cristiane Back, Cristiano Luiz Pasold e C.L.P. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de C.L.P., filha de Cristiane Back e Cristiano Luiz Pasold, estudante da E.E.B. Luiz Bertoli. C.L.P. completará 18 anos em breve. Maioridade que faz cessar a obrigação legal dos genitores em acompanhar a frequência escolar da filha. Indeferimento."
+  },
+  {
+   "i": 218,
+   "tipo": "mp",
+   "ref": "01.2024.00008035-2",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00008035-2",
+   "status": "❔ status indef.",
+   "data": "06/03/2024",
+   "texto": "Conselho Tutelar de Taió; Andréia Adolfo de França da Costa; Odair Jose Nogueira de Andrade e J.C.N.A."
+  },
+  {
+   "i": 219,
+   "tipo": "mp",
+   "ref": "01.2024.00007234-1",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00007234-1",
+   "status": "🟢 arquivado",
+   "data": "13/03/2024",
+   "texto": "Conselho Tutelar de Taió, A.R., C.R. e C.T.R. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de C.T.R., filha de A.R. e C.R., estudante do C EJA de Taió. C.T.R. recentemente deu à luz seu primeiro filho. Evasão escolar justificável diante da situação social da aluna. Continuidade do acompanhamento da família por parte dos órgãos de proteção social. Desnecessidade de atuação ministerial. Indeferimento."
+  },
+  {
+   "i": 220,
+   "tipo": "mp",
+   "ref": "01.2024.00008675-7",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00008675-7",
+   "status": "🟢 arquivado",
+   "data": "13/03/2024",
+   "texto": "Conselho Tutelar de Taió, Ademir Koch, Alzenir dos Santos e I.A.K. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de I.A.K., filho de Ademir Koch e Alzenir dos Santos, estudante do CEJA de Taió. I.A.K. completará 18 anos em breve. Maioridade que faz cessar a obrigação legal dos genitores em acompanhar a frequência escolar do filho. Indeferimento."
+  },
+  {
+   "i": 221,
+   "tipo": "mp",
+   "ref": "01.2024.00009132-7",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00009132-7",
+   "status": "🟢 arquivado",
+   "data": "13/03/2024",
+   "texto": "Conselho Tutelar de Taió; K. de J.B.; I.A. de J. e K.I.B.A.J. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de K.I.B.A.J., filha de K. de J.B. e I.A. de J., estudante da EEF Mun PREF Erna Heidrich. K.I.B.A.J. recentemente deu à luz seu primeiro filho. Evasão escolar justificável diante da situação social da aluna. Continuidade do acompanhamento da família por parte dos órgãos de proteção social. Desnecessidade de atuação ministerial. Indeferimento."
+  },
+  {
+   "i": 222,
+   "tipo": "mp",
+   "ref": "01.2024.00009616-6",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00009616-6",
+   "status": "🟢 arquivado",
+   "data": "18/03/2024",
+   "texto": "Conselho Tutelar de Taió, M.S.R., A.F. e M.F. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de M.F., filha de M.S.R. e A.F., estudante do CEJA de Taió. M.F. encontra-se na fase final de sua gravidez ou deu à luz recentemente seu(sua) primeiro(a) filho(a). Evasão escolar justificável diante da situação social da aluna. Continuidade do acompanhamento da família por parte dos órgãos de proteção social. Desnecessidade de atuação ministerial. Indeferimento."
+  },
+  {
+   "i": 223,
+   "tipo": "mp",
+   "ref": "01.2024.00009632-2",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00009632-2",
+   "status": "🟢 arquivado",
+   "data": "18/03/2024",
+   "texto": "Conselho Tutelar de Taió, C.D.R., A.B. e L.A.B. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de L.A.B., filha de C.D.R. e A.B., estudante do CEJA de Taió. L.A.B. encontra-se em situação excepcional, visto que engravidou aos 16 anos de idade. Evasão escolar justificável diante da situação social da aluna. Continuidade do acompanhamento da família por parte dos órgãos de proteção social. Desnecessidade de atuação ministerial. Indeferimento."
+  },
+  {
+   "i": 224,
+   "tipo": "mp",
+   "ref": "01.2024.00006434-1",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00006434-1",
+   "status": "🟢 arquivado",
+   "data": "25/03/2024",
+   "texto": "A. M. de S. A. Conclusão: Notícia de Fato instaurada para apurar a situação de dependência química, pelo uso de substâncias ilícitas, e possibilidade de internação de A. M. de S. A. Noticiado atualmente preso preventivamente, para garantia da ordem pública. Ausência de lesão ou ameaça a interesse ou direito passível de tutela pelo Ministério Público. Indeferimento."
+  },
+  {
+   "i": 225,
+   "tipo": "mp",
+   "ref": "01.2024.00009827-5",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00009827-5",
+   "status": "🟢 arquivado",
+   "data": "04/04/2024",
+   "texto": "Conselho Tutelar de Taió, Roseli de Andrade, Jaison de Andrade e R.J.A. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de R.J.A., filho de Roseli de Andrade e Jaison de Andrade, estudante do CEJA de Taió. Pesquisas realizadas nos bancos de dados disponíveis, porém nada foi encontrado. Aluno e família em local incerto. Indeferimento por não localização."
+  },
+  {
+   "i": 226,
+   "tipo": "mp",
+   "ref": "01.2024.00009836-4",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00009836-4",
+   "status": "🟢 arquivado",
+   "data": "08/04/2024",
+   "texto": "Conselho Tutelar de Taió, Adriana Tambosi, Jeri Adriano Cirico e A.T.C. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de A.T.C., filho de Adriana Tambosi e Jeri Adriano Cirico, estudante do CEJA de Taió. A.T.C. se comprometeu a retomar às aulas. Frequência devidamente comprovada por atestado de frequência. Indeferimento."
+  },
+  {
+   "i": 227,
+   "tipo": "mp",
+   "ref": "01.2024.00013871-8",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00013871-8",
+   "status": "🟢 arquivado",
+   "data": "16/04/2024",
+   "texto": "Conselho Tutelar de Taió, Joice Mara Schiessler, Vilmar Fernandes e J.V.F. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de J.V.F., filho de Joice Mara Schiessler e Vilmar Fernandes, estudante do CEJA de Taió. J.V.F. completará 18 anos em breve. Maioridade que faz cessar a obrigação legal dos genitores em acompanhar a frequência escolar do filho. Indeferimento."
+  },
+  {
+   "i": 228,
+   "tipo": "mp",
+   "ref": "01.2024.00014730-6",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00014730-6",
+   "status": "🟢 arquivado",
+   "data": "18/04/2024",
+   "texto": "Conselho Tutelar de Taió; Rita de Kassia Braz Salgado; Caio Cesar da Luz e G.A.S.L. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de G.A.S.L., filho de Rita de Kassia Braz Salgado e Caio Cesar da Luz, estudante da EEB Luiz Bertoli. G.A.S.L. completará 18 anos em breve. Maioridade que faz cessar a obrigação legal dos genitores em acompanhar a frequência escolar do filho. Indeferimento."
+  },
+  {
+   "i": 229,
+   "tipo": "mp",
+   "ref": "01.2024.00015838-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00015838-0",
+   "status": "🟢 arquivado",
+   "data": "24/04/2024",
+   "texto": "Conselho Tutelar de Taió, M.M.S. e T.A.S. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de T.A.S., filho de C.A. e M.M.S., estudante do Ceja de Taió. T.A.S. encontra-se em situação excepcional, precisando abandonar os estudos momentaneamente em vista do falecimento da mãe e situação médica do pai, que o transformou no responsável financeiro da família. Continuidade do acompanhamento da família por parte dos órgãos de proteção social. Indeferimento."
+  },
+  {
+   "i": 230,
+   "tipo": "mp",
+   "ref": "01.2023.00046965-3",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00046965-3",
+   "status": "❔ status indef.",
+   "data": "29/04/2024",
+   "texto": "A.B. da S. Conclusão: Notícia de Fato instaurada para apurar possíveis situações de trabalho infantil, ou vulnerabilidade envolvendo, pelo menos, o adolescente A.B. da S., nascido em 14/3/2006, conforme as informações remetidas a esta Promotoria de Justiça pela Promotoria de Justiça de Rio do Oeste. Procedimento declinado da Comarca de Otacílio Costa para a de Taió. Constatação de que o interessado atingiu a maioridade. Inexistência de indicativos de que se trata de pessoa incapaz. Ausência de lesão ou ameaça a interesse ou direito passível de tutela pelo Ministério Público, porquanto, em virtude da plena capacidade civil, não carece de intervenção deste Órgão Ministerial."
+  },
+  {
+   "i": 231,
+   "tipo": "mp",
+   "ref": "06.2024.00001120-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00001120-0",
+   "status": "🟡 em apuração",
+   "data": "29/04/2024",
+   "texto": "Aristides Eloi Valentini e Inalva Terezinha Valentini. apurar possível ausência de especialização da área de Reserva Legal do imóvel matriculado sob o n. 22.703 (originário da Matrícula Imobiliária n. 1.859), o qual era localizado na zona rural e passou a integrar o perímetro urbano deste município."
+  },
+  {
+   "i": 232,
+   "tipo": "mp",
+   "ref": "06.2024.00001121-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00001121-0",
+   "status": "🟡 em apuração",
+   "data": "29/04/2024",
+   "texto": "Harpel Indústria de Materiais Reciclados Ltda. apurar possível ausência de especialização da área de Reserva Legal do imóvel matriculado sob o n. 22.686 (originário da Matrícula Imobiliária n. 11.686), o qual era localizado na zona rural e passou a integrar o perímetro urbano deste município."
+  },
+  {
+   "i": 233,
+   "tipo": "mp",
+   "ref": "01.2024.00017921-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00017921-0",
+   "status": "🟢 arquivado",
+   "data": "07/05/2024",
+   "texto": "Conselho Tutelar de Taió, J.P.F., S.F. e J.P.F. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de J.P.F., filho de J.P.F. e S.F., estudante da E.E.B. Luiz Bertoli. J.P.F. completará 18 anos em breve. Maioridade que faz cessar a obrigação legal dos genitores em acompanhar a frequência escolar do filho. Indeferimento."
+  },
+  {
+   "i": 234,
+   "tipo": "mp",
+   "ref": "01.2024.00017926-4",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00017926-4",
+   "status": "🟢 arquivado",
+   "data": "07/05/2024",
+   "texto": "Conselho Tutelar de Taió, M. de A., J.C.H. e P.T.A.H. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de P.T.A.H., filha de M. de A. e J.C.H., estudante do CEJA de Taió. P.T.A.H. completará 18 anos em breve. Maioridade que faz cessar a obrigação legal dos genitores em acompanhar a frequência escolar da filha. Indeferimento."
+  },
+  {
+   "i": 235,
+   "tipo": "mp",
+   "ref": "01.2024.00006233-2",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00006233-2",
+   "status": "🟢 arquivado",
+   "data": "08/05/2024",
+   "texto": "Lúcia de Lima Viante, Michel Ellwanger Moreira e Secretaria de Saúde de Taió. Conclusão: Notícia de Fato instaurada para apurar possível recusa de atendimento, por parte do médico Michel, vinculado à Secretaria de Saúde de Taió, à senhora Lúcia de Lima Viante. Expediu-se ofício à Secretaria de Saúde de Taió. Recusa de atendimento não foi verificada. A noticiante não trouxe mais provas que auxiliassem na apuração do feito. Impossibilidade de realização de outras diligências por este órgão ministerial. Indeferimento."
+  },
+  {
+   "i": 236,
+   "tipo": "mp",
+   "ref": "01.2024.00011819-9",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00011819-9",
+   "status": "🟢 arquivado",
+   "data": "16/05/2024",
+   "texto": "Conselho Tutelar de Taió, S.I.D., J.P.S. e A.K.D.S. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de A.K.D.S., filha de S.I.D. e J.P.S., estudante da E.E.B. Leopoldo Jacobsen. Realizou-se audiência em 4/4. Realizada consulta com médico neurologista, o profissional indiciou que a aluna frequentasse somente a APAE no momento, em vista de seu quadro de saúde. Caso atípico de adolescente que sofre de deficiência neurológica. Continuidade do acompanhamento da família por parte dos órgãos de proteção social. Indeferimento."
+  },
+  {
+   "i": 237,
+   "tipo": "mp",
+   "ref": "01.2024.00021453-4",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00021453-4",
+   "status": "🟢 arquivado",
+   "data": "27/05/2024",
+   "texto": "Conselho Tutelar de Taió; L.A.C.S.; C.A.C e D.S. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de L.A.C.S., filho de C.A.C e D.S., estudante da EEB Luiz Bertoli. L.A.C.S. completará 18 anos em breve. Maioridade que faz cessar a obrigação legal dos genitores em acompanhar a frequência escolar do filho. Indeferimento."
+  },
+  {
+   "i": 238,
+   "tipo": "mp",
+   "ref": "01.2024.00021690-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00021690-0",
+   "status": "🟢 arquivado",
+   "data": "28/05/2024",
+   "texto": "Conselho Tutelar de Taió, J.C.C.S., M.C. e A.F.M.S. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de J.C.C.S., filho de M.C. e A.F.M.S., estudante da EEB Luiz Bertoli. J.C.C.S. completará 18 anos em breve. Maioridade que faz cessar a obrigação legal dos genitores em acompanhar a frequência escolar do filho. Indeferimento."
+  },
+  {
+   "i": 239,
+   "tipo": "mp",
+   "ref": "01.2024.00021471-2",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00021471-2",
+   "status": "❔ status indef.",
+   "data": "05/06/2024",
+   "texto": "Conselho Tutelar de Taió, O.K.V.S.O., N.V. e P.V.G.S.O."
+  },
+  {
+   "i": 240,
+   "tipo": "mp",
+   "ref": "01.2024.00022113-5",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00022113-5",
+   "status": "🟢 arquivado",
+   "data": "05/06/2024",
+   "texto": "Conselho Tutelar de Taió, B.R.R., M.C. e R.C.R. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de B.R.R., filha de M.C. e R.C.R., estudante do CEJA de Taió. B.R.R. está em situação excepcional, tendo acabado de dar à luz sua primeira filha, além de não residir mais com os pais, tendo formado família com seu companheiro. Continuidade do acompanhamento da família por parte dos órgãos de proteção social. Desnecessidade de atuação ministerial. Indeferimento."
+  },
+  {
+   "i": 241,
+   "tipo": "mp",
+   "ref": "01.2024.00022133-5",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00022133-5",
+   "status": "❔ status indef.",
+   "data": "12/06/2024",
+   "texto": "Conselho Tutelar de Taió, K.C.N. de O., J.R. de C.N. e G. de O. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de K.C.N. de O., filha de J.R. de C.N. e G. de"
+  },
+  {
+   "i": 242,
+   "tipo": "mp",
+   "ref": "01.2024.00022765-1",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00022765-1",
+   "status": "🟢 arquivado",
+   "data": "12/06/2024",
+   "texto": "Conselho Tutelar de Taió, R.J. de A., R. de A. e J. de A. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de R.J. de A., filho de R. de A. e J. de A., estudante do CEJA de Taió. Pesquisas realizadas nos bancos de dados disponíveis, porém nada foi encontrado. Aluno e família em local incerto. Indeferimento por não localização."
+  },
+  {
+   "i": 243,
+   "tipo": "mp",
+   "ref": "01.2024.00025778-9",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00025778-9",
+   "status": "🟢 arquivado",
+   "data": "11/07/2024",
+   "texto": "Conselho Tutelar de Taió; M.D.F.; D. de S. e S.A.F. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de M.D.F., filha de D. de S. e S.A.F., estudante da E.E.B. Luiz Bertoli. A aluna está em situação excepcional, constituiu família com seu companheiro e parece passar por quadro depressivo. M.D.F. enfrenta diversas situações de vulnerabilidade social que necessitam de atenção por parte da rede de apoio assistencial para superação e resolução dos problemas, visando a seu retorno efetivo às aulas. Indeferimento."
+  },
+  {
+   "i": 244,
+   "tipo": "mp",
+   "ref": "01.2024.00027999-4",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00027999-4",
+   "status": "🟢 arquivado",
+   "data": "11/07/2024",
+   "texto": "Conselho Tutelar de Taió; K.R. dos S.; E.A.G. dos S. e H.A. dos S. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de K.R. dos S., filho de E.A.G. dos S. e H.A. dos S, estudante da E.E.B. Leopoldo Jacobsen. K.R. dos S. retornou aos bancos escolares. Frequência devidamente comprovada por atestado de frequência. Normalização da situação. Indeferimento."
+  },
+  {
+   "i": 245,
+   "tipo": "mp",
+   "ref": "01.2024.00030073-7",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00030073-7",
+   "status": "🟢 arquivado",
+   "data": "17/07/2024",
+   "texto": "Tatiane Gonçalves Herrera. Conclusão: Notícia de Fato instaurada para apurar eventual medida a ser adotada diante de consulta formulada pela Presidência da Comissão de Processo Administrativo Disciplinar desta municipalidade. Expressa vedação constitucional. Ente ministerial não detém atribuição para prestar consultoria à comissão solicitante, tampouco para indicar qualquer pessoa a fim de acompanhar a menor. Indeferimento."
+  },
+  {
+   "i": 246,
+   "tipo": "mp",
+   "ref": "01.2024.00022137-9",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00022137-9",
+   "status": "🟢 arquivado",
+   "data": "23/07/2024",
+   "texto": "Conselho Tutelar de Taió; B.W.N.S. da S.; L.A.N e P.C.S. da S. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de B.W.N.S. da S., filho de L.A.N e P.C.S. da S., estudante da E.E.B. Leopoldo Jacobsen. O aluno retornou aos bancos escolares. Frequência devidamente comprovada por atestado de frequência. Normalização da situação. Indeferimento."
+  },
+  {
+   "i": 247,
+   "tipo": "mp",
+   "ref": "01.2024.00025758-9",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00025758-9",
+   "status": "🟢 arquivado",
+   "data": "23/07/2024",
+   "texto": "Conselho Tutelar de Taió; H.G.A.; L.G. e D.A. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de H.G.A., filha de L.G. e D.A., estudante da E.E.B. Leopoldo Jacobsen. A aluna retornou aos bancos escolares. Normalização da situação. Indeferimento."
+  },
+  {
+   "i": 248,
+   "tipo": "mp",
+   "ref": "01.2024.00018693-2",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00018693-2",
+   "status": "🟢 arquivado",
+   "data": "29/07/2024",
+   "texto": "Conselho Tutelar de Taió; G.M. dos S.; F.A.S. e L.V.M. dos S. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de G.M. dos S., filha de F.A.S. e L.V.M. dos S., estudante da E.E.B. Luiz Bertoli. Aluna acompanhada por ação judicial de aplicação de medidas de proteção, visto estar inserida em situação de risco/negligência parental. Evasão escolar já noticiada nos autos n. 5000701-20.2022.8.24.0143. Desnecessidade de manutenção deste feito. Indeferimento."
+  },
+  {
+   "i": 249,
+   "tipo": "mp",
+   "ref": "01.2024.00029454-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00029454-0",
+   "status": "🟢 arquivado",
+   "data": "01/08/2024",
+   "texto": "Conselho Tutelar de Taió; A.T.C.; A.T. e J.A.C. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de A.T.C., filho de A.T. e J.A.C., estudante do CEJA de Taió. A.T.C. completará 18 anos em breve. Maioridade que faz cessar a obrigação legal dos genitores em acompanhar a frequência escolar do filho. Indeferimento."
+  },
+  {
+   "i": 250,
+   "tipo": "mp",
+   "ref": "01.2024.00033061-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00033061-0",
+   "status": "🟢 arquivado",
+   "data": "09/08/2024",
+   "texto": "Conselho Tutelar de Taió, I.L. dos S., S.R. de O. e J.P. dos S. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de I.L. dos S., filha de S.R. de O. e J.P. dos S., estudante da E.E.B. Luiz Bertoli. A adolescente encontra-se em situação excepcional, visto que engravidou aos 16 anos de idade. Continuidade do acompanhamento da família por parte dos órgãos de proteção social. Desnecessidade de atuação ministerial. Indeferimento."
+  },
+  {
+   "i": 251,
+   "tipo": "mp",
+   "ref": "01.2024.00033959-9",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00033959-9",
+   "status": "🟢 arquivado",
+   "data": "09/08/2024",
+   "texto": "Conselho Tutelar de Taió, L.P. dos S., A.P. e A.S. dos S. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de L.P. dos S., filha de A.P. e A.S. dos S., estudante da EEB Luiz Bertoli. L.P. dos S. completará 18 anos em breve. Maioridade que faz cessar a obrigação legal dos genitores em acompanhar a frequência escolar da filha. Indeferimento."
+  },
+  {
+   "i": 252,
+   "tipo": "mp",
+   "ref": "01.2024.00033972-2",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00033972-2",
+   "status": "🟢 arquivado",
+   "data": "09/08/2024",
+   "texto": "Conselho Tutelar de Taió, J.V.F., J.M.S. e V.F. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de J.V.F., filho de J.M.S. e V.F., estudante do CEJA de Taió. J.V.F. completará 18 anos em breve. Maioridade que faz cessar a obrigação legal dos genitores em acompanhar a frequência escolar do filho. Indeferimento."
+  },
+  {
+   "i": 253,
+   "tipo": "mp",
+   "ref": "01.2024.00033078-6",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00033078-6",
+   "status": "🟢 arquivado",
+   "data": "12/08/2024",
+   "texto": "Conselho Tutelar de Taió, S.P.Z., A.P. e A.A.Z. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de S.P.Z., filha de A.P. e A.A.Z., estudante da E.E.F. Erna Heidrich. A aluna está em situação excepcional, tem filho de idade terna, além de não residir mais com os pais, aparentemente tendo formado família com seu companheiro. Continuidade do acompanhamento da família por parte dos órgãos de proteção social. Desnecessidade de atuação ministerial. Indeferimento."
+  },
+  {
+   "i": 254,
+   "tipo": "mp",
+   "ref": "01.2024.00027760-8",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00027760-8",
+   "status": "🟢 arquivado",
+   "data": "19/08/2024",
+   "texto": "Conselho Tutelar de Taió, T.A. de S., C.A. e M.M. de S. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de T.A. de S., filho de C.A. e M.M. de S., estudante do CEJA de Taió. T.A. de S. retornou aos bancos escolares. Frequência devidamente comprovada pela instituição de ensino. Indeferimento."
+  },
+  {
+   "i": 255,
+   "tipo": "mp",
+   "ref": "01.2024.00033197-4",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00033197-4",
+   "status": "🟢 arquivado",
+   "data": "19/08/2024",
+   "texto": "Conselho Tutelar de Taió, V.C.M. e I.M. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de V.C.M., filha de I.M., estudante da E.E.B. Luiz Bertoli. V.C.M. retornou aos bancos escolares. Frequência devidamente comprovada pela instituição de ensino. Indeferimento."
+  },
+  {
+   "i": 256,
+   "tipo": "mp",
+   "ref": "01.2024.00025743-4",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00025743-4",
+   "status": "🟢 arquivado",
+   "data": "29/08/2024",
+   "texto": "Conselho Tutelar de Taió; M.Z.; L. das G.M.N. e S.N. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de M.Z., filho de L. das G.M.N. e S.N., estudante da E.E.F. Prefeita Erna Heidrich. Estudante retornou aos bancos escolares. Frequência devidamente comprovada pela instituição de ensino. Indeferimento."
+  },
+  {
+   "i": 257,
+   "tipo": "mp",
+   "ref": "01.2024.00029464-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00029464-0",
+   "status": "🟢 arquivado",
+   "data": "29/08/2024",
+   "texto": "Conselho Tutelar de Taió; O.K.V. da S.O.; N.V. e P.V.G. da S.O. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de O.K.V. da S.O., filho de N.V. e P.V.G. da S.O., estudante da E.E.F. Prefeita Erna Heidrich. Aluno retornou aos bancos escolares. Frequência devidamente comprovada pela instituição de ensino. Indeferimento."
+  },
+  {
+   "i": 258,
+   "tipo": "mp",
+   "ref": "01.2024.00036549-7",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00036549-7",
+   "status": "🟢 arquivado",
+   "data": "29/08/2024",
+   "texto": "Conselho Tutelar de Taió; D.L.C.; R.W.C. e M.C. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de D.L.C., filha de R.W.C. e M.C., estudante da E.E.B. Luiz Bertoli. A adolescente encontra-se em situação excepcional, visto que engravidou aos 15 anos de idade. Continuidade do acompanhamento da família por parte dos órgãos de proteção social. Desnecessidade de atuação ministerial. Indeferimento."
+  },
+  {
+   "i": 259,
+   "tipo": "mp",
+   "ref": "01.2024.00033029-7",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00033029-7",
+   "status": "🟢 arquivado",
+   "data": "30/08/2024",
+   "texto": "Conselho Tutelar de Taió; D.B. de G. e E.C.B. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de D.B. de G., filho de E.C.B., estudante da E.E.F. Prefeita Erna Heidrich. Família está residindo em Bragança Paulista. Remessa de cópia do procedimento para a Promotoria de Justiça da Comarca de Bragança Paulista/SP. Indeferimento."
+  },
+  {
+   "i": 260,
+   "tipo": "mp",
+   "ref": "01.2024.00017519-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00017519-0",
+   "status": "❔ status indef.",
+   "data": "02/09/2024",
+   "texto": "Conselho Tutelar de Taió; B.B.O.; C. da S. e A.C.O."
+  },
+  {
+   "i": 261,
+   "tipo": "mp",
+   "ref": "01.2024.00035930-7",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00035930-7",
+   "status": "🟢 arquivado",
+   "data": "04/09/2024",
+   "texto": "Conselho Tutelar de Taió; B.H. de F.; S.H. e J. de F. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de B.H. de F., filho de S.H. e J. de F., estudante da E.E.B. Luiz Bertoli. O estudante retornou aos bancos escolares. Frequência devidamente comprovada pela unidade escolar. Indeferimento."
+  },
+  {
+   "i": 262,
+   "tipo": "mp",
+   "ref": "01.2024.00035937-3",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00035937-3",
+   "status": "❔ status indef.",
+   "data": "04/09/2024",
+   "texto": "Conselho Tutelar de Taió; K.P.J.; M.P. e C. de L. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de K.P.J., filho de M.P. e C. de L., estudante da E.E.F. Prefeita Erna Heidrich. O estudante retornou aos bancos escolares. Frequência devidamente comprovada pela"
+  },
+  {
+   "i": 263,
+   "tipo": "mp",
+   "ref": "01.2024.00035952-9",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00035952-9",
+   "status": "🟢 arquivado",
+   "data": "04/09/2024",
+   "texto": "Conselho Tutelar de Taió; A.L.M.; E.P. e M.M. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de A.L.M., filha de E.P. e M.M., estudante da E.E.B. Luiz Bertoli. A estudante retornou aos bancos escolares. Frequência devidamente comprovada pela unidade escolar. Indeferimento."
+  },
+  {
+   "i": 264,
+   "tipo": "mp",
+   "ref": "01.2024.00017784-4",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00017784-4",
+   "status": "🟢 arquivado",
+   "data": "09/09/2024",
+   "texto": "Conselho Tutelar de Taió, D. de A.H., M. de A. e J.C.H. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de D. de A.H., filho de M. de A. e J.C.H., estudante do CEJA de Taió. O estudante constituiu família e está trabalhando para sustentar sua companheira e filho recém- nascido. D. de A.H. também realiza aulas remotas em instituição particular. Não se verifica a necessidade de adoção de outras medidas para preservar os direitos do adolescente. Indeferimento."
+  },
+  {
+   "i": 265,
+   "tipo": "mp",
+   "ref": "01.2024.00025004-1",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00025004-1",
+   "status": "🟢 arquivado",
+   "data": "09/09/2024",
+   "texto": "Conselho Tutelar de Taió, A.T.M., I.M.T. e J.P.M. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de A.T.M., filha de I.M.T. e J.P.M., estudante da E.E.B. Luiz Bertoli. A aluna voltou a frequentar as aulas, mas de maneira esporádica. Contudo, percebe-se que a estudante completará a maioridade em breve. Falta de dolo ou culpa por parte dos genitores. Impossibilitado ajuizamento de ação por infração administrativa contra os pais. Indeferimento."
+  },
+  {
+   "i": 266,
+   "tipo": "mp",
+   "ref": "01.2024.00027992-8",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00027992-8",
+   "status": "🟢 arquivado",
+   "data": "12/09/2024",
+   "texto": "Conselho Tutelar de Taió, B.C. de A., P.M.M. e A.C. de A. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de B.C. de A., filho de P.M.M. e A.C. de A., estudante da E.E.B. Luiz Bertoli. O estudante completará 18 anos em breve. Adolescente escolheu trabalhar para auferir renda. Falta de dolo ou culpa por parte dos genitores. Impossibilitado ajuizamento de ação por infração administrativa contra os pais. Indeferimento."
+  },
+  {
+   "i": 267,
+   "tipo": "mp",
+   "ref": "01.2024.00035943-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00035943-0",
+   "status": "🟢 arquivado",
+   "data": "17/09/2024",
+   "texto": "Conselho Tutelar de Taió, M.M., N.M.P. e M.M. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de M.M., filho de N.M.P. e M.M., estudante da E.E.B. Luiz Bertoli. O estudante retornou aos bancos escolares. Indeferimento."
+  },
+  {
+   "i": 268,
+   "tipo": "mp",
+   "ref": "01.2024.00040307-5",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00040307-5",
+   "status": "🟢 arquivado",
+   "data": "17/09/2024",
+   "texto": "Conselho Tutelar de Taió; M.A. da S.; C.A. e A. da S. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de M.A. da S., filho de C.A. e A. da S., estudante da E.E.B. Luiz Bertoli. O estudante retornou aos bancos escolares. Indeferimento."
+  },
+  {
+   "i": 269,
+   "tipo": "mp",
+   "ref": "01.2024.00037991-4",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00037991-4",
+   "status": "🟢 arquivado",
+   "data": "24/09/2024",
+   "texto": "Conselho Tutelar de Taió, B.C.F., J.C.F. e M.F. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de B.C.F., filho de J.C.F. e M.F., estudante da E.E.B. Luiz Bertoli. O estudante retornou aos bancos escolares. Frequência devidamente comprovada pela instituição de ensino. Indeferimento."
+  },
+  {
+   "i": 270,
+   "tipo": "mp",
+   "ref": "01.2024.00038944-5",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00038944-5",
+   "status": "🟢 arquivado",
+   "data": "26/09/2024",
+   "texto": "Optica Safira Especialista. Conclusão: trata-se de Notícia de Fato instaurada para apurar eventual funcionamento irregular do estabelecimento Optica Safira Especialista, devido à ausência de alvará municipal. Expedição de ofícios. Verificou-se que o estabelecimento atualmente possui os devidos alvarás de funcionamento no Departamento de Vigilância Sanitária. Indeferimento."
+  },
+  {
+   "i": 271,
+   "tipo": "mp",
+   "ref": "01.2024.00043894-2",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00043894-2",
+   "status": "🟢 arquivado",
+   "data": "02/10/2024",
+   "texto": "Conselho Tutelar de Taió, V.G.S., C.C. e M.S. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de V.G.S., filho de C.C. e M.S., estudante da E.E.F. Municipal Prefeita Erna Heidrich. O padrasto do adolescente relatou que este exerce atividade laborativa durante o período vespertino e que finalizará os estudos em uma outra unidade escolar. Falta de dolo ou culpa por parte dos genitores. Impossibilitado ajuizamento de ação por infração administrativa contra os pais. Indeferimento."
+  },
+  {
+   "i": 272,
+   "tipo": "mp",
+   "ref": "06.2024.00001997-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00001997-9",
+   "status": "🟢 arquivado",
+   "data": "02/10/2024",
+   "texto": "Conselheiros Tutelares de Taió e coletividade. Conclusão: Inquérito Civil. Infância e Juventude. Conselheiros Tutelares que realizaram o acolhimento emergencial de menores mas os levaram ao abrigo institucional somente no dia seguinte. Expedida Recomendação para que, nos próximos acolhimentos emergenciais que fizerem, acolham a criança/adolescente imediatamente, permanecendo na sua companhia até concluída a entrega no abrigo, considerando que o órgão também funciona em regime de plantão. Recomendação acatada pelo Órgão de Proteção. Ausência de prejuízo. Arquivamento."
+  },
+  {
+   "i": 273,
+   "tipo": "mp",
+   "ref": "01.2024.00040422-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00040422-0",
+   "status": "🟢 arquivado",
+   "data": "08/10/2024",
+   "texto": "A.L.F. Conclusão: Notícia de Fato instaurada para apurar eventual situação de risco vivenciada por A.L.F. Expedição de Ofícios. Realização de reunião. O infante não está em situação de risco. A rede de proteção está acompanhando A.L.F. Indeferimento."
+  },
+  {
+   "i": 274,
+   "tipo": "mp",
+   "ref": "01.2024.00043853-1",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00043853-1",
+   "status": "🟢 arquivado",
+   "data": "08/10/2024",
+   "texto": "Conselho Tutelar de Taió; J.C.N.S.; S.N. e O.J.S. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de J.C.N.S., filho de S.N. e O.J.S., estudante da E.E.B. Luiz Bertoli. O estudante priorizou o trabalho em detrimento dos estudos. Falta de dolo ou culpa por parte dos genitores. Impossibilitado ajuizamento de ação por infração administrativa contra os pais. Indeferimento."
+  },
+  {
+   "i": 275,
+   "tipo": "mp",
+   "ref": "01.2024.00024536-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00024536-0",
+   "status": "🟢 arquivado",
+   "data": "09/10/2024",
+   "texto": "Estephano Dean Pessoa Lins, Tatiana Stringari e Abrigo Institucional de Taió. Conclusão: Notícia de Fato instaurada para apurar possível falta de capacitação e preenchimento de requisitos técnicos inerentes às funções desempenhadas por parte dos funcionários do abrigo institucional de Taió. Expedição de ofício. A situação inicialmente trazida não foi confirmada. Os educadores sociais se encontram aptos para o exercício da função. Indeferimento."
+  },
+  {
+   "i": 276,
+   "tipo": "mp",
+   "ref": "01.2024.00045240-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00045240-0",
+   "status": "🟢 arquivado",
+   "data": "11/10/2024",
+   "texto": "Conselho Tutelar de Taió; B.A. dos S.; E.A.G. dos S. e H.A. dos S. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de B.A. dos S., filha de E.A.G. dos S. e H.A. dos S., estudante da E.E.B. Leopoldo Jacobsen. A estudante retornou aos bancos escolares. Frequência devidamente comprovada pela instituição de ensino. Indeferimento."
+  },
+  {
+   "i": 277,
+   "tipo": "mp",
+   "ref": "01.2024.00046555-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00046555-0",
+   "status": "🟢 arquivado",
+   "data": "11/10/2024",
+   "texto": "Conselho Tutelar de Taió; A.M.R. dos S.; F. da S.R. e G.O. dos S. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de A.M.R. dos S., filho de F. da S.R. e G.O. dos S., estudante do CEJA de Taió. A.M.R. dos S. completará 18 anos em breve. Maioridade que faz cessar a obrigação legal dos genitores em acompanhar a frequência escolar do filho. Indeferimento."
+  },
+  {
+   "i": 278,
+   "tipo": "mp",
+   "ref": "01.2024.00044918-3",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00044918-3",
+   "status": "🟢 arquivado",
+   "data": "16/10/2024",
+   "texto": "Conselho Tutelar de Taió, B.B.O.. C. da S. e A.C.O. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de B.B.O., filha de C. da S. e A.C.O., estudante do CEJA de Taió. Desconhecido o domicílio e contato atualizado da estudante e de seus responsáveis legais. A ausência de informações acerca do paradeiro da aluna impede a adoção de qualquer medida cível ou criminal. Indeferimento."
+  },
+  {
+   "i": 279,
+   "tipo": "mp",
+   "ref": "01.2024.00046179-8",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00046179-8",
+   "status": "🟢 arquivado",
+   "data": "16/10/2024",
+   "texto": "Conselho Tutelar de Taió, H.G.A., L.G. e D.A. Conclusão: Notícia de Fato instaurada para apurar os motivos da evasão escolar de H.G.A., filha de L.G. e D.A., estudante da E.E.F. Erna Heidrich. Proximidade com o fim do ano letivo que torna desnecessária a tomada de maiores medidas por esta Promotoria de Justiça. Continuação do acompanhamento por parte do Conselho Tutelar. Indeferimento."
+  }
+ ]
+}

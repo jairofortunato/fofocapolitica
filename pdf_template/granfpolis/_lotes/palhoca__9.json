@@ -1,0 +1,635 @@
+{
+ "cidade": "Palhoça",
+ "casos": [
+  {
+   "i": 630,
+   "tipo": "mp",
+   "ref": "06.2022.00000081-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00000081-6",
+   "status": "🟡 em apuração",
+   "data": "23/02/2022",
+   "texto": "Centro Educacional Raízes. apurar eventuais irregularidades no Centro Educacional Raízes, onde supostamente uma aluna foi lesionada fisicamente e não há professor fixo na sala de aula."
+  },
+  {
+   "i": 631,
+   "tipo": "mp",
+   "ref": "06.2022.00000120-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00000120-4",
+   "status": "🟡 em apuração",
+   "data": "02/03/2022",
+   "texto": "Carlos Magno da Silva Bernardo. apurar suposta irregularidade na eleição do vice-presidente do COMED."
+  },
+  {
+   "i": 632,
+   "tipo": "mp",
+   "ref": "06.2022.00001423-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00001423-2",
+   "status": "🟡 em apuração",
+   "data": "21/03/2022",
+   "texto": "Polícia Militar Ambiental e Leandro Amilton Soares. apurar a responsabilidade de Leandro Amilton Soares pela supressão de vegetação nativa, implantação de aterro e construção de uma casa mista e com telhado de amianto medindo 56m² (cinquenta e seis metros quadrados), no interior da Zona de Amortecimento do Parque Estadual da Serra do Tabuleiro, sem autorização dos órgãos competentes."
+  },
+  {
+   "i": 633,
+   "tipo": "mp",
+   "ref": "09.2021.00000037-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2021.00000037-8",
+   "status": "🟢 arquivado",
+   "data": "29/03/2022",
+   "texto": "Fundação Fé e Alegria do Brasil - Filial Palhoça. Conclusão: arquivamento, considerando que as contas da Fundação Fé e Alegria do Brasil - Matriz, localizada no Estado de São Paulo foram aprovadas pelo órgão ministerial daquele Estado, entendo que inexistem irregularidades nesta filial de Palhoça."
+  },
+  {
+   "i": 634,
+   "tipo": "mp",
+   "ref": "06.2022.00001532-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00001532-0",
+   "status": "🟡 em apuração",
+   "data": "27/04/2022",
+   "texto": "Jackson Fraga, Beatriz Zilli Wagner Fraga, Ariel Osni da Silva Silveira e Oficial de Registro de Imóveis da Comarca de Palhoça. apurar possível \"ato abusivo e ilegal\" e \"violação aos princípios da impessoalidade, moralidade e legalidade\" por parte do Oficial de Registro de Imóveis da Comarca de Palhoça, Sebastião David Correa Tourinho, no âmbito do processo de retificação da incorporação de condomínio registrado sob o n. R.2/99879, noticiados pelos representantes Jackson Fraga, Beatriz Zilli Wagner Fraga e Ariel Osni da Silva Silveira."
+  },
+  {
+   "i": 635,
+   "tipo": "mp",
+   "ref": "06.2022.00003055-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00003055-4",
+   "status": "🟡 em apuração",
+   "data": "15/07/2022",
+   "texto": "1º Batalhão de Policia Militar Ambiental e Daniel Bogea Pecaibes. apurar responsabilidade civil pela construção de edificação e realização de intervenção em terreno com área de 4.212 m² (quatro mil e duzentos e doze metros quadrados), em imóvel identificado na investigação como Casa 03, inserido nos limites físicos do Parque Estadual da Serra do Tabuleiro."
+  },
+  {
+   "i": 636,
+   "tipo": "mp",
+   "ref": "06.2022.00003062-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00003062-1",
+   "status": "🟡 em apuração",
+   "data": "15/07/2022",
+   "texto": "Jackson Fraga; e Condomínio Reserva da Pedra. apurar práticas abusivas contra consumidores do Condomínio Reserva da Pedra, perpetradas, em tese, pela empresa Reserva da Pedra FCVCP Incorporadora SPE Ltda, consistente na violação a direito difuso, em relação à permanência de eventuais cláusulas abusivas no contrato, da publicidade enganosa e da ampliação do empreendimento; bem como coletivo stricto sensu, em relação aos consumidores que já celebraram contrato; e, por sua vez, individual homogêneo, em relação aos eventuais prejuízos suportados por cada consumidor."
+  },
+  {
+   "i": 637,
+   "tipo": "mp",
+   "ref": "06.2022.00001492-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00001492-1",
+   "status": "❔ status indef.",
+   "data": "05/08/2022",
+   "texto": "Jackson Fraga e Reserva da Pedra FCVCP - Incorporadora SPE Ltda. Conclusão: Inquérito Civil instaurado com a finalidade de apurar supostas irregularidades no registro da ampliação do"
+  },
+  {
+   "i": 638,
+   "tipo": "mp",
+   "ref": "06.2022.00003910-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00003910-1",
+   "status": "🟡 em apuração",
+   "data": "28/09/2022",
+   "texto": "4º Promotoria de Justiça de Palhoça, Laercio Pedro da Luz e Estado de Santa Catarina. apurar os sucessores e atuais proprietários, além de maiores informações acerca do imóvel de propriedade de Laercio Pedro do Luz, localizado entre as glebas constantes nas matrículas n. 178.190 e 178.191, bem como buscar inicialmente pela via administrativa, a incorporação compulsória dos imóveis matriculados sob n. 178.190 e 178.191 (e ainda daquele citado anteriormente) ao território do PAEST (art. 134-D, da Lei n. 14.675/2009), todos situados dentro do atual limite do PAEST, mas que também se projetam para fora dos limites do parque, avançando sobre boa parte da restinga da Praia de Naufragados (situada na Área de Proteção Ambiental - APA - de Naufragados)."
+  },
+  {
+   "i": 639,
+   "tipo": "mp",
+   "ref": "06.2022.00002834-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00002834-8",
+   "status": "🟡 em apuração",
+   "data": "29/09/2022",
+   "texto": "COMED Palhoça. apurar eventuais irregularidades na Creche da Tia Emily (Cuida-se), localizado na rua Santa Maria, 223, São Sebastião."
+  },
+  {
+   "i": 640,
+   "tipo": "mp",
+   "ref": "06.2022.00004010-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004010-8",
+   "status": "🟡 em apuração",
+   "data": "04/10/2022",
+   "texto": "Unisul - Universidade do Sul de Santa Catarina. apurar possível irregularidade na emissão de diploma, consistente na não antecipação do documento em caso de aprovação em processo seletivo profissional."
+  },
+  {
+   "i": 641,
+   "tipo": "mp",
+   "ref": "06.2020.00001257-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00001257-0",
+   "status": "❔ status indef.",
+   "data": "06/10/2022",
+   "texto": "Conselho Tutelar Semear, Conselho Tutelar Proteção e Secretaria Municipal de Assistência Social. Conclusão: funcionamento do Conselho Tutelar de Palhoça em decorrência da crise causada pela pandemia do Coronavírus. Providências administrativas. Irregularidades sanadas."
+  },
+  {
+   "i": 642,
+   "tipo": "mp",
+   "ref": "06.2022.00003732-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00003732-5",
+   "status": "🟡 em apuração",
+   "data": "17/10/2022",
+   "texto": "Disque Direitos Humanos (SDH). apurar eventuais irregularidades na Creche da Tia Raquel, localizado na Rua Vicente Albino dos Santos, 136, Jardim Aquarius."
+  },
+  {
+   "i": 643,
+   "tipo": "mp",
+   "ref": "06.2021.00004924-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00004924-0",
+   "status": "❔ status indef.",
+   "data": "25/10/2022",
+   "texto": "COMED Palhoça e Jéssica de Andrade Pereira. Conclusão: irregularidades na Creche Domiciliar Tia Jéssica. Providências administrativas. Encerramento das atividades."
+  },
+  {
+   "i": 644,
+   "tipo": "mp",
+   "ref": "06.2022.00004706-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00004706-7",
+   "status": "🟡 em apuração",
+   "data": "10/01/2023",
+   "texto": "Gladis Elisa Becker apurar irregularidade na designação de Gladis Elisa Becker, contratada em caráter temporário como enfermeira da rede municipal de saúde, para exercer a função de \"Coordenador III\"."
+  },
+  {
+   "i": 645,
+   "tipo": "mp",
+   "ref": "06.2023.00000576-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00000576-0",
+   "status": "🟡 em apuração",
+   "data": "16/02/2023",
+   "texto": "UPA Sul; CRF/SC. apurar irregularidades na UPA Sul, consistentes na inexistência de farmacêutico responsável e inscrição perante o CRF/SC."
+  },
+  {
+   "i": 646,
+   "tipo": "mp",
+   "ref": "06.2022.00003058-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00003058-7",
+   "status": "🟢 arquivado",
+   "data": "14/03/2023",
+   "texto": "Maria Júlia Onofre Ribeiro e UNISUL. Conclusão: arquivamento. O presente expediente foi instaurado para apurar alteração contratual unilateral por parte da instituição de ensino UNISUL quanto a I) alteração unilateral da nomenclatura do curso; II) a não validação de matérias já cursadas; III) a irregularidade no ensino a distância. Quanto ao primeiro ponto, nota-se que se tratou de erro material da representada o que prontamente, de forma espontânea, corrigiu o erro. Quanto ao segundo ponto, restou demonstrado que o problema foi solucionado. O terceiro ponto, as diligências realizadas demonstraram que o Procon Estadual acompanhou os trâmites acerca do tema, havendo determinação para retorno integral e nenhum relato de descumprimento."
+  },
+  {
+   "i": 647,
+   "tipo": "mp",
+   "ref": "06.2022.00003899-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00003899-0",
+   "status": "🟢 arquivado",
+   "data": "14/03/2023",
+   "texto": "Ótica Ferri, Instituto Optométrico dos Olhos e Sociedade Catarinense de Oftalmologia. Conclusão: arquivamento. Após as devidas investigações com o objetivo de verificar irregularidades nos atendimentos das empresas representadas, em especial na suposta prática de venda casada, nenhuma infração fora constatada. [...] Dessa forma, ficou claro que os profissionais optometristas que atuam no Instituto Optométrico dos Olhos encontram-se atuando de acordo com o que determina a legislação vigente, bem como atendem ao recente entendimento firmado pelo Supremo Tribunal Federal no julgamento da Arguição de Descumprimento de Preceito Fundamental (ADPF) n. 131."
+  },
+  {
+   "i": 648,
+   "tipo": "mp",
+   "ref": "06.2023.00001173-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00001173-9",
+   "status": "🟡 em apuração",
+   "data": "30/03/2023",
+   "texto": "Alberto Marcatto e DETRAN Santa Catarina. apurar possível irregularidade na realização de leilão neste Município."
+  },
+  {
+   "i": 649,
+   "tipo": "mp",
+   "ref": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO ADMINISTRATIVO DE ACOMPANHAMENTO DE POLÍTICAS PÚBLICAS",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO ADMINISTRATIVO DE ACOMPANHAMENTO DE POLÍTICAS PÚBLICAS",
+   "status": "🟢 arquivado",
+   "data": "05/05/2023",
+   "texto": "Fundação Fé e Alegria do Brasil &mdash; Filial de Palhoça/SC, Ministério Público da Comarca de Palhoça e DD. Conclusão: arquivamento. Após análise da prestação de contas pelo órgão responsável no Ministério Público do Estado de São Paulo, sobreveio a informação da aprovação das contas apresentadas (fls. 41-89). Assim, considerando que as contas da Fundação Fé e Alegria do Brasil. Matriz, localizada no Estado de São Paulo foram aprovadas pelo órgão ministerial daquele estado, entendo que inexistem irregularidades nesta filial de Palhoça."
+  },
+  {
+   "i": 650,
+   "tipo": "mp",
+   "ref": "06.2022.00003055-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00003055-4",
+   "status": "🟢 arquivado",
+   "data": "04/07/2023",
+   "texto": "Polícia Militar Ambiental e Daniel Bogea Pecaibes. Conclusão: Inquérito Civil instaurado com a finalidade de apurar responsabilidade civil pela construção de edificação e realização de intervenção em terreno com área de 4.212 m² (quatro mil, duzentos e doze metros quadrados), em imóvel identificado na investigação como Casa 03, inserido nos limites físicos do Parque Estadual da Serra do Tabuleiro. Promovida a demolição das edificações objeto destes autos e os resíduos retirados do local, estando o local atualmente em processo de regeneração natural, o que faz cessar os danos ambientais e alcançar tanto o objetivo como a finalidade prevista pela norma ambiental, de modo que não subsiste justa causa para a propositura de ação judicial. Por essas razões, com base nos princípios da proporcion…"
+  },
+  {
+   "i": 651,
+   "tipo": "mp",
+   "ref": "06.2023.00002876-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00002876-3",
+   "status": "🟡 em apuração",
+   "data": "27/07/2023",
+   "texto": "Polícia Militar Ambiental e Volnete Henrique. apurar a responsabilidade de Volnete Henrique, por infração ao artigo 48 da Lei n. 9.605/98, por dificultar a regeneração natural de vegetação nativa do Bioma Mata Atlântica, com a supressão de vegetação numa área de 0,008 hectares dentro do Parque Estadual da Serra do Tabuleiro (PaEST), e com a supressão de vegetação, serviço de terraplanagem e corte de um barranco numa área de 0,092 hectares dentro de Zona de Amortecimento do PaEST, totalizando 0,1 hectare, sem autorização do órgão ambiental competente."
+  },
+  {
+   "i": 652,
+   "tipo": "mp",
+   "ref": "06.2023.00003793-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00003793-0",
+   "status": "🟡 em apuração",
+   "data": "24/10/2023",
+   "texto": "Conselho Tutelar Semear. apurar suposta irregularidade nos acolhimentos das demandas de abuso sexual, por parte do Conselho Tutelar Semear."
+  },
+  {
+   "i": 653,
+   "tipo": "mp",
+   "ref": "06.2021.00003635-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00003635-5",
+   "status": "🟢 arquivado",
+   "data": "14/11/2023",
+   "texto": "anônimo e Luciana José Neves. Conclusão: procedimento devidamente instruído. Conclusão de Procedimento Administrativo Disciplinar, com a aplicação, por parte do Governador do Estado de Santa Catarina, da sanção de demissão pelas irregularidades praticadas pela servidora. Inexistência de fundamento para a propositura de ação judicial. Arquivamento."
+  },
+  {
+   "i": 654,
+   "tipo": "mp",
+   "ref": "06.2023.00001211-6",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00001211-6",
+   "status": "🟢 arquivado",
+   "data": "14/11/2023",
+   "texto": "Conselho Tutelar Semear e responsável pela aldeia Yakã Porã da Enseada de Brito, em Palhoça. Conclusão: procedimento devidamente instruído. Irregularidades sanadas. Inexistência de fundamento para a propositura de ação judicial. Arquivamento."
+  },
+  {
+   "i": 655,
+   "tipo": "mp",
+   "ref": "06.2023.00004769-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00004769-3",
+   "status": "🟡 em apuração",
+   "data": "13/12/2023",
+   "texto": "UBS Madri Palhoça, Secretaria Municipal de Saúde de Palhoça e Ministério Público de Santa Catarina. apurar a existência de irregularidades na UBS Madri."
+  },
+  {
+   "i": 656,
+   "tipo": "mp",
+   "ref": "06.2023.00004169-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00004169-9",
+   "status": "🟡 em apuração",
+   "data": "19/12/2023",
+   "texto": "Residência Assistida em Psiquiatria Monte Sião. apurar eventual irregularidade na prestação de serviço da Residência Assistida em Psiquiatria Monte Sião no tocante à absorção de demandas de tratamento de crianças e/ou adolescentes."
+  },
+  {
+   "i": 657,
+   "tipo": "mp",
+   "ref": "06.2023.00004515-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00004515-1",
+   "status": "🟡 em apuração",
+   "data": "19/12/2023",
+   "texto": "Espaço de cuidado domiciliar (CUIDA-SE). apurar supostas irregularidades em espaço de cuidado domiciliar (Cuidase) de propriedade de Thalessa Teixeira Lemos, localizado na Rua Espírito Santo, n. 130, Bairro São Sebastião, Palhoça."
+  },
+  {
+   "i": 658,
+   "tipo": "mp",
+   "ref": "06.2021.00001068-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00001068-7",
+   "status": "🟢 arquivado",
+   "data": "22/01/2024",
+   "texto": "anônimo e CEI Dona Maricota. Conclusão: procedimento devidamente instruído. Irregularidades sanadas. Inexistência de fundamento para a propositura de ação judicial. Arquivamento."
+  },
+  {
+   "i": 659,
+   "tipo": "mp",
+   "ref": "06.2024.00000164-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00000164-5",
+   "status": "🟢 arquivado",
+   "data": "23/01/2024",
+   "texto": "Corpo de Bombeiros Militar de Palhoça e Mercado Bueno - Carrier Wins Ltda. Conclusão: arquivamento. Instaurou-se a presente com o objetivo de averiguar a irregularidade da edificação localizada na Rua Zeferino José da Silva, 160, Bairro Ponte do Imaruim, Palhoça, perante o Corpo de Bombeiros Militar do Estado de Santa Catarina. No entanto, antes mesmo de se obter sucesso em notificar o responsável pela edificação, houve a regularização do imóvel às normas de segurança contra incêndio pelo seu atual responsável (Mercado Bueno - Carrier Wins Ltda.)."
+  },
+  {
+   "i": 660,
+   "tipo": "mp",
+   "ref": "06.2024.00000217-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00000217-7",
+   "status": "🟡 em apuração",
+   "data": "24/01/2024",
+   "texto": "sigiloso e a apurar. apurar se a obra de pavimentação autorizada pela Prefeitura de Palhoça, decorrente do Programa \"Mãos dadas, Mãos à obra\", na Rua Rosemiro Laurentino Pereira, está devidamente licenciada ou se representa algum dano ou risco de dano ambiental, bem como averiguar possível construção irregular na via pública em questão, tendo em vista que um dos moradores (proprietário do imóvel do início da rua, fl. 3), invadiu aproximadamente 2m (dois metros) da rua."
+  },
+  {
+   "i": 661,
+   "tipo": "mp",
+   "ref": "06.2024.00000165-6",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00000165-6",
+   "status": "🟢 arquivado",
+   "data": "05/02/2024",
+   "texto": "Corpo de Bombeiros Militar de Palhoça; Antônio Luis Amorim. Conclusão: arquivamento. Instaurou-se o presente com o objetivo de averiguar a irregularidade da edificação localizada neste município perante o Corpo de Bombeiros Militar. Após diligências realizadas, o responsável da edificação promoveu a completa regularização do estabelecimento."
+  },
+  {
+   "i": 662,
+   "tipo": "mp",
+   "ref": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO ADMINISTRATIVO DE ACOMPANHAMENTO DE INSTITUIÇÕES N.",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO ADMINISTRATIVO DE ACOMPANHAMENTO DE INSTITUIÇÕES N.",
+   "status": "🟢 arquivado",
+   "data": "14/02/2024",
+   "texto": "Fundação Fé e Alegria do Brasil; Ministério Público da Comarca de Palhoça. Conclusão: arquivamento. Após análise da prestação de contas pelo órgãos responsável no Ministério Público do Estado de São Paulo, sobreveio a informação da aprovação das contas apresentadas (fls. 33-34). Assim, considerando que as contas da Fundação Fé Alegria do Brasil - Matriz, localizada no estado de São Paulo foram aprovadas pelo órgão ministerial daquele estado, entendo que inexistem irregularidades nesta filial de Palhoça."
+  },
+  {
+   "i": 663,
+   "tipo": "mp",
+   "ref": "06.2024.00000786-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00000786-1",
+   "status": "🟡 em apuração",
+   "data": "04/03/2024",
+   "texto": "sigiloso. apurar eventuais danos ao meio ambiente natural e à ordem urbanística decorrentes da abertura de uma rua em área verde/área de lazer no Parque Madri, Palhoça/SC, no intuito de promover uma ligação entre bairros (Madri com Vale Verde), o que criou um fluxo de veículos e, assim, a intervenção coloca em risco a segurança dos pedestres, principalmente crianças, em virtude de uma escola localizada bem próximo da via pública aberta."
+  },
+  {
+   "i": 664,
+   "tipo": "mp",
+   "ref": "06.2023.00000455-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00000455-0",
+   "status": "🟢 arquivado",
+   "data": "18/03/2024",
+   "texto": "parte sigilosa e IRCLUPPI Empreendimentos Imobiliários Ltda. Conclusão: Inquérito Civil instaurado com o objetivo de apurar possível dano ao meio ambiente decorrente da construção de um prédio de 4 (quatro) andares, em local onde o plano diretor municipal somente permite 2 (dois) andares. A obra, segundo informado, ocorre sem as licenças/autorizações necessárias, causando insegurança aos moradores vizinhos, em virtude do risco de desabamento. Esclarecimentos prestados pelo Diretor de Urbanismo que demonstram que a obra está devidamente regularizada perante a Prefeitura de Palhoça e dentro dos parâmetros legais suportados pelo zoneamento da área em que está inserida (ARP-P). Exaurido e satisfeito o objeto deste inquérito civil. Arquivamento."
+  },
+  {
+   "i": 665,
+   "tipo": "mp",
+   "ref": "06.2023.00004062-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00004062-3",
+   "status": "🟢 arquivado",
+   "data": "16/04/2024",
+   "texto": "Associação Comunitária da Guarda do Embaú e interessados. Conclusão: Inquérito Civil instaurado com a finalidade de apurar a ocorrência de danos ambientais pela construção de um deck em madeira medindo 1,5m (um metro e meio) de largura por 25m (vinte e cinco metros) de comprimento, construído sobre um alicerce de dois pilares, com quatro manilhas de 30cm (trinta centímetros) preenchidas com concreto, atuando como coluna estrutural, dentro dos limites do Parque Estadual da Serra do Tabuleiro (PaEST). Verificada a ausência de qualquer conduta ilícita identificável e, portanto, foi exaurido e satisfeito o objeto deste Inquérito Civil, diante da informação encaminhada pela Polícia Militar Ambiental. Arquivamento."
+  },
+  {
+   "i": 666,
+   "tipo": "mp",
+   "ref": "06.2023.00002783-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00002783-1",
+   "status": "🟢 arquivado",
+   "data": "24/05/2024",
+   "texto": "Nery Artur Eller e Joscelito da Silva. Conclusão: Inquérito Civil instaurado com o objetivo de apurar a supressão de vegetação nativa por meio de terraplanagem numa área de 5.000m² (cinco mil metros quadrados), na Rodovia BR-282, em frente à Peixaria 282, Bairro Alto Aririu, em Palhoça. Aceita proposta de transação penal nos autos do Termo Circunstanciado n. 5010122-03.2023.8.24.0045 e expedida recomendação à FCAM. Aplicação da Súmula n. 001/CSMP/2023. Obrigações pactuadas e expedição de recomendação foram suficientes para reparação completa do dano ambiental, estando exaurido e satisfeito o objeto deste inquérito civil. Formação do título executivo judicial e comprovação do cumprimento do acordo, obrigação de reparação imediata. Arquivamento."
+  },
+  {
+   "i": 667,
+   "tipo": "mp",
+   "ref": "06.2022.00003910-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00003910-1",
+   "status": "🔴 ACP ajuizada",
+   "data": "20/06/2024",
+   "texto": "4ª Promotoria de Justiça, IMA e Estado de Santa Catarina. Conclusão: Inquérito Civil instaurado com objetivo de buscar, inicialmente pela via administrativa, a incorporação compulsória dos imóveis matriculados sob n. 178.190 e 178.191 (e ainda daquele citado anteriormente) ao território do PaEST (art. 134-D da Lei n. 14.675/2009), todos situados dentro do atual limite do PaEST, mas que também se projetam para fora dos limites da referida unidade de conservação, avançando sobre boa parte da restinga da Praia de Naufragados (situada na Área de Proteção Ambiental - APA - de Naufragados). Ajuizamento de Ação Civil Pública em desfavor do Estado de Santa Catarina e IMA."
+  },
+  {
+   "i": 668,
+   "tipo": "mp",
+   "ref": "01.2024.00010873-5",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00010873-5",
+   "status": "🟢 arquivado",
+   "data": "21/06/2024",
+   "texto": "a apurar. Conclusão: Notícia de Fato instaurada para apurar a frequência de menores de idade em casa de prostituição. Averiguação in loco realizada pelo Conselho Tutelar, que não constatou a irregularidade. Ausentes indícios acerca da veracidade dos fatos. Demais irregularidades permanecem sendo acompanhadas pelas respectivas curadorias. Arquivamento."
+  },
+  {
+   "i": 669,
+   "tipo": "mp",
+   "ref": "06.2024.00002805-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00002805-6",
+   "status": "🟡 em apuração",
+   "data": "27/06/2024",
+   "texto": "sigiloso ea apurar. averiguar danos ambientais em virtude da ligação clandestina de energia elétrica dentro dos limites da Área de Proteção Ambiental (APA) do Entorno Costeiro."
+  },
+  {
+   "i": 670,
+   "tipo": "mp",
+   "ref": "06.2024.00000199-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00000199-0",
+   "status": "🟠 TAC firmado",
+   "data": "24/07/2024",
+   "texto": "ILPI Residencial Geriátrico Aconchego. Conclusão: promoção de arquivamento apurar a situação da ILPI Residencial Geriátrico Aconchego. Será celebrado Termo de Ajustamento de Conduta no Inquérito Civil n. 06.2024.00000199-0. Irregularidades parcialmente sanadas. Outras situações são objeto de acompanhamento via Inquérito Civil n. 06.2024.00000199-0."
+  },
+  {
+   "i": 671,
+   "tipo": "mp",
+   "ref": "06.2023.00004552-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00004552-9",
+   "status": "🟢 arquivado",
+   "data": "08/08/2024",
+   "texto": "ILPI Lar Doce Aconchego. Conclusão: promoção de arquivamento apurar a situação da ILPI Lar Doce Aconchego. Ausência de justa causa para prosseguimento da investigação ou para propositura de ação judicial. Irregularidades apuradas sanadas. Outras situações são objeto de acompanhamento via Inquérito Civil n. 06.2024.00003035-1."
+  },
+  {
+   "i": 672,
+   "tipo": "mp",
+   "ref": "06.2022.00004272-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00004272-8",
+   "status": "🟠 TAC firmado",
+   "data": "14/08/2024",
+   "texto": "ILPI Santa Felicidade. Conclusão: promoção de arquivamento. Apurar a situação da ILPI Santa Felicidade. Será celebrado Termo de Ajustamento de Conduta no Inquérito Civil n. 06.2024.00003024-0. Irregularidades parcialmente sanadas. Outras situações são objeto de acompanhamento via Inquérito Civil n. 06.2024.00003024-0."
+  },
+  {
+   "i": 673,
+   "tipo": "mp",
+   "ref": "06.2021.00004512-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00004512-1",
+   "status": "❔ status indef.",
+   "data": "15/08/2024",
+   "texto": "Corpo de Bombeiros Militar e Delci Tamanini. Conclusão: Inquérito Civil instaurado para \"apurar denúncia que aportou no Serviço de Ouvidoria do Ministério Público, informando da suposta violação de direito e exposição a situação de risco perpetrada por profissionais da saúde deste município em face do infante B. de O.F., filho de S.L. de F.\". Instaurado e concluído o Processo Administrativo Disciplinar n. 29754/2021, com aplicação das penalidades de suspensão por 15 (quinze) dias e advertência. Remessa de cópia para a Promotoria de Justiça da moralidade para o acompanhamento da aplicação das sanções. Inexistência de fundamentos para a propositura de Ação Civil Pública ou adoção de outras providências."
+  },
+  {
+   "i": 674,
+   "tipo": "mp",
+   "ref": "06.2024.00003065-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00003065-1",
+   "status": "🟠 TAC firmado",
+   "data": "19/08/2024",
+   "texto": "ILPI Residencial Geriátrico Vovó Rosalina Ltda. Conclusão: promoção de arquivamento. apurar as irregularidades constatadas na ILPI Residencial Geriátrico Vovó Rosalina L tda. na vistoria realizada in loco, por esta Promotoria de Justiça, na data de 3/7/2024. Ausência de interesse de agir. Termo de Ajustamento de Conduta celebrado entre as partes. TAC acompanhado no Procedimento Administrativo n. 09.2024.00006428-5."
+  },
+  {
+   "i": 675,
+   "tipo": "mp",
+   "ref": "01.2024.00034330-4",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00034330-4",
+   "status": "🟢 arquivado",
+   "data": "22/08/2024",
+   "texto": "anônimo. Conclusão: Notícia de Fato instaurada a partir de informação enviada ao endereço eletrônico dessa Promotoria, acerca de possível irregularidade no recebimento de adicional de insalubridade e vale-alimentação de servidora pública lotada na Delegacia da Mulher de Palhoça/SC. Os fatos narrados na notícia não configuram nem mesmo em tese, lesão ou ameaça aos interesses ou direitos tutelados pelo Ministério Público, bem como os fatos já foram objeto de investigação na Notícia de Fato n. 01.2023.00048979-3. Indeferimento, nos termos do art. 7º, incisos I e II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 676,
+   "tipo": "mp",
+   "ref": "06.2024.00003020-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00003020-7",
+   "status": "🟠 TAC firmado",
+   "data": "27/08/2024",
+   "texto": "ILPI Lar Geriátrico Santa Clara de Assis. Conclusão: promoção de arquivamento. Apurar as irregularidades constatadas na ILPI Lar Geriátrico Santa Clara de Assis na vistoria realizada in loco, por esta Promotoria de Justiça, na data de 26/6/2024. Ausência de interesse de agir. Termo de Ajustamento de Conduta celebrado entre as partes. TAC acompanhado no Procedimento Administrativo n. 09.2024.00006662-8."
+  },
+  {
+   "i": 677,
+   "tipo": "mp",
+   "ref": "06.2024.00003062-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00003062-9",
+   "status": "🟠 TAC firmado",
+   "data": "27/08/2024",
+   "texto": "ILPI Nosso Lar de Idoso da Hortência. Conclusão: promoção de arquivamento. Apurar as irregularidades constatadas na ILPI Nosso Lar de Idoso da Hortência na vistoria realizada in loco, por esta Promotoria de Justiça, na data de 1º/7/2024. Ausência de interesse de agir. Termo de Ajustamento de Conduta celebrado entre as partes. TAC acompanhado no Procedimento Administrativo n. 09.2024.00006664-0."
+  },
+  {
+   "i": 678,
+   "tipo": "mp",
+   "ref": "06.2024.00003022-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00003022-9",
+   "status": "🟠 TAC firmado",
+   "data": "28/08/2024",
+   "texto": "ILPI Florence Casa Geriátrica. Conclusão: promoção de arquivamento. Apurar as irregularidades constatadas na ILPI Florence Casa Geriátrica na vistoria realizada in loco, por esta Promotoria de Justiça, na data de 28/6/2024. Ausência de interesse de agir. Termo de Ajustamento de Conduta celebrado entre as partes. TAC acompanhado no Procedimento Administrativo n. 09.2024.00006753-8."
+  },
+  {
+   "i": 679,
+   "tipo": "mp",
+   "ref": "06.2024.00003026-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00003026-2",
+   "status": "🟠 TAC firmado",
+   "data": "28/08/2024",
+   "texto": "ILPI Residencial Geriátrico Aconchego. Conclusão: promoção de arquivamento. Apurar as irregularidades constatadas na ILPI Residencial Geriátrico Aconchego na vistoria realizada in loco, por esta Promotoria de Justiça, na data de 28/6/2024. Ausência de interesse de agir. Termo de Ajustamento de Conduta celebrado entre as partes. TAC acompanhado no Procedimento Administrativo n. 09.2024.00006652-8."
+  },
+  {
+   "i": 680,
+   "tipo": "mp",
+   "ref": "06.2024.00003075-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00003075-1",
+   "status": "🟠 TAC firmado",
+   "data": "28/08/2024",
+   "texto": "ILPI Residencial Vó Ana Maria. Conclusão: promoção de arquivamento. Apurar as irregularidades constatadas na ILPI Residencial Vó Ana Maria na vistoria realizada in loco, por esta Promotoria de Justiça, na data de 1º/7/2024. Ausência de interesse de agir. Termo de Ajustamento de Conduta celebrado entre as partes. TAC acompanhado no Procedimento Administrativo n. 09.2024.00006650-6."
+  },
+  {
+   "i": 681,
+   "tipo": "mp",
+   "ref": "06.2024.00003727-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL n. 06.2024.00003727-7",
+   "status": "🟡 em apuração",
+   "data": "09/09/2024",
+   "texto": "C.E.I. Sonho de Criança Ltda. apurar possível situação de risco e/ou violação de direitos dos alunos do C.E.I. Sonho de Criança Ltda. em razão do funcionamento irregular."
+  },
+  {
+   "i": 682,
+   "tipo": "mp",
+   "ref": "06.2024.00002933-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00002933-3",
+   "status": "🟠 TAC firmado",
+   "data": "12/09/2024",
+   "texto": "ILPI Casa Santa Maria dos Anjos. Conclusão: promoção de arquivamento. Apurar as irregularidades constatadas na ILPI Casa Santa Maria dos Anjos na vistoria realizada in loco, por esta Promotoria de Justiça, na data de 26/6/2024. Ausência de interesse de agir. Termo de Ajustamento de Conduta celebrado entre as partes. TAC acompanhado no Procedimento Administrativo n. 09.2024.00006853-7."
+  },
+  {
+   "i": 683,
+   "tipo": "mp",
+   "ref": "01.2024.00019245-6",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00019245-6",
+   "status": "🟢 arquivado",
+   "data": "13/09/2024",
+   "texto": "anônimo(a). Conclusão: Notícia de Fato autuada com o objetivo de apurar eventual irregularidade na ausência de pagamento de adicional de insalubridade a servidores público efetivos no âmbito da Secretaria Municipal de Saúde de Palhoça/SC. Os fatos narrados na notícia não configuram nem mesmo em tese, lesão ou ameaça aos interesses ou direitos tutelados pelo Ministério Público. Indeferimento, nos termos do art. 7º, inciso I, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 684,
+   "tipo": "mp",
+   "ref": "01.2024.00028760-6",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00028760-6",
+   "status": "🟢 arquivado",
+   "data": "02/10/2024",
+   "texto": "Figueirense Futebol Clube. Conclusão: apurar eventuais irregularidades nas instalações do alojamento do Centro de Treinamento do Figueirense Futebol Clube. Constatada a inexistência de alojamento no local. Licenças e alvarás de funcionamento, sanitário e dos bombeiros vigentes para a realização das demais atividades desempenhadas no local. Ausência de irregularidade. Indeferimento e arquivamento."
+  },
+  {
+   "i": 685,
+   "tipo": "mp",
+   "ref": "06.2024.00003024-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00003024-0",
+   "status": "🟠 TAC firmado",
+   "data": "11/10/2024",
+   "texto": "ILPI Casa de Repouso Santa Felicidade. Conclusão: promoção de arquivamento. Apurar as irregularidades constatadas na ILPI Casa de Repouso Santa Felicidade na vistoria realizada in loco, por esta Promotoria de Justiça, na data de 28/6/2024. Ausência de interesse de agir. Termo de Ajustamento de Conduta celebrado entre as partes. TAC acompanhado no Procedimento Administrativo n. 09.2024.00007752-5."
+  },
+  {
+   "i": 686,
+   "tipo": "mp",
+   "ref": "06.2024.00004989-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00004989-5",
+   "status": "🟡 em apuração",
+   "data": "26/11/2024",
+   "texto": "Mhaira Vasconcellos Soares e Condomínio Residencial Bosque das Estações. apurar possível irregularidade no descarte de lixo doméstico no Condomínio Residencial Bosque das Estações, localizado na Rua José Cosme Pamplona, n. 2220, Bairro Bela Vista, nesta cidade de Palhoça."
+  },
+  {
+   "i": 687,
+   "tipo": "mp",
+   "ref": "06.2024.00004823-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00004823-0",
+   "status": "🟡 em apuração",
+   "data": "28/11/2024",
+   "texto": "Comunidade Terapêutica El Shaddai. apurar as irregularidades constatadas na Comunidade Terapêutica El Shaddai na vistoria realizada in loco, por esta Promotoria de Justiça, na data de 23/10/2024."
+  },
+  {
+   "i": 688,
+   "tipo": "mp",
+   "ref": "06.2024.00004824-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00004824-1",
+   "status": "🟡 em apuração",
+   "data": "28/11/2024",
+   "texto": "Comunidade Terapêutica El Shaddai. apurar as irregularidades constatadas na Comunidade Terapêutica Guerreiros de Deus na vistoria realizada in loco, por esta Promotoria de Justiça, na data de 23/10/2024."
+  },
+  {
+   "i": 689,
+   "tipo": "mp",
+   "ref": "06.2024.00004823-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00004823-0",
+   "status": "🟡 em apuração",
+   "data": "06/12/2024",
+   "texto": "Comunidade Terapêutica El Shaddai. apurar as irregularidades constatadas na Comunidade Terapêutica El Shaddai na vistoria realizada in loco, por esta Promotoria de Justiça, na data de 23/10/2024."
+  },
+  {
+   "i": 690,
+   "tipo": "mp",
+   "ref": "06.2024.00004824-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00004824-1",
+   "status": "🟡 em apuração",
+   "data": "06/12/2024",
+   "texto": "Comunidade Terapêutica Guerreiros de Deus. apurar as irregularidades constatadas na Comunidade Terapêutica Guerreiros de Deus na vistoria realizada in loco, por esta Promotoria de Justiça, na data de 23/10/2024."
+  },
+  {
+   "i": 691,
+   "tipo": "mp",
+   "ref": "06.2024.00005219-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00005219-0",
+   "status": "🟡 em apuração",
+   "data": "13/12/2024",
+   "texto": "4ª Promotoria de Justiça da Comarca de Palhoça e SAMAE Palhoça. apurar a implantação de aterro com restos de materiais da construção civil (alvenaria, madeira e barro de aterro) em uma lagoa inserida na Área de Proteção Ambiental (APA) do Entorno Costeiro, habitat de jacarés e outros animais silvestres."
+  },
+  {
+   "i": 692,
+   "tipo": "mp",
+   "ref": "06.2024.00003814-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00003814-3",
+   "status": "🟠 TAC firmado",
+   "data": "17/12/2024",
+   "texto": "Comunidade Terapêutica CRETA IX - Nova Jerusalém. Conclusão: promoção de arquivamento. Apurar as irregularidades constatadas na Comunidade Terapêutica CRETA IX - Nova Jerusalém, na vistoria realizada in loco, por esta Promotoria de Justiça, na data de 24/9/2024. Ausência de interesse de agir. Termo de Ajustamento de Conduta (TAC) celebrado entre as partes. TAC acompanhado no Procedimento Administrativo n. 09.2024.00009735-4."
+  },
+  {
+   "i": 693,
+   "tipo": "mp",
+   "ref": "06.2024.00004397-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00004397-9",
+   "status": "🟡 em apuração",
+   "data": "07/01/2025",
+   "texto": "Investigados: Pousada Morada da Montanha e a responsável Brenda Buchrieser Flores Petersen. apurar supostas irregularidades no estabelecimento \"Pousada Morada da Montanha\", situado na Rua Eduardo Meneguel, n. 345, Praia da Pinheira, Município Palhoça/SC, em razão do funcionamento sem os devidos alvarás, licenças e autorizações do Poder Público."
+  },
+  {
+   "i": 694,
+   "tipo": "mp",
+   "ref": "06.2024.00003897-6",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00003897-6",
+   "status": "🔴 ACP em curso",
+   "data": "10/01/2025",
+   "texto": "A.J.M., E.A.A., G. dos S.G. e M.E. da R. Conclusão: Inquérito Civil. Conselho Tutelar. Procedimento visando averiguar condutas arbitrárias, omissões, negligências, prevaricações, dentre outras irregularidades praticadas por Conselheiras Tutelares do CT Proteção. Ação Civil Pública ajuizada para afastar três Conselheiras Tutelares. Arquivamento em relação a uma Conselheira investigada."
+  },
+  {
+   "i": 695,
+   "tipo": "mp",
+   "ref": "06.2024.00000201-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00000201-1",
+   "status": "🟢 arquivado",
+   "data": "13/01/2025",
+   "texto": "Revita Metais Tratamento de Superfícies Metálicas Ltda. Conclusão: Inquérito Civil instaurado para apurar a regularidade do estabelecimento, porquanto estaria funcionando sem o Projeto Preventivo Contra Incêndio (PPCI). Irregularidade sanada. Projeto de Prevenção e Segurança contra Incêndio e Habite- se aprovados perante o órgão competente. Regularização perante o Corpo de Bombeiros Militar. Desnecessidade de medidas extrajudiciais ou judiciais. Perda do objeto. Resolutividade da insurgência verificada pelo Corpo de Bombeiros Militar de Santa Catarina. Arquivamento."
+  },
+  {
+   "i": 696,
+   "tipo": "mp",
+   "ref": "06.2024.00000306-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00000306-5",
+   "status": "❔ status indef.",
+   "data": "13/01/2025",
+   "texto": "Peixaria Souza Conclusão: Inquérito Civil instaurado para apurar a regularidade do estabelecimento, porquanto estaria funcionando sem o Projeto Preventivo Contra Incêndio (PPCI). Irregularidade sanada. Projeto de Prevenção e Segurança contra Incêndio e Habite- se aprovados perante o órgão competente. Regularização perante o Corpo de Bombeiros Militar. Desnecessidade de medidas extrajudiciais ou judiciais. Perda do objeto. Resolutividade da insurgência verificada pelo Corpo de Bombeiros Militar de Santa"
+  },
+  {
+   "i": 697,
+   "tipo": "mp",
+   "ref": "06.2024.00001817-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00001817-0",
+   "status": "❔ status indef.",
+   "data": "24/01/2025",
+   "texto": "4ª Promotoria de Justiça de Palhoça e Celito Costa de Lima. Conclusão: Inquérito Civil instaurado com a finalidade de apurar danos ambientais (e constituição de passivo ambiental)"
+  },
+  {
+   "i": 698,
+   "tipo": "mp",
+   "ref": "06.2025.00000114-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00000114-9",
+   "status": "🟡 em apuração",
+   "data": "29/01/2025",
+   "texto": "4ª Promotoria de Justiça de Palhoça e Paula Anriele dos Santos. adoção de providências na esfera civil, pela conduta de impedir e dificultar a regeneração natural de vegetação do bioma mata atlântica, objeto de especial preservação, através da ação de terraplanagem (aterro com uso de \"entulhos\" e saibro), dentro dos limites da zona de amortecimento do Parque Estadual da Serra do Tabuleiro, atingindo uma área total de 600m² (seiscentos metros quadrados), sem autorização do órgão ambiental competente."
+  },
+  {
+   "i": 699,
+   "tipo": "mp",
+   "ref": "06.2025.00000559-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00000559-0",
+   "status": "🟡 em apuração",
+   "data": "26/03/2025",
+   "texto": "4ª Promotoria de Justiça da Comarca de Palhoça e Fundação Cambirela do Meio Ambiente (FCAM). apurar contradição e conhecer os eventuais motivos que orientaram a FCAM a adotar distinção de tratamento à interventores e proprietários de imóveis autuados em áreas próximas e, em tese, com a mesma incidência de restrições ambientais."
+  }
+ ]
+}
