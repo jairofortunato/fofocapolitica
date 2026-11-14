@@ -8,6 +8,12 @@ Não confundir com o repositório `../../fofoca-politica/`, que é a ferramenta 
 produção (coleta de pauta, `dados.json`, artes). Aqui ficam os **dossiês de
 cidade** — markdown + PDF — que servem de fonte para aquele repositório.
 
+Os arquivos `nova-trento-casos-graves.*` e `vidal-ramos-casos-graves.*` são
+versões anteriores. Para distribuição, use os respectivos
+`*-casos-investigacoes.pdf`: as versões novas conferem o dispositivo e os
+recursos posteriores. Os rótulos automáticos das versões antigas confundiam
+aprovação de contas com rejeição e cautelar revogada com sustação vigente.
+
 ## Origem dos dados
 
 Tudo sai de `../resumos/regioes/regiao-*.md`, que por sua vez é gerado por
@@ -65,6 +71,19 @@ neste material:
 | `itapoa-casos-graves.md` | Itapoá | MPSC + TCE/SC | 14 de 176 + 50 | `AMUNESC_Itapoa-GRAVES.pdf` |
 | `tijucas-casos-graves.md` | Tijucas | MPSC + TCE/SC | 14 de 182 + 93 | `GRANFPOLIS_Tijucas-GRAVES.pdf` |
 | `balneario-camboriu-casos-graves.md` | Balneário Camboriú | MPSC + TCE/SC | 16 de 862 + 382 | `AMFRI_Balneario-Camboriu-GRAVES.pdf` |
+| `ibirama-casos-graves.md` | Ibirama | MPSC + TCE/SC | 14 de 64 + 13 | `AMAVI_Ibirama-GRAVES.pdf` |
+| `paulo-lopes-casos-graves.md` | Paulo Lopes | MPSC + TCE/SC | 12 de 50 + 13 | `GRANFPOLIS_Paulo-Lopes-GRAVES.pdf` |
+| `porto-belo-casos-graves.md` | Porto Belo | MPSC + TCE/SC | 13 de 887 + 47 | `AMFRI_Porto-Belo-GRAVES.pdf` |
+| `sao-jose-casos-graves.md` | São José | MPSC + TCE/SC | 14 de 719 + 189 | `GRANFPOLIS_Sao-Jose-GRAVES.pdf` |
+| `fraiburgo-casos-graves.md` | Fraiburgo | MPSC + TCE/SC | 13 de 66 + 29 | `AMARP_Fraiburgo-GRAVES.pdf` |
+| `aurora-casos-graves.md` | Aurora | MPSC + TCE/SC | 12 de 55 + 15 | `AMAVI_Aurora-GRAVES.pdf` |
+| `mafra-casos-graves.md` | Mafra | MPSC + TCE/SC | 13 de 306 + 54 | `AMPLANORTE_Mafra-GRAVES.pdf` |
+| `rio-do-oeste-casos-graves.md` | Rio do Oeste | MPSC + TCE/SC | 12 de 179 + 9 | `AMAVI_Rio-Do-Oeste-GRAVES.pdf` |
+| `rio-do-sul-casos-graves.md` | Rio do Sul | MPSC + TCE/SC | 14 de 414 + 37 | `AMAVI_Rio-Do-Sul-GRAVES.pdf` |
+| `guaraciaba-casos-graves.md` | Guaraciaba | MPSC + TCE/SC | 10 de 18 + 7 | `AMEOSC_Guaraciaba-GRAVES.pdf` |
+| `itaiopolis-casos-graves.md` | Itaiópolis | MPSC + TCE/SC | 13 de 270 + 38 | `AMPLANORTE_Itaiopolis-GRAVES.pdf` |
+| `santa-cecilia-casos-graves.md` | Santa Cecília | MPSC + TCE/SC | 12 de 171 + 19 | `AMURC_Santa-Cecilia-GRAVES.pdf` |
+| `anitapolis-casos-graves.md` | Anitápolis | MPSC + TCE/SC | 11 de 48 + 13 | `GRANFPOLIS_Anitapolis-GRAVES.pdf` |
 
 ## Armadilha de comarca
 
@@ -73,6 +92,27 @@ significa que 574 casos aparecem sob a cidade mas só 185 são dela — o resto 
 Macieira, Rio das Antas e Calmon. **Sempre filtre por "Município/Prefeitura/Câmara
 de <cidade>" antes de escrever.** Florianópolis não tem esse problema: a Comarca
 da Capital cobre só a Capital.
+
+**Rio do Sul** é o pior caso de todos: sede de comarca, cobre Lontras, Aurora,
+Presidente Nereu e Agronômica — **303 dos 819 registros são dos vizinhos**. Em
+**Rio do Oeste** a comarca cobre Laurentino (96 de 308).
+
+Em **Porto Belo** a comarca cobre Bombinhas (330 dos 1.242 registros) e em
+**Fraiburgo** cobre Monte Carlo (55 de 142). **São José** quase não sofre com isso
+— só 38 registros são de São Pedro de Alcântara —, mas sofre de outra coisa: o
+prefixo do nome. São José do Cerrito, São José do Cedro, São Francisco do Sul,
+São João Batista e São Bento do Sul entram na base por semelhança, e **dois dos
+três "pareceres pela rejeição" que aparecem sob São José são de São José do
+Cedro**. **Sempre confira a unidade gestora antes de atribuir qualquer decisão.**
+
+Caso à parte é o **CINCATARINA**: o consórcio intermunicipal tem sede em
+Fraiburgo, e **68 dos 101 processos do TCE listados sob a cidade são dele** — de
+outros municípios, inclusive uma multa ao ex-prefeito de São Francisco do Sul.
+
+O mesmo vale para **Ibirama**: a comarca cobre José Boiteux e Vitor Meireles, e dos
+120 casos listados sob a cidade **30 são desses dois municípios**. **Paulo Lopes**
+é outra exceção que confirma a regra: pertence à Comarca de Garopaba, mas os 60
+registros citam todos o município.
 
 O mesmo vale para **Presidente Getúlio**: dos 232 casos listados sob a cidade, só
 **106** citam o município — os outros são de Dona Emma, Vitor Meireles e
@@ -134,6 +174,22 @@ vinham marcados como ACP; **só 10** dizem no texto que o MP ajuizou ação. Os
 outros dizem *"inexistência de fundamento para ajuizamento"* e terminam em
 arquivamento. Mesmo padrão, menor escala, em Nova Veneza e Itapoá.
 
+**Placar da primeira armadilha até aqui: seis falsos contra três verdadeiros.**
+Pareceres prévios rotulados como **"rejeição"** que na verdade são **APROVAÇÃO**:
+dois em **Mafra** (exercícios 2023 e 2024), dois em **Guaraciaba** (2021 e 2022)
+e dois em **Itaiópolis** (2023 e 2024). As rejeições reais, conferidas no
+original, são três: **Tijucas** (2024, PP 283/2025), **Aurora** (2024, PP
+263/2025) e **São José** (2024, PP 269/2025). **Nunca publique rejeição sem abrir
+o `EMITE PARECER` no DOTC-e.**
+
+**Mafra é o caso-escola da primeira armadilha.** Dois pareceres prévios do
+município aparecem na base como **"parecer pela rejeição"** e os dois são
+**APROVAÇÃO** — exercícios 2023 e 2024. A fórmula padrão do voto diz que as
+restrições *"não são consideradas gravíssimas… não podendo, portanto, ensejar a
+rejeição das contas prestadas"*, e o classificador lê "rejeição". No mesmo lote,
+**Aurora tinha uma rejeição de verdade** (exercício 2024) e **São José** outra
+(2024). **Nunca publique rejeição sem abrir o `EMITE PARECER` no DOTC-e.**
+
 **Terceira: a decisão que muda depois.** Em Tijucas, o TCE imputou a Elói Mariano
 Rocha um débito de R$ 70.140,00 (Acórdão 354/2024) e **cancelou esse débito em
 recurso** em 12/12/2025. Contar só a primeira metade seria o erro mais grave
@@ -146,3 +202,24 @@ em Tijucas, **seis blocos** cujo campo "Decisão" traz portarias e contratos
 internos do próprio Tribunal de Contas (compra de ar-condicionado, aditivo de
 elevador, palestra). Todo valor em reais precisa ser conferido contra a unidade
 gestora antes de virar post.
+
+## Lote de 29/09/2026 — nove cidades
+
+Os PDFs `*-casos-investigacoes.pdf` de Presidente Nereu, Lontras, Balneário
+Camboriú, Itapiranga, Águas Frias, Modelo, Saltinho, Irani e Catanduvas estão no
+layout compacto de `gen_graves_md.py`. Lontras e Itapiranga foram reutilizados;
+os outros sete foram escritos a partir dos resumos por cidade, com consulta ao
+dispositivo original nos casos de desfecho duvidoso. O recorte é por **data da
+edição**, desde 29/09/2022. O acervo local consultado termina em agosto de 2026:
+o lote não declara cobertura exaustiva até 29/09/2026.
+
+Os arquivos novos de Balneário Camboriú substituem, para distribuição, o antigo
+`balneario-camboriu-casos-graves.pdf`; o Markdown antigo permanece como histórico.
+Casos com recursos ou decisões posteriores foram resumidos pelo desfecho mais
+recente localizado. Atenção às correções verificadas: os pareceres das contas de
+2023 e 2024 de **Modelo** recomendam **aprovação**, apesar do rótulo bruto de
+rejeição; em **Catanduvas**, o recurso REC 24/00113500 afastou as multas da REP
+23/80044737 e a REP 16/00206627 terminou prescrita em 2025. A representação
+sobre o pregão de uniformes de **Presidente Nereu** teve cautelar **indeferida**
+em 2025 e julgamento de procedência em 2026. Esses desfechos prevalecem sobre
+os rótulos automáticos.
