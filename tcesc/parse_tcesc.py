@@ -220,6 +220,57 @@ def infer_city_from_ug(unidade_gestora: str) -> str | None:
     return None
 
 
+# Abertura da parte decisória. Separado dos itens numerados de propósito: num
+# acórdão o dispositivo é uma lista ("1. Julgar irregulares / 2. Aplicar multa /
+# 3. Dar ciência"), e ancorar no último item começaria o recorte em "Dar
+# ciência", jogando fora exatamente a condenação que interessa.
+ABERTURA_RE = re.compile(
+    r"(ACORDAM\s+os\s+(?:Conselheiros|Membros)|"
+    r"(?:Diante|Ante|Em face)\s+do\s+exposto|"
+    r"decid[eo]\s*:|DECIDE\s*:|RESOLVE\s*:)",
+    re.IGNORECASE,
+)
+
+# usado só quando não há abertura explícita (decisões singulares curtas)
+ITEM_RE = re.compile(
+    r"^\s*\d+(?:\.\d+)?\.?\s*(?:Julgar|Conhecer|Considerar|Aplicar|Determinar|"
+    r"Dar\s+ci[êe]ncia|Homologar|Arquivar|Sustar|Deferir|Indeferir|Negar)",
+    re.IGNORECASE | re.MULTILINE,
+)
+
+# o que caracteriza uma decisão de mérito de fato tomada
+MERITO_RE = re.compile(
+    r"julgar?\s+(?:as\s+contas\s+)?irregular|julgar?\s+regular|"
+    r"aplicar?\s+(?:a\s+)?multa|multa\s+no\s+valor|imputar\s+d[ée]bito|"
+    r"parecer\s+pr[ée]vio\s+(?:pela|recomendando)|"
+    r"sustar|medida\s+cautelar|suspend|arquivar|dar\s+provimento|negar\s+provimento",
+    re.IGNORECASE,
+)
+
+
+def extract_dispositivo(block_text: str, limite: int = 3000) -> str | None:
+    """Recorta a parte decisória do bloco.
+
+    Ancora na ÚLTIMA abertura ("Acordam os Conselheiros...", "Diante do
+    exposto"): o relatório de um acórdão costuma citar decisões anteriores, e a
+    primeira ocorrência traria a decisão de outro processo como se fosse desta.
+    A partir da abertura o recorte segue até o fim, preservando a lista inteira
+    de itens decididos.
+    """
+    marks = list(ABERTURA_RE.finditer(block_text))
+    if not marks:
+        marks = list(ITEM_RE.finditer(block_text))
+        if not marks:
+            return None
+    # PRIMEIRA abertura, não a última. A segmentação por número de processo às
+    # vezes estende o bloco até o ato seguinte da mesma página do Diário, e aí a
+    # última abertura é a decisão do vizinho — foi assim que decisões de Garopaba
+    # e Florianópolis apareceram em cards de Forquilhinha e Criciúma. "Acordam os
+    # Conselheiros" praticamente só ocorre na parte dispositiva, então a primeira
+    # ocorrência é a deste processo.
+    return re.sub(r"\s+", " ", block_text[marks[0].start():][:limite]).strip()
+
+
 def parse_blocks(text: str) -> list[dict]:
     """Localiza cada PROCESSO e extrai o bloco até o próximo PROCESSO."""
     text = clean_text(text)
@@ -294,6 +345,17 @@ def parse_blocks(text: str) -> list[dict]:
 
         # Corpo (truncado para score / análise)
         rec["_corpo_curto"] = re.sub(r"\s+", " ", block_text[:2500]).strip()
+
+        # Dispositivo — o que o tribunal DECIDIU.
+        # Sem isto o dado só continha o objeto do processo ("apurar supostas
+        # irregularidades em X") e o número do acórdão, e qualquer afirmação de
+        # desfecho no produto final virava inferência: um processo que terminou
+        # regular ficava indistinguível de um que terminou em multa.
+        # O dispositivo vem no FIM do bloco, então truncar o começo (como o
+        # _corpo_curto faz) justamente o descarta.
+        disp = extract_dispositivo(block_text)
+        if disp:
+            rec["dispositivo"] = disp
 
         # Score
         blob = rec["_corpo_curto"].lower()
