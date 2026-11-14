@@ -1,0 +1,56 @@
+[
+  {
+    "cidade": "Cunha Porã",
+    "slug": "cunha-pora",
+    "regiao": "amerios",
+    "base": "resumos/consulta-documental/cunha-pora-base-documental.md",
+    "fontes": [
+      {
+        "orgao": "MPSC",
+        "arquivo": "resumos/regioes/regiao-amerios.md",
+        "registros": 52,
+        "periodo": "**Período coberto:** 10/01/2022 a 25/06/2026 (965 edições do DO-MPSC)",
+        "sha256_secao": "26608cb4e1c380d5d9568dbacc072ff773024200478b762a3884da259a6f726e"
+      },
+      {
+        "orgao": "TCE-SC",
+        "arquivo": "tcesc/resumos/regioes/regiao-amerios-tce.md",
+        "registros": 25,
+        "periodo": "**Período coberto:** 05/01/2022 a 17/07/2026 (1074 edições do DOTC-e)",
+        "sha256_secao": "d0c2d608fea53b72725dc4209f51448fac3bcd17ff03b6e96a03ff93efa46e48"
+      }
+    ],
+    "revisao": "pendente",
+    "pdf": "não gerado",
+    "layout_configurado": false,
+    "bandeira_brasao_existentes": false,
+    "financas_existentes": false
+  },
+  {
+    "cidade": "Santo Amaro da Imperatriz",
+    "slug": "santo-amaro-da-imperatriz",
+    "regiao": "granfpolis",
+    "base": "resumos/consulta-documental/santo-amaro-da-imperatriz-base-documental.md",
+    "fontes": [
+      {
+        "orgao": "MPSC",
+        "arquivo": "resumos/regioes/regiao-granfpolis.md",
+        "registros": 991,
+        "periodo": "**Período coberto:** 10/01/2022 a 25/06/2026 (965 edições do DO-MPSC)",
+        "sha256_secao": "edd69f2b92dd13ec1893c4aa3af7e2e58b5b6836394ab57a8e8f55aadb0573ff"
+      },
+      {
+        "orgao": "TCE-SC",
+        "arquivo": "tcesc/resumos/regioes/regiao-granfpolis-tce.md",
+        "registros": 61,
+        "periodo": "**Período coberto:** 05/01/2022 a 17/07/2026 (1074 edições do DOTC-e)",
+        "sha256_secao": "5a2287614a067371b6227e16f0c8407fe6d4850901b2137508a975eb45c7b321"
+      }
+    ],
+    "revisao": "pendente",
+    "pdf": "não gerado",
+    "layout_configurado": true,
+    "bandeira_brasao_existentes": true,
+    "financas_existentes": false
+  }
+]
