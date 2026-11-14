@@ -1,0 +1,18 @@
+{
+  "criciuma": {
+    "nome": "Criciúma",
+    "uf": "SC",
+    "ibge": "4204608",
+    "termos": ["Criciúma"],
+    "partes_djen": ["MUNICÍPIO DE CRICIÚMA"],
+    "diario_municipal": {"tipo": "criciuma"}
+  },
+  "icara": {
+    "nome": "Içara",
+    "uf": "SC",
+    "ibge": "4207007",
+    "termos": ["Içara"],
+    "partes_djen": ["MUNICÍPIO DE IÇARA"],
+    "diario_municipal": {"tipo": "domsc", "municipio": "Içara"}
+  }
+}

@@ -14,3 +14,9 @@ parsed/
 pdf_template/*/_build/
 pdf_template/*/tmp*.html
 pdf_template/*/*_profile/
+
+# coleção local de PDFs prontos e históricos, copiados das saídas do projeto
+PDFS-CIDADES-CONSOLIDADOS/
+
+# coletor de diários: PDFs/ZIPs baixados
+diarios/cache/

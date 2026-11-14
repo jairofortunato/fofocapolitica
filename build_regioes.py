@@ -109,20 +109,14 @@ def case_md(rec: dict, edicao_link: str) -> str:
     partes = rec.get("partes") or rec.get("investigados")
     if partes:
         p = re.sub(r"\s+", " ", partes).strip()
-        if len(p) > 800:
-            p = p[:799] + "…"
         lines.append(f"**Partes:** {p}")
     obj = rec.get("objeto")
     if obj:
         o = re.sub(r"\s+", " ", obj).strip()
-        if len(o) > 1200:
-            o = o[:1199] + "…"
         lines.append(f"**Objeto:** {o}")
     dec = rec.get("decisao")
     if dec:
         d = re.sub(r"\s+", " ", dec).strip()
-        if len(d) > 1200:
-            d = d[:1199] + "…"
         lines.append(f"**Decisão/Conclusão:** {d}")
     if rec.get("data"):
         lines.append(f"**Data:** {rec['data']}")
@@ -189,9 +183,15 @@ def main():
             matched = set()
             for m in prefixed.finditer(blob):
                 matched.add(lower2canon.get(m.group(1).lower()))
-            for m in bare.finditer(comarca_low):
-                matched.add(lower2canon.get(m.group(1).lower()))
             matched.discard(None)
+            # comarca (jurisdição judicial) só decide a cidade quando o próprio
+            # texto do caso não menciona nenhum município explicitamente — senão
+            # um caso sobre a Prefeitura de Nova Veneza, tramitando na comarca de
+            # Criciúma, acaba contaminando a seção de Criciúma também.
+            if not matched:
+                for m in bare.finditer(comarca_low):
+                    matched.add(lower2canon.get(m.group(1).lower()))
+                matched.discard(None)
             for city in matched:
                 key = (b.get("header", ""), ed)
                 if key not in seen[city]:

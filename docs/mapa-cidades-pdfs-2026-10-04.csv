@@ -1,0 +1,296 @@
+﻿codigo_ibge,municipio,regiao,situacao,total_pdfs,pdfs_com_identificacao,tem_casos_ou_layout_tubarao,arquivos
+4200051,Abdon Batista,Planalto Sul / AMPLASC,SEM_PDF,0,0,nao,
+4200101,Abelardo Luz,Alto Irani / AMAI,COM_IDENTIFICACAO,3,3,sim,COM-IDENTIFICACAO__CASOS__abelardo-luz-casos-graves.pdf | COM-IDENTIFICACAO__CASOS__abelardo-luz-casos-investigacoes.pdf | COM-IDENTIFICACAO__DOWNLOADS__abelardo-luz-casos-graves.pdf
+4200200,Agrolândia,Alto Vale do Itajaí / AMAVI,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__agrolandia-casos-graves.pdf
+4200309,Agronômica,Alto Vale do Itajaí / AMAVI,SEM_PDF,0,0,nao,
+4200408,Água Doce,Meio Oeste / AMMOC,COM_IDENTIFICACAO,3,3,sim,COM-IDENTIFICACAO__CASOS__agua-doce-casos-graves.pdf | COM-IDENTIFICACAO__CASOS__agua-doce-casos-investigacoes.pdf | COM-IDENTIFICACAO__DOWNLOADS__agua-doce-casos-investigacoes.pdf
+4200507,Águas de Chapecó,Oeste / AMOSC,SEM_PDF,0,0,nao,
+4200556,Águas Frias,Oeste / AMOSC,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__aguas-frias-casos-investigacoes.pdf
+4200606,Águas Mornas,Grande Florianópolis / GRANFPOLIS,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__aguas-mornas-casos-investigacoes.pdf
+4200705,Alfredo Wagner,Grande Florianópolis / GRANFPOLIS,SEM_PDF,0,0,nao,
+4200754,Alto Bela Vista,Alto Uruguai Catarinense / AMAUC,SEM_PDF,0,0,nao,
+4200804,Anchieta,Extremo Oeste / AMEOSC,SEM_PDF,0,0,nao,
+4200903,Angelina,Grande Florianópolis / GRANFPOLIS,SEM_PDF,0,0,nao,
+4201000,Anita Garibaldi,Serra Catarinense / AMURES,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMURES__Fofoca-Politica-Transparencia-Radical-Anita-Garibaldi.pdf
+4201109,Anitápolis,Grande Florianópolis / GRANFPOLIS,COM_IDENTIFICACAO,4,3,sim,COM-IDENTIFICACAO__ANTERIOR__2026-09-20__GRANFPOLIS_Anitapolis.pdf | COM-IDENTIFICACAO__CASOS__anitapolis-casos-graves.pdf | COM-IDENTIFICACAO__TUBARAO__GRANFPOLIS_Anitapolis.pdf | SEM-BLOCO-DETECTADO__DOCUMENTAL__anitapolis-base-documental.pdf
+4201208,Antônio Carlos,Grande Florianópolis / GRANFPOLIS,SEM_PDF,0,0,nao,
+4201257,Apiúna,Médio Vale do Itajaí / AMMVI,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMMVI__Fofoca-Politica-Transparencia-Radical-Apiuna.pdf
+4201273,Arabutã,Alto Uruguai Catarinense / AMAUC,SEM_PDF,0,0,nao,
+4201307,Araquari,Nordeste / AMUNESC,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMUNESC__Fofoca-Politica-Transparencia-Radical-Araquari.pdf
+4201406,Araranguá,Extremo Sul / AMESC,COM_IDENTIFICACAO,3,2,sim,COM-IDENTIFICACAO__CASOS__ararangua-casos-graves.pdf | COM-IDENTIFICACAO__DOWNLOADS__AMESC_Ararangua.pdf | SEM-BLOCO-DETECTADO__DOSSIE__AMESC__Fofoca-Politica-Transparencia-Radical-Ararangua.pdf
+4201505,Armazém,Tubarão-Laguna / AMUREL,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMUREL__Fofoca-Politica-Transparencia-Radical-Armazem.pdf
+4201604,Arroio Trinta,Alto Vale do Rio do Peixe / AMARP,SEM_PDF,0,0,nao,
+4201653,Arvoredo,Oeste / AMOSC,SEM_PDF,0,0,nao,
+4201703,Ascurra,Médio Vale do Itajaí / AMMVI,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMMVI__Fofoca-Politica-Transparencia-Radical-Ascurra.pdf
+4201802,Atalanta,Alto Vale do Itajaí / AMAVI,SEM_PDF,0,0,nao,
+4201901,Aurora,Alto Vale do Itajaí / AMAVI,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__aurora-casos-graves.pdf
+4201950,Balneário Arroio do Silva,Extremo Sul / AMESC,COM_IDENTIFICACAO,2,1,nao,COM-IDENTIFICACAO__DOWNLOADS__AMESC_Balneario-Arroio-Do-Silva.pdf | SEM-BLOCO-DETECTADO__DOSSIE__AMESC__Fofoca-Politica-Transparencia-Radical-Balneario-Arroio-Do-Silva.pdf
+4202057,Balneário Barra do Sul,Nordeste / AMUNESC,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMUNESC__Fofoca-Politica-Transparencia-Radical-Balneario-Barra-Do-Sul.pdf
+4202008,Balneário Camboriú,Foz do Rio Itajaí / AMFRI,COM_IDENTIFICACAO,3,3,sim,COM-IDENTIFICACAO__CASOS__balneario-camboriu-casos-graves.pdf | COM-IDENTIFICACAO__CASOS__balneario-camboriu-casos-investigacoes.pdf | COM-IDENTIFICACAO__DOSSIE__AMFRI__Fofoca-Politica-Transparencia-Radical-Balneario-Camboriu-GRAVES.pdf
+4202073,Balneário Gaivota,Extremo Sul / AMESC,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMESC__Fofoca-Politica-Transparencia-Radical-Balneario-Gaivota.pdf
+4212809,Balneário Piçarras,Foz do Rio Itajaí / AMFRI,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__balneario-picarras-casos-graves.pdf
+4220000,Balneário Rincão,Carbonífera / AMREC,SO_SEM_BLOCO_DETECTADO,2,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMREC__Fofoca-Politica-Transparencia-Radical-Balneario-Rincao.pdf | SEM-BLOCO-DETECTADO__REVISAO__AMREC_Balneario-Rincao.pdf
+4202081,Bandeirante,Extremo Oeste / AMEOSC,SEM_PDF,0,0,nao,
+4202099,Barra Bonita,Extremo Oeste / AMEOSC,SEM_PDF,0,0,nao,
+4202107,Barra Velha,Vale do Itapocu / AMVALI,COM_IDENTIFICACAO,2,1,nao,COM-IDENTIFICACAO__DOWNLOADS__AMVALI_Barra-Velha.pdf | SEM-BLOCO-DETECTADO__DOSSIE__AMVALI__Fofoca-Politica-Transparencia-Radical-Barra-Velha.pdf
+4202131,Bela Vista do Toldo,Planalto Norte / AMPLANORTE,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__bela-vista-do-toldo-casos-graves.pdf
+4202156,Belmonte,Extremo Oeste / AMEOSC,SEM_PDF,0,0,nao,
+4202206,Benedito Novo,Médio Vale do Itajaí / AMMVI,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMMVI__Fofoca-Politica-Transparencia-Radical-Benedito-Novo.pdf
+4202305,Biguaçu,Grande Florianópolis / GRANFPOLIS,COM_IDENTIFICACAO,1,1,nao,COM-IDENTIFICACAO__DOSSIE__GRANFPOLIS__Fofoca-Politica-Transparencia-Radical-Biguacu-GRAVES.pdf
+4202404,Blumenau,Médio Vale do Itajaí / AMMVI,COM_IDENTIFICACAO,2,1,nao,COM-IDENTIFICACAO__DOWNLOADS__AMMVI_Blumenau (1).pdf | SEM-BLOCO-DETECTADO__DOSSIE__AMMVI__Fofoca-Politica-Transparencia-Radical-Blumenau.pdf
+4202438,Bocaina do Sul,Serra Catarinense / AMURES,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMURES__Fofoca-Politica-Transparencia-Radical-Bocaina-Do-Sul.pdf
+4202503,Bom Jardim da Serra,Serra Catarinense / AMURES,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMURES__Fofoca-Politica-Transparencia-Radical-Bom-Jardim-Da-Serra.pdf
+4202537,Bom Jesus,Alto Irani / AMAI,SEM_PDF,0,0,nao,
+4202578,Bom Jesus do Oeste,Entre Rios / AMERIOS,SEM_PDF,0,0,nao,
+4202602,Bom Retiro,Serra Catarinense / AMURES,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMURES__Fofoca-Politica-Transparencia-Radical-Bom-Retiro.pdf
+4202453,Bombinhas,Foz do Rio Itajaí / AMFRI,SEM_PDF,0,0,nao,
+4202701,Botuverá,Médio Vale do Itajaí / AMMVI,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMMVI__Fofoca-Politica-Transparencia-Radical-Botuvera.pdf
+4202800,Braço do Norte,Tubarão-Laguna / AMUREL,SO_SEM_BLOCO_DETECTADO,2,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMUREL__Fofoca-Politica-Transparencia-Radical-Braco-Do-Norte.pdf | SEM-BLOCO-DETECTADO__REVISAO__AMUREL_Braco-Do-Norte.pdf
+4202859,Braço do Trombudo,Alto Vale do Itajaí / AMAVI,SEM_PDF,0,0,nao,
+4202875,Brunópolis,Planalto Sul / AMPLASC,SEM_PDF,0,0,nao,
+4202909,Brusque,Médio Vale do Itajaí / AMMVI,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMMVI__Fofoca-Politica-Transparencia-Radical-Brusque.pdf
+4203006,Caçador,Alto Vale do Rio do Peixe / AMARP,COM_IDENTIFICACAO,2,1,sim,COM-IDENTIFICACAO__CASOS__cacador-casos-graves.pdf | SEM-BLOCO-DETECTADO__DOSSIE__AMARP__Fofoca-Politica-Transparencia-Radical-Cacador.pdf
+4203105,Caibi,Entre Rios / AMERIOS,SEM_PDF,0,0,nao,
+4203154,Calmon,Alto Vale do Rio do Peixe / AMARP,SEM_PDF,0,0,nao,
+4203204,Camboriú,Foz do Rio Itajaí / AMFRI,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__camboriu-casos-graves.pdf
+4203303,Campo Alegre,Nordeste / AMUNESC,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMUNESC__Fofoca-Politica-Transparencia-Radical-Campo-Alegre.pdf
+4203402,Campo Belo do Sul,Serra Catarinense / AMURES,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMURES__Fofoca-Politica-Transparencia-Radical-Campo-Belo-Do-Sul.pdf
+4203501,Campo Erê,Entre Rios / AMERIOS,SEM_PDF,0,0,nao,
+4203600,Campos Novos,Planalto Sul / AMPLASC,COM_IDENTIFICACAO,2,1,sim,COM-IDENTIFICACAO__CASOS__campos-novos-casos-investigacoes.pdf | SEM-BLOCO-DETECTADO__DOSSIE__AMPLASC__Fofoca-Politica-Transparencia-Radical-Campos-Novos.pdf
+4203709,Canelinha,Grande Florianópolis / GRANFPOLIS,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__canelinha-casos-investigacoes.pdf
+4203808,Canoinhas,Planalto Norte / AMPLANORTE,SEM_PDF,0,0,nao,
+4203253,Capão Alto,Serra Catarinense / AMURES,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMURES__Fofoca-Politica-Transparencia-Radical-Capao-Alto.pdf
+4203907,Capinzal,Meio Oeste / AMMOC,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__capinzal-casos-graves.pdf
+4203956,Capivari de Baixo,Tubarão-Laguna / AMUREL,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMUREL__Fofoca-Politica-Transparencia-Radical-Capivari-De-Baixo.pdf
+4204004,Catanduvas,Meio Oeste / AMMOC,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__catanduvas-casos-investigacoes.pdf
+4204103,Caxambu do Sul,Oeste / AMOSC,SEM_PDF,0,0,nao,
+4204152,Celso Ramos,Planalto Sul / AMPLASC,SEM_PDF,0,0,nao,
+4204178,Cerro Negro,Serra Catarinense / AMURES,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMURES__Fofoca-Politica-Transparencia-Radical-Cerro-Negro.pdf
+4204194,Chapadão do Lageado,Alto Vale do Itajaí / AMAVI,SEM_PDF,0,0,nao,
+4204202,Chapecó,Oeste / AMOSC,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMOSC__Fofoca-Politica-Transparencia-Radical-Chapeco.pdf
+4204251,Cocal do Sul,Carbonífera / AMREC,SO_SEM_BLOCO_DETECTADO,2,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMREC__Fofoca-Politica-Transparencia-Radical-Cocal-Do-Sul.pdf | SEM-BLOCO-DETECTADO__REVISAO__AMREC_Cocal-Do-Sul.pdf
+4204301,Concórdia,Alto Uruguai Catarinense / AMAUC,COM_IDENTIFICACAO,2,2,sim,COM-IDENTIFICACAO__CASOS__concordia-casos-graves.pdf | COM-IDENTIFICACAO__CASOS__concordia-casos-investigacoes.pdf
+4204350,Cordilheira Alta,Oeste / AMOSC,SEM_PDF,0,0,nao,
+4204400,Coronel Freitas,Oeste / AMOSC,SEM_PDF,0,0,nao,
+4204459,Coronel Martins,Noroeste / AMNOROESTE,SEM_PDF,0,0,nao,
+4204558,Correia Pinto,Serra Catarinense / AMURES,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMURES__Fofoca-Politica-Transparencia-Radical-Correia-Pinto.pdf
+4204509,Corupá,Vale do Itapocu / AMVALI,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMVALI__Fofoca-Politica-Transparencia-Radical-Corupa.pdf
+4204608,Criciúma,Carbonífera / AMREC,SO_SEM_BLOCO_DETECTADO,5,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMREC__Fofoca-Politica-Transparencia-Radical-Criciuma-TOP.pdf | SEM-BLOCO-DETECTADO__DOSSIE__AMREC__Fofoca-Politica-Transparencia-Radical-Criciuma.pdf | SEM-BLOCO-DETECTADO__DOSSIE__Criciuma-dossie-v2.pdf | SEM-BLOCO-DETECTADO__REVISAO__AMREC_Criciuma.pdf | SEM-BLOCO-DETECTADO__TODOS__AMREC_Criciuma-GRAVES.pdf
+4204707,Cunha Porã,Entre Rios / AMERIOS,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__TUBARAO__AMERIOS_Cunha-Pora.pdf
+4204756,Cunhataí,Entre Rios / AMERIOS,SEM_PDF,0,0,nao,
+4204806,Curitibanos,Contestado / AMURC,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMURC__Fofoca-Politica-Transparencia-Radical-Curitibanos.pdf
+4204905,Descanso,Extremo Oeste / AMEOSC,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMEOSC__Fofoca-Politica-Transparencia-Radical-Descanso-24.pdf
+4205001,Dionísio Cerqueira,Extremo Oeste / AMEOSC,SEM_PDF,0,0,nao,
+4205100,Dona Emma,Alto Vale do Itajaí / AMAVI,SEM_PDF,0,0,nao,
+4205159,Doutor Pedrinho,Médio Vale do Itajaí / AMMVI,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMMVI__Fofoca-Politica-Transparencia-Radical-Doutor-Pedrinho.pdf
+4205175,Entre Rios,Alto Irani / AMAI,SEM_PDF,0,0,nao,
+4205191,Ermo,Extremo Sul / AMESC,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMESC__Fofoca-Politica-Transparencia-Radical-Ermo.pdf
+4205209,Erval Velho,Meio Oeste / AMMOC,SEM_PDF,0,0,nao,
+4205308,Faxinal dos Guedes,Alto Irani / AMAI,SEM_PDF,0,0,nao,
+4205357,Flor do Sertão,Entre Rios / AMERIOS,SEM_PDF,0,0,nao,
+4205407,Florianópolis,Grande Florianópolis / GRANFPOLIS,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__florianopolis-casos-graves.pdf
+4205431,Formosa do Sul,Oeste / AMOSC,SEM_PDF,0,0,nao,
+4205456,Forquilhinha,Carbonífera / AMREC,SO_SEM_BLOCO_DETECTADO,2,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMREC__Fofoca-Politica-Transparencia-Radical-Forquilhinha.pdf | SEM-BLOCO-DETECTADO__REVISAO__AMREC_Forquilhinha.pdf
+4205506,Fraiburgo,Alto Vale do Rio do Peixe / AMARP,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__fraiburgo-casos-graves.pdf
+4205555,Frei Rogério,Contestado / AMURC,SEM_PDF,0,0,nao,
+4205605,Galvão,Noroeste / AMNOROESTE,SEM_PDF,0,0,nao,
+4205704,Garopaba,Grande Florianópolis / GRANFPOLIS,COM_IDENTIFICACAO,2,2,sim,COM-IDENTIFICACAO__CASOS__garopaba-casos-graves.pdf | COM-IDENTIFICACAO__CASOS__garopaba-casos-investigacoes.pdf
+4205803,Garuva,Nordeste / AMUNESC,COM_IDENTIFICACAO,2,1,nao,COM-IDENTIFICACAO__DOWNLOADS__AMUNESC_Garuva (1).pdf | SEM-BLOCO-DETECTADO__DOSSIE__AMUNESC__Fofoca-Politica-Transparencia-Radical-Garuva.pdf
+4205902,Gaspar,Médio Vale do Itajaí / AMMVI,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMMVI__Fofoca-Politica-Transparencia-Radical-Gaspar.pdf
+4206009,Governador Celso Ramos,Grande Florianópolis / GRANFPOLIS,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__governador-celso-ramos-casos-graves.pdf
+4206108,Grão-Pará,Tubarão-Laguna / AMUREL,SO_SEM_BLOCO_DETECTADO,2,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMUREL__Fofoca-Politica-Transparencia-Radical-Grao-Para.pdf | SEM-BLOCO-DETECTADO__REVISAO__AMUREL_Grao-Para.pdf
+4206207,Gravatal,Tubarão-Laguna / AMUREL,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMUREL__Fofoca-Politica-Transparencia-Radical-Gravatal.pdf
+4206306,Guabiruba,Médio Vale do Itajaí / AMMVI,SO_SEM_BLOCO_DETECTADO,2,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMMVI__Fofoca-Politica-Transparencia-Radical-Guabiruba-24.pdf | SEM-BLOCO-DETECTADO__DOSSIE__AMMVI__Fofoca-Politica-Transparencia-Radical-Guabiruba.pdf
+4206405,Guaraciaba,Extremo Oeste / AMEOSC,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__guaraciaba-casos-graves.pdf
+4206504,Guaramirim,Vale do Itapocu / AMVALI,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMVALI__Fofoca-Politica-Transparencia-Radical-Guaramirim.pdf
+4206603,Guarujá do Sul,Extremo Oeste / AMEOSC,COM_IDENTIFICACAO,3,2,sim,COM-IDENTIFICACAO__ANTERIOR__2026-09-20__AMEOSC_Guaruja-do-Sul.pdf | COM-IDENTIFICACAO__TUBARAO__AMEOSC_Guaruja-do-Sul.pdf | SEM-BLOCO-DETECTADO__DOCUMENTAL__guaruja-do-sul-base-documental.pdf
+4206652,Guatambú,Oeste / AMOSC,SEM_PDF,0,0,nao,
+4206702,Herval d'Oeste,Meio Oeste / AMMOC,SEM_PDF,0,0,nao,
+4206751,Ibiam,Alto Vale do Rio do Peixe / AMARP,SEM_PDF,0,0,nao,
+4206801,Ibicaré,Meio Oeste / AMMOC,SEM_PDF,0,0,nao,
+4206900,Ibirama,Alto Vale do Itajaí / AMAVI,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__ibirama-casos-graves.pdf
+4207007,Içara,Carbonífera / AMREC,COM_IDENTIFICACAO,3,1,nao,COM-IDENTIFICACAO__DOWNLOADS__AMREC_Icara.pdf | SEM-BLOCO-DETECTADO__DOSSIE__AMREC__Fofoca-Politica-Transparencia-Radical-Icara.pdf | SEM-BLOCO-DETECTADO__REVISAO__AMREC_Icara.pdf
+4207106,Ilhota,Foz do Rio Itajaí / AMFRI,COM_IDENTIFICACAO,2,2,sim,COM-IDENTIFICACAO__CASOS__ilhota-casos-investigacoes.pdf | COM-IDENTIFICACAO__DOSSIE__AMFRI__Fofoca-Politica-Transparencia-Radical-Ilhota-GRAVES.pdf
+4207205,Imaruí,Tubarão-Laguna / AMUREL,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMUREL__Fofoca-Politica-Transparencia-Radical-Imarui.pdf
+4207304,Imbituba,Tubarão-Laguna / AMUREL,COM_IDENTIFICACAO,2,1,sim,COM-IDENTIFICACAO__CASOS__imbituba-casos-graves.pdf | SEM-BLOCO-DETECTADO__DOSSIE__AMUREL__Fofoca-Politica-Transparencia-Radical-Imbituba.pdf
+4207403,Imbuia,Alto Vale do Itajaí / AMAVI,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__imbuia-casos-graves.pdf
+4207502,Indaial,Médio Vale do Itajaí / AMMVI,COM_IDENTIFICACAO,2,1,nao,COM-IDENTIFICACAO__DOWNLOADS__AMMVI_Indaial.pdf | SEM-BLOCO-DETECTADO__DOSSIE__AMMVI__Fofoca-Politica-Transparencia-Radical-Indaial.pdf
+4207577,Iomerê,Alto Vale do Rio do Peixe / AMARP,SEM_PDF,0,0,nao,
+4207601,Ipira,Alto Uruguai Catarinense / AMAUC,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__ipira-casos-graves.pdf
+4207650,Iporã do Oeste,Extremo Oeste / AMEOSC,SEM_PDF,0,0,nao,
+4207684,Ipuaçu,Alto Irani / AMAI,SEM_PDF,0,0,nao,
+4207700,Ipumirim,Alto Uruguai Catarinense / AMAUC,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__ipumirim-casos-graves.pdf
+4207759,Iraceminha,Entre Rios / AMERIOS,SEM_PDF,0,0,nao,
+4207809,Irani,Alto Uruguai Catarinense / AMAUC,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__irani-casos-investigacoes.pdf
+4207858,Irati,Oeste / AMOSC,SEM_PDF,0,0,nao,
+4207908,Irineópolis,Planalto Norte / AMPLANORTE,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__TUBARAO__AMPLANORTE_Irineopolis.pdf
+4208005,Itá,Alto Uruguai Catarinense / AMAUC,COM_IDENTIFICACAO,3,3,sim,COM-IDENTIFICACAO__CASOS__ita-casos-graves.pdf | COM-IDENTIFICACAO__CASOS__ita-casos-investigacoes.pdf | COM-IDENTIFICACAO__DOWNLOADS__ita-casos-graves.pdf
+4208104,Itaiópolis,Planalto Norte / AMPLANORTE,COM_IDENTIFICACAO,2,2,sim,COM-IDENTIFICACAO__CASOS__itaiopolis-casos-graves.pdf | COM-IDENTIFICACAO__TUBARAO__AMPLANORTE_Itaiopolis.pdf
+4208203,Itajaí,Foz do Rio Itajaí / AMFRI,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__itajai-casos-graves.pdf
+4208302,Itapema,Foz do Rio Itajaí / AMFRI,COM_IDENTIFICACAO,1,1,nao,COM-IDENTIFICACAO__DOSSIE__AMFRI__Fofoca-Politica-Transparencia-Radical-Itapema-GRAVES.pdf
+4208401,Itapiranga,Extremo Oeste / AMEOSC,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__itapiranga-casos-investigacoes.pdf
+4208450,Itapoá,Nordeste / AMUNESC,COM_IDENTIFICACAO,2,1,sim,COM-IDENTIFICACAO__CASOS__itapoa-casos-graves.pdf | SEM-BLOCO-DETECTADO__DOSSIE__AMUNESC__Fofoca-Politica-Transparencia-Radical-Itapoa.pdf
+4208500,Ituporanga,Alto Vale do Itajaí / AMAVI,COM_IDENTIFICACAO,3,3,sim,COM-IDENTIFICACAO__CASOS__ituporanga-casos-graves.pdf | COM-IDENTIFICACAO__CASOS__ituporanga-casos-investigacoes.pdf | COM-IDENTIFICACAO__DOWNLOADS__ituporanga-casos-graves.pdf
+4208609,Jaborá,Alto Uruguai Catarinense / AMAUC,SEM_PDF,0,0,nao,
+4208708,Jacinto Machado,Extremo Sul / AMESC,COM_IDENTIFICACAO,3,2,sim,COM-IDENTIFICACAO__CASOS__jacinto-machado-casos-graves.pdf | COM-IDENTIFICACAO__DOWNLOADS__AMESC_Jacinto-Machado.pdf | SEM-BLOCO-DETECTADO__DOSSIE__AMESC__Fofoca-Politica-Transparencia-Radical-Jacinto-Machado.pdf
+4208807,Jaguaruna,Tubarão-Laguna / AMUREL,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMUREL__Fofoca-Politica-Transparencia-Radical-Jaguaruna.pdf
+4208906,Jaraguá do Sul,Vale do Itapocu / AMVALI,COM_IDENTIFICACAO,2,1,nao,COM-IDENTIFICACAO__DOWNLOADS__AMVALI_Jaragua-Do-Sul (1).pdf | SEM-BLOCO-DETECTADO__DOSSIE__AMVALI__Fofoca-Politica-Transparencia-Radical-Jaragua-Do-Sul.pdf
+4208955,Jardinópolis,Oeste / AMOSC,SEM_PDF,0,0,nao,
+4209003,Joaçaba,Meio Oeste / AMMOC,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__joacaba-casos-investigacoes.pdf
+4209102,Joinville,Nordeste / AMUNESC,COM_IDENTIFICACAO,4,2,nao,COM-IDENTIFICACAO__DOWNLOADS__AMUNESC_Joinville-RESUMO.pdf | COM-IDENTIFICACAO__DOWNLOADS__AMUNESC_Joinville.pdf | SEM-BLOCO-DETECTADO__DOSSIE__AMUNESC__Fofoca-Politica-Transparencia-Radical-Joinville-RESUMO.pdf | SEM-BLOCO-DETECTADO__DOSSIE__AMUNESC__Fofoca-Politica-Transparencia-Radical-Joinville.pdf
+4209151,José Boiteux,Alto Vale do Itajaí / AMAVI,SEM_PDF,0,0,nao,
+4209177,Jupiá,Noroeste / AMNOROESTE,SEM_PDF,0,0,nao,
+4209201,Lacerdópolis,Meio Oeste / AMMOC,SEM_PDF,0,0,nao,
+4209300,Lages,Serra Catarinense / AMURES,COM_IDENTIFICACAO,2,1,nao,COM-IDENTIFICACAO__DOWNLOADS__AMURES_Lages.pdf | SEM-BLOCO-DETECTADO__DOSSIE__AMURES__Fofoca-Politica-Transparencia-Radical-Lages.pdf
+4209409,Laguna,Tubarão-Laguna / AMUREL,SO_SEM_BLOCO_DETECTADO,2,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMUREL__Fofoca-Politica-Transparencia-Radical-Laguna.pdf | SEM-BLOCO-DETECTADO__REVISAO__AMUREL_Laguna.pdf
+4209458,Lajeado Grande,Alto Irani / AMAI,SEM_PDF,0,0,nao,
+4209508,Laurentino,Alto Vale do Itajaí / AMAVI,SEM_PDF,0,0,nao,
+4209607,Lauro Müller,Carbonífera / AMREC,COM_IDENTIFICACAO,3,1,nao,COM-IDENTIFICACAO__DOWNLOADS__AMREC_Lauro-Muller.pdf | SEM-BLOCO-DETECTADO__DOSSIE__AMREC__Fofoca-Politica-Transparencia-Radical-Lauro-Muller.pdf | SEM-BLOCO-DETECTADO__REVISAO__AMREC_Lauro-Muller.pdf
+4209706,Lebon Régis,Alto Vale do Rio do Peixe / AMARP,SEM_PDF,0,0,nao,
+4209805,Leoberto Leal,Grande Florianópolis / GRANFPOLIS,SEM_PDF,0,0,nao,
+4209854,Lindóia do Sul,Alto Uruguai Catarinense / AMAUC,SEM_PDF,0,0,nao,
+4209904,Lontras,Alto Vale do Itajaí / AMAVI,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__lontras-casos-investigacoes.pdf
+4210001,Luiz Alves,Foz do Rio Itajaí / AMFRI,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__luiz-alves-casos-graves.pdf
+4210035,Luzerna,Meio Oeste / AMMOC,SEM_PDF,0,0,nao,
+4210050,Macieira,Alto Vale do Rio do Peixe / AMARP,SEM_PDF,0,0,nao,
+4210100,Mafra,Planalto Norte / AMPLANORTE,COM_IDENTIFICACAO,2,1,sim,COM-IDENTIFICACAO__CASOS__mafra-casos-graves.pdf | SEM-BLOCO-DETECTADO__DOSSIE__AMPLANORTE__Fofoca-Politica-Transparencia-Radical-Mafra-24.pdf
+4210209,Major Gercino,Grande Florianópolis / GRANFPOLIS,SEM_PDF,0,0,nao,
+4210308,Major Vieira,Planalto Norte / AMPLANORTE,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__TUBARAO__AMPLANORTE_Major-Vieira.pdf
+4210407,Maracajá,Extremo Sul / AMESC,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMESC__Fofoca-Politica-Transparencia-Radical-Maracaja.pdf
+4210506,Maravilha,Entre Rios / AMERIOS,COM_IDENTIFICACAO,2,2,sim,COM-IDENTIFICACAO__CASOS__maravilha-casos-graves.pdf | COM-IDENTIFICACAO__CASOS__maravilha-casos-investigacoes.pdf
+4210555,Marema,Alto Irani / AMAI,SEM_PDF,0,0,nao,
+4210605,Massaranduba,Vale do Itapocu / AMVALI,COM_IDENTIFICACAO,2,1,sim,COM-IDENTIFICACAO__CASOS__massaranduba-casos-graves.pdf | SEM-BLOCO-DETECTADO__DOSSIE__AMVALI__Fofoca-Politica-Transparencia-Radical-Massaranduba.pdf
+4210704,Matos Costa,Alto Vale do Rio do Peixe / AMARP,SEM_PDF,0,0,nao,
+4210803,Meleiro,Extremo Sul / AMESC,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMESC__Fofoca-Politica-Transparencia-Radical-Meleiro.pdf
+4210852,Mirim Doce,Alto Vale do Itajaí / AMAVI,SEM_PDF,0,0,nao,
+4210902,Modelo,Entre Rios / AMERIOS,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__modelo-casos-investigacoes.pdf
+4211009,Mondaí,Extremo Oeste / AMEOSC,SEM_PDF,0,0,nao,
+4211058,Monte Carlo,Planalto Sul / AMPLASC,SEM_PDF,0,0,nao,
+4211108,Monte Castelo,Planalto Norte / AMPLANORTE,COM_IDENTIFICACAO,3,3,sim,COM-IDENTIFICACAO__CASOS__monte-castelo-casos-graves.pdf | COM-IDENTIFICACAO__CASOS__monte-castelo-casos-investigacoes.pdf | COM-IDENTIFICACAO__DOWNLOADS__monte-castelo-casos-graves.pdf
+4211207,Morro da Fumaça,Carbonífera / AMREC,COM_IDENTIFICACAO,3,1,nao,COM-IDENTIFICACAO__DOWNLOADS__AMREC_Morro-Da-Fumaca.pdf | SEM-BLOCO-DETECTADO__DOSSIE__AMREC__Fofoca-Politica-Transparencia-Radical-Morro-Da-Fumaca.pdf | SEM-BLOCO-DETECTADO__REVISAO__AMREC_Morro-Da-Fumaca.pdf
+4211256,Morro Grande,Extremo Sul / AMESC,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMESC__Fofoca-Politica-Transparencia-Radical-Morro-Grande.pdf
+4211306,Navegantes,Foz do Rio Itajaí / AMFRI,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__navegantes-casos-graves.pdf
+4211405,Nova Erechim,Oeste / AMOSC,SEM_PDF,0,0,nao,
+4211454,Nova Itaberaba,Oeste / AMOSC,SEM_PDF,0,0,nao,
+4211504,Nova Trento,Grande Florianópolis / GRANFPOLIS,COM_IDENTIFICACAO,2,2,sim,COM-IDENTIFICACAO__CASOS__nova-trento-casos-graves.pdf | COM-IDENTIFICACAO__CASOS__nova-trento-casos-investigacoes.pdf
+4211603,Nova Veneza,Carbonífera / AMREC,COM_IDENTIFICACAO,3,1,sim,COM-IDENTIFICACAO__CASOS__nova-veneza-casos-graves.pdf | SEM-BLOCO-DETECTADO__DOSSIE__AMREC__Fofoca-Politica-Transparencia-Radical-Nova-Veneza.pdf | SEM-BLOCO-DETECTADO__REVISAO__AMREC_Nova-Veneza.pdf
+4211652,Novo Horizonte,Noroeste / AMNOROESTE,SEM_PDF,0,0,nao,
+4211702,Orleans,Carbonífera / AMREC,SO_SEM_BLOCO_DETECTADO,3,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMREC__Fofoca-Politica-Transparencia-Radical-Orleans-26.pdf | SEM-BLOCO-DETECTADO__DOSSIE__AMREC__Fofoca-Politica-Transparencia-Radical-Orleans.pdf | SEM-BLOCO-DETECTADO__REVISAO__AMREC_Orleans.pdf
+4211751,Otacílio Costa,Serra Catarinense / AMURES,COM_IDENTIFICACAO,2,1,sim,COM-IDENTIFICACAO__CASOS__otacilio-costa-casos-graves.pdf | SEM-BLOCO-DETECTADO__DOSSIE__AMURES__Fofoca-Politica-Transparencia-Radical-Otacilio-Costa.pdf
+4211801,Ouro,Meio Oeste / AMMOC,SEM_PDF,0,0,nao,
+4211850,Ouro Verde,Alto Irani / AMAI,SEM_PDF,0,0,nao,
+4211876,Paial,Oeste / AMOSC,SEM_PDF,0,0,nao,
+4211892,Painel,Serra Catarinense / AMURES,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMURES__Fofoca-Politica-Transparencia-Radical-Painel.pdf
+4211900,Palhoça,Grande Florianópolis / GRANFPOLIS,COM_IDENTIFICACAO,2,1,nao,COM-IDENTIFICACAO__DOWNLOADS__GRANFPOLIS_Palhoca.pdf | SEM-BLOCO-DETECTADO__DOSSIE__GRANFPOLIS__Fofoca-Politica-Transparencia-Radical-Palhoca.pdf
+4212007,Palma Sola,Extremo Oeste / AMEOSC,SEM_PDF,0,0,nao,
+4212056,Palmeira,Serra Catarinense / AMURES,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMURES__Fofoca-Politica-Transparencia-Radical-Palmeira.pdf
+4212106,Palmitos,Entre Rios / AMERIOS,SEM_PDF,0,0,nao,
+4212205,Papanduva,Planalto Norte / AMPLANORTE,SEM_PDF,0,0,nao,
+4212239,Paraíso,Extremo Oeste / AMEOSC,SEM_PDF,0,0,nao,
+4212254,Passo de Torres,Extremo Sul / AMESC,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMESC__Fofoca-Politica-Transparencia-Radical-Passo-De-Torres.pdf
+4212270,Passos Maia,Alto Irani / AMAI,SEM_PDF,0,0,nao,
+4212304,Paulo Lopes,Grande Florianópolis / GRANFPOLIS,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__paulo-lopes-casos-graves.pdf
+4212403,Pedras Grandes,Tubarão-Laguna / AMUREL,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMUREL__Fofoca-Politica-Transparencia-Radical-Pedras-Grandes.pdf
+4212502,Penha,Foz do Rio Itajaí / AMFRI,COM_IDENTIFICACAO,2,2,sim,COM-IDENTIFICACAO__CASOS__penha-casos-graves.pdf | COM-IDENTIFICACAO__TUBARAO__AMFRI_Penha.pdf
+4212601,Peritiba,Alto Uruguai Catarinense / AMAUC,SEM_PDF,0,0,nao,
+4212650,Pescaria Brava,Tubarão-Laguna / AMUREL,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMUREL__Fofoca-Politica-Transparencia-Radical-Pescaria-Brava.pdf
+4212700,Petrolândia,Alto Vale do Itajaí / AMAVI,SEM_PDF,0,0,nao,
+4212908,Pinhalzinho,Oeste / AMOSC,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__pinhalzinho-casos-graves.pdf
+4213005,Pinheiro Preto,Alto Vale do Rio do Peixe / AMARP,SEM_PDF,0,0,nao,
+4213104,Piratuba,Alto Uruguai Catarinense / AMAUC,SEM_PDF,0,0,nao,
+4213153,Planalto Alegre,Oeste / AMOSC,SEM_PDF,0,0,nao,
+4213203,Pomerode,Médio Vale do Itajaí / AMMVI,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMMVI__Fofoca-Politica-Transparencia-Radical-Pomerode.pdf
+4213302,Ponte Alta,Serra Catarinense / AMURES,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMURES__Fofoca-Politica-Transparencia-Radical-Ponte-Alta.pdf
+4213351,Ponte Alta do Norte,Contestado / AMURC,SEM_PDF,0,0,nao,
+4213401,Ponte Serrada,Alto Irani / AMAI,SEM_PDF,0,0,nao,
+4213500,Porto Belo,Foz do Rio Itajaí / AMFRI,COM_IDENTIFICACAO,2,2,sim,COM-IDENTIFICACAO__CASOS__porto-belo-casos-graves.pdf | COM-IDENTIFICACAO__CASOS__porto-belo-casos-investigacoes.pdf
+4213609,Porto União,Planalto Norte / AMPLANORTE,COM_IDENTIFICACAO,2,2,sim,COM-IDENTIFICACAO__CASOS__porto-uniao-casos-graves.pdf | COM-IDENTIFICACAO__CASOS__porto-uniao-casos-investigacoes.pdf
+4213708,Pouso Redondo,Alto Vale do Itajaí / AMAVI,SEM_PDF,0,0,nao,
+4213807,Praia Grande,Extremo Sul / AMESC,COM_IDENTIFICACAO,3,2,sim,COM-IDENTIFICACAO__CASOS__praia-grande-casos-graves.pdf | COM-IDENTIFICACAO__DOWNLOADS__AMESC_Praia-Grande.pdf | SEM-BLOCO-DETECTADO__DOSSIE__AMESC__Fofoca-Politica-Transparencia-Radical-Praia-Grande.pdf
+4213906,Presidente Castello Branco,Alto Uruguai Catarinense / AMAUC,SEM_PDF,0,0,nao,
+4214003,Presidente Getúlio,Alto Vale do Itajaí / AMAVI,SO_SEM_BLOCO_DETECTADO,1,0,sim,SEM-BLOCO-DETECTADO__CASOS__presidente-getulio-casos-graves.pdf
+4214102,Presidente Nereu,Alto Vale do Itajaí / AMAVI,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__presidente-nereu-casos-investigacoes.pdf
+4214151,Princesa,Extremo Oeste / AMEOSC,SEM_PDF,0,0,nao,
+4214201,Quilombo,Oeste / AMOSC,SEM_PDF,0,0,nao,
+4214300,Rancho Queimado,Grande Florianópolis / GRANFPOLIS,SEM_PDF,0,0,nao,
+4214409,Rio das Antas,Alto Vale do Rio do Peixe / AMARP,SEM_PDF,0,0,nao,
+4214508,Rio do Campo,Alto Vale do Itajaí / AMAVI,SEM_PDF,0,0,nao,
+4214607,Rio do Oeste,Alto Vale do Itajaí / AMAVI,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__rio-do-oeste-casos-graves.pdf
+4214805,Rio do Sul,Alto Vale do Itajaí / AMAVI,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__rio-do-sul-casos-graves.pdf
+4214706,Rio dos Cedros,Médio Vale do Itajaí / AMMVI,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMMVI__Fofoca-Politica-Transparencia-Radical-Rio-Dos-Cedros.pdf
+4214904,Rio Fortuna,Tubarão-Laguna / AMUREL,SO_SEM_BLOCO_DETECTADO,2,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMUREL__Fofoca-Politica-Transparencia-Radical-Rio-Fortuna.pdf | SEM-BLOCO-DETECTADO__REVISAO__AMUREL_Rio-Fortuna.pdf
+4215000,Rio Negrinho,Nordeste / AMUNESC,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMUNESC__Fofoca-Politica-Transparencia-Radical-Rio-Negrinho.pdf
+4215059,Rio Rufino,Serra Catarinense / AMURES,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMURES__Fofoca-Politica-Transparencia-Radical-Rio-Rufino.pdf
+4215075,Riqueza,Entre Rios / AMERIOS,SEM_PDF,0,0,nao,
+4215109,Rodeio,Médio Vale do Itajaí / AMMVI,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMMVI__Fofoca-Politica-Transparencia-Radical-Rodeio.pdf
+4215208,Romelândia,Entre Rios / AMERIOS,SEM_PDF,0,0,nao,
+4215307,Salete,Alto Vale do Itajaí / AMAVI,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__salete-casos-graves.pdf
+4215356,Saltinho,Entre Rios / AMERIOS,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__saltinho-casos-investigacoes.pdf
+4215406,Salto Veloso,Alto Vale do Rio do Peixe / AMARP,SEM_PDF,0,0,nao,
+4215455,Sangão,Tubarão-Laguna / AMUREL,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMUREL__Fofoca-Politica-Transparencia-Radical-Sangao.pdf
+4215505,Santa Cecília,Contestado / AMURC,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__santa-cecilia-casos-graves.pdf
+4215554,Santa Helena,Extremo Oeste / AMEOSC,SEM_PDF,0,0,nao,
+4215604,Santa Rosa de Lima,Tubarão-Laguna / AMUREL,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMUREL__Fofoca-Politica-Transparencia-Radical-Santa-Rosa-De-Lima.pdf
+4215653,Santa Rosa do Sul,Extremo Sul / AMESC,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMESC__Fofoca-Politica-Transparencia-Radical-Santa-Rosa-Do-Sul.pdf
+4215679,Santa Terezinha,Alto Vale do Itajaí / AMAVI,SEM_PDF,0,0,nao,
+4215687,Santa Terezinha do Progresso,Entre Rios / AMERIOS,SEM_PDF,0,0,nao,
+4215695,Santiago do Sul,Oeste / AMOSC,SEM_PDF,0,0,nao,
+4215703,Santo Amaro da Imperatriz,Grande Florianópolis / GRANFPOLIS,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__TUBARAO__GRANFPOLIS_Santo-Amaro-da-Imperatriz.pdf
+4215802,São Bento do Sul,Nordeste / AMUNESC,COM_IDENTIFICACAO,2,1,sim,COM-IDENTIFICACAO__CASOS__sao-bento-do-sul-casos-graves.pdf | SEM-BLOCO-DETECTADO__DOSSIE__AMUNESC__Fofoca-Politica-Transparencia-Radical-Sao-Bento-Do-Sul.pdf
+4215752,São Bernardino,Noroeste / AMNOROESTE,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__sao-bernardino-casos-graves.pdf
+4215901,São Bonifácio,Grande Florianópolis / GRANFPOLIS,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__sao-bonifacio-casos-graves.pdf
+4216008,São Carlos,Oeste / AMOSC,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__sao-carlos-casos-graves.pdf
+4216057,São Cristóvão do Sul,Contestado / AMURC,SEM_PDF,0,0,nao,
+4216107,São Domingos,Alto Irani / AMAI,SEM_PDF,0,0,nao,
+4216206,São Francisco do Sul,Nordeste / AMUNESC,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMUNESC__Fofoca-Politica-Transparencia-Radical-Sao-Francisco-Do-Sul.pdf
+4216305,São João Batista,Grande Florianópolis / GRANFPOLIS,COM_IDENTIFICACAO,2,1,sim,COM-IDENTIFICACAO__CASOS__sao-joao-batista-casos-graves.pdf | SEM-BLOCO-DETECTADO__DOSSIE__GRANFPOLIS__Fofoca-Politica-Transparencia-Radical-Sao-Joao-Batista-26.pdf
+4216354,São João do Itaperiú,Vale do Itapocu / AMVALI,COM_IDENTIFICACAO,3,2,sim,COM-IDENTIFICACAO__CASOS__sao-joao-do-itaperiu-casos-graves.pdf | COM-IDENTIFICACAO__CASOS__sao-joao-do-itaperiu-casos-investigacoes.pdf | SEM-BLOCO-DETECTADO__DOSSIE__AMVALI__Fofoca-Politica-Transparencia-Radical-Sao-Joao-Do-Itaperiu.pdf
+4216255,São João do Oeste,Extremo Oeste / AMEOSC,SEM_PDF,0,0,nao,
+4216404,São João do Sul,Extremo Sul / AMESC,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMESC__Fofoca-Politica-Transparencia-Radical-Sao-Joao-Do-Sul.pdf
+4216503,São Joaquim,Serra Catarinense / AMURES,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMURES__Fofoca-Politica-Transparencia-Radical-Sao-Joaquim.pdf
+4216602,São José,Grande Florianópolis / GRANFPOLIS,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__sao-jose-casos-graves.pdf
+4216701,São José do Cedro,Extremo Oeste / AMEOSC,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__sao-jose-do-cedro-casos-graves.pdf
+4216800,São José do Cerrito,Serra Catarinense / AMURES,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMURES__Fofoca-Politica-Transparencia-Radical-Sao-Jose-Do-Cerrito.pdf
+4216909,São Lourenço do Oeste,Noroeste / AMNOROESTE,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__sao-lourenco-do-oeste-casos-graves.pdf
+4217006,São Ludgero,Tubarão-Laguna / AMUREL,SO_SEM_BLOCO_DETECTADO,2,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMUREL__Fofoca-Politica-Transparencia-Radical-Sao-Ludgero.pdf | SEM-BLOCO-DETECTADO__REVISAO__AMUREL_Sao-Ludgero.pdf
+4217105,São Martinho,Tubarão-Laguna / AMUREL,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMUREL__Fofoca-Politica-Transparencia-Radical-Sao-Martinho.pdf
+4217154,São Miguel da Boa Vista,Entre Rios / AMERIOS,SEM_PDF,0,0,nao,
+4217204,São Miguel do Oeste,Extremo Oeste / AMEOSC,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__sao-miguel-do-oeste-casos-graves.pdf
+4217253,São Pedro de Alcântara,Grande Florianópolis / GRANFPOLIS,SEM_PDF,0,0,nao,
+4217303,Saudades,Entre Rios / AMERIOS,SEM_PDF,0,0,nao,
+4217402,Schroeder,Vale do Itapocu / AMVALI,COM_IDENTIFICACAO,4,2,sim,COM-IDENTIFICACAO__ANTERIOR__2026-09-20__AMVALI_Schroeder.pdf | COM-IDENTIFICACAO__TUBARAO__AMVALI_Schroeder.pdf | SEM-BLOCO-DETECTADO__DOCUMENTAL__schroeder-base-documental.pdf | SEM-BLOCO-DETECTADO__DOSSIE__AMVALI__Fofoca-Politica-Transparencia-Radical-Schroeder.pdf
+4217501,Seara,Alto Uruguai Catarinense / AMAUC,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__TUBARAO__AMAUC_Seara.pdf
+4217550,Serra Alta,Oeste / AMOSC,SEM_PDF,0,0,nao,
+4217600,Siderópolis,Carbonífera / AMREC,SO_SEM_BLOCO_DETECTADO,2,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMREC__Fofoca-Politica-Transparencia-Radical-Sideropolis.pdf | SEM-BLOCO-DETECTADO__REVISAO__AMREC_Sideropolis.pdf
+4217709,Sombrio,Extremo Sul / AMESC,SO_SEM_BLOCO_DETECTADO,2,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMESC__Fofoca-Politica-Transparencia-Radical-Sombrio.pdf | SEM-BLOCO-DETECTADO__REVISAO__AMESC_Sombrio.pdf
+4217758,Sul Brasil,Oeste / AMOSC,SEM_PDF,0,0,nao,
+4217808,Taió,Alto Vale do Itajaí / AMAVI,COM_IDENTIFICACAO,1,1,nao,COM-IDENTIFICACAO__DOSSIE__AMAVI__Fofoca-Politica-Transparencia-Radical-Taio-GRAVES.pdf
+4217907,Tangará,Alto Vale do Rio do Peixe / AMARP,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__tangara-casos-graves.pdf
+4217956,Tigrinhos,Entre Rios / AMERIOS,SEM_PDF,0,0,nao,
+4218004,Tijucas,Grande Florianópolis / GRANFPOLIS,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__tijucas-casos-graves.pdf
+4218103,Timbé do Sul,Extremo Sul / AMESC,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMESC__Fofoca-Politica-Transparencia-Radical-Timbe-Do-Sul.pdf
+4218202,Timbó,Médio Vale do Itajaí / AMMVI,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMMVI__Fofoca-Politica-Transparencia-Radical-Timbo.pdf
+4218251,Timbó Grande,Alto Vale do Rio do Peixe / AMARP,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__TUBARAO__AMARP_Timbo-Grande.pdf
+4218301,Três Barras,Planalto Norte / AMPLANORTE,COM_IDENTIFICACAO,2,2,sim,COM-IDENTIFICACAO__CASOS__tres-barras-casos-graves.pdf | COM-IDENTIFICACAO__CASOS__tres-barras-casos-investigacoes.pdf
+4218350,Treviso,Carbonífera / AMREC,SO_SEM_BLOCO_DETECTADO,2,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMREC__Fofoca-Politica-Transparencia-Radical-Treviso.pdf | SEM-BLOCO-DETECTADO__REVISAO__AMREC_Treviso.pdf
+4218400,Treze de Maio,Tubarão-Laguna / AMUREL,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMUREL__Fofoca-Politica-Transparencia-Radical-Treze-De-Maio.pdf
+4218509,Treze Tílias,Meio Oeste / AMMOC,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__treze-tilias-casos-graves.pdf
+4218608,Trombudo Central,Alto Vale do Itajaí / AMAVI,SEM_PDF,0,0,nao,
+4218707,Tubarão,Tubarão-Laguna / AMUREL,COM_IDENTIFICACAO,3,1,nao,COM-IDENTIFICACAO__DOWNLOADS__AMUREL_Tubarao.pdf | SEM-BLOCO-DETECTADO__DOSSIE__AMUREL__Fofoca-Politica-Transparencia-Radical-Tubarao-26.pdf | SEM-BLOCO-DETECTADO__DOSSIE__AMUREL__Fofoca-Politica-Transparencia-Radical-Tubarao.pdf
+4218756,Tunápolis,Extremo Oeste / AMEOSC,SEM_PDF,0,0,nao,
+4218806,Turvo,Extremo Sul / AMESC,COM_IDENTIFICACAO,2,1,nao,COM-IDENTIFICACAO__DOWNLOADS__AMESC_Turvo.pdf | SEM-BLOCO-DETECTADO__DOSSIE__AMESC__Fofoca-Politica-Transparencia-Radical-Turvo.pdf
+4218855,União do Oeste,Oeste / AMOSC,SEM_PDF,0,0,nao,
+4218905,Urubici,Serra Catarinense / AMURES,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMURES__Fofoca-Politica-Transparencia-Radical-Urubici.pdf
+4218954,Urupema,Serra Catarinense / AMURES,SO_SEM_BLOCO_DETECTADO,1,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMURES__Fofoca-Politica-Transparencia-Radical-Urupema.pdf
+4219002,Urussanga,Carbonífera / AMREC,SO_SEM_BLOCO_DETECTADO,2,0,nao,SEM-BLOCO-DETECTADO__DOSSIE__AMREC__Fofoca-Politica-Transparencia-Radical-Urussanga.pdf | SEM-BLOCO-DETECTADO__REVISAO__AMREC_Urussanga.pdf
+4219101,Vargeão,Alto Irani / AMAI,SEM_PDF,0,0,nao,
+4219150,Vargem,Planalto Sul / AMPLASC,SEM_PDF,0,0,nao,
+4219176,Vargem Bonita,Meio Oeste / AMMOC,SEM_PDF,0,0,nao,
+4219200,Vidal Ramos,Alto Vale do Itajaí / AMAVI,COM_IDENTIFICACAO,2,2,sim,COM-IDENTIFICACAO__CASOS__vidal-ramos-casos-graves.pdf | COM-IDENTIFICACAO__CASOS__vidal-ramos-casos-investigacoes.pdf
+4219309,Videira,Alto Vale do Rio do Peixe / AMARP,COM_IDENTIFICACAO,1,1,nao,COM-IDENTIFICACAO__DOSSIE__AMARP__Fofoca-Politica-Transparencia-Radical-Videira-GRAVES.pdf
+4219358,Vitor Meireles,Alto Vale do Itajaí / AMAVI,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__vitor-meireles-casos-investigacoes.pdf
+4219408,Witmarsum,Alto Vale do Itajaí / AMAVI,COM_IDENTIFICACAO,1,1,sim,COM-IDENTIFICACAO__CASOS__witmarsum-casos-investigacoes.pdf
+4219507,Xanxerê,Alto Irani / AMAI,COM_IDENTIFICACAO,2,2,sim,COM-IDENTIFICACAO__CASOS__xanxere-casos-graves.pdf | COM-IDENTIFICACAO__CASOS__xanxere-casos-investigacoes.pdf
+4219606,Xavantina,Alto Uruguai Catarinense / AMAUC,SEM_PDF,0,0,nao,
+4219705,Xaxim,Alto Irani / AMAI,SEM_PDF,0,0,nao,
+4219853,Zortéa,Planalto Sul / AMPLASC,SEM_PDF,0,0,nao,

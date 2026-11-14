@@ -1,0 +1,316 @@
+<title>Emendas em Criciúma</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Quanto dinheiro de emendas parlamentares chegou a Criciúma em 2025 e 2026, quem indicou e para que serviu.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Archivo:wght@400;600;800&display=swap">
+<style>
+/* Layout: um "extrato" da cidade. Faixa preta de abertura com os totais, depois blocos
+   lidos de cima para baixo: quem recebeu, quem indicou, emendas estaduais, como ler. */
+:root{
+  --paper:#ffffff; --ink:#111110; --muted:#5f5c55; --line:#e6e2d8; --soft:#f6f3ec;
+  --gold:#FDBD27; --gold-ink:#7a5700; --city:#C4161C; --ok:#1f7a45; --warn:#a15c00;
+  --band:#0b0b0a; --band-ink:#f4f1ea; --band-muted:#a8a396;
+  --bar:#FDBD27; --bar-2:#2b2a27;
+  --display:'Anton', Impact, 'Arial Narrow', sans-serif;
+  --body:'Archivo', system-ui, -apple-system, 'Segoe UI', sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --paper:#141412; --ink:#f1eee6; --muted:#a8a396; --line:#2e2c28; --soft:#1c1b18;
+  --gold-ink:#FDBD27; --city:#ff6b62; --ok:#5fcf8e; --warn:#f0a54a;
+  --band:#000000; --bar-2:#d9d4c7; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#141412; --ink:#f1eee6; --muted:#a8a396; --line:#2e2c28; --soft:#1c1b18;
+  --gold-ink:#FDBD27; --city:#ff6b62; --ok:#5fcf8e; --warn:#f0a54a;
+  --band:#000000; --bar-2:#d9d4c7; color-scheme:dark}
+
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.55;margin:0}
+.wrap{max-width:980px;margin:0 auto;padding-left:max(16px, env(safe-area-inset-left, 0px));padding-right:max(16px, env(safe-area-inset-right, 0px))}
+.num{font-variant-numeric:tabular-nums}
+h1,h2{font-family:var(--display);font-weight:400;text-transform:uppercase;letter-spacing:.3px;text-wrap:balance;margin:0}
+h2{font-size:clamp(28px,4.4vw,40px);line-height:1}
+.eyebrow{font-weight:800;font-size:12px;letter-spacing:3px;text-transform:uppercase;color:var(--gold-ink)}
+p{margin:0}
+a{color:inherit;text-decoration-color:var(--gold);text-underline-offset:3px}
+a:focus-visible,button:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
+
+/* Abertura */
+.band{background:var(--band);color:var(--band-ink)}
+.band .wrap{padding-block:40px 36px;display:grid;gap:24px}
+.band .eyebrow{color:var(--gold)}
+.band h1{font-size:clamp(40px,8vw,76px);line-height:.95}
+.band h1 span{color:var(--gold)}
+.band .lede{max-width:62ch;color:var(--band-muted);font-size:17px}
+.band .lede b{color:var(--band-ink)}
+.switch{display:inline-flex;flex-wrap:wrap;gap:6px}
+.switch button{font:800 13px/1 var(--body);letter-spacing:1px;text-transform:uppercase;background:transparent;color:var(--band-ink);border:2px solid #3a3833;padding:10px 14px;border-radius:2px;cursor:pointer}
+.switch button[aria-pressed="true"]{background:var(--gold);border-color:var(--gold);color:#0b0b0a}
+.totais{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:2px;background:#2a2925;border:2px solid #2a2925}
+.tot{background:var(--band);padding:18px 18px 16px;display:grid;gap:4px;min-width:0}
+.tot .k{font-size:12px;font-weight:800;letter-spacing:2px;text-transform:uppercase;color:var(--band-muted)}
+.tot .v{font-family:var(--display);font-size:clamp(34px,5.5vw,48px);line-height:1.05;color:var(--band-ink)}
+.tot .v small{font-size:.5em;color:var(--gold);margin-right:4px}
+.tot .d{font-size:14px;color:var(--band-muted)}
+
+section{padding-block:44px;border-bottom:1px solid var(--line)}
+.head{display:grid;gap:10px;margin-bottom:24px;max-width:68ch}
+.head p{color:var(--muted)}
+
+/* Barras: quem recebeu */
+.rows{display:grid;gap:18px}
+.row{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:4px 16px;align-items:baseline}
+.row .nome{font-weight:800;min-width:0}
+.row .valor{font-weight:800;white-space:nowrap}
+.row .para{grid-column:1/-1;color:var(--muted);font-size:14px}
+.track{grid-column:1/-1;height:12px;background:var(--soft);border-radius:1px;overflow:hidden}
+.track i{display:block;height:100%;background:var(--bar)}
+.row.zero{opacity:.45}
+
+/* Quem indicou */
+.autores{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:0 32px}
+.autor{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:2px 12px;padding:12px 0;border-top:1px solid var(--line)}
+.autor .n{font-weight:600;min-width:0}
+.autor .n em{font-style:normal;font-size:11px;font-weight:800;letter-spacing:1px;text-transform:uppercase;color:var(--muted);margin-left:6px}
+.autor .v{font-weight:800;white-space:nowrap}
+.autor .dest{grid-column:1/-1;font-size:13px;color:var(--muted)}
+.autor .mini{grid-column:1/-1;height:4px;background:var(--soft)}
+.autor .mini i{display:block;height:100%;background:var(--bar-2)}
+
+/* Estaduais */
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:14px}
+.card{border:1px solid var(--line);background:var(--paper);padding:16px;display:grid;gap:8px;align-content:start;min-width:0}
+.card .top{display:flex;justify-content:space-between;gap:8px;align-items:baseline;flex-wrap:wrap}
+.card .dep{font-weight:800}
+.card .ano{font-size:12px;font-weight:800;letter-spacing:1px;color:var(--muted)}
+.card .val{font-family:var(--display);font-size:28px;line-height:1}
+.card .obj{font-size:14px}
+.card .meta{font-size:12px;color:var(--muted)}
+.chip{justify-self:start;font-size:12px;font-weight:800;padding:4px 8px;border-radius:2px;border:1.5px solid currentColor}
+.chip.sem{color:var(--city)}
+.chip.parado{color:var(--warn)}
+.chip.anda{color:var(--ok)}
+
+/* Como ler */
+.notas{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:24px}
+.nota{display:grid;gap:6px;align-content:start}
+.nota b{font-size:17px}
+.nota p{color:var(--muted);font-size:15px}
+.perguntas{display:grid;gap:10px;margin:0;padding:0;list-style:none;max-width:70ch}
+.perguntas li{background:var(--soft);padding:14px 16px;border-left:4px solid var(--gold)}
+.fontes{display:grid;gap:8px;font-size:14px;color:var(--muted);max-width:75ch;padding-left:18px;margin:0}
+
+/* Identificação eleitoral (obrigatória) */
+.eleitoral{background:var(--band);color:var(--band-ink);border-top:3px solid var(--gold)}
+.eleitoral .wrap{padding-block:20px 24px;display:grid;gap:4px}
+.eleitoral .t{color:var(--gold);font-weight:800;font-size:12px;letter-spacing:2px;text-transform:uppercase}
+.eleitoral .n{font-size:18px;font-weight:600}
+.eleitoral .l{font-size:13px;color:var(--band-muted)}
+@media (prefers-reduced-motion: no-preference){.track i,.autor .mini i{transition:width .35s ease}}
+</style>
+
+<header class="band">
+  <div class="wrap">
+    <div class="eyebrow">Transparência Radical · Criciúma (SC)</div>
+    <h1>Para onde foi<br>o dinheiro das <span>emendas</span></h1>
+    <p class="lede"><b>Emenda parlamentar é dinheiro do orçamento que um deputado ou senador indica para uma cidade.</b> Aqui está quanto chegou a Criciúma em 2025 e 2026, quem indicou e para que serve, tudo tirado de fontes públicas oficiais.</p>
+    <div class="switch" role="group" aria-label="Escolher o ano">
+      <button type="button" id="ano-todos" data-ano="todos" aria-pressed="true">2025 + 2026</button>
+      <button type="button" id="ano-2025" data-ano="2025" aria-pressed="false">2025</button>
+      <button type="button" id="ano-2026" data-ano="2026" aria-pressed="false">2026</button>
+    </div>
+    <div class="totais">
+      <div class="tot"><div class="k">Federal · já pago</div><div class="v num" id="t-fed"></div><div class="d" id="t-fed-d">Deputados federais, senadores, bancada e comissões</div></div>
+      <div class="tot"><div class="k">Estadual · indicado</div><div class="v num" id="t-est"></div><div class="d" id="t-est-d"></div></div>
+    </div>
+  </div>
+</header>
+
+<main>
+  <section>
+    <div class="wrap">
+      <div class="head">
+        <div class="eyebrow">Dinheiro federal</div>
+        <h2>Quem recebeu e para quê</h2>
+        <p>Valores que a União já pagou a órgãos e entidades com sede em Criciúma. A maior parte vai para a saúde.</p>
+      </div>
+      <div class="rows" id="recebedores"></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap">
+      <div class="head">
+        <div class="eyebrow">Dinheiro federal</div>
+        <h2>Quem indicou</h2>
+        <p>Cada parlamentar escolhe o destino das suas emendas. Bancada, comissões e relator são indicações coletivas.</p>
+      </div>
+      <div class="autores" id="autores"></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap">
+      <div class="head">
+        <div class="eyebrow">Dinheiro estadual</div>
+        <h2>Emendas dos deputados estaduais</h2>
+        <p>Valor de cada emenda segundo as portarias da Secretaria da Fazenda no Diário Oficial do Estado. A etiqueta mostra o que o portal de transparência da prefeitura informava em 04/11/2026.</p>
+      </div>
+      <div class="cards" id="estaduais"></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap">
+      <div class="head">
+        <div class="eyebrow">Antes de compartilhar</div>
+        <h2>Como ler estes números</h2>
+      </div>
+      <div class="notas">
+        <div class="nota"><b>Recebido não é o mesmo que gasto.</b><p>O dinheiro que entra no Fundo Municipal de Saúde paga custeio: salários, remédios, exames e serviços. Ele se mistura ao resto do orçamento da saúde e não dá para seguir item por item.</p></div>
+        <div class="nota"><b>Federal e estadual medem coisas diferentes.</b><p>O federal é o que já foi pago no ano, mesmo que a emenda seja de um ano anterior. O estadual é o valor indicado na emenda; o repasse pode vir em parcelas.</p></div>
+        <div class="nota"><b>O portal da prefeitura está incompleto.</b><p>Das 18 emendas estaduais, só 8 aparecem no portal, e o autor aparece como "Assembleia Legislativa", sem o nome do deputado.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap">
+      <div class="head">
+        <div class="eyebrow">Fiscalize você também</div>
+        <h2>Perguntas que qualquer pessoa pode fazer</h2>
+        <p>Pela Lei de Acesso à Informação, a prefeitura e as entidades são obrigadas a responder em até 20 dias.</p>
+      </div>
+      <ol class="perguntas">
+        <li>Quanto das 18 emendas estaduais de 2025 e 2026 já foi transferido pelo Estado, e em que data?</li>
+        <li>Por que 10 emendas estaduais não aparecem no portal de transparência, e por que o nome do deputado não é informado?</li>
+        <li>O que foi comprado ou construído com os R$ 5,3 milhões repassados à Sociedade Santo Agostinho para a unidade de atenção especializada?</li>
+        <li>Quais projetos de pesquisa da SATC e da UNESC receberam os R$ 4,4 milhões de emendas, e quais resultados entregaram?</li>
+        <li>Em que obra ou serviço de urbanismo foi aplicado o R$ 1,39 milhão da emenda de relator de 2021 pago em 2025?</li>
+        <li>Quando começam as obras da área esportiva do Bairro Pedro Zanivan, que recebeu duas emendas de R$ 200 mil?</li>
+      </ol>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap">
+      <div class="head">
+        <div class="eyebrow">De onde vêm os dados</div>
+        <h2>Fontes</h2>
+      </div>
+      <ul class="fontes">
+        <li><a href="https://portaldatransparencia.gov.br/download-de-dados/emendas-parlamentares/UNICO" target="_blank" rel="noopener">Portal da Transparência (CGU), "Emendas parlamentares por favorecido"</a>, base de 29/10/2026. Filtro: favorecidos com sede em Criciúma, pagamentos de 2025 e 2026. Ficaram de fora cerca de R$ 44 mil pagos a empresas da cidade por vendas ligadas a emendas de outros estados.</li>
+        <li><a href="https://portal.doe.sea.sc.gov.br/" target="_blank" rel="noopener">Diário Oficial do Estado de SC</a>, portarias da Secretaria de Estado da Fazenda com o deputado, o número e o valor de cada emenda (edições de 06/06/2025, 05/09/2025, 22/09/2025, 17/11/2025, 18/11/2025 e 23/06/2026).</li>
+        <li>Portal de transparência da Prefeitura de Criciúma, consulta "Emendas parlamentares", em 04/11/2026.</li>
+        <li><a href="https://www.tcesc.tc.br/tcesc-orienta-municipios-sobre-padroes-de-transparencia-para-execucao-de-emendas-parlamentares" target="_blank" rel="noopener">TCE/SC: padrões de transparência para emendas parlamentares</a>.</li>
+      </ul>
+    </div>
+  </section>
+</main>
+
+<footer class="eleitoral">
+  <div class="wrap">
+    <div class="t">Propaganda eleitoral</div>
+    <div class="n">Jairo Fortunato — Deputado Estadual — 14999</div>
+    <div class="l">Partido Missão · CNPJ: 68.475.851/0001-24 · Tiragem: digital/ilimitada</div>
+  </div>
+</footer>
+
+<script>
+// [ano do pagamento, autor, favorecido, valor] — Portal da Transparência, base 29/10/2026
+const FED = [["2026","ANA PAULA LIMA","MUN",3910.57],["2026","ANA PAULA LIMA","VILA",196000],["2026","COM_PREV","FMAS",300000],["2026","COM_SAUDE","FMS",2483006],["2026","BANCADA","FMS",2835307],["2026","GILSON MARQUES","FMAS",150000],["2026","DANIEL FREITAS","FMS",1700000],["2026","BANCADA","FMS",6564693],["2026","RICARDO GUIDI","FMAS",250000],["2026","CARLOS CHIODINI","SATC",557050.77],["2026","ESPERIDIAO AMIN","SATC",650000],["2026","ANA PAULA LIMA","SSA",240000],["2026","RICARDO GUIDI","SSA",1216800],["2025","ESPERIDIAO AMIN","FMAS",500000],["2025","RICARDO GUIDI","FMS",51367],["2025","BANCADA","FMS",3108542],["2025","COM_SAUDE","FMS",1000000],["2025","BANCADA","FMS",4049728],["2025","JORGE SEIF","FMS",500000],["2025","RELATOR","MUN",1391190.79],["2025","RICARDO GUIDI","SSA",2897201],["2025","COM_CAS","FMS",500000],["2025","DANIEL FREITAS","FMS",500000],["2025","PEZENTI","FMS",500000],["2025","ISMAEL","FMS",600000],["2025","JORGE GOETTEN","FMS",250000],["2025","JORGE SEIF","SSA",913365.37],["2025","IVETE DA SILVEIRA","FMS",300000],["2025","IVETE DA SILVEIRA","UNESC",300000],["2025","ESPERIDIAO AMIN","UNESC",399980.99],["2025","ESPERIDIAO AMIN","UNESC",500000],["2025","COBALCHINI","UNESC",250000],["2025","DANIEL FREITAS","MUN",760.6],["2025","JULIA ZANATTA","SATC",200000],["2025","JORGE SEIF","SATC",200000],["2025","ESPERIDIAO AMIN","SATC",600000],["2025","CARLOS CHIODINI","SATC",800000]];
+
+const REC = {
+  FMS:{nome:"Fundo Municipal de Saúde", para:"Postos de saúde (atenção primária) e atendimento em hospitais e ambulatórios (média e alta complexidade)"},
+  SSA:{nome:"Sociedade Literária e Caritativa Santo Agostinho", para:"Estruturação de uma unidade de atenção especializada em saúde"},
+  SATC:{nome:"SATC (Associação Beneficente da Indústria Carbonífera)", para:"Pesquisa, inovação e divulgação científica"},
+  UNESC:{nome:"UNESC (Fundação Educacional de Criciúma)", para:"Pesquisa e inovação"},
+  MUN:{nome:"Prefeitura de Criciúma", para:"2025: emenda de relator de 2021, área de urbanismo"},
+  FMAS:{nome:"Fundo Municipal de Assistência Social", para:"Rede de assistência social (SUAS): CRAS, CREAS e acolhimento"},
+  VILA:{nome:"Associação Meninos e Meninas de Vila", para:"Projetos de esporte"}
+};
+const AUT = {
+  "BANCADA":["Bancada de Santa Catarina","coletiva"], "COM_SAUDE":["Comissão de Saúde da Câmara","coletiva"],
+  "COM_CAS":["Comissão de Assuntos Sociais do Senado","coletiva"], "COM_PREV":["Comissão de Previdência e Assistência Social da Câmara","coletiva"],
+  "RELATOR":["Relator-geral do Orçamento (2021)","coletiva"],
+  "ANA PAULA LIMA":["Ana Paula Lima"], "GILSON MARQUES":["Gilson Marques"], "DANIEL FREITAS":["Daniel Freitas"],
+  "RICARDO GUIDI":["Ricardo Guidi"], "CARLOS CHIODINI":["Carlos Chiodini"], "ESPERIDIAO AMIN":["Esperidião Amin","senador"],
+  "JORGE SEIF":["Jorge Seif","senador"], "PEZENTI":["Pezenti"], "ISMAEL":["Ismael"], "JORGE GOETTEN":["Jorge Goetten"],
+  "IVETE DA SILVEIRA":["Ivete da Silveira","senadora"], "COBALCHINI":["Cobalchini"], "JULIA ZANATTA":["Julia Zanatta"]
+};
+const CURTO = {FMS:"saúde",SSA:"Santo Agostinho",SATC:"SATC",UNESC:"UNESC",MUN:"prefeitura",FMAS:"assistência social",VILA:"esporte"};
+
+// Estaduais: portarias SEF no DOE-SC; portal = [empenhado, pago] no portal da prefeitura, ou null se não aparece
+const EST = [
+  ["2025","3975","Bancada do Sul",2316000,"Custeio","Secretaria Municipal de Saúde",null],
+  ["2025","1495","Rodrigo Minotto",800018,"Custeio","Secretaria Municipal de Saúde",null],
+  ["2025","1490","Rodrigo Minotto",400168,"Custeio","Secretaria Municipal de Educação",[412980.05,12004.25]],
+  ["2025","4047","Ana Campagnolo",400000,"Custeio","Saúde",null],
+  ["2025","465","Jessé Lopes",350000,"Investimento","Loteamento Marisa e Bairro Operária Nova",[0,0]],
+  ["2025","4109","Jessé Lopes",350000,"Custeio","Saúde",[1000,24.9]],
+  ["2025","1509","Ana Campagnolo",300000,"Investimento","Reforma e equipamentos da Unidade de Saúde Argentina",null],
+  ["2025","4210","Neodi Saretta",257350.45,"Investimento","Aparelho de raio-X para a UPA",null],
+  ["2025","1030","Marcos da Rosa",200000,"Custeio","Secretaria Municipal de Saúde",null],
+  ["2025","2823","Dr. Vicente Caropreso",200000,"Investimento","Área esportiva no Bairro Pedro Zanivan",null],
+  ["2025","3322","Marcos Vieira",200000,"Investimento","Área esportiva no Bairro Pedro Zanivan",null],
+  ["2025","3557","Napoleão Bernardes",200000,"Investimento","Praças e espaços públicos",null],
+  ["2025","2202","Paulinha",145000,"Investimento","Infraestrutura de lazer",null],
+  ["2026","2887","Rodrigo Minotto",1000140,"Custeio","Secretaria Municipal de Saúde",[992490,0]],
+  ["2026","504","Jair Miotto",300000,"Custeio","Consultas e procedimentos de oftalmologia",[0,0]],
+  ["2026","3850","Marcos Vieira",300000,"Custeio","Ações de saúde",[0,0]],
+  ["2026","2764","Dr. Vicente Caropreso",200000,"Custeio","Custeio da Secretaria de Saúde",[0,0]],
+  ["2026","4234","Mário Motta",200000,"Custeio","Passeios guiados em ônibus turístico",[0,0]]
+];
+
+const brl = v => v.toLocaleString("pt-BR",{style:"currency",currency:"BRL",maximumFractionDigits:0});
+const mi = v => v >= 1e6 ? (v/1e6).toLocaleString("pt-BR",{minimumFractionDigits:1,maximumFractionDigits:1}) + " mi" : Math.round(v/1e3).toLocaleString("pt-BR") + " mil";
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c]));
+
+function render(ano){
+  const fed = FED.filter(r => ano === "todos" || r[0] === ano);
+  const est = EST.filter(r => ano === "todos" || r[0] === ano);
+  const fedTot = fed.reduce((s,r) => s + r[3], 0);
+  const estTot = est.reduce((s,r) => s + r[3], 0);
+  document.getElementById("t-fed").innerHTML = "<small>R$</small>" + mi(fedTot);
+  document.getElementById("t-est").innerHTML = "<small>R$</small>" + mi(estTot);
+  document.getElementById("t-est-d").textContent = est.length + " emendas de deputados estaduais" + (ano === "2026" || ano === "todos" ? " · 2026 até outubro" : "");
+
+  const porRec = {}; Object.keys(REC).forEach(k => porRec[k] = 0);
+  fed.forEach(r => porRec[r[2]] += r[3]);
+  const recs = Object.entries(porRec).sort((a,b) => b[1] - a[1]);
+  const maxR = recs[0][1] || 1;
+  document.getElementById("recebedores").innerHTML = recs.map(([k,v]) => `
+    <div class="row${v ? "" : " zero"}">
+      <div class="nome">${esc(REC[k].nome)}</div><div class="valor num">${v ? brl(v) : "—"}</div>
+      <div class="track" aria-hidden="true"><i style="width:${(v/maxR*100).toFixed(1)}%"></i></div>
+      <div class="para">${esc(REC[k].para)}</div>
+    </div>`).join("");
+
+  const porAut = {};
+  fed.forEach(r => { const a = porAut[r[1]] ||= {v:0, d:{}}; a.v += r[3]; a.d[r[2]] = (a.d[r[2]]||0) + r[3]; });
+  const auts = Object.entries(porAut).sort((a,b) => b[1].v - a[1].v);
+  const maxA = auts[0][1].v;
+  document.getElementById("autores").innerHTML = auts.map(([k,a]) => {
+    const [nome, tag] = AUT[k];
+    const dest = Object.entries(a.d).sort((x,y) => y[1]-x[1]).map(([d]) => CURTO[d]).join(", ");
+    return `<div class="autor"><div class="n">${esc(nome)}${tag ? `<em>${tag}</em>` : ""}</div><div class="v num">${brl(a.v)}</div>
+      <div class="mini" aria-hidden="true"><i style="width:${(a.v/maxA*100).toFixed(1)}%"></i></div><div class="dest">Para: ${esc(dest)}</div></div>`;
+  }).join("");
+
+  document.getElementById("estaduais").innerHTML = est.map(([a,n,dep,v,tipo,obj,p]) => {
+    let chip;
+    if (!p) chip = `<span class="chip sem">Não aparece no portal da prefeitura</span>`;
+    else if (p[1] > 0) chip = `<span class="chip anda">Portal: ${brl(p[1])} pagos</span>`;
+    else if (p[0] > 0) chip = `<span class="chip anda">Portal: ${brl(p[0])} empenhados, nada pago</span>`;
+    else chip = `<span class="chip parado">Portal: nada empenhado ainda</span>`;
+    return `<article class="card"><div class="top"><span class="dep">${esc(dep)}</span><span class="ano">${a} · Nº ${n}</span></div>
+      <div class="val num">${brl(v)}</div><div class="obj">${esc(obj)}</div><div class="meta">${tipo}</div>${chip}</article>`;
+  }).join("");
+}
+
+document.querySelectorAll(".switch button").forEach(b => b.addEventListener("click", () => {
+  document.querySelectorAll(".switch button").forEach(x => x.setAttribute("aria-pressed", x === b));
+  render(b.dataset.ano);
+}));
+render("todos");
+</script>

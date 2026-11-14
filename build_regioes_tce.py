@@ -93,11 +93,8 @@ def tce_status(rec: dict) -> str:
 
 
 def _sq(s, limit=None) -> str:
-    """Colapsa espaços em branco e trunca."""
-    out = re.sub(r"\s+", " ", str(s)).strip()
-    if limit and len(out) > limit:
-        out = out[: limit - 1] + "…"
-    return out
+    """Colapsa espaços em branco. Não trunca — o dossiê precisa da informação completa."""
+    return re.sub(r"\s+", " ", str(s)).strip()
 
 
 def _fmt_valores(rec: dict):
@@ -132,6 +129,12 @@ def case_md(rec: dict, edicao: str) -> str:
     val = _fmt_valores(rec)
     if val:
         lines.append(f"**Valores citados:** {val}")
+    # O dispositivo é o que o tribunal DECIDIU. Sem ele o MD só carregava o
+    # objeto do processo ("apurar supostas irregularidades em X"), e um caso que
+    # terminou regular ficava indistinguível de um que terminou em multa —
+    # levando o produto a afirmar condenações que a fonte não sustentava.
+    if rec.get("dispositivo"):
+        lines.append(f"**Decisão:** {_sq(rec['dispositivo'], 1800)}")
     lines.append("")
     return "\n".join(lines)
 

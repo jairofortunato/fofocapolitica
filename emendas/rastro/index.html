@@ -1,0 +1,415 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Siga a Emenda</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Archivo:wght@400;600;800&display=swap">
+<style>
+/* Conceito: tela de escolha de fase de um jogo. No topo, as emendas como cartas; embaixo,
+   a árvore em que o dinheiro desce como luz de Brasília até a cidade. */
+:root{
+  color-scheme:dark;
+  --void:#05070b; --deep:#0a1018; --edge:#1d2a3a; --text:#ece8dc; --dim:#8f98a6;
+  --gold:#FDBD27; --cyan:#7fe6f2; --pale:#e9e4d6; --red:#ff4d4d; --alert:#ff8a3d;
+  --display:'Anton', Impact, 'Arial Narrow', sans-serif;
+  --body:'Archivo', system-ui, -apple-system, 'Segoe UI', sans-serif;
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--void);color:var(--text);font-family:var(--body)}
+body{min-height:100vh;background:
+  radial-gradient(ellipse 50% 34% at 50% -6%, rgba(253,189,39,.30), transparent 70%),
+  radial-gradient(ellipse 80% 60% at 50% 35%, rgba(40,80,120,.16), transparent 70%),
+  linear-gradient(180deg,var(--deep),var(--void) 60%);background-attachment:fixed}
+.num{font-variant-numeric:tabular-nums}
+a{color:var(--cyan)}
+:focus-visible{outline:2px solid var(--gold);outline-offset:3px}
+.wrap{max-width:1280px;margin:0 auto;padding-left:max(16px, env(safe-area-inset-left, 0px));padding-right:max(16px, env(safe-area-inset-right, 0px))}
+
+header.wrap{padding-block:28px 6px;display:flex;justify-content:space-between;align-items:end;gap:12px 24px;flex-wrap:wrap}
+.kicker{font-weight:800;font-size:12px;letter-spacing:4px;text-transform:uppercase;color:var(--gold)}
+h1{font-family:var(--display);font-weight:400;text-transform:uppercase;margin:4px 0 0;font-size:clamp(40px,6.5vw,72px);line-height:1.02;text-shadow:0 0 30px rgba(253,189,39,.3)}
+h1 span{color:var(--gold)}
+.legend{display:flex;flex-wrap:wrap;gap:8px 18px;font-size:13px;color:var(--dim)}
+.legend span{display:inline-flex;align-items:center;gap:7px}
+
+/* Cartas das emendas */
+.deck{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;padding-block:18px}
+.carta{all:unset;box-sizing:border-box;cursor:pointer;display:grid;gap:6px;align-content:start;padding:16px 16px 14px;min-width:0;
+  background:linear-gradient(180deg,rgba(22,34,48,.9),rgba(10,15,22,.9));border:1px solid var(--edge);
+  clip-path:polygon(0 0,calc(100% - 16px) 0,100% 16px,100% 100%,0 100%);transition:transform .15s ease,border-color .15s}
+.carta:hover{transform:translateY(-2px);border-color:#3a4b60}
+.carta[aria-pressed="true"]{border-color:var(--gold);background:linear-gradient(180deg,rgba(60,44,8,.85),rgba(14,14,10,.9));box-shadow:inset 0 0 0 1px var(--gold)}
+.carta:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+.carta .quem{font-size:12px;font-weight:800;letter-spacing:2px;text-transform:uppercase;color:var(--dim)}
+.carta[aria-pressed="true"] .quem{color:var(--gold)}
+.carta .v{font-family:var(--display);font-size:34px;line-height:1}
+.carta .o{font-size:14px;font-weight:600}
+.carta .dots{display:flex;flex-wrap:wrap;gap:3px;margin-top:4px}
+.carta .dots i{width:8px;height:8px;border-radius:50%;display:block}
+.carta .st{justify-self:start;margin-top:4px;font-size:11px;font-weight:800;letter-spacing:1px;text-transform:uppercase;padding:4px 7px;border:1.5px solid currentColor}
+.st.ok{color:var(--cyan)} .st.mal{color:var(--red)}
+
+/* HUD da emenda escolhida */
+.hud{display:grid;grid-template-columns:auto minmax(0,1fr);gap:10px 28px;align-items:center;padding-block:6px 14px}
+.cont{display:flex;gap:18px;flex-wrap:wrap}
+.cont span{display:inline-flex;align-items:center;gap:7px;font-family:var(--display);font-size:30px;line-height:1}
+.xp{display:grid;gap:6px;min-width:0}
+.xp .row{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;font-size:14px;color:var(--dim)}
+.xp .row b{color:var(--text)}
+.xp .bar{height:14px;background:#0b121b;border:1px solid var(--edge);overflow:hidden}
+.xp .bar i{display:block;height:100%;background:linear-gradient(90deg,#3fb9c7,var(--cyan));box-shadow:0 0 16px rgba(127,230,242,.45);transition:width .5s ease}
+.xp .bar.mal i{background:linear-gradient(90deg,#b52b2b,var(--red))}
+@media (max-width:640px){.hud{grid-template-columns:1fr}}
+
+.stage{display:grid;grid-template-columns:minmax(0,1fr) 360px;gap:24px;align-items:start;padding-bottom:40px}
+.map{overflow-x:auto;min-width:0}
+.map svg{display:block;width:100%;min-width:680px;height:auto}
+.node{cursor:pointer}
+.node .shape{transition:transform .2s ease}
+.node:hover .shape,.node.sel .shape{transform:scale(1.13)}
+.node text{pointer-events:none;paint-order:stroke;stroke:#05070b;stroke-width:5px;stroke-linejoin:round}
+.node .sig{stroke:none;font-family:var(--display);fill:#1a1204}
+.lbl{font-family:var(--body);fill:var(--text);font-weight:800}
+.sub{font-family:var(--body);fill:var(--dim)}
+.lbl.r,.sub.r{fill:#ff8a8a}
+.ring{fill:none;stroke:var(--gold);stroke-width:2;opacity:0}
+.node.sel .ring{opacity:1;animation:pulse 1.8s ease-out infinite}
+@keyframes pulse{from{stroke-opacity:.9;transform:scale(1)}to{stroke-opacity:0;transform:scale(1.7)}}
+.ponta{font-family:var(--body);font-size:11px;font-weight:800;letter-spacing:4px;fill:#8a7330;text-transform:uppercase}
+
+.panel{position:sticky;top:16px;background:linear-gradient(180deg,rgba(18,28,40,.96),rgba(10,15,22,.96));border:1px solid var(--edge);
+  clip-path:polygon(0 0,calc(100% - 22px) 0,100% 22px,100% 100%,0 100%);padding:20px;display:grid;gap:12px;max-height:calc(100vh - 32px);overflow:auto}
+.tipo{justify-self:start;font-size:11px;font-weight:800;letter-spacing:2px;text-transform:uppercase;padding:5px 9px;border:1.5px solid currentColor}
+.tipo.cita,.tipo.fim{color:var(--gold)} .tipo.cruzado{color:var(--cyan)} .tipo.duvida{color:var(--pale)} .tipo.lacuna{color:var(--red)}
+.panel h2{font-family:var(--display);font-weight:400;text-transform:uppercase;font-size:30px;line-height:1.02;margin:0;text-wrap:balance}
+.panel .valor{font-family:var(--display);font-size:32px;color:var(--gold);line-height:1}
+.panel .data{font-size:14px;color:var(--dim)}
+.panel p{margin:0;font-size:15px;line-height:1.5}
+.blk{border-top:1px solid var(--edge);padding-top:10px;display:grid;gap:4px}
+.blk h3{margin:0;font-size:11px;font-weight:800;letter-spacing:2px;text-transform:uppercase;color:var(--dim)}
+.blk.liga h3{color:var(--cyan)}
+.blk.alerta{border:1px solid rgba(255,138,61,.5);background:rgba(255,138,61,.08);padding:10px 12px}
+.blk.alerta h3{color:var(--alert)}
+.blk p{font-size:14px}
+.nav{display:flex;gap:8px}
+.nav button{flex:1;font:800 13px/1 var(--body);letter-spacing:1px;text-transform:uppercase;color:var(--text);background:#132030;border:1px solid var(--edge);padding:12px;cursor:pointer}
+.nav button:hover{border-color:var(--gold);color:var(--gold)}
+.nav .pos{align-self:center;font-size:13px;color:var(--dim)}
+.close{display:none}
+
+
+@media (max-width:1080px){
+  .stage{grid-template-columns:minmax(0,1fr)}
+  .panel{position:fixed;left:0;right:0;bottom:0;top:auto;z-index:20;max-height:50vh;clip-path:none;border-width:2px 0 0;border-color:var(--gold);
+    padding:16px max(16px, env(safe-area-inset-right, 0px)) calc(16px + env(safe-area-inset-bottom, 0px)) max(16px, env(safe-area-inset-left, 0px))}
+  .close{display:block;position:absolute;top:10px;right:max(12px, env(safe-area-inset-right, 0px));background:none;border:1px solid var(--edge);color:var(--text);font:800 12px var(--body);padding:8px 10px;cursor:pointer}
+}
+@media (prefers-reduced-motion: reduce){.node.sel .ring{animation:none;opacity:.8}.node .shape,.carta,.xp .bar i{transition:none}}
+</style>
+</head>
+<body>
+
+<header class="wrap">
+  <div>
+    <div class="kicker">Transparência Radical</div>
+    <h1>Siga a <span>emenda</span></h1>
+  </div>
+  <div class="legend">
+    <span><svg width="18" height="18" viewBox="-9 -9 18 18"><polygon points="0,-8 7,-4 7,4 0,8 -7,4 -7,-4" fill="#FDBD27"/></svg>Documento cita a emenda</span>
+    <span><svg width="18" height="18" viewBox="-9 -9 18 18"><circle r="6.5" fill="#0b1a22" stroke="#7fe6f2" stroke-width="2.5"/></svg>Ligamos nós</span>
+    <span><svg width="18" height="18" viewBox="-9 -9 18 18"><circle r="6.5" fill="none" stroke="#e9e4d6" stroke-width="2" stroke-dasharray="3 3"/></svg>Provável</span>
+    <span><svg width="18" height="18" viewBox="-9 -9 18 18"><circle r="6.5" fill="none" stroke="#ff4d4d" stroke-width="2.5" stroke-dasharray="4 3"/></svg>Elo que falta</span>
+    <span><svg width="18" height="18" viewBox="-9 -9 18 18"><circle r="5" fill="#ff8a3d"/></svg>A verificar</span>
+  </div>
+</header>
+
+<nav class="wrap deck" id="deck" aria-label="Escolha a emenda"></nav>
+<div class="wrap hud" id="hud"></div>
+<div class="wrap stage">
+  <div class="map" id="map"></div>
+  <aside class="panel" id="panel" aria-live="polite"></aside>
+</div>
+
+
+<script>
+const EV = "../evidencias/";
+const TX = "Transferegov (União)", BETHA = "Portal da Prefeitura de Criciúma", CGU = "CGU, Relatório 1790304";
+const ADESAO = "Registrada como dispensa por valor baixo, mas foi adesão a ata do CINCATARINA.";
+const C6 = [.095,.257,.419,.581,.743,.905];
+
+const TRILHAS = [
+{ id:"guidi", quem:"Ricardo Guidi", cidade:"Criciúma", o:"Frota da Infraestrutura", total:2400000, num:"202440620002",
+  st:["99% ligado","ok"], barra:{v:2393362.27,t:2408672.79,txt:"Ligado a uma compra"},
+  N:[
+  {id:"n0",r:0,x:.5,hub:1,tipo:"cita",sig:"EP",t:"Emenda Pix",s:"2024 · R$ 2,4 mi",titulo:"Guidi manda R$ 2,4 mi",valor:2400000,texto:"Emenda Pix: cai direto na conta da prefeitura, sem convênio.",fonte:TX},
+  {id:"n1",r:1,x:.5,tipo:"cita",sig:"NE",t:"Empenho federal",s:"26/06/2024",titulo:"União reserva o dinheiro",texto:"Empenho 2024NE011501.",fonte:TX},
+  {id:"n2",r:2,x:.5,tipo:"cita",sig:"OB",t:"Dinheiro na conta",s:"13/12/2024",titulo:"Dinheiro cai na Caixa",texto:"Ordem bancária 2024OB009113.",fonte:TX,alerta:"Três números de conta diferentes para o mesmo dinheiro."},
+  {id:"n3",r:3,x:.5,tipo:"cita",sig:"§",t:"Decreto 2414/24",s:"23/12/2024",titulo:"Entra no orçamento",valor:2400000,texto:"Crédito para a frota municipal. Cita a emenda.",fonte:"Diário de Criciúma nº 3628",link:EV+"202440620002/doe-3628-23-12-2024.pdf",alerta:"Fala em \"Fundação Cultural\", mas a verba é da Infraestrutura."},
+  {id:"L1",r:3,x:.2,tipo:"lacuna",t:"Portal da prefeitura",s:"não mostra a emenda",titulo:"A emenda some do portal",texto:"Nenhuma consulta de emendas do portal cita 202440620002.",fonte:BETHA,liga:"Daqui para baixo, cada ligação é nossa."},
+  {id:"n4",r:4,x:.5,tipo:"cita",sig:"§",t:"Decreto 1335/25",s:"24/06/2025",titulo:"Volta ao orçamento",valor:2408672.79,texto:"R$ 2,4 mi + rendimentos, reabertos em 2025.",fonte:"Diário de Criciúma nº 3748",link:EV+"202440620002/685b0d761afb724062025.pdf"},
+  {id:"n5",r:5,x:.5,hub:1,tipo:"cita",sig:"PT",t:"Plano de trabalho",s:"6 metas",titulo:"6 metas de frota",texto:"Veículos e máquinas para a Infraestrutura.",fonte:TX,alerta:"Área declarada: Urbanismo. Comprou carro e minivan."},
+  {id:"m1",r:6,x:C6[0],tipo:"cita",sig:"M1",t:"2 retroescavadeiras",s:"R$ 738.000,00",titulo:"Meta 1",valor:738000,texto:"2 retroescavadeiras.",fonte:TX},
+  {id:"c1",r:7,x:C6[0],tipo:"cruzado",t:"Compra Shark",s:"jul./ago. 2025",titulo:"Shark Máquinas",valor:738000,texto:"2 × R$ 369.000.",fonte:BETHA,liga:"Valor idêntico ao da meta.",alerta:ADESAO},
+  {id:"g1",r:8,x:C6[0],tipo:"lacuna",mini:1,t:"sem extrato",titulo:"Adesões sem rastro",texto:"Metas 1 a 4: nenhum extrato no diário, nenhum registro no PNCP.",fonte:"Diário de Criciúma e PNCP"},
+  {id:"p1",r:10,x:C6[0],tipo:"cruzado",t:"Pago à Shark",s:"R$ 738.000,00",titulo:"Pago",valor:738000,texto:"Empenhos 5125 e 5527/2025.",fonte:BETHA,liga:"Mesmo valor, mesma empresa."},
+  {id:"m2",r:6,x:C6[1],tipo:"cita",sig:"M2",t:"1 carro hatch",s:"R$ 112.050,03",titulo:"Meta 2",valor:112050.03,texto:"1 carro hatch.",fonte:TX},
+  {id:"c2",r:7,x:C6[1],tipo:"cruzado",t:"Compra Metronorte",s:"23/07/2025",titulo:"Metronorte",valor:112050.03,texto:"1 hatch.",fonte:BETHA,liga:"Bate no centavo com a meta.",alerta:ADESAO},
+  {id:"g2",r:8,x:C6[1],tipo:"lacuna",mini:1,dup:"g1",t:"sem extrato"},
+  {id:"p2",r:10,x:C6[1],tipo:"cruzado",t:"Pago à Metronorte",s:"R$ 112.050,03",titulo:"Pago",valor:112050.03,texto:"Empenho 5038/2025.",fonte:BETHA,liga:"Mesmo valor, mesma empresa."},
+  {id:"m3",r:6,x:C6[2],tipo:"cita",sig:"M3",t:"Caminhão 6x4",s:"R$ 472.900,00",titulo:"Meta 3",valor:472900,texto:"1 caminhão 6x4.",fonte:TX},
+  {id:"c3",r:7,x:C6[2],tipo:"cruzado",t:"Compra Volkswagen",s:"25/07/2025",titulo:"Volkswagen",valor:472900,texto:"1 caminhão.",fonte:BETHA,liga:"Valor idêntico ao da meta.",alerta:ADESAO},
+  {id:"g3",r:8,x:C6[2],tipo:"lacuna",mini:1,dup:"g1",t:"sem extrato"},
+  {id:"p3",r:10,x:C6[2],tipo:"cruzado",t:"Pago à VW",s:"R$ 472.899,99",titulo:"Pago",valor:472899.99,texto:"Empenho 5082/2025.",fonte:BETHA,liga:"Mesmo valor, mesma empresa."},
+  {id:"m4",r:6,x:C6[3],tipo:"cita",sig:"M4",t:"Caminhão caçamba",s:"R$ 585.000,00",titulo:"Meta 4",valor:585000,texto:"1 caminhão caçamba.",fonte:TX},
+  {id:"c4",r:7,x:C6[3],tipo:"cruzado",t:"Compra Iveco",s:"25/07/2025",titulo:"IVG / Iveco",valor:585000,texto:"1 caminhão caçamba.",fonte:BETHA,liga:"Valor idêntico ao da meta.",alerta:ADESAO},
+  {id:"g4",r:8,x:C6[3],tipo:"lacuna",mini:1,dup:"g1",t:"sem extrato"},
+  {id:"p4",r:10,x:C6[3],tipo:"cruzado",t:"Pago à IVG",s:"R$ 585.000,00",titulo:"Pago",valor:585000,texto:"Empenho 5086/2025.",fonte:BETHA,liga:"Mesmo valor, mesma empresa."},
+  {id:"L3",r:11,x:C6[3],tipo:"lacuna",mini:1,lab:"esq",t:"fora do relatório",titulo:"Caminhão some do relatório",valor:585000,texto:"Pago em 2025, não aparece como executado no relatório federal.",fonte:TX},
+  {id:"m5",r:6,x:C6[4],tipo:"cita",sig:"M5",t:"Minivan",s:"R$ 150.848,52",titulo:"Meta 5",valor:150848.52,texto:"1 minivan de 7 lugares.",fonte:TX},
+  {id:"c5",r:7,x:C6[4],tipo:"duvida",t:"Contrato 23/2026",s:"R$ 144.210,80",titulo:"Minivan Metronorte",valor:144210.80,texto:"Valor e tipo diferentes da meta.",fonte:BETHA,liga:"Provável, falta confirmar."},
+  {id:"p5",r:10,x:C6[4],tipo:"duvida",t:"Pago à Metronorte",s:"11/08/2026",titulo:"Pago",valor:144210.80,texto:"Empenho refeito \"para alteração do credor\", mesmo credor.",fonte:BETHA,alerta:"Qual CNPJ recebeu?"},
+  {id:"m6",r:6,x:C6[5],tipo:"cita",sig:"M6",t:"Picapes",s:"R$ 341.201,45",titulo:"Meta 6",valor:341201.45,texto:"Picapes cabine dupla.",fonte:TX},
+  {id:"c6",r:7,x:C6[5],tipo:"cruzado",t:"Pregão 115/2025",s:"28/08/2025",titulo:"Licitação das picapes",valor:110900,texto:"MKE vence a R$ 110.900 por picape.",fonte:"PNCP",link:"https://pncp.gov.br/app/compras/82916818000113/2025/146",alerta:"Desconto de 0,09% sobre o estimado."},
+  {id:"k6",r:8,x:C6[5],tipo:"cita",sig:"CT",t:"Contrato 096/2025",s:"R$ 554.500,00",titulo:"Contrato cita a emenda",valor:554500,texto:"\"EMENDA FEDERAL nº 20240620002\".",fonte:"Diário de Criciúma nº 3813",link:EV+"202440620002/68d311dc9303a23092025.pdf"},
+  {id:"nf6",r:9,x:C6[5],tipo:"cruzado",t:"5 notas fiscais",s:"25/09/2025",titulo:"Picapes entregues",valor:554500,texto:"5 × R$ 110.900.",fonte:BETHA,liga:"Mesma empresa e valor."},
+  {id:"p6",r:10,x:C6[5],tipo:"cruzado",t:"Pago à MKE",s:"R$ 341.201,45",titulo:"Pago",valor:341201.45,texto:"Empenho 6355/2025. O resto saiu de outra fonte.",fonte:BETHA,liga:"Valor idêntico ao da meta."},
+  {id:"rel",r:12,x:.5,hub:1,tipo:"cita",sig:"RG",t:"Relatório de gestão",s:"30/06/2026",titulo:"Prestação de contas",valor:1664151.48,texto:"Executado declarado. Bate com nossa soma, menos o caminhão IVG.",fonte:TX},
+  {id:"fim",r:13,x:.5,hub:1,tipo:"fim",sig:"✓",t:"Fim do rastro",s:"99% ligado",titulo:"Quase tudo ligado",valor:2393362.27,texto:"Ligado a compras, cruzando valores na mão.",fonte:"Cruzamento próprio"}
+  ],
+  E:[["n0","n1","of"],["n1","n2","of"],["n2","n3","of"],["n3","L1","qb"],["n3","n4","of"],["n4","n5","of"],
+   ["n5","m1","of"],["n5","m2","of"],["n5","m3","of"],["n5","m4","of"],["n5","m5","of"],["n5","m6","of"],
+   ["m1","c1","cz"],["m2","c2","cz"],["m3","c3","cz"],["m4","c4","cz"],["m5","c5","dv"],["m6","c6","cz"],
+   ["c1","g1","qb"],["c2","g2","qb"],["c3","g3","qb"],["c4","g4","qb"],["g1","p1","cz"],["g2","p2","cz"],["g3","p3","cz"],["g4","p4","cz"],
+   ["c5","p5","dv"],["c6","k6","of"],["k6","nf6","cz"],["nf6","p6","cz"],
+   ["p1","rel","cz"],["p2","rel","cz"],["p3","rel","cz"],["p4","L3","qb"],["L3","rel","qb"],["p5","rel","dp"],["p6","rel","cz"],["rel","fim","of"]]
+},
+{ id:"freitas-viaduto", quem:"Daniel Freitas", cidade:"Criciúma", o:"Viaduto Virgínio Conti", total:1700000, num:"202239490001",
+  st:["100% ligado","ok"], barra:{v:1700000,t:1700000,txt:"Ligado a pagamento"},
+  N:[
+  {id:"b0",r:0,x:.5,hub:1,tipo:"cita",sig:"EP",t:"Emenda Pix",s:"2022 · R$ 1,7 mi",titulo:"Freitas manda R$ 1,7 mi",valor:1700000,texto:"Para o viaduto da Rua Virgínio Conti.",fonte:TX},
+  {id:"b1",r:1,x:.5,tipo:"cita",sig:"OB",t:"Dinheiro na conta",s:"01/07/2022",titulo:"União paga",valor:1700000,texto:"OB 2022OB802691.",fonte:TX},
+  {id:"b2",r:2,x:.5,hub:1,tipo:"cita",sig:"PT",t:"Plano de trabalho",s:"1 meta: viaduto",titulo:"Viaduto de 83 m",texto:"Uma meta só.",fonte:TX},
+  {id:"b3",r:3,x:.25,tipo:"cruzado",t:"Edital 029/2022",s:"25/02/2022",titulo:"Obra licitada antes",texto:"Edital diz que o dinheiro é do Governo do Estado.",fonte:"Diário de Criciúma nº 2921",link:EV+"daniel-freitas-criciuma/doe-2921-25-02-2022.pdf",liga:"Mesma obra do plano.",alerta:"A obra já tinha outra fonte de dinheiro."},
+  {id:"b4",r:4,x:.25,tipo:"cruzado",t:"Contrato 078/2022",s:"SETEP · R$ 6,7 mi",titulo:"SETEP contratada",valor:6710518.90,texto:"SETEP Construções S.A.",fonte:"Diário de Criciúma nº 2953",link:EV+"daniel-freitas-criciuma/doe-2953-12-04-2022.pdf",liga:"Mesma obra do plano."},
+  {id:"b5",r:3,x:.75,tipo:"cruzado",t:"Empenho 5277/2022",s:"18/08/2022",titulo:"Troca de fonte",valor:1700000,texto:"\"Alteração parcial de fonte\" de um empenho antigo da SETEP.",fonte:BETHA,liga:"Valor igual ao da emenda.",alerta:"A emenda substituiu outro dinheiro."},
+  {id:"b6",r:4,x:.64,tipo:"cruzado",t:"Pago 2022",s:"R$ 1.360.935,47",titulo:"Pago à SETEP",valor:1360935.47,texto:"Empenho 5277/2022.",fonte:BETHA,liga:"Mesmo empenho."},
+  {id:"b7",r:4,x:.86,tipo:"cruzado",t:"Pago 2023",s:"R$ 339.064,53",titulo:"Pago à SETEP",valor:339064.53,texto:"Empenho 576/2023.",fonte:BETHA,liga:"Completa o valor."},
+  {id:"b8",r:5,x:.75,tipo:"cruzado",t:"Soma",s:"= R$ 1.700.000,00",titulo:"Bate no centavo",valor:1700000,texto:"1.360.935,47 + 339.064,53.",fonte:"Cruzamento próprio"},
+  {id:"bL",r:5,x:.25,tipo:"lacuna",t:"3 fontes, 1 obra",s:"quem pagou o quê?",titulo:"Fontes misturadas",valor:6388771.49,texto:"Estado + esta emenda + R$ 544 mil da emenda de 2023. SETEP recebeu R$ 6,39 mi.",fonte:BETHA,liga:"O portal não mostra a fonte de cada pagamento."},
+  {id:"b9",r:6,x:.5,hub:1,tipo:"cita",sig:"RG",t:"Relatório final",s:"20/12/2024",titulo:"Contas fechadas",valor:1700000,texto:"R$ 1,7 mi executados.",fonte:TX},
+  {id:"b10",r:7,x:.5,hub:1,tipo:"fim",sig:"✓",t:"Fim do rastro",s:"100% ligado",titulo:"Caminho completo",valor:1700000,texto:"Tudo foi para a obra do viaduto.",fonte:"Cruzamento próprio"}
+  ],
+  E:[["b0","b1","of"],["b1","b2","of"],["b2","b3","cz"],["b3","b4","cz"],["b2","b5","cz"],["b4","b6","cz"],["b5","b6","cz"],["b5","b7","cz"],
+   ["b6","b8","cz"],["b7","b8","cz"],["b4","bL","qb"],["b8","b9","cz"],["b9","b10","of"]]
+},
+{ id:"freitas-rua", quem:"Daniel Freitas", cidade:"Criciúma", o:"Viaduto, praça e rua", total:2977488, num:"202339490001",
+  st:["R$ 2,3 mi sem pagar","mal"], barra:{v:675200.02,t:2977488,txt:"Gasto declarado",mal:1},
+  N:[
+  {id:"c0",r:0,x:.5,hub:1,tipo:"cita",sig:"EP",t:"Emenda Pix",s:"2023 · R$ 2,98 mi",titulo:"Freitas manda R$ 2,98 mi",valor:2977488,texto:"Viaduto, praça e Rua Martinho Brunelli.",fonte:TX},
+  {id:"c1",r:1,x:.5,tipo:"cita",sig:"OB",t:"Dinheiro na conta",s:"30/08/2023",titulo:"União paga",valor:2977488,texto:"Prazo para gastar: 30/08/2026.",fonte:TX},
+  {id:"c2",r:2,x:.5,hub:1,lab:"esq",tipo:"cita",sig:"PT",t:"Plano de trabalho",s:"3 metas",titulo:"O que foi prometido",texto:"Viaduto, praça e rua.",fonte:TX,alerta:"Existem duas versões das metas."},
+  {id:"cV",r:2,x:.84,tipo:"duvida",t:"Versão B",s:"R$ 1,85 mi sem local",titulo:"A outra versão",valor:1848119.04,texto:"Praças \"com local a definir\". O relatório usa a versão A.",fonte:TX,liga:"Qual vale?"},
+  {id:"cm1",r:3,x:.18,tipo:"cita",sig:"M1",t:"Viaduto",s:"R$ 544.970,80",titulo:"Meta: viaduto",valor:544970.80,texto:"Mesmo viaduto da emenda de 2022.",fonte:TX},
+  {id:"cL1",r:4,x:.18,tipo:"lacuna",t:"Não achado",s:"nos empenhos",titulo:"Dinheiro não localizado",valor:544970.80,texto:"Não aparece nos empenhos da SETEP.",fonte:BETHA,liga:"O portal não traz a fonte do empenho."},
+  {id:"cm2",r:3,x:.5,tipo:"cita",sig:"M2",t:"Praça Abelle Colle",s:"R$ 130.229,22",titulo:"Meta: praça",valor:130229.22,texto:"Praça Abelle Colle.",fonte:TX},
+  {id:"cp1",r:4,x:.5,tipo:"cita",sig:"§",t:"Decreto 08/08/2023",s:"R$ 785.975,52",titulo:"Crédito para a praça",valor:785975.52,texto:"\"Por conta da emenda 202339490001\".",fonte:"Diário de Criciúma nº 3284",link:EV+"daniel-freitas-criciuma/doe-3284-08-08-2023.pdf"},
+  {id:"cp2",r:5,x:.5,tipo:"cita",sig:"ED",t:"Tomada de Preços 211",s:"4 concorrentes",titulo:"Edital cita a emenda",texto:"Cita a transferência especial 09032023-037199.",fonte:"Diário de Criciúma"},
+  {id:"cp3",r:6,x:.5,tipo:"cruzado",t:"Contrato 210/2023",s:"West · R$ 601 mil",titulo:"West Engenharia",valor:601306.38,texto:"Contrato de 27/09/2023.",fonte:"Diário de Criciúma",liga:"Vem da licitação que cita a emenda.",alerta:"A West ganhou duas praças em 30 dias."},
+  {id:"cp4",r:7,x:.5,tipo:"cruzado",t:"Pago à West",s:"R$ 540.654,35",titulo:"Praça paga",valor:540654.35,texto:"Pagamentos de todas as fontes.",fonte:BETHA,liga:"Mesma empresa e contrato.",alerta:"O relatório credita só R$ 130 mil à praça."},
+  {id:"cm3",r:3,x:.82,tipo:"cita",sig:"M3",t:"Rua Martinho Brunelli",s:"R$ 2.302.287,98",titulo:"Meta: rua",valor:2302287.98,texto:"Pavimentação de 2.969 m.",fonte:TX},
+  {id:"cr1",r:4,x:.82,tipo:"cita",sig:"§",t:"Decreto abr./2026",s:"saldo reaberto",titulo:"Dinheiro parado",valor:2302287.98,texto:"Saldo da emenda ainda na conta em 31/12/2025.",fonte:"Diário de Criciúma nº 3960",link:EV+"daniel-freitas-criciuma/2026-04-20-1776715332-20-04-2026.pdf",alerta:"Quase 3 anos parado."},
+  {id:"cr2",r:5,x:.82,tipo:"cruzado",t:"Contrato 059/2026",s:"Confer · R$ 8,35 mi",titulo:"Confer contratada",valor:8353001.90,texto:"19/06/2026, 300 dias de obra.",fonte:BETHA,liga:"Mesma rua da meta."},
+  {id:"cr3",r:6,x:.82,tipo:"cruzado",t:"Empenho 4303/2026",s:"R$ 2.302.287,98",titulo:"Saldo exato",valor:2302287.98,texto:"22/06/2026.",fonte:BETHA,liga:"Valor idêntico ao saldo da emenda."},
+  {id:"cr4",r:7,x:.82,tipo:"lacuna",t:"Pago: R$ 0",s:"prazo venceu",titulo:"Sem pagamento",valor:0,texto:"O prazo do plano venceu em 30/08/2026.",fonte:BETHA,liga:"Houve prorrogação? Pedir extratos."},
+  {id:"crel",r:8,x:.5,hub:1,tipo:"cita",sig:"RG",t:"Relatório parcial",s:"30/06/2026",titulo:"Prestação de contas",valor:675200.02,texto:"Executado: viaduto + praça. Pendente: a rua.",fonte:TX},
+  {id:"cfim",r:9,x:.5,hub:1,tipo:"fim",sig:"!",t:"Fim do rastro",s:"23% gasto",titulo:"3/4 ainda na conta",valor:2302287.98,texto:"Chegou em 2023. A maior parte segue sem pagamento.",fonte:"Cruzamento próprio"}
+  ],
+  E:[["c0","c1","of"],["c1","c2","of"],["c2","cV","dv"],["c2","cm1","of"],["c2","cm2","of"],["c2","cm3","of"],
+   ["cm1","cL1","qb"],["cL1","crel","qb"],["cm2","cp1","of"],["cp1","cp2","of"],["cp2","cp3","cz"],["cp3","cp4","cz"],["cp4","crel","cz"],
+   ["cm3","cr1","of"],["cr1","cr2","cz"],["cr2","cr3","cz"],["cr3","cr4","qb"],["cr4","crel","qb"],["crel","cfim","of"]]
+},
+{ id:"freitas-gaivota", quem:"Daniel Freitas", cidade:"Balneário Gaivota", o:"Pavimentação e saúde", total:3432000, num:"202439490003",
+  st:["Auditada pela CGU","mal"], barra:{v:0,t:3432000,txt:"Gasto declarado hoje",mal:1},
+  N:[
+  {id:"d0",r:0,x:.5,hub:1,tipo:"cita",sig:"EP",t:"Emenda Pix",s:"2024 · R$ 3,43 mi",titulo:"Freitas manda R$ 3,43 mi",valor:3432000,texto:"Para Balneário Gaivota.",fonte:TX},
+  {id:"d1",r:1,x:.5,tipo:"cita",sig:"OB",t:"Dinheiro na conta",s:"04/07/2024",titulo:"União paga",valor:3432000,texto:"Depositado na conta da emenda.",fonte:TX},
+  {id:"d2",r:2,x:.5,hub:1,lab:"esq",tipo:"cita",sig:"PT",t:"Plano de trabalho",s:"2 metas",titulo:"Plano genérico",texto:"\"Pavimentação de vias, 10 unidades\".",fonte:TX,alerta:"Não diz quais ruas."},
+  {id:"dL",r:2,x:.84,tipo:"lacuna",t:"Portal e PNCP",s:"sem as compras",titulo:"Ninguém de fora conseguia seguir",texto:"Portal sem ligação com a emenda. Contratações fora do PNCP.",fonte:CGU},
+  {id:"dm1",r:3,x:.28,tipo:"cita",sig:"M1",t:"Pavimentação",s:"R$ 3.332.000",titulo:"Meta: asfalto",valor:3332000,texto:"Ruas não especificadas.",fonte:TX},
+  {id:"dm2",r:3,x:.72,tipo:"cita",sig:"M2",t:"Saúde",s:"R$ 100.000",titulo:"Meta: equipamentos",valor:100000,texto:"Equipamentos de saúde.",fonte:TX},
+  {id:"dC",r:4,x:.5,hub:1,tipo:"cita",sig:"CGU",t:"Auditoria da CGU",s:"05/06/2025",titulo:"A CGU refaz o rastro",texto:"Enviada ao STF na ADPF 854.",fonte:CGU,link:EV+"cgu/CGU-1790304-balneario-gaivota-2025-06-05.pdf"},
+  {id:"dA",r:5,x:.2,tipo:"cita",sig:"!",t:"Contas antigas",s:"R$ 892.389,71",titulo:"Pagou despesas velhas",valor:892389.71,texto:"15 de 18 licitações eram de 2022–2023. 27 empenhos refeitos.",fonte:CGU,link:EV+"cgu/CGU-1790304-balneario-gaivota-2025-06-05.pdf",alerta:"Contra o art. 60 da Lei 4.320/64."},
+  {id:"dB",r:5,x:.5,tipo:"cita",sig:"!",t:"Asfalto mais fino",s:"R$ 285.778,00",titulo:"Pago e não feito",valor:285778,texto:"Fabran Construções: menos centímetros que o contratado. Obras prontas.",fonte:CGU,link:EV+"cgu/CGU-1790304-balneario-gaivota-2025-06-05.pdf",alerta:"Serviço pago sem execução."},
+  {id:"dE",r:5,x:.8,tipo:"cita",sig:"✓",t:"Equipamentos",s:"em uso",titulo:"Saúde em ordem",valor:100000,texto:"Compra adequada, equipamentos em uso.",fonte:CGU},
+  {id:"dD",r:6,x:.35,tipo:"cita",sig:"↺",t:"Devolução",s:"16/04/2025",titulo:"Dinheiro volta à conta",valor:1178167.71,texto:"Prefeitura reconhece e devolve os dois valores à conta da emenda.",fonte:CGU},
+  {id:"dR",r:7,x:.5,hub:1,tipo:"cita",sig:"RG",t:"Relatório de gestão",s:"30/06/2026",titulo:"Executado: R$ 0",valor:0,texto:"Pendente: R$ 3.432.000. O dinheiro voltou para a conta.",fonte:TX},
+  {id:"dF",r:8,x:.5,big:1,tipo:"lacuna",t:"E agora?",s:"novo uso sem registro",titulo:"O que foi feito depois?",texto:"Nenhum registro público do novo uso.",fonte:"Busca própria",liga:"Pedir extratos da conta via LAI."}
+  ],
+  E:[["d0","d1","of"],["d1","d2","of"],["d2","dL","qb"],["d2","dm1","of"],["d2","dm2","of"],["dm1","dC","of"],["dm2","dC","of"],
+   ["dC","dA","of"],["dC","dB","of"],["dC","dE","of"],["dA","dD","of"],["dB","dD","of"],["dD","dR","of"],["dE","dR","dp"],["dR","dF","qb"]]
+}
+];
+
+const TIPO = {cita:"Documento cita a emenda",cruzado:"Ligamos nós",duvida:"Provável",lacuna:"Elo que falta",fim:"Resultado"};
+const COR = {cita:"#FDBD27",fim:"#FDBD27",cruzado:"#7fe6f2",duvida:"#e9e4d6",lacuna:"#ff4d4d"};
+const brl = v => v.toLocaleString("pt-BR",{style:"currency",currency:"BRL"});
+const mi = v => "R$ " + (v>=1e6 ? (v/1e6).toLocaleString("pt-BR",{maximumFractionDigits:2})+" mi" : (v/1e3).toLocaleString("pt-BR",{maximumFractionDigits:0})+" mil");
+const esc = s => String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c]));
+const reais = n => !n.dup;
+
+/* Cartas */
+const deck = document.getElementById("deck");
+deck.innerHTML = TRILHAS.map(T=>{
+  const dots = T.N.filter(reais).map(n=>`<i style="background:${COR[n.tipo]}"></i>`).join("");
+  return `<button class="carta" type="button" id="carta-${T.id}" data-id="${T.id}" aria-pressed="false">
+    <span class="quem">${esc(T.quem)} · ${esc(T.cidade)}</span>
+    <span class="v num">${mi(T.total)}</span><span class="o">${esc(T.o)}</span>
+    <span class="dots" aria-hidden="true">${dots}</span>
+    <span class="st ${T.st[1]}">${esc(T.st[0])}</span></button>`;
+}).join("");
+
+/* Desenho */
+const W=1000, RH=122, TOP=70;
+const hex = r => Array.from({length:6},(_,i)=>{const a=Math.PI/180*(60*i-90);return (r*Math.cos(a)).toFixed(1)+","+(r*Math.sin(a)).toFixed(1)}).join(" ");
+const curva = (a,b) => {const my=(a.py+b.py)/2;return `M${a.px},${a.py} C${a.px},${my} ${b.px},${my} ${b.px},${b.py}`};
+const ES = {
+ of:'stroke="#FDBD27" stroke-width="3.2" filter="url(#gl)"',
+ cz:'stroke="#7fe6f2" stroke-width="2.2" stroke-dasharray="8 6" opacity=".85"',
+ dv:'stroke="#e9e4d6" stroke-width="2" stroke-dasharray="2 7" stroke-linecap="round" opacity=".7"',
+ qb:'stroke="#ff4d4d" stroke-width="2" stroke-dasharray="3 9" stroke-linecap="round" opacity=".8"',
+ dp:'stroke="#5d6b7c" stroke-width="1.6" stroke-dasharray="2 6" stroke-linecap="round"'
+};
+function nodeSvg(n){
+  let shape, r;
+  if(n.tipo==="cita"||n.tipo==="fim"){
+    r = n.hub?36:27; const fs = n.sig.length>2?(n.hub?17:14):(n.hub?22:17);
+    shape = `<polygon points="${hex(r+7)}" fill="none" stroke="#FDBD27" stroke-opacity=".35" stroke-width="1.5"/>
+      <polygon points="${hex(r)}" fill="url(#gg)" stroke="#fff3c4" stroke-width="1.5" filter="url(#gl)"/>
+      <text class="sig" y="${fs*.36}" text-anchor="middle" font-size="${fs}">${esc(n.sig)}</text>`;
+  } else if(n.tipo==="cruzado"){
+    r=17; shape=`<circle r="17" fill="#0b1a22" stroke="#7fe6f2" stroke-width="3" filter="url(#glc)"/><circle r="6" fill="#7fe6f2"/>`;
+  } else if(n.tipo==="duvida"){
+    r=17; shape=`<circle r="17" fill="#10161e" stroke="#e9e4d6" stroke-width="2.2" stroke-dasharray="4 4"/><circle r="4" fill="#e9e4d6" opacity=".7"/>`;
+  } else {
+    r = n.mini?12:(n.big?32:22); const fs = n.mini?14:(n.big?28:20);
+    shape=`<circle r="${r}" fill="#1a0b0d" stroke="#ff4d4d" stroke-width="2.5" stroke-dasharray="${n.mini?"4 3":"6 5"}" filter="url(#glr)"/>
+      <text y="${fs*.36}" text-anchor="middle" fill="#ff4d4d" font-family="Archivo,sans-serif" font-weight="800" font-size="${fs}">?</text>`;
+  }
+  const al = n.alerta ? `<circle cx="${r*.8}" cy="${-r*.8}" r="7" fill="#ff8a3d" stroke="#05070b" stroke-width="2"/><text x="${r*.8}" y="${-r*.8+4}" text-anchor="middle" font-size="10" font-weight="800" fill="#05070b" font-family="Archivo,sans-serif" style="stroke:none">!</text>` : "";
+  const red = n.tipo==="lacuna" ? " r" : "";
+  const lado = n.lab || (n.x===.5 ? "dir" : n.mini ? "dir" : "baixo");
+  let lab;
+  if(lado==="dir"||lado==="esq"){
+    const dx = lado==="dir" ? r+16 : -(r+16), an = lado==="dir" ? "start" : "end";
+    lab = n.mini ? `<text class="sub r" x="${dx}" y="4" text-anchor="${an}" font-size="12">${esc(n.t)}</text>`
+      : `<text class="lbl${red}" x="${dx}" y="-2" text-anchor="${an}" font-size="17">${esc(n.t)}</text><text class="sub${red}" x="${dx}" y="18" text-anchor="${an}" font-size="13">${esc(n.s||"")}</text>`;
+  } else {
+    lab = `<text class="lbl${red}" y="${r+20}" text-anchor="middle" font-size="13.5">${esc(n.t)}</text>${n.s?`<text class="sub num${red}" y="${r+37}" text-anchor="middle" font-size="12">${esc(n.s)}</text>`:""}`;
+  }
+  return `<g class="node" id="nd-${n.id}" data-id="${n.dup||n.id}" transform="translate(${n.px},${n.py})" tabindex="0" role="button" aria-label="${esc(n.t)}">
+    <circle class="ring" r="${r+6}"/><g class="shape">${shape}${al}</g>${lab}</g>`;
+}
+
+let T, byId, ORDEM, atual, parts = [];
+function escolhe(id){
+  T = TRILHAS.find(t=>t.id===id) || TRILHAS[0];
+  document.querySelectorAll(".carta").forEach(c=>c.setAttribute("aria-pressed", c.dataset.id===T.id));
+  T.N.forEach(n=>{n.px=n.x*W; n.py=TOP+n.r*RH});
+  byId = Object.fromEntries(T.N.map(n=>[n.id,n]));
+  ORDEM = T.N.filter(reais).sort((a,b)=>a.r-b.r||a.x-b.x).map(n=>n.id);
+  const H = TOP + Math.max(...T.N.map(n=>n.r))*RH + 110;
+  const conta = t => T.N.filter(n=>reais(n) && (n.tipo===t || (t==="cita"&&n.tipo==="fim"))).length;
+  const pct = T.barra.v/T.barra.t*100;
+  document.getElementById("hud").innerHTML = `
+    <div class="cont num">
+      <span title="Documento cita a emenda"><svg width="20" height="20" viewBox="-10 -10 20 20"><polygon points="0,-9 7.8,-4.5 7.8,4.5 0,9 -7.8,4.5 -7.8,-4.5" fill="#FDBD27"/></svg>${conta("cita")}</span>
+      <span title="Ligamos nós" style="color:var(--cyan)"><svg width="20" height="20" viewBox="-10 -10 20 20"><circle r="7" fill="#0b1a22" stroke="#7fe6f2" stroke-width="2.5"/></svg>${conta("cruzado")}</span>
+      <span title="Provável" style="color:var(--pale)"><svg width="20" height="20" viewBox="-10 -10 20 20"><circle r="7" fill="none" stroke="#e9e4d6" stroke-width="2" stroke-dasharray="3 3"/></svg>${conta("duvida")}</span>
+      <span title="Elo que falta" style="color:var(--red)"><svg width="20" height="20" viewBox="-10 -10 20 20"><circle r="7" fill="none" stroke="#ff4d4d" stroke-width="2.5" stroke-dasharray="4 3"/></svg>${conta("lacuna")}</span>
+    </div>
+    <div class="xp"><div class="row"><span>Emenda ${T.num} · ${esc(T.barra.txt)}</span><b class="num">${brl(T.barra.v)} de ${brl(T.barra.t)} · ${pct.toFixed(0)}%</b></div>
+      <div class="bar${T.barra.mal?" mal":""}"><i style="width:${Math.max(pct,.6)}%"></i></div></div>`;
+  const arcs = Array.from({length:9},(_,i)=>`<circle cx="500" cy="-260" r="${420+i*190}" fill="none" stroke="#7fe6f2" stroke-opacity="${(.05-i*.004).toFixed(3)}" stroke-width="1.2"/>`).join("");
+  document.getElementById("map").innerHTML = `
+  <svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Rastro da emenda ${T.num}">
+    <defs>
+      <filter id="gl" filterUnits="userSpaceOnUse" x="-1200" y="-1200" width="3400" height="6000"><feGaussianBlur stdDeviation="5" result="b"/><feColorMatrix in="b" type="matrix" values="1 0 0 0 0  0 .75 0 0 0  0 0 .2 0 0  0 0 0 .9 0"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+      <filter id="glc" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+      <filter id="glr" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+      <radialGradient id="gg" cx="50%" cy="35%" r="70%"><stop offset="0" stop-color="#fff1b8"/><stop offset=".55" stop-color="#FDBD27"/><stop offset="1" stop-color="#b37a00"/></radialGradient>
+      <linearGradient id="beam" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FDBD27" stop-opacity=".35"/><stop offset="1" stop-color="#FDBD27" stop-opacity="0"/></linearGradient>
+    </defs>
+    ${arcs}
+    <polygon points="440,0 560,0 650,${Math.min(H*.5,720)} 350,${Math.min(H*.5,720)}" fill="url(#beam)" opacity=".35"/>
+    <text x="500" y="22" text-anchor="middle" class="ponta">Brasília</text>
+    <g>${T.E.map(([a,b,t],i)=>`<path id="e${i}" d="${curva(byId[a],byId[b])}" fill="none" ${ES[t]}/>`).join("")}</g>
+    <g id="sparks"></g>
+    <g>${T.N.map(nodeSvg).join("")}</g>
+    <text x="500" y="${H-16}" text-anchor="middle" class="ponta">${esc(T.cidade)}</text>
+  </svg>`;
+  document.querySelectorAll(".node").forEach(g=>{
+    g.addEventListener("click",()=>abre(g.dataset.id));
+    g.addEventListener("keydown",e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();abre(g.dataset.id)}});
+  });
+  faiscas();
+  abre(ORDEM[0]);
+  if(location.hash.slice(1)!==T.id) history.replaceState(null,"","#"+T.id);
+}
+
+const panel = document.getElementById("panel");
+function abre(id, foca){
+  const n = byId[id]; atual = id;
+  document.querySelectorAll(".node").forEach(g=>g.classList.toggle("sel", g.dataset.id===id));
+  const i = ORDEM.indexOf(id);
+  panel.innerHTML = `<button class="close" type="button" id="fechar">Fechar</button>
+    <span class="tipo ${n.tipo}">${TIPO[n.tipo]}</span>
+    <h2>${esc(n.titulo)}</h2>
+    ${n.valor!=null?`<div class="valor num">${brl(n.valor)}</div>`:""}
+    ${n.s?`<div class="data">${esc(n.t)} · ${esc(n.s)}</div>`:""}
+    <p>${esc(n.texto)}</p>
+    ${n.liga?`<div class="blk liga"><h3>Como ligamos</h3><p>${esc(n.liga)}</p></div>`:""}
+    ${n.alerta?`<div class="blk alerta"><h3>A verificar</h3><p>${esc(n.alerta)}</p></div>`:""}
+    <div class="blk"><h3>Fonte</h3><p>${esc(n.fonte)}${n.link?` · <a href="${n.link}" target="_blank" rel="noopener">abrir</a>`:""}</p></div>
+    <div class="nav"><button type="button" id="ant">Anterior</button><span class="pos num">${i+1}/${ORDEM.length}</span><button type="button" id="prox">Próximo</button></div>`;
+  panel.hidden = false;
+  document.getElementById("ant").onclick = ()=>abre(ORDEM[(i-1+ORDEM.length)%ORDEM.length], true);
+  document.getElementById("prox").onclick = ()=>abre(ORDEM[(i+1)%ORDEM.length], true);
+  document.getElementById("fechar").onclick = ()=>{panel.hidden = true};
+  if(foca){ const el=document.getElementById("nd-"+id); el && el.scrollIntoView({block:"center",inline:"center",behavior:matchMedia("(prefers-reduced-motion: reduce)").matches?"auto":"smooth"}); }
+}
+
+/* Faíscas: o dinheiro descendo. Nas linhas vermelhas, a luz se apaga no meio. */
+const calmo = matchMedia("(prefers-reduced-motion: reduce)").matches;
+function faiscas(){
+  if(calmo) return;
+  const NS="http://www.w3.org/2000/svg", sp=document.getElementById("sparks");
+  const cor={of:"#ffe08a",cz:"#bff6fb",dv:"#e9e4d6",qb:"#ff6b6b",dp:"#5d6b7c"};
+  parts = T.E.map(([a,b,t],i)=>{
+    const p=document.getElementById("e"+i), c=document.createElementNS(NS,"circle");
+    c.setAttribute("r", t==="of"?3.6:2.6); c.setAttribute("fill",cor[t]);
+    if(t!=="dp") c.setAttribute("filter","url(#glc)");
+    sp.appendChild(c);
+    return {p,c,t,len:p.getTotalLength(),off:Math.random(),vel:t==="of"?.00028:.00022};
+  });
+}
+let t0 = performance.now();
+if(!calmo) (function tick(now){
+  const dt=now-t0; t0=now;
+  for(const q of parts){
+    q.off=(q.off+q.vel*dt*(600/Math.max(q.len,120)))%1;
+    const f=q.off*(q.t==="qb"?.5:1), pt=q.p.getPointAtLength(f*q.len);
+    q.c.setAttribute("cx",pt.x); q.c.setAttribute("cy",pt.y);
+    q.c.setAttribute("opacity",(q.t==="qb"?1-q.off:Math.sin(q.off*Math.PI)).toFixed(2));
+  }
+  requestAnimationFrame(tick);
+})(t0);
+
+deck.addEventListener("click",e=>{const c=e.target.closest(".carta"); if(c) escolhe(c.dataset.id)});
+addEventListener("hashchange",()=>{ if(location.hash.slice(1)!==T.id) escolhe(location.hash.slice(1)) });
+escolhe(location.hash.slice(1));
+</script>
+</body>
+</html>

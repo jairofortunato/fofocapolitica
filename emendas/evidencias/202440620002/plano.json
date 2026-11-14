@@ -1,0 +1,31 @@
+[
+    {
+        "id_plano_acao": 73507,
+        "codigo_plano_acao": "09032024-073507",
+        "ano_plano_acao": 2024,
+        "modalidade_plano_acao": "Especial",
+        "situacao_plano_acao": "CIENTE",
+        "cnpj_beneficiario_plano_acao": "82916818000113",
+        "nome_beneficiario_plano_acao": "MUNICIPIO DE CRICIUMA",
+        "uf_beneficiario_plano_acao": "SC",
+        "codigo_banco_plano_acao": "104",
+        "codigo_situacao_dado_bancario_plano_acao": 4,
+        "nome_banco_plano_acao": "Caixa Econ\u00f4mica Federal",
+        "numero_agencia_plano_acao": 415,
+        "dv_agencia_plano_acao": "4",
+        "numero_conta_plano_acao": 575864739,
+        "dv_conta_plano_acao": "6",
+        "nome_parlamentar_emenda_plano_acao": "Ricardo Guidi",
+        "ano_emenda_parlamentar_plano_acao": "2024",
+        "codigo_parlamentar_emenda_plano_acao": "4062",
+        "sequencial_emenda_parlamentar_plano_acao": 2,
+        "numero_emenda_parlamentar_plano_acao": "202440620002",
+        "codigo_emenda_parlamentar_formatado_plano_acao": "202440620002-Ricardo Guidi",
+        "codigo_descricao_areas_politicas_publicas_plano_acao": "15-Urbanismo / 451-Infraestrutura Urbana",
+        "descricao_programacao_orcamentaria_plano_acao": null,
+        "motivo_impedimento_plano_acao": null,
+        "valor_custeio_plano_acao": 0.0,
+        "valor_investimento_plano_acao": 2400000.0,
+        "id_programa": 21
+    }
+]
