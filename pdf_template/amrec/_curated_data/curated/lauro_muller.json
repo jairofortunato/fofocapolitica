@@ -1,0 +1,320 @@
+{
+ "mp": [
+  {
+   "ref": "06.2018.00000804-0",
+   "cidade": "Lauro Müller",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou se licitação da prefeitura de Lauro Müller favoreceu arquiteto, mas arquivou por falta de provas",
+   "description": "Inquérito verificou se as Cartas Convite 074/2017 e 04/2018 da Prefeitura de Lauro Müller foram direcionadas para beneficiar o arquiteto Daniel Mazon, vencedor dos certames, e se ele usava a prefeitura para atender clientes particulares. O Ministério Público não encontrou provas de irregularidade e arquivou o caso.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2018.00000096-0",
+   "cidade": "Lauro Müller",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou se prefeito de Lauro Müller usou máquinas públicas para tirar areia para empresa da família",
+   "description": "Investigação verificou se o então prefeito Valdir Fontanella usou funcionários e maquinário da prefeitura para extrair areão destinado à sua própria empresa de transportes. O MP concluiu que a extração foi autorizada pelo Conselho de Desenvolvimento Econômico como incentivo à instalação de outra empresa na cidade, não achou provas de irregularidade e arquivou o caso.",
+   "severity": "alta"
+  },
+  {
+   "ref": "06.2022.00002333-1",
+   "cidade": "Lauro Müller",
+   "tipo": "mp",
+   "keep": false,
+   "title": "MP verificou obra de asfalto sem projeto de engenharia em Lauro Müller e não achou irregularidade",
+   "description": "Inquérito apurou a pavimentação da Estrada Geral Vargem Grande, feita em 2020 sem projeto de engenharia formal. O MP concluiu que não havia necessidade de projeto por ser reaproveitado o leito já existente da estrada, que a obra teve acompanhamento técnico e que atendeu a um pedido da comunidade. Caso arquivado sem constatação de má-fé.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2013.00013321-6",
+   "cidade": "Lauro Müller",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP processa por loteamento clandestino após investigar obras irregulares em Lauro Müller",
+   "description": "Investigação apurou obras, construções e reformas autorizadas pela prefeitura em desacordo com o Plano Diretor, além de possíveis danos ambientais. O Ministério Público ajuizou ação civil pública contra Loreni Prates de Oliveira por loteamento clandestino; quanto aos demais fatos, não foram encontradas irregularidades ambientais e essa parte do caso foi arquivada.",
+   "severity": "alta",
+   "status": "🔴 ACP ajuizada"
+  },
+  {
+   "ref": "06.2021.00003379-1",
+   "cidade": "Lauro Müller",
+   "tipo": "mp",
+   "keep": true,
+   "title": "Câmara de Lauro Müller é investigada por criar cargo sob medida para assessor, mas MP não acha provas",
+   "description": "Apuração buscou saber se a Câmara Municipal criou o cargo de assessor legislativo especificamente para beneficiar Pedro Luiz Machado, além de examinar a fixação de remuneração de servidores por resolução entre 2013 e 2016. O MP não encontrou provas de que o cargo tenha sido criado exclusivamente para beneficiá-lo e arquivou o caso.",
+   "severity": "alta"
+  },
+  {
+   "ref": "06.2019.00002430-0",
+   "cidade": "Lauro Müller",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou se obra de esgoto de Lauro Müller poluía rio e fechou acordo com condomínio por acessibilidade",
+   "description": "Inquérito apurou possíveis irregularidades na obra de saneamento na Rua Manoel João Nazário, no bairro Sumaré, quanto à necessidade de licenciamento e a um possível despejo de esgoto no Rio Tubarão. Vistorias da Polícia Militar Ambiental não constataram danos e essa parte foi arquivada. Também foi firmado termo de ajustamento de conduta com o Condomínio Bella Cittá para adequação às normas de acessibilidade.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2018.00000948-3",
+   "cidade": "Lauro Müller",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP processa empresa da família do ex-prefeito de Lauro Müller por desviar água de rio",
+   "description": "Investigação apurou possível desvio de recurso hídrico de um rio para propriedade da Fontanella Mineradora e Transporte, empresa ligada a Valdir Fontanella, e os danos ambientais decorrentes. O Ministério Público ajuizou ação civil pública contra a empresa, que segue tramitando na Justiça.",
+   "severity": "alta",
+   "status": "🔴 ACP ajuizada"
+  },
+  {
+   "ref": "06.2019.00004602-7",
+   "cidade": "Lauro Müller",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP flagra Lauro Müller furando ordem de chamada de aprovados em concurso público",
+   "description": "Apuração identificou que a prefeitura não respeitava a ordem de classificação ao convocar candidatos aprovados nos concursos públicos 001/2016 e 004/2016. O MP expediu recomendação para que o município respeitasse a lista de classificação, a prefeitura acatou e o caso foi arquivado.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2023.00004162-2",
+   "cidade": "Lauro Müller",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP verificou risco em parque infantil de escola de Lauro Müller e problema foi corrigido",
+   "description": "Inquérito apurou possíveis irregularidades na infraestrutura do parque infantil usado pelos alunos do Centro de Educação Infantil Irani Vargas. Medidas foram adotadas pela via administrativa, as irregularidades foram sanadas e o parque passou a não oferecer risco às crianças. Caso arquivado.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2019.00002112-5",
+   "cidade": "Lauro Müller",
+   "tipo": "mp",
+   "keep": true,
+   "title": "Madeireira é multada por atividade ilegal em área de preservação ambiental em Lauro Müller",
+   "description": "Investigação apurou que a Madeireira Mazon operava sem licenciamento ambiental em área de preservação permanente. A empresa foi multada administrativamente, um inquérito policial foi aberto para apurar responsabilidade criminal, e a empresa executou um plano de recuperação da área. O caso no MP foi arquivado após a regularização.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2020.00003541-9",
+   "cidade": "Lauro Müller",
+   "tipo": "mp",
+   "keep": false,
+   "title": "MP verificou denúncia de desmatamento em antiga área de mineração de Lauro Müller e não confirmou",
+   "description": "Inquérito apurou possível supressão de vegetação em área de recuperação da antiga Mina Criciúma, entre o Morro da Figueira e Santa Rosa. Vistorias da Polícia Militar Ambiental e da Fundação Ambiental Municipal não constataram supressão de vegetação, e o caso foi arquivado.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2018.00003559-2",
+   "cidade": "Lauro Müller",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cobrou estruturação da vigilância sanitária de Lauro Müller e prefeitura corrigiu falhas",
+   "description": "Inquérito apurou o cumprimento das exigências legais sobre a estruturação da Vigilância Sanitária de Lauro Müller. Após medidas administrativas, o MP constatou que o serviço passou a ser prestado de forma adequada e que as irregularidades haviam sido sanadas, arquivando o caso.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2019.00004983-5",
+   "cidade": "Lauro Müller",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP processa Lauro Müller por distribuir água não tratada e imprópria em três bairros",
+   "description": "Investigação apurou que a prefeitura operava um sistema paralelo ao da CASAN que captava, reservava e distribuía água não tratada e imprópria para consumo nos bairros Barro Branco, Guatá e Itanema. O Ministério Público ajuizou ação civil pública contra o município, que segue tramitando na Justiça.",
+   "severity": "alta",
+   "status": "🔴 ACP ajuizada"
+  },
+  {
+   "ref": "06.2017.00000361-9",
+   "cidade": "Lauro Müller",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cobrou diagnóstico de áreas de risco de Lauro Müller e prefeitura entregou o levantamento",
+   "description": "Procedimento apurou se a prefeitura fazia o diagnóstico socioambiental exigido para mapear áreas de risco, áreas verdes ocupadas irregularmente e áreas de relevante interesse ecológico no município. A prefeitura acatou recomendação do MP e apresentou o diagnóstico, levando ao arquivamento do caso.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2024.00003556-8",
+   "cidade": "Lauro Müller",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP flagra irregularidades sanitárias em restaurantes e mercado de Lauro Müller e fecha acordo",
+   "description": "Fiscalização identificou irregularidades no controle de produtos de origem animal em cinco estabelecimentos de Lauro Müller: Pousada e Restaurante Nunes, Restaurante e Churrascaria Chaminé, Balneário Godinho, Casa do Churrasco LM e MMRosso Supermercado. Os estabelecimentos firmaram termo de ajustamento de conduta com o MP e passarão por fiscalização administrativa.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2019.00002084-8",
+   "cidade": "Lauro Müller",
+   "tipo": "mp",
+   "keep": true,
+   "title": "Lavação de carros é processada por operar sem licença ambiental em área protegida de Lauro Müller",
+   "description": "O MP apurou que a Lavação Bela Vista, de propriedade de Alair Daniel Gonçalves de Souza, funcionava sem licenciamento ambiental em área de preservação permanente. Foi ajuizada ação civil pública contra a empresa, que segue tramitando na Justiça.",
+   "severity": "media",
+   "status": "🔴 ACP ajuizada"
+  },
+  {
+   "ref": "06.2018.00000782-0",
+   "cidade": "Lauro Müller",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP processa CASAN pela qualidade da água fornecida em Lauro Müller",
+   "description": "Investigação apurou a qualidade da água distribuída pela Companhia Catarinense de Águas e Saneamento (CASAN) no município de Lauro Müller. O Ministério Público ajuizou ação civil pública contra a CASAN e a prefeitura, e o processo segue em tramitação.",
+   "severity": "alta",
+   "status": "🔴 ACP ajuizada"
+  },
+  {
+   "ref": "06.2024.00000725-0",
+   "cidade": "Lauro Müller",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP processa Lauro Müller por sede inadequada do Conselho Tutelar",
+   "description": "Investigação apurou se a nova sede do Conselho Tutelar de Lauro Müller era adequada para o atendimento ao público e para as atividades do órgão. O Ministério Público ajuizou ação civil pública contra o município, que segue em tramitação.",
+   "severity": "media",
+   "status": "🔴 ACP ajuizada"
+  },
+  {
+   "ref": "06.2022.00000015-0",
+   "cidade": "Lauro Müller",
+   "tipo": "mp",
+   "keep": true,
+   "title": "Loteamento clandestino em Lauro Müller é regularizado após apuração do MP",
+   "description": "MP investigou possível loteamento clandestino na Rua Vilmar Leopoldo, no bairro Alto Cairu. Os imóveis foram incluídos no programa de regularização fundiária (Reurb), a situação foi regularizada e o caso foi arquivado.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2022.00000999-5",
+   "cidade": "Lauro Müller",
+   "tipo": "mp",
+   "keep": true,
+   "title": "Açougue de Lauro Müller firma acordo após irregularidades sanitárias apontadas pelo MP",
+   "description": "Fiscalização apontou irregularidades no Empório das Carnes quanto ao controle sanitário de produtos de origem animal. A empresa firmou termo de ajustamento de conduta com o MP e o caso foi arquivado.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2022.00001001-4",
+   "cidade": "Lauro Müller",
+   "tipo": "mp",
+   "keep": true,
+   "title": "Frigorífico de Lauro Müller assina acordo após irregularidades sanitárias apontadas pelo MP",
+   "description": "Fiscalização do Programa de Proteção Jurídico-Sanitária identificou irregularidades no Frigorífico Fricat (Nilton Nascimento EIRELI). A empresa firmou termo de ajustamento de conduta e o caso foi arquivado.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2021.00003328-0",
+   "cidade": "Lauro Müller",
+   "tipo": "mp",
+   "keep": true,
+   "title": "Revendedora de produtos de limpeza é processada por poluir sem licença em Lauro Müller",
+   "description": "MP apurou que a empresa TS Revendedora de Produtos de Limpeza, de propriedade de Tais Lorenzi, exercia atividade potencialmente poluidora sem licenciamento ambiental na Rodovia SC 390. Foi ajuizada ação civil pública, que segue em tramitação.",
+   "severity": "media",
+   "status": "🔴 ACP ajuizada"
+  },
+  {
+   "ref": "06.2023.00002067-1",
+   "cidade": "Lauro Müller",
+   "tipo": "mp",
+   "keep": true,
+   "title": "Delegacia de Lauro Müller tem setor interditado e Estado é processado por condições precárias",
+   "description": "Vistoria constatou irregularidades estruturais na Delegacia de Polícia de Lauro Müller, com o setor de armazenamento de arquivos interditado pela Defesa Civil. O MP ajuizou ação civil pública contra o Estado de Santa Catarina, que segue em tramitação.",
+   "severity": "alta",
+   "status": "🔴 ACP ajuizada"
+  },
+  {
+   "ref": "06.2022.00002688-3",
+   "cidade": "Lauro Müller",
+   "tipo": "mp",
+   "keep": true,
+   "title": "Empresa da família do ex-prefeito Fontanella é processada por dano ambiental em Lauro Müller",
+   "description": "MP apurou possíveis danos ambientais causados pela empresa Fontanella Transportes e Terraplanagem, com base em auto de infração ambiental. Foi ajuizada ação civil pública contra a empresa, que segue tramitando na Justiça.",
+   "severity": "alta",
+   "status": "🔴 ACP ajuizada"
+  },
+  {
+   "ref": "06.2022.00000991-8",
+   "cidade": "Lauro Müller",
+   "tipo": "mp",
+   "keep": true,
+   "title": "Açougue e frigorífico de Lauro Müller são processados por irregularidades sanitárias",
+   "description": "Fiscalização apontou irregularidades no controle sanitário de produtos de origem animal nos estabelecimentos Frigo Bett e Açougue Bett, de Cláudio Gonzaga Bett. O MP ajuizou ação civil pública contra as empresas, que segue em tramitação.",
+   "severity": "media",
+   "status": "🔴 ACP ajuizada"
+  },
+  {
+   "ref": "06.2022.00003670-4",
+   "cidade": "Lauro Müller",
+   "tipo": "mp",
+   "keep": true,
+   "title": "Granja da família Fontanella é investigada por vender produtos impróprios em Lauro Müller",
+   "description": "MP apurou possível venda de produtos de origem animal impróprios para consumo por granja de propriedade de Wanio Fontanella. Foi expedida recomendação para regularizar ou cessar a atividade, a produção foi encerrada e o caso arquivado.",
+   "severity": "media"
+  }
+ ],
+ "tce": [
+  {
+   "ref": "PAP 22/80014801",
+   "cidade": "Lauro Müller",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE questiona secretário de Lauro Müller por cláusula restritiva em pregão de pneus",
+   "description": "O Tribunal de Contas converteu em representação a apuração sobre o Pregão Presencial 044/PMLM/2022, de R$ 787.404,00, para registro de preços de pneus da Prefeitura de Lauro Müller. A relatora Sabrina Nunes Iocken adiou a análise do pedido de suspensão do certame — ou seja, o pregão não foi suspenso — e determinou a audiência de José Arthur Fernandes, secretário de Administração e subscritor do edital. Ele terá de justificar os prazos de 2 e 3 dias para entrega e retirada dos pneus, considerados cláusula restritiva à concorrência. Não há julgamento de mérito.",
+   "severity": "media",
+   "status": "🟡 em instrução (citação/audiência)"
+  },
+  {
+   "ref": "PAP 22/80014801",
+   "cidade": "Lauro Müller",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE não suspendeu pregão de pneus de Lauro Müller e abriu audiência sobre o edital",
+   "description": "Novo registro do mesmo procedimento sobre o edital do Pregão Presencial n. 044/PMLM/2022 da Prefeitura de Lauro Müller. A decisão converteu o caso em representação, indeferiu por ora a medida cautelar de suspensão e determinou a audiência do secretário de Administração José Arthur Fernandes, subscritor do edital, sobre prazos de entrega considerados restritivos à participação de empresas. O processo seguiu para a Diretoria de Licitações analisar as justificativas; nenhuma sanção foi aplicada até aqui.",
+   "severity": "media",
+   "status": "🟡 em instrução (citação/audiência)"
+  },
+  {
+   "ref": "PAP 22/80017495",
+   "cidade": "Lauro Müller",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE conclui que não houve irregularidade em pregão de Lauro Müller e arquiva o caso",
+   "description": "A apuração tratava de supostas irregularidades no Pregão Presencial n. 015/PMLM/2022 da Prefeitura de Lauro Müller. Em maio de 2022, o Tribunal de Contas indeferiu o pedido de medida cautelar — o certame não foi suspenso — e considerou a representação improcedente, por ausência de configuração de irregularidade. Fez apenas uma recomendação ao pregoeiro Diezom Silva da Luz, para que em licitações futuras busque sanear falhas formais que não alterem a substância das propostas, e mandou arquivar os autos. Ninguém foi responsabilizado.",
+   "severity": "media",
+   "status": "🟢 julgado regular"
+  },
+  {
+   "ref": "PAP 24/80063040",
+   "cidade": "Lauro Müller",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva sem análise suspeita sobre concorrência de R$ 107 mil em Lauro Müller",
+   "description": "O Tribunal de Contas recebeu denúncia sobre supostas irregularidades no Edital de Concorrência Pública 052/2024, de R$ 107.784,25, da Prefeitura de Lauro Müller. O relator Luiz Roberto Herbst decidiu não conhecer do procedimento apuratório preliminar, por não estarem preenchidos os pressupostos de admissibilidade, e determinou o arquivamento. O mérito não chegou a ser examinado e nenhuma irregularidade foi confirmada nem atribuída a qualquer gestor.",
+   "severity": "media",
+   "status": "🟢 arquivado"
+  },
+  {
+   "ref": "REC 20/00161809",
+   "cidade": "Lauro Müller",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multa pregoeiro e engenheiro de Lauro Müller por exigências que limitaram licitação",
+   "description": "Pelo Acórdão n. 282/2022, o Tribunal de Contas manteve a representação julgada procedente em parte contra licitação da Prefeitura de Lauro Müller para fornecimento e instalação de piso esportivo. Foram consideradas irregulares a descrição excessivamente detalhada do objeto, a exigência descabida de registro no CREA e a exigência de atestado registrado no conselho para serviço que não é de engenharia — todas apontadas como limitadoras da concorrência. O TCE aplicou multa de R$ 1.136,52 ao pregoeiro e subscritor do edital, Leandro Stangherlin, e outra de R$ 1.136,52 ao engenheiro civil Carlos Francisco de Oliveira Souza. Aderson Flores, citado no extrato, é o conselheiro do TCE, não um responsabilizado.",
+   "severity": "alta",
+   "status": "⬛ julgado irregular + multa"
+  },
+  {
+   "ref": "REP 25/00192720",
+   "cidade": "Lauro Müller",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva representação de empresa contra concorrência da Prefeitura de Lauro Müller",
+   "description": "A empresa G.I Materiais e Serviços Ltda., por sua representante legal Raquel Martins, apresentou representação sobre supostas irregularidades na Concorrência Eletrônica n. 192/PMLM/2025 da Prefeitura de Lauro Müller. Em janeiro de 2026, o Tribunal de Contas decidiu não conhecer da representação, por não preencher os pressupostos de admissibilidade, e determinou o arquivamento dos autos. O prefeito Valdir Fontanella foi apenas cientificado; nenhuma irregularidade foi reconhecida.",
+   "severity": "media",
+   "status": "🟢 arquivado"
+  },
+  {
+   "ref": "RLI 25/80016826",
+   "cidade": "Lauro Müller",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE recomenda a Lauro Müller regular cobrança de dívidas e arquiva a inspeção",
+   "description": "Inspeção do Tribunal de Contas verificou como a Prefeitura de Lauro Müller cobra seus créditos — uso do protesto extrajudicial e fixação em lei de um valor mínimo para ajuizar execução fiscal. Em fevereiro de 2026, o TCE recomendou que o município regulamente por lei esse valor mínimo, apontando ineficiência administrativa pela ausência da medida, e que mantenha o protesto extrajudicial como forma de cobrança, sob pena de nova fiscalização. O prefeito Valdir Fontanella e o secretário Gustavo Alves Camacho foram cientificados. Não houve multa nem julgamento de irregularidade, e os autos foram arquivados.",
+   "severity": "media",
+   "status": "🟢 arquivado"
+  }
+ ]
+}

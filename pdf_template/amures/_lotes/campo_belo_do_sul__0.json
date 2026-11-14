@@ -1,0 +1,635 @@
+{
+ "cidade": "Campo Belo do Sul",
+ "casos": [
+  {
+   "i": 0,
+   "tipo": "mp",
+   "ref": "06.2025.00000480-9",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00000480-9",
+   "status": "🟢 arquivado",
+   "data": "16/04/2025",
+   "texto": "Município de Campo Belo do Sul e Fernanda Soares Reis. Conclusão: promoção de arquivamento. Apurar possível desvio de função da servidora Marcele Varela da Silva. Mera irregularidade. Servidora já retornou ao cargo de origem. Ausência de atos de improbidade administrativa."
+  },
+  {
+   "i": 1,
+   "tipo": "mp",
+   "ref": "06.2019.00003939-2",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00003939-2",
+   "status": "🟠 TAC firmado",
+   "data": "17/11/2022",
+   "texto": "Município de Campo Belo do Sul e José Tadeu Martins de Oliveira. Conclusão: Inquérito Civil. Apurar eventual ato de improbidade administrativa pelo Chefe do Poder Executivo de Campo Belo do Sul, tendo em vista suposta dispensa indevida de licitação para aquisição de serviços e produtos para a manutenção da frota escolar municipal. Ato de improbidade administrativa não comprovado. Ausência de dolo específico. Arquivamento parcial. Celebração de TAC para correção das irregularidades. Submissão da promoção de arquivamento à apreciação do Conselho Superior."
+  },
+  {
+   "i": 2,
+   "tipo": "mp",
+   "ref": "06.2025.00002706-1",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00002706-1",
+   "status": "🟢 arquivado",
+   "data": "05/08/2025",
+   "texto": "José Gilmar de Oliveira e Sebastião Adenir Pereira. Conclusão: promoção de arquivamento. Apurar suposto desvio de função dos servidores municipais de Capão Alto, os Senhores José Gilmar de Oliveira e Sebastião Adenir Pereira. Irregularidade sanada. Ausência de atos de improbidade administrativa."
+  },
+  {
+   "i": 3,
+   "tipo": "mp",
+   "ref": "06.2025.00000903-0",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00000903-0",
+   "status": "🟢 arquivado",
+   "data": "11/04/2025",
+   "texto": "Município de Campo Belo do Sul e Fernanda Soares Reis. Conclusão: promoção de arquivamento. Apurar suposta ausência de Fernanda Soares Reis, Professora da Rede municipal, no dia 22/8/2023, para acompanhar a realeza da Festa da Paçoca em viagem à Florianópolis/SC. Descontos realizados na remuneração. Inexistência de notícia de outras irregularidades. Ausência de atos de improbidade administrativa."
+  },
+  {
+   "i": 4,
+   "tipo": "mp",
+   "ref": "06.2025.00000480-9",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00000480-9",
+   "status": "🟢 arquivado",
+   "data": "28/04/2025",
+   "texto": "Município de Campo Belo do Sul e Fernanda Soares Reis. Conclusão: promoção de arquivamento. Apurar possível irregularidade na contratação da empresa KiFesta Locações e Eventos Eirelli, pelo Município de Cerro Negro. Não houve comprovação da irregularidade. Ausência de atos de improbidade administrativa."
+  },
+  {
+   "i": 5,
+   "tipo": "mp",
+   "ref": "06.2022.00002545-1",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00002545-1",
+   "status": "🟢 arquivado",
+   "data": "05/08/2025",
+   "texto": "Município de Campo Belo do Sul. Conclusão: promoção de arquivamento. Apurar possíveis irregularidades na realização de serviços de grade aradora e plantadeira pelo Município de Capão Alto/SC. Irregularidade sanada. Ausência de atos de improbidade administrativa."
+  },
+  {
+   "i": 6,
+   "tipo": "mp",
+   "ref": "06.2024.00000070-2",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00000070-2",
+   "status": "🟢 arquivado",
+   "data": "06/08/2025",
+   "texto": "Município de Campo Belo do Sul. Conclusão: promoção de arquivamento. Apurar possíveis irregularidades na realização de serviços de grade aradora e plantadeira pelo Município de Capão Alto/SC. Irregularidade sanada. Ausência de atos de improbidade administrativa."
+  },
+  {
+   "i": 7,
+   "tipo": "mp",
+   "ref": "06.2024.00003400-3",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00003400-3",
+   "status": "🟢 arquivado",
+   "data": "03/09/2025",
+   "texto": "Município de Campo Belo do Sul. Conclusão: promoção de arquivamento. Apurar o descumprimento da condicionalidade para o recebimento da complementação VAAT (Valor Aluno Ano Total) pelo Município de Campo Belo do Sul. Irregularidade sanada. Ausência de atos de improbidade administrativa."
+  },
+  {
+   "i": 8,
+   "tipo": "mp",
+   "ref": "06.2022.00000618-7",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00000618-7",
+   "status": "🟢 arquivado",
+   "data": "01/10/2025",
+   "texto": "Município de Campo Belo do Sul. Conclusão: promoção de arquivamento. Apurar o cumprimento, por parte do Município de Campo Belo do Sul, das obrigações estabelecidas na Lei n. 13.935/2019. Irregularidade sanada. Ausência de atos de improbidade administrativa."
+  },
+  {
+   "i": 9,
+   "tipo": "mp",
+   "ref": "06.2024.00000468-6",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00000468-6",
+   "status": "🟢 arquivado",
+   "data": "15/07/2025",
+   "texto": "Município de Campo Belo do Sul e Josiane Deitos. Conclusão: Promoção de arquivamento. Apurar a não aplicação do Piso Nacional do Magistério ao plano de carreira dos Profissionais da Educação da rede municipal de ensino de Campo Belo do Sul. Ausência de atos de improbidade administrativa. Lei n. 11.738/2008 foi revogada pela Lei n. 14.113/2020."
+  },
+  {
+   "i": 10,
+   "tipo": "mp",
+   "ref": "06.2020.00002368-9",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00002368-9",
+   "status": "🟢 arquivado",
+   "data": "15/07/2025",
+   "texto": "Município de Campo Belo do Sul. Conclusão: Promoção de arquivamento. Adotar as medidas necessárias para regularização dos planos de ação e de aplicação do Fundo dos Direitos da Criança e do Adolescente pelo Município de Campo Belo do Sul. Ausência de atos de improbidade administrativa. FIA regularizado."
+  },
+  {
+   "i": 11,
+   "tipo": "mp",
+   "ref": "06.2021.00002673-5",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00002673-5",
+   "status": "🟢 arquivado",
+   "data": "02/09/2022",
+   "texto": "Erich Souza Roseira. Conclusão: Inquérito Civil. Apurar supostas irregularidades no exercício das funções públicas por parte do servidor público municipal Erich Silva Roseira como Cuidador lotado na Instituição de Acolhimento \"Mãe Josina\", de Campo Belo do Sul. Ato de improbidade administrativa não configurado. Ausência de dolo. Ausência de justa causa. Arquivamento. Submissão da promoção à apreciação do Conselho Superior."
+  },
+  {
+   "i": 12,
+   "tipo": "mp",
+   "ref": "06.2024.00000572-0",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00000572-0",
+   "status": "🟢 arquivado",
+   "data": "30/09/2025",
+   "texto": "Município de Campo Belo do Sul. Conclusão: Inquérito Civil instaurado para apurar suposta irregularidade na prestação de serviço de transporte escolar no Município de Campo Belo do Sul/SC, notadamente na \"Linha 27\", atualmente \"34\". Arquivamento pela não comprovação de conduta ilícita dolosa, ausência de atos de improbidade. Inexistência de irregularidades."
+  },
+  {
+   "i": 13,
+   "tipo": "mp",
+   "ref": "06.2025.00000668-8",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00000668-8",
+   "status": "❔ status indef.",
+   "data": "06/05/2026",
+   "texto": "Deize Elza Borba de Oliveira, Ana Luiza Wolff e Marlon Costa de Oliveira."
+  },
+  {
+   "i": 14,
+   "tipo": "mp",
+   "ref": "06.2025.00001556-5",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00001556-5",
+   "status": "🟡 em apuração",
+   "data": "26/05/2026",
+   "texto": "Daniel de Oliveira Transportes ME, Transportes Maurício Ltda. e ZorteaTur Transportes Ltda."
+  },
+  {
+   "i": 15,
+   "tipo": "mp",
+   "ref": "09.2020.00005116-3",
+   "header": "• EXTRATO DE CONCLUSÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2020.00005116-3",
+   "status": "🔴 ACP ajuizada",
+   "data": "30/03/2023",
+   "texto": "Município de Campo Belo do Sul. Conclusão: procedimento administrativo. Averiguar eventual descumprimento do Termo de Ajustamento de Conduta firmado no Inquérito Civil n. 06.2011.00008535-6, em razão da possível irregularidade na contratação de cuidadores e auxiliares de cuidadores em caráter temporário para a Instituição de Acolhimento Abrigo Mãe Josina. Arquivamento. Ajuizamento de ação civil pública para obrigação de fazer concernente na contratação de servidores para os cargos efetivos previstos em lei, por meio de concurso público, e rescisão dos contratos temporários vigentes. Execução da multa imposta em sentença e em termo de ajuste de conduta por conta do descumprimento das obrigações. Sem submissão da promoção à apreciação do Conselho Superior."
+  },
+  {
+   "i": 16,
+   "tipo": "mp",
+   "ref": "01.2026.00011852-0",
+   "header": "• EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2026.00011852-0.",
+   "status": "🟡 em apuração",
+   "data": "20/03/2026",
+   "texto": "Município de Campo Belo do Sul."
+  },
+  {
+   "i": 17,
+   "tipo": "mp",
+   "ref": "06.2026.00002118-2",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2026.00002118-2",
+   "status": "🟡 em apuração",
+   "data": "01/06/2026",
+   "texto": "Município de Campo Belo do Sul."
+  },
+  {
+   "i": 18,
+   "tipo": "mp",
+   "ref": "06.2022.00000619-8",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00000619-8",
+   "status": "🟢 arquivado",
+   "data": "10/06/2026",
+   "texto": "Município de Capão (investigado). Conclusão: inexistência de fundamento para a propositura de ação judicial. Irregularidades inicialmente ventiladas sobre a ausência de profissionais de serviço social e psicologia vinculados à Secretaria de Educação sanadas após a intervenção do Ministério Público. Psicólogo e Assistente Social nomeados para provimento de cargo efetivo vinculados à Secretaria de Educação, atendendo às disposições da Lei n. 13.935/2019. Inexistência de fundamento para a propositura de ação judicial. Promoção de arquivamento."
+  },
+  {
+   "i": 19,
+   "tipo": "mp",
+   "ref": "06.2024.00000572-0",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00000572-0",
+   "status": "🟡 em apuração",
+   "data": "09/02/2024",
+   "texto": "Município de Campo Belo do Sul e Ivaldir Antunes Chaves."
+  },
+  {
+   "i": 20,
+   "tipo": "mp",
+   "ref": "06.2024.00002136-3",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00002136-3",
+   "status": "🟡 em apuração",
+   "data": "28/05/2024",
+   "texto": "Marcelo de Oliveira Rosa e Município de Campo Belo do Sul."
+  },
+  {
+   "i": 21,
+   "tipo": "mp",
+   "ref": "09.2024.00006450-8",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00006450-8",
+   "status": "🟡 em apuração",
+   "data": "12/08/2024",
+   "texto": "Centrais Elétricas de Santa Catarina (CELESC)."
+  },
+  {
+   "i": 22,
+   "tipo": "mp",
+   "ref": "06.2024.00002261-8",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00002261-8",
+   "status": "❔ status indef.",
+   "data": "22/05/2025",
+   "texto": "Município de Campo Belo do Sul. Conclusão: promoçaõ de arquivamente. Apurar suposta irregularidade na contratação da \"Dedetizadora Barros Ltda. EPP\", pelo Município de Campo Belo do Sul. Não houve comprovação da irregularidade."
+  },
+  {
+   "i": 23,
+   "tipo": "mp",
+   "ref": "06.2025.00002705-0",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00002705-0",
+   "status": "🟡 em apuração",
+   "data": "14/07/2025",
+   "texto": "Sady dos Santos Andrade."
+  },
+  {
+   "i": 24,
+   "tipo": "mp",
+   "ref": "06.2025.00000902-0",
+   "header": "• EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00000902-0",
+   "status": "🟢 arquivado",
+   "data": "04/08/2025",
+   "texto": "Conselho Tutelar de Campo Belo do Sul. Conclusão: promoção de arquivamento. Procedimento instaurado para apurar a suposta atuação inadequada do Conselho Tutelar do Município de Campo Belo do Sul/SC. O Procedimento Preparatório deve ser arquivado, pois as providências cabíveis já foram adotadas, com a apuração administrativa concluída pelo Município e a instauração de termo circunstanciado pela autoridade policial para apuração da possível violação de sigilo funcional."
+  },
+  {
+   "i": 25,
+   "tipo": "mp",
+   "ref": "01.2026.00008423-4",
+   "header": "• EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2026.00008423-4",
+   "status": "🟡 em apuração",
+   "data": "16/03/2026",
+   "texto": "Município de Campo Belo do Sul."
+  },
+  {
+   "i": 26,
+   "tipo": "mp",
+   "ref": "06.2024.00004573-3",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00004573-3",
+   "status": "❔ status indef.",
+   "data": "26/05/2026",
+   "texto": "Município de Campo Belo do Sul."
+  },
+  {
+   "i": 27,
+   "tipo": "mp",
+   "ref": "06.2026.00002120-5",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2026.00002120-5",
+   "status": "🟡 em apuração",
+   "data": "27/05/2026",
+   "texto": "Município de Campo Belo do Sul e Roselito Everaldo de Lins."
+  },
+  {
+   "i": 28,
+   "tipo": "mp",
+   "ref": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE ACOMPANHAMENTO DE POLÍTICAS",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE ACOMPANHAMENTO DE POLÍTICAS",
+   "status": "🟡 em apuração",
+   "data": "27/01/2023",
+   "texto": "2ª Companhia do 2º Batalhão de Polícia Militar Ambiental (Lages)"
+  },
+  {
+   "i": 29,
+   "tipo": "mp",
+   "ref": "09.2023.00007016-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2023.00007016-1",
+   "status": "🟡 em apuração",
+   "data": "31/01/2024",
+   "texto": "Estado de Santa Catarina."
+  },
+  {
+   "i": 30,
+   "tipo": "mp",
+   "ref": "06.2024.00000468-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00000468-6",
+   "status": "🟡 em apuração",
+   "data": "09/02/2024",
+   "texto": "Município de Campo Belo do Sul e Josiane Deitos."
+  },
+  {
+   "i": 31,
+   "tipo": "mp",
+   "ref": "09.2022.00003998-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00003998-9",
+   "status": "🟡 em apuração",
+   "data": "27/09/2022",
+   "texto": "Município de Campo Belo do Sul."
+  },
+  {
+   "i": 32,
+   "tipo": "mp",
+   "ref": "09.2023.00000035-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2023.00000035-3",
+   "status": "🟡 em apuração",
+   "data": "12/01/2023",
+   "texto": "Município de Campo Belo do Sul."
+  },
+  {
+   "i": 33,
+   "tipo": "mp",
+   "ref": "09.2023.00005645-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2023.00005645-9",
+   "status": "🟡 em apuração",
+   "data": "16/08/2023",
+   "texto": "rede de atendimento do Município de Campo Belo do Sul."
+  },
+  {
+   "i": 34,
+   "tipo": "mp",
+   "ref": "09.2023.00009603-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2023.00009603-0",
+   "status": "🟡 em apuração",
+   "data": "24/01/2024",
+   "texto": "Ministério Público de Santa Catarina, CASAN e Município de Campo Belo do Sul."
+  },
+  {
+   "i": 35,
+   "tipo": "mp",
+   "ref": "09.2024.00000172-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00000172-3",
+   "status": "🟡 em apuração",
+   "data": "24/01/2024",
+   "texto": "Município de Campo Belo do Sul."
+  },
+  {
+   "i": 36,
+   "tipo": "mp",
+   "ref": "09.2023.00007093-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2023.00007093-9",
+   "status": "🟡 em apuração",
+   "data": "25/01/2024",
+   "texto": "Estado de Santa Catarina."
+  },
+  {
+   "i": 37,
+   "tipo": "mp",
+   "ref": "06.2024.00000562-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00000562-0",
+   "status": "🟡 em apuração",
+   "data": "09/02/2024",
+   "texto": "Deize Elza Borba de Oliveira, Fernanda Soares Reis, Marlon Costa de Oliveira, Lilian Meirele Branco e Tito Pereira Freitas."
+  },
+  {
+   "i": 38,
+   "tipo": "mp",
+   "ref": "09.2024.00000767-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00000767-2",
+   "status": "🟡 em apuração",
+   "data": "09/02/2024",
+   "texto": "Município de Capão Alto, Município de Campo Belo do Sul e Município de Cerro Negro."
+  },
+  {
+   "i": 39,
+   "tipo": "mp",
+   "ref": "09.2024.00000994-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00000994-8",
+   "status": "🟡 em apuração",
+   "data": "16/02/2024",
+   "texto": "Município de Capão Alto, Município de Campo Belo do Sul e Município de Cerro Negro."
+  },
+  {
+   "i": 40,
+   "tipo": "mp",
+   "ref": "09.2024.00001830-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00001830-3",
+   "status": "🟡 em apuração",
+   "data": "05/04/2024",
+   "texto": "Gerência de Serviço de Atendimento Móvel de Urgência de Santa Catarina e 6º Batalhão de Polícia Militar de Lages."
+  },
+  {
+   "i": 41,
+   "tipo": "mp",
+   "ref": "09.2024.00003847-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00003847-6",
+   "status": "🟡 em apuração",
+   "data": "15/05/2024",
+   "texto": "Ministério Público do Estado de Santa Catarina e Município de Campo Belo do Sul."
+  },
+  {
+   "i": 42,
+   "tipo": "mp",
+   "ref": "06.2024.00002261-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00002261-8",
+   "status": "🟡 em apuração",
+   "data": "17/05/2024",
+   "texto": "Município de Campo Belo do Sul."
+  },
+  {
+   "i": 43,
+   "tipo": "mp",
+   "ref": "09.2024.00005535-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00005535-3",
+   "status": "🟡 em apuração",
+   "data": "22/07/2024",
+   "texto": "Estado de Santa Catarina e Município de Campo Belo do Sul."
+  },
+  {
+   "i": 44,
+   "tipo": "mp",
+   "ref": "06.2024.00003400-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00003400-3",
+   "status": "🟡 em apuração",
+   "data": "07/08/2024",
+   "texto": "Município de Campo Belo do Sul."
+  },
+  {
+   "i": 45,
+   "tipo": "mp",
+   "ref": "06.2024.00003752-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00003752-2",
+   "status": "🟡 em apuração",
+   "data": "04/09/2024",
+   "texto": "Município de Campo Belo do Sul e Edson Souza de Salles."
+  },
+  {
+   "i": 46,
+   "tipo": "mp",
+   "ref": "09.2024.00007733-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00007733-6",
+   "status": "🟡 em apuração",
+   "data": "26/09/2024",
+   "texto": "Ministério Público de Santa Catarina, Município de Campo Belo do Sul, Município de Capão Alto e Município de Cerro Negro."
+  },
+  {
+   "i": 47,
+   "tipo": "mp",
+   "ref": "06.2024.00004573-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00004573-3",
+   "status": "🟡 em apuração",
+   "data": "31/10/2024",
+   "texto": "Município de Campo Belo do Sul."
+  },
+  {
+   "i": 48,
+   "tipo": "mp",
+   "ref": "06.2025.00000902-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00000902-0",
+   "status": "🟡 em apuração",
+   "data": "27/03/2025",
+   "texto": "Conselho Tutelar de Campo Belo do Sul/SC e Maria Neiva da Silva."
+  },
+  {
+   "i": 49,
+   "tipo": "mp",
+   "ref": "09.2025.00005296-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00005296-0",
+   "status": "🟡 em apuração",
+   "data": "21/07/2025",
+   "texto": "Município de Campo Belo do Sul/SC."
+  },
+  {
+   "i": 50,
+   "tipo": "mp",
+   "ref": "09.2025.00006228-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00006228-0",
+   "status": "🟡 em apuração",
+   "data": "01/10/2025",
+   "texto": "Município de Campo Belo e CELESC."
+  },
+  {
+   "i": 51,
+   "tipo": "mp",
+   "ref": "06.2025.00003880-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00003880-3",
+   "status": "🟡 em apuração",
+   "data": "07/10/2025",
+   "texto": "Município de Campo Belo do Sul."
+  },
+  {
+   "i": 52,
+   "tipo": "mp",
+   "ref": "06.2022.00003420-6",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00003420-6",
+   "status": "🟢 arquivado",
+   "data": "11/11/2025",
+   "texto": "Município de Campo Belo do Sul. Conclusão: promoção de arquivamento. Apurar nova construção irregular realizada na Rua Salvador Pucci, neste Município de Campo Belo do Sul, assim como a efetividade do controle urbanístico exercido pelo Município no controle de construções e de parcelamentos do solo. Município está adotando medidas judiciais para sanar a situação."
+  },
+  {
+   "i": 53,
+   "tipo": "mp",
+   "ref": "01.2026.00007643-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2026.00007643-4",
+   "status": "🟡 em apuração",
+   "data": "27/02/2026",
+   "texto": "Município de Campo Belo do Sul/SC."
+  },
+  {
+   "i": 54,
+   "tipo": "mp",
+   "ref": "06.2024.00003752-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00003752-2",
+   "status": "🟢 arquivado",
+   "data": "25/03/2026",
+   "texto": "Edson Salles de Souza e o Município de Campo Belo do Sul (investigados). Conclusão: inexistência de fundamento para a propositura de ação judicial. Divergência no registro de ponto do investigado esclarecidas após a instauração e conclusão de Procedimento Administrativo Disciplinar. Não constatado dolo e dano ao erário. Inexistência de fundamento para a propositura de ação judicial. Promoção de arquivamento."
+  },
+  {
+   "i": 55,
+   "tipo": "mp",
+   "ref": "09.2026.00002899-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2026.00002899-7",
+   "status": "🟡 em apuração",
+   "data": "06/04/2026",
+   "texto": "Serviço de Acolhimento Institucional Mãe Josina do Município de Campo Belo do Sul."
+  },
+  {
+   "i": 56,
+   "tipo": "mp",
+   "ref": "01.2026.00025441-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2026.00025441-2",
+   "status": "🟡 em apuração",
+   "data": "25/05/2026",
+   "texto": "Município de Campo Belo do Sul."
+  },
+  {
+   "i": 57,
+   "tipo": "mp",
+   "ref": "09.2026.00004499-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2026.00004499-7",
+   "status": "🟡 em apuração",
+   "data": "25/05/2026",
+   "texto": "Promotoria de Justiça da Comarca de Campo Belo do Sul, Secretarias de Assistência Social e Saúde do Município de Capão Alto."
+  },
+  {
+   "i": 58,
+   "tipo": "mp",
+   "ref": "09.2026.00005007-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2026.00005007-7",
+   "status": "🟡 em apuração",
+   "data": "11/06/2026",
+   "texto": "Município de Campo Belo do Sul."
+  },
+  {
+   "i": 59,
+   "tipo": "mp",
+   "ref": "09.2026.00003936-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2026.00003936-1",
+   "status": "🟡 em apuração",
+   "data": "19/06/2026",
+   "texto": "Promotoria de Justiça da Comarca de Campo Belo do Sul e Delegacia de Polícia Civil do Município de Capão Alto."
+  },
+  {
+   "i": 60,
+   "tipo": "mp",
+   "ref": "09.2026.00003937-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2026.00003937-2",
+   "status": "🟡 em apuração",
+   "data": "19/06/2026",
+   "texto": "Promotoria de Justiça da Comarca de Campo Belo do Sul e Delegacia de Polícia Civil do Município de Cerro Negro."
+  },
+  {
+   "i": 61,
+   "tipo": "mp",
+   "ref": "09.2025.00002344-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00002344-3",
+   "status": "🟡 em apuração",
+   "data": "14/04/2025",
+   "texto": "Cidades da Comarca de Campo Belo do Sul"
+  },
+  {
+   "i": 62,
+   "tipo": "mp",
+   "ref": "06.2021.00003806-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2021.00003806-4",
+   "status": "🟡 em apuração",
+   "data": "26/01/2022",
+   "texto": "Hospital Nossa Senhora do Patrocínio."
+  },
+  {
+   "i": 63,
+   "tipo": "mp",
+   "ref": "06.2021.00002769-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00002769-0",
+   "status": "🟠 TAC firmado",
+   "data": "24/11/2022",
+   "texto": "Auto Posto Serra Sul Ltda. Conclusão: Inquérito Civil. Apurar irregularidades na comercialização de combustível automotivo em desacordo com a regulação da Agência Nacional do Petróleo (ANP). Termo de Ajustamento de Condutas Firmado. Arquivamento. Submissão da promoção à apreciação do Conselho Superior."
+  },
+  {
+   "i": 64,
+   "tipo": "mp",
+   "ref": "06.2021.00003806-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00003806-4",
+   "status": "🟢 arquivado",
+   "data": "24/01/2023",
+   "texto": "Hospital Nossa Senhora do Patrocínio. Conclusão: Inquérito Civil. Apurar supostas irregularidades no funcionamento do Hospital Nossa Senhora do Patrocínio. Conformidade do nosocômio atestada pela Vigilância Sanitária e corroborada por inspeção ministerial. Inexistência de fundamento para propositura de ação civil pública. Arquivamento. Submissão da promoção de arquivamento à apreciação do Conselho Superior."
+  },
+  {
+   "i": 65,
+   "tipo": "mp",
+   "ref": "06.2025.00000668-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00000668-8",
+   "status": "🟡 em apuração",
+   "data": "21/03/2025",
+   "texto": "Deize Elza Borba de Oliveira, Ana Luiza Wolff e Marlon Costa de Oliveira."
+  },
+  {
+   "i": 66,
+   "tipo": "mp",
+   "ref": "09.2025.00002581-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00002581-9",
+   "status": "🟡 em apuração",
+   "data": "15/04/2025",
+   "texto": "Delegacia de Polícia Civil da Comarca de Campo Belo do Sul, Delegacia de Polícia Civil de Capão Alto e Delegacia de Polícia Civil de Cerro Negro."
+  },
+  {
+   "i": 67,
+   "tipo": "mp",
+   "ref": "06.2025.00000651-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00000651-1",
+   "status": "🟢 arquivado",
+   "data": "09/05/2025",
+   "texto": "Delegacia de Polícia de Capão Alto/SC e Conselho Tutelar de Cerro Negro/SC. Conclusão: promoção de arquivamento. Apurar possíveis irregularidades na atuação da Delegacia de Polícia de Capão Alto/SC, em razão da negativa de auxiliar o Conselho Tutelar de Cerro Negro, no acolhimento de N. P. de J. M. Denúncias não se mostraram verdadeiras, possível mal-entendido entre os órgãos."
+  },
+  {
+   "i": 68,
+   "tipo": "mp",
+   "ref": "01.2026.00011711-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2026.00011711-0",
+   "status": "🟡 em apuração",
+   "data": "19/03/2026",
+   "texto": "Rifel Comércio e Transporte de Madeiras Ltda."
+  },
+  {
+   "i": 69,
+   "tipo": "mp",
+   "ref": "06.2024.00002136-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00002136-3",
+   "status": "🟢 arquivado",
+   "data": "16/06/2026",
+   "texto": "Marcelo de Oliveira Rosa (noticiante) e Jocelino Cardoso dos Santos (investigados). Conclusão: inexistência de fundamento para a propositura de ação judicial. Irregularidades incialmente ventiladas sobre o despejo irregular de resíduos sólidos por residência privada a céu aberto sanadas administrativamente após a intervenção do Ministério Público. Inexistência de fundamento para a propositura de ação judicial. Promoção de arquivamento."
+  }
+ ]
+}

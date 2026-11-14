@@ -1,0 +1,1262 @@
+[0m
+> build · gpt-5.4-mini
+[0m
+Vou ler o critério editorial e mapear cada caso/fonte antes de julgar. Depois curarei e gravarei cada lote na ordem pedida, conferindo contagem final por lote.
+[0m# [0mTodos
+[•] Ler pdf_template/CURADORIA.md e extrair critérios obrigatórios
+[ ] Examinar os três lotes de São Francisco do Sul e localizar as fontes de cada caso
+[ ] Julgar os casos individualmente e gravar cada lote curado em pdf_template/amunesc/_lotes_curados/
+[ ] Conferir contagens finais por lote e reportar resumo ao usuário
+[0m
+[0m→ [0mRead pdf_template/CURADORIA.md
+[0m→ [0mRead pdf_template/amunesc/_lotes/sao_francisco_do_sul__9.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/sao_francisco_do_sul__8.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/sao_francisco_do_sul__7.json
+Já tenho o critério e os lotes. Agora vou completar a leitura do terceiro lote e, em seguida, fechar os julgamentos com foco em duplicatas, casos sem substância e decisões do TCE.
+[0m→ [0mRead pdf_template/amunesc/_lotes/sao_francisco_do_sul__9.json[90m [offset=406, limit=300][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes/sao_francisco_do_sul__9.json[90m [offset=625, limit=260][0m
+[0m✱ [0mGlob "pdf_template/amunesc/_lotes_curados/sao_francisco_do_sul__*.json"[90m 7 matches[0m
+Tenho os critérios fechados e estou montando a saída curada lote a lote, preservando a ordem original e cortando duplicatas/entradas sem substância. Depois valido as contagens e salvo os JSONs finais.
+[0m
+[0m$ [0mpython - <<'PY'
+import json
+from pathlib import Path
+
+base = Path('/Users/jairofortunato/mp/pdf_template/amunesc')
+inputs = {
+    7: base / '_lotes' / 'sao_francisco_do_sul__7.json',
+    8: base / '_lotes' / 'sao_francisco_do_sul__8.json',
+    9: base / '_lotes' / 'sao_francisco_do_sul__9.json',
+}
+outputs = {
+    7: base / '_lotes_curados' / 'sao_francisco_do_sul__7.json',
+    8: base / '_lotes_curados' / 'sao_francisco_do_sul__8.json',
+    9: base / '_lotes_curados' / 'sao_francisco_do_sul__9.json',
+}
+
+
+def e(title, description, status, severity):
+    return {"title": title, "description": description, "status": status, "severity": severity}
+
+curated = {
+    7: {
+        493: e(
+            "MP apura multas indevidas aplicadas a caminhões",
+            "A noticia de fato mira a conduta dos policiais militares Jocenir e Dolla, do 24º BPMRv, por suposta aplicação indevida de multas aos caminhões das empresas Adrimar e Becker. O extrato nao traz desfecho, so a apuracao do fato.",
+            "❔ status indef.",
+            "media",
+        ),
+        496: e(
+            "MP arquiva denuncia anonima sobre gestao de recursos publicos",
+            "A denuncia apontava suposta irregularidade na gestao de recursos publicos. O MP disse que nao havia provas nem justa causa e indeferiu a investigacao.",
+            "🟢 arquivado",
+            "media",
+        ),
+        498: e(
+            "MP arquiva apuracao sobre loteamento Vila do Sol",
+            "O caso tratava de eventual irregularidade na implementacao do Loteamento Vila do Sol, no bairro Ubatuba. O MP nao viu provas e indeferiu a instauracao.",
+            "🟢 arquivado",
+            "media",
+        ),
+        499: e(
+            "MP arquiva apuracao sobre prazo da Delegacia de Policia",
+            "O procedimento apurava falhas no servico prestado pela Delegacia de Policia da comarca, sobretudo atraso no atendimento de diligencias pedidas pelo Ministerio Publico. A conclusao foi de ausencia de irregularidades e perda do objeto.",
+            "🟢 arquivado",
+            "media",
+        ),
+        500: e(
+            "MP arquiva destino de computadores da Biblioteca Municipal",
+            "A apuracao era sobre a destinacao de computadores da Biblioteca Publica Municipal Augusto Jose Ribeiro. O MP concluiu por ausencia de provas e falta de justa causa.",
+            "🟢 arquivado",
+            "media",
+        ),
+        501: e(
+            "MP arquiva contratacao de bandas da Festilha",
+            "O procedimento questionava a contratacao de bandas para a 34ª Festilha e a observancia do edital. O MP disse que as limitacoes narradas nao correspondiam a realidade e arquivou o caso.",
+            "🟢 arquivado",
+            "media",
+        ),
+        504: e(
+            "MP converte apuracao sobre agua no Parque Acarai em inquerito",
+            "O procedimento trata de suposta irregularidade no fornecimento de agua para imoveis no interior da area do Parque Estadual do Acarai. O extrato registra a conversao do procedimento preparatorio em inquerito civil.",
+            "❔ status indef.",
+            "media",
+        ),
+        507: e(
+            "MP arquiva apuracao sobre agua da Águas de Sao Francisco do Sul",
+            "O inquerito apurou a qualidade da agua fornecida pela concessionaria. A irregularidade foi considerada solucionada e o MP promoveu arquivamento.",
+            "🟢 arquivado",
+            "media",
+        ),
+        508: e(
+            "MP arquiva gratuidade do transporte para idosos",
+            "O inquerito verificou possivel irregularidade na concessao de transporte gratuito a pessoas idosas. A situacao nao se confirmou e houve promocao de arquivamento.",
+            "🟢 arquivado",
+            "media",
+        ),
+        510: e(
+            "MP arquiva obra de esgoto na Enseada",
+            "O caso apurava o fechamento dos buracos e a recolocacao de pavers pela concessionaria apos a instalacao da tubulacao de esgoto na localidade da Enseada. O MP registrou que as irregularidades foram corrigidas e arquivou o feito.",
+            "🟢 arquivado",
+            "media",
+        ),
+        511: e(
+            "MP arquiva caso sobre atendimento a alunos com deficiencia",
+            "O inquerito tratava de possiveis irregularidades na EEB Professora Claurenice Vieira Caldeira, especialmente no ensino a alunos com deficiencia. As falhas foram regularizadas e o feito foi arquivado parcialmente.",
+            "🟢 arquivado",
+            "media",
+        ),
+        512: e(
+            "MP arquiva agua da Aldeia Reta",
+            "A apuracao verificava a qualidade da agua fornecida pela concessionaria a Aldeia Indigena Reta. Coletas, analises e inspecao sanitaria afastaram irregularidades e o MP pediu arquivamento.",
+            "🟢 arquivado",
+            "media",
+        ),
+        513: e(
+            "MP arquiva irregularidades na casa de acolhimento",
+            "O inquerito apurava irregularidades na Casa de Acolhimento Institucional Johanna Stammerjohan Fischer. O MP informou que tudo foi sanado e promoveu arquivamento.",
+            "🟢 arquivado",
+            "media",
+        ),
+        514: e(
+            "MP arquiva descarte de esgoto em hotel da orla",
+            "O procedimento tratava de descarte irregular de esgoto por hotel na orla maritima. A interligacao a rede publica foi comprovada e o MP arquivou o caso.",
+            "🟢 arquivado",
+            "media",
+        ),
+        515: e(
+            "MP arquiva supressao de vegetacao em restinga",
+            "O inquerito examinava responsabilidade civil por supressao de vegetacao em area de restinga. Como houve regeneracao natural e nao restou fundamento para acao civil publica, o caso foi arquivado.",
+            "🟢 arquivado",
+            "media",
+        ),
+        523: e(
+            "MP arquiva matricula de adolescente na rede estadual",
+            "O caso discutia a suposta negativa da Secretaria Estadual de Educacao em efetuar a matricula de adolescente em escola proxima da residencia. A situacao foi solucionada e o inquerito foi arquivado.",
+            "🟢 arquivado",
+            "media",
+        ),
+        525: e(
+            "MP arquiva denuncia sobre alimentos no CMEI Peixinho Dourado",
+            "A noticia de fato apurava a qualidade dos alimentos servidos no CMEI Peixinho Dourado. Os fatos foram solucionados apos intervencao e o caso foi arquivado.",
+            "🟢 arquivado",
+            "media",
+        ),
+        526: e(
+            "MP arquiva apuracao sobre servico escolar na escola Joao Dias",
+            "A representacao questionava a prestacao do servico educacional ofertado pela Escola Municipal Joao Dias. A Secretaria esclareceu os fatos e o MP arquivou o caso.",
+            "🟢 arquivado",
+            "media",
+        ),
+        527: e(
+            "MP arquiva escolha de diretores na rede municipal",
+            "O procedimento questionava a legalidade do processo de gestao democratica para escolha de diretores e coordenadores das escolas e CMEIs municipais. O MP recebeu esclarecimentos e arquivou o caso por falta de justa causa.",
+            "🟢 arquivado",
+            "media",
+        ),
+        528: e(
+            "MP arquiva falta de assistencia a menor com autismo",
+            "A noticia de fato apurava suposta falta de assistencia a menor com autismo e deficit mental grave. A situacao foi solucionada e o caso foi arquivado.",
+            "🟢 arquivado",
+            "media",
+        ),
+        529: e(
+            "MP apura risco a alunos da EEB Nicola Baptista",
+            "O inquerito foi instaurado para averiguar situacao de risco a que estariam expostos alunos da escola. O extrato esta truncado e nao informa o desfecho final.",
+            "❔ status indef.",
+            "media",
+        ),
+        532: e(
+            "MP arquiva aumento da tarifa de agua",
+            "O inquerito apurava possivel abuso no aumento da tarifa de agua praticada pela concessionaria. O MP informou que houve ingresso de acao judicial nas esferas civel e criminal e arquivou o feito.",
+            "🟢 arquivado",
+            "media",
+        ),
+        533: e(
+            "MP arquiva falta de agua na temporada",
+            "A apuracao tratava da falta recorrente de agua em epoca de veraneio. As melhorias implantadas reduziram os problemas e o caso caminhou para arquivamento.",
+            "🟢 arquivado",
+            "media",
+        ),
+        534: e(
+            "MP arquiva obras de esgoto no bairro Ubatuba",
+            "O inquerito tratava de obras inacabadas na instalacao do sistema de esgoto no bairro Ubatuba. A conclusao registrou a finalizacao das obras apos fiscalizacao da SAMAE e o arquivamento.",
+            "🟢 arquivado",
+            "media",
+        ),
+        536: e(
+            "MP arquiva falha em servicos e alimentacao no presidio",
+            "O caso apurava suposta falha na prestacao de servicos e alimentos na unidade prisional. Como houve regularizacao, o inquerito foi arquivado.",
+            "🟢 arquivado",
+            "media",
+        ),
+        537: e(
+            "MP arquiva risco a idoso por emprestimos consignados",
+            "O inquerito examinava a situacao de risco do idoso decorrente de emprestimos consignados supostamente irregulares. A conclusao foi de que a situacao de risco havia cessado.",
+            "🟢 arquivado",
+            "media",
+        ),
+        541: e(
+            "MP arquiva suposta omissao no cuidado de idosa",
+            "O procedimento apurava omissao de entidades no cuidado de idosa, envolvendo lar de idosos e hospital municipal. O MP nao verificou negligencia ou impericia e arquivou o caso.",
+            "🟢 arquivado",
+            "media",
+        ),
+        543: e(
+            "MP arquiva denuncia contra o porto por falta de provas",
+            "O caso trazia denuncia anonima contra a SCPAR Porto de Sao Francisco do Sul. O MP arquivou por ausencia de provas sobre os fatos narrados.",
+            "🟢 arquivado",
+            "media",
+        ),
+        544: e(
+            "MP arquiva ameaca e cita outros inqueritos",
+            "A noticia de fato tratava de suposta pratica de crime de ameaca por dois investigados. O MP indeferiu a investigacao, apontando a existencia de outros procedimentos sobre o mesmo fato.",
+            "🟢 arquivado",
+            "media",
+        ),
+        552: e(
+            "MP arquiva caso da entidade Nosso Lar",
+            "O inquerito verificava a regularidade da Instituicao de Longa Permanencia para idosos Entidade Nosso Lar. A entidade foi interditada, encerrou atividades e o MP arquivou por perda do objeto.",
+            "🟢 arquivado",
+            "media",
+        ),
+        555: e(
+            "MP apura conduta de policiais penais no presidio",
+            "A conclusao noticia a apuracao da conduta dos policiais penais Vinicius Antonio de Oliveira Scotton e Juliano em abordagem aos detentos. O extrato nao informa desfecho final.",
+            "❔ status indef.",
+            "media",
+        ),
+        558: e(
+            "MP arquiva ocupacao irregular no Parque do Acarai",
+            "O inquerito tratava de ocupacao imobiliaria irregular e invasao de area do Parque Estadual do Acarai. Como a situacao foi investigada de forma mais aprofundada em outro feito, o caso foi arquivado.",
+            "🟢 arquivado",
+            "media",
+        ),
+    },
+    8: {
+        561: e(
+            "MP arquiva desidia de delegado em Sao Francisco do Sul",
+            "O inquerito apurava eventual desidia do delegado Marcel Araujo de Oliveira na delegacia da comarca. O texto informa que os fatos ja haviam sido investigados e punidos pela Secretaria de Estado da Seguranca Publica.",
+            "🟢 arquivado",
+            "media",
+        ),
+        562: e(
+            "MP arquiva omissao no traslado de adolescentes",
+            "A noticia de fato apurava eventual omissao da Policia Civil no traslado de adolescentes privados de liberdade para a DPCAMI de Joinville. O MP concluiu pela ausencia de omissao e indeferiu a instauracao.",
+            "🟢 arquivado",
+            "media",
+        ),
+        563: e(
+            "MP arquiva acusacao falsa de atropelamento policial",
+            "A noticia de fato dizia haver suposto atropelamento policial para viabilizar uma prisao. O MP considerou os fatos inveridicos, registrou prisao regular e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        567: e(
+            "MP arquiva suposta violencia no presidio regional",
+            "A apuracao tratava de suposto incidente de violencia sofrido por recluso no Presidio Regional de Sao Francisco do Sul. O MP disse nao haver provas dos fatos e arquivou o caso.",
+            "🟢 arquivado",
+            "media",
+        ),
+        569: e(
+            "MP arquiva queixas contra a Celesc",
+            "O inquerito apurava ausencia de qualidade e retorno no atendimento prestado pela Celesc. A melhora foi comprovada durante o trâmite e o MP arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        574: e(
+            "MP arquiva risco a adolescente gestante",
+            "A noticia de fato buscava apurar a suposta situacao de risco enfrentada pela adolescente gestante. A rede de protecao foi considerada suficiente e o caso foi arquivado.",
+            "🟢 arquivado",
+            "media",
+        ),
+        581: e(
+            "MP arquiva vulnerabilidade de idosa institucionalizada",
+            "O caso tratava da necessidade de institucionalizacao de pessoa idosa em vaga publica. O MP considerou os fatos solucionados com intervencao ministerial e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        583: e(
+            "MP arquiva suposta agressao por policiais militares",
+            "A noticia de fato apurava agressao praticada por policiais militares do 27º BPM/SFS contra um homem durante diligencia. Testemunha negou a agressao e o MP indeferiu a investigacao.",
+            "🟢 arquivado",
+            "media",
+        ),
+        584: e(
+            "MP arquiva demora no agendamento de procedimento",
+            "A representacao apontava morosidade no agendamento de procedimento para a paciente. O MP informou que os fatos foram solucionados e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        585: e(
+            "MP arquiva consulta dermatologica sem lastro",
+            "O caso questionava a demora no agendamento de consulta com dermatologista para avaliar eventual cirurgia. O MP afirmou que nao havia lastro probatorio para prosseguir e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        586: e(
+            "MP arquiva risco a infante acompanhado pela rede de protecao",
+            "A noticia de fato buscava apurar eventual situacao de risco enfrentada pela infante. O MP concluiu pela inexistencia de risco e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        587: e(
+            "MP arquiva vulnerabilidade de pessoa com deficiencia",
+            "O caso investigava a suposta vulnerabilidade de uma pessoa com deficiencia. Os esclarecimentos apresentados afastaram a suspeita e o MP arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        588: {},
+        590: e(
+            "MP arquiva negativa de abrigo feminino",
+            "A representacao apurava suposta vulnerabilidade de Terezinha de Fatima Less e a alegada negativa do CREAS em fornecer abrigo feminino. O MP concluiu pela ausencia de risco e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        594: e(
+            "MP arquiva necessidade de internacao compulsoria",
+            "A noticia de fato examinava a necessidade de internacao compulsoria de pessoa representada por familiar. O MP concluiu que nao era o caso e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        595: e(
+            "MP arquiva suposto abuso sexual contra infante",
+            "A representacao buscava apurar as circunstancias de suposto abuso sexual ou estupro contra a infante. O caso foi indeferido e arquivado.",
+            "🟢 arquivado",
+            "media",
+        ),
+        596: e(
+            "MP arquiva morosidade em procedimento de tireoidectomia",
+            "A noticia de fato tratava de suposta morosidade no agendamento de tireoidectomia parcial para paciente adolescente. O caso foi arquivado.",
+            "🟢 arquivado",
+            "media",
+        ),
+        597: e(
+            "MP arquiva risco a adolescente",
+            "A representacao buscava apurar possivel situacao de risco enfrentada pela adolescente. O caso foi arquivado.",
+            "🟢 arquivado",
+            "media",
+        ),
+        598: e(
+            "MP arquiva risco a crianca pequena",
+            "A noticia de fato tratava de situacao de risco enfrentada por crianca nascida em 2021. O MP indeferiu e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        599: e(
+            "MP arquiva suposta negativa de atendimento hospitalar",
+            "A representacao apurava suposta negativa de atendimento medico hospitalar ao idoso. O MP indeferiu e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        600: e(
+            "MP arquiva pedido de internacao",
+            "O procedimento tinha objeto de internacao e foi indeferido. O MP arquivou o caso.",
+            "🟢 arquivado",
+            "media",
+        ),
+        602: e(
+            "MP arquiva negativa de curativo em hospital municipal",
+            "A noticia de fato apurava suposta negativa do Hospital e Maternidade Municipal Nossa Senhora da Graca em proceder curativo. O MP disse que nao havia justa causa e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        603: e(
+            "MP arquiva risco de pessoa com deficiencia",
+            "A representacao tratava da suposta situacao de risco enfrentada por pessoa com deficiencia. O MP arquivou o caso.",
+            "🟢 arquivado",
+            "media",
+        ),
+        604: e(
+            "MP arquiva demora no endocrinologista",
+            "A apuracao era sobre morosidade no agendamento de consulta com endocrinologista. O caso foi indeferido e arquivado.",
+            "🟢 arquivado",
+            "media",
+        ),
+        605: e(
+            "MP arquiva demora em cirurgia de quadril",
+            "A representacao apurava demora na fila para consulta e cirurgia de quadril. O MP concluiu que nao havia urgencia e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        606: e(
+            "MP arquiva cobranca na balsa Vila da Gloria",
+            "A denuncia dizia que pessoas acima de 65 anos estariam sendo cobradas na travessia da Balsa Vila da Gloria. O MP entendeu que nao havia ameaca ou lesao de direito e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        609: e(
+            "MP arquiva busca e apreensao sem objeto",
+            "A noticia de fato analisava a necessidade de requerer autorizacao judicial para busca e apreensao nas residencias de dois individuos com mandados de prisao ativos. Como ambos estavam presos, o objeto foi perdido.",
+            "🟢 arquivado",
+            "media",
+        ),
+        610: e(
+            "MP arquiva risco de infante acompanhado pela rede",
+            "O caso apurava eventual situacao de risco enfrentada por infante. A rede de protecao atuou de forma eficaz e o MP arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        611: e(
+            "MP arquiva denuncia de maus-tratos sem risco atual",
+            "A noticia de fato tratava de alegacoes de negligencia e maus-tratos. O MP concluiu que nao havia situacao de risco e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        612: e(
+            "MP arquiva risco por suposta violencia sexual",
+            "A apuracao examinava risco vivenciado por infante em contexto de suposta violencia sexual. Medidas protetivas foram efetivadas e o MP arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        613: e(
+            "MP arquiva relato de adolescente sobre padrasto",
+            "A noticia de fato foi instaurada para apurar relato de adolescente sobre conduta de padrasto. O caso foi arquivado.",
+            "🟢 arquivado",
+            "media",
+        ),
+        614: e(
+            "MP arquiva acolhimento de idosa em lar",
+            "A representacao tratava de situacao de risco de pessoa idosa e sua alocacao em lar de idosos. O MP concluiu pela ausencia de risco e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        615: e(
+            "MP arquiva vulnerabilidade de pessoa com deficiencia",
+            "A noticia de fato apurava possivel vulnerabilidade de pessoa com deficiencia. O MP afirmou que o encaminhamento para a rede de apoio social foi adequado e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        616: e(
+            "MP arquiva suposto abuso sexual com protecao efetivada",
+            "O procedimento tratava de suposto abuso sexual contra adolescente. Como as medidas protetivas e o acompanhamento social foram garantidos, o caso foi arquivado.",
+            "🟢 arquivado",
+            "media",
+        ),
+        618: {},
+        619: e(
+            "MP arquiva tarifa TCL de Sao Francisco do Sul",
+            "A noticia de fato tratava de consideracoes finais sobre a tarifa TCL no municipio. O caso foi arquivado.",
+            "🟢 arquivado",
+            "media",
+        ),
+        623: e(
+            "MP arquiva demora na fila para exame de idoso",
+            "A representacao apurava suposta demora na fila para a realizacao de procedimento a idoso. O MP entendeu que nao havia urgencia e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        624: e(
+            "MP arquiva demora na fila para procedimento",
+            "A noticia de fato tratava de suposta demora na fila para a realizacao de procedimento. O MP concluiu pela impossibilidade de furar a lista do SUS e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        626: e(
+            "MP arquiva arteriografia cerebral sem urgencia",
+            "A representacao buscava apurar a demora no agendamento de arteriografia cerebral. O MP concluiu que nao havia urgencia nem motivo para furar a fila e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        627: e(
+            "MP arquiva risco de infante sem situacao atual",
+            "A noticia de fato tratava de possivel situacao de risco vivenciada pela infante. O MP concluiu que nao havia situacao de risco e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+    },
+    9: {
+        1: e(
+            "TCE arquiva PAP sobre pregao dos playgrounds",
+            "O procedimento apurava supostas irregularidades no Pregao Eletronico 001/2023, que previa equipamentos recreativos para escolas. O tribunal reconheceu a perda do objeto apos retificacao do termo de referencia e determinou o arquivamento, sem analise de merito.",
+            "❔ não conhecido (sem análise)",
+            "media",
+        ),
+        7: e(
+            "TCE aponta irregularidade na compra de livros da Educacao",
+            "O tribunal considerou parcialmente procedente a representacao sobre a Inexigibilidade 037/2024, da Secretaria Municipal de Educacao. Houve irregularidade na falta de justificativas de preco e o edital foi anulado, sem aplicacao de multa no trecho trazido.",
+            "🔴 apontou irregularidade",
+            "media",
+        ),
+        18: e(
+            "TCE multa ex-prefeito por despesas nao empenhadas",
+            "O acórdão considerou irregulares despesas de 2019 que nao foram empenhadas na epoca propria e aplicou multas aos responsaveis. A responsabilizacao foi expressa e o caso ficou com sancoes pecuniarias.",
+            "⬛ julgado irregular + multa",
+            "alta",
+        ),
+        20: e(
+            "TCE barra edital da Orla da Enseada por falhas ambientais e de orcamento",
+            "O tribunal considerou parcialmente procedente a representacao e declarou ilegal a Concorrencia 169/2024. A Prefeitura foi obrigada a anular o edital por ausencia de licenca ambiental e por falhas no orcamento e no projeto basico.",
+            "🔴 apontou irregularidade",
+            "media",
+        ),
+        21: e(
+            "TCE multa prefeito por descumprir decisao sobre ACTs",
+            "O tribunal aplicou multa ao prefeito e ao secretario de Educacao pelo descumprimento de decisao anterior sobre contratacoes de ACTs. A deliberação ainda reiterou medidas para adequar as contratacoes e o plano de acoes da educacao.",
+            "⬛ julgado irregular + multa",
+            "alta",
+        ),
+        22: {},
+        24: e(
+            "TCE multa operador por habilitar empresa sem cumprir edital",
+            "A representacao sobre a Dispensa Eletronica 049/2024 foi considerada parcialmente procedente. O tribunal aplicou multas ao responsavel porque a empresa foi habilitada sem comprovar os requisitos do edital.",
+            "⬛ julgado irregular + multa",
+            "alta",
+        ),
+        26: e(
+            "TCE multa pregoeiro por falhas no pregão de locacao de banheiros quimicos",
+            "A representacao foi parcialmente procedente e o pregoeiro recebeu multa. O tribunal entendeu que houve descumprimento do edital no Pregao Eletronico 101/2023 e manteve a responsabilizacao pecuniaria.",
+            "⬛ julgado irregular + multa",
+            "alta",
+        ),
+        27: e(
+            "TCE nao conhece PAP sobre sinalizacao nautica",
+            "O Procedimento Apuratorio Preliminar nao passou na seletividade e nao virou representacao. O tribunal arquivou o feito sem analise de merito.",
+            "❔ não conhecido (sem análise)",
+            "media",
+        ),
+        28: e(
+            "TCE nao conhece denuncia sobre concurso publico",
+            "A denuncia sobre o Concurso Publico 001/2023 nao alcançou a pontuacao minima de seletividade. O tribunal determinou o arquivamento sem exame de merito.",
+            "❔ não conhecido (sem análise)",
+            "media",
+        ),
+        29: e(
+            "TCE nao conhece representacao sobre o Plano Diretor",
+            "A representacao sobre a revisao do Plano Diretor foi rejeitada por falta de indicios minimos de prova. O tribunal arquivou o processo sem julgar o merito.",
+            "❔ não conhecido (sem análise)",
+            "media",
+        ),
+        30: e(
+            "TCE declara irregular gratificacao paga a servidores da educacao",
+            "O tribunal considerou irregular o pagamento de gratificacao de regencia de classe aos servidores designados para o GIEPPE. A Prefeitura foi obrigada a se abster de repetir a pratica e o processo foi arquivado depois da decisao.",
+            "⬛ julgado irregular",
+            "media",
+        ),
+        32: e(
+            "TCE leva obra da Orla da Enseada a audiencia",
+            "A representacao sobre a Concorrencia Eletronica 169/2023 apontou possiveis irregularidades na obra de revitalizacao da Orla da Enseada. O relator determinou audiencia dos responsaveis e diligencias, sem julgamento final ainda.",
+            "🟡 em instrução (citação/audiência)",
+            "media",
+        ),
+        33: e(
+            "TCE nao conhece denuncia sobre concurso publico",
+            "A denuncia sobre o Concurso Publico 001/2023 nao atendeu aos pressupostos de admissibilidade. O tribunal arquivou os autos sem analise de merito.",
+            "❔ não conhecido (sem análise)",
+            "media",
+        ),
+        35: e(
+            "TCE remete apuracao de convenio da educacao ao TCU",
+            "A tomada de contas especial sobre recursos do FNDE apontou que a materia seria da competencia do TCU. O texto traz proposta de remessa e arquivamento, ainda sem desfecho de merito aqui.",
+            "❔ em tramitação",
+            "media",
+        ),
+        36: e(
+            "TCE admite TCE e cita responsaveis por suposto desvio em contratos",
+            "O tribunal admitiu a Tomada de Contas Especial 006/2023 e determinou citacao dos responsaveis para defesa. A apuracao segue em instrucao, com indicios de debito e multa ainda sem julgamento final.",
+            "🟡 em instrução (citação/audiência)",
+            "media",
+        ),
+        37: e(
+            "TCE aponta irregularidade em pregao do transporte escolar",
+            "A representacao sobre o Pregao Presencial 029/2020 foi parcialmente procedente. O tribunal indicou inabilitacao indevida de licitantes e recomendou correcao da conduta pela Prefeitura.",
+            "🔴 apontou irregularidade",
+            "media",
+        ),
+        38: e(
+            "TCE da parecer pela aprovacao das contas de 2021",
+            "O processo de prestacao de contas do prefeito referente a 2021 recebeu parecer pela aprovacao. A leitura disponivel nao aponta sancao nem rejeicao.",
+            "🟢 parecer pela aprovação",
+            "media",
+        ),
+        43: e(
+            "TCE considera irregular falta de regras para escolha de diretores",
+            "A inspeção sobre as metas 17 e 18 do plano municipal de educacao concluiu pela irregularidade da ausencia de criterios para a participacao da comunidade escolar na escolha de diretores. O tribunal determinou a edicao de legislacao especifica.",
+            "⬛ julgado irregular",
+            "media",
+        ),
+        44: e(
+            "TCE nao conhece PAP sobre transparencia em licitacao",
+            "O procedimento nao atingiu a pontuacao minima de seletividade e foi arquivado. O tribunal ainda recomendou maior transparência no portal do municipio, mas sem analise de merito.",
+            "❔ não conhecido (sem análise)",
+            "media",
+        ),
+        45: e(
+            "TCE aponta irregularidade em pregão da merenda escolar",
+            "A representacao sobre a contratacao de empresa especializada em alimentacao escolar foi conhecida e teve audiencia dos responsaveis. O relator apontou falhas nas exigencias nutricionais e na disciplina do edital.",
+            "🟡 em instrução (citação/audiência)",
+            "media",
+        ),
+    },
+}
+
+for lot, src in inputs.items():
+    with src.open('r', encoding='utf-8') as f:
+        data = json.load(f)
+    out = []
+    for case in data['casos']:
+        entry = curated.get(lot, {}).get(case['i'])
+        if entry:
+            out.append({
+                'i': case['i'],
+                'tipo': case['tipo'],
+                'keep': True,
+                'title': entry['title'],
+                'description': entry['description'],
+                'status': entry['status'],
+                'severity': entry['severity'],
+            })
+        else:
+            out.append({
+                'i': case['i'],
+                'tipo': case['tipo'],
+                'keep': False,
+                'title': '',
+                'description': '',
+                'status': '',
+                'severity': '',
+            })
+    out_path = outputs[lot]
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    with out_path.open('w', encoding='utf-8') as f:
+        json.dump(out, f, ensure_ascii=False, indent=1)
+        f.write('\n')
+    print(lot, len(out), sum(1 for x in out if x['keep']), sum(1 for x in out if x['severity']=='alta'))
+PY
+zsh:1: command not found: python
+[0m
+O ambiente não tem `python`, então vou repetir com `python3` e validar a escrita dos três arquivos na saída curada.
+[0m$ [0mpython3 - <<'PY'
+import json
+from pathlib import Path
+
+base = Path('/Users/jairofortunato/mp/pdf_template/amunesc')
+inputs = {
+    7: base / '_lotes' / 'sao_francisco_do_sul__7.json',
+    8: base / '_lotes' / 'sao_francisco_do_sul__8.json',
+    9: base / '_lotes' / 'sao_francisco_do_sul__9.json',
+}
+outputs = {
+    7: base / '_lotes_curados' / 'sao_francisco_do_sul__7.json',
+    8: base / '_lotes_curados' / 'sao_francisco_do_sul__8.json',
+    9: base / '_lotes_curados' / 'sao_francisco_do_sul__9.json',
+}
+
+
+def e(title, description, status, severity):
+    return {"title": title, "description": description, "status": status, "severity": severity}
+
+curated = {
+    7: {
+        493: e(
+            "MP apura multas indevidas aplicadas a caminhões",
+            "A noticia de fato mira a conduta dos policiais militares Jocenir e Dolla, do 24º BPMRv, por suposta aplicação indevida de multas aos caminhões das empresas Adrimar e Becker. O extrato nao traz desfecho, so a apuracao do fato.",
+            "❔ status indef.",
+            "media",
+        ),
+        496: e(
+            "MP arquiva denuncia anonima sobre gestao de recursos publicos",
+            "A denuncia apontava suposta irregularidade na gestao de recursos publicos. O MP disse que nao havia provas nem justa causa e indeferiu a investigacao.",
+            "🟢 arquivado",
+            "media",
+        ),
+        498: e(
+            "MP arquiva apuracao sobre loteamento Vila do Sol",
+            "O caso tratava de eventual irregularidade na implementacao do Loteamento Vila do Sol, no bairro Ubatuba. O MP nao viu provas e indeferiu a instauracao.",
+            "🟢 arquivado",
+            "media",
+        ),
+        499: e(
+            "MP arquiva apuracao sobre prazo da Delegacia de Policia",
+            "O procedimento apurava falhas no servico prestado pela Delegacia de Policia da comarca, sobretudo atraso no atendimento de diligencias pedidas pelo Ministerio Publico. A conclusao foi de ausencia de irregularidades e perda do objeto.",
+            "🟢 arquivado",
+            "media",
+        ),
+        500: e(
+            "MP arquiva destino de computadores da Biblioteca Municipal",
+            "A apuracao era sobre a destinacao de computadores da Biblioteca Publica Municipal Augusto Jose Ribeiro. O MP concluiu por ausencia de provas e falta de justa causa.",
+            "🟢 arquivado",
+            "media",
+        ),
+        501: e(
+            "MP arquiva contratacao de bandas da Festilha",
+            "O procedimento questionava a contratacao de bandas para a 34ª Festilha e a observancia do edital. O MP disse que as limitacoes narradas nao correspondiam a realidade e arquivou o caso.",
+            "🟢 arquivado",
+            "media",
+        ),
+        504: e(
+            "MP converte apuracao sobre agua no Parque Acarai em inquerito",
+            "O procedimento trata de suposta irregularidade no fornecimento de agua para imoveis no interior da area do Parque Estadual do Acarai. O extrato registra a conversao do procedimento preparatorio em inquerito civil.",
+            "❔ status indef.",
+            "media",
+        ),
+        507: e(
+            "MP arquiva apuracao sobre água da Águas de Sao Francisco do Sul",
+            "O inquerito apurou a qualidade da agua fornecida pela concessionaria. A irregularidade foi considerada solucionada e o MP promoveu arquivamento.",
+            "🟢 arquivado",
+            "media",
+        ),
+        508: e(
+            "MP arquiva gratuidade do transporte para idosos",
+            "O inquerito verificou possivel irregularidade na concessao de transporte gratuito a pessoas idosas. A situacao nao se confirmou e houve promocao de arquivamento.",
+            "🟢 arquivado",
+            "media",
+        ),
+        510: e(
+            "MP arquiva obra de esgoto na Enseada",
+            "O procedimento apurava o fechamento dos buracos e a recolocacao de pavers pela concessionaria apos a instalacao da tubulacao de esgoto na localidade da Enseada. O MP registrou que as irregularidades foram corrigidas e arquivou o feito.",
+            "🟢 arquivado",
+            "media",
+        ),
+        511: e(
+            "MP arquiva caso sobre atendimento a alunos com deficiencia",
+            "O inquerito tratava de possiveis irregularidades na EEB Professora Claurenice Vieira Caldeira, especialmente no ensino a alunos com deficiencia. As falhas foram regularizadas e o feito foi arquivado parcialmente.",
+            "🟢 arquivado",
+            "media",
+        ),
+        512: e(
+            "MP arquiva agua da Aldeia Reta",
+            "A apuracao verificava a qualidade da agua fornecida pela concessionaria a Aldeia Indigena Reta. Coletas, analises e inspecao sanitaria afastaram irregularidades e o MP pediu arquivamento.",
+            "🟢 arquivado",
+            "media",
+        ),
+        513: e(
+            "MP arquiva irregularidades na casa de acolhimento",
+            "O inquerito apurava irregularidades na Casa de Acolhimento Institucional Johanna Stammerjohan Fischer. O MP informou que tudo foi sanado e promoveu arquivamento.",
+            "🟢 arquivado",
+            "media",
+        ),
+        514: e(
+            "MP arquiva descarte de esgoto em hotel da orla",
+            "O procedimento tratava de descarte irregular de esgoto por hotel na orla maritima. A interligacao a rede publica foi comprovada e o MP arquivou o caso.",
+            "🟢 arquivado",
+            "media",
+        ),
+        515: e(
+            "MP arquiva supressao de vegetacao em restinga",
+            "O inquerito examinava responsabilidade civil por supressao de vegetacao em area de restinga. Como houve regeneracao natural e nao restou fundamento para acao civil publica, o caso foi arquivado.",
+            "🟢 arquivado",
+            "media",
+        ),
+        523: e(
+            "MP arquiva matricula de adolescente na rede estadual",
+            "O caso discutia a suposta negativa da Secretaria Estadual de Educacao em efetuar a matricula de adolescente em escola proxima da residencia. A situacao foi solucionada e o inquerito foi arquivado.",
+            "🟢 arquivado",
+            "media",
+        ),
+        525: e(
+            "MP arquiva denuncia sobre alimentos no CMEI Peixinho Dourado",
+            "A noticia de fato apurava a qualidade dos alimentos servidos no CMEI Peixinho Dourado. Os fatos foram solucionados apos intervencao e o caso foi arquivado.",
+            "🟢 arquivado",
+            "media",
+        ),
+        526: e(
+            "MP arquiva apuracao sobre servico escolar na escola Joao Dias",
+            "A representacao questionava a prestacao do servico educacional ofertado pela Escola Municipal Joao Dias. A Secretaria esclareceu os fatos e o MP arquivou o caso.",
+            "🟢 arquivado",
+            "media",
+        ),
+        527: e(
+            "MP arquiva escolha de diretores na rede municipal",
+            "O procedimento questionava a legalidade do processo de gestao democratica para escolha de diretores e coordenadores das escolas e CMEIs municipais. O MP recebeu esclarecimentos e arquivou o caso por falta de justa causa.",
+            "🟢 arquivado",
+            "media",
+        ),
+        528: e(
+            "MP arquiva falta de assistencia a menor com autismo",
+            "A noticia de fato apurava suposta falta de assistencia a menor com autismo e deficit mental grave. A situacao foi solucionada e o caso foi arquivado.",
+            "🟢 arquivado",
+            "media",
+        ),
+        529: e(
+            "MP apura risco a alunos da EEB Nicola Baptista",
+            "O inquerito foi instaurado para averiguar situacao de risco a que estariam expostos alunos da escola. O extrato esta truncado e nao informa o desfecho final.",
+            "❔ status indef.",
+            "media",
+        ),
+        532: e(
+            "MP arquiva aumento da tarifa de agua",
+            "O inquerito apurava possivel abuso no aumento da tarifa de agua praticada pela concessionaria. O MP informou que houve ingresso de acao judicial nas esferas civel e criminal e arquivou o feito.",
+            "🟢 arquivado",
+            "media",
+        ),
+        533: e(
+            "MP arquiva falta de agua na temporada",
+            "A apuracao tratava da falta recorrente de agua em epoca de veraneio. As melhorias implantadas reduziram os problemas e o caso caminhou para arquivamento.",
+            "🟢 arquivado",
+            "media",
+        ),
+        534: e(
+            "MP arquiva obras de esgoto no bairro Ubatuba",
+            "O inquerito tratava de obras inacabadas na instalacao do sistema de esgoto no bairro Ubatuba. A conclusao registrou a finalizacao das obras apos fiscalizacao da SAMAE e o arquivamento.",
+            "🟢 arquivado",
+            "media",
+        ),
+        536: e(
+            "MP arquiva falha em servicos e alimentacao no presidio",
+            "O caso apurava suposta falha na prestacao de servicos e alimentos na unidade prisional. Como houve regularizacao, o inquerito foi arquivado.",
+            "🟢 arquivado",
+            "media",
+        ),
+        537: e(
+            "MP arquiva risco a idoso por emprestimos consignados",
+            "O inquerito examinava a situacao de risco do idoso decorrente de emprestimos consignados supostamente irregulares. A conclusao foi de que a situacao de risco havia cessado.",
+            "🟢 arquivado",
+            "media",
+        ),
+        541: e(
+            "MP arquiva suposta omissao no cuidado de idosa",
+            "O procedimento apurava omissao de entidades no cuidado de idosa, envolvendo lar de idosos e hospital municipal. O MP nao verificou negligencia ou impericia e arquivou o caso.",
+            "🟢 arquivado",
+            "media",
+        ),
+        543: e(
+            "MP arquiva denuncia contra o porto por falta de provas",
+            "O caso trazia denuncia anonima contra a SCPAR Porto de Sao Francisco do Sul. O MP arquivou por ausencia de provas sobre os fatos narrados.",
+            "🟢 arquivado",
+            "media",
+        ),
+        544: e(
+            "MP arquiva ameaca e cita outros inqueritos",
+            "A noticia de fato tratava de suposta pratica de crime de ameaca por dois investigados. O MP indeferiu a investigacao, apontando a existencia de outros procedimentos sobre o mesmo fato.",
+            "🟢 arquivado",
+            "media",
+        ),
+        552: e(
+            "MP arquiva caso da entidade Nosso Lar",
+            "O inquerito verificava a regularidade da Instituicao de Longa Permanencia para idosos Entidade Nosso Lar. A entidade foi interditada, encerrou atividades e o MP arquivou por perda do objeto.",
+            "🟢 arquivado",
+            "media",
+        ),
+        555: e(
+            "MP apura conduta de policiais penais no presidio",
+            "A conclusao noticia a apuracao da conduta dos policiais penais Vinicius Antonio de Oliveira Scotton e Juliano em abordagem aos detentos. O extrato nao informa desfecho final.",
+            "❔ status indef.",
+            "media",
+        ),
+        558: e(
+            "MP arquiva ocupacao irregular no Parque do Acarai",
+            "O inquerito tratava de ocupacao imobiliaria irregular e invasao de area do Parque Estadual do Acarai. Como a situacao foi investigada de forma mais aprofundada em outro feito, o caso foi arquivado.",
+            "🟢 arquivado",
+            "media",
+        ),
+    },
+    8: {
+        561: e(
+            "MP arquiva desidia de delegado em Sao Francisco do Sul",
+            "O inquerito apurava eventual desidia do delegado Marcel Araujo de Oliveira na delegacia da comarca. O texto informa que os fatos ja haviam sido investigados e punidos pela Secretaria de Estado da Seguranca Publica.",
+            "🟢 arquivado",
+            "media",
+        ),
+        562: e(
+            "MP arquiva omissao no traslado de adolescentes",
+            "A noticia de fato apurava eventual omissao da Policia Civil no traslado de adolescentes privados de liberdade para a DPCAMI de Joinville. O MP concluiu pela ausencia de omissao e indeferiu a instauracao.",
+            "🟢 arquivado",
+            "media",
+        ),
+        563: e(
+            "MP arquiva acusacao falsa de atropelamento policial",
+            "A noticia de fato dizia haver suposto atropelamento policial para viabilizar uma prisao. O MP considerou os fatos inveridicos, registrou prisao regular e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        567: e(
+            "MP arquiva suposta violencia no presidio regional",
+            "A apuracao tratava de suposto incidente de violencia sofrido por recluso no Presidio Regional de Sao Francisco do Sul. O MP disse nao haver provas dos fatos e arquivou o caso.",
+            "🟢 arquivado",
+            "media",
+        ),
+        569: e(
+            "MP arquiva queixas contra a Celesc",
+            "O inquerito apurava ausencia de qualidade e retorno no atendimento prestado pela Celesc. A melhora foi comprovada durante o trâmite e o MP arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        574: e(
+            "MP arquiva risco a adolescente gestante",
+            "A noticia de fato buscava apurar a suposta situacao de risco enfrentada pela adolescente gestante. A rede de protecao foi considerada suficiente e o caso foi arquivado.",
+            "🟢 arquivado",
+            "media",
+        ),
+        581: e(
+            "MP arquiva vulnerabilidade de idosa institucionalizada",
+            "O caso tratava da necessidade de institucionalizacao de pessoa idosa em vaga publica. O MP considerou os fatos solucionados com intervencao ministerial e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        583: e(
+            "MP arquiva suposta agressao por policiais militares",
+            "A noticia de fato apurava agressao praticada por policiais militares do 27º BPM/SFS contra um homem durante diligencia. Testemunha negou a agressao e o MP indeferiu a investigacao.",
+            "🟢 arquivado",
+            "media",
+        ),
+        584: e(
+            "MP arquiva demora no agendamento de procedimento",
+            "A representacao apontava morosidade no agendamento de procedimento para a paciente. O MP informou que os fatos foram solucionados e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        585: e(
+            "MP arquiva consulta dermatologica sem lastro",
+            "O caso questionava a demora no agendamento de consulta com dermatologista para avaliar eventual cirurgia. O MP afirmou que nao havia lastro probatorio para prosseguir e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        586: e(
+            "MP arquiva risco a infante acompanhado pela rede de protecao",
+            "A noticia de fato buscava apurar eventual situacao de risco enfrentada pela infante. O MP concluiu pela inexistencia de risco e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        587: e(
+            "MP arquiva vulnerabilidade de pessoa com deficiencia",
+            "A noticia de fato apurava a suposta vulnerabilidade de uma pessoa com deficiencia. Os esclarecimentos apresentados afastaram a suspeita e o MP arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        590: e(
+            "MP arquiva negativa de abrigo feminino",
+            "A representacao apurava suposta vulnerabilidade de Terezinha de Fatima Less e a alegada negativa do CREAS em fornecer abrigo feminino. O MP concluiu pela ausencia de risco e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        594: e(
+            "MP arquiva necessidade de internacao compulsoria",
+            "A noticia de fato examinava a necessidade de internacao compulsoria de pessoa representada por familiar. O MP concluiu que nao era o caso e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        595: e(
+            "MP arquiva suposto abuso sexual contra infante",
+            "A representacao buscava apurar as circunstancias de suposto abuso sexual ou estupro contra a infante. O caso foi indeferido e arquivado.",
+            "🟢 arquivado",
+            "media",
+        ),
+        596: e(
+            "MP arquiva morosidade em procedimento de tireoidectomia",
+            "A noticia de fato tratava de suposta morosidade no agendamento de tireoidectomia parcial para paciente adolescente. O caso foi arquivado.",
+            "🟢 arquivado",
+            "media",
+        ),
+        597: e(
+            "MP arquiva risco a adolescente",
+            "A representacao buscava apurar possivel situacao de risco enfrentada pela adolescente. O caso foi arquivado.",
+            "🟢 arquivado",
+            "media",
+        ),
+        598: e(
+            "MP arquiva risco a crianca pequena",
+            "A noticia de fato tratava de situacao de risco enfrentada por crianca nascida em 2021. O MP indeferiu e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        599: e(
+            "MP arquiva suposta negativa de atendimento hospitalar",
+            "A representacao apurava suposta negativa de atendimento medico hospitalar ao idoso. O MP indeferiu e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        600: e(
+            "MP arquiva pedido de internacao",
+            "O procedimento tinha objeto de internacao e foi indeferido. O MP arquivou o caso.",
+            "🟢 arquivado",
+            "media",
+        ),
+        602: e(
+            "MP arquiva negativa de curativo em hospital municipal",
+            "A noticia de fato apurava suposta negativa do Hospital e Maternidade Municipal Nossa Senhora da Graca em proceder curativo. O MP disse que nao havia justa causa e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        603: e(
+            "MP arquiva risco de pessoa com deficiencia",
+            "A representacao tratava da suposta situacao de risco enfrentada por pessoa com deficiencia. O MP arquivou o caso.",
+            "🟢 arquivado",
+            "media",
+        ),
+        604: e(
+            "MP arquiva demora no endocrinologista",
+            "A apuracao era sobre morosidade no agendamento de consulta com endocrinologista. O caso foi indeferido e arquivado.",
+            "🟢 arquivado",
+            "media",
+        ),
+        605: e(
+            "MP arquiva demora em cirurgia de quadril",
+            "A representacao apurava demora na fila para consulta e cirurgia de quadril. O MP concluiu que nao havia urgencia e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        606: e(
+            "MP arquiva cobranca na balsa Vila da Gloria",
+            "A denuncia dizia que pessoas acima de 65 anos estariam sendo cobradas na travessia da Balsa Vila da Gloria. O MP entendeu que nao havia ameaca ou lesao de direito e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        609: e(
+            "MP arquiva busca e apreensao sem objeto",
+            "A noticia de fato analisava a necessidade de requerer autorizacao judicial para busca e apreensao nas residencias de dois individuos com mandados de prisao ativos. Como ambos estavam presos, o objeto foi perdido.",
+            "🟢 arquivado",
+            "media",
+        ),
+        610: e(
+            "MP arquiva risco de infante acompanhado pela rede",
+            "O caso apurava eventual situacao de risco enfrentada por infante. A rede de protecao atuou de forma eficaz e o MP arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        611: e(
+            "MP arquiva denuncia de maus-tratos sem risco atual",
+            "A noticia de fato tratava de alegacoes de negligencia e maus-tratos. O MP concluiu que nao havia situacao de risco e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        612: e(
+            "MP arquiva risco por suposta violencia sexual",
+            "A apuracao examinava risco vivenciado por infante em contexto de suposta violencia sexual. Medidas protetivas foram efetivadas e o MP arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        613: e(
+            "MP arquiva relato de adolescente sobre padrasto",
+            "A noticia de fato foi instaurada para apurar relato de adolescente sobre conduta de padrasto. O caso foi arquivado.",
+            "🟢 arquivado",
+            "media",
+        ),
+        614: e(
+            "MP arquiva acolhimento de idosa em lar",
+            "A representacao tratava de situacao de risco de pessoa idosa e sua alocacao em lar de idosos. O MP concluiu pela ausencia de risco e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        615: e(
+            "MP arquiva vulnerabilidade de pessoa com deficiencia",
+            "A noticia de fato apurava possivel vulnerabilidade de pessoa com deficiencia. O MP afirmou que o encaminhamento para a rede de apoio social foi adequado e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        616: e(
+            "MP arquiva suposto abuso sexual com protecao efetivada",
+            "O procedimento tratava de suposto abuso sexual contra adolescente. Como as medidas protetivas e o acompanhamento social foram garantidos, o caso foi arquivado.",
+            "🟢 arquivado",
+            "media",
+        ),
+        619: e(
+            "MP arquiva tarifa TCL de Sao Francisco do Sul",
+            "A noticia de fato tratava de consideracoes finais sobre a tarifa TCL no municipio. O caso foi arquivado.",
+            "🟢 arquivado",
+            "media",
+        ),
+        623: e(
+            "MP arquiva demora na fila para exame de idoso",
+            "A representacao apurava suposta demora na fila para a realizacao de procedimento a idoso. O MP entendeu que nao havia urgencia e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        624: e(
+            "MP arquiva demora na fila para procedimento",
+            "A noticia de fato tratava de suposta demora na fila para a realizacao de procedimento. O MP concluiu pela impossibilidade de furar a lista do SUS e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        626: e(
+            "MP arquiva arteriografia cerebral sem urgencia",
+            "A representacao buscava apurar a demora no agendamento de arteriografia cerebral. O MP concluiu que nao havia urgencia nem motivo para furar a fila e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+        627: e(
+            "MP arquiva risco de infante sem situacao atual",
+            "A noticia de fato tratava de possivel situacao de risco vivenciada pela infante. O MP concluiu que nao havia situacao de risco e arquivou.",
+            "🟢 arquivado",
+            "media",
+        ),
+    },
+    9: {
+        1: e(
+            "TCE arquiva PAP sobre pregao dos playgrounds",
+            "O procedimento apurava supostas irregularidades no Pregao Eletronico 001/2023, que previa equipamentos recreativos para escolas. O tribunal reconheceu a perda do objeto apos retificacao do termo de referencia e determinou o arquivamento, sem analise de merito.",
+            "❔ não conhecido (sem análise)",
+            "media",
+        ),
+        7: e(
+            "TCE aponta irregularidade na compra de livros da Educacao",
+            "O tribunal considerou parcialmente procedente a representacao sobre a Inexigibilidade 037/2024, da Secretaria Municipal de Educacao. Houve irregularidade na falta de justificativas de preco e o edital foi anulado, sem aplicacao de multa no trecho trazido.",
+            "🔴 apontou irregularidade",
+            "media",
+        ),
+        18: e(
+            "TCE multa ex-prefeito por despesas nao empenhadas",
+            "O acórdão considerou irregulares despesas de 2019 que nao foram empenhadas na epoca propria e aplicou multas aos responsaveis. A responsabilizacao foi expressa e o caso ficou com sancoes pecuniarias.",
+            "⬛ julgado irregular + multa",
+            "alta",
+        ),
+        20: e(
+            "TCE barra edital da Orla da Enseada por falhas ambientais e de orcamento",
+            "O tribunal considerou parcialmente procedente a representacao e declarou ilegal a Concorrencia 169/2024. A Prefeitura foi obrigada a anular o edital por ausencia de licenca ambiental e por falhas no orcamento e no projeto basico.",
+            "🔴 apontou irregularidade",
+            "media",
+        ),
+        21: e(
+            "TCE multa prefeito por descumprir decisao sobre ACTs",
+            "O tribunal aplicou multa ao prefeito e ao secretario de Educacao pelo descumprimento de decisao anterior sobre contratacoes de ACTs. A deliberacao ainda reiterou medidas para adequar as contratacoes e o plano de acoes da educacao.",
+            "⬛ julgado irregular + multa",
+            "alta",
+        ),
+        24: e(
+            "TCE multa operador por habilitar empresa sem cumprir edital",
+            "A representacao sobre a Dispensa Eletronica 049/2024 foi considerada parcialmente procedente. O tribunal aplicou multas ao responsavel porque a empresa foi habilitada sem comprovar os requisitos do edital.",
+            "⬛ julgado irregular + multa",
+            "alta",
+        ),
+        26: e(
+            "TCE multa pregoeiro por falhas no pregão de locacao de banheiros quimicos",
+            "A representacao foi parcialmente procedente e o pregoeiro recebeu multa. O tribunal entendeu que houve descumprimento do edital no Pregao Eletronico 101/2023 e manteve a responsabilizacao pecuniaria.",
+            "⬛ julgado irregular + multa",
+            "alta",
+        ),
+        27: e(
+            "TCE nao conhece PAP sobre sinalizacao nautica",
+            "O Procedimento Apuratorio Preliminar nao passou na seletividade e nao virou representacao. O tribunal arquivou o feito sem analise de merito.",
+            "❔ não conhecido (sem análise)",
+            "media",
+        ),
+        28: e(
+            "TCE nao conhece denuncia sobre concurso publico",
+            "A denuncia sobre o Concurso Publico 001/2023 nao alcançou a pontuacao minima de seletividade. O tribunal determinou o arquivamento sem exame de merito.",
+            "❔ não conhecido (sem análise)",
+            "media",
+        ),
+        29: e(
+            "TCE nao conhece representacao sobre o Plano Diretor",
+            "A representacao sobre a revisao do Plano Diretor foi rejeitada por falta de indicios minimos de prova. O tribunal arquivou o processo sem julgar o merito.",
+            "❔ não conhecido (sem análise)",
+            "media",
+        ),
+        30: e(
+            "TCE declara irregular gratificacao paga a servidores da educacao",
+            "O tribunal considerou irregular o pagamento de gratificacao de regencia de classe aos servidores designados para o GIEPPE. A Prefeitura foi obrigada a se abster de repetir a pratica e o processo foi arquivado depois da decisao.",
+            "⬛ julgado irregular",
+            "media",
+        ),
+        32: e(
+            "TCE leva obra da Orla da Enseada a audiencia",
+            "A representacao sobre a Concorrencia Eletronica 169/2023 apontou possiveis irregularidades na obra de revitalizacao da Orla da Enseada. O relator determinou audiencia dos responsaveis e diligencias, sem julgamento final ainda.",
+            "🟡 em instrução (citação/audiência)",
+            "media",
+        ),
+        33: e(
+            "TCE nao conhece denuncia sobre concurso publico",
+            "A denuncia sobre o Concurso Publico 001/2023 nao atendeu aos pressupostos de admissibilidade. O tribunal arquivou os autos sem analise de merito.",
+            "❔ não conhecido (sem análise)",
+            "media",
+        ),
+        35: e(
+            "TCE remete apuracao de convenio da educacao ao TCU",
+            "A tomada de contas especial sobre recursos do FNDE apontou que a materia seria da competencia do TCU. O texto traz proposta de remessa e arquivamento, ainda sem desfecho de merito aqui.",
+            "❔ em tramitação",
+            "media",
+        ),
+        36: e(
+            "TCE admite TCE e cita responsaveis por suposto desvio em contratos",
+            "O tribunal admitiu a Tomada de Contas Especial 006/2023 e determinou citacao dos responsaveis para defesa. A apuracao segue em instrucao, com indicios de debito e multa ainda sem julgamento final.",
+            "🟡 em instrução (citação/audiência)",
+            "media",
+        ),
+        37: e(
+            "TCE aponta irregularidade em pregao do transporte escolar",
+            "A representacao sobre o Pregao Presencial 029/2020 foi parcialmente procedente. O tribunal indicou inabilitacao indevida de licitantes e recomendou correcao da conduta pela Prefeitura.",
+            "🔴 apontou irregularidade",
+            "media",
+        ),
+        38: e(
+            "TCE da parecer pela aprovacao das contas de 2021",
+            "O processo de prestacao de contas do prefeito referente a 2021 recebeu parecer pela aprovacao. A leitura disponivel nao aponta sancao nem rejeicao.",
+            "🟢 parecer pela aprovação",
+            "media",
+        ),
+        43: e(
+            "TCE considera irregular falta de regras para escolha de diretores",
+            "A inspeção sobre as metas 17 e 18 do plano municipal de educacao concluiu pela irregularidade da ausencia de criterios para a participacao da comunidade escolar na escolha de diretores. O tribunal determinou a edicao de legislacao especifica.",
+            "⬛ julgado irregular",
+            "media",
+        ),
+        44: e(
+            "TCE nao conhece PAP sobre transparencia em licitacao",
+            "O procedimento nao atingiu a pontuacao minima de seletividade e foi arquivado. O tribunal ainda recomendou maior transparencia no portal do municipio, mas sem analise de merito.",
+            "❔ não conhecido (sem análise)",
+            "media",
+        ),
+        45: e(
+            "TCE aponta irregularidade em pregão da merenda escolar",
+            "A representacao sobre a contratacao de empresa especializada em alimentacao escolar foi conhecida e teve audiencia dos responsaveis. O relator apontou falhas nas exigencias nutricionais e na disciplina do edital.",
+            "🟡 em instrução (citação/audiência)",
+            "media",
+        ),
+    },
+}
+
+for lot, src in inputs.items():
+    with src.open('r', encoding='utf-8') as f:
+        data = json.load(f)
+    out = []
+    for case in data['casos']:
+        entry = curated.get(lot, {}).get(case['i'])
+        if entry:
+            out.append({
+                'i': case['i'],
+                'tipo': case['tipo'],
+                'keep': True,
+                'title': entry['title'],
+                'description': entry['description'],
+                'status': entry['status'],
+                'severity': entry['severity'],
+            })
+        else:
+            out.append({
+                'i': case['i'],
+                'tipo': case['tipo'],
+                'keep': False,
+                'title': '',
+                'description': '',
+                'status': '',
+                'severity': '',
+            })
+    out_path = outputs[lot]
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    with out_path.open('w', encoding='utf-8') as f:
+        json.dump(out, f, ensure_ascii=False, indent=1)
+        f.write('\n')
+    print(lot, len(out), sum(1 for x in out if x['keep']), sum(1 for x in out if x['severity'] == 'alta'))
+PY
+7 70 32 0
+8 70 38 0
+9 70 20 4
+[0m
+Os três arquivos já foram gerados. Vou conferir rapidamente a estrutura e contar keep:true/severity alta por lote antes de fechar o trabalho.
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/sao_francisco_do_sul__9.json[90m [offset=1, limit=40][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/sao_francisco_do_sul__7.json[90m [offset=1, limit=40][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/sao_francisco_do_sul__8.json[90m [offset=1, limit=40][0m
+[0m
+[0m$ [0mpython3 - <<'PY'
+import json
+from pathlib import Path
+for n in [7,8,9]:
+    p = Path(f'/Users/jairofortunato/mp/pdf_template/amunesc/_lotes_curados/sao_francisco_do_sul__{n}.json')
+    data = json.loads(p.read_text(encoding='utf-8'))
+    print(n, len(data), sum(1 for x in data if x['keep']), sum(1 for x in data if x['severity']=='alta'))
+PY
+7 70 32 0
+8 70 38 0
+9 70 20 4
+[0m
+[0m# [0mTodos
+[✓] Ler pdf_template/CURADORIA.md e extrair critérios obrigatórios
+[✓] Examinar os três lotes de São Francisco do Sul e localizar as fontes de cada caso
+[✓] Julgar os casos individualmente e gravar cada lote curado em pdf_template/amunesc/_lotes_curados/
+[✓] Conferir contagens finais por lote e reportar resumo ao usuário
+[0m
+Gravei os três lotes em `pdf_template/amunesc/_lotes_curados/`.
+
+- `sao_francisco_do_sul__7.json`: 70 casos, 32 `keep:true`, 0 `severity: alta`
+- `sao_francisco_do_sul__8.json`: 70 casos, 38 `keep:true`, 0 `severity: alta`
+- `sao_francisco_do_sul__9.json`: 70 casos, 20 `keep:true`, 4 `severity: alta`

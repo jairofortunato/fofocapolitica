@@ -1,0 +1,635 @@
+{
+ "cidade": "Blumenau",
+ "casos": [
+  {
+   "i": 350,
+   "tipo": "mp",
+   "ref": "06.2020.00003970-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00003970-4",
+   "status": "🟢 arquivado",
+   "data": "18/03/2022",
+   "texto": "Edson Ricardo Constante, Leila Bloedorn, Leomar Bloedorn e Kasulke Granja Avícola. Conclusão: constatou-se que, após diversas fiscalizações e orientações dos órgãos de proteção ambiental e sanitário, a empresa investigada Kasulke Granja Avícola adequou-se satisfatoriamente em relação ao controle das suas atividades e à mitigação dos odores e da proliferação de moscas no local. Isso posto, diante da inexistência de fundamento para a propositura de ação judicial (artigo 48, I, do Ato n. 395/2018/PGJ), determino o arquivamento do presente Inquérito Civil."
+  },
+  {
+   "i": 351,
+   "tipo": "mp",
+   "ref": "06.2022.00001436-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00001436-5",
+   "status": "🟡 em apuração",
+   "data": "25/03/2022",
+   "texto": "Universidade Regional de Blumenau (FURB)."
+  },
+  {
+   "i": 352,
+   "tipo": "mp",
+   "ref": "06.2021.00001258-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00001258-5",
+   "status": "🟢 arquivado",
+   "data": "29/03/2022",
+   "texto": "Serviço Autônomo Municipal de Água e Esgoto (SAMAE). Conclusão: procedimento instaurado para apurar apurar irregularidades no pagamento de horas extras a servidor que estava exercendo as atividades em modo teletrabalho e outras irregularidades quanto à concessão do exercício de atividade em home office. Falta de justa causa. Arquivamento."
+  },
+  {
+   "i": 353,
+   "tipo": "mp",
+   "ref": "06.2022.00001567-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00001567-5",
+   "status": "🟡 em apuração",
+   "data": "31/03/2022",
+   "texto": "Silvana Aparecida Rodrigues Leyva."
+  },
+  {
+   "i": 354,
+   "tipo": "mp",
+   "ref": "06.2020.00003087-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00003087-9",
+   "status": "🟢 arquivado",
+   "data": "12/04/2022",
+   "texto": "Secretaria Municipal de Promoção à Saúde (SEMUS). Conclusão: procedimento instaurado para apurar irregularidades no processo de remoção e contratação de técnico de enfermagem no ESF Wilhelm Theodor Schurmann. Falta de justa causa. Arquivamento."
+  },
+  {
+   "i": 355,
+   "tipo": "mp",
+   "ref": "06.2022.00001517-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00001517-5",
+   "status": "🟡 em apuração",
+   "data": "02/05/2022",
+   "texto": "Glacimar Costa Mittet e BRK Ambiental."
+  },
+  {
+   "i": 356,
+   "tipo": "mp",
+   "ref": "06.2020.00005206-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00005206-2",
+   "status": "🟢 arquivado",
+   "data": "03/05/2022",
+   "texto": "anônimo e Departamento de Polícia Penal do Estado de Santa Catarina (antigo Departamento de Administração Prisional). Conclusão: procedimento instaurado para apurar possíveis irregularidades praticadas no cumprimento de carga horária de funcionária terceirizada lotada na Penitenciária Industrial de Blumenau. Ausência de irregularidades e justa causa. Arquivamento."
+  },
+  {
+   "i": 357,
+   "tipo": "mp",
+   "ref": "06.2022.00002127-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00002127-7",
+   "status": "🟡 em apuração",
+   "data": "09/05/2022",
+   "texto": "apenados da Penitenciária Industrial de Blumenau (PIB)."
+  },
+  {
+   "i": 358,
+   "tipo": "mp",
+   "ref": "06.2022.00002130-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00002130-0",
+   "status": "🟡 em apuração",
+   "data": "09/05/2022",
+   "texto": "apenados do Presídio Regional de Blumenau (PRB)."
+  },
+  {
+   "i": 359,
+   "tipo": "mp",
+   "ref": "06.2022.00002043-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00002043-4",
+   "status": "🟡 em apuração",
+   "data": "12/05/2022",
+   "texto": "Serviço Autônomo de Água e Esgoto de Blumenau (SAMAE), Michelle Pedro e Daniela Cristina Marcos."
+  },
+  {
+   "i": 360,
+   "tipo": "mp",
+   "ref": "06.2022.00001891-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00001891-7",
+   "status": "🟡 em apuração",
+   "data": "23/05/2022",
+   "texto": "Antonio Augusto de Paula."
+  },
+  {
+   "i": 361,
+   "tipo": "mp",
+   "ref": "06.2020.00002067-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00002067-0",
+   "status": "🟢 arquivado",
+   "data": "25/05/2022",
+   "texto": "João Batista Martins Saturnino. Conclusão: procedimento instaurado para apurar irregularidades no pagamento de diárias ao policial penal João Batista Martins Saturnino. Falta de justa causa. Arquivamento."
+  },
+  {
+   "i": 362,
+   "tipo": "mp",
+   "ref": "06.2020.00001370-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00001370-3",
+   "status": "🟢 arquivado",
+   "data": "10/06/2022",
+   "texto": "Maurício Goll. Conclusão: procedimento instaurado para apurar possíveis irregularidades no cumprimento da carga horária do servidor lotado na Intendência Distrital do Garcia. Falta de conteúdo probatório. Arquivamento."
+  },
+  {
+   "i": 363,
+   "tipo": "mp",
+   "ref": "06.2021.00003501-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00003501-2",
+   "status": "🟢 arquivado",
+   "data": "21/06/2022",
+   "texto": "Instituto Nacional de Erradicação de Carência Escolar e Social (INECES), Jean Michel Vieira Ferreira, Kelwin da Silva de Paula e Marciel Luiz Tognolli. Conclusão: Inquérito Civil. Instaurado, de ofício, com o desiderato de apurar possíveis irregularidades cometidas por educadores no Centro de Atendimento Socioeducativo Provisório (CASEP) de Blumenau no ano de 2020. Depoimentos isolados no procedimento. Não comprovação dos fatos inicialmente narrados, durante inspeção realizada na Unidade. Inexistência de outros meios de investigação capazes de trazer à tona maiores esclarecimentos. Arquivamento que se impõe."
+  },
+  {
+   "i": 364,
+   "tipo": "mp",
+   "ref": "06.2021.00002638-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00002638-0",
+   "status": "🟢 arquivado",
+   "data": "08/07/2022",
+   "texto": "Cristiano Carpes e Rafael Reichert Garcia. Conclusão: procedimento instaurado visando apurar irregularidades praticadas pelos policiais penais Cristiano Carpes e Rafael Reichert Garcia no interior da Penitenciária Industrial de Blumenau -PIB. Fatos solucionados via administrativa. Falta de justa causa. Arquivamento."
+  },
+  {
+   "i": 365,
+   "tipo": "mp",
+   "ref": "06.2020.00000688-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00000688-0",
+   "status": "🟢 arquivado",
+   "data": "13/07/2022",
+   "texto": "Eliel Cipriano Nascimento e Malhasoft S.A. Conclusão: considerando a constatação de inexistência de danos ambientais quanto aos efluentes coletados na data de 18/03/2020, levando em conta o cumprimento pela empresa das sugestões realizadas pela SEMMAS, e tendo em vista que a coleta de demais efluentes para análise pelo órgão ambiental e a implementação de medidas preventivas sugeridas pelo IMA restaram prejudicadas em razão da sua decretação da falência e encerramento das atividades, promovo o arquivamento do presente inquérito civil, com fundamento no art. 48, inc. I, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 366,
+   "tipo": "mp",
+   "ref": "06.2022.00000764-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00000764-2",
+   "status": "🟢 arquivado",
+   "data": "26/07/2022",
+   "texto": "Ministério Público Federal e Havan Loja de Departamentos Ltda. Conclusão: constatou-se que, após as informações da SEMMAS, não há recurso hídrico no local, não ensejando em lesão ao meio ambiente a futura construção de uma loja Havan. Isso posto, diante da inexistência de fundamento para a propositura de ação judicial (artigo 48, I, do Ato n. 395/2018/PGJ), determino o arquivamento do presente Procedimento Preparatório."
+  },
+  {
+   "i": 367,
+   "tipo": "mp",
+   "ref": "06.2020.00005030-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00005030-9",
+   "status": "🟢 arquivado",
+   "data": "09/08/2022",
+   "texto": "a apurar. Conclusão: procedimento instaurado para apurar irregularidades no âmbito da Penitenciária Industrial de Blumenau, notadamente referente a investidura e posse dos cargos de gerentes regionais e a construção do imóvel sede da 7ª Regional - Superintendência Regional do Médio Vale do Itajaí. Falta de conteúdo probatório. Arquivamento."
+  },
+  {
+   "i": 368,
+   "tipo": "mp",
+   "ref": "06.2020.00003706-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00003706-1",
+   "status": "🟢 arquivado",
+   "data": "09/08/2022",
+   "texto": "Comércio de Verduras SS Ltda. Conclusão: procedimento instaurado para apurar suposta comercialização de produto impróprio para consumo (pimentão). Investigado é mero vendedor e não produtor do alimento. Ausência de elementos para propositura de Ação Civil Pública em razão correção das irregularidades inicialmente identificadas. Fornecedor devidamente identificado. Arquivamento."
+  },
+  {
+   "i": 369,
+   "tipo": "mp",
+   "ref": "06.2020.00003105-6",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00003105-6",
+   "status": "🟢 arquivado",
+   "data": "17/08/2022",
+   "texto": "Secretaria de Cultura e Relações Institucionais de Blumenau. Conclusão: procedimento instaurado para apurar o possível cometimento de irregularidades por servidoras públicas municipais no interior da antiga Fundação Cultural de Blumenau, atual Secretaria da Cultura. Falta de justa causa. Arquivamento."
+  },
+  {
+   "i": 370,
+   "tipo": "mp",
+   "ref": "06.2022.00000964-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00000964-0",
+   "status": "🟢 arquivado",
+   "data": "30/08/2022",
+   "texto": "Adilson de Jesus. Conclusão: procedimento instaurado para apurar supostas irregularidades cometidas pelo fiscal de obras e posturas Adilson de Jesus, cujo fatos também foram apurados no Procedimento Administrativo Disciplinar n. 10/2020. Falta de conteúdo probatório. Arquivamento."
+  },
+  {
+   "i": 371,
+   "tipo": "mp",
+   "ref": "06.2020.00005208-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00005208-4",
+   "status": "🟢 arquivado",
+   "data": "03/10/2022",
+   "texto": "Serviço Autônomo Municipal de Água e Esgoto (SAMAE) e anônimo. Conclusão: Inquérito Civil instaurado para apurar irregularidades na exoneração de servidor do SAMAE, bem como a contratação de estagiários na Autarquia. Ausência de irregularidades e/ou ilegalidades. Processo Seletivo Simplificado. Critérios objetivos. Arquivamento."
+  },
+  {
+   "i": 372,
+   "tipo": "mp",
+   "ref": "06.2022.00004354-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00004354-9",
+   "status": "🟡 em apuração",
+   "data": "12/12/2022",
+   "texto": "Serviço Autônomo Municipal de Água e Esgoto (SAMAE)."
+  },
+  {
+   "i": 373,
+   "tipo": "mp",
+   "ref": "06.2022.00004969-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00004969-8",
+   "status": "🟡 em apuração",
+   "data": "18/01/2023",
+   "texto": "Serviço Autônomo Municipal de Água e Esgoto de Blumenau (SAMAE) e Dryller Indústria e Comércio de Hidróxidos Ltda."
+  },
+  {
+   "i": 374,
+   "tipo": "mp",
+   "ref": "06.2019.00005069-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00005069-7",
+   "status": "🔴 ACP em curso",
+   "data": "11/07/2023",
+   "texto": "Osmar José Disner. Conclusão: procedimento instaurado para apurar possíveis irregularidades cometidas pelo agente penitenciário Osmar José Disner decorrente de diversas denúncias apresentadas perante a ouvidoria. Arquivado devido aos fatos narrados nas denúncias já terem sido apurados e concluídos em procedimento preliminar movido pela corregedoria, a qual sugeriu o arquivamento destes. Ausência de fundamento para se ajuizar ação civil pública no momento."
+  },
+  {
+   "i": 375,
+   "tipo": "mp",
+   "ref": "06.2023.00001080-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00001080-7",
+   "status": "🟢 arquivado",
+   "data": "13/07/2023",
+   "texto": "Serviço Autônomo Municipal de Água e Esgoto de Blumenau (SAMAE), Anderson César Ignácio, Charles Wilson Lange, Eduardo Schmitt Roste, Felipe Leite, Henrique Larroyed de Oliveira, PR Comércio de Autopeças e Importadora Ltda. ME e GN Carretas Reparos e Manutenção Ltda. Conclusão: Procedimento Preparatório. Suposto uso veículo de propriedade da Autarquia Municipal para fins particulares. Omissão quanto às providências administrativas necessárias para apuração da responsabilidade funcional pelos prejuízos causados pelo condutor. Desproporção no preço da reforma do veículo. Ausência ato ímprobo. Expedição de recomendação para correção das irregularidades. Arquivamento."
+  },
+  {
+   "i": 376,
+   "tipo": "mp",
+   "ref": "06.2022.00001436-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00001436-5",
+   "status": "🟠 TAC firmado",
+   "data": "25/07/2023",
+   "texto": "sigiloso e Fundação Universidade Regional de Blumenau (FURB). Conclusão: averiguar possíveis irregularidades relativas ao registro de ponto de servidores da Universidade Regional de Blumenau (FURB). Termo de Ajustamento de Conduta. Instauração de registro de ponto dos servidores. Arquivamento."
+  },
+  {
+   "i": 377,
+   "tipo": "mp",
+   "ref": "06.2022.00001042-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00001042-5",
+   "status": "🟢 arquivado",
+   "data": "01/08/2023",
+   "texto": "Central de Plantão de Polícia de Blumenau e Secretaria Municipal de Trânsito e Transportes de Blumenau. Conclusão: controle externo da atividade policial. Ausência de atendimento pela Central de Plantão Policial durante o plantão na madrugada do dia 08 de fevereiro de 2021. Não constatada qualquer irregularidade. Atendimento realizado normalmente durante todo o plantão. Arquivamento."
+  },
+  {
+   "i": 378,
+   "tipo": "mp",
+   "ref": "06.2020.00002402-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00002402-2",
+   "status": "🟢 arquivado",
+   "data": "14/08/2023",
+   "texto": "denunciante anônimo. Conclusão: trata-se de Inquérito Civil instaurado para apurar possíveis irregularidades na remoção da servidora pública municipal Sara Talita Schultz Couto, que exerce a função de farmacêutica na Secretaria Municipal de Saúde. Arquivado, devido estar demonstrado que o processo de remoção objeto de investigação ocorreu de forma regular."
+  },
+  {
+   "i": 379,
+   "tipo": "mp",
+   "ref": "06.2022.00000968-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00000968-4",
+   "status": "🟢 arquivado",
+   "data": "15/08/2023",
+   "texto": "Lúcio André Nuss. Conclusão: procedimento instaurado para apurar possíveis irregularidades cometidas por servidor na concessão de alvará de edificação não construída. Diligências iniciais tomadas. Provas juntadas. Arquivamento. Não constatação ato ímprobo."
+  },
+  {
+   "i": 380,
+   "tipo": "mp",
+   "ref": "06.2020.00002548-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00002548-7",
+   "status": "⚫ prescrito",
+   "data": "17/08/2023",
+   "texto": "Dori Edson Klabunde. Conclusão: trata-se de Inquérito Civil instaurado para apurar possível irregularidade praticada pelo Policial Penal Dori Edson Klabunde enquanto laborava no Presídio Regional de Blumenau (PRB), quando supostamente teria confeccionado carteira de visita íntima de forma irregular. Arquivado, por falta de provas e ocorrência de prescrição."
+  },
+  {
+   "i": 381,
+   "tipo": "mp",
+   "ref": "06.2022.00001436-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00001436-5",
+   "status": "❔ status indef.",
+   "data": "24/08/2023",
+   "texto": "denunciante sigiloso e Fundação Universidade Regional de Blumenau (FURB). Conclusão: com o objetivo de averiguar possíveis irregularidades relativas ao registro de ponto de servidores da Fundação Universidade Regional de Blumenau (FURB), foi instaurado Inquérito Civil, sendo expedida Recomendação à instituição de ensino, que a acatou e, após isso, elaborou a Instrução Normativa n. 001/2023/REITORIA, publicada em 12/5/2023, que disciplina o controle da frequência e do registro de presença dos servidores da FURB."
+  },
+  {
+   "i": 382,
+   "tipo": "mp",
+   "ref": "06.2023.00003239-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00003239-0",
+   "status": "🟡 em apuração",
+   "data": "24/08/2023",
+   "texto": "denunciante anônimo e Fundação Universidade Regional de Blumenau (FURB)."
+  },
+  {
+   "i": 383,
+   "tipo": "mp",
+   "ref": "06.2023.00003113-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00003113-5",
+   "status": "🟡 em apuração",
+   "data": "01/09/2023",
+   "texto": "Nara Rubia dos Santos Lehmkuh."
+  },
+  {
+   "i": 384,
+   "tipo": "mp",
+   "ref": "06.2023.00003539-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00003539-7",
+   "status": "🟡 em apuração",
+   "data": "11/09/2023",
+   "texto": "Fundação Universidade Regional de Blumenau (FURB), Instituto Gene e Fundação Fritz Müller."
+  },
+  {
+   "i": 385,
+   "tipo": "mp",
+   "ref": "06.2022.00004969-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004969-8",
+   "status": "🟡 em apuração",
+   "data": "21/09/2023",
+   "texto": "Serviço Autônomo Municipal de Água e Esgoto de Blumenau (SAMAE) e Dryller Indústria e Comércio de Hidróxidos Ltda."
+  },
+  {
+   "i": 386,
+   "tipo": "mp",
+   "ref": "06.2017.00006719-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2017.00006719-1",
+   "status": "🟢 arquivado",
+   "data": "11/10/2023",
+   "texto": "Secretaria de Administração Prisional (SAP). Conclusão: procedimento instaurado para apurar irregularidades na concessão de horas extras aos servidores da Penitenciária Industrial de Blumenau e Presídio Regional de Blumenau. Não comprovação dos fatos. Arquivamento."
+  },
+  {
+   "i": 387,
+   "tipo": "mp",
+   "ref": "06.2021.00004742-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00004742-0",
+   "status": "🟢 arquivado",
+   "data": "30/10/2023",
+   "texto": "Junta Administrativa de Recursos de Infrações (JARI) de Blumenau. Conclusão: procedimento instaurado para apurar possíveis irregularidades cometidas por servidores membros da Junta Administrativa de Recursos de Infrações (JARI) de Blumenau, quando do julgamento do Órgão Público ou análise de autos de infrações elaborados nos anos de 2017, 2018, 2019 e 2020. Arquivamento. Inocorrência de irregularidades."
+  },
+  {
+   "i": 388,
+   "tipo": "mp",
+   "ref": "06.2023.00004214-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2023.00004214-3",
+   "status": "🟡 em apuração",
+   "data": "06/11/2023",
+   "texto": "Associação Blumenauense de Amparo aos Menores (ABAM)."
+  },
+  {
+   "i": 389,
+   "tipo": "mp",
+   "ref": "06.2021.00001547-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00001547-1",
+   "status": "🟢 arquivado",
+   "data": "13/11/2023",
+   "texto": "João Alberto Pizzolatti Júnior. Conclusão: Inquérito Civil instaurado para apurar a conduta do Policial Penal Rafael Menezes Joaquim Batista, por ter, em tese, divulgado fotos do então detento João Alberto Pizzolatti Júnior quando do seu ingresso no Presídio Regional de Blumenau (PRB), em 2019. Arquivamento. Instauração de PAD, procedimento adequado para tratar a irregularidade narrada. Sem fundamento para ajuizar ação judicial."
+  },
+  {
+   "i": 390,
+   "tipo": "mp",
+   "ref": "06.2023.00004443-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00004443-0",
+   "status": "🟡 em apuração",
+   "data": "16/11/2023",
+   "texto": "Servidor Público Municipal Lincon Hideo Nomura e Secretaria de Saúde (SEMUS)."
+  },
+  {
+   "i": 391,
+   "tipo": "mp",
+   "ref": "06.2021.00000070-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00000070-1",
+   "status": "🟢 arquivado",
+   "data": "20/11/2023",
+   "texto": "SEMUS. Conclusão: procedimento instaurado para apurar irregularidades de adicional de periculosidade e insalubridade a servidores públicos em regime de teletrabalho, lotados no Ambulatório Geral Haroldo Bachmann. Ausência de comprovação de pagamento irregular, conforme legislação vigente. Arquivamento."
+  },
+  {
+   "i": 392,
+   "tipo": "mp",
+   "ref": "06.2023.00004516-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00004516-2",
+   "status": "🟡 em apuração",
+   "data": "24/11/2023",
+   "texto": "Genivaldo Scheidt e Valentim Oderdeng."
+  },
+  {
+   "i": 393,
+   "tipo": "mp",
+   "ref": "06.2023.00003749-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00003749-5",
+   "status": "🟢 arquivado",
+   "data": "11/01/2024",
+   "texto": "Tania Goebel. Conclusão: considerando que o vazamento da tubulação da rede coletora privada (FSNE) que percorre os fundos da residência localizada na Rua Cícero Marcedo Guimarães, n. 39, Bairro Salto Weissbach, foi devidamente solucionado pelos proprietários responsáveis, sanando-se, portanto, o perigo de dano ao meio ambiente, promovo o arquivamento do presente inquérito civil, com fundamento no art. 48, inc. I, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 394,
+   "tipo": "mp",
+   "ref": "06.2022.00002043-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00002043-4",
+   "status": "🟡 em apuração",
+   "data": "22/01/2024",
+   "texto": "SAMAE Blumenau, Daniela Cristina Marcos e Michele Pedro."
+  },
+  {
+   "i": 395,
+   "tipo": "mp",
+   "ref": "06.2023.00004214-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00004214-3",
+   "status": "🟢 arquivado",
+   "data": "16/02/2024",
+   "texto": "ABAM. Conclusão: procedimento instaurado para apurar possíveis irregularidades na gestão da Associação Blumenauense de Amparo aos Menores (ABAM), particularmente no que se refere à suposta perda de suas finalidades estatutárias - inatividade da Associação no que tange a execução de serviços assistenciais. Inexistência de interesse que justifique a atuação do Ministério Público em face da Associação. Promoção de arquivamento."
+  },
+  {
+   "i": 396,
+   "tipo": "mp",
+   "ref": "06.2024.00000777-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00000777-2",
+   "status": "🟡 em apuração",
+   "data": "21/02/2024",
+   "texto": "Ricardo dos Santos."
+  },
+  {
+   "i": 397,
+   "tipo": "mp",
+   "ref": "06.2024.00000831-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00000831-6",
+   "status": "🟡 em apuração",
+   "data": "25/03/2024",
+   "texto": "Ageu Laureth Júnior e Serviço Autônomo de Água e Esgoto de Blumenau (SAMAE)."
+  },
+  {
+   "i": 398,
+   "tipo": "mp",
+   "ref": "06.2022.00004354-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00004354-9",
+   "status": "🟢 arquivado",
+   "data": "12/04/2024",
+   "texto": "Serviço Autônomo Municipal de Água e Esgoto - SAMAE. Conclusão: Inquérito Civil. Moralidade Administrativa. Procedimento instaurado para apurar a ocorrência de irregularidades relacionadas ao Pregão Presencial n. 2207/2019, o qual teve por objeto o registro de preços para a contratação de serviços de conserto/manutenção de equipamentos de informática, com fornecimento de peças e componentes. Expedida Recomendação administrativa expedida ao SAMAE, objetivando a adoção de medidas destinadas a garantir o estrito cumprimento aos dispositivos da Lei de Licitações e Contratos Administrativos, notadamente quanto à descrição clara e precisa do objeto, de seus itens e da forma de prestação dos serviços, bem como do estabelecimento de preço-base condizente com a realidade. Recomendação acatada pela…"
+  },
+  {
+   "i": 399,
+   "tipo": "mp",
+   "ref": "06.2024.00000491-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00000491-0",
+   "status": "🟢 arquivado",
+   "data": "12/04/2024",
+   "texto": "Joni Júlio Evaristo. Conclusão: Inquérito Civil. Apurar suposta construção irregular de muro em área não edificante decorrente de uma tubulação de água do SAMAE no terreno localizado na Rua Lontras, ao lado do n. 157, Bairro do Salto, em Blumenau. Ausência de irregularidade. Arquivamento."
+  },
+  {
+   "i": 400,
+   "tipo": "mp",
+   "ref": "06.2024.00001559-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00001559-4",
+   "status": "🟡 em apuração",
+   "data": "30/04/2024",
+   "texto": "Vilmar Spezzatto."
+  },
+  {
+   "i": 401,
+   "tipo": "mp",
+   "ref": "06.2024.00002050-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00002050-9",
+   "status": "🟡 em apuração",
+   "data": "07/05/2024",
+   "texto": "Servidora Pública Municipal Maria Elena Kramer e Secretaria de Saúde (SEMUS)."
+  },
+  {
+   "i": 402,
+   "tipo": "mp",
+   "ref": "06.2024.00000831-6",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00000831-6",
+   "status": "🟢 arquivado",
+   "data": "06/06/2024",
+   "texto": "Ageu Laureth Júnior. Conclusão: considerando que a irregularidade no depósito de lixo na Rua Videira, Bairro Vila Nova, Blumenau/SC, foi devidamente sanada com a retirada dos contêineres de armazenamento dos resíduos do local dos fatos e posterior constatação da regularidade do depósito nas centrais de armazenamento dos condomínios notificados, promovo o arquivamento do presente Inquérito Civil, com fundamento no art. 48, inc. I, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 403,
+   "tipo": "mp",
+   "ref": "06.2024.00001559-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00001559-4",
+   "status": "🟢 arquivado",
+   "data": "12/06/2024",
+   "texto": "instaurado de Ofício. Conclusão: considerando que o investigado Vilmar Spezzatto cumpriu com as medidas administrativas estabelecidas, na Polícia Militar Ambiental, para recuperação da área degradada, promovo o arquivamento do presente Inquérito Civil, com fundamento no art. 48, inc. I, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 404,
+   "tipo": "mp",
+   "ref": "06.2023.00002582-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00002582-2",
+   "status": "❔ status indef.",
+   "data": "05/08/2024",
+   "texto": "Fundação Universidade Regional de Blumenau (FURB) e Unimed de Blumenau - Cooperativa de Trabalho Médico. Conclusão: Inquérito Civil instaurado para apurar a ocorrência de possíveis irregularidades no contrato firmado entre a Fundação Universidade Regional de Blumenau (FURB) e a empresa Unimed de Blumenau, para oferta de plano de saúde"
+  },
+  {
+   "i": 405,
+   "tipo": "mp",
+   "ref": "06.2024.00003513-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00003513-5",
+   "status": "🟡 em apuração",
+   "data": "13/08/2024",
+   "texto": "Silvana Maria Pereira."
+  },
+  {
+   "i": 406,
+   "tipo": "mp",
+   "ref": "06.2024.00002942-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00002942-2",
+   "status": "🟢 arquivado",
+   "data": "16/09/2024",
+   "texto": "Luiz Gonzaga Meli. Conclusão: considerando que todas as irregularidades sanitárias constatadas pelo Serviço Autônomo de Água e Esgoto de Blumenau (SAMAE) foram sanadas no imóvel localizado na Rua Maria Adriano, n. 57, Bairro Tribess, Blumenau/SC, promovo o arquivamento do presente Inquérito Civil, com fundamento no art. 48, inc. I, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 407,
+   "tipo": "mp",
+   "ref": "06.2020.00003422-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00003422-0",
+   "status": "🟢 arquivado",
+   "data": "24/09/2024",
+   "texto": "Fit Racer Treinamento Personalizado Ltda. e CREF3/SC. Conclusão: procedimento instaurado para apurar suposta irregularidade consistente na ausência de registro junto ao CREF3/SC da pessoa jurídica Fit Racer Treinamento Personalizado Ltda. Estabelecimento regular. Inexistência de elementos suficientes para a propositura de eventual ação civil pública ou outra medida judicial na esfera dos interesses difusos e coletivos tutelados pelo Ministério Público. Promoção de arquivamento."
+  },
+  {
+   "i": 408,
+   "tipo": "mp",
+   "ref": "06.2024.00004497-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00004497-8",
+   "status": "🟡 em apuração",
+   "data": "22/10/2024",
+   "texto": "Serviço Autônomo Municipal de Água e Esgoto de Blumenau-SC."
+  },
+  {
+   "i": 409,
+   "tipo": "mp",
+   "ref": "06.2020.00002461-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00002461-1",
+   "status": "🟢 arquivado",
+   "data": "18/11/2024",
+   "texto": "Delegacia de Polícia de Proteção à Criança, ao Adolescente, à Mulher e ao Idoso (DPCAMI) de Blumenau. Conclusão: Controle Externo da Atividade Policial. Irregularidade no atendimento prestado às vítimas. Diversas reclamações registradas. Acompanhamento pela Corregedoria da Polícia Civil. Promoção de melhorias na estrutura física e na especialização dos policiais. Ausência de notícias de novos atendimentos eventualmente mal prestados. Serviço regularizado. Arquivamento."
+  },
+  {
+   "i": 410,
+   "tipo": "mp",
+   "ref": "06.2025.00000583-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00000583-4",
+   "status": "🟡 em apuração",
+   "data": "26/02/2025",
+   "texto": "Thiago de Souza Brasil Pinheiro."
+  },
+  {
+   "i": 411,
+   "tipo": "mp",
+   "ref": "06.2025.00002350-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00002350-0",
+   "status": "🟡 em apuração",
+   "data": "23/06/2025",
+   "texto": "Cooperativa de Produção e Abastecimento do Vale do Itajaí (COOPER)."
+  },
+  {
+   "i": 412,
+   "tipo": "mp",
+   "ref": "06.2025.00002751-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00002751-7",
+   "status": "🟡 em apuração",
+   "data": "16/07/2025",
+   "texto": "Espólio de Almir Pereira e São Cosme Assessoria Imobiliária Ltda."
+  },
+  {
+   "i": 413,
+   "tipo": "mp",
+   "ref": "06.2023.00000735-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00000735-7",
+   "status": "🟢 arquivado",
+   "data": "01/09/2025",
+   "texto": "instauração de ofício. Conclusão: considerando o cumprimento integral de todas as medidas técnicas e administrativas necessárias para a cessação das irregularidades no imóvel dos fatos, promovo o arquivamento do presente inquérito civil, com fundamento no art. 48, inc. I, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 414,
+   "tipo": "mp",
+   "ref": "06.2023.00000370-6",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00000370-6",
+   "status": "🔴 ACP ajuizada",
+   "data": "29/10/2025",
+   "texto": "Silvana Jensen Pacher, Osny Bublitz e Reinvald Dahlke. Conclusão: Meio ambiente. Ordem urbanística. Inquérito Civil instaurado para apurar suposta alienação irregular de imóvel localizado na Rua Arthur Ziehsdorf, n. 355, Bairro Vila Itoupava, Blumenau/SC, matriculado sob o n. 6.902 no 3º Ofício de Registro de Imóveis. Diligências realizadas junto ao Município e aos investigados demonstraram a ausência de alienação, cessão ou qualquer ato de disposição irregular do imóvel. Inconsistência em planta que decorreu de erro material da empresa responsável pelo projeto de desmembramento, já corrigido e em fase de retificação administrativa (processo nº 5636/2022). Desmembramento irregular anterior já objeto de TAC em execução judicial. Inexistência de justa causa para ajuizamento de ação civil pú…"
+  },
+  {
+   "i": 415,
+   "tipo": "mp",
+   "ref": "06.2025.00004935-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00004935-5",
+   "status": "🟡 em apuração",
+   "data": "24/11/2025",
+   "texto": "Denin Roberto Bernardes."
+  },
+  {
+   "i": 416,
+   "tipo": "mp",
+   "ref": "06.2025.00004936-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00004936-6",
+   "status": "🟡 em apuração",
+   "data": "24/11/2025",
+   "texto": "Angelito Alexandre."
+  },
+  {
+   "i": 417,
+   "tipo": "mp",
+   "ref": "06.2025.00004950-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00004950-0",
+   "status": "🟡 em apuração",
+   "data": "24/11/2025",
+   "texto": "Francisco Alves do Nascimento e Joel José Leodoro Alves."
+  },
+  {
+   "i": 418,
+   "tipo": "mp",
+   "ref": "06.2026.00000464-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2026.00000464-0",
+   "status": "🟡 em apuração",
+   "data": "18/02/2026",
+   "texto": "Hans Schadrack, espólio de Elfride Irmtraut Fritzche, espólio de Walter Stodieck e Angelito Alexandre."
+  },
+  {
+   "i": 419,
+   "tipo": "mp",
+   "ref": "06.2025.00003472-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00003472-9",
+   "status": "🟢 arquivado",
+   "data": "03/03/2026",
+   "texto": "noticiantes: Maricleide Nass e Ester Rosa Nass. Conclusão: considerando que as irregularidades sanitárias decorrentes do lançamento de esgoto na vala existente na Rua José Colsani, n. 359, Bairro Badenfurt, Blumenau, foram sanadas, promovo o arquivamento do presente inquérito civil, com fundamento no art. 48, inc. I, do Ato n. 395/2018/PGJ."
+  }
+ ]
+}

@@ -1,0 +1,632 @@
+[
+ {
+  "i": 0,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP processa prefeito de Mafra e secretário por desvio de função de servidor",
+  "description": "O inquérito apurou a nomeação dos comissionados Bruna Rafaeli Oliveira e Lucas Gabriel Bregolin Reis. O Ministério Público afastou o nepotismo, por não haver subordinação hierárquica, mas concluiu que houve desvio de função no caso de Lucas Gabriel Bregolin, com participação do prefeito Wellington Roberto Bielecki e do secretário de Administração Alexandre Solesinski, e ajuizou ação por improbidade contra eles. Quanto à secretária de Saúde Jaqueline Fátima Previatti Veiga e ao secretário de Fazenda Enalto de Oliveira Gondrige, faltou prova de participação.",
+  "status": "🔴 ACP ajuizada",
+  "severity": "alta"
+ },
+ {
+  "i": 1,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou rejeição das contas de 2016 de Mafra e não achou dano ao erário",
+  "description": "O inquérito tratou de irregularidades na prestação de contas do município de Mafra de 2016 e da possível influência no julgamento delas pela Câmara. O Tribunal de Contas havia recomendado a rejeição, acolhida pelos vereadores, por descumprimento da Lei de Responsabilidade Fiscal, déficit financeiro e orçamentário e assunção de despesa nos dois últimos quadrimestres. O Ministério Público concluiu que não houve dano ao erário nem enriquecimento ilícito e que o descumprimento de normas contábeis, sozinho, não é improbidade. Arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 2,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP investigou desvio de função na Maternidade Dona Catarina Kuss e arquivou",
+  "description": "A partir de representação do Conselho Regional de Enfermagem de Santa Catarina, o Ministério Público apurou possível improbidade por desvio de função na Maternidade Dona Catarina Kuss, envolvendo Marisa da Silveira, Elcio Josnei Cardoso e Danielly Noremberg. A apuração não encontrou dolo, prejuízo ao erário nem enriquecimento ilícito, e o caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 3,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Mafra deixou de repassar dinheiro à previdência dos servidores e foi multada pelo TCE",
+  "description": "O inquérito apurou a ausência de repasses do Plano de Amortização do Déficit Técnico Atuarial devido pelo município ao regime próprio de previdência dos servidores, envolvendo Pedro Maurilho Ruthes, João Carlos Landoski, o prefeito Wellington Roberto Bielecki e Enalto de Oliveira Gondrige. As condutas já haviam sido punidas com multa pelo Tribunal de Contas. O Ministério Público classificou o caso como má-gestão, sem dolo, não enquadrou na Lei de Improbidade e arquivou.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 4,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou favorecimento por ex-vereadora e gestora da Educação de Mafra e arquivou",
+  "description": "O inquérito investigou supostos atos de favorecimento pessoal e captação irregular de votos atribuídos a Marise Valério Braz de Oliveira, então vereadora de Mafra e, à época dos fatos, gestora da Educação. O Ministério Público considerou o objeto da representação satisfatoriamente elucidado e informou que as demais irregularidades apontadas seguem em procedimentos próprios. O caso foi arquivado, com remessa ao Conselho Superior do MP.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 5,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Suspeita de fracionamento de licitação em Mafra não foi comprovada pelo MP",
+  "description": "O inquérito apurou compras diretas feitas por dispensa de licitação com o mesmo objeto já contratado pelo Pregão Presencial 86/2016, o que levantou suspeita de fracionamento para escapar da licitação. A suspeita não foi comprovada e o Ministério Público não identificou prejuízo ao erário nem vantagem indevida ao fornecedor. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 6,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP checou diárias pagas a servidor de Mafra e concluiu que as viagens eram justificadas",
+  "description": "O inquérito apurou suposta irregularidade nas viagens de Ricardo Nestor de Paula e nas diárias pagas pelo município. O Ministério Público verificou que as viagens eram de interesse público e estavam justificadas nos empenhos, sem indícios de irregularidade ou superfaturamento. Improbidade não configurada e caso arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 7,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP investigou licitações de saneamento em Mafra e arquivou por falta de justa causa",
+  "description": "O inquérito apurou supostas irregularidades na execução de serviços dos processos licitatórios 592 (Registro de Preços 99/2013), da Secretaria de Meio Ambiente, e 218 (Registro de Preços 36/2013), do conselho municipal de saneamento básico, envolvendo os servidores Gutemberg Pereira dos Santos e Luiz Fernando de Oliveira. O Ministério Público concluiu não haver justa causa para seguir investigando ou processar, e arquivou.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 8,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Registro de ponto de comissionada em Mafra foi investigado, mas MP não viu improbidade",
+  "description": "O inquérito apurou irregularidades no registro de ponto eletrônico da servidora comissionada Deise Correa Rocha. Com as mudanças trazidas pela Lei 14.230/2021 à Lei de Improbidade, o Ministério Público concluiu que os fatos não configuram ato de improbidade. O caso foi arquivado, com remessa ao Conselho Superior do MP.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 9,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou suspeita de fraude em licitações de material médico em Mafra e arquivou",
+  "description": "O inquérito investigou supostas fraudes licitatórias atribuídas à empresa Plasmedic, de Erechim (RS), em contratações do município de Mafra. Os fatos não foram confirmados ao longo da instrução e o Ministério Público não encontrou justa causa para prosseguir ou ajuizar ação. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 10,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Servidores de Mafra levavam carro oficial para casa, inclusive nos fins de semana",
+  "description": "O inquérito apurou o uso de veículos oficiais por Cláudio Konkel e Josué Edmar Santos dos Ramos no trajeto entre casa e trabalho, inclusive aos fins de semana. Apurou-se que os dois estavam em desvio de função, atuando como motoristas — situação tratada em Termo de Ajustamento de Conduta em processo separado — e que o uso do carro seguia orientação da Secretaria de Saúde a todos os motoristas, para otimizar o uso da frota. Sem dolo ou má-fé, este inquérito foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 11,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP investigou compra de móveis sem licitação e aluguel da sede da prefeitura de Mafra",
+  "description": "A partir de denúncia anônima, o inquérito apurou a aquisição de móveis sem processo licitatório e a legalidade da locação do imóvel usado como sede da Prefeitura de Mafra. Diante das mudanças da Lei 14.230/2021, o Ministério Público concluiu que os fatos não configuram improbidade administrativa e arquivou o caso.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 12,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou eliminação de candidato em concurso de Mafra que depois virou diretor comissionado",
+  "description": "O inquérito investigou a convocação e a eliminação de Gilmar Antes no Concurso Público 001/2018 e sua posterior nomeação para o cargo comissionado de Diretor de Obras e Serviços. O ato de convocação foi anulado por portaria, não se identificou preterição de vaga e a nomeação para cargo de confiança foi considerada legal. Sem indícios de dano ao erário ou desvio de função, o caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 13,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Carros da Saúde de Mafra sem rastreador e sem identificação foram alvo de inquérito",
+  "description": "Uma denúncia anônima levou o Ministério Público a apurar a falta de rastreadores e de plotagem — a identificação visual — nos veículos oficiais da Secretaria de Saúde de Mafra. Não houve prova da prática de ato de improbidade administrativa e o órgão não viu fundamento para ação judicial. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 14,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Após o MP, Mafra passou a seguir as regras do programa que fornece pedras a moradores",
+  "description": "O inquérito verificou irregularidades no fornecimento de pedras em servidão pelo município. O Ministério Público não configurou improbidade, mas expediu recomendação para que a prefeitura observasse os procedimentos da Lei 3.536/2010 e do decreto que a regulamenta ao conceder o benefício. A recomendação foi acatada e o caso arquivado.",
+  "status": "🟢 recomendação cumprida",
+  "severity": "media"
+ },
+ {
+  "i": 15,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou compras diretas da Saúde de Mafra em 2021 e não confirmou irregularidades",
+  "description": "O inquérito investigou supostas irregularidades nas Compras Diretas 16/2021 e 009/2021, deflagradas pela Secretaria da Saúde de Mafra. Os fatos não foram confirmados durante a instrução e o Ministério Público concluiu não haver justa causa para prosseguir ou ajuizar ação. Caso arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 16,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Prefeitura de Mafra fez empedramento em propriedade particular; MP viu amparo legal",
+  "description": "O inquérito apurou possível irregularidade na realização de serviço público de empedramento dentro de uma propriedade particular, em Rio do Cedro. O Ministério Público concluiu que a prática está amparada pelo Programa Porteira Adentro, criado pela Lei 3.536/2010, e que os fatos não configuram improbidade. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 17,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Mutirão de cirurgias de catarata em Mafra foi investigado por contrariar diagnósticos",
+  "description": "O inquérito apurou supostas irregularidades na contratação e realização de cirurgias de catarata em regime de mutirão pela Secretaria de Saúde de Mafra, que estariam sendo feitas em contradição com o diagnóstico oftalmológico dos pacientes. O Ministério Público considerou insuficientes os elementos que apontariam benefício a servidores ou terceiros e citou apuração paralela da 1ª Promotoria, sob a ótica da saúde, que não encontrou irregularidades. Caso arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 18,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou contrato de dentista do programa Saúde da Família em Mafra e arquivou",
+  "description": "O inquérito investigou suposta irregularidade na manutenção do contrato de trabalho do cirurgião-dentista Charles Alex Rauen, contratado para atuar na Estratégia Saúde da Família. Não se verificaram irregularidades e, diante das mudanças da Lei 14.230/2021, o Ministério Público concluiu que os fatos não configuram improbidade. Caso arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 19,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Servidor de Mafra teria usado carro oficial para levar a filha ao médico; MP não confirmou",
+  "description": "O inquérito apurou o uso do veículo oficial Strada de placa QHB-6193, em novembro de 2016, por Jaisson Cleiton Nogacz, apontado como supervisor dos motoristas, que teria levado a filha a uma consulta médica em Jaraguá do Sul com custos para a administração. O Ministério Público não verificou irregularidade no uso do veículo e concluiu que os fatos não configuram improbidade. Caso arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 20,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Prefeitura de Mafra comprou curso de Excel avançado só para um servidor; MP arquivou",
+  "description": "O inquérito apurou a aquisição de softwares e de um curso de Excel avançado destinado unicamente ao servidor Enalto Gondrige. O Ministério Público não encontrou irregularidade no processo licitatório, colheu depoimento apontando a necessidade e o uso efetivo dos softwares e considerou justificada a exclusividade do curso. Sem elementos de beneficiamento indevido, o caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 21,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP investigou desapropriação feita pela prefeitura de Mafra e não achou irregularidade",
+  "description": "O inquérito apurou uma desapropriação envolvendo o município de Mafra e os proprietários Eduardo Liebl e Elisa Liebl. O Ministério Público não comprovou irregularidades no procedimento nem encontrou indícios de improbidade administrativa, e concluiu não haver base para ajuizar ação civil pública. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 22,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Pagamento a servidora de Mafra foi investigado pelo MP e caso acabou arquivado",
+  "description": "O inquérito apurou indícios de improbidade na remuneração recebida pela servidora municipal Rosemari Barbosa e na conduta de quem teria autorizado o pagamento supostamente indevido. O Ministério Público concluiu não haver justa causa para prosseguir com a investigação ou ajuizar ação, e arquivou o caso.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 23,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Outra desapropriação de Mafra passou pelo crivo do MP e foi arquivada",
+  "description": "O inquérito investigou desapropriação envolvendo o município de Mafra e os proprietários Nailor Galeski e Ana Lúcia Galeski. Não foram comprovadas irregularidades no procedimento nem indícios de improbidade administrativa, e o Ministério Público concluiu não haver elementos para ação civil pública. Caso arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 24,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou uso do Fundo de Saneamento Básico de Mafra e arquivou o inquérito",
+  "description": "O inquérito investigou eventuais irregularidades na utilização dos recursos do Fundo de Saneamento Básico do município de Mafra. Diligências e estudo técnico indicaram ausência de irregularidades em diversos pontos, e o Ministério Público não encontrou elementos de dolo dos agentes nem perda patrimonial efetiva — exigências trazidas pela Lei 14.230/2021. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 25,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Terceira desapropriação em Mafra é investigada pelo MP e termina arquivada",
+  "description": "O inquérito apurou desapropriação envolvendo o município de Mafra e os proprietários Odilson João Baruffi e Adriana Maria Good Baruffi. O Ministério Público não comprovou irregularidades nem encontrou indícios de improbidade administrativa, e arquivou o caso por ausência de base para ação civil pública.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 26,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva investigação sobre mais uma desapropriação da prefeitura de Mafra",
+  "description": "O inquérito investigou desapropriação envolvendo o município de Mafra e os proprietários Floriano Wroblevski e Virgínia Aparecida Wroblevski. Não foram comprovadas irregularidades no procedimento nem indícios de improbidade, e o Ministério Público concluiu não haver elementos para ajuizar ação civil pública. Caso arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 27,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Desapropriação envolvendo espólio em Mafra também foi arquivada pelo MP",
+  "description": "O inquérito apurou desapropriação envolvendo o município de Mafra e o espólio de Antônio dos Anjos e Rosa dos Anjos. O Ministério Público não comprovou irregularidades nem indícios de improbidade administrativa e arquivou o caso, por não haver base para ação civil pública.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 28,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Gratificações e aumento de jornada a servidores de Mafra foram apurados pelo MP",
+  "description": "O inquérito investigou eventuais irregularidades na concessão de gratificação e no aumento de carga horária de servidores públicos do município de Mafra, envolvendo Antônio Carlos Kuhl, José Fernando Saliba, André Lúcio Cássias e Luciana Steffens. O Ministério Público não encontrou elementos de dolo nem perda patrimonial efetiva, exigidos pela Lei 14.230/2021, e arquivou o caso.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 29,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Investigação sobre licenciamento ambiental em Mafra descobriu desvio e virou denúncia",
+  "description": "O inquérito havia sido aberto para apurar a morosidade do órgão ambiental estadual na análise dos licenciamentos em Mafra. Quanto a esse objeto, a situação foi regularizada com o tempo e o procedimento foi arquivado. No curso da apuração, porém, o Ministério Público descobriu um peculato-desvio e ofereceu denúncia criminal, registrando a necessidade de abrir novo procedimento para ação de improbidade ou de reparação de dano ao erário. O desfecho dessa segunda frente não consta do extrato publicado.",
+  "status": "❔ status indef.",
+  "severity": "alta"
+ },
+ {
+  "i": 30,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura nomeação em Mafra de servidor que teria condenação por improbidade",
+  "description": "O Ministério Público instaurou inquérito civil para apurar eventual irregularidade na nomeação de servidor supostamente condenado por ato de improbidade administrativa. Figuram no procedimento Jonas Heide, Carlos Augusto de Oliveira, o município de Mafra e a Associação Mahatma Gandhi, que administra a UPA 24h. O caso foi aberto em fevereiro de 2026 e segue em apuração.",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 31,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP investigou intervenção de Mafra na empresa que recolhe o lixo da cidade",
+  "description": "O inquérito apurou supostas irregularidades na intervenção feita pelo município de Mafra na Seluma, empresa que prestava o serviço público de recolhimento, transporte e destinação final de resíduos sólidos. O prefeito Wellington Roberto Bielecki figurava entre os investigados. O Ministério Público não encontrou elementos que confirmassem os fatos, nem dolo ou perda patrimonial efetiva, e arquivou o caso.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 32,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Diretora de escola em Mafra foi acusada de assédio moral; MP não achou provas",
+  "description": "O inquérito apurou suposta violação aos princípios administrativos por assédio moral atribuído a Neuci Aparecida, então diretora da Escola Estadual Monteiro Lobato, no ano letivo de 2019. O Ministério Público não encontrou indicativos de conduta irregular nem de excesso na orientação corretiva, e concluiu não haver prova concreta de ato doloso ou de má-fé. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 33,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou pagamento de horas extras a servidores de Mafra e arquivou o caso",
+  "description": "O inquérito investigou eventual improbidade no pagamento de horas extras aos servidores do município de Mafra. O Ministério Público concluiu não haver justa causa para prosseguir com a investigação. O extrato publicado no Diário está truncado e não detalha os demais fundamentos do arquivamento.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 34,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Mafra não informou quanto arrecada com a taxa de iluminação; MP arquivou mesmo assim",
+  "description": "O inquérito apurou indícios de afronta ao direito de acesso à informação, diante da ausência de dados sobre os valores arrecadados com a Cosip — a contribuição para custeio da iluminação pública. A Celesc se negou a fornecer os dados, embora não fossem sigilosos. O Ministério Público concluiu não haver justa causa para prosseguir ou ajuizar ação, e arquivou.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 35,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou direcionamento na contratação de ótica para mutirão de consultas em Mafra",
+  "description": "O inquérito investigou possível improbidade no direcionamento da contratação de uma ótica e de profissionais para mutirão de consultas pela Secretaria Municipal de Saúde de Mafra. O Ministério Público concluiu não haver justa causa para prosseguir com a investigação ou ajuizar ação judicial, e arquivou o caso.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 36,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Servidor levou arma de fogo para dentro da prefeitura de Mafra; MP arquivou o caso",
+  "description": "O inquérito apurou o porte irregular de arma de fogo por um servidor público, Jonas Heide, nas dependências da Prefeitura de Mafra. Diante das mudanças trazidas pela Lei 14.230/2021 à Lei de Improbidade, o Ministério Público concluiu que os fatos não configuram ato de improbidade administrativa e arquivou o procedimento, com remessa ao Conselho Superior do MP.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 37,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 38,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Chefe de contratos de Mafra tinha marido com contratos na prefeitura; MP arquivou",
+  "description": "O inquérito apurou eventual improbidade na contratação de Fernanda Langer, nomeada em fevereiro de 2017 para o cargo comissionado de Chefe da Divisão de Contratos e Editais, cujo marido mantinha vários contratos com a administração pública pela empresa Radisul. O Ministério Público concluiu não haver justa causa para prosseguir com a investigação ou ajuizar ação, e arquivou o caso.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 39,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP processa secretário de Mafra por administrar empresa privada e receber salário integral",
+  "description": "O inquérito tratou da vedação de acumular cargo público remunerado com a administração de empresa privada, no caso de Alexandre Solesinski. O Ministério Público apurou que ele não cumpria a carga horária de trabalho e ainda assim recebia o salário integral, e ajuizou ação por improbidade administrativa. O inquérito foi então arquivado, já cumprido seu objeto.",
+  "status": "🔴 ACP ajuizada",
+  "severity": "alta"
+ },
+ {
+  "i": 40,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Troca de empresa terceirizada em Mafra sem licitação foi apurada pelo MP",
+  "description": "O inquérito investigou o rompimento do contrato com a empresa Orbenk e a contratação da Embraserv sem processo licitatório. Os fatos não foram confirmados ao longo da instrução e o Ministério Público concluiu não haver justa causa para prosseguir com a investigação ou ajuizar ação judicial. Caso arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 41,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP processa prefeito de Mafra por contratação de horas-máquina para estradas do interior",
+  "description": "O inquérito apurou improbidade administrativa na contratação de horas-máquina de retroescavadeiras, escavadeira hidráulica e caminhões traçados destinados à manutenção de estradas no interior do município. O Ministério Público ajuizou ação por improbidade administrativa contra o prefeito Wellington Roberto e outros envolvidos, e em seguida arquivou o inquérito, já cumprido seu objeto.",
+  "status": "🔴 ACP ajuizada",
+  "severity": "alta"
+ },
+ {
+  "i": 42,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Mafra mudou zoneamento para liberar prédio de 20 andares; MP arquivou a investigação",
+  "description": "O inquérito apurou suposta improbidade na alteração do zoneamento urbano que teria sido feita exclusivamente para beneficiar o empreendimento Residencial Araucária, da Construtora Borille, passando a permitir edificações de até 20 pavimentos. O Ministério Público concluiu não haver justa causa para prosseguir com a investigação ou ajuizar ação, e arquivou o caso.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 43,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou patrocínio de evento pela prefeitura de Mafra e arquivou sem ação",
+  "description": "O inquérito investigou o patrocínio de um evento pelo município de Mafra. O Ministério Público não encontrou provas de direcionamento nem indícios de dolo, considerou desnecessária a regularização dos atos porque o evento já havia ocorrido e registrou o fim do prazo para investigar. Sem viabilidade de ação civil pública, o caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 44,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Chefe da Vigilância em Saúde de Mafra foi acusado de interferir em fiscais; MP arquivou",
+  "description": "O inquérito apurou supostas interferências do gerente de Vigilância em Saúde na atuação dos fiscais sanitários do município, a partir de representação envolvendo Marilize de Farias Glein e Alessandro Luis Belém. Após a instrução, o Ministério Público concluiu não haver provas da conduta apontada e arquivou o caso.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 45,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP processa servidor comissionado de Mafra por uso indevido de carro da prefeitura",
+  "description": "O inquérito apurou improbidade administrativa por uso indevido de veículo da frota municipal pelo servidor comissionado Juares Francisco Falchetti, contratado pelo município de Mafra. O Ministério Público ajuizou ação por improbidade administrativa e, cumprido o objeto, arquivou o inquérito.",
+  "status": "🔴 ACP ajuizada",
+  "severity": "alta"
+ },
+ {
+  "i": 46,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Terreno do cemitério de Mafra foi vendido fora da lei e a venda acabou anulada",
+  "description": "O inquérito apurou a venda irregular de um terreno no cemitério municipal de Mafra, feita sem observar o procedimento da Lei Complementar Municipal 61/2019. O Ministério Público concluiu que as partes envolvidas desconheciam o procedimento previsto e que não houve improbidade por parte dos servidores. O ato de venda do jazigo foi anulado e, sem justificativa para ação civil pública, o caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 47,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou suspeita de direcionamento em pregão de sistema de gestão de Mafra",
+  "description": "O inquérito investigou suposto direcionamento do Pregão 36/2019, aberto pelo município para contratar empresa especializada na implantação de sistema de gestão pública, envolvendo as empresas Abreu Machado e Pública Tecnologia. O Ministério Público não encontrou elementos de dolo dos agentes nem perda patrimonial efetiva, exigidos pela Lei 14.230/2021, e arquivou o caso.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 48,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Servidor alegou perseguição na Saúde estadual em Mafra; MP não confirmou",
+  "description": "O inquérito apurou irregularidades na administração da Secretaria Estadual de Saúde a partir da alegação do servidor Eraldo da Rocha de que sofria perseguição funcional. O Ministério Público não comprovou a perseguição, identificou animosidade entre servidores e não observou condutas que configurassem improbidade administrativa. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 49,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP investigou denúncia de irregularidades na Maternidade Dona Catarina Kuss",
+  "description": "O inquérito apurou notícia de irregularidades na Maternidade Dona Catarina Kuss, hospital público integrante da rede estadual de saúde em Mafra. O Ministério Público concluiu não haver justa causa para prosseguir com a investigação ou ajuizar ação judicial. O extrato publicado não detalha quais irregularidades foram apuradas.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 50,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou contrato de assessoria da Amplanorte e considerou o preço compatível",
+  "description": "O inquérito investigou suposta irregularidade na contratação da empresa Logos Assessoria pela Amplanorte, a associação de municípios do Planalto Norte. O Ministério Público concluiu que os valores eram condizentes com a complexidade do serviço prestado e que não havia justa causa para prosseguir ou ajuizar ação. Caso arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 51,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Controle de frequência de servidora de Mafra foi investigado e caso arquivado",
+  "description": "O inquérito apurou supostas irregularidades no lançamento de informações no controle de frequência da servidora Marcilia Ruthes Olinisky e eventual conhecimento e anuência de sua chefia imediata. Os fatos não foram confirmados durante a instrução e o Ministério Público arquivou o caso por falta de justa causa.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 52,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Prefeito de Mafra foi investigado por descuido com o estádio municipal; MP arquivou",
+  "description": "O inquérito apurou suposto desvio de finalidade, quebra da impessoalidade e omissão do prefeito Wellington Roberto Bielecki quanto à preservação do patrimônio público, no caso o Estádio de Mafra. Os fatos não foram confirmados ao longo da instrução e o Ministério Público concluiu não haver justa causa para prosseguir ou ajuizar ação. Caso arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 53,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Suspeita de empresa de fachada em contratos da antiga SDR de Mafra ficou sem resposta",
+  "description": "O inquérito apurou supostos atos de improbidade envolvendo a empresa Susi Nazaré Mariani Waltrick Sommariva ME em contratos com a antiga Secretaria de Desenvolvimento Regional de Mafra, sob a suspeita de ser empresa de fachada que não prestou os serviços contratados. O responsável pela empresa morreu no curso do procedimento e a extinção da SDR levou à perda de grande parte dos documentos, então em papel, o que impediu esclarecer se os serviços foram prestados. O extrato está truncado e não permite afirmar o desfecho.",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 54,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura irregularidades apontadas pelo Ministério da Saúde no Hospital São Vicente de Paulo",
+  "description": "O Ministério Público instaurou inquérito civil para apurar eventual improbidade administrativa a partir das irregularidades apontadas na produção de Alta Complexidade em Traumato-Ortopedia entre 2012 e 2020 no Hospital São Vicente de Paulo, em Mafra. A apuração tem como base o relatório final de auditoria do Ministério da Saúde. O caso foi aberto em fevereiro de 2024 e segue em apuração.",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 55,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Investigação aberta em 2013 em Mafra terminou arquivada por prescrição",
+  "description": "O inquérito civil envolvendo Paulo Sérgio Dutra e outros foi encerrado sem ação judicial. O Ministério Público concluiu não haver indícios de irregularidade que justificassem ação civil pública nem dolo específico que permitisse ação de reparação de danos, e registrou que os atos de improbidade estavam prescritos. Ninguém foi responsabilizado.",
+  "status": "⚫ prescrito",
+  "severity": "media"
+ },
+ {
+  "i": 56,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Servidora de Mafra alegou perseguição em remanejamento; MP e Justiça não confirmaram",
+  "description": "O inquérito apurou suposta irregularidade na relotação da servidora efetiva Sulei Mari de Lima, auxiliar administrativa transferida da Secretaria de Obras e Serviços para a Secretaria de Administração. A Justiça já havia julgado mandado de segurança sobre o caso sem reconhecer ilegalidade no ato. O Ministério Público não encontrou indícios de assédio moral, perseguição ou desvio de finalidade, e arquivou.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 57,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 58,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Jornada e horas extras na Saúde de Mafra foram investigadas e caso foi arquivado",
+  "description": "O inquérito apurou supostas práticas de improbidade no âmbito da Secretaria de Saúde de Mafra atribuídas a Maria Elizete Solesinski: descumprimento de jornada, jornada concomitante, concessão indevida de horas extras acima do permitido e recebimento de salário-base superior ao dos demais da mesma classe. Os fatos não foram confirmados na instrução e o Ministério Público arquivou por falta de justa causa.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 59,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 60,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Secretário de Mafra foi investigado por reembolso de combustível e recebeu menos que o devido",
+  "description": "A partir de denúncia anônima, o inquérito apurou o suposto recebimento indevido de reembolso de combustível por Enalto de Oliveira Gondrige. As diligências indicaram o contrário: o ressarcimento foi menor do que os valores efetivamente devidos pela administração. O Ministério Público também constatou que faltava regulamentação da lei municipal, suprida depois por instrução normativa sobre prestação de contas. Caso arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 61,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Aliados políticos do prefeito de Mafra viraram assessores; MP não viu favorecimento",
+  "description": "O inquérito apurou notícia de desvio de finalidade na nomeação para cargos comissionados de Nery Antônio Nader Júnior, como assessor de imprensa, e Luis Alfredo Nader, como assessor jurídico do instituto de previdência municipal, ambos apontados como alinhados politicamente ao prefeito Wellington Roberto Bielecki. O Ministério Público concluiu que as nomeações atenderam aos parâmetros legais, que a capacidade técnica foi comprovada e que não houve favorecimento político. Caso arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 62,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou suspeita de fraude em licitações vencidas pela Celk Sistemas em Mafra",
+  "description": "A partir de denúncia anônima, o inquérito investigou eventual fraude em processos licitatórios do município de Mafra vencidos pela empresa Celk Sistemas. O Ministério Público verificou que os procedimentos respeitaram os ditames legais e contaram com a participação de várias empresas, sem elementos mínimos de direcionamento ou outras fraudes. Caso arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 63,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Denúncia sobre bebida e desvio de merenda em escola de Mafra não foi confirmada",
+  "description": "O inquérito apurou notícia de irregularidades na EEB Jovino Lima, em Mafra: fraudes no registro de ponto, substituição de professores efetivos por temporários, uso de bebida alcoólica por professores no ambiente escolar e distribuição da merenda entre professores. O Ministério Público concluiu que a implantação do ponto eletrônico encerrou a possibilidade de registro prévio ou por terceiros, e que os demais fatos foram negados e não foram comprovados.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 64,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP investigou o Departamento de Patrimônio da prefeitura de Mafra e arquivou",
+  "description": "O inquérito apurou indícios de afronta à moralidade administrativa por irregularidades no Departamento de Patrimônio da Prefeitura de Mafra. O Ministério Público não encontrou indícios de irregularidade no setor nem comprovação de conduta dolosa, e verificou que os procedimentos da lei municipal foram obedecidos. O caso foi arquivado, com remessa ao Conselho Superior do MP.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 65,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Terceirizado dirigia para a prefeitura de Mafra e bateu; município pagou o prejuízo",
+  "description": "O inquérito apurou o desvio de função de um trabalhador contratado pela empresa Orbenk para serviços gerais que estaria atuando como motorista e teria causado um acidente de trânsito, com os danos materiais arcados pelo município de Mafra. O Ministério Público concluiu não haver justa causa para prosseguir com a investigação ou ajuizar ação judicial, e arquivou o caso.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 66,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Obra da prefeitura de Mafra causou problema de esgoto no Bairro Restinga; caso resolvido",
+  "description": "O inquérito apurou suposta irregularidade no sistema de esgoto decorrente de obra pública feita pelo município em 2020 na Rua Joaquim Pereira Ramos, no Bairro Restinga. O Ministério Público não constatou dano ambiental e verificou que a intervenção municipal solucionou o problema de drenagem pluvial no local. Sem fundamento para ação judicial, o caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 67,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP vai à Justiça contra Mafra por ônibus escolar lotado e sem acesso para deficientes",
+  "description": "O inquérito acompanhou a notícia de irregularidades no transporte escolar de alunos até a Escola Vereador Evaldo Steidel, com riscos à segurança dos usuários. O Ministério Público ajuizou ação civil pública para obrigar o município de Mafra a adequar os veículos ao limite de capacidade e a disponibilizar espaço destinado a pessoas com deficiência, conforme a norma técnica da ABNT. Com a ação em curso, o inquérito foi arquivado.",
+  "status": "🔴 ACP ajuizada",
+  "severity": "alta"
+ },
+ {
+  "i": 68,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 69,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Vereador de Mafra também ocupava cargo comissionado; MP arquivou a investigação",
+  "description": "O inquérito apurou indícios de irregularidade na contratação de João Reiser, vereador do município que também era servidor público comissionado, além de outras irregularidades apontadas na Secretaria Municipal de Saúde. O Ministério Público concluiu não haver justa causa para prosseguir com a investigação ou ajuizar ação judicial, e arquivou o caso.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ }
+]

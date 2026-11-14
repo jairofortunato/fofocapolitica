@@ -1,0 +1,524 @@
+[
+ {
+  "i": 0,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura concurso público irregular em Botuverá e arquiva após regularização",
+  "description": "O inquérito civil apurou a realização de concurso público para o Município de Botuverá pela Unifebe, com possíveis erros de impressão nas provas. Embora alguns candidatos tenham entregue provas com falhas, o problema atingiu todos os concorrentes do mesmo cargo e foi resolvido rapidamente, sem quebra do princípio da isonomia. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 1,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura obrigatoriedade de vacinação contra Covid em Botuverá e arquiva",
+  "description": "O inquérito civil investigou a existência de decreto municipal obrigatorizando a vacinação contra a Covid-19 dos agentes públicos de Botuverá e a instauração de Processo Administrativo Disciplinar contra servidores que se recusaram a se vacinar. Não foi encontrada normativa municipal específica sobre o tema nem qualquer punição aos servidores. O caso foi arquivado por ausência de irregularidade.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 2,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP firma TAC com Botuverá por construção em área de preservação permanente",
+  "description": "O inquérito civil apurou construção em área de preservação permanente em imóvel na Estrada Geral Águas Negras, em Botuverá. Foi firmado Termo de Ajustamento de Conduta (TAC) com o Município e o proprietário, prevendo elaboração e execução de Plano de Recuperação de Área Degradada (PRAD), com multa em caso de descumprimento.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 3,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 4,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 5,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 6,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 7,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura contratação irregular de fisioterapeuta em Botuverá e município regulariza",
+  "description": "O inquérito civil apurou que o Município de Botuverá prorrogava contrato de trabalho por tempo determinado com uma profissional de fisioteria, apesar de haver aprovados em concurso público para o cargo. Ao final da instrução, a situação foi corrigida com a nomeação de uma nova servidora, e o caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 8,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 9,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 10,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP ajuiza ACP contra Botuverá por manter cargo comissionado declarado inconstitucional",
+  "description": "O Ministério Público apurou que o Município de Botuverá, apesar de decisão do TJSC declarando inconstitucional o cargo de Diretor de Controle Interno e Transparência Pública, editou nova lei mantendo a mesma estrutura administrativa. Diante disso, foi ajuizada Ação Civil Pública com pedido de tutela de urgência visando à exoneração do ocupante do cargo, à proibição de novas nomeações e à cessação da situação incompatível com a Constituição.",
+  "status": "🔴 ACP ajuizada",
+  "severity": "alta"
+ },
+ {
+  "i": 11,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 12,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 13,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 14,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 15,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 16,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração em Botuverá após município acatar recomendação",
+  "description": "O inquérito civil foi instaurado para apurar irregularidades no Município de Botuverá. Ao final, verificou-se que a municipalidade acatou as disposições contidas na Recomendação n. 0003/2022/01PJ/BRU, não havendo fundamento para propositura de ação civil pública. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 17,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura regularização do Conselho Tutelar de Botuverá e arquiva",
+  "description": "O inquérito civil investigou a situação do Conselho Tutelar do Município de Botuverá. Verificou-se que o processo de escolha suplementar de membros foi concluído, não havendo fundamento para propositura de ação civil pública. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 18,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 19,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 20,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura gestão democrática em Botuverá e arquiva após implementação",
+  "description": "O inquérito civil investigou a gestão democrática na escolha de diretor escolar no Município de Botuverá. O município concretizou a gestão democrática por meio do Decreto Municipal n. 3.099/2023, não havendo mais razão para o prosseguimento do feito. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 21,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração em Botuverá após município cumprir recomendação",
+  "description": "O inquérito civil apurou irregularidades no Município de Botuverá. O município acatou as disposições da Recomendação n. 0003/2022/01PJ/BRU e não houve fundamento para ação civil pública. O caso foi arquivado. O texto do extrato está truncado na origem.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 22,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 23,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP firma acordos de não persecução e ajuiza ação de ressarcimento em Botuverá",
+  "description": "O inquérito civil apurou beneficiamento indevido de servidor do Município de Botuverá em acordo firmado em ação trabalhista, envolvendo o Partido Progressista e outros investigados. Foram firmados dois acordos de não persecução civil e ajuizada ação de ressarcimento ao erário. O caso foi arquivado.",
+  "status": "🔴 ACP ajuizada",
+  "severity": "alta"
+ },
+ {
+  "i": 24,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 25,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP encerra TAC com Botuverá e AGIR após cumprimento de metas",
+  "description": "O inquérito civil resultou em Termo de Ajustamento de Conduta (TAC) firmado com o Município de Botuverá e a Agência Intermunicipal de Regulação do Médio Vale do Itajaí (AGIR). Após o aditamento do TAC e o atingimento dos objetivos, o caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 26,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 27,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura ausência de protocolo de escuta especializada em Botuverá e caso é arquivado",
+  "description": "O inquérito civil investigou a ausência do Comitê de Gestão Colegiada da Rede de Cuidado e Proteção Social de Crianças e Adolescentes Vítimas ou Testemunhas de Violência no Município de Botuverá. O comitê foi devidamente instituído e o Protocolo de Escuta Especializada foi implementado. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 28,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 29,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 30,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração sobre medida socioeducativa em Botuverá após regularização",
+  "description": "O inquérito civil apurou irregularidades no serviço de medida socioeducativa no Município de Botuverá. O município cumpriu as exigências da Recomendação 0009/2023/01PJ/BRU e o serviço encontra-se em conformidade com a Lei n. 12.594/2012 (SINASE). O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 31,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 32,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 33,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 34,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura Conselho Tutelar de Botuverá e arquiva após conformidade",
+  "description": "O inquérito civil apurou a situação do Conselho Tutelar do Município de Botuverá. Verificou-se que o município e o Conselho Tutelar estavam cumprindo as obrigações estabelecidas na legislação sobre a manutenção e o funcionamento do respectivo Conselho Tutelar. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 35,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 0,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE converte inspeção em tomada de contas contra gestores de Botuverá por dano de R$ 99 mil",
+  "description": "O TCE converteu o Procedimento Apuratório Preliminar em Tomada de Contas Especial em relação à irregularidade descrita no item 2.1 do Relatório, que resultou em dano ao erário quantificável no valor total de R$ 99.286,73. Foi determinada responsabilidade solidária e citação dos Srs. Rodrigo Ivan Lazzarotti (Assessor Jurídico), Cleber José Costa (Secretário de Administração e Finanças), Rogério Comandolli (Gerente Administrativo) e Alcir Merizio (Chefe do Poder Executivo) para apresentarem defesa.",
+  "status": "🔴 multa aplicada",
+  "severity": "alta"
+ },
+ {
+  "i": 1,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE considera parcialmente procedente representação sobre pregão de pneus em Botuverá",
+  "description": "O TCE julgou parcialmente procedente a Representação acerca de supostas irregularidades no Edital de Pregão Eletrônico n. 026/2021, para aquisição de pneus e câmaras de ar pela Prefeitura de Botuverá. A exigência de profundidade mínima de sulco de 23 mm pode se enquadrar como inexigibilidade de licitação. O TCE recomendou que o município inclua justificativas técnicas e legais em futuras exigências semelhantes.",
+  "status": "⬛ julgado irregular",
+  "severity": "media"
+ },
+ {
+  "i": 2,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 parecer pela aprovação",
+  "severity": "media"
+ },
+ {
+  "i": 3,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 parecer pela aprovação",
+  "severity": "media"
+ },
+ {
+  "i": 4,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE não conhece representação sobre controle de frota em Botuverá mas recomenda providências",
+  "description": "O TCE não conheceu a Representação sobre ausência de controle da movimentação da frota municipal de Botuverá por não atender aos critérios de seletividade. No entanto, deu conhecimento do processo ao órgão de Controle Interno da Prefeitura para que adote providências cabíveis.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 5,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 parecer pela aprovação",
+  "severity": "media"
+ },
+ {
+  "i": 6,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta irregularidades em atos de pessoal em Botuverá e encaminha para apuração",
+  "description": "O TCE conheceu a Representação acerca de possíveis irregularidades em atos de pessoal no Município de Botuverá e determinou o encaminhamento dos autos às Diretorias de Gestão, Licitações e Contratos e de Atos de Pessoal para análise e adoção de providências, incluindo inspeções e auditorias junto à Prefeitura.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 7,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 parecer pela aprovação",
+  "severity": "media"
+ },
+ {
+  "i": 8,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 9,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 10,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 11,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 12,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE julga procedente irregularidade no recolhimento de FGTS para comissionados em Botuverá",
+  "description": "O TCE julgou procedente a Representação e constatou o recolhimento de FGTS em favor de servidores ocupantes exclusivamente de cargos em comissão (comissionados 'puros') da Prefeitura Municipal de Botuverá entre julho de 2019 e abril de 2024, em desrespeito ao Prejulgado n. 1752 do TCE e à jurisprudência do TJSC. Os autos foram arquivados em vista da solução das irregularidades apuradas.",
+  "status": "⬛ julgado irregular",
+  "severity": "alta"
+ },
+ {
+  "i": 13,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 14,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE recomenda providências a Botuverá sobre descumprimento contratual",
+  "description": "O TCE não conheceu da Representação sobre supostas irregularidades no Contrato n. 17/2022, decorrente de Dispensa, por não atingir os critérios de seletividade. No entanto, recomendou à Prefeitura Municipal de Botuverá que, diante de casos de descumprimento contratual, adote providências para a responsabilização do contratado, nos termos dos arts. 155 e 156 da Lei n. 14.133/21.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 15,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 16,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 17,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE determina suspensão cautelar de recolhimento de FGTS para comissionados em Botuverá",
+  "description": "O TCE converteu o Procedimento Apuratório Preliminar em Representação e determinou cautelarmente a suspensão dos recolhimentos de FGTS na folha de pagamento dos servidores ocupantes de cargo em comissão da Prefeitura Municipal de Botuverá, em face da irregularidade apontada, até deliberação ulterior do Tribunal.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 18,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 19,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 20,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 21,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ }
+]

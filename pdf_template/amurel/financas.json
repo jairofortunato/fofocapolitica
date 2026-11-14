@@ -1,0 +1,24 @@
+{
+ "_fonte": "pop: IBGE Censo 2022 (agregado 4714/var 93). rec/desp: Siconfi/Tesouro, RREO 2025 6º bimestre, Anexo 01 — rec=TotalReceitas 'Até o Bimestre (c)', desp=TotalDespesas 'DESPESAS EMPENHADAS ATÉ O BIMESTRE (f)'. Mesma fonte e definição usadas na AMREC e na AMESC (população obtida para 18/18 cidades; dado fiscal extraído para as 13 cidades da AMUREL que têm RREO 2025/6º bimestre publicado, com linha única por conta/coluna em todas elas).",
+ "_lacunas": "Jaguaruna, Gravatal, Treze de Maio, Sangão e Armazém não têm RREO 2025 6º bimestre publicado no Siconfi. Verificado bimestre a bimestre: Jaguaruna, Gravatal, Treze de Maio e Sangão não publicaram nenhum RREO em 2024 nem em 2025, o que descumpre a LRF; Armazém publicava regularmente até o 1º bimestre de 2025 e parou desde então. Ficam com rec/desp nulos e o PDF mostra '—'. Não foram preenchidos com a receita bruta do DCA porque ela é ~6% maior que a receita líquida do RREO e inflaria essas cidades em comparação com as demais.",
+
+ "Tubarão":            {"pop": 110088, "rec": 569540619, "desp": 546488060},
+ "Imbituba":           {"pop": 52579, "rec": 355305703, "desp": 350268531},
+ "Laguna":             {"pop": 42785, "rec": 227168989, "desp": 222285029},
+ "Braço do Norte":     {"pop": 33773, "rec": 239295149, "desp": 220117573},
+ "Capivari de Baixo":  {"pop": 23975, "rec": 155426897, "desp": 148647981},
+ "São Ludgero":        {"pop": 13509, "rec": 115795037, "desp": 115266722},
+ "Imaruí":             {"pop": 11881, "rec": 74048623, "desp": 71649032},
+ "Pescaria Brava":     {"pop": 10190, "rec": 75227331, "desp": 73565843},
+ "Grão-Pará":          {"pop": 6277, "rec": 63277984, "desp": 62826583},
+ "Rio Fortuna":        {"pop": 4847, "rec": 48235522, "desp": 45408613},
+ "Pedras Grandes":     {"pop": 4245, "rec": 57808206, "desp": 42393681},
+ "São Martinho":       {"pop": 3405, "rec": 40606135, "desp": 38347053},
+ "Santa Rosa de Lima": {"pop": 2088, "rec": 36265907, "desp": 34475105},
+
+ "Jaguaruna":          {"pop": 20375, "rec": null, "desp": null},
+ "Sangão":             {"pop": 12882, "rec": null, "desp": null},
+ "Gravatal":           {"pop": 12435, "rec": null, "desp": null},
+ "Armazém":            {"pop": 8834, "rec": null, "desp": null},
+ "Treze de Maio":      {"pop": 7362, "rec": null, "desp": null}
+}

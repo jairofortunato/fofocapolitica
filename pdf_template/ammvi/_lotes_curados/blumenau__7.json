@@ -1,0 +1,632 @@
+[
+ {
+  "i": 490,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração sobre negligência médica em Blumenau após condenação no CRM",
+  "description": "O Ministério Público apurou suposta negligência e imperícia do médico Lucindo Pereira Filho em Blumenau. Foi instaurado inquérito policial e o médico sofreu condenação no CRM. O MP concluiu pela inexistência de elementos para propositura de ação civil pública e arquivou o caso.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 491,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP firma TAC com Hospital da Unimed em Blumenau",
+  "description": "O Ministério Público firmou Termo de Compromisso de Ajustamento de Conduta com o Hospital da Unimed. O objetivo foi atingido e o inquérito civil foi arquivado.",
+  "status": "🟠 TAC firmado",
+  "severity": "media"
+ },
+ {
+  "i": 492,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP ajuíza ACP por danos ambientais contra proprietários em Blumenau",
+  "description": "O Ministério Público apurou danos ambientais e ajuizou Ação Civil Pública n. 5024175-66.2024.8.24.0008 contra Ricardo dos Santos e Jociane dos Santos de Quadros para reparação dos danos constatados no inquérito civil. O procedimento foi encerrado e anexado à petição inicial.",
+  "status": "🔴 ACP ajuizada",
+  "severity": "alta"
+ },
+ {
+  "i": 493,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP ajuíza ACP contra proprietários por danos ambientais em Blumenau",
+  "description": "O Ministério Público ajuizou Ação Civil Pública n. 5024175-66.2024.8.24.0008 contra Ricardo dos Santos e Jociane dos Santos de Quadros para reparação de danos ambientais. O inquérito civil foi encerrado e anexado à petição inicial.",
+  "status": "🔴 ACP ajuizada",
+  "severity": "alta"
+ },
+ {
+  "i": 494,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP ajuíza ACP contra administradora por danos ambientais em Blumenau",
+  "description": "O Ministério Público ajuizou Ação Civil Pública n. 5029156-41.2024.8.24.0008 contra a WDF Administradora de Bens Ltda. e Heriton Nicolletti para reparação de danos ambientais. O inquérito foi encerrado e anexado à petição inicial.",
+  "status": "🔴 ACP ajuizada",
+  "severity": "alta"
+ },
+ {
+  "i": 495,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração após garantir acesso a exame de Biologia Molecular no Médio Vale do Itajaí",
+  "description": "O Ministério Público apurou a inexistência de acesso dos pacientes do Médio Vale do Itajaí ao exame de Biologia Molecular. O acesso foi estabelecido e, sem elementos para propositura de ação judicial, o caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 496,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 497,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP ajuíza ACP contra proprietários por danos ambientais em Blumenau",
+  "description": "O Ministério Público ajuizou Ação Civil Pública n. 5030260-68.2024.8.24.0008 contra o espólio de Elvira de Amorim, Dilson de Andrade e outros para reparação de danos ambientais. O inquérito civil foi encerrado e anexado à petição inicial.",
+  "status": "🔴 ACP ajuizada",
+  "severity": "alta"
+ },
+ {
+  "i": 498,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP ajuíza ACP contra proprietários por danos ambientais em Blumenau",
+  "description": "O Ministério Público ajuizou Ação Civil Pública n. 5027614-85.2024.8.24.0008 contra Adilson Correia, Amarildo Miguel Jacinto e outros proprietários de imóvel no Bairro Itoupava Central para reparação de danos ambientais. O inquérito foi encerrado.",
+  "status": "🔴 ACP ajuizada",
+  "severity": "alta"
+ },
+ {
+  "i": 499,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 500,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração sobre condições da 1ª Delegacia de Polícia de Blumenau",
+  "description": "O Ministério Público apurou a falta de acessibilidade e as precárias condições de infraestrutura da 1ª Delegacia de Polícia de Blumenau. A unidade foi instalada em nova sede e o serviço regularizado. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 501,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 502,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP firma TAC com Maike Fabiana Fritzke em Blumenau",
+  "description": "O Ministério Público firmou Termo de Compromisso de Ajustamento de Conduta com Maike Fabiana Fritzke. O objetivo foi atingido e o inquérito civil foi arquivado.",
+  "status": "🟠 TAC firmado",
+  "severity": "media"
+ },
+ {
+  "i": 503,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP firma TAC com Gustavo Córdova da Silva em Blumenau",
+  "description": "O Ministério Público firmou Termo de Compromisso de Ajustamento de Conduta com Gustavo Córdova da Silva. O objetivo foi atingido e o inquérito civil foi arquivado.",
+  "status": "🟠 TAC firmado",
+  "severity": "media"
+ },
+ {
+  "i": 504,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 505,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP firma TAC com Alameda Sky Spe Ltda. em Blumenau",
+  "description": "O Ministério Público firmou Termo de Compromisso de Ajustamento de Conduta com a empresa Alameda Sky Spe Ltda. O objetivo foi atingido e o inquérito civil foi arquivado.",
+  "status": "🟠 TAC firmado",
+  "severity": "media"
+ },
+ {
+  "i": 506,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 507,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 508,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração ambiental em Blumenau após regeneração natural da área",
+  "description": "O Ministério Público apurou intervenção ambiental em Blumenau. A área atingida encontra-se isolada e em processo de regeneração natural, sem novas intervenções. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 509,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 510,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP firma TAC com Administradora de Bens H. J. Schildwachter Ltda. em Blumenau",
+  "description": "O Ministério Público firmou Termo de Compromisso de Ajustamento de Conduta com a Administradora de Bens H. J. Schildwachter Ltda. O objetivo foi atingido e o inquérito civil foi arquivado.",
+  "status": "🟠 TAC firmado",
+  "severity": "media"
+ },
+ {
+  "i": 511,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 512,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP firma TAC por danos ambientais em Blumenau",
+  "description": "O Ministério Público firmou Termo de Compromisso de Ajustamento de Conduta com Jennifer Thais Pereira, Jefferson Luiz Pereira e Teresinha Aparecida Pereira. O objetivo foi atingido e o inquérito civil foi arquivado.",
+  "status": "🟠 TAC firmado",
+  "severity": "media"
+ },
+ {
+  "i": 513,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração sobre preço da gasolina em postos de Blumenau",
+  "description": "O Ministério Público apurou suposta prática abusiva e indícios de cartel no aumento do preço da gasolina em postos de Blumenau. O PROCON municipal fiscalizou e as empresas apresentaram justificativas. O MP concluiu pela ausência de elevação arbitrária em regime de liberdade de preços, cabendo ao CADE a apuração de cartel. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 514,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva acompanhamento de recomendação sobre prazos de inquéritos policiais em Blumenau",
+  "description": "O Ministério Público fiscalizava o cumprimento da Recomendação n. 001/2023 quanto aos prazos para conclusão de inquéritos policiais e requisições ministeriais em Blumenau. O objeto principal já era acompanhado por outras vias de controle externo e o caso foi arquivado por ausência de interesse de agir.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 515,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 516,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP ajuíza ACP contra construtoras por danos ambientais em Blumenau",
+  "description": "O Ministério Público ajuizou Ação Civil Pública n. 5000786-81.2026.8.24.0008 contra Construções Schroeder Ltda. e Sulcatarinense Mineração Artefatos de Cimento e Construções Ltda. para reparação de danos ambientais. O inquérito foi encerrado.",
+  "status": "🔴 ACP ajuizada",
+  "severity": "alta"
+ },
+ {
+  "i": 517,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração após implementação de centro de fauna silvestre no Vale do Itajaí",
+  "description": "O Ministério Público apurou a necessidade de criação de centro de atendimento emergencial de fauna silvestre no Vale do Itajaí. Com a efetiva implementação do serviço, o caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 518,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP executa multa de R$ 30 mil por descumprimento de TAC de acessibilidade em Blumenau",
+  "description": "O Ministério Público fiscalizava o cumprimento de TAC firmado com a FJO Construtora e Incorporadora Ltda. para adequação do Edifício Residencial Fritz Júnior às normas de acessibilidade. Constatado o descumprimento, o MP iniciou a execução do título extrajudicial para cobrança de multa de R$ 30 mil e cumprimento da obrigação de fazer.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 519,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP ajuíza ACP contra sociedade de advogados por danos ambientais em Blumenau",
+  "description": "O Ministério Público ajuizou Ação Civil Pública n. 5003570-31.2026.8.24.0008 contra Costa & Costa Sociedade de Advogados e L.V. Intermediação de Negócios Ltda. para recuperação de danos ambientais. O inquérito foi encerrado.",
+  "status": "🔴 ACP ajuizada",
+  "severity": "alta"
+ },
+ {
+  "i": 520,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP firma TAC com Administradora de Bens Peters Ltda. em Blumenau",
+  "description": "O Ministério Público firmou Termo de Compromisso de Ajustamento de Conduta com a Administradora de Bens Peters Ltda. O objetivo foi atingido e o inquérito civil foi arquivado.",
+  "status": "🟠 TAC firmado",
+  "severity": "media"
+ },
+ {
+  "i": 521,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP firma TAC em Blumenau",
+  "description": "O Ministério Público firmou Termo de Ajustamento de Conduta com compromissário. O objetivo foi atingido e o inquérito civil foi arquivado.",
+  "status": "🟠 TAC firmado",
+  "severity": "media"
+ },
+ {
+  "i": 522,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP ajuíza ACP em Blumenau",
+  "description": "O Ministério Público ajuizou Ação Civil Pública n. 5012802-67.2026.8.24.0008, que abrange integralmente o objeto do inquérito civil. O procedimento foi arquivado.",
+  "status": "🔴 ACP ajuizada",
+  "severity": "alta"
+ },
+ {
+  "i": 523,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 0,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE investiga contratação de cenografia da Páscoa 2026 em Blumenau",
+  "description": "O TCE instaurou representação para apurar possíveis irregularidades no Processo de Contratação n. 001/2026 do Blumenau Eventos para cenografia da Páscoa 2026, com suspeita de violação ao princípio da isonomia. O pedido de sustação cautelar foi indeferido. O processo está em tramitação.",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 1,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 2,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 3,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 4,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE suspende licitação de recuperação asfáltica de R$ 10,2 milhões em Blumenau por suspeita de sobrepreço",
+  "description": "O TCE determinou a sustação cautelar da Concorrência n. 004/2023 da Prefeitura de Blumenau para contratação de serviços de recuperação asfáltica, orçada em R$ 10.187.986,25. Foram identificados possíveis sobrepreços de R$ 1.902.489,18 por orçamento inadequado e R$ 244.719,57 por BDI irregular, além de projeto básico inadequado e ausência de critérios técnicos de medição.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "alta"
+ },
+ {
+  "i": 5,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE multa prefeito e ex-secretário de Blumenau por dispensas irregulares de licitação",
+  "description": "O TCE considerou irregulares as contratações por dispensa de licitação ns. 2019/107 a 2020/163 da Prefeitura de Blumenau, por falta de comprovação de caráter emergencial. O ex-prefeito Mário Hildebrandt foi multado em R$ 2.500 e o ex-secretário Michael Raul Schneider também foi multado em R$ 2.500.",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta"
+ },
+ {
+  "i": 6,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE apura irregularidades em pregão de uniformes escolares de R$ 15,3 milhões em Blumenau",
+  "description": "O TCE conheceu representação sobre possíveis irregularidades no Pregão Presencial n. 015/2024 da Prefeitura de Blumenau para registro de preços de kits de uniformes escolares, no valor de R$ 15.314.912,50. O pedido de sustação cautelar foi indeferido por risco de dano reverso. Foi determinada a audiência do Secretário Municipal de Educação.",
+  "status": "🟡 em instrução (citação/audiência)",
+  "severity": "alta"
+ },
+ {
+  "i": 7,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE suspende licitação de enrocamento em Blumenau por suspeita de sobrepreço de R$ 196 mil",
+  "description": "O TCE determinou a sustação cautelar do Edital de Licitação n. 02/2023 da Prefeitura de Blumenau para execução de enrocamento com pedra arrumada. Foram identificadas irregularidades como orçamento inadequado com BDI em desconformidade, resultando em possível sobrepreço de R$ 196.560,00, além de projeto inadequado e ausência de pesquisas de preços.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "alta"
+ },
+ {
+  "i": 8,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE multa ex-secretário de Blumenau por contratação direta de software sem licitação",
+  "description": "O TCE considerou parcialmente procedente representação sobre irregularidades na Inexigibilidade de Licitação 09-108/2017 e Contrato n. 252/17 para desenvolvimento de sistema Procon em Blumenau. O secretário municipal Anderson Rosa foi multado em R$ 1.684,66 por ausência de licitação sem comprovação de inviabilidade de competição.",
+  "status": "🔴 multa aplicada",
+  "severity": "alta"
+ },
+ {
+  "i": 9,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 10,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "media"
+ },
+ {
+  "i": 11,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta irregularidade em gratificação a servidores comissionados de Blumenau",
+  "description": "O TCE julgou procedente representação sobre irregularidades na concessão e pagamento de Gratificação de Representação a servidores comissionados da Prefeitura de Blumenau, cujas atribuições já pressupõem regime especial de dedicação, configurando duplicidade de pagamento. O TCE determinou a regularização no prazo de 180 dias.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "alta"
+ },
+ {
+  "i": 12,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta irregularidades em PPP de iluminação pública de Blumenau de R$ 3,3 milhões anuais",
+  "description": "O TCE analisou edital de Concorrência Pública n. 11/2024 para PPP de iluminação pública de Blumenau e considerou não atendidas orientações técnicas, incluindo inconsistências no cálculo do WACC e falta de justificativa para gastos anuais de R$ 3,3 milhões com iluminação de eventos. A cautelar foi concedida.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "alta"
+ },
+ {
+  "i": 13,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 14,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE investiga pregão de publicação legal de Blumenau por exigência restritiva",
+  "description": "O TCE converteu em representação procedimento sobre possíveis irregularidades no Pregão Eletrônico n. 115/2023 da Prefeitura de Blumenau para serviços de publicação legal, orçado em R$ 399.625,88. Foi identificada exigência restritiva de comprovação de acessos exclusivamente via Google Analytics. O pedido de sustação cautelar foi indeferido.",
+  "status": "🟡 em instrução (citação/audiência)",
+  "severity": "media"
+ },
+ {
+  "i": 15,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 16,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE apura irregularidades no contrato de transporte coletivo de Blumenau após CPI",
+  "description": "O TCE converteu em representação procedimento baseado em relatório final de CPI da Câmara de Blumenau sobre a execução do Contrato n. 042/2017 de concessão do transporte coletivo urbano, operado pela Blumob. Foram constatados indícios de irregularidades e determinada a análise de mérito pela DLC.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "alta"
+ },
+ {
+  "i": 17,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE considera parcialmente procedente representação sobre dispensas de licitação em Blumenau",
+  "description": "O TCE considerou parcialmente procedente representação sobre irregularidades nas Dispensas de Licitação ns. 08-05 e 08-06/2019 da Prefeitura de Blumenau para estabilização de taludes. O TCE recomendou que o município busque celeridade e registre documentação em futuras contratações emergenciais.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 18,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 19,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE apura suspeita de conluio em pregão do SAMAE de Blumenau",
+  "description": "O TCE converteu em representação procedimento sobre possíveis irregularidades no Pregão Presencial n. 03-2247/2020 do SAMAE de Blumenau para serviços de limpeza e manutenção. Há indícios de conluio entre as empresas MTG Hidro, Betonserv e Raga Construções nos procedimentos licitatórios. Foi determinada audiência dos pregoeiros.",
+  "status": "🟡 em instrução (citação/audiência)",
+  "severity": "alta"
+ },
+ {
+  "i": 20,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 21,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE suspende licitação de gabião em Blumenau por suspeita de sobrepreço de R$ 978 mil",
+  "description": "O TCE determinou a sustação cautelar da Concorrência n. 001/2023 da Prefeitura de Blumenau para execução de gabião tipo caixa, com possíveis sobrepreços de R$ 189.539,19 por BDI irregular e R$ 788.748,53 por ausência de BDI diferenciado, além de projeto inadequado e ausência de ART.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "alta"
+ },
+ {
+  "i": 22,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE suspende licitação de estacionamento rotativo em Blumenau",
+  "description": "O TCE determinou a sustação cautelar do Pregão Presencial n. 005/2022 da Prefeitura de Blumenau para implantação de sistema integrado de gerenciamento de vagas de estacionamento rotativo, por indícios de exigência indevida de qualificação técnica operacional.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "alta"
+ },
+ {
+  "i": 23,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE suspende licitação de obras viárias de R$ 17,6 milhões em Blumenau",
+  "description": "O TCE determinou a sustação cautelar da Concorrência CC 1003/2023 da Prefeitura de Blumenau para melhoria de circulação viária e reurbanização da Rua 2 de Setembro, no valor de R$ 17.601.939,93. Foram identificadas irregularidades como BDI acima do limite máximo, orçamento inadequado e projeto básico insuficiente.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "alta"
+ },
+ {
+  "i": 24,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE condena construtora a devolver R$ 676 mil por superfaturamento em obra de terminais de Blumenau",
+  "description": "O TCE julgou irregulares as contas de Tomada de Contas Especial sobre a construção dos Terminais Integrados Norte e Oeste de Blumenau (Contrato n. 146/2017). A MJRE Construtora Ltda. foi condenada a devolver R$ 676.059,08 por superfaturamento no item de aterro externo, além de multa de R$ 67.605,91.",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta"
+ },
+ {
+  "i": 25,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE apura ausência de cargo de controle interno efetivo em Blumenau",
+  "description": "O TCE instaurou representação sobre a ausência de cargo efetivo específico organizado em carreira para as atribuições de controle interno na Prefeitura de Blumenau, em ofensa aos arts. 31, 70 e 74 da Constituição Federal. Foi determinada a audiência do prefeito para apresentação de justificativas.",
+  "status": "🟡 em instrução (citação/audiência)",
+  "severity": "media"
+ },
+ {
+  "i": 26,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE não conhece representação sobre pregão de enfermagem do GMAU em Blumenau",
+  "description": "O TCE considerou não atendidos os requisitos de admissibilidade de representação do Sindicato Único dos Trabalhadores no Serviço Público de Blumenau sobre possíveis irregularidades no Pregão Eletrônico n. 2/2026 para contratação de serviços de técnico em enfermagem do GMAU. O pedido cautelar foi prejudicado e o caso foi arquivado sem análise de mérito.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 27,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🔴 multa aplicada",
+  "severity": "media"
+ },
+ {
+  "i": 28,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 29,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 30,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 31,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta irregularidades em pregão de manutenção urbana de Blumenau",
+  "description": "O TCE determinou cautelarmente a sustação do Pregão Eletrônico n. 55/2025 da Prefeitura de Blumenau para serviços de engenharia de manutenção, por irregularidades no modelo de contratação sem fundamentação em quantitativos, previsão de reajuste com periodicidade inferior a um ano e uso de índice inadequado. O processo está em tramitação.",
+  "status": "❔ em tramitação",
+  "severity": "alta"
+ },
+ {
+  "i": 32,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE suspende licitação de R$ 44,6 milhões para ampliação de sistema de água em Blumenau",
+  "description": "O TCE determinou a sustação cautelar da Concorrência Internacional n. 1004/2023 da Prefeitura de Blumenau para ampliação da captação e adução de água bruta, orçada em R$ 44.619.655,04, por orçamento básico inadequadamente avaliado na unidade de medida de determinados itens.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "alta"
+ },
+ {
+  "i": 33,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 34,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 35,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE não conhece representação sobre concorrência pública em Blumenau",
+  "description": "O TCE considerou não atendidos os critérios de seletividade para representação sobre irregularidades na Concorrência Pública n. 02/2024 da Prefeitura de Blumenau. O pedido de medida cautelar foi prejudicado e o caso foi arquivado sem análise de mérito.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ }
+]

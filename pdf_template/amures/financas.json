@@ -1,0 +1,93 @@
+{
+ "_fonte": "pop: IBGE Censo 2022 (agregado 4714/var 93). rec/desp: Siconfi/Tesouro, RREO 2025 6º bimestre, Anexo 01 — rec=TotalReceitas 'Até o Bimestre (c)', desp=TotalDespesas 'DESPESAS EMPENHADAS ATÉ O BIMESTRE (f)'. Mesma fonte e definição usadas na AMREC, AMESC e AMUREL. 18/18 cidades com RREO 2025/6º bimestre publicado, linha única por conta/coluna em todas.",
+ "Anita Garibaldi": {
+  "pop": 8285,
+  "rec": 67461025,
+  "desp": 62450873
+ },
+ "Bocaina do Sul": {
+  "pop": 3515,
+  "rec": 43390989,
+  "desp": 45277040
+ },
+ "Bom Jardim da Serra": {
+  "pop": 4026,
+  "rec": 52666281,
+  "desp": 48135609
+ },
+ "Bom Retiro": {
+  "pop": 8418,
+  "rec": 59176524,
+  "desp": 53562018
+ },
+ "Campo Belo do Sul": {
+  "pop": 7257,
+  "rec": 52436145,
+  "desp": 47926580
+ },
+ "Capão Alto": {
+  "pop": 2625,
+  "rec": 45209915,
+  "desp": 43279485
+ },
+ "Cerro Negro": {
+  "pop": 3317,
+  "rec": 39590377,
+  "desp": 36613705
+ },
+ "Correia Pinto": {
+  "pop": 15727,
+  "rec": 98552172,
+  "desp": 97615928
+ },
+ "Lages": {
+  "pop": 164981,
+  "rec": 1163528383,
+  "desp": 1031482219
+ },
+ "Otacílio Costa": {
+  "pop": 17312,
+  "rec": 152886741,
+  "desp": 149569389
+ },
+ "Painel": {
+  "pop": 2215,
+  "rec": 37170326,
+  "desp": 38435312
+ },
+ "Palmeira": {
+  "pop": 2561,
+  "rec": 42343041,
+  "desp": 43590254
+ },
+ "Ponte Alta": {
+  "pop": 4437,
+  "rec": 41836684,
+  "desp": 42070537
+ },
+ "Rio Rufino": {
+  "pop": 2397,
+  "rec": 31254489,
+  "desp": 28952590
+ },
+ "São Joaquim": {
+  "pop": 25939,
+  "rec": 183434164,
+  "desp": 202831996
+ },
+ "São José do Cerrito": {
+  "pop": 8708,
+  "rec": 54002239,
+  "desp": 55922833
+ },
+ "Urubici": {
+  "pop": 10834,
+  "rec": 86212433,
+  "desp": 85539570
+ },
+ "Urupema": {
+  "pop": 2656,
+  "rec": 33670054,
+  "desp": 34988447
+ }
+}

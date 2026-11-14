@@ -1,0 +1,545 @@
+{
+ "cidade": "Chapecó",
+ "casos": [
+  {
+   "i": 840,
+   "tipo": "mp",
+   "ref": "06.2022.00003780-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00003780-3",
+   "status": "❔ status indef.",
+   "data": "18/01/2024",
+   "texto": "Ministério Público do Estado de Santa Catarina e Geverson Zorzi. Conclusão: adoção de providências para que a atuação da Polícia Civil e da Polícia Militar ocorra de forma exauriente e eficaz. Ausência de prática de ato ilícito passível de sansão pela Lei n. 8.429/92. Crimes comuns e responsabilidade no âmbito correcional que foram apurados em procedimentos específicos."
+  },
+  {
+   "i": 841,
+   "tipo": "mp",
+   "ref": "06.2022.00003838-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00003838-0",
+   "status": "❔ status indef.",
+   "data": "18/01/2024",
+   "texto": "Superintendente do Complexo Prisional de Chapecó. Conclusão: ausência de comprovação de uso irregular de Instrumentos de Menor Potencial Ofensivo (IMPO) nas unidades do Complexo Prisional de Chapecó."
+  },
+  {
+   "i": 842,
+   "tipo": "mp",
+   "ref": "06.2023.00002874-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00002874-1",
+   "status": "🟡 em apuração",
+   "data": "18/01/2024",
+   "texto": "Penitenciária Agrícola de Chapecó. apurar a divergência entre o saldo de pecúlio que consta em relatório e o existente na conta bancária dos apenados da Penitenciária Agrícola de Chapecó."
+  },
+  {
+   "i": 843,
+   "tipo": "mp",
+   "ref": "06.2024.00000007-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00000007-9",
+   "status": "🟡 em apuração",
+   "data": "18/01/2024",
+   "texto": "Policiais Penais a serem identificados. apurar possível abuso por parte de Policiais Penais \"Marcos Chaga, Baggi e Juliano\" em desfavor dos apenados Emerson Gebel dos Santos e Paulo Cezar de Lima."
+  },
+  {
+   "i": 844,
+   "tipo": "mp",
+   "ref": "06.2024.00000010-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00000010-2",
+   "status": "🟡 em apuração",
+   "data": "18/01/2024",
+   "texto": "Policiais Penais a serem identificados. apurar notícias de maus-tratos e abusos praticados por Policiais Penais, relatadas por presos do Presídio Regional de Xanxerê ao Defensor Público quando da instrução de procedimentos administrativos disciplinares para averiguação da prática de faltas disciplinares."
+  },
+  {
+   "i": 845,
+   "tipo": "mp",
+   "ref": "06.2024.00000794-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000794-0",
+   "status": "🟡 em apuração",
+   "data": "04/03/2024",
+   "texto": "J. L. B. e V.W. (representados). apurar possíveis atos ilícitos praticados por Agentes de Segurança Socioeducativos lotados no Centro de Atendimento Socioeducativo Regional de Chapecó (CASE de Chapecó), durante a prisão em flagrante do conduzido nos autos do APF n. 5021835-56.2023.8.24.0018."
+  },
+  {
+   "i": 846,
+   "tipo": "mp",
+   "ref": "06.2022.00003881-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00003881-3",
+   "status": "🟢 recomendação cumprida",
+   "data": "12/03/2024",
+   "texto": "Guarda Municipal de Chapecó. Conclusão: expedição de recomendação, devidamente acatada pela Guarda Municipal de Chapecó."
+  },
+  {
+   "i": 847,
+   "tipo": "mp",
+   "ref": "06.2023.00001356-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00001356-0",
+   "status": "❔ status indef.",
+   "data": "13/03/2024",
+   "texto": "Órgãos de imprensa locais. Conclusão: os órgãos de imprensa foram devidamente orientados sobre a forma de divulgação de ataques em escolas, bem como, posteriormente, pela ACAERT - Associação Catarinense de Emissoras de Rádio e Televisão."
+  },
+  {
+   "i": 848,
+   "tipo": "mp",
+   "ref": "06.2024.00001188-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00001188-7",
+   "status": "🟡 em apuração",
+   "data": "01/04/2024",
+   "texto": "7ª Promotoria de Justiça e Presídio Regional Feminino de Chapecó. averiguar a possibilidade de instalação de bloqueadores de celulares no Complexo Prisional de Chapecó e instalação de câmeras nas referidas Unidades Prisionais."
+  },
+  {
+   "i": 849,
+   "tipo": "mp",
+   "ref": "06.2024.00001262-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00001262-0",
+   "status": "🟡 em apuração",
+   "data": "01/04/2024",
+   "texto": "7ª Promotoria de Justiça e Unidades Prisionais de Chapecó. apurar suposto pagamento de advogados mediante desconto direto, pela direção de administração prisional, dos valores de pecúlio pertencentes aos apenados do Complexo Prisional de Chapecó."
+  },
+  {
+   "i": 850,
+   "tipo": "mp",
+   "ref": "06.2024.00001478-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00001478-4",
+   "status": "🟡 em apuração",
+   "data": "05/04/2024",
+   "texto": "7ª e 14ª Promotoria de Justiça e Presídio Regional Masculino de Chapecó. apurar possível superação do limite de presos alocados no Presídio Regional de Chapecó."
+  },
+  {
+   "i": 851,
+   "tipo": "mp",
+   "ref": "06.2021.00003270-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00003270-4",
+   "status": "❔ status indef.",
+   "data": "12/04/2024",
+   "texto": "Corregedoria do 2º BPM-Fron Chapecó, Valdecir Miguel Moleta."
+  },
+  {
+   "i": 852,
+   "tipo": "mp",
+   "ref": "06.2024.00001974-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00001974-6",
+   "status": "🟡 em apuração",
+   "data": "02/05/2024",
+   "texto": "mantidas sob sigilo. mantido sob sigilo."
+  },
+  {
+   "i": 853,
+   "tipo": "mp",
+   "ref": "06.2024.00002121-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00002121-9",
+   "status": "🟡 em apuração",
+   "data": "08/05/2024",
+   "texto": "PROCON de Chapecó e Colégio Dinâmico Chapecó S/S Ltda. averiguar denúncias encaminhadas pelo Procon de Chapecó que constatou um elevado número de reclamações registradas contra a empresa \"Colégio Dinâmico S/S Ltda.\", as quais que têm como objeto a notícia de supostas práticas abusivas por parte do estabelecimento, o qual está cobrando valores a respeito de material coletivo."
+  },
+  {
+   "i": 854,
+   "tipo": "mp",
+   "ref": "06.2023.00002311-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00002311-3",
+   "status": "🟠 TAC firmado",
+   "data": "17/05/2024",
+   "texto": "Celestino Capeletti. Conclusão: parcelamento clandestino do solo, com a celebração do termo de ajustamento de conduta, e pela ausência de interesse jurídico a ensejar a adoção de outras medidas, o Ministério Público do Estado de Santa Catarina promove o arquivamento do Inquérito Civil Público n. 06.2022.00003293-0, da 9ª Promotoria de Justiça da Comarca de Chapecó."
+  },
+  {
+   "i": 855,
+   "tipo": "mp",
+   "ref": "01.2024.00015671-6",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00015671-6",
+   "status": "🟢 arquivado",
+   "data": "22/05/2024",
+   "texto": "representante sigiloso, E.A.F., J.R. e Diretoria de Regularização Fundiária e Habitação. Conclusão: representação de suposta promoção de agente público em sítio eletrônico. Remoção voluntária do conteúdo. Causa de satisfação da intenção representativa. Art. 7º, inc. II, Ato 395/2019/PGJ. Indeferimento da Notícia de Fato."
+  },
+  {
+   "i": 856,
+   "tipo": "mp",
+   "ref": "06.2024.00001173-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00001173-2",
+   "status": "🟡 em apuração",
+   "data": "29/05/2024",
+   "texto": "José Paulo Rotava. verificação da necessidade de recuperação da área degradada em APP, no tamanho de 0,2584 hectares, de propriedade do Senhor José Paulo Rotava."
+  },
+  {
+   "i": 857,
+   "tipo": "mp",
+   "ref": "06.2023.00004038-9",
+   "header": "· EXTRATO DE CONVERSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00004038-9 EM INQUÉRITO CIVIL",
+   "status": "❔ status indef.",
+   "data": "12/06/2024",
+   "texto": "mantidas sob sigilo. mantido sob sigilo."
+  },
+  {
+   "i": 858,
+   "tipo": "mp",
+   "ref": "06.2021.00004014-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00004014-8",
+   "status": "❔ status indef.",
+   "data": "04/07/2024",
+   "texto": "Ministério Público do Estado de Santa Catarina e 2º BPM de Chapecó. Conclusão: levantamento de dados realizado. Discussão individual dos casos concretos. Recomendação n. 0005/2021/14PJ/CHA expedida no Procedimento Administrativo n. 09.2018.00004733-3."
+  },
+  {
+   "i": 859,
+   "tipo": "mp",
+   "ref": "06.2024.00002177-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00002177-4",
+   "status": "🟡 em apuração",
+   "data": "04/07/2024",
+   "texto": "Felipe Gustavo Pegoraro e Guilherme Marcks Artifon. apurar a responsabilidade de Guardas Municipais em razão da informação de que agrediram fisicamente o adolescente E. da S., em 7/11/2023, em Chapecó."
+  },
+  {
+   "i": 860,
+   "tipo": "mp",
+   "ref": "06.2022.00003490-6",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00003490-6",
+   "status": "🟢 recomendação cumprida",
+   "data": "08/07/2024",
+   "texto": "Central de Plantão Policial - CPP. Conclusão: foi expedida a Recomendação n. 0003/2023/14PJ/CHA a qual foi acatada pela Autoridade Policial responsável pela Central de Platão Policial - CPP, de Chapecó."
+  },
+  {
+   "i": 861,
+   "tipo": "mp",
+   "ref": "06.2024.00002971-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00002971-1",
+   "status": "🟡 em apuração",
+   "data": "11/07/2024",
+   "texto": "Estado de Santa Catarina, Hospital Regional do Oeste e NN Médicos Ltda. apurar o condicionamento do seguimento de tratamento de tumor medular à realização de procedimento de \"neuromonitorização interoperatória\", o qual não faz parte do rol de procedimentos do SUS, por médicos vinculados ao Hospital Regional do Oeste e sócios da empresa que emitiu orçamento."
+  },
+  {
+   "i": 862,
+   "tipo": "mp",
+   "ref": "06.2024.00001150-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00001150-0",
+   "status": "🟡 em apuração",
+   "data": "12/08/2024",
+   "texto": "Hedvig Olga Kottwitz e Beto Flex. apurar alteração da sinalização das faixas de estacionamento em favor da empresa Beto Flex."
+  },
+  {
+   "i": 863,
+   "tipo": "mp",
+   "ref": "06.2024.00003433-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00003433-6",
+   "status": "🟡 em apuração",
+   "data": "12/08/2024",
+   "texto": "a apurar - proprietários/moradores das residências situadas na Rua São Pedro, 2540-D, Bairro Pinheirinho, em Chapecó. apurar possível vazamento de fossa séptica advinda das residências localizadas na Rua São Pedro, 2540-D, Bairro Pinheirinho, em Chapecó."
+  },
+  {
+   "i": 864,
+   "tipo": "mp",
+   "ref": "06.2024.00003439-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00003439-1",
+   "status": "🟡 em apuração",
+   "data": "12/08/2024",
+   "texto": "Alexandre Volpatto e Olímpia Friggeri Empreendimentos Imobiliários Ltda. apurar possível obstrução de logradouro público, inviabilizando a mobilidade urbana ao se depositar materiais nas Ruas 7 de Setembro e Guaporé, em Chapecó-SC."
+  },
+  {
+   "i": 865,
+   "tipo": "mp",
+   "ref": "06.2024.00001176-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00001176-5",
+   "status": "🟡 em apuração",
+   "data": "13/08/2024",
+   "texto": "Luana Patricia Biasus. apurar notícia de comercialização de cães da raça Pitbull, em desacordo com a Lei Estadual n. 140204/2007."
+  },
+  {
+   "i": 866,
+   "tipo": "mp",
+   "ref": "06.2024.00003521-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00003521-3",
+   "status": "🟡 em apuração",
+   "data": "22/08/2024",
+   "texto": "responsáveis pela implantação dos Loteamentos Expoente II, III e IV. apurar situação de precariedade urbanística nos Loteamentos Expoente II, III e IV, localizados no Bairro Seminário, em Chapecó/SC."
+  },
+  {
+   "i": 867,
+   "tipo": "mp",
+   "ref": "06.2024.00001029-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00001029-9",
+   "status": "🟡 em apuração",
+   "data": "27/08/2024",
+   "texto": "a instaurar. verificar quantidade excessiva de roedores (ratos) em imóvel onde fica localizado o barracão de reciclagem do Bairro Paraíso."
+  },
+  {
+   "i": 868,
+   "tipo": "mp",
+   "ref": "06.2024.00002373-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00002373-9",
+   "status": "🟡 em apuração",
+   "data": "29/08/2024",
+   "texto": "José Guilherme Morschel Barbosa e Condomínio Residencial Jardim Itália Empreendimento Imobiliário Ltda. apurar possível acúmulo de lixo em terreno baldio (lote 16, quadra 234) localizado na Rua José G. Rocha Timm, esquina com a Rua Mato Grosso, Bairro Jardim Itália, em Chapecó."
+  },
+  {
+   "i": 869,
+   "tipo": "mp",
+   "ref": "06.2024.00003725-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00003725-5",
+   "status": "🟡 em apuração",
+   "data": "03/09/2024",
+   "texto": "sigiloso, Estado de Santa Catarina e Hospital Regional do Oeste - Associação Hospitalar Lenoir Vargas Ferreira. apurar as condições da estrutura física e de materiais no Pronto Atendimento do Hospital Regional do Oeste, Chapecó."
+  },
+  {
+   "i": 870,
+   "tipo": "mp",
+   "ref": "06.2022.00001574-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00001574-2",
+   "status": "❔ status indef.",
+   "data": "09/09/2024",
+   "texto": "Aline Aparecida Assolini, Tania Aparecida Lemes e Alexsandro Luiz Júlio. Conclusão: servidores públicos ausentando-se durante expediente sem autorização. Episódios isolados. Busca por atendimento médico. Ausência de dolo."
+  },
+  {
+   "i": 871,
+   "tipo": "mp",
+   "ref": "01.2024.00014629-5",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00014629-5",
+   "status": "🟢 arquivado",
+   "data": "12/09/2024",
+   "texto": "Gessi Filipini e Guarda Municipal de Chapecó. Conclusão: notícia de agressões físicas e prática de injúria racial por Guardas Municipais durante prisão. Ausência de indícios de prática ilícita. Conduzida alterada pelo uso de bebida alcoólica. Arquivamento em razão da ausência de materialidade."
+  },
+  {
+   "i": 872,
+   "tipo": "mp",
+   "ref": "06.2024.00000794-0",
+   "header": "· EXTRATO DE CONVERSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000794-0 EM INQUÉRITO CIVIL",
+   "status": "❔ status indef.",
+   "data": "24/09/2024",
+   "texto": "J.L.B. e V.W. (representados). apurar possíveis atos ilícitos praticados por Agentes de Segurança Socioeducativos lotados no Centro de Atendimento Socioeducativo Regional de Chapecó (CASE de Chapecó), durante a prisão em flagrante do conduzido nos autos do APF n. 5021835-56.2023.8.24.0018."
+  },
+  {
+   "i": 873,
+   "tipo": "mp",
+   "ref": "06.2024.00004188-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00004188-1",
+   "status": "🟡 em apuração",
+   "data": "07/10/2024",
+   "texto": "anônimo (representante), J.P (representada) e Secretaria de Estado de Administração Prisional e Socioeducativa (interessada). apurar possíveis atos ímprobos praticados por Policial Penal, atualmente lotada na Central de Penas Alternativas no Fórum da Comarca de Chapecó, que, em tese, utilizaria o veículo oficial pertencente à Secretaria de Estado da Administração Prisional e Socioeducativa (SAP-SC) para fins particulares."
+  },
+  {
+   "i": 874,
+   "tipo": "mp",
+   "ref": "01.2024.00041736-9",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00041736-9",
+   "status": "🟢 arquivado",
+   "data": "01/11/2024",
+   "texto": "representante anônimo e P.H.A. Conclusão: possível recebimento indevido de diárias por servidora pública estadual lotada no Centro de Internação Feminino de Chapecó. Suposto recebimento indevido de diárias para participação em curso realizado em 9 e 10 de julho de 2024, em Lages; e recebimento indevido de diárias e uso de viatura pública para curso particular em 16 a 18 de junho de 2023. Constatado que o deslocamento da servidora pra participação do evento em Lages foi legítimo, estando alinhado com a logística do evento e autorizado por superiores. Utilização de viatura oficial e o pagamento de diárias no ano de 2023 que também seguiram normas legais, havendo interesse institucional na realização do curso e a devida autorização de superiores hierárquicos. Inexistência de indícios de rece…"
+  },
+  {
+   "i": 875,
+   "tipo": "mp",
+   "ref": "06.2024.00004524-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00004524-4",
+   "status": "🟠 TAC firmado",
+   "data": "13/11/2024",
+   "texto": "Camino 110 Ltda. Conclusão: ausência de oferecimento de ingressos de meia-entrada por meio do site Ingresso Nacional para show realizado no estabelecimento Camino 110. Equacionamento e resolução da questão mediante celebração de termo de compromisso de ajustamento de conduta. Estipulação de obrigações de fazer e de pagar quantia certa aos consumidores lesados. Desnecessidade de adoção de outros instrumentos jurídicos."
+  },
+  {
+   "i": 876,
+   "tipo": "mp",
+   "ref": "06.2023.00000707-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00000707-9.",
+   "status": "🟠 TAC firmado",
+   "data": "22/11/2024",
+   "texto": "Meu Ninho Espaço Infantil Ltda. e Holder Construtora e Incorporadora Ltda. Conclusão: arquivamento. Ausentes os motivos que ensejariam a propositura de ação civil pública. Firmado Termo de Compromisso de Ajustamento de Conduta a ser fiscalizado em procedimento próprio."
+  },
+  {
+   "i": 877,
+   "tipo": "mp",
+   "ref": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE TUTELA DE INTERESSES INDIVIDUAIS",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE TUTELA DE INTERESSES INDIVIDUAIS",
+   "status": "🟡 em apuração",
+   "data": "05/12/2024",
+   "texto": "Paula Copetti Colaço. apurar suposta situação de risco e vulnerabilidade de J. G. F."
+  },
+  {
+   "i": 878,
+   "tipo": "mp",
+   "ref": "06.2024.00005202-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00005202-3",
+   "status": "🟡 em apuração",
+   "data": "11/12/2024",
+   "texto": "Elisânia Partichelli Boita. apurar possível parcelamento clandestino do solo em propriedade de Elisânia Boita, no Imóvel Matricula n. 132.577, localizado na Linha Batistello, interior de Chapecó/SC."
+  },
+  {
+   "i": 879,
+   "tipo": "mp",
+   "ref": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE TUTELA DE INTERESSES INDIVIDUAIS",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE TUTELA DE INTERESSES INDIVIDUAIS",
+   "status": "🟡 em apuração",
+   "data": "11/12/2024",
+   "texto": "A.F.C. e F.R.C. apurar suposta situação de risco e vulnerabilidade de V.C."
+  },
+  {
+   "i": 880,
+   "tipo": "mp",
+   "ref": "06.2024.00005293-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00005293-4",
+   "status": "🟡 em apuração",
+   "data": "08/01/2025",
+   "texto": "Associação Hospitalar Lenoir Vargas Ferreira - Hospital Regional do Oeste. apurar o descumprimento do atendimento prioritário de pessoas idosas na emergência do Hospital Regional do Oeste."
+  },
+  {
+   "i": 881,
+   "tipo": "mp",
+   "ref": "01.2024.00052562-2",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00052562-2",
+   "status": "🟢 arquivado",
+   "data": "14/01/2025",
+   "texto": "P.H. de A. e J.A.V. (representantes), representado a apurar e Secretaria de Estado da Administração Prisional e Socioeducativa (interessada). Conclusão: representação indicando crimes contra a honra de servidores públicos praticados, em tese, pelo representante das Notícias de Fato n. 01.2024.00039104-0 e 01.2024.00041736-9. Suposto delito que não tem como sujeito passivo principal ou secundário a administração pública. Ausência de atribuição desta Promotoria de Justiça. Representantes que podem buscar o auxílio de um advogado para ajuizarem medidas judicias voltadas ao resguardo de seus interesses. Possibilidade, também, de registro de boletim de ocorrência, com indicação pormenorizada dos crimes que teriam lhes sido falsamente imputados, a fim de possibilitar a instauração de investigaç…"
+  },
+  {
+   "i": 882,
+   "tipo": "mp",
+   "ref": "06.2024.00004188-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00004188-1",
+   "status": "❔ status indef.",
+   "data": "05/02/2025",
+   "texto": "Secretaria de Estado de Administração Prisional e Socioeducativa (interessada), J.P. (representada) e anônimo (representante)."
+  },
+  {
+   "i": 883,
+   "tipo": "mp",
+   "ref": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE OUTRAS ATIVIDADES NÃO SUJEITAS A",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE OUTRAS ATIVIDADES NÃO SUJEITAS A",
+   "status": "🟡 em apuração",
+   "data": "13/02/2025",
+   "texto": "7ª Promotoria de Justiça e Estado de Santa Catarina. acompanhar reunião com a Procuradoria do Estado de Santa Catarina e Núpia sobre a possibilidade de composição no cumprimento de sentença 5037648-89.2024.8.24.0018."
+  },
+  {
+   "i": 884,
+   "tipo": "mp",
+   "ref": "06.2025.00000507-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00000507-8",
+   "status": "🟡 em apuração",
+   "data": "19/02/2025",
+   "texto": "Associação Catarinense de Oftalmologia (SCO) e Instituto Visão Solidária e Daiane Mello. averiguar denuncia da Associaçao Catarinense de Oftalmologia acerca da atuação de óticas em parceria com profissionais exercendo atividades privativas de médicos perpetradas pelo Instituto Visão solidária localizada à Rua Mal. Borman, 162e, Centro, Chapecó/SC, em parceria com a optometrista Daiane Mello."
+  },
+  {
+   "i": 885,
+   "tipo": "mp",
+   "ref": "01.2025.00009168-6",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00009168-6",
+   "status": "🟢 arquivado",
+   "data": "18/03/2025",
+   "texto": "L.L. e Defensoria Pública do Estado de Santa Catarina. Conclusão: suposta deficiência na prestação de atendimento pelo núcleo regional da Defensoria Pública de Chapecó. Ausência de indícios de lesão a interesses coletivos que demandem a atuação do Ministério Público. Insatisfação pessoal com relação à experiência do atendimento que foi prestado pela Defensoria Pública de Chapecó. Situação que, a critério da representante, deve ser levada ao conhecimento do órgão correcional da Defensoria Pública de Santa Catarina. Indeferimento da Notícia de Fato."
+  },
+  {
+   "i": 886,
+   "tipo": "mp",
+   "ref": "06.2025.00001216-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00001216-8",
+   "status": "🟡 em apuração",
+   "data": "08/04/2025",
+   "texto": "Talita Tiburski. verificar e adotar providências para cessar o exercício irregular da profissão de nutricionista pela representada."
+  },
+  {
+   "i": 887,
+   "tipo": "mp",
+   "ref": "06.2023.00002736-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00002736-4",
+   "status": "🟠 TAC firmado",
+   "data": "16/04/2025",
+   "texto": "Associação Atlética Banco do Brasil (AABB), unidade de Chapecó/SC. Conclusão: Inquérito Civil. Doação de imóvel recebida do ente municipal com encargo. Regulamentada pela Lei n. 29/1975. Descumprimento. Firmado Termo de Ajustamento de Condutas com obrigações ao donatário, sob pena desta ser revogada. Previsão de multa em caso de descumprimento. Acompanhamento da execução do TAC por meio de Procedimento"
+  },
+  {
+   "i": 888,
+   "tipo": "mp",
+   "ref": "06.2024.00003509-0",
+   "header": "· EXTRATO DE CONVERSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00003509-0 EM INQUÉRITO CIVIL",
+   "status": "❔ status indef.",
+   "data": "22/04/2025",
+   "texto": "mantidas sob restrição de publicidade. apurar eventuais responsabilidades sobre atos que possam ter causado dano ao erário (mantido sob restrição de publicidade) em razão da execução de contrato (mantido sob restrição de publicidade) em condições de valor prejudiciais ao ente público."
+  },
+  {
+   "i": 889,
+   "tipo": "mp",
+   "ref": "06.2024.00005155-7",
+   "header": "· EXTRATO DE CONVERSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00005155-7 EM INQUÉRITO CIVIL",
+   "status": "❔ status indef.",
+   "data": "22/04/2025",
+   "texto": "mantidas sob sigilo. mantido sob sigilo."
+  },
+  {
+   "i": 890,
+   "tipo": "mp",
+   "ref": "06.2025.00001599-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00001599-8",
+   "status": "🟡 em apuração",
+   "data": "08/05/2025",
+   "texto": "Sorte Mania - S S C T Agenciamento de Negocios Ltda. (CNPJ 30.024.311/0001-51) - Oeste da Sorte - Cruz Vermelha B rasileira (CNPJ 21.632.530/0001-22) e Superintendência de Seguros Privados; notícia de suposto uso indevido de registro da SUSEP pela entidade. Emissão de Titulo de Capitalização em desacordo com as normativas federais."
+  },
+  {
+   "i": 891,
+   "tipo": "mp",
+   "ref": "06.2025.00001405-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00001405-5",
+   "status": "🟡 em apuração",
+   "data": "09/05/2025",
+   "texto": "sigiloso, Cruz Vermelha Brasileira Filial Chapecó e GPTR Grupo de Prevenção Treinamentos e Resposta Ltda. apurar possível ilegalidade na associação Cruz Vermelha Brasileira Filial Chapecó e GPTR - Grupo de Prevenção, Treinamentos e Resposta Ltda."
+  },
+  {
+   "i": 892,
+   "tipo": "mp",
+   "ref": "06.2025.00000971-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00000971-9.",
+   "status": "🟡 em apuração",
+   "data": "13/05/2025",
+   "texto": "Silmara da Aparecida Magri, Hospital Lenoir Vargas Ferreira (Hospital Regional do Oeste) e Estado de Santa Catarina. apurar o motivo dos recorrentes cancelamentos sem aviso prévio e reagendamentos de consultas na área de neurologia e oncologia, no Hospital Regional do Oeste de Chapecó."
+  },
+  {
+   "i": 893,
+   "tipo": "mp",
+   "ref": "01.2025.00023171-5",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00023171-5",
+   "status": "❔ status indef.",
+   "data": "15/05/2025",
+   "texto": "J. L. Conclusão: representação indicando supostas condutas ilícitas relacionadas à representante, oficial do comando aeronáutico. Relatos incongruentes e de difícil compreensão. Inexistência de nexo entre as matérias apresentadas e a atuação desta Promotoria de Justiça, ou mesmo de efetiva apresentação de fato que demande intervenção ministerial. Ausência de justa."
+  },
+  {
+   "i": 894,
+   "tipo": "mp",
+   "ref": "06.2023.00001329-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00001329-2",
+   "status": "❔ status indef.",
+   "data": "16/05/2025",
+   "texto": "Estado de Santa Catarina. Conclusão: inexistência de fundamento para propositura de ação judicial e omissão municipal não evidenciada."
+  },
+  {
+   "i": 895,
+   "tipo": "mp",
+   "ref": "06.2023.00001355-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00001355-9",
+   "status": "❔ status indef.",
+   "data": "16/05/2025",
+   "texto": "Estado de Santa Catarina. Conclusão: inexistência de fundamento para propositura de ação judicial e omissão estadual não evidenciada."
+  },
+  {
+   "i": 896,
+   "tipo": "mp",
+   "ref": "06.2023.00001405-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00001405-8",
+   "status": "❔ status indef.",
+   "data": "16/05/2025",
+   "texto": "Estado de Santa Catarina. Conclusão: inexistência de fundamento para propositura de ação judicial e omissão municipal não evidenciada."
+  },
+  {
+   "i": 897,
+   "tipo": "mp",
+   "ref": "06.2023.00001408-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00001408-0",
+   "status": "❔ status indef.",
+   "data": "16/05/2025",
+   "texto": "Estado de Santa Catarina. Conclusão: inexistência de fundamento para propositura de ação judicial e omissão municipal não evidenciada."
+  },
+  {
+   "i": 898,
+   "tipo": "mp",
+   "ref": "06.2023.00001409-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00001409-1",
+   "status": "❔ status indef.",
+   "data": "16/05/2025",
+   "texto": "Estado de Santa Catarina. Conclusão: inexistência de fundamento para propositura de ação judicial e omissão municipal não evidenciada."
+  },
+  {
+   "i": 899,
+   "tipo": "mp",
+   "ref": "06.2023.00001410-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00001410-3",
+   "status": "❔ status indef.",
+   "data": "16/05/2025",
+   "texto": "Estado de Santa Catarina. Conclusão: inexistência de fundamento para propositura de ação judicial; omissão municipal não evidenciada."
+  }
+ ]
+}

@@ -1,0 +1,632 @@
+[
+  {
+    "i": 420,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 421,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 422,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 423,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 424,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 425,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 426,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 427,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 428,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso do Mercado Público Municipal após solução",
+    "description": "A apuração sobre a conservação e manutenção do Mercado Público Municipal terminou com fato solucionado pela intervenção da Promotoria. Não havia fundamento para ação judicial e o caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 429,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 430,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC com empresa de terminal de cargas",
+    "description": "O inquérito apurava o funcionamento irregular da LAM Terminal de Cargas Ltda. A Promotoria celebrou TAC e promoveu o arquivamento do caso.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 431,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 432,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 433,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 434,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso sobre omissão em respostas a protocolos",
+    "description": "A apuração sobre a ausência de resposta do Município aos protocolos indicados terminou com conclusão de inexistência de fundamento para ação judicial. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 435,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 436,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 437,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 438,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 439,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso de abrigo de animais após vistoria técnica",
+    "description": "A investigação apurava risco e maus-tratos em abrigo de animais. As vistorias comprovaram boas condições de bem-estar e sanidade, sem desalojamento iminente. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 440,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 441,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 442,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva inquérito sobre Museu Nacional do Mar e cita ACP em andamento",
+    "description": "A apuração tratava da conservação, gestão, restauração e funcionamento do Museu Nacional do Mar. O texto informa que já havia ACP ajuizada pela própria Promotoria em 2021 e outra ação do IPHAN em curso, com obras contratadas e em execução. O caso foi encerrado no inquérito civil.",
+    "status": "🔴 ACP ajuizada",
+    "severity": "media"
+  },
+  {
+    "i": 443,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 444,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva poluição sonora por estabelecimento comercial",
+    "description": "A apuração sobre poluição sonora terminou com o estabelecimento já encerrado e sem alteração significativa nas medições finais. Sem providências adicionais, o caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 445,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso sem poluição sonora comprovada",
+    "description": "A investigação concluiu que não houve poluição sonora comprovada por perícia técnica. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 446,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 447,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 448,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva edital de eleição escolar após correção do procedimento",
+    "description": "A notícia de fato apurava suposta irregularidade no edital de eleição dos representantes do conselho deliberativo escolar. A autoridade administrativa corrigiu o ato, nova eleição foi realizada e não houve prejuízo. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 449,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva denúncia de poluição sonora na Praia do Ervino",
+    "description": "A representação sobre poluição sonora na Praia do Ervino foi encerrada porque o representante não apresentou provas complementares. O caso foi indeferido.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 450,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso sobre gabarito do ACT 2024/2025",
+    "description": "A apuração questionava a disponibilização do gabarito do processo seletivo ACT 2024/2025. Os fatos foram solucionados e o MP concluiu pela ausência de justa causa. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 451,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 452,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 453,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 454,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 455,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 456,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP encerra caso sobre gratuidade de passagem a idosos",
+    "description": "O procedimento tratou da gratuidade de passagem a idosos e concluiu que a situação foi regularizada administrativamente. Não havia mais providências a adotar e o caso foi encerrado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 457,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso de maus-tratos a cães com medidas cíveis já adotadas",
+    "description": "A apuração sobre maus-tratos a cães e demora na salvaguarda dos animais concluiu que as medidas cíveis foram adequadamente adotadas. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 458,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva irregularidades em ILPI após saneamento dos problemas",
+    "description": "O inquérito apurava possíveis irregularidades em instituição de longa permanência para idosos. Como os problemas foram sanados e não surgiram novas denúncias, o caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 459,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 460,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 461,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 462,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva transporte intermunicipal após afastar irregularidades",
+    "description": "A Promotoria concluiu que não havia irregularidades nos horários e na superlotação do transporte intermunicipal operado pela empresa investigada. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 463,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre alimentação no presídio regional",
+    "description": "O procedimento verificou as condições do presídio regional quanto à alimentação dos internos. Não houve irregularidades na alimentação e o caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 464,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre estrutura física e alimentação no presídio",
+    "description": "A notícia de fato tratava das condições estruturais e da alimentação dos internos no presídio regional. A adequação da estrutura e a ausência de irregularidades levaram ao arquivamento.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 465,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 466,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 467,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 468,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 469,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP não comprova irregularidade em verbas de associação do bairro Iperoba",
+    "description": "A apuração sobre suposta irregularidade na aplicação de verbas públicas destinadas à associação terminou sem prova de recebimento dos recursos. O caso foi arquivado.",
+    "status": "❔ status indef.",
+    "severity": "media"
+  },
+  {
+    "i": 470,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 471,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 472,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 473,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva nomeação e gestão portuária sem irregularidade",
+    "description": "A investigação concluiu que não houve irregularidade na nomeação do superintendente dos portos e que não ficou demonstrada interferência na gestão técnica do porto. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 474,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva denúncia anônima sobre gestão de recursos públicos",
+    "description": "A notícia de fato apontava irregularidade na gestão dos recursos públicos, mas o denunciante anônimo não apresentou provas. O MP indeferiu a investigação e arquivou o caso.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 475,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre o Museu Nacional do Mar",
+    "description": "A Promotoria investigou supostas irregularidades no funcionamento do Museu Nacional do Mar e concluiu que não houve prova das acusações. A autonomia da supervisora foi reconhecida e o caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 476,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva contratação do porto após constatar regular prestação de serviços",
+    "description": "A apuração sobre o contrato da Dracares Apoio Marítimo e Portuário Ltda. concluiu pela ausência de provas de irregularidade. Os relatórios mostraram prestação regular dos serviços e o caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 477,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 478,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva inércia policial após diligência cumprida",
+    "description": "A Promotoria de Controle Externo da Atividade Policial apurou suposta inércia da autoridade policial. A diligência foi cumprida após intervenção do MP e não houve prejuízo ao andamento das investigações. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 479,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 480,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 481,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 482,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 483,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre dano ambiental em imóvel da Tapera",
+    "description": "A notícia de fato tratava de eventual dano ambiental em imóvel localizado no bairro Tapera. O MP concluiu que não havia dano ambiental recente e que a área estava em regeneração natural. O caso foi encerrado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 484,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 485,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 486,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 487,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 488,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva despejo de esgoto pelo presídio após regularização",
+    "description": "O inquérito apurava descarte irregular de esgoto pelo presídio regional. A nova estrutura de tratamento foi construída e a vistoria não apontou continuidade do problema. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 489,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  }
+]

@@ -1,0 +1,511 @@
+{
+ "mp": [
+  {
+   "ref": "06.2020.00004435-1",
+   "tipo": "mp",
+   "keep": true,
+   "title": "TCE apontou irregularidade nas contas de 2018 da Prefeitura e MP investigou, mas arquivou o caso",
+   "description": "O Tribunal de Contas encontrou uma irregularidade na prestação de contas da Prefeitura de Balneário Rincão referente a 2018, o que levou o MP a abrir inquérito para apurar suspeita de improbidade administrativa. Não foram encontradas provas de dolo dos responsáveis, as contas foram aprovadas pela Câmara e as recomendações do MP foram seguidas pela prefeitura. Caso arquivado.",
+   "severity": "media"
+  },
+  {
+   "ref": "01.2022.00027794-4",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou suspeita de improbidade envolvendo Escola Infantil Mundo Encantado e a Prefeitura",
+   "description": "O Ministério Público abriu notícia de fato para investigar um possível ato de improbidade administrativa envolvendo a Escola Infantil Mundo Encantado e a Secretaria municipal. O texto disponível termina no meio da explicação e não detalha o desfecho do caso.",
+   "severity": "media"
+  },
+  {
+   "ref": "01.2026.00003848-4",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP abre investigação sobre atuação de médica da rede municipal de saúde de Balneário Rincão",
+   "description": "O Ministério Público instaurou notícia de fato para apurar eventual ato de improbidade administrativa envolvendo a médica Aline Salvadego Feliciano, que atua na rede municipal de saúde de Balneário Rincão. O caso ainda está em fase de apuração, sem conclusão até o momento.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2019.00005890-1",
+   "tipo": "mp",
+   "keep": true,
+   "title": "Câmara de Vereadores contratou funcionários sem concurso público e fechou acordo com o MP",
+   "description": "O MP investigou a contratação de servidores pela Câmara de Vereadores de Balneário Rincão sem a realização de concurso público. A Câmara, representada pelo presidente, assinou um Termo de Ajustamento de Conduta para corrigir a situação, e um novo procedimento foi aberto só para fiscalizar o cumprimento do acordo. Caso arquivado depois do acordo.",
+   "severity": "alta"
+  },
+  {
+   "ref": "06.2021.00001823-5",
+   "tipo": "mp",
+   "keep": true,
+   "title": "Empresa é investigada por suspeita de fraude em licitação de Balneário Rincão, mas caso é arquivado",
+   "description": "O MP apurou denúncia de fraude na Concorrência 061/PMBR/2019, envolvendo a empresa Millenium Conservação Manutenção e Serviços. Após anos de investigação, não foram encontrados elementos suficientes para comprovar a fraude ou a participação de agente público. Investigação arquivada por falta de provas.",
+   "severity": "alta"
+  },
+  {
+   "ref": "06.2026.00001861-1",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investiga contratação temporária de professores por processo seletivo simplificado",
+   "description": "O Ministério Público abriu inquérito civil para apurar possíveis irregularidades na contratação temporária de profissionais da educação por meio do Processo Seletivo Simplificado n. 013/2025, incluindo suspeita de desrespeito à ordem de classificação e desvio de finalidade nas nomeações. O caso ainda está em apuração.",
+   "severity": "media"
+  },
+  {
+   "ref": "01.2022.00014106-0",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP abre apuração sobre jornada de trabalho de funcionários da Câmara de Vereadores",
+   "description": "O Ministério Público instaurou notícia de fato para investigar possíveis irregularidades na contratação e no controle da jornada de trabalho de funcionários da Câmara de Vereadores de Balneário Rincão. Caso posteriormente unido a outra investigação semelhante e arquivado.",
+   "severity": "media"
+  },
+  {
+   "ref": "01.2022.00014106-0",
+   "tipo": "mp",
+   "keep": true,
+   "title": "Caso sobre jornada de funcionários da Câmara é unido a outra investigação e arquivado",
+   "description": "A apuração sobre irregularidades na contratação e fiscalização da jornada de funcionários da Câmara de Vereadores foi encerrada porque tratava do mesmo assunto já investigado no Inquérito Civil n. 06.2019.00005890-1, sobre contratação sem concurso público. O MP determinou a juntada dos processos e arquivou este caso.",
+   "severity": "media"
+  },
+  {
+   "ref": "01.2025.00045831-0",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura desvio de função da servidora Eliana Santiago em Balneário Rincão",
+   "description": "O Ministério Público abriu notícia de fato para investigar suposto desvio de função da servidora municipal Eliana Santiago. O caso segue em apuração, sem conclusão até o momento.",
+   "severity": "media"
+  },
+  {
+   "ref": "01.2025.00052314-0",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura desvio de função da servidora Larissa Pacheco da Rosa em Balneário Rincão",
+   "description": "O Ministério Público abriu notícia de fato para investigar suposto desvio de função da servidora municipal Larissa Pacheco da Rosa. O caso segue em apuração, sem conclusão até o momento.",
+   "severity": "media"
+  },
+  {
+   "ref": "09.2023.00002167-0",
+   "tipo": "mp",
+   "keep": false,
+   "title": "MP acompanha reserva de vagas a candidatos negros em concursos públicos",
+   "description": "Procedimento aberto pelo MP apenas para acompanhar se a Prefeitura e a Câmara de Balneário Rincão estão reservando 20% das vagas de concursos públicos a candidatos negros, conforme prevê a lei. Não há indício de irregularidade, é um acompanhamento de rotina de uma política pública.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2020.00000943-2",
+   "tipo": "mp",
+   "keep": true,
+   "title": "Morador constrói irregularmente em área de duna e fecha acordo ambiental com o MP",
+   "description": "O MP apurou que Valério Raichaski teria feito terraplanagem em área de restinga fixadora de duna e construído um muro e uma trave sem autorização, em Balneário Rincão. Foi firmado Termo de Ajustamento de Conduta para reparar o dano ambiental. Caso arquivado após o acordo.",
+   "severity": "media"
+  },
+  {
+   "ref": "01.2022.00019444-6",
+   "tipo": "mp",
+   "keep": true,
+   "title": "Enfermeira que ocupava cargo sem concurso é demitida e MP considera exoneração correta",
+   "description": "O MP apurou a demissão da enfermeira Priscila Prudêncio da Rosa pela Prefeitura de Balneário Rincão. A investigação constatou que ela ocupava o cargo de forma precária, sem concurso público, o que violava a Constituição. O MP concluiu que a exoneração foi correta e não houve irregularidade. Caso arquivado.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2019.00004649-3",
+   "tipo": "mp",
+   "keep": true,
+   "title": "Moradores constroem sem autorização em Balneário Rincão e assinam acordo ambiental com o MP",
+   "description": "Andreia Tome Costa e Fabrício Nazário Plácido foram investigados por dano ambiental decorrente de construção irregular em Balneário Rincão, flagrada pela Polícia Militar Ambiental. Os proprietários assinaram Termo de Ajustamento de Conduta prevendo obrigações e multa em caso de descumprimento, com fiscalização posterior à parte.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2024.00004718-6",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investiga suposto dano ambiental em loteamento e não encontra irregularidade",
+   "description": "O Ministério Público apurou denúncia de danos ambientais no Loteamento Lagoa dos Esteves, em Balneário Rincão. Vistoria do Instituto do Meio Ambiente de Santa Catarina não constatou supressão de vegetação, e a coleta de lixo no local é feita regularmente pelo município. Caso arquivado por falta de fundamento.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2023.00001142-8",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura obra sem alvará em Balneário Rincão e conclui que não houve dano ambiental",
+   "description": "Foi investigada uma possível ofensa à ordem urbanística e dano ambiental por obra irregular, sem alvará de construção, em imóvel de Balneário Rincão. Laudo técnico constatou que a área já era urbanizada e não havia dano ambiental a recuperar. Caso arquivado.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2021.00002697-9",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cobra desobstrução de avenida em loteamento e Prefeitura atende recomendação",
+   "description": "O Ministério Público apurou a obstrução ilegal da Avenida 1, no Loteamento Lagoa do Faxinal, em Balneário Rincão. A Prefeitura foi recomendada a liberar a via pública e atendeu à solicitação, resolvendo o problema. Caso arquivado.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2022.00000957-3",
+   "tipo": "mp",
+   "keep": true,
+   "title": "Moradores denunciam bloqueio de acesso à Lagoa do Faxinal, mas MP não confirma obstrução",
+   "description": "A Associação de Moradores do Loteamento da Lagoa do Faxinal denunciou que o acesso público à lagoa estaria bloqueado. Vistoria da Polícia Militar Ambiental constatou que o acesso era livre, e o MP não encontrou provas de obstrução. Caso arquivado.",
+   "severity": "media"
+  },
+  {
+   "ref": "01.2022.00019444-6",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP abre apuração sobre exoneração de enfermeira em Balneário Rincão",
+   "description": "Notícia de fato aberta pelo Ministério Público para investigar possível irregularidade na demissão de uma enfermeira conhecida como Priscila, que atuava no Município de Balneário Rincão. O caso foi posteriormente concluído: o MP considerou a exoneração correta e arquivou o processo.",
+   "severity": "media"
+  },
+  {
+   "ref": "01.2023.00001958-6",
+   "tipo": "mp",
+   "keep": true,
+   "title": "Moradores do Vila Suíça questionam aumento do IPTU, mas MP diz que ação coletiva não cabe",
+   "description": "Moradores do condomínio Vila Suíça reclamaram de uma mudança no cálculo do IPTU pela Prefeitura de Balneário Rincão, alegando irregularidade. O MP concluiu que a lei usada na cobrança foi aprovada antes do exercício financeiro seguinte, como manda a Constituição, e que ação civil pública não cabe em matéria tributária — questionamentos devem ser individuais, na Justiça. Caso encerrado sem ação do MP.",
+   "severity": "media",
+   "status": "🟢 arquivado"
+  },
+  {
+   "ref": "06.2022.00003287-4",
+   "tipo": "mp",
+   "keep": true,
+   "title": "Clínica de reabilitação é interditada por irregularidades sanitárias em Balneário Rincão",
+   "description": "Após denúncias anônimas, a Vigilância Sanitária vistoriou a Clínica de Reabilitação Villa Flor e constatou irregularidades na estrutura de atendimento aos pacientes, resultando na interdição do estabelecimento. Antes mesmo de assinar um termo de ajuste com o MP, a clínica corrigiu os problemas, confirmado em nova vistoria. Caso encerrado por perda de objeto.",
+   "severity": "alta"
+  },
+  {
+   "ref": "09.2021.00004867-3",
+   "tipo": "mp",
+   "keep": false,
+   "title": "MP confirma que Prefeitura cumpriu acordo judicial e encerra fiscalização",
+   "description": "Procedimento aberto apenas para acompanhar se a Prefeitura de Balneário Rincão estava cumprindo um acordo firmado em ação civil pública anterior. Foi comprovado o cumprimento integral do acordo, e o caso foi arquivado sem novas pendências.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2021.00004923-9",
+   "tipo": "mp",
+   "keep": true,
+   "title": "Balneário Rincão não tinha Procon e MP cobrou implantação do órgão de defesa do consumidor",
+   "description": "O MP investigou a falta de estruturação de um Procon em Balneário Rincão e firmou Termo de Ajustamento de Conduta com o município para viabilizar a implantação e manutenção do serviço de defesa do consumidor. Caso arquivado após o acordo.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2022.00002638-3",
+   "tipo": "mp",
+   "keep": true,
+   "title": "Prefeitura exonera servidores que ocupavam irregularmente cargos na educação, atendendo ao MP",
+   "description": "Após recomendação do Ministério Público, a Prefeitura de Balneário Rincão exonerou servidores que ocupavam irregularmente cargos vinculados à rede pública de ensino. O MP considerou o problema resolvido e não viu necessidade de ação civil pública.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2020.00000169-5",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP questiona falta de Agentes Comunitários de Saúde e caso vai à Justiça contra o município",
+   "description": "O Ministério Público apurou a ausência de nomeação para cargos vagos de Agentes Comunitários de Saúde em Balneário Rincão, que contava com 16 agentes. A discussão girava em torno de haver ou não um número mínimo obrigatório previsto em lei; o texto disponível está incompleto, mas o status indica que uma ação civil pública chegou a ser ajuizada contra o município.",
+   "severity": "media",
+   "status": "❔ status indef."
+  },
+  {
+   "ref": "06.2021.00000053-4",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP analisa desafetação de imóvel público usado em desapropriação e não encontra irregularidade",
+   "description": "Sob a ótica da moralidade administrativa, o Ministério Público investigou a desafetação de um imóvel do patrimônio público de Balneário Rincão, usado como forma de pagamento numa desapropriação. Havia autorização legislativa específica e avaliações do imóvel foram realizadas. O MP concluiu que o interesse público estava demonstrado e arquivou o caso.",
+   "severity": "media"
+  },
+  {
+   "ref": "09.2024.00010090-0",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP fiscaliza reestruturação da Vigilância Sanitária de Balneário Rincão determinada pela Justiça",
+   "description": "Procedimento aberto pelo MP para acompanhar e fiscalizar o cumprimento de uma sentença judicial que determinou a reestruturação da Vigilância Sanitária (VISA) de Balneário Rincão. Fiscalização segue em andamento.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2024.00004128-1",
+   "tipo": "mp",
+   "keep": true,
+   "title": "Servidor é acusado de usar carro oficial para fins particulares, mas MP arquiva por falta de provas",
+   "description": "O servidor Radamés Brigido Vieira foi investigado por suposto uso indevido de um veículo oficial (Fiat Mobi) da Prefeitura de Balneário Rincão para fins particulares. O MP concluiu que não havia provas suficientes de uso indevido, já que o servidor trabalha em regime de sobreaviso. Caso arquivado por falta de provas.",
+   "severity": "media"
+  }
+ ],
+ "tce": [
+  {
+   "ref": "REP 22/00005576",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE adiou decisão sobre suspender licitação de material escolar em Balneário Rincão",
+   "description": "A empresa N. T. Luize representou contra o Pregão Presencial 118/2021, da Prefeitura de Balneário Rincão, para registro de preços de material escolar, com valor estimado de R$ 501.777,00. O relator Cesar Filomeno Fontes conheceu a representação, mas postergou a análise do pedido de suspensão e determinou diligência para que a pregoeira Gisele Pereira Ferreira se manifestasse sobre os pontos questionados. Ou seja, a licitação não chegou a ser suspensa nesta decisão.",
+   "severity": "media",
+   "status": "🟡 em instrução (citação/audiência)"
+  },
+  {
+   "ref": "REP 25/00099940",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE julgou improcedente denúncia de contratações sem licitação em Balneário Rincão",
+   "description": "O vereador João Carlos Patrício representou apontando que a Câmara Municipal de Balneário Rincão faria contratações diretas sem licitação havia oito anos. O Tribunal de Contas conheceu a representação, mas a considerou improcedente, por não se confirmar a irregularidade alegada, e arquivou os autos. A única providência foi recomendar à prefeitura que atualize os dados do portal da transparência.",
+   "severity": "media",
+   "status": "🟢 arquivado"
+  },
+  {
+   "ref": "DEN 25/00095872",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE abriu diligência sobre 'aditivos' pagos a vereadores de Balneário Rincão",
+   "description": "Uma denúncia apontou possíveis irregularidades na folha de pagamento dos vereadores de Balneário Rincão. A relatora Sabrina Nunes Iocken conheceu a denúncia e determinou diligência: a Câmara tem 30 dias para enviar as fichas financeiras de todos os vereadores de 2021 a 2025 e explicar o fundamento legal das rubricas 'aditivo de Presidente' e 'aditivo de Secretário'. Nenhuma irregularidade foi confirmada até aqui — o caso está em apuração.",
+   "severity": "media",
+   "status": "🟡 em instrução (citação/audiência)"
+  },
+  {
+   "ref": "REP 22/00005576",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE não suspendeu pregão de material escolar de Balneário Rincão e pediu explicações",
+   "description": "Nesta decisão sobre o Pregão Presencial 118/2021 da Prefeitura de Balneário Rincão, o Tribunal de Contas conheceu a representação da empresa N. T. Luize, mas deixou para depois a análise do pedido de suspensão da ata. Foi determinada diligência para que a pregoeira Gisele Pereira Ferreira respondesse sobre a impugnação, a descrição do objeto e a exigência de laudos e amostras em 48 horas. Não houve sustação do certame.",
+   "severity": "media",
+   "status": "🟡 em instrução (citação/audiência)"
+  },
+  {
+   "ref": "DEN 23/80021958",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE chamou prefeito de Balneário Rincão a explicar permutas de imóveis do município",
+   "description": "O Tribunal de Contas apura permutas e desapropriações de imóveis municipais em Balneário Rincão, autorizadas por leis de 2019 e 2021. A Corte determinou a audiência do prefeito Jairo Celoy Custódio por não ter atendido a diligência anterior, sob risco de multa, e exigiu o envio dos processos administrativos, pesquisas de mercado e laudos de avaliação dos imóveis. O caso está em fase de instrução, sem desfecho.",
+   "severity": "media",
+   "status": "🟡 em instrução (citação/audiência)"
+  },
+  {
+   "ref": "REP 25/00197012",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE não conheceu representação sobre pregão de limpeza em Balneário Rincão",
+   "description": "A empresa Seco Ambiental representou contra o Pregão Eletrônico 99/PMBR/2025 e a gestão do Contrato 099/PMBR/2025, de serviços de limpeza, desentupimento e desinsetização para órgãos de Balneário Rincão. O Tribunal de Contas decidiu não conhecer da representação, por ela não preencher os requisitos regimentais, e determinou o arquivamento. O mérito não foi examinado e ninguém foi responsabilizado.",
+   "severity": "media",
+   "status": "🟢 arquivado"
+  },
+  {
+   "ref": "LCC 22/00340367",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multou presidente da comissão de licitação de Balneário Rincão por descumprir decisão",
+   "description": "O processo tratava da Concorrência 47/PMBR/2022, de R$ 3,98 milhões, para a primeira etapa de construção de uma escola em Balneário Rincão. O Tribunal de Contas arquivou o caso por perda de objeto — o contrato foi rescindido por motivos alheios ao tribunal —, mas multou Adroaldo Faraco, presidente da comissão de licitação, em R$ 995,30 por descumprir decisão da Corte. A prefeitura recebeu recomendações para corrigir projeto básico e orçamento em edital futuro.",
+   "severity": "media",
+   "status": "🔴 multa aplicada"
+  },
+  {
+   "ref": "DEN 25/00095953",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE encerrou denúncia sobre diárias na Câmara de Balneário Rincão sem julgar o mérito",
+   "description": "A denúncia tratava de supostas irregularidades na concessão de diárias na Câmara Municipal de Balneário Rincão. O Tribunal de Contas extinguiu o processo sem resolução de mérito, por litispendência: os mesmos fatos já estavam sendo apurados em outro processo, mais abrangente. Os autos foram arquivados e ninguém foi responsabilizado aqui.",
+   "severity": "media",
+   "status": "🟢 arquivado"
+  },
+  {
+   "ref": "LCC 22/00340367",
+   "tipo": "tce",
+   "keep": true,
+   "title": "Obra de escola de R$ 4 milhões em Balneário Rincão rendeu multa a presidente de licitação",
+   "description": "Ao julgar o edital de Concorrência 47/PMBR/2022, de R$ 3.988.706,09, o Tribunal de Contas arquivou os autos por perda de objeto, já que o contrato havia sido rescindido. Ainda assim, aplicou multa de R$ 995,30 a Adroaldo Faraco, presidente da comissão de licitação, por descumprimento de decisão do próprio tribunal. Foram feitas recomendações caso a prefeitura relance a licitação da escola.",
+   "severity": "media",
+   "status": "🔴 multa aplicada"
+  },
+  {
+   "ref": "DEN 23/80021958",
+   "tipo": "tce",
+   "keep": true,
+   "title": "Prefeito de Balneário Rincão foi convocado pelo TCE no caso das permutas de imóveis",
+   "description": "Nesta etapa do processo sobre permutas e desapropriações de imóveis em Balneário Rincão, o Tribunal de Contas determinou a audiência do prefeito Jairo Celoy Custódio por não ter atendido a diligência da Corte, conduta sujeita a multa. Também exigiu o envio de laudos de avaliação, pesquisas de mercado e processos administrativos referentes aos imóveis previstos nas Leis municipais 384/2019, 427/2019 e 482/2021. Não há decisão de mérito neste registro.",
+   "severity": "media",
+   "status": "🟡 em instrução (citação/audiência)"
+  },
+  {
+   "ref": "REP 21/00439205",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE deu razão a empresa e apontou falha em edital de ambulância de R$ 237 mil",
+   "description": "A empresa Belabru Comércio representou contra o Edital de Pregão Presencial 012/FMS/2021, do Fundo Municipal de Saúde de Balneário Rincão, para compra de uma ambulância padrão SAMU no valor de R$ 237.270,00. O Tribunal de Contas julgou a representação procedente. Como consequência, determinou ao fundo que, em editais futuros, siga o entendimento fixado pela Corte no Prejulgado 2355 sobre exigências para veículos zero quilômetro.",
+   "severity": "media",
+   "status": "🔴 apontou irregularidade"
+  },
+  {
+   "ref": "RLI 23/00296637",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multou ex-prefeito de Balneário Rincão em R$ 11.340 por descumprir decisão",
+   "description": "Na inspeção sobre a adequação do município à Lei da Liberdade Econômica e à Lei estadual 18.091/2021, o Tribunal de Contas constatou que Balneário Rincão descumpriu a determinação da Corte por 63 dias, de 30/10/2024 até o fim do mandato. Jairo Celoy Custódio, prefeito entre 2017 e 2024, foi multado em R$ 11.340,00, com 30 dias para pagar ou recorrer. A atual gestão recebeu prazo de 30 dias para comprovar a adequação às leis.",
+   "severity": "alta",
+   "status": "🔴 multa aplicada"
+  },
+  {
+   "ref": "REP 21/00465540",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE analisou edital de agência de publicidade da Prefeitura de Balneário Rincão",
+   "description": "O Tribunal de Contas registrou possíveis irregularidades no edital de Concorrência Pública 043/PMBR/2021, da Prefeitura de Balneário Rincão, para contratação de agência de publicidade. Constam como envolvidos Dyonathan Costa Trento e a prefeitura, com decisão singular do relator Cesar Filomeno Fontes. O texto da decisão não foi recuperado do Diário Oficial, então não é possível afirmar qual foi o desfecho.",
+   "severity": "media",
+   "status": "❔ em tramitação"
+  },
+  {
+   "ref": "REP 21/00369584",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE considerou procedente crítica a pregão de R$ 1,18 milhão em Balneário Rincão",
+   "description": "A empresa Comércio de Pneus Oenning representou contra o Pregão Presencial 045/PMBR/2021, de registro de preços de pneus, baterias e serviços de manutenção da frota municipal, no valor de R$ 1.185.678,93. O Tribunal de Contas considerou a representação procedente: o objeto foi dividido em 92 itens e 3 lotes, com julgamento por menor preço por lote, sem demonstração de viabilidade técnica e econômica. A Corte recomendou à prefeitura que justifique tecnicamente esse critério em licitações futuras.",
+   "severity": "media",
+   "status": "🔴 apontou irregularidade"
+  },
+  {
+   "ref": "REP 22/00005576",
+   "tipo": "tce",
+   "keep": true,
+   "title": "Licitação de material escolar de Balneário Rincão não foi suspensa pelo TCE",
+   "description": "Ao analisar a representação contra o Edital de Pregão Presencial 118/PMBR/2021, da Prefeitura de Balneário Rincão, o Tribunal de Contas conheceu o pedido, mas postergou a decisão sobre a suspensão da ata para depois de uma diligência. A pregoeira Gisele Pereira Ferreira foi intimada a responder, em cinco dias, sobre a impugnação, a descrição do objeto e a exigência de laudos e amostras. Nesta etapa não houve suspensão nem punição.",
+   "severity": "media",
+   "status": "🟡 em instrução (citação/audiência)"
+  },
+  {
+   "ref": "REP 25/00099789",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE não conheceu denúncia de acumulação de funções na Câmara de Balneário Rincão",
+   "description": "Suzana Zanette De Costa, agente financeira da Câmara Municipal de Balneário Rincão, representou sobre a acumulação de funções administrativas e financeiras na Casa. O Tribunal de Contas decidiu não conhecer da representação, por ela não preencher os requisitos regimentais, e arquivou os autos. A Corte apenas recomendou que a Câmara se alinhe à orientação do Prejulgado 988.",
+   "severity": "media",
+   "status": "🟢 arquivado"
+  },
+  {
+   "ref": "REP 25/00100035",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE não conheceu representação sobre adiantamentos na Câmara de Balneário Rincão",
+   "description": "O vereador João Carlos Patrício representou ao Tribunal de Contas sobre supostas irregularidades no pagamento de adiantamentos na Câmara Municipal de Balneário Rincão. A Corte decidiu não conhecer da representação, por não atender aos requisitos de seletividade do Regimento Interno, e determinou o arquivamento dos autos. O mérito não foi analisado.",
+   "severity": "media",
+   "status": "🟢 arquivado"
+  },
+  {
+   "ref": "RLI 23/00296637",
+   "tipo": "tce",
+   "keep": true,
+   "title": "Ex-prefeito de Balneário Rincão levou multa de R$ 11.340 por ignorar determinação do TCE",
+   "description": "A inspeção do Tribunal de Contas verificava a adequação de Balneário Rincão à Lei da Liberdade Econômica e à Lei estadual 18.091/2021. A Corte concluiu que a determinação foi descumprida por 63 dias e aplicou a Jairo Celoy Custódio, prefeito de 2017 a 2024, multa de R$ 11.340,00, a ser recolhida aos cofres do Estado. O município ainda deve comprovar a adequação às duas leis em 30 dias.",
+   "severity": "alta",
+   "status": "🔴 multa aplicada"
+  },
+  {
+   "ref": "RLI 23/00296637",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aplicou multa de R$ 11.340 ao ex-prefeito de Balneário Rincão por descumprimento",
+   "description": "No Acórdão 158/2025, o Tribunal de Contas aplicou a Jairo Celoy Custódio, prefeito de Balneário Rincão entre 2017 e 2024, multa de R$ 11.340,00 por descumprir, durante 63 dias, determinação da Corte na inspeção sobre a Lei da Liberdade Econômica e a Lei estadual 18.091/2021. Ele tem 30 dias para pagar ou recorrer, sob pena de cobrança judicial. A prefeitura foi alertada de que novo descumprimento pode gerar outra multa.",
+   "severity": "alta",
+   "status": "🔴 multa aplicada"
+  },
+  {
+   "ref": "RLI 23/00296637",
+   "tipo": "tce",
+   "keep": true,
+   "title": "Fiscalização de transparência em Balneário Rincão terminou em multa ao ex-prefeito",
+   "description": "Nesta etapa da inspeção sobre o cumprimento da Lei da Liberdade Econômica e da Lei estadual 18.091/2021, o Tribunal de Contas multou Jairo Celoy Custódio, prefeito de Balneário Rincão entre 2017 e 2024, em R$ 11.340,00 pelo descumprimento de determinação da Corte por 63 dias. Foi fixado prazo de 30 dias para pagamento ou recurso, e outros 30 dias para a atual gestão comprovar a adequação às leis.",
+   "severity": "alta",
+   "status": "🔴 multa aplicada"
+  },
+  {
+   "ref": "TCE 15/00548232",
+   "tipo": "tce",
+   "keep": true,
+   "title": "Caso do repasse a entidades carnavalescas de Balneário Rincão prescreveu no TCE",
+   "description": "A Tomada de Contas Especial apurava supostas irregularidades no repasse do Fundo Estadual de Incentivo ao Turismo (FUNTURISMO) à Liga das Entidades Carnavalescas de Balneário Rincão, com Gilmar Knaesel e Márcio Dalmolin entre os responsáveis. Em maio de 2023, o Tribunal de Contas reconheceu de ofício a prescrição das pretensões punitiva e de ressarcimento e mandou arquivar o processo. Ninguém foi multado nem condenado a devolver dinheiro: o caso morreu pelo tempo, sem julgamento do mérito.",
+   "severity": "media",
+   "status": "⚫ prescrito"
+  },
+  {
+   "ref": "PAP 23/80021958",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE abre denúncia sobre compra de imóvel particular pela Prefeitura de Balneário Rincão",
+   "description": "O que era um procedimento apuratório preliminar sobre a compra de um imóvel particular pela Prefeitura de Balneário Rincão foi convertido em denúncia formal pelo Tribunal de Contas, que citou expressamente o \"possível prejuízo ao erário\". O caso chama atenção pela variação nas avaliações do mesmo imóvel, de R$ 20 mil a R$ 650 mil. O TCE deu 30 dias para a Prefeitura enviar documentos e explicações, e cientificou o prefeito Jairo Celoy Custódio. Não há julgamento de mérito ainda.",
+   "severity": "alta",
+   "status": "🟡 em instrução (citação/audiência)"
+  },
+  {
+   "ref": "RLA 22/00407372",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE julga irregulares contratações sem concurso na Prefeitura de Balneário Rincão",
+   "description": "Auditoria in loco do Tribunal de Contas sobre a folha da Prefeitura de Balneário Rincão entre 2020 e 2022 resultou no Acórdão n. 305/2024, que considerou irregulares vários atos de pessoal. Entre eles: manutenção e admissão de servidores efetivos sem concurso público, contratações temporárias fora das hipóteses legais e sem processo seletivo, horas extras habituais pagas sem comprovação do serviço, adicional de sobreaviso sem documentação e controle inadequado da jornada. Jairo Celoy Custódio, Vilmar Bernardino Borges, Jucilene Antônio Fernandes e Ramires Lino figuram como responsáveis. O trecho publicado do acórdão lista as irregularidades, mas não permite afirmar quais sanções foram fixadas.",
+   "severity": "alta",
+   "status": "⬛ julgado irregular"
+  },
+  {
+   "ref": "DEN 25/00001134",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE rejeita denúncia sobre obras atrasadas em Balneário Rincão por falta de indícios",
+   "description": "Jader Alves Bitencourt denunciou ao Tribunal de Contas supostas irregularidades em contratos de obras do Município de Balneário Rincão — ele é o autor da denúncia, não um investigado. Em maio de 2025, o TCE decidiu não conhecer da denúncia, por não terem sido apresentados indícios ou elementos de convicção que justificassem abrir fiscalização, e determinou o arquivamento. O tribunal, porém, autorizou um levantamento próprio sobre as condições físicas das passarelas da praia do município. Nenhum gestor foi responsabilizado neste processo.",
+   "severity": "media",
+   "status": "🟢 arquivado"
+  },
+  {
+   "ref": "REC 24/00572520",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE convoca diretor do consórcio de saúde da AMREC por falhas em pregão de R$ 80 milhões",
+   "description": "O Tribunal de Contas encontrou indícios de irregularidade no Pregão Eletrônico n. 7/2024 do Consórcio Intermunicipal de Saúde da AMREC (CISAMREC), de R$ 80.442.418,38, para compra de materiais médico-hospitalares. Em junho de 2025 o relator Aderson Flores determinou a audiência do diretor executivo Roque Salvan, da pregoeira Maria da Graça Ronsoni, da coordenadora da comissão técnica Maria Eduarda Coelho da Silva e das cinco integrantes da comissão de análise de amostras. Os pontos questionados são a falta de comprovação da NR-32 em equipos macrogotas, a ausência de publicidade na aprovação das amostras, a negativa de acesso à sessão de análise e o excesso de formalismo ao julgar o recurso de uma concorrente. Todos têm 30 dias para se justificar; ainda não há julgamento.",
+   "severity": "alta",
+   "status": "🟡 em instrução (citação/audiência)"
+  },
+  {
+   "ref": "PAP 22/80045600",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva apuração sobre pregão de Balneário Rincão sem apontar responsáveis",
+   "description": "O procedimento apuratório preliminar tratava de suposta irregularidade no Pregão Presencial n. 049/PMBR/2022 da Prefeitura de Balneário Rincão. Em agosto de 2022, o Tribunal de Contas determinou o arquivamento por o caso não atender aos critérios de seletividade da corte, sem julgar o mérito nem responsabilizar ninguém. O TCE apenas notificou o Controle Interno do município para tomar as providências que julgasse cabíveis.",
+   "severity": "media",
+   "status": "🟢 arquivado"
+  },
+  {
+   "ref": "REC 23/00322735",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE não conhece recurso do prefeito de Balneário Rincão contra acórdão de inspeção",
+   "description": "O prefeito Jairo Celoy Custódio recorreu do Acórdão n. 105/2023, proferido em processo de inspeção envolvendo Balneário Rincão. O relator, conselheiro Wilson Rogério Wan-Dall, decidiu não conhecer do recurso de reexame — ou seja, sequer analisou o mérito das razões apresentadas. O texto publicado é truncado e não permite afirmar quais foram as consequências práticas da decisão. A menção ao Município de Itajaí no extrato é ruído do registro.",
+   "severity": "media",
+   "status": "❔ em tramitação"
+  },
+  {
+   "ref": "RLI 23/00212395",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multa prefeito de Balneário Rincão em R$ 3.981 por atraso em dados ao e-Sfinge",
+   "description": "O Tribunal de Contas considerou irregulares a omissão e os atrasos da Prefeitura de Balneário Rincão no envio de informações do módulo de Atos de Pessoal ao sistema e-Sfinge, entre 2021 e 2023. Aplicou multa de R$ 3.981,19 ao prefeito Jairo Celoy Custódio e outra de R$ 3.981,19 a Cristiano Cancelier, apontado como responsável pelos envios até março de 2023. Ambos tiveram 30 dias para recolher os valores aos cofres do município ou recorrer, sob pena de cobrança judicial. A Prefeitura também foi obrigada a regularizar as remessas dos módulos de Execução Orçamentária, Registros Contábeis e Atos de Pessoal.",
+   "severity": "alta",
+   "status": "⬛ julgado irregular + multa"
+  },
+  {
+   "ref": "RLI 23/00212395",
+   "tipo": "tce",
+   "keep": true,
+   "title": "Prefeito e servidor de Balneário Rincão são multados pelo TCE por omissão no e-Sfinge",
+   "description": "Novo registro do mesmo processo de inspeção sobre o atraso na remessa de dados da Prefeitura de Balneário Rincão ao sistema e-Sfinge. O Tribunal de Contas julgou irregulares a omissão e os atrasos e aplicou multas de R$ 3.981,19 ao prefeito Jairo Celoy Custódio e de R$ 3.981,19 a Cristiano Cancelier, responsável pelos envios até 15/03/2023. Os valores devem ser recolhidos aos cofres municipais em 30 dias, sob pena de cobrança judicial.",
+   "severity": "alta",
+   "status": "⬛ julgado irregular + multa"
+  },
+  {
+   "ref": "LCC 22/00340367",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multa chefe de licitações de Balneário Rincão por descumprir ordem em obra de escola",
+   "description": "O processo tratava do Edital de Concorrência n. 47/PMBR/2022, para a construção de uma escola em Balneário Rincão. O Tribunal de Contas arquivou a análise do edital por perda de objeto — o certame se exauriu e o Contrato n. 62/PMBR/2022 foi rescindido por motivos alheios à corte —, mas aplicou multa de R$ 995,30 a Adroaldo Faraco, presidente da Comissão de Licitação e subscritor do edital, por ter descumprido decisões anteriores do próprio TCE. O tribunal ainda recomendou que, se a Prefeitura relançar o edital, faça antes levantamento planialtimétrico, sondagem do terreno e correção do projeto básico e do orçamento.",
+   "severity": "alta",
+   "status": "🔴 multa aplicada"
+  },
+  {
+   "ref": "REC 24/00445170",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE encerra recurso em Balneário Rincão após anular a própria decisão questionada",
+   "description": "Maria Eduarda Fernandes Pacheco havia recorrido do Acórdão n. 105/2023, de processo de inspeção envolvendo a Prefeitura de Balneário Rincão. Em março de 2025, o Tribunal de Contas extinguiu o recurso sem julgamento de mérito, porque a decisão contestada já havia sido anulada em outro processo — o que fez desaparecer o interesse recursal. Não houve medida cautelar nem responsabilização: o desfecho é favorável à recorrente.",
+   "severity": "media",
+   "status": "🟢 arquivado"
+  }
+ ]
+}

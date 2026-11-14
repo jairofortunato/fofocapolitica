@@ -1,0 +1,2652 @@
+{
+ "mp": [
+  {
+   "i": 0,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 1,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura improbidade em hospital de Indaial e encerra sem elementos para ação",
+   "description": "O inquérito civil apurou supostos atos de improbidade administrativa na gestão do Hospital Beatriz Ramos, em Indaial, sob intervenção municipal. O laudo pericial e as decisões do TCE atestaram a regularidade dos atos de gestão e afastaram a hipótese de malversação de recursos públicos. A contratação de serviços e pessoal pela entidade foi considerada regular. Ausência de elementos probatórios mínimos para ajuizamento de ação civil pública. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 2,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 3,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura contratação irregular de ar-condicionado em Indaial e encerra sem improbidade",
+   "description": "O inquérito civil apurou eventual ato de improbidade administrativa decorrente de irregularidade na contratação de empresa para instalação de ar-condicionado em Indaial, mediante fracionamento dos serviços. As diligências elucidativas demonstraram que foram apresentados três orçamentos, a proposta mais vantajosa foi escolhida e os valores dos empenhos, mesmo somados, estavam abaixo do limite para dispensa de licitação. Ausência de ato de improbidade administrativa.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 4,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura pagamento de diárias e gratificações em Indaial e arquiva",
+   "description": "O inquérito civil apurou supostas ilegalidades no pagamento de diárias a servidor em missão de auxílio humanitário e de gratificações a outro agente público em Indaial. As diligências não constataram qualquer irregularidade nos pagamentos, os quais se mostraram devidamente justificados. Ausência de lastro probatório da prática de ato ímprobo, notadamente dolo específico, lesão ao erário ou enriquecimento ilícito. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 5,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟠 ACNP firmado",
+   "severity": "media"
+  },
+  {
+   "i": 6,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investiga prefeito e parlamentares de Indaial em procedimento preparatório",
+   "description": "O Ministério Público instaurou procedimento preparatório para apurar fatos envolvendo o Prefeito de Indaial e diversos parlamentares e servidores municipais. O procedimento segue em apuração.",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 7,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura uso indevido de veículo oficial em Indaial e firma acordo de não persecução",
+   "description": "O inquérito civil apurou eventual ato de improbidade administrativa perpetrado por Dienata Fernandes de Lima, decorrente de uso de veículo oficial da Secretaria de Saúde de Indaial para fins particulares, realização de curso de Medicina durante horário de expediente e registro fraudulento de ponto eletrônico. Em relação à investigada, foi firmado Acordo de Não Persecução Cível (ANPC). Em relação ao ex-secretário Jediael Nilton Polleza, não houve prova de ato de improbidade.",
+   "status": "🟠 ACNP firmado",
+   "severity": "alta"
+  },
+  {
+   "i": 8,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura abandono de maquinário em Indaial e encerra sem justa causa",
+   "description": "O inquérito civil apurou suposta negligência e abandono do maquinário da Secretaria de Obras do Município de Indaial, contribuindo para a falta de manutenção das vias públicas. O processo licitatório para solução do problema estava em andamento. Inexistência de elementos que indiquem improbidade administrativa ou lesão ao patrimônio público. Ausência de justa causa para ajuizamento de ação civil pública. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 9,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura demora em inauguração de UBS em Indaial e encerra por mudança na lei",
+   "description": "O inquérito civil apurou eventual ato de improbidade administrativa do então prefeito André Luiz Moser, referente à demora em colocar a UBS Dr. João José Cândido da Silva em funcionamento. Com a promulgação da Lei n. 14.230/21, que modificou profundamente o art. 11 da Lei de Improbidade, a conduta apurada não mais encontra previsão no rol taxativo de hipóteses. A responsabilização do agente público tornou-se inviável pela nova legislação. O caso foi encerrado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 10,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 11,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 12,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP ajuíza ação civil pública contra servidor de Indaial por falsificação de registros",
+   "description": "O inquérito civil apurou improbidade administrativa por enriquecimento ilícito (art. 9º da Lei n. 8.429/1992) praticada pelo servidor público municipal Jeferson Rogério Barbosa, que falsificou registros de frequência para obter vantagem patrimonial indevida. O investigado recusou expressamente a celebração de Acordo de Não Persecução Cível. Materialidade e autoria comprovadas. O MP concluiu o procedimento para ajuizamento de ação civil pública.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 13,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 14,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 15,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura restrição de atendimento a gestante com sífilis em Indaial e arquiva",
+   "description": "O inquérito civil apurou suposta omissão de profissionais da saúde no atendimento de adolescente gestante diagnosticada com sífilis em Indaial, em razão de restrição territorial imposta pela Unidade Básica de Saúde. Após diligências e análise técnica, não foram identificados elementos que caracterizem ato de improbidade administrativa. O município adotou medidas corretivas e atendeu integralmente à recomendação ministerial. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 16,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 17,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 18,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 19,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura irregularidade em hospital de Indaial e encerra sem improbidade",
+   "description": "O inquérito civil apurou irregularidade nos serviços de saúde pública de emergência prestados pelo Hospital Beatriz Ramos em Indaial. As diligências não constataram conduta dolosa referente a atos de improbidade administrativa. A responsabilidade administrativa do médico responsável ficou a cargo do Conselho Regional de Medicina. A responsabilidade cível deveria ser apurada mediante ação judicial pela parte interessada. O caso foi encerrado sem ajuizamento de ação civil pública.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 20,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 21,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura coação de secretário de saúde em Indaial e arquiva por mudança na lei",
+   "description": "O inquérito civil apurou suposta coação do então Secretário de Saúde de Indaial em relação a dois médicos, servidores públicos municipais, a atestar o óbito de pessoa falecida fora da unidade de saúde. A conduta não encontra previsão na atual redação do artigo 11 da Lei de Improbidade Administrativa. O caso foi arquivado e submetido à homologação do Conselho Superior do Ministério Público.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 22,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura omissão de fiscalização em Indaial e firma TAC com Corregedoria",
+   "description": "O inquérito civil apurou suposto ato de improbidade decorrente de conduta omissiva na ausência de fiscalização quanto ao cumprimento de horas extras e uso irregular de bens da Secretaria de Segurança Pública em Indaial. As diligências demonstraram conduta culposa, expelida pela nova redação da Lei de Improbidade, sem dolo, prejuízo ao erário ou enriquecimento ilícito. Compromisso de Ajustamento de Conduta celebrado com a Corregedoria-Geral da Polícia Civil.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 23,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 24,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura evolução patrimonial de investigados em Indaial e encerra sem improbidade",
+   "description": "O procedimento preparatório apurou eventual ato de improbidade administrativa de Alexandre Gielow e Camila do Amaral, por suposta aquisição de bem imóvel em valor desproporcional à evolução patrimonial. Após instrução, constatou-se a licitude da origem da evolução patrimonial e das aquisições de bens dos investigados. Não houve caracterização de ato de improbidade administrativa. O caso foi encerrado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 25,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura irregularidades em publicidade na Câmara de Vereadores de Indaial",
+   "description": "O procedimento preparatório apurou irregularidades relacionadas a contratações e gastos com publicidade e propaganda na Câmara de Vereadores de Indaial, especificamente quanto a gastos desproporcionais com publicidade e irregularidade na contratação de agência de publicidade ante a existência de quadro de servidores aptos. O procedimento foi concluído sem elementos para ação judicial.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 26,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 27,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 28,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 29,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 30,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura pregão eletrônico irregular em Indaial e arquiva após anulação do certame",
+   "description": "O inquérito civil apurou supostas irregularidades no Pregão Eletrônico n. 66/2024 do Município de Indaial, consistentes em superfaturamento e favorecimento à empresa contratada. A irregularidade foi solucionada pela própria Administração Pública Municipal com a anulação do certame, o que motivou inclusive o arquivamento do procedimento correlato no TCE/SC. A apuração de eventual responsabilidade dos agentes públicos segue em procedimento próprio. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 31,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 32,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 33,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 34,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura atuação da Vigilância Sanitária em hospital de Indaial e encerra",
+   "description": "O inquérito civil apurou supostas irregularidades na atuação de profissionais da Vigilância Sanitária em vistorias realizadas no Hospital Beatriz Ramos em Indaial. As diligências elucidativas não encontraram indícios mínimos de ilegalidade na atuação dos profissionais. A vedação de entrada dos fiscais foi autorizada pela Secretaria Estadual de Saúde, com validade trimestral. Realização de vistoria in loco assim que tomou conhecimento da denúncia, resultando na emissão de Auto de Infração. O caso foi encerrado sem irregularidade.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 35,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 36,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 37,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 38,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura monitoramento eletrônico irregular em escola de Indaial e arquiva",
+   "description": "O inquérito civil apurou suposta irregularidade em serviço de monitoramento eletrônico em unidade escolar de Indaial, referente à indisponibilidade de imagens solicitadas (armazenamento inferior a 36 horas). A investigação afastou o descumprimento contratual, pois o contrato não previa cláusula de prazo mínimo para guarda das gravações. A perda dos dados foi atribuída à condição técnica de operação. A Secretaria de Educação informou a correção da especificação em futuras licitações. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 39,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura canalização de curso hídrico em Indaial e arquiva",
+   "description": "O inquérito civil apurou a notícia de canalização de curso hídrico e aterro de nascente pela prefeitura de Indaial, na Rua Cascavel. A ausência de dano ambiental foi constatada pela PMA. A obra de alteração de tubulação de drenagem foi realizada pelo Município como utilidade pública, com regularidade perante o órgão ambiental. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 40,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 41,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura omissão do Conselho Municipal de Saúde de Indaial e arquiva",
+   "description": "O inquérito civil apurou suposta omissão do Conselho Municipal da Saúde de Indaial perante informações prestadas por Edson Roberto Milbratz. Após investigação, verificou-se que o órgão não foi omisso e não houve ato de improbidade praticado. O caso foi arquivado por ausência de fundamento para ação civil pública.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 42,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura depósito irregular de material em Indaial e arquiva",
+   "description": "O inquérito civil apurou irregularidade no depósito de material de construção público em terreno particular na Rua Belo Horizonte, n. 95, em Indaial. Apurou-se que o depósito ocorreu por equívoco operacional, tendo o material sido posteriormente removido e destinado de forma adequada. A irregularidade foi solucionada na via administrativa. Ausência de indícios de dolo, má-fé ou benefício indevido. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 43,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura preterição de candidatos em concurso de Indaial e arquiva",
+   "description": "O inquérito civil apurou suposta preterição de candidatos aprovados em concurso público para enfermeiro em Indaial, em razão de contratações temporárias. As diligências demonstraram que as contratações por prazo determinado foram motivadas por necessidades temporárias de excepcional interesse público, como substituição de servidores em licença e atuação em projetos-piloto. Não se configurou preterição arbitrária. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 44,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura construção irregular em área de preservação em Indaial e arquiva",
+   "description": "O inquérito civil apurou a notícia de construção irregular em área de preservação permanente no imóvel da Rua Caçador, n. 1408, Bairro Rio Morto, em Indaial, de propriedade de José Roepcke. Medidas administrativas e judiciais foram tomadas pela Secretaria de Urbanização e Meio Ambiente e pelo Município. A atuação do MP foi considerada desnecessária. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 45,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura omissão na manutenção do CREAS de Indaial e encerra após licitação",
+   "description": "O inquérito civil apurou possível omissão do Município de Indaial na manutenção da sede do CREAS, na Rua 24 de Maio, n. 352, desde 2021, colocando em risco a segurança das pessoas. A situação foi solucionada na via administrativa com a realização de licitação para contratação de empresa de reforma, com início das obras em agosto de 2025. Ausência de justa causa para ajuizamento de ação civil pública. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 46,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 47,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura violação de direito à educação de estudante estrangeiro em Indaial",
+   "description": "O inquérito civil apurou possível violação de direito à educação de estudante estrangeiro com autismo, matriculado com acentuada distorção idade-série em Indaial. A controvérsia foi sanada no curso do procedimento, após reavaliação pelo próprio Município, que recomendou a reclassificação do aluno. A irregularidade cessou com a efetiva matrícula e frequência do estudante no 5º ano do Ensino Fundamental, tornando desnecessária a celebração de TAC. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 48,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 49,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura operação sem licença ambiental em Indaial e arquiva",
+   "description": "O inquérito civil apurou a notícia de que a empresa JBLM Comércio de Pedras e Granitos EIRELI, em Indaial, operava sem autorização ou licença do órgão ambiental. Após notificação pelo Município, a empresa encerrou suas atividades. Os fatos narrados na denúncia foram resolvidos. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 50,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura atividade de mineração sem licença em Indaial e arquiva",
+   "description": "O inquérito civil apurou atividade de mineração sem autorização ou licença do órgão ambiental por Baldo Comércio e Mineração Ltda. em Indaial, bem como a regularidade da Autorização de Terraplanagem n. 32/2016. A existência de Procedimento Administrativo de Regularização do empreendimento foi verificada. O caso foi arquivado por ausência de fundamento para ação judicial.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 51,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura remoção interna de servidores em Indaial e arquiva após regularização",
+   "description": "O inquérito civil apurou eventual ilegalidade na não realização de processo de remoção interna de servidores da educação em Indaial, previamente ao chamamento dos aprovados no Concurso Público n. 02/2023. O Município acatou a recomendação ministerial para realização prévia do processo de remoção interna, regularizando a situação. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 52,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investiga Procuradoria e familiares em Indaial em inquérito civil",
+   "description": "O Ministério Público instaurou inquérito civil para apurar fatos envolvendo a Procuradoria-Geral do Município de Indaial e membros da família Praxmarer. O procedimento segue em apuração.",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 53,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura impedimento de regeneração vegetal em Indaial e arquiva",
+   "description": "O inquérito civil apurou a notícia de impedimento de regeneração natural em vegetação de área de preservação permanente, na Rua Três Corações, n. 675, Bairro Benedito, em Indaial, causado pela Transportadora BLZ Ltda. A redução da APP foi realizada por Lei Complementar municipal. Inexistência de intervenção em APP. O caso foi arquivado por ausência de fundamento para ação judicial.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 54,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 55,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 56,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 57,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura poluição sonora de oficina mecânica em Indaial e arquiva",
+   "description": "O inquérito civil apurou poluição sonora gerada por oficina mecânica em Indaial. A vistoria técnica realizada pelo Município concluiu que o nível de ruído detectado era aceitável para o local. Posteriormente, o empreendimento deixou de funcionar. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 58,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 59,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 60,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura empenho irregular para criação de logomarca em Indaial e arquiva",
+   "description": "O inquérito civil apurou irregularidade na emissão do empenho n. 714/2020, destinado ao pagamento de serviço de criação de logomarca do Hospital Beatriz Ramos em Indaial. As diligências elucidativas demonstraram que o empenho e a ordem de compra foram devidamente anulados e o serviço foi prestado a título gratuito. Ausência de prejuízo aos cofres públicos e de dolo em beneficiar empresa. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 61,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura maus tratos em Projeto Bugio em Indaial e arquiva",
+   "description": "O inquérito civil apurou a notícia de maus tratos, acúmulo de materiais, mau cheiro e proliferação de insetos no Projeto Bugio, situado na Rua Rio de Janeiro, n. 401, Bairro do Sol, em Indaial. A vistoria do órgão ambiental atestou a regularidade do local. Os fatos narrados na denúncia já haviam sido resolvidos. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 62,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura risco de queda de torre de transmissão em Indaial e arquiva",
+   "description": "O inquérito civil apurou a necessidade de contenção do barranco causado pelo alargamento de via pública, que causava risco de queda de torre de transmissão da Celesc, na Rua Uberaba, Bairro Mulde, em Indaial. O Município realizou a obra de contenção, tornando desnecessária a atuação do MP. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 63,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 64,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 65,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura inércia do executivo em Indaial e arquiva após providências",
+   "description": "O inquérito civil apurou suposta inércia do Poder Executivo Municipal quanto às irregularidades na Rua Torres, em Indaial. As diligências demonstraram que a manutenção das condições da via estava plenamente realizada e em dia com o cronograma. O representante manifestou satisfação sobre a atuação municipal. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 66,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura edificação irregular em Indaial e arquiva",
+   "description": "O inquérito civil apurou suposta irregularidade de edificação e ligamento de luz pela CELESC em propriedade localizada na Rua Palotina, n. 236, Bairro Encano do Norte, em Indaial. Existência de cumprimento de sentença de ação demolitória ajuizada pelo Município. A atuação do MP foi considerada desnecessária. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 67,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 68,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 69,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura atos de optometrista em consultório irregular em Indaial e encerra por prescrição",
+   "description": "O inquérito civil investigou o estabelecimento Mercadão do Óculos, em Indaial, por supostamente oferecer serviços de consulta com profissional técnica em optometria que prescrevia lentes e praticava atos privativos de médico oftalmologista. Durante a tramitação, a irregularidade foi sanada por acordo judicial. Quanto à regularidade do estabelecimento, o procedimento foi concluído. O caso foi encerrado por prescrição.",
+   "status": "⚫ prescrito",
+   "severity": "media"
+  },
+  {
+   "i": 70,
+   "keep": true,
+   "title": "MP apura jornada de sobreaviso de servidora em Indaial e arquiva sem irregularidade",
+   "description": "O Ministério Público investigou suposta irregularidade na jornada de sobreaviso da servidora Mariana Braga em Indaial durante 2021. Após apuração, verificou-se que não houve irregularidade na jornada, tampouco remuneração indevida ou em duplicidade. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 71,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 72,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 73,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 74,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 75,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 76,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 77,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 78,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 79,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 80,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 81,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 82,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 83,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 84,
+   "keep": true,
+   "title": "MP apura maus-tratos a animais em Indaial e arquiva após regularização",
+   "description": "O inquérito civil investigou denúncia de maus-tratos a animais no Centro de Castração de Indaial, envolvendo Elton Marcos Possamai. A situação de maus-tratos não foi configurada, os animais estavam amparados por clínica veterinária especializada e havia incentivo à adoção. A estrutura do centro estava em reforma. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 85,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 86,
+   "keep": true,
+   "title": "MP apura ato privativo de oftalmologista por optometrista em Indaial e arquiva",
+   "description": "O inquérito civil apurou se optometrista no Centro da Visão em Indaial estaria realizando atos privativos de médico oftalmologista. Verificou-se que o profissional possuía curso superior em Optometria e estava autorizado a atuar, conforme entendimento do STF na ADPF 131/DF. O caso foi arquivado por não ocorrência de ilegalidade.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 87,
+   "keep": true,
+   "title": "MP apura ausência de ponto de ônibus em Indaial e município regulariza",
+   "description": "O procedimento apurou ausência de ponto de ônibus adequado na Rua Augusto Maass, Bairro Arapongas, em Indaial. Após a instauração, a municipalidade instalou pontos nos dois lados da rua. A solução administrativa foi considerada suficiente e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 88,
+   "keep": true,
+   "title": "MP apura creche domiciliar irregular em Indaial e firma TAC",
+   "description": "O inquérito civil apurou possível maus-tratos na creche domiciliar Bela Cuidadora em Indaial. Embora não tenha havido elementos para responsabilização civil ou penal, constatou-se atividade irregular de creche domiciliar sem alvará, irregularidade sanada durante a apuração. Foi firmado Termo de Ajustamento de Conduta.",
+   "status": "🟠 TAC firmado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 89,
+   "keep": true,
+   "title": "MP apura falta de manutenção de via em Indaial e arquiva após intervenções",
+   "description": "O inquérito civil apurou falta de manutenção na Rua Artur Zarling, Bairro Warnow Alto, que gerava risco aos usuários. As intervenções necessárias foram iniciadas e vêm sendo progressivamente executadas. Não foram identificados indícios de omissão dolosa ou desídia administrativa. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 90,
+   "keep": true,
+   "title": "MP apura gestão financeira de pecúlio em presídio de Indaial e arquiva",
+   "description": "O inquérito civil apurou supostas irregularidades na gestão financeira do setor de pecúlio da Unidade Prisional Avançada de Indaial. Após análise técnica, não foram identificados indícios de desvio de valores ou irregularidade administrativa relevante. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 91,
+   "keep": true,
+   "title": "MP apura omissão na administração do Cemitério Municipal de Indaial e arquiva",
+   "description": "O procedimento apurou suposta omissão do Município de Indaial na administração do Cemitério Municipal e na orientação da população sobre serviços e taxas. A municipalidade comprovou a adoção de providências e atuação contínua para resolver as irregularidades. O caso foi arquivado na via administrativa.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 92,
+   "keep": true,
+   "title": "MP apura arquibancada irregular em estádio de Indaial e arquiva após demolição",
+   "description": "O inquérito civil apurou omissão do Município de Indaial na fiscalização de arquibancada irregular em estádio de futebol, que colocava moradores em perigo. A estrutura foi demolida e o risco cessou. O município adotou providências administrativas e aplicou sanções. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 93,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 94,
+   "keep": true,
+   "title": "MP apura construção irregular em área de preservação em Indaial e arquiva",
+   "description": "O inquérito civil investigou construção irregular em área de preservação permanente em imóvel rural em Indaial. Verificou-se que a construção já existia desde 1985 e era regular quanto à legislação vigente à época. O caso foi arquivado por ausência de fundamento para ação judicial.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 95,
+   "keep": true,
+   "title": "MP apura dano ambiental por empresa em Indaial e firma TAC com Blucabos",
+   "description": "O inquérito civil apurou impedimento de regeneração de vegetação em área de preservação permanente na Rua Dr. Blumenau em Indaial, causado pela empresa Blucabos Indústria e Comércio. A empresa celebrou Termo de Compromisso de Ajustamento de Conduta e o caso foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 96,
+   "keep": true,
+   "title": "MP apura supressão de vegetação em Indaial e arquiva após multa e recuperação",
+   "description": "O inquérito civil apurou supressão de vegetação e movimentação de solo sem autorização ambiental, com espécies ameaçadas em Área de Preservação Permanente em Indaial. A municipalidade aplicou multa e compensação ambiental, a área foi recuperada. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 97,
+   "keep": true,
+   "title": "MP apura risco de inundação em escola de Indaial e firma TAC de regularização",
+   "description": "O inquérito civil apurou risco de inundação na Escola Básica Municipal Arapongas em Indaial, que causava interrupção das atividades e danos materiais. Foi firmado Termo de Ajustamento de Conduta para regularização da infraestrutura. O caso foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 98,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 99,
+   "keep": true,
+   "title": "MP apura irregularidades em estande de tiro em Indaial e arquiva",
+   "description": "O inquérito civil apurou supostas irregularidades em estande de tiro em Indaial quanto à segurança estrutural, poluição sonora e conformidade normativa. O estabelecimento possuía todas as licenças, o laudo de pressão sonora apontou níveis dentro dos limites legais e não havia distanciamento mínimo obrigatório. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 100,
+   "keep": true,
+   "title": "MP apura cobrança abusiva por revisão de notas em universidade em Indaial",
+   "description": "O inquérito civil apurou cobrança de taxas por revisão de notas pela UNIASSELVI em Indaial. A análise contratual revelou cláusula expressa sobre a cobrança por serviços extraordinários facultativos. O Ministério Público considerou inexistir abusividade e arquivou o caso.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 101,
+   "keep": true,
+   "title": "MP apura desaguamento de água e riscos em bairro de Indaial e arquiva",
+   "description": "O inquérito civil apurou desaguamento de água nos imóveis no Bairro do Sol em Indaial, com alegados riscos de infestação e desmoronamento. Vistorias realizadas pelas Secretarias de Obras e de Urbanização e Meio Ambiente confirmaram ausência de dano ambiental e riscos. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 102,
+   "keep": true,
+   "title": "MP apura dano ambiental por tubulação rompida em Indaial e arquiva",
+   "description": "O inquérito civil apurou dano ambiental decorrente de tubulação de esgoto rompida na Rodovia BR 470 em Indaial. A vistoria confirmou tratar-se de tubulação de drenagem pluvial, e os reparos foram realizados pela Secretaria de Obras. O caso foi arquivado por ausência de dano ambiental.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 103,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 104,
+   "keep": true,
+   "title": "MP apura rede de esgoto clandestina em Indaial e arquiva após solução",
+   "description": "O inquérito civil apurou notícia de rede de esgoto clandestina e asfaltamento irregular na Rua Santiago em Indaial. Os fatos não foram confirmados e o Município solucionou o problema. O caso foi arquivado por ausência de interesse processual.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 105,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 106,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 107,
+   "keep": true,
+   "title": "MP firma aditamento ao TAC com Indaial para cumprimento de obrigações",
+   "description": "O inquérito civil resultou na firmação de Aditamento ao Termo de Ajustamento de Conduta com o Município de Indaial. O caso foi encaminhado para acompanhamento do cumprimento das obrigações estabelecidas no Termo.",
+   "status": "🟠 TAC firmado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 108,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 109,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 110,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 111,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 112,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 113,
+   "keep": true,
+   "title": "MP firma TAC com Município de Indaial e acompanha cumprimento",
+   "description": "O inquérito civil resultou na firmação do Termo de Ajustamento de Conduta com o Município de Indaial. O caso foi encaminhado para acompanhamento do cumprimento das obrigações pactuadas.",
+   "status": "🟠 TAC firmado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 114,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 115,
+   "keep": true,
+   "title": "MP apura irregularidades em abatedouros de Indaial e firma TAC",
+   "description": "O inquérito civil apurou irregularidades na inspeção municipal de abatedouros em Indaial. Foi firmado Termo de Ajustamento de Conduta com o Abatedouro Michelson para atendimento integral do Plano de Ações Corretivas, e o Minimercado e Abatedouro Ponath adotou medidas alternativas. O caso foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 116,
+   "keep": true,
+   "title": "MP apura acessibilidade em vias de Indaial e recomendação é acatada",
+   "description": "O inquérito civil apurou condições de acessibilidade em diversas vias públicas de Indaial. Foi expedida Recomendação Administrativa ao Município para fiscalização e regularização das calçadas, que foi integralmente acatada. O caso foi encaminhado para acompanhamento.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 117,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 118,
+   "keep": true,
+   "title": "MP firma TAC com Município de Indaial e acompanha cumprimento",
+   "description": "O inquérito civil resultou na firmação do Termo de Ajustamento de Conduta com o Município de Indaial. O caso foi encaminhado para acompanhamento do cumprimento das obrigações pactuadas por meio de procedimento administrativo.",
+   "status": "🟠 TAC firmado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 119,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 120,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 121,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 122,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 123,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 124,
+   "keep": true,
+   "title": "MP firma aditivo ao TAC com Indaial e acompanha cumprimento",
+   "description": "O inquérito civil resultou na celebração de Aditivo ao Termo de Ajustamento de Conduta com o Município de Indaial. O caso foi encaminhado para acompanhamento do cumprimento das obrigações.",
+   "status": "🟠 TAC firmado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 125,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 126,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 127,
+   "keep": true,
+   "title": "MP firma ACNP com investigado em Indaial e arquiva parcialmente",
+   "description": "O inquérito civil resultou na celebração de Acordo de Não Persecução Civil com um dos investigados (Fabiano dos Santos) em Indaial. O caso foi parcialmente arquivado em relação a este investigado, com o acompanhamento do cumprimento do acordo.",
+   "status": "🟠 ACNP firmado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 128,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 129,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 130,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 131,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 132,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 133,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 134,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 135,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 136,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 137,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 138,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 139,
+   "keep": true,
+   "title": "MP apura parcelamento irregular na Tifa da Linguiça em Indaial e arquiva",
+   "description": "O inquérito civil apurou suposto parcelamento de solo irregular na Tifa da Linguiça, zona rural de Indaial. Verificou-se a possibilidade de aquisição de fato de via pública por destinação de uso público, de forma ostensiva e pacífica. Não foram encontrados indícios de burla ao parcelamento rural. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 140,
+   "keep": true,
+   "title": "MP apura atendimento prioritário a crianças em Indaial e arquiva",
+   "description": "O inquérito civil apurou critérios para atendimento prioritário de crianças e adolescentes no Município de Indaial. Verificou-se que a regulação estadual impedia a observância da garantia à prioridade, situação que deve ser resolvida em âmbito estadual. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 141,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 142,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 143,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 144,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 145,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 146,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 147,
+   "keep": true,
+   "title": "MP firma TAC com Município de Indaial e acompanha cumprimento",
+   "description": "O inquérito civil resultou na firmação do Termo de Ajustamento de Conduta com o Município de Indaial. O caso foi encaminhado para acompanhamento do cumprimento das obrigações pactuadas.",
+   "status": "🟠 TAC firmado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 148,
+   "keep": true,
+   "title": "MP firma TAC com Indaial e AGIR e arquiva após cumprimento de metas",
+   "description": "O inquérito civil resultou em Termo de Ajustamento de Conduta firmado com o Município de Indaial e a Agência Intermunicipal de Regulação do Médio Vale do Itajaí (AGIR). As medidas foram ajustadas no aditamento do TAC e o objetivo do feito foi atingido. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 149,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 150,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 151,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 152,
+   "keep": true,
+   "title": "MP apura irregularidade no transporte intermunicipal em Indaial e arquiva",
+   "description": "O inquérito civil apurou eventual irregularidade no serviço de transporte intermunicipal Indaial-Blumenau pela Auto Viação Rainha. As fiscalizações indicaram regularidade na bilhetagem, acessibilidade e horários, e o PROCON não possui reclamações. O caso foi arquivado por ausência de irregularidade.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 153,
+   "keep": true,
+   "title": "MP apura falta de manutenção de via em Indaial e arquiva após solução",
+   "description": "O inquérito civil apurou falta de manutenção da Rua Henrique Kienen em Indaial. O Departamento de Trânsito procedeu à manutenção da via. Quanto ao redutor de velocidade, não se demonstrou necessidade, cabendo discricionariedade administrativa. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 154,
+   "keep": true,
+   "title": "MP apura insegurança em via de Indaial e arquiva após estudo técnico",
+   "description": "O procedimento apurou suposta insegurança na Rua Odilo Hobus, Bairro Mulde, em Indaial, pela inexistência de lombada. Estudo técnico realizado pela Municipalidade não verificou omissão administrativa. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 155,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 156,
+   "keep": true,
+   "title": "MP apura abandono de imóvel público em Indaial e arquiva após regularização",
+   "description": "O procedimento apurou suposto abandono de imóvel público municipal na Rua Deputado Aldo Pereira de Andrade em Indaial, que poderia causar focos de dengue. A Vigilância Sanitária atestou a segurança do local, o abandono foi afastado e Projeto de Lei está em andamento para destinação do imóvel. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 157,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 158,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 159,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 160,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 161,
+   "keep": true,
+   "title": "MP apura negligência em atendimento hospitalar em Indaial e fecha sem ACP",
+   "description": "O inquérito civil apurou possível negligência nos atendimentos realizados pelo SAIS e pelo Hospital Beatriz Ramos em Indaial a uma paciente. Não foram comprovados indícios de omissão dos profissionais, e o paciente evoluiu com melhora após atendimento em hospital vizinho. O caso foi arquivado sem ajuizamento de ACP.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 162,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 163,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 164,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 165,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 166,
+   "keep": true,
+   "title": "MP apura omissão na acolhimento de idosos em Indaial e arquiva",
+   "description": "O inquérito civil apurou omissão na política de acolhimento institucional de idosos e pessoas com deficiência pelo Município de Indaial. A municipalidade adotou providências corretivas, implementou editais de credenciamento para ILPIs e residências inclusivas e fortaleceu o serviço de acolhimento familiar. O caso foi arquivado por ausência de justa causa para ACP.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 167,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 168,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 169,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 170,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 171,
+   "keep": true,
+   "title": "MP apura intervenção em APP em Indaial e firma TAC com proprietários",
+   "description": "O inquérito civil apurou intervenção em Área de Preservação Permanente no imóvel vizinho à empresa Transportadora BLZ Ltda. em Indaial. Foi celebrado Termo de Compromisso de Ajustamento de Conduta com os sucessores do proprietário, visando execução de PRAD e pagamento de medida compensatória. O caso foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 172,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 173,
+   "keep": true,
+   "title": "MP apura parcelamento clandestino com APP em Indaial e firma TAC",
+   "description": "O inquérito civil apurou eventual parcelamento clandestino com ocupação em Área de Preservação Permanente pela Viva Loteadora Ltda. em Indaial. Foi celebrado Termo de Compromisso de Ajustamento de Conduta com os responsáveis. O caso foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 174,
+   "keep": true,
+   "title": "MP apura construção em APP em Indaial e firma TAC com proprietário",
+   "description": "O inquérito civil apurou regularidade de construção em Área de Preservação Permanente no imóvel matriculado sob o n. 19.541 em Indaial, de propriedade de Jurandi Mansani de Freitas. Foi firmado Termo de Compromisso de Ajustamento de Conduta visando medidas compensatórias de recuperação. O caso foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 175,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 176,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 177,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 178,
+   "keep": true,
+   "title": "MP apura irregularidade no fornecimento de energia em Indaial e arquiva",
+   "description": "O inquérito civil apurou irregularidades no fornecimento de energia elétrica no Bairro Polaquia e outras localidades em Indaial. Diligências elucidativas demonstraram inexistência de negligência da concessionária. A reclamante informou que a problemática não mais persistia. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 179,
+   "keep": true,
+   "title": "MP apura inexistência de drenagem em loteamento em Indaial e arquiva",
+   "description": "O inquérito civil apurou inexistência de drenagem nas obras do loteamento na Rua Marechal Floriano Peixoto em Indaial, que causava alagamento. Verificou-se que o sistema de drenagem pluvial existia, mas estava bloqueado por resíduos, e foi realizada limpeza pelas Secretarias de Meio Ambiente e Planejamento. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 180,
+   "keep": true,
+   "title": "MP apura notificações de bactéria KPC em hospital de Indaial",
+   "description": "O inquérito civil apurou suposta irregularidade nas notificações de bactéria KPC no Hospital Beatriz Ramos em Indaial. Diligências demonstraram inexistência de notificação de IRAS no período investigado, afastamento de funcionário responsável e instalação de Comissão de Controle de Infecção Hospitalar. O desfecho do caso não está claro no texto.",
+   "status": "❔ status indef.",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 181,
+   "keep": true,
+   "title": "MP apura esgoto ligado a ribeirão em Indaial e arquiva após obras",
+   "description": "O inquérito civil apurou esgoto ligado a ribeirão na Rua Minas Gerais em Indaial, causando mau cheiro e proliferação de insetos. A Secretaria Municipal de Meio Ambiente executou obras de coleta e tratamento de esgoto no bairro. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 182,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 183,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 184,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 185,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 186,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 187,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 188,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 189,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 190,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 191,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 192,
+   "keep": true,
+   "title": "MP apura contratação de menores por empresa em Indaial e arquiva",
+   "description": "O inquérito civil apurou suposta irregularidade na contratação de crianças e adolescentes pela empresa Luli Indústria e Comércio de Confecções para publicidades e catálogos, sem exigência de autorização judicial. Foi emitida recomendação para que a empresa passe a exigir as autorizações, que foi atendida. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 193,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 194,
+   "keep": true,
+   "title": "MP apura creche clandestina em Indaial e arquiva após encerramento",
+   "description": "O inquérito civil apurou funcionamento de creche clandestina por Letícia Cristina Galvão em Indaial. A funcionária foi notificada pelos órgãos municipais e encerrou as atividades clandestinas. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 195,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 196,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 197,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 198,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 199,
+   "keep": true,
+   "title": "MP apura negligência em hospital de Indaial e arquiva após apuração",
+   "description": "O inquérito civil apurou possível negligência e tratamento indevido pelo Hospital Beatriz Ramos ao idoso Valdir José Sordi, que veio ao óbito em Indaial. Diligências demonstraram inexistência de indícios de conduta dolosa. A instituição implementou protocolo operacional padrão e a funcionária responsável foi afastada. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 200,
+   "keep": true,
+   "title": "MP apura maus-tratos a animais e contaminação em Indaial e arquiva",
+   "description": "O inquérito civil apurou supostos maus-tratos a animais e condições insalubres em imóvel no Bairro Encano em Indaial. Vistoria realizada pelos órgãos municipais não confirmou os fatos narrados na denúncia. O caso foi arquivado por ausência de elementos para ação judicial.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 201,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 202,
+   "keep": true,
+   "title": "MP apura creche clandestina em Indaial e arquiva após regularização",
+   "description": "O inquérito civil apurou funcionamento de creche clandestina em Indaial. As responsávels foram notificadas e regularizaram a situação. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 203,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 204,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 205,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 206,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 207,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 208,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 209,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 210,
+   "keep": true,
+   "title": "MP apura bloqueio de aparelhos por Vivo em Indaial e arquiva",
+   "description": "O procedimento preparatório apurou bloqueio de aparelhos celulares regulares pela operadora Vivo em Indaial, sob alegação de cumprimento da Lei n. 9.472/97. Após instrução, não ficou evidente conduta tendente a prejudicar consumidores e a quantidade de afetados era diminuta. O caso foi considerado mero mau funcionamento do sistema e arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 211,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 212,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 213,
+   "keep": true,
+   "title": "MP apura irregularidade em posto de combustível em Indaial e firma TAC",
+   "description": "O inquérito civil apurou irregularidade no Posto Zandoná 3 em Indaial. Foi firmado Termo de Ajustamento de Conduta e o caso foi encaminhado para acompanhamento do cumprimento das obrigações pactuadas.",
+   "status": "🟠 TAC firmado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 214,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 215,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 216,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 217,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 218,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 219,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 220,
+   "keep": true,
+   "title": "MP apura exercício ilegal de veterinária em Indaial e arquiva",
+   "description": "O procedimento apurou suposto exercício ilegal da medicina veterinária e maus-tratos pelo Comercial Agrícola Campo e Lavoura Ltda. em Indaial. Verificou-se que a empresa atualmente se encontra registrada para comércio de alimentos para animais, produtos veterinários e consultório veterinário. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 221,
+   "keep": true,
+   "title": "MP apura investigados em Indaial e arquiva parcialmente com continuidade",
+   "description": "O inquérito civil apurou supostas irregularidades envolvendo Marcio Moises Selhorst, Kelvin Elton dos Santos e Rafael Nagel em Indaial. Houve parcial arquivamento em relação a estes investigados, com continuidade das investigações em relação a Ademir Packer.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 222,
+   "keep": true,
+   "title": "MP apura uso de Propofol em UTI de hospital de Indaial e arquiva",
+   "description": "O inquérito civil apurou suposta imprudência na utilização de doses elevadas de Propofol em pacientes da UTI-Covid 19 do Hospital Beatriz Ramos em Indaial, que teria acarretado óbitos. Perícia da Polícia Científica não concluiu nexo causal entre o uso do medicamento e os óbitos. O caso foi arquivado por falta de provas.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 223,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 224,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 225,
+   "keep": true,
+   "title": "MP apura ausência de plano de incêndio em presídio de Indaial e arquiva",
+   "description": "O inquérito civil apurou ausência de Plano de Prevenção e Proteção a Incêndio e Pânico no Presídio Regional de Indaial. Verificou-se a existência de procedimento judicial com objeto mais amplo que abarca o mesmo fato (Ação de Cumprimento de Sentença). O caso foi arquivado por duplicidade de procedimentos.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 226,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 227,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 228,
+   "keep": true,
+   "title": "MP apura uso de máquinas de bronzeamento irregular em Indaial e arquiva",
+   "description": "O inquérito civil apurou utilização irregular de máquinas de bronzeamento artificial com emissão de raios UV em salão de beleza em Indaial. Durante a apuração, o estabelecimento encerrou as atividades e mudou para local incerto. O caso foi arquivado por perda superveniente do objeto, com remessa de cópias às autoridades sanitárias.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 229,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media",
+   "tipo": "mp"
+  }
+ ],
+ "tce": [
+  {
+   "i": 0,
+   "keep": true,
+   "title": "TCE considera irregular aquisição de equipamentos de anestesia em Indaial",
+   "description": "O TCE apurou irregularidades na aquisição de equipamentos de anestesia para tratamento da COVID-19 pela Prefeitura de Indaial, via Dispensa de Licitação n. 001/2020-19208 com base na Lei n. 13.979/2020. O órgão considerou irregular a deficiência na pesquisa de preços e recomendou à prefeitura que atente para indícios de fraude nos procedimentos licitatórios.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 1,
+   "keep": true,
+   "title": "TCE aponta irregularidades em dispensas de licitação para aluguéis em Indaial",
+   "description": "O TCE apontou irregularidades em dispensas de licitação para locação de imóveis pela Prefeitura de Indaial, resultando em dano ao erário de R$ 189.104,65 pela ausência de efetiva destinação pública aos imóveis locados. Foram definidos responsáveis solidários e determinada citação para apresentação de defesa.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "alta",
+   "tipo": "tce"
+  },
+  {
+   "i": 2,
+   "keep": true,
+   "title": "TCE julga irregular contratações emergenciais em Indaial e aplica multas",
+   "description": "O TCE julgou parcialmente procedente representação sobre contratações por inexigibilidade de licitação para transporte de lixo e iluminação pública em Indaial. Foram aplicadas multas aos secretários municipais Paulo Roberto Ledra, Valentim Blasius, Fabiano dos Santos, André Luiz Moser e Ana Karina Schramm.",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta",
+   "tipo": "tce"
+  },
+  {
+   "i": 3,
+   "keep": true,
+   "title": "TCE julga improcedente representação sobre pregão de informática em Indaial",
+   "description": "O TCE indeferiu pedido de sustação cautelar do Pregão Eletrônico n. 21/2021 para aquisição de equipamentos de informática pela Prefeitura de Indaial e julgou improcedente a representação da empresa MM Comércio de Equipamentos Ltda. O TCE considerou regular o julgamento da pregoeira.",
+   "status": "🟢 julgado regular",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 4,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 5,
+   "keep": true,
+   "title": "TCE suspende concorrência para nova Escola Arapongas em Indaial",
+   "description": "O TCE determinou cautelarmente a suspensão imediata do Edital de Concorrência Eletrônica n. 5/2026 para construção da nova Escola Arapongas em Indaial, em face da ausência de definição plena do terreno destinado à implantação da escola. Foi determinada diligência ao prefeito para esclarecimentos.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 6,
+   "keep": true,
+   "title": "TCE sustenta contratação de assessoria jurídica por inexigibilidade em Indaial",
+   "description": "O TCE concedeu medida cautelar de sustação de todos os atos vinculados à execução do Contrato n. 103/2023 com escritório de advocacia para serviços de perícia em gás e petróleo pela Prefeitura de Indaial. Foram apontadas irregularidades como ausência de singularidade no objeto e cláusula de remuneração percentual sobre receitas auferidas.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 7,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 8,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 9,
+   "keep": true,
+   "title": "TCE aponta irregularidades em dispensas de licitação para sistema informatizado em Indaial",
+   "description": "O TCE apontou irregularidades nas Dispensas de Licitação 30/2023 e 07/2024 para fornecimento de sistema informatizado de gestão pública em Indaial, incluindo ausência de caracterização de situação emergencial, prorrogações indevidas e omissão no atendimento a comunicações do controlador interno.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 10,
+   "keep": true,
+   "title": "TCE apura irregularidades em pregão de guincho em Indaial",
+   "description": "O TCE apurou possíveis irregularidades no Pregão Eletrônico n. 75/2025 para serviços de guincho em Indaial. O pedido de sustação cautelar foi indeferido e foi determinada audiência do secretário de planejamento e da empresa vencedora para apresentação de justificativas.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 11,
+   "keep": true,
+   "title": "TCE multa prefeito de Indaial por acordo de cooperação sem licitação",
+   "description": "O TCE julgou procedente representação sobre Termo de Acordo de Cooperação Habitacional entre o Município de Indaial e a ADEHASC, considerando irregular a realização de acordo de cooperação em detrimento de credenciamento ou processo licitatório. O prefeito André Luiz Moser foi multado em R$ 2.000,00.",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta",
+   "tipo": "tce"
+  },
+  {
+   "i": 12,
+   "keep": true,
+   "title": "TCE aponta irregularidades em dispensas de licitação para locação de imóveis em Indaial",
+   "description": "O TCE converteu procedimento apuratório preliminar em processo de representação acerca de possíveis irregularidades em dispensas de licitação para locação de imóveis pelo Município de Indaial. Foram realizadas diligências para requisição de documentos ao prefeito.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 13,
+   "keep": true,
+   "title": "TCE determina arquivamento de tomada de contas especial sobre convênio em Indaial",
+   "description": "O TCE determinou o arquivamento de processo referente à Tomada de Contas Especial sobre Convênio n. 028/2014 no valor de R$ 49.000,00 celebrado com o Município de Indaial, com fundamento na Instrução Normativa n. TC-29/2021.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 14,
+   "keep": true,
+   "title": "TCE multa gestores por pregão de trator carregadeira irregular em Indaial",
+   "description": "O TCE julgou procedente representação sobre irregularidades no Pregão Eletrônico n. 008/2021 para aquisição de trator carregadeira em Indaial. Foram aplicadas multas ao secretário Paulo Roberto Ledra e à pregoeira Andréa Souto da Silva por adjudicação e homologação de itens que não atenderam às especificações do Termo de Referência.",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta",
+   "tipo": "tce"
+  },
+  {
+   "i": 15,
+   "keep": true,
+   "title": "TCE apura irregularidades em pregão de materiais em Indaial",
+   "description": "O TCE conheceu o Procedimento Apuratório Preliminar acerca de possíveis irregularidades no Pregão Eletrônico 014/2023 para aquisição de materiais em Indaial. O processo foi vinculado por continência ao processo com objeto mais amplo (PAP 23/80054104).",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 16,
+   "keep": true,
+   "title": "TCE recomenda observância de regras em contratações temporárias em Indaial",
+   "description": "O TCE indeferiu medida cautelar e considerou improcedente representação sobre contratação temporária de servidores em detrimento de concurso público em Indaial. Recomendou ao município que observe rigorosamente os dispositivos constitucionais e legais em futuras contratações temporárias.",
+   "status": "🟢 julgado regular",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 17,
+   "keep": true,
+   "title": "TCE sustenta concorrência de iluminação pública por orçamento irregular em Indaial",
+   "description": "O TCE determinou cautelarmente a sustação do Edital de Concorrência n. 019/2024 para serviços de gerenciamento e ampliação do parque de iluminação pública em Indaial, em face da ausência de orçamento detalhado em planilhas com composição de custos unitários. Foram determinadas audiências dos secretários de Obras e Planejamento.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 18,
+   "keep": true,
+   "title": "TCE anula editais de licitação de quadras em Indaial e determina arquivamento",
+   "description": "O TCE considerou parcialmente procedente representação sobre irregularidades em editais de licitação para construção e reforma de quadras em Indaial, que exigiam comprovação de serviços não relevantes e exigência injustificada de Engenheiro Mecânico. Os editais e contratos foram anulados pela Prefeitura e o processo foi arquivado.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 19,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 20,
+   "keep": true,
+   "title": "TCE julga procedente reajuste salarial irregular em Indaial sem penalização",
+   "description": "O TCE considerou procedente representação sobre concessão de reajuste salarial em desconformidade com a Lei de Diretrizes Orçamentárias em Indaial, sem penalização dos gestores em face da irrelevância do impacto dos valores e falta de orientação específica por parte do governo federal. O processo foi arquivado.",
+   "status": "🟢 julgado regular",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 21,
+   "keep": true,
+   "title": "TCE apura irregularidades em pregão de materiais em Indaial e converte em representação",
+   "description": "O TCE converteu Procedimento Apuratório Preliminar em Representação acerca de possíveis irregularidades no Edital de Pregão Eletrônico n. 014/2023 em Indaial. O pedido de medida cautelar foi indeferido por estar presente o periculum in mora reverso. Foram determinadas audiências de diversos secretários.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 22,
+   "keep": true,
+   "title": "TCE extingue processo de representação sobre pregão em Indaial por revogação do edital",
+   "description": "O TCE extinguiu sem resolução do mérito o processo de representação referente ao Edital de Pregão n. 013/2023 em Indaial, em razão da perda do objeto decorrente da revogação do Edital de Pregão n. 014/2023-10430.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 23,
+   "keep": true,
+   "title": "TCE apura contratação temporária de enfermeiros em detrimento de concurso em Indaial",
+   "description": "O TCE converteu Procedimento Apuratório Preliminar em Representação acerca de contratação temporária de enfermeiros em detrimento da nomeação de aprovados em concurso público pela Prefeitura de Indaial. Foi determinada audiência do prefeito para justificativa da contratação temporária.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 24,
+   "keep": true,
+   "title": "TCE não conhece representação sobre pregão em Indaial e arquiva",
+   "description": "O TCE não conheceu a Representação acerca de supostas irregularidades no Pregão Eletrônico n. 067/2024 em Indaial, por não atender aos pressupostos de admissibilidade. Recomendou ao município que justifique exigências de qualificação técnica em editais futuros. O processo foi arquivado.",
+   "status": "🟢 julgado regular",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 25,
+   "keep": true,
+   "title": "TCE não conhece representação sobre pregão em Indaial e arquiva",
+   "description": "O TCE não conheceu a Representação acerca de supostas irregularidades no Pregão Eletrônico n. 57/2024 em Indaial, por não atender aos pressupostos de admissibilidade. O processo foi arquivado.",
+   "status": "🟢 julgado regular",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 26,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 27,
+   "keep": true,
+   "title": "TCE não conhece representação sobre pregão em Indaial e arquiva",
+   "description": "O TCE não conheceu a Representação acerca de supostas irregularidades no Pregão Eletrônico n. 04/2025 em Indaial, por não atender aos pressupostos de admissibilidade. O processo foi arquivado.",
+   "status": "🟢 julgado regular",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 28,
+   "keep": true,
+   "title": "TCE determina arquivamento de tomada de contas sobre termo de parceria em Indaial",
+   "description": "O TCE determinou o arquivamento da Tomada de Contas Especial referente à prestação de contas do Termo de Parceria firmado com Olímpio José Tomio e outros em Indaial, sem cancelamento do débito, determinando à Prefeitura a adoção de providências visando ao ressarcimento do erário.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 29,
+   "keep": true,
+   "title": "TCE apura gestão do Hospital Beatriz Ramos em Indaial e considera regulares atos",
+   "description": "O TCE apurou supostas irregularidades na gestão do Hospital Beatriz Ramos em Indaial. Considerou regulares os atos analisados, exceto os que envolviam repasse de recursos federais já levados ao TCU. Recomendou publicidade dos contratos do nosocômio durante a intervenção municipal.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 30,
+   "keep": true,
+   "title": "TCE não conhece denúncia sobre despesas com pessoal em Indaial e arquiva",
+   "description": "O TCE não conheceu a Denúncia acerca de supostas irregularidades em despesas com pessoal pela Prefeitura de Indaial, por não preencher os pressupostos de admissibilidade. O processo foi arquivado.",
+   "status": "🟢 julgado regular",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 31,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 32,
+   "keep": true,
+   "title": "TCE apura intervenção em associação hospitalar em Indaial e recomenda observância",
+   "description": "O TCE não conheceu a Representação sobre intervenção na administração da Associação Beneficente Hospital Osvaldo Metzner em Indaial. Recomendou à Interventora da Associação que observe os princípios da administração pública no tocante aos recursos públicos geridos.",
+   "status": "🟢 julgado regular",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 33,
+   "keep": true,
+   "title": "TCE aponta desvio de função e adicional indevido em Indaial",
+   "description": "O TCE apontou possíveis irregularidades relativas a desvio de função e recebimento indevido de adicional de periculosidade por servidor ocupante do cargo de Agente de Trânsito em Indaial, que exercia atividades administrativas estranhas às atribuições do cargo.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 34,
+   "keep": true,
+   "title": "TCE aponta irregularidades em dispensas emergenciais de coleta e iluminação em Indaial",
+   "description": "O TCE converteu Procedimento Apuratório Preliminar em Representação acerca de possíveis irregularidades nas Dispensas de Licitação emergenciais para coleta de resíduos sólidos e manutenção de iluminação pública em Indaial, incluindo ausência de licitação e possíveis diferenças de preços.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "alta",
+   "tipo": "tce"
+  },
+  {
+   "i": 35,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 36,
+   "keep": true,
+   "title": "TCE não conhece representação sobre concorrência em Indaial e arquiva",
+   "description": "O TCE não conheceu a Representação acerca de supostas irregularidades na Concorrência Eletrônica n. 001/2025 em Indaial, por não atender aos requisitos de seletividade. O processo foi arquivado.",
+   "status": "🟢 julgado regular",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 37,
+   "keep": true,
+   "title": "TCE não conhece representação sobre concorrência em Indaial e arquiva",
+   "description": "O TCE não conheceu a Representação acerca de supostas irregularidades na Concorrência Eletrônica n. 001/2025 em Indaial, por não atender aos pressupostos de admissibilidade. O processo foi arquivado.",
+   "status": "🟢 julgado regular",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 38,
+   "keep": true,
+   "title": "TCE sustenta concorrência de iluminação em Indaial por orçamento irregular",
+   "description": "O TCE determinou cautelarmente a sustação do Edital de Concorrência n. 019/2024 para serviços de gerenciamento e ampliação do parque de iluminação pública em Indaial, pela ausência de orçamento detalhado com composição de custos unitários. Foram determinadas audiências dos secretários de Obras e Planejamento.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 39,
+   "keep": true,
+   "title": "TCE não conhece representação sobre concorrência em Indaial e arquiva",
+   "description": "O TCE não conheceu a Representação acerca de supostas irregularidades na Concorrência Eletrônica n. 17/2024 em Indaial, por não atender aos requisitos de seletividade. O processo foi arquivado.",
+   "status": "🟢 julgado regular",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 40,
+   "keep": true,
+   "title": "TCE não conhece representação sobre contrato de cerca em Indaial e arquiva",
+   "description": "O TCE não conheceu a Representação acerca de supostas irregularidades em contrato para execução de cerca em avenida em Indaial, por não atender aos pressupostos de admissibilidade. Determinou ao Controle Interno que acompanhe os trâmites referentes ao pagamento do contrato. O processo foi arquivado.",
+   "status": "🟢 julgado regular",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 41,
+   "keep": true,
+   "title": "TCE não conhece representação sobre normas municipais em Indaial e arquiva",
+   "description": "O TCE não conheceu a Representação acerca de supostas irregularidades em normas e regramentos municipais de Indaial, por não atender aos requisitos de admissibilidade e à pontuação mínima da Matriz de Seletividade. O processo foi arquivado.",
+   "status": "🟢 julgado regular",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 42,
+   "keep": true,
+   "title": "TCE arquiva procedimento apuratório sobre pregão de serviços em Indaial",
+   "description": "O TCE determinou o arquivamento do Procedimento Apuratório Preliminar acerca de supostas irregularidades no Pregão n. 040/2023 para serviços em Indaial, pelo não atendimento da pontuação mínima na análise da seletividade. Recomendou ao município que se atente à ordem cronológica de pagamento.",
+   "status": "🟢 julgado regular",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 43,
+   "keep": true,
+   "title": "TCE arquiva procedimento apuratório sobre aquisição de produtos em Indaial",
+   "description": "O TCE determinou o arquivamento do Procedimento Apuratório Preliminar acerca de supostas irregularidades na aquisição de produtos de limpeza em Indaial, por não atender às condições prévias para exame da seletividade quanto à existência de elementos de convicção.",
+   "status": "🟢 julgado regular",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 44,
+   "keep": true,
+   "title": "TCE arquiva procedimento apuratório sobre pregão em Indaial",
+   "description": "O TCE determinou o arquivamento do Procedimento Apuratório Preliminar acerca de supostas irregularidades no Pregão Eletrônico n. 015/2023 em Indaial, por não atender às condições prévias para exame da seletividade.",
+   "status": "🟢 julgado regular",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 45,
+   "keep": true,
+   "title": "TCE apura gestão do Hospital Beatriz Ramos e converte em inspeção",
+   "description": "O TCE converteu Procedimento Apuratório Preliminar em processo de Inspeção (RLI) acerca de possíveis irregularidades na gestão do Hospital Beatriz Ramos em Indaial, em decorrência da intervenção realizada pela Prefeitura Municipal. Foi determinada apuração dos fatos pela Diretoria de Contas de Gestão.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 46,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 47,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em tramitação",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 48,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em tramitação",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 49,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em tramitação",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 50,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "⬛ decisão singular",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 51,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "⬛ decisão singular",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 52,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "⬛ decisão singular",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 53,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 54,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "⬛ decisão singular",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 55,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "⬛ decisão singular",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 56,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 57,
+   "keep": true,
+   "title": "TCE mantém irregularidade em representação sobre licitação em Indaial após recurso negado",
+   "description": "O TCE negou provimento ao Recurso de Reexame interposto por Andréa Souto da Silva em face do Acórdão n. 101/2022, que havia julgado procedente a representação e considerado irregular a contratação. A deliberação recorrida foi mantida na íntegra.",
+   "status": "⬛ julgado irregular",
+   "severity": "alta",
+   "tipo": "tce"
+  },
+  {
+   "i": 58,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "⬛ decisão singular",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 59,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 60,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "⬛ decisão singular",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 61,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "⬛ decisão singular",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 62,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "⬛ decisão singular",
+   "severity": "media",
+   "tipo": "tce"
+  },
+  {
+   "i": 63,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "⬛ decisão singular",
+   "severity": "media",
+   "tipo": "tce"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+[0m
+> build · gpt-5.4-nano
+[0m
+Vou primeiro ler o PDF de critérios (`pdf_template/CURADORIA.md`) e o arquivo de entrada (`pdf_template/ammvi/_lotes/rodeio__0.json`). Em seguida, vou curar os 41 casos aplicando as regras (sem consultar curadorias prontas) e, por fim, gravar somente o JSON de saída no caminho indicado.
+[0m→ [0mRead pdf_template/CURADORIA.md
+[0m→ [0mRead pdf_template/ammvi/_lotes/rodeio__0.json
+Vou agora mapear cada um dos 41 casos para decidir `keep`, o selo `status` (apenas com base no texto/decisão) e `severity`, seguindo à risca as regras sobre TCE sem `decisao`, consultas, arquivamentos por seletividade e ausência de descrição do fato. Em seguida, gravarei o único arquivo de saída solicitado.
+[0m✗ [0mRead pdf_template/ammvi/_correcoes/teste_openai_gpt-5_4-nano.json failed[90m [limit=50][0m
+[91m[1mError: [0mFile not found: /Users/jairofortunato/mp/pdf_template/ammvi/_correcoes/teste_openai_gpt-5_4-nano.json
+[0m✱ [0mGlob "pdf_template/ammvi/_correcoes/teste_openai_gpt-5_4-nano.json"[90m 0 matches[0m
+[0m→ [0mRead pdf_template/ammvi/_lotes/rodeio__0.json[90m [offset=210, limit=220][0m
+Vou gerar o array JSON com 41 itens exatamente na mesma ordem do `rodeio__0.json`, preenchendo `keep/status/severity` conforme o texto e gravando o resultado **somente** em `pdf_template/ammvi/_correcoes/teste_openai_gpt-5_4-nano.json`.
+[0m% [0mPatch 1 file
+[0m
+[0m$ [0mnode -e "const fs=require('fs'); const a=JSON.parse(fs.readFileSync('pdf_template/ammvi/_correcoes/teste_openai_gpt-5_4-nano.json','utf8')); console.log('len',a.length); console.log(a.map(x=>x.i+':'+x.tipo).slice(0,3).join(','));"
+len 41
+0:mp,1:mp,2:mp
+[0m
+[0m$ [0mnode -e "const fs=require('fs'); const inpt=JSON.parse(fs.readFileSync('pdf_template/ammvi/_lotes/rodeio__0.json','utf8')).casos; const out=JSON.parse(fs.readFileSync('pdf_template/ammvi/_correcoes/teste_openai_gpt-5_4-nano.json','utf8')); let ok=inpt.length===out.length; for(let i=0;i<inpt.length&&ok;i++){ if(inpt[i].i!==out[i].i||inpt[i].tipo!==out[i].tipo){ ok=false; console.log('mismatch at',i,'in',inpt[i].i,inpt[i].tipo,'out',out[i].i,out[i].tipo); } } console.log('order match',ok);"
+order match true
+[0m
+Arquivo gerado com sucesso em `pdf_template/ammvi/_correcoes/teste_openai_gpt-5_4-nano.json` (JSON array com 41 itens, mesma ordem e mesmo tamanho do `rodeio__0.json`).

@@ -1,0 +1,524 @@
+[
+ {
+  "i": 140,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 141,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP firma TAC com Hornburg para regularizar parcelamento irregular de solo em Pomerode",
+  "description": "O Ministério Público apurou parcelamento irregular de solo em imóvel de Ercilia Hornburg e espólio de Ingo Hornburg em Pomerode. Formalizado Termo de Ajustamento de Conduta, o caso foi arquivado por desnecessidade de outras providências.",
+  "status": "🟠 TAC firmado",
+  "severity": "media"
+ },
+ {
+  "i": 142,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 143,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração sobre uso ilegal de imóvel do SAMAE de Pomerode após regularização",
+  "description": "O Ministério Público apurou a utilização ilegal de imóvel público do SAMAE de Pomerode para reflorestamento de pinus, construção de residência particular e retenção de águas sem outorga, envolvendo a ACAPRENA, Sérgio Novais e o SAMAE. Realizadas as diligências, as situações foram regularizadas e o caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 144,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 145,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração sobre cassação de registro do Grupo Escoteiro Pomerano após revogação de resolução do CMDCA",
+  "description": "O Ministério Público apurou irregularidades envolvendo o Grupo Escoteiro Pomerano e o Conselho Municipal dos Direitos da Criança e do Adolescente (CMDCA) de Pomerode. A Resolução do CMDCA que cassara o registro do grupo escoteiro foi revogada e o caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 146,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 147,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração contra Clínica Brasil de Optometria em Pomerode após constatar regularidade",
+  "description": "O Ministério Público apurou possíveis práticas ilegais da Clínica Brasil de Optometria e Beatriz Lopes Silva por infração a decretos que regulamentam a optometria. Comprovada a não abusividade das práticas apuradas, o procedimento foi arquivado por ausência de elementos para ACP.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 148,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração sobre créditos de transporte coletivo da Volkmann em Pomerode após adequação",
+  "description": "O Ministério Público apurou ausência de informação clara sobre limitação temporal de créditos de transporte coletivo pela Empresa de Transporte Coletivo Volkmann. Após adequação da política interna e ampla divulgação com prazo adicional aos consumidores, o caso foi arquivado por ausência de elementos para ACP.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 149,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 0,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta"
+ },
+ {
+  "i": 1,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE multa prefeito Ércio Kriek por irregularidades em pavimentação asfáltica em Pomerode",
+  "description": "O TCE julgou parcialmente procedente representação sobre obras de pavimentação asfáltica contratadas pela Prefeitura de Pomerode com a empresa Eco Soil. O prefeito Ércio Kriek foi multado em R$ 842,33 por não atendimento a diligência e em multas por irregularidades na contratação.",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta"
+ },
+ {
+  "i": 2,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE julga improcedente representação sobre pregão de trator agrícola em Pomerode",
+  "description": "O TCE julgou improcedente representação sobre suposta irregularidade no Pregão Eletrônico n. 021/2021 para aquisição de trator agrícola pela Prefeitura de Pomerode, que supostamente restringia a participação a apenas uma marca. O TCE recomendou aprimoramento nas pesquisas de mercado e arquivou o processo.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 3,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 4,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 5,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 6,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 7,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE multa engenheiro por irregularidades em reforma de centro de educação infantil em Pomerode",
+  "description": "O TCE julgou procedente representação sobre irregularidades na execução de reforma no telhado e reforma completa do Centro de Educação Infantil Damaris Frahm, contratada pela Prefeitura de Pomerode. Foram constatadas liquidação indevida de itens, execução em desacordo com projeto e projeto básico incompleto. O engenheiro André Luis Amorim foi multado em R$ 1.684,66.",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta"
+ },
+ {
+  "i": 8,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva representação sobre inexigibilidades de licitação em Pomerode sem analisar o mérito",
+  "description": "O TCE arquivou representação sobre supostas irregularidades nas Inexigibilidades de Licitação ns. 7/2020 e 1/2021 de Pomerode por não atingimento do percentual mínimo da Matriz de Seletividade, sem análise do mérito.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 9,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva representação sobre chamamentos públicos da Festa Pomerana sem analisar o mérito",
+  "description": "O TCE arquivou representação sobre supostas irregularidades nos Editais de Chamamento Público para patrocínio da Festa Pomerana, por não atingimento da pontuação mínima na seletividade. O TCE recomendou maior transparência e publicidade nos editais.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 10,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE suspende contrato de R$ 12,6 milhões de serviços advocatícios da Prefeitura de Pomerode",
+  "description": "O TCE concedeu medida cautelar de sustação de todos os atos vinculados ao Contrato n. 49/2024, firmado pela Prefeitura de Pomerode com o escritório Monteiro e Monteiro Advogados Associados para serviços jurídicos de inclusão no rol de distribuição de royalties de petróleo, no valor de R$ 12,6 milhões. O objeto do contrato não apresentava singularidade, descaracterizando a inexigibilidade de licitação.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "alta"
+ },
+ {
+  "i": 11,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟠 cautelar / sustação",
+  "severity": "alta"
+ },
+ {
+  "i": 12,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE não conhece denúncia sobre redução de carga horária em Pomerode por seletividade",
+  "description": "O TCE não conheceu denúncia sobre possíveis irregularidades na redução de carga horária na Prefeitura de Pomerode, pois a demanda não alcançou a pontuação mínima da análise de seletividade. O processo foi arquivado sem análise de mérito.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 13,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva apuração sobre concorrência de engenharia em Pomerode sem julgar o mérito",
+  "description": "O TCE arquivou Procedimento Apuratório Preliminar sobre supostas irregularidades na Concorrência n. 013/2022 para contratação de empresa de engenharia em Pomerode, por não atingimento dos critérios de seletividade, sem análise do mérito.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 14,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta irregularidades na transparência de gastos com educação em Pomerode",
+  "description": "O TCE julgou procedente representação sobre irregularidades na operacionalização do Fundo de Manutenção e Desenvolvimento da Educação em Pomerode. Recomendou ao município que observe as regras de transparência dos gastos públicos, especialmente na educação, e determinou o arquivamento.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "alta"
+ },
+ {
+  "i": 15,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE suspende cautelarmente pregão eletrônico de Pomerode por uso de plataforma de licitante",
+  "description": "O TCE concedeu medida cautelar suspendendo o Pregão Eletrônico n. 40/2025 de Pomerode, por irregularidade na utilização da plataforma elicita.atende.net de propriedade da empresa IPM Sistemas Ltda., que participou como licitante, em afronta aos princípios da legalidade e moralidade.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "alta"
+ },
+ {
+  "i": 16,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟠 cautelar / sustação",
+  "severity": "alta"
+ },
+ {
+  "i": 17,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta"
+ },
+ {
+  "i": 18,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE julga improcedente representação sobre leilão público em Pomerode",
+  "description": "O TCE julgou improcedente representação sobre supostas irregularidades no Leilão Público n. 01/2021 para venda de bens móveis inservíveis de Pomerode. O processo foi arquivado.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 19,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE investiga possíveis irregularidades em desapropriações em Pomerode",
+  "description": "O TCE conheceu representação sobre possíveis irregularidades em desapropriações efetuadas pela Prefeitura de Pomerode e determinou o prosseguimento da análise pela Diretoria de Contas de Gestão.",
+  "status": "🟡 em instrução (citação/audiência)",
+  "severity": "media"
+ },
+ {
+  "i": 20,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva representação sobre pagamento de férias a Rafael Ramthun em Pomerode após correção",
+  "description": "O TCE conheceu representação sobre irregularidades no pagamento de férias e gratificação natalina a Rafael Ramthun, prefeito de Pomerode. Considerando que houve a correção da irregularidade, determinou o arquivamento. Também determinou a instauração de procedimento para revisão do Prejulgado n. 2196 sobre o tema.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 21,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ julgado irregular",
+  "severity": "media"
+ },
+ {
+  "i": 22,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva apuração sobre contratação da Fundação EZUTE para saneamento em Pomerode sem análise de mérito",
+  "description": "O TCE arquivou Procedimento Apuratório Preliminar sobre supostas irregularidades na contratação direta da Fundação EZUTE pelo Município de Pomerode para estruturação da concessão do serviço de saneamento básico, por não atendimento das condições de seletividade.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 23,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta"
+ },
+ {
+  "i": 24,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 25,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 26,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva apuração sobre acumulação indevida de cargo em Pomerode sem analisar o mérito",
+  "description": "O TCE arquivou Procedimento Apuratório Preliminar sobre suposta acumulação indevida de cargo envolvendo Franklin Carlos Zummach em Pomerode, por não atendimento das condições prévias para análise da seletividade, sem julgamento do mérito.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 27,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ julgado irregular",
+  "severity": "media"
+ },
+ {
+  "i": 28,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE mantém multas a Ércio Kriek em recurso sobre pavimentação asfáltica em Pomerode",
+  "description": "O TCE negou provimento a recurso e manteve as multas aplicadas ao prefeito Ércio Kriek por irregularidades na contratação de pavimentação asfáltica em Pomerode (Processo REP 19/00826159).",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta"
+ },
+ {
+  "i": 29,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta"
+ },
+ {
+  "i": 30,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE reconhece prescrição e cancela multa aplicada a Paulo Maurício Pizzolatti em Pomerode",
+  "description": "O TCE reconheceu de ofício a prescrição da pretensão punitiva e cancelou multa aplicada a Paulo Maurício Pizzolatti por irregularidades em auditoria no município de Pomerode.",
+  "status": "⚫ prescrito",
+  "severity": "media"
+ },
+ {
+  "i": 31,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE dá provimento a recurso e cancela multa de Ércio Kriek sobre auditoria de trânsito em Pomerode",
+  "description": "O TCE deu provimento ao Recurso de Reexame interposto por Ércio Kriek contra decisão sobre auditoria na contratação de sistema de monitoramento fotoeletrônico em Pomerode, cancelando multa anteriormente aplicada.",
+  "status": "⬛ julgado irregular",
+  "severity": "media"
+ },
+ {
+  "i": 32,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE considera regular o cumprimento de metas do Plano Municipal de Educação de Pomerode",
+  "description": "O TCE realizou inspeção sobre o cumprimento das Metas 18 e 19 do Plano Municipal de Educação de Pomerode e considerou regular o seu objeto. O município demonstrou o cumprimento das metas e o processo foi arquivado.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 33,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 34,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta irregularidades em contratação de monitoramento eletrônico em Pomerode e aplica multas",
+  "description": "O TCE julgou irregular a contratação de serviços de locação, instalação e manutenção de sistema de monitoramento fotoeletrônico em Pomerode (Contratos ns. 007/2013 e 052/2017). Foram aplicadas multas aos responsáveis por ausência de estudo técnico, projeto básico incompleto e falta de demonstrativos de eficácia dos equipamentos.",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta"
+ },
+ {
+  "i": 35,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 36,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 37,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 38,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 39,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE mantém suspensão de contrato milionário de advocacia em Pomerode após recurso",
+  "description": "O TCE negou provimento a Embargos de Declaração contra a decisão que suspendeu cautelarmente o Contrato n. 49/2024 da Prefeitura de Pomerode com o escritório Monteiro e Monteiro Advogados Associados, no valor de R$ 12,6 milhões, mantendo integralmente a deliberação que sustou o contrato.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "alta"
+ },
+ {
+  "i": 40,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 41,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 42,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 43,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 44,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 45,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 46,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 47,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ }
+]

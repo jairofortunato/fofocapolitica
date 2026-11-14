@@ -1,0 +1,632 @@
+[
+  {
+    "i": 70,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP faz TAC sobre temporarios e arquiva inquerito",
+    "description": "O MP apurou contratacoes temporarias fora das hipoteses legais no Executivo de Itapoa. O caso terminou com TAC firmado e arquivamento.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 71,
+    "tipo": "mp",
+    "keep": true,
+    "title": "Empresa encerra irregularidade em area de preservacao e recupera o local",
+    "description": "A empresa ocupava APP e extraia mineral sem licenca, alem de manter deposito irregular de materiais e veiculos. O texto informa que a situacao cessou e a area foi recuperada.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 72,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP adita TAC sobre temporarios no Executivo de Itapoa",
+    "description": "O mesmo caso sobre contratacoes temporarias voltou a ser tratado em fase posterior. Nesta conclusao, houve aditamento ao TAC ja firmado e arquivamento do inquerito.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 73,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP fecha caso de poluicao com ANPP",
+    "description": "A apuracao tratava de poluicao por residuos solidos e de suposta omissao municipal na fiscalizacao. O MP concluiu que nao houve omissao e formalizou acordo de nao persecução penal antes do arquivamento.",
+    "status": "🟠 ACNP firmado",
+    "severity": "media"
+  },
+  {
+    "i": 74,
+    "tipo": "mp",
+    "keep": true,
+    "title": "Politica de residuos de Itapoa leva a arquivamento",
+    "description": "O caso apontava para a construcao de uma politica publica de destinacao de residuos de grande porte e a erradicacao da queima a ceu aberto. O MP entendeu que o inquerito cumpriu seu objetivo e arquivou o feito.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 75,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuracao sobre supressao de vegetacao",
+    "description": "O inquerito tratava de supressao de vegetacao nativa em Itapoa. A conclusao foi de que nao houve irregularidade e nao havia fundamento para a acao judicial.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 76,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 77,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 78,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 79,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 80,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 81,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 82,
+    "tipo": "mp",
+    "keep": true,
+    "title": "Expresso Maringa cumpre regra para idosos e caso e arquivado",
+    "description": "A apuracao verificava venda de passagens e reserva de lugares para idosos em viagens interestaduais. O MP constatou que a empresa atuava conforme a lei e arquivou o caso.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 83,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 84,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP aponta falha parcial na cobranca de contribuicao de melhoria",
+    "description": "O caso discutia a legalidade da contribuicao de melhoria ligada a obras na Avenida Celso Ramos. O texto confirma que houve descumprimento do limite legal em casos especificos, mas o recorte esta truncado e nao mostra o desfecho final.",
+    "status": "❔ status indef.",
+    "severity": "media"
+  },
+  {
+    "i": 85,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 86,
+    "tipo": "mp",
+    "keep": true,
+    "title": "Obras inacabadas em Itapoa sao esclarecidas e caso e arquivado",
+    "description": "A apuracao tratava de obras inacabadas em tres vias do municipio. O MP informou que recebeu esclarecimentos suficientes e que nao houve relato posterior de irregularidades.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 87,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 88,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 89,
+    "tipo": "mp",
+    "keep": true,
+    "title": "Irregularidades sanitarias em supermercados de Itapoa sao afastadas",
+    "description": "O inquerito avaliava supostas falhas sanitarias em varios supermercados e na vigilancia sanitaria municipal. A conclusao foi de que as irregularidades iniciais nao subsistiam e o caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 90,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 91,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 92,
+    "tipo": "mp",
+    "keep": true,
+    "title": "Caso da Colonia de Pescadores e arquivado apos transacao penal",
+    "description": "A apuracao era sobre um encerramento de processo administrativo ambiental ligado a pescadores no Porto Itapema. O MP apontou ausencia de omissao municipal, autuacao feita pela secretaria e transacao penal pactuada.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 93,
+    "tipo": "mp",
+    "keep": true,
+    "title": "Terraplanagem Dido e arquivada apos ausencia de licenca",
+    "description": "O MP apurava possivel irregularidade nas atividades da empresa. A conclusao foi que nao havia atividade sujeita a licenca ambiental e o caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 94,
+    "tipo": "mp",
+    "keep": true,
+    "title": "Terraplanagem Zagonel e arquivada apos exame ambiental",
+    "description": "O inquerito discutia eventual irregularidade em atividades de terraplanagem. O MP encerrou a apuracao sem apontar ilicito remanescente.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 95,
+    "tipo": "mp",
+    "keep": true,
+    "title": "Centro de reciclagem de Itapoa encerra apuracao do MP",
+    "description": "A investigação tratava da politica municipal de residuos solidos e da atividade de catacao. O MP concluiu que o municipio implantou adequadamente o centro de reciclagem e arquivou o caso.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 96,
+    "tipo": "mp",
+    "keep": true,
+    "title": "Regularizacao de area ocupada em Itapema do Saí II e arquivada",
+    "description": "O procedimento buscava a regularizacao de uma area ocupada irregularmente por familias de baixa renda. A noticia informa que houve arquivamento porque outro inquerito tinha objeto mais amplo sobre a mesma area.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 97,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 98,
+    "tipo": "mp",
+    "keep": true,
+    "title": "Imovel rural e regularizado e MP arquiva caso ambiental",
+    "description": "O MP apurava transformacao de imovel rural em urbano sem especializacao previa da reserva legal. O registro no CAR e a averbação da reserva legal foram feitos, levando ao arquivamento.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 99,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso de corte de vegetacao no terminal retroportuario",
+    "description": "A apuracao tratava de supressao de vegetacao sem licenciamento no terminal retroportuario. O MP concluiu que nao houve irregularidade nas autorizacoes e arquivou o feito.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 100,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 101,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 102,
+    "tipo": "mp",
+    "keep": true,
+    "title": "Praias de Itapoa sao consideradas proprias para banho",
+    "description": "O MP apurava as causas da nao balneabilidade de dois pontos das praias do municipio. A conclusao foi de que eram fatos isolados e as praias estavam proprias para banho.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 103,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 104,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 105,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 106,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso de possivel fraude documental em pregao de Itapoa",
+    "description": "A apuracao tratava do uso indevido de documentos e dados de terceiros para simular qualificacao tecnica em um pregao do municipio. O MP arquivou por ausencia de ato lesivo a administracao.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 107,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 108,
+    "tipo": "mp",
+    "keep": true,
+    "title": "Escola Arco Iris regulariza acessibilidade e caso e arquivado",
+    "description": "O caso apurava possiveis violacoes aos direitos de criancas estudantes por conduta de servidores nao identificados. O MP nao viu indicios suficientes e arquivou a apuracao.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 109,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 110,
+    "tipo": "mp",
+    "keep": true,
+    "title": "Escola Claiton Almir Hermes corrige acessibilidade e caso e arquivado",
+    "description": "O MP apurava falta de acessibilidade para pessoas com deficiencia ou mobilidade reduzida na escola municipal. As irregularidades foram sanadas e o caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 111,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 112,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 113,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 114,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 115,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 116,
+    "tipo": "mp",
+    "keep": true,
+    "title": "Barulho no Artes e Madeira e sanado e caso e arquivado",
+    "description": "A apuracao era sobre poluicao sonora no estabelecimento Artes e Madeira Antunes. O problema foi sanado e o MP arquivou o procedimento.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 117,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 118,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 119,
+    "tipo": "mp",
+    "keep": true,
+    "title": "Ohana Restaurante Beach encerra atividades e caso e arquivado",
+    "description": "O procedimento tratava de poluicao sonora ligada ao restaurante. Com o encerramento das atividades, o MP arquivou o caso.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 120,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 121,
+    "tipo": "mp",
+    "keep": true,
+    "title": "Obra do Terminal Gas Sul encerra poluicao sonora, mas desfecho fica truncado",
+    "description": "O inquerito tratava de poluicao sonora ligada a obra do HDD do Terminal Gas Sul. O texto informa que a obra terminou e a poluicao cessou, mas o recorte nao mostra o desfecho final.",
+    "status": "❔ status indef.",
+    "severity": "media"
+  },
+  {
+    "i": 122,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 123,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 124,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 125,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 126,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC para ajustar quadro de docentes em Itapoa",
+    "description": "O caso tratava da proporcao entre docentes por tipo de vinculo na rede municipal de educacao. Houve TAC firmado e arquivamento.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 127,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 128,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 129,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 130,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 131,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 132,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 133,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 134,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 135,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 136,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 137,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 138,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 139,
+    "tipo": "mp",
+    "keep": true,
+    "title": "Caso sobre descumprimento da Covid-19 perde objeto apos encerramento da empresa",
+    "description": "A apuracao mirava dano moral coletivo por descumprimento de regras da pandemia por uma empresa. Com o falecimento do proprietario e o fechamento do negocio, o MP arquivou por perda do objeto.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  }
+]

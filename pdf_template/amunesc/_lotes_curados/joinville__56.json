@@ -1,0 +1,632 @@
+[
+  {
+    "i": 3920,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3921,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3922,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre discriminação e assédio no Colégio Exathum",
+    "description": "A notícia tratava de possível discriminação e assédio, mas não houve elementos mínimos. A instauração foi indeferida.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3923,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso sem risco em notícia de família",
+    "description": "A Promotoria registrou ausência de situação de risco e de legitimidade para a ação de alimentos. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3924,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre idoso após cessar risco",
+    "description": "A situação de risco do idoso cessou. A notícia de fato foi indeferida.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3925,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso de canina pit bull acolhida",
+    "description": "A canina foi acolhida e encaminhada para clínica conveniada, com bem-estar resguardado. A instauração foi indeferida.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3926,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso sobre distribuição de senhas no CRAS",
+    "description": "O inquérito tratava da distribuição de senhas no CRAS e da perda do objeto após alternativas de atendimento e providências do Município.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3927,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva notícia sobre ausência de risco e procuração",
+    "description": "O caso foi arquivado por ausência de situação de risco. A procuração havia sido livremente outorgada.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3928,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva notícia de fato sem risco",
+    "description": "A Promotoria concluiu pela ausência de situação de risco e arquivou o caso.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3929,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3930,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre canino solto em via pública",
+    "description": "O tutor adotou as medidas administrativas e atendeu integralmente às exigências. O bem-estar foi resguardado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3931,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso de canino doente após óbito comunicado",
+    "description": "A noticiante informou a morte do animal, tornando desnecessárias novas providências. A instauração foi indeferida.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3932,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso de felino com esporotricose atendido pela Saúde",
+    "description": "O animal foi acolhido e ficou em tratamento pela Secretaria de Saúde. O caso foi indeferido.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3933,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3934,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3935,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre canino e felino em Joinville",
+    "description": "A SAMA apontou atendimento parcial e microchipagem ainda pendente, mas considerou o objeto esgotado para ação civil. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3936,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3937,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3938,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3939,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3940,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3941,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso de canina atendida pelo órgão de proteção animal",
+    "description": "Houve atendimento veterinário e a saúde e o bem-estar ficaram resguardados. O procedimento foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3942,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre falta de materiais odontológicos em Joinville",
+    "description": "A Secretaria de Saúde adotou providências e abriu licitação para comprar o material faltante. Não houve prejuízo concreto ao atendimento odontológico.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3943,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3944,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso sobre acessibilidade em comércio",
+    "description": "O estabelecimento atendeu às normas de acessibilidade e o inquérito foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3945,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3946,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3947,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3948,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva auto de infração ligado ao sistema GAIA",
+    "description": "Houve auto de infração e os fatos já eram objeto de investigação judicial. A instauração foi indeferida.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3949,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso de felino com esporotricose atendido",
+    "description": "A Secretaria da Saúde acolheu o animal, que seguiu em tratamento veterinário. O caso foi indeferido.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3950,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso de pit bull com abrigo e água garantidos",
+    "description": "O animal estava castrado, microchipado e vacinado, com água, alimentação e abrigo adequado. O procedimento foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3951,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre animais na Vila Nova",
+    "description": "As notificações administrativas foram atendidas e os caninos estavam vacinados e microchipados. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3952,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3953,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3954,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso sobre omissão de atendimento a canino abandonado",
+    "description": "A Promotoria concluiu que a omissão não ficou caracterizada. A notícia de fato foi indeferida.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3955,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre canina abandonada em Joinville",
+    "description": "O animal estava recebendo tratamento veterinário e a instauração foi indeferida.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3956,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva inquérito sobre curandeirismo em clínica e profissional",
+    "description": "Não foram encontrados elementos mínimos para persecução criminal, e a atividade foi regularizada na via sanitária e ético-profissional.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3957,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3958,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3959,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso de canino sem sinais de agressão",
+    "description": "A SAMA não encontrou sinais de agressão ao animal, e o tutor foi advertido. O bem-estar ficou resguardado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3960,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso de três cães com tutela orientada",
+    "description": "Os animais estavam vacinados e microchipados, com água limpa, abrigo e alimentação. O Ministério Público encerrou o caso.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3961,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3962,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre ataque entre cães perigosos",
+    "description": "As medidas administrativas foram adotadas e as circunstâncias do ataque ficaram esclarecidas. Não houve negligência do tutor.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3963,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso de canino pastor alemão adotado",
+    "description": "O animal foi adotado e os tutores cumpriram as determinações. O bem-estar foi resguardado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3964,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso de canina abandonada adotada",
+    "description": "A canina foi adotada e teve o bem-estar devidamente resguardado. A instauração foi indeferida.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3965,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração já resolvida em procedimento anterior",
+    "description": "A notícia repetia fatos já apurados em procedimento anterior. O MP indeferiu a instauração por duplicidade.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3966,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3967,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3968,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso de canino em carretinha sem acesso a abrigo",
+    "description": "O animal passou a ficar solto e vacinado, com o bem-estar resguardado. O arquivamento foi fundamentado no ato interno.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3969,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3970,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3971,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso de cão pit bull em igreja de Joinville",
+    "description": "O canino estava em local adequado, castrado, vacinado e microchipado. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3972,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre canino no Jardim Iririú",
+    "description": "O atendimento foi realizado, as obrigações foram cumpridas e os animais estavam vacinados, castrados e microchipados.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3973,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3974,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3975,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3976,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3977,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3978,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso de canina morta por suspeita de envenenamento",
+    "description": "A canina morreu e cópia dos autos foi encaminhada à polícia para inquérito. O procedimento ministerial foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3979,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3980,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3981,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3982,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC sobre rotulagem de cervejaria",
+    "description": "A cervejaria firmou termo de ajustamento de conduta para adequar a rotulagem dos produtos. O inquérito foi arquivado com cláusula penal.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 3983,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3984,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3985,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3986,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3987,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3988,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3989,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  }
+]

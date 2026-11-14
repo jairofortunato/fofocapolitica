@@ -1,0 +1,48 @@
+[0m
+> build · gpt-5.4-mini
+[0m
+Vou ler o critério editorial e inspecionar os três lotes em paralelo para decidir caso a caso, depois gravar cada JSON curado antes de seguir para o próximo lote.
+[0m# [0mTodos
+[•] Ler `pdf_template/CURADORIA.md` e extrair os critérios obrigatórios
+[ ] Processar lote `joinville__58.json` caso a caso e salvar em `_lotes_curados`
+[ ] Processar lote `joinville__59.json` caso a caso e salvar em `_lotes_curados`
+[ ] Processar lote `joinville__60.json` caso a caso e salvar em `_lotes_curados`
+[ ] Reportar por lote: total, keep:true, severity alta
+[0m
+[0m→ [0mRead pdf_template/CURADORIA.md
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__58.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__59.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__60.json
+O critério está claro. Agora vou mapear as fases repetidas entre os lotes para cortar instaurações duplicadas e só publicar a fase mais avançada de cada processo.
+[0m✱ [0mGlob "pdf_template/amunesc/_lotes_curados/*"[90m in . · 92 matches[0m
+[0m✱ [0mGrep ""ref": "01\.2025\.00047818-2"|"ref": "01\.2025\.00047819-3"|"ref": "01\.2025\.00050038-0"|"ref": "01\.2025\.00053797-7"|"ref": "01\.2025\.00064147-8"|"ref": "01\.2025\.00065145-4"|"ref": "01\.2025\.00050040-2"|"ref": "06\.2025\.00003622-7"|"ref": "06\.2025\.00003965-7""[90m in pdf_template/amunesc/_lotes · 19 matches[0m
+Encontrei duplicatas entre os lotes, inclusive fases repetidas do mesmo número. Vou seguir pela fase mais avançada e cortar as instaurações anteriores ou republicações idênticas.
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/joinville__50.json[90m [offset=1, limit=40][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/joinville__54.json[90m [offset=1, limit=30][0m
+Vou gravar agora os três lotes curados, mantendo a ordem original e marcando `keep:false` para as entradas sem substância suficiente.
+[0m% [0mPatch 3 files
+Os três arquivos já foram escritos. Agora vou validar o JSON e conferir os totais de `keep:true` e `severity:"alta"` em cada lote.
+[0m
+[0m$ [0mjq 'length, (map(select(.keep==true))|length), (map(select(.severity=="alta"))|length)' "pdf_template/amunesc/_lotes_curados/joinville__59.json"
+70
+26
+0
+[0m
+[0m$ [0mjq 'length, (map(select(.keep==true))|length), (map(select(.severity=="alta"))|length)' "pdf_template/amunesc/_lotes_curados/joinville__58.json"
+70
+29
+0
+[0m
+[0m$ [0mjq 'length, (map(select(.keep==true))|length), (map(select(.severity=="alta"))|length)' "pdf_template/amunesc/_lotes_curados/joinville__60.json"
+70
+25
+0
+[0m
+Vou checar um detalhe de rótulo: os casos de cumprimento de TAC precisam de selo coerente com o texto, não só com o encerramento formal.
+[0m✱ [0mGrep ""status":"🟠 TAC firmado""[90m in pdf_template/amunesc/_lotes_curados · 49 matches[0m
+[0m✱ [0mGrep "cumprimento integral|TAC"[90m in pdf_template/amunesc/_lotes_curados · 100 matches[0m
+Arquivos gravados em `pdf_template/amunesc/_lotes_curados/`.
+
+- `joinville__58.json`: 70 casos, 29 `keep:true`, 0 `severity:"alta"`
+- `joinville__59.json`: 70 casos, 26 `keep:true`, 0 `severity:"alta"`
+- `joinville__60.json`: 70 casos, 25 `keep:true`, 0 `severity:"alta"`

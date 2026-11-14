@@ -1,0 +1,632 @@
+[
+ {
+  "i": 490,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 491,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 492,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 493,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura multas indevidas aplicadas a caminhões",
+  "description": "A noticia de fato mira a conduta dos policiais militares Jocenir e Dolla, do 24º BPMRv, por suposta aplicação indevida de multas aos caminhões das empresas Adrimar e Becker. O extrato nao traz desfecho, so a apuracao do fato.",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 494,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 495,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 496,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva denuncia anonima sobre gestao de recursos publicos",
+  "description": "A denuncia apontava suposta irregularidade na gestao de recursos publicos. O MP disse que nao havia provas nem justa causa e indeferiu a investigacao.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 497,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 498,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuracao sobre loteamento Vila do Sol",
+  "description": "O caso tratava de eventual irregularidade na implementacao do Loteamento Vila do Sol, no bairro Ubatuba. O MP nao viu provas e indeferiu a instauracao.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 499,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuracao sobre prazo da Delegacia de Policia",
+  "description": "O procedimento apurava falhas no servico prestado pela Delegacia de Policia da comarca, sobretudo atraso no atendimento de diligencias pedidas pelo Ministerio Publico. A conclusao foi de ausencia de irregularidades e perda do objeto.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 500,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva destino de computadores da Biblioteca Municipal",
+  "description": "A apuracao era sobre a destinacao de computadores da Biblioteca Publica Municipal Augusto Jose Ribeiro. O MP concluiu por ausencia de provas e falta de justa causa.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 501,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva contratacao de bandas da Festilha",
+  "description": "O procedimento questionava a contratacao de bandas para a 34ª Festilha e a observancia do edital. O MP disse que as limitacoes narradas nao correspondiam a realidade e arquivou o caso.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 502,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 503,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 504,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP converte apuracao sobre agua no Parque Acarai em inquerito",
+  "description": "O procedimento trata de suposta irregularidade no fornecimento de agua para imoveis no interior da area do Parque Estadual do Acarai. O extrato registra a conversao do procedimento preparatorio em inquerito civil.",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 505,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 506,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 507,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuracao sobre água da Águas de Sao Francisco do Sul",
+  "description": "O inquerito apurou a qualidade da agua fornecida pela concessionaria. A irregularidade foi considerada solucionada e o MP promoveu arquivamento.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 508,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva gratuidade do transporte para idosos",
+  "description": "O inquerito verificou possivel irregularidade na concessao de transporte gratuito a pessoas idosas. A situacao nao se confirmou e houve promocao de arquivamento.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 509,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 510,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva obra de esgoto na Enseada",
+  "description": "O procedimento apurava o fechamento dos buracos e a recolocacao de pavers pela concessionaria apos a instalacao da tubulacao de esgoto na localidade da Enseada. O MP registrou que as irregularidades foram corrigidas e arquivou o feito.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 511,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva caso sobre atendimento a alunos com deficiencia",
+  "description": "O inquerito tratava de possiveis irregularidades na EEB Professora Claurenice Vieira Caldeira, especialmente no ensino a alunos com deficiencia. As falhas foram regularizadas e o feito foi arquivado parcialmente.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 512,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva agua da Aldeia Reta",
+  "description": "A apuracao verificava a qualidade da agua fornecida pela concessionaria a Aldeia Indigena Reta. Coletas, analises e inspecao sanitaria afastaram irregularidades e o MP pediu arquivamento.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 513,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva irregularidades na casa de acolhimento",
+  "description": "O inquerito apurava irregularidades na Casa de Acolhimento Institucional Johanna Stammerjohan Fischer. O MP informou que tudo foi sanado e promoveu arquivamento.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 514,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva descarte de esgoto em hotel da orla",
+  "description": "O procedimento tratava de descarte irregular de esgoto por hotel na orla maritima. A interligacao a rede publica foi comprovada e o MP arquivou o caso.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 515,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva supressao de vegetacao em restinga",
+  "description": "O inquerito examinava responsabilidade civil por supressao de vegetacao em area de restinga. Como houve regeneracao natural e nao restou fundamento para acao civil publica, o caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 516,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 517,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 518,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 519,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 520,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 521,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 522,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 523,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva matricula de adolescente na rede estadual",
+  "description": "O caso discutia a suposta negativa da Secretaria Estadual de Educacao em efetuar a matricula de adolescente em escola proxima da residencia. A situacao foi solucionada e o inquerito foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 524,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 525,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva denuncia sobre alimentos no CMEI Peixinho Dourado",
+  "description": "A noticia de fato apurava a qualidade dos alimentos servidos no CMEI Peixinho Dourado. Os fatos foram solucionados apos intervencao e o caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 526,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuracao sobre servico escolar na escola Joao Dias",
+  "description": "A representacao questionava a prestacao do servico educacional ofertado pela Escola Municipal Joao Dias. A Secretaria esclareceu os fatos e o MP arquivou o caso.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 527,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva escolha de diretores na rede municipal",
+  "description": "O procedimento questionava a legalidade do processo de gestao democratica para escolha de diretores e coordenadores das escolas e CMEIs municipais. O MP recebeu esclarecimentos e arquivou o caso por falta de justa causa.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 528,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva falta de assistencia a menor com autismo",
+  "description": "A noticia de fato apurava suposta falta de assistencia a menor com autismo e deficit mental grave. A situacao foi solucionada e o caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 529,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura risco a alunos da EEB Nicola Baptista",
+  "description": "O inquerito foi instaurado para averiguar situacao de risco a que estariam expostos alunos da escola. O extrato esta truncado e nao informa o desfecho final.",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 530,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 531,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 532,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva aumento da tarifa de agua",
+  "description": "O inquerito apurava possivel abuso no aumento da tarifa de agua praticada pela concessionaria. O MP informou que houve ingresso de acao judicial nas esferas civel e criminal e arquivou o feito.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 533,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva falta de agua na temporada",
+  "description": "A apuracao tratava da falta recorrente de agua em epoca de veraneio. As melhorias implantadas reduziram os problemas e o caso caminhou para arquivamento.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 534,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva obras de esgoto no bairro Ubatuba",
+  "description": "O inquerito tratava de obras inacabadas na instalacao do sistema de esgoto no bairro Ubatuba. A conclusao registrou a finalizacao das obras apos fiscalizacao da SAMAE e o arquivamento.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 535,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 536,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva falha em servicos e alimentacao no presidio",
+  "description": "O caso apurava suposta falha na prestacao de servicos e alimentos na unidade prisional. Como houve regularizacao, o inquerito foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 537,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva risco a idoso por emprestimos consignados",
+  "description": "O inquerito examinava a situacao de risco do idoso decorrente de emprestimos consignados supostamente irregulares. A conclusao foi de que a situacao de risco havia cessado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 538,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 539,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 540,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 541,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva suposta omissao no cuidado de idosa",
+  "description": "O procedimento apurava omissao de entidades no cuidado de idosa, envolvendo lar de idosos e hospital municipal. O MP nao verificou negligencia ou impericia e arquivou o caso.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 542,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 543,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva denuncia contra o porto por falta de provas",
+  "description": "O caso trazia denuncia anonima contra a SCPAR Porto de Sao Francisco do Sul. O MP arquivou por ausencia de provas sobre os fatos narrados.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 544,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva ameaca e cita outros inqueritos",
+  "description": "A noticia de fato tratava de suposta pratica de crime de ameaca por dois investigados. O MP indeferiu a investigacao, apontando a existencia de outros procedimentos sobre o mesmo fato.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 545,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 546,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 547,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 548,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 549,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 550,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 551,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 552,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva caso da entidade Nosso Lar",
+  "description": "O inquerito verificava a regularidade da Instituicao de Longa Permanencia para idosos Entidade Nosso Lar. A entidade foi interditada, encerrou atividades e o MP arquivou por perda do objeto.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 553,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 554,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 555,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura conduta de policiais penais no presidio",
+  "description": "A conclusao noticia a apuracao da conduta dos policiais penais Vinicius Antonio de Oliveira Scotton e Juliano em abordagem aos detentos. O extrato nao informa desfecho final.",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 556,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 557,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 558,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva ocupacao irregular no Parque do Acarai",
+  "description": "O inquerito tratava de ocupacao imobiliaria irregular e invasao de area do Parque Estadual do Acarai. Como a situacao foi investigada de forma mais aprofundada em outro feito, o caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 559,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ }
+]

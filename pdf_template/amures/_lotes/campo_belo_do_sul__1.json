@@ -1,0 +1,644 @@
+{
+ "cidade": "Campo Belo do Sul",
+ "casos": [
+  {
+   "i": 70,
+   "tipo": "mp",
+   "ref": "09.2023.00006475-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2023.00006475-9",
+   "status": "🟡 em apuração",
+   "data": "31/01/2024",
+   "texto": "Estado de Santa Catarina."
+  },
+  {
+   "i": 71,
+   "tipo": "mp",
+   "ref": "01.2026.00012983-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2026.00012983-8.",
+   "status": "🟡 em apuração",
+   "data": "25/03/2026",
+   "texto": "Escola de Educação Básica Municipal Belisário José Luiz."
+  },
+  {
+   "i": 72,
+   "tipo": "mp",
+   "ref": "06.2025.00005090-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00005090-7",
+   "status": "❔ status indef.",
+   "data": "26/05/2026",
+   "texto": "Luana Oliveira da Silva e Joice de Fátima Mota. Conclusão: os fatos narrados já são objeto de investigação na esfera criminal e, no âmbito administrativo, a Professora foi devidamente afastada à época dos fatos e, atualmente, não mais integra os quadros da Secretaria de Estado da Educação."
+  },
+  {
+   "i": 73,
+   "tipo": "mp",
+   "ref": "06.2022.00002593-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00002593-0",
+   "status": "🟡 em apuração",
+   "data": "23/06/2022",
+   "texto": "Clóvis de Morais Fogaça."
+  },
+  {
+   "i": 74,
+   "tipo": "mp",
+   "ref": "06.2022.00002598-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00002598-4",
+   "status": "🟡 em apuração",
+   "data": "23/06/2022",
+   "texto": "Ecolumber Indústria e Comércio de Madeiras Ltda. e a Maurício Rafael Macedo Damasceno."
+  },
+  {
+   "i": 75,
+   "tipo": "mp",
+   "ref": "06.2022.00002812-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO n. 06.2022.00002812-6",
+   "status": "🟡 em apuração",
+   "data": "28/06/2022",
+   "texto": "Luiz Fernando Costa Sturcio."
+  },
+  {
+   "i": 76,
+   "tipo": "mp",
+   "ref": "06.2022.00002813-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO n. 06.2022.00002813-7",
+   "status": "🟡 em apuração",
+   "data": "28/06/2022",
+   "texto": "André Zanella Ramos."
+  },
+  {
+   "i": 77,
+   "tipo": "mp",
+   "ref": "09.2023.00000034-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2023.00000034-2",
+   "status": "🟡 em apuração",
+   "data": "12/01/2023",
+   "texto": "Auto Posto Serra Sul Ltda."
+  },
+  {
+   "i": 78,
+   "tipo": "mp",
+   "ref": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE ACOMPANHAMENTO DE POLÍTICAS",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE ACOMPANHAMENTO DE POLÍTICAS",
+   "status": "🟡 em apuração",
+   "data": "30/01/2023",
+   "texto": "Associação de Serviços Sociais Voluntários de Campo Belo do Sul"
+  },
+  {
+   "i": 79,
+   "tipo": "mp",
+   "ref": "09.2024.00001602-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00001602-7",
+   "status": "🟡 em apuração",
+   "data": "06/03/2024",
+   "texto": "Delegacia de Polícia de Campo Belo do Sul."
+  },
+  {
+   "i": 80,
+   "tipo": "mp",
+   "ref": "06.2024.00002221-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00002221-8",
+   "status": "🟡 em apuração",
+   "data": "15/05/2024",
+   "texto": "Andréia Aparecida Ribeiro da Silva."
+  },
+  {
+   "i": 81,
+   "tipo": "mp",
+   "ref": "09.2024.00003850-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00003850-0",
+   "status": "🟡 em apuração",
+   "data": "20/05/2024",
+   "texto": "Célio Pereira."
+  },
+  {
+   "i": 82,
+   "tipo": "mp",
+   "ref": "06.2025.00000653-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00000653-3",
+   "status": "🟡 em apuração",
+   "data": "27/02/2025",
+   "texto": "Air Silva Souza."
+  },
+  {
+   "i": 83,
+   "tipo": "mp",
+   "ref": "09.2025.00000759-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00000759-8",
+   "status": "🟡 em apuração",
+   "data": "21/03/2025",
+   "texto": "V. F. G."
+  },
+  {
+   "i": 84,
+   "tipo": "mp",
+   "ref": "06.2025.00000903-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00000903-0",
+   "status": "🟡 em apuração",
+   "data": "28/03/2025",
+   "texto": "Fernanda Soares Reis."
+  },
+  {
+   "i": 85,
+   "tipo": "mp",
+   "ref": "06.2025.00001033-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00001033-7",
+   "status": "🟡 em apuração",
+   "data": "31/03/2025",
+   "texto": "N. M. O, R. A. O., A. M. O. e A. A. O."
+  },
+  {
+   "i": 86,
+   "tipo": "mp",
+   "ref": "09.2025.00002152-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00002152-3",
+   "status": "🟡 em apuração",
+   "data": "31/03/2025",
+   "texto": "Joaquim Amazonas Pereira e Noema Pereira Varela."
+  },
+  {
+   "i": 87,
+   "tipo": "mp",
+   "ref": "06.2025.00001104-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00001104-7",
+   "status": "🟡 em apuração",
+   "data": "02/04/2025",
+   "texto": "noticiante sigiloso e T. V. M."
+  },
+  {
+   "i": 88,
+   "tipo": "mp",
+   "ref": "09.2025.00003146-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00003146-5",
+   "status": "🟡 em apuração",
+   "data": "08/05/2025",
+   "texto": "C. de F. V. e S.A.V."
+  },
+  {
+   "i": 89,
+   "tipo": "mp",
+   "ref": "09.2025.00004212-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00004212-9",
+   "status": "🟡 em apuração",
+   "data": "11/06/2025",
+   "texto": "Maurício Dalmolin."
+  },
+  {
+   "i": 90,
+   "tipo": "mp",
+   "ref": "09.2025.00004216-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00004216-2",
+   "status": "🟡 em apuração",
+   "data": "11/06/2025",
+   "texto": "Maurício Dalmolin."
+  },
+  {
+   "i": 91,
+   "tipo": "mp",
+   "ref": "09.2025.00004784-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00004784-6",
+   "status": "🟡 em apuração",
+   "data": "15/07/2025",
+   "texto": "N. A. K. e G. G., genitores de A. e N."
+  },
+  {
+   "i": 92,
+   "tipo": "mp",
+   "ref": "09.2025.00004783-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N.09.2025.00004783-5",
+   "status": "🟡 em apuração",
+   "data": "15/07/2025",
+   "texto": "L. M. D. M."
+  },
+  {
+   "i": 93,
+   "tipo": "mp",
+   "ref": "06.2025.00002846-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00002846-0",
+   "status": "🟡 em apuração",
+   "data": "21/07/2025",
+   "texto": "I. A. B. S."
+  },
+  {
+   "i": 94,
+   "tipo": "mp",
+   "ref": "09.2025.00005521-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00005521-3",
+   "status": "🟡 em apuração",
+   "data": "04/08/2025",
+   "texto": "familiares de L. M. M."
+  },
+  {
+   "i": 95,
+   "tipo": "mp",
+   "ref": "06.2025.00004009-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00004009-7",
+   "status": "🟡 em apuração",
+   "data": "26/09/2025",
+   "texto": "J. B. da C. e M. E. F."
+  },
+  {
+   "i": 96,
+   "tipo": "mp",
+   "ref": "09.2025.00006229-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00006229-1",
+   "status": "🟡 em apuração",
+   "data": "01/10/2025",
+   "texto": "L. V. e seu atual companheiro."
+  },
+  {
+   "i": 97,
+   "tipo": "mp",
+   "ref": "09.2025.00007353-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00007353-3",
+   "status": "🟡 em apuração",
+   "data": "01/10/2025",
+   "texto": "Município e APAE, todos de Campo Belo do Sul."
+  },
+  {
+   "i": 98,
+   "tipo": "mp",
+   "ref": "06.2025.00004131-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00004131-9",
+   "status": "🟡 em apuração",
+   "data": "07/10/2025",
+   "texto": "Flávio Nunes e IBAMA."
+  },
+  {
+   "i": 99,
+   "tipo": "mp",
+   "ref": "09.2025.00007992-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00007992-7",
+   "status": "🟡 em apuração",
+   "data": "16/10/2025",
+   "texto": "Nereu Moraes de Oliveira e Marcelo Moraes de Chaves."
+  },
+  {
+   "i": 100,
+   "tipo": "mp",
+   "ref": "09.2025.00008910-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00008910-3",
+   "status": "🟡 em apuração",
+   "data": "14/11/2025",
+   "texto": "CMDCA de Capão Alto."
+  },
+  {
+   "i": 101,
+   "tipo": "mp",
+   "ref": "06.2025.00005090-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00005090-7",
+   "status": "🟡 em apuração",
+   "data": "27/11/2025",
+   "texto": "L. O. da S."
+  },
+  {
+   "i": 102,
+   "tipo": "mp",
+   "ref": "09.2025.00009159-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00009159-7",
+   "status": "🟡 em apuração",
+   "data": "02/12/2025",
+   "texto": "L. G. dos S. e T. L. de J. G."
+  },
+  {
+   "i": 103,
+   "tipo": "mp",
+   "ref": "01.2026.00008392-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2026.00008392-4",
+   "status": "🟡 em apuração",
+   "data": "03/03/2026",
+   "texto": "Campo Belo do Sul."
+  },
+  {
+   "i": 104,
+   "tipo": "mp",
+   "ref": "01.2026.00008445-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2026.00008445-6",
+   "status": "🟡 em apuração",
+   "data": "11/03/2026",
+   "texto": "Elena Aparecida Martins."
+  },
+  {
+   "i": 105,
+   "tipo": "mp",
+   "ref": "01.2026.00010529-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2026.00010529-0",
+   "status": "🟡 em apuração",
+   "data": "16/03/2026",
+   "texto": "Rosane e Alcides."
+  },
+  {
+   "i": 106,
+   "tipo": "mp",
+   "ref": "06.2025.00004009-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00004009-7",
+   "status": "❔ status indef.",
+   "data": "18/03/2026",
+   "texto": "Jackson Bruno da Costa (noticiante) e Maria Edilaine Ferreira (investigada)."
+  },
+  {
+   "i": 107,
+   "tipo": "mp",
+   "ref": "06.2025.00004131-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00004131-9",
+   "status": "❔ status indef.",
+   "data": "31/03/2026",
+   "texto": "IBAMA (noticiante) e Flávio Nunes (investigado)."
+  },
+  {
+   "i": 108,
+   "tipo": "mp",
+   "ref": "01.2026.00014959-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2026.00014959-0",
+   "status": "🟡 em apuração",
+   "data": "01/04/2026",
+   "texto": "V. de J. de O."
+  },
+  {
+   "i": 109,
+   "tipo": "mp",
+   "ref": "06.2026.00001274-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2026.00001274-0",
+   "status": "🟡 em apuração",
+   "data": "01/04/2026",
+   "texto": "Delegacia-Geral da Policia Civil do Estado de Santa Catarina."
+  },
+  {
+   "i": 110,
+   "tipo": "mp",
+   "ref": "01.2026.00015483-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2026.00015483-7",
+   "status": "🟡 em apuração",
+   "data": "08/04/2026",
+   "texto": "Selma de Matos."
+  },
+  {
+   "i": 111,
+   "tipo": "mp",
+   "ref": "01.2026.00015481-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2026.00015481-5",
+   "status": "🟡 em apuração",
+   "data": "14/04/2026",
+   "texto": "M. E. P. M. e J. P. da S. M."
+  },
+  {
+   "i": 112,
+   "tipo": "mp",
+   "ref": "01.2026.00016592-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2026.00016592-3",
+   "status": "🟡 em apuração",
+   "data": "14/04/2026",
+   "texto": "S. C. de O."
+  },
+  {
+   "i": 113,
+   "tipo": "mp",
+   "ref": "01.2026.00016794-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2026.00016794-3.",
+   "status": "🟡 em apuração",
+   "data": "15/04/2026",
+   "texto": "R. N. dos S., 62 anos, e F. N. dos S."
+  },
+  {
+   "i": 114,
+   "tipo": "mp",
+   "ref": "01.2026.00016797-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2026.00016797-6.",
+   "status": "🟡 em apuração",
+   "data": "15/04/2026",
+   "texto": "E. V."
+  },
+  {
+   "i": 115,
+   "tipo": "mp",
+   "ref": "06.2025.00001104-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00001104-7",
+   "status": "❔ status indef.",
+   "data": "20/04/2026",
+   "texto": "Carlos Antunes de Melo Pinto."
+  },
+  {
+   "i": 116,
+   "tipo": "mp",
+   "ref": "01.2026.00019103-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2026.00019103-2",
+   "status": "🟡 em apuração",
+   "data": "22/04/2026",
+   "texto": "Conselho Tutelar de Campo Belo do Sul e Conselho Tutelar de Cerro Negro."
+  },
+  {
+   "i": 117,
+   "tipo": "mp",
+   "ref": "01.2026.00020069-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2026.00020069-2",
+   "status": "🟡 em apuração",
+   "data": "07/05/2026",
+   "texto": "representados: G. de O. F. e V. F.; interessada: N."
+  },
+  {
+   "i": 118,
+   "tipo": "mp",
+   "ref": "06.2025.00002846-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00002846-0",
+   "status": "❔ status indef.",
+   "data": "18/05/2026",
+   "texto": "Maiane de Assis Melo e familiares de I. A. B. de A."
+  },
+  {
+   "i": 119,
+   "tipo": "mp",
+   "ref": "01.2026.00024019-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2026.00024019-5",
+   "status": "🟡 em apuração",
+   "data": "25/05/2026",
+   "texto": "L. B. P. e J. R. dos S. O.; interessado: R. P. O."
+  },
+  {
+   "i": 120,
+   "tipo": "mp",
+   "ref": "09.2026.00004737-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2026.00004737-2",
+   "status": "🟡 em apuração",
+   "data": "03/06/2026",
+   "texto": "Promotoria de Justiça da Comarca de Campo Belo do Sul."
+  },
+  {
+   "i": 121,
+   "tipo": "mp",
+   "ref": "01.2026.00026783-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2026.00026783-0",
+   "status": "🟡 em apuração",
+   "data": "05/06/2026",
+   "texto": "R. N. dos S. e F. N. dos S."
+  },
+  {
+   "i": 122,
+   "tipo": "mp",
+   "ref": "01.2026.00029049-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2026.00029049-6",
+   "status": "🟡 em apuração",
+   "data": "12/06/2026",
+   "texto": "M. E. B. de O."
+  },
+  {
+   "i": 123,
+   "tipo": "mp",
+   "ref": "01.2026.00029040-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2026.00029040-8",
+   "status": "🟡 em apuração",
+   "data": "17/06/2026",
+   "texto": "J. A. da S. e I. G. da S."
+  },
+  {
+   "i": 124,
+   "tipo": "mp",
+   "ref": "09.2026.00003935-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2026.00003935-0",
+   "status": "🟡 em apuração",
+   "data": "19/06/2026",
+   "texto": "Promotoria de Justiça da Comarca de Campo Belo do Sul e Delegacia de Polícia Civil da Comarca de Campo Belo do Sul."
+  },
+  {
+   "i": 125,
+   "tipo": "mp",
+   "ref": "06.2024.00002221-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00002221-8",
+   "status": "🟢 arquivado",
+   "data": "22/06/2026",
+   "texto": "Andreia Aparecida Ribeiro da Silva. Conclusão: inexistência de fundamento para a propositura de ação judicial. Não verificada a instalação de instituição de acolhimento. Hospitalidade de pessoas por vontade própria na própria residência da investigada, não evidenciada a abertura de estabelecimento destinado a longa permanência de idosos. Promoção de arquivamento."
+  },
+  {
+   "i": 126,
+   "tipo": "mp",
+   "ref": "09.2026.00005572-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2026.00005572-8",
+   "status": "🟡 em apuração",
+   "data": "24/06/2026",
+   "texto": "Promotoria de Justiça da Comarca de Campo Belo do Sul."
+  },
+  {
+   "i": 0,
+   "tipo": "tce",
+   "ref": "PCP 22/00226238",
+   "header": "⭐ PCP 22/00226238 — Prestação de Contas do Prefeito",
+   "status": "🔴 parecer pela rejeição",
+   "data": "16/11/2022",
+   "texto": "Prefeitura Municipal de Campo Belo do Sul Prestação de Contas do Prefeito referente ao exercício de 2021 "
+  },
+  {
+   "i": 1,
+   "tipo": "tce",
+   "ref": "PCP 23/00206158",
+   "header": "⭐ PCP 23/00206158 — Prestação de Contas do Prefeito",
+   "status": "🔴 parecer pela rejeição",
+   "data": "08/11/2023",
+   "texto": "Prefeitura Municipal de Campo Belo do Sul Prestação de Contas do Prefeito referente ao exercício de 2022 "
+  },
+  {
+   "i": 2,
+   "tipo": "tce",
+   "ref": "PCP 25/00082207",
+   "header": "⭐ PCP 25/00082207 — Prestação de Contas do Prefeito",
+   "status": "🟢 parecer pela aprovação",
+   "data": "10/11/2025",
+   "texto": "Prefeitura Municipal de Campo Belo do Sul Prestação de Contas da Prefeita referente ao exercício de 2024 "
+  },
+  {
+   "i": 3,
+   "tipo": "tce",
+   "ref": "REP 21/00157994",
+   "header": "⭐ REP 21/00157994 — Representação",
+   "status": "❔ em tramitação",
+   "data": "03/05/2022",
+   "texto": "Prefeitura Municipal de Campo Belo do Sul Representação acerca de supostas irregularidades na contratação para aquisição de combustível, aditivos e lubrificantes para os Claudiane Varela Pucci e Andressa de Carli Mota",
+   "decisao": "decide: 1. Considerar procedente, nos termos do art. 27, parágrafo único, da Instrução Normativa n. TC-21/2015, o mérito da presente Representação, formulada com fundamento nos arts. 113, §1°, da Lei n. 8.666/93 e 66 da Lei Complementar (estadual) n. 202/20 e na Instrução Normativa n. TC-21/2015, em face da realização da Dispensa de Licitação n. 06/2021 em razão do lançamento de licitação a poucos dias do encerramento da vigência da contratação de combustíveis e lubrificantes realizada em 2020, em afronta ao inciso I do parágrafo único do art. 26 da Lei n. 8.666/93 (item 2.2). 2. Recomendar ao Município de Campo Belo do Sul, na pessoa da Sra. Prefeita Municipal Claudiane Varela Pucci, que: 2.1. procure, na medida das condições físicas, financeiras e técnicas, promover a restruturação do setor de licitações e contratos administrativos do órgão, por meio da designação de agentes públicos para o desempenho das funções essenciais à execução das leis de licitações, incentivando a permanente e contínua capacitação de todos aqueles que atuam nesta área administrativa que, cada vez mais, se torna essencial para a governança dos processos licitatórios e apoio das decisões da alta administração (Secretários Municipais e Prefeita); 2.2. oriente os agentes públicos de hierarquia inferior a encaminharem à autoridade competente os processos licitatórios que dependem de decisão superior, bem como para que examinem a regularidade formal e material de todos os atos praticados nos referidos processos, exercendo o controle prévio de legalidade dos atos praticados por todos os agentes que atuam nos processos licitatórios; 2.3. verifique se há elementos que justifiquem a instauração de procedimento administrativo para apurar a responsabilidade funcional dos agentes públicos que deram causa à omissão administrativa em deflagrar a tempo e modo adequado o devido procedimento licitatório referente à aquisição de combustíveis e lubrificantes no exercício de 2021 (Pregão Presencial n. 01/2021). 3. Dar ciência desta Decisão, bem como do Relatório e Voto do Relator que a fundamentam, ao Representante, aos procuradores constituídos nos autos, à Sra. Claudiane Varela Pucci, Prefeita Municipal de Campo Belo do Sul, e à Assessoria Jurídica e ao Controle Interno daquele Município. Ata n.: 11/2022 Data da Sessão: 06/04/2022 - Ordinária - Virtual Especificação do quórum: Adircélio de Moraes Ferreira Júnior, Herneus João De Nadal, José Nei Alberton Ascari, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Cesar Filomeno Fontes e Luiz Eduardo Cherem Representante do Ministério Público de Contas/SC: Cibelly Farias Conselheiros-Substitutos presentes: Gerson dos Santos Sicca, Cleber Muniz Gavi e Sabrina Nunes Iocken ADIRCÉLIO DE MORAES FERREIRA JÚNIOR Presidente LUIZ EDUARDO CHEREM Relator Fui presente: CIBELLY FARIAS Procuradora-Geral do Ministério Público de Contas/SC Chapecó"
+  },
+  {
+   "i": 4,
+   "tipo": "tce",
+   "ref": "PCP 24/00181769",
+   "header": "⭐ PCP 24/00181769 — Prestação de Contas do Prefeito",
+   "status": "🟢 parecer pela aprovação",
+   "data": "09/09/2024",
+   "texto": "Prefeitura Municipal de Campo Belo do Sul Prestação de Contas da Prefeita referente ao exercício de 2023 "
+  },
+  {
+   "i": 5,
+   "tipo": "tce",
+   "ref": "REP 21/00642698",
+   "header": "⭐ REP 21/00642698 — Representação",
+   "status": "❔ em tramitação",
+   "data": "04/03/2022",
+   "texto": "Prefeitura Municipal de Campo Belo do Sul Representação acerca de supostas irregularidades referentes ao Edital de Pregão Presencial n. 020/2021 - Registro de preços para Fernando Symcha de Araújo Marçal Vieira",
+   "decisao": "decide: 1. Conhecer do Relatório DLC/CAJU/Div.5 n. 1380/2021, que examinou o cumprimento da Decisão Singular GAC/LEC n. 1021/2021. 2. Determinar o arquivamento do processo, com fundamento no parágrafo único do art. 6º da Instrução Normativa n. TC-21/2015, em face da anulação de Pregão Presencial n. 020/2021, promovido pela Prefeitura Municipal de Campo Belo do Sul, conforme o Termo de Anulação, subscrito pela Sra. Vitória Nery Tessaro, Pregoeira, de f. 70 dos autos. 3. Dar ciência desta Decisão ao Representante e ao Responsável pelo Controle Interno do Município de Campo Belo do Sul. Ata n.: 3/2022 Data da Sessão: 09/02/2022 - Ordinária - Virtual Especificação do quórum: Adircélio de Moraes Ferreira Júnior, Herneus João De Nadal, José Nei Alberton Ascari, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Cesar Filomeno Fontes e Luiz Eduardo Cherem Representante do Ministério Público de Contas/SC: Cibelly Farias Conselheiros-Substitutos presentes: Gerson dos Santos Sicca, Cleber Muniz Gavi e Sabrina Nunes Iocken ADIRCÉLIO DE MORAES FERREIRA JÚNIOR Presidente LUIZ EDUARDO CHEREM Relator Fui presente: CIBELLY FARIAS Procuradora-Geral do Ministério Público de Contas/SC __________________________________________________________________________________________________________________ Concórdia"
+  },
+  {
+   "i": 6,
+   "tipo": "tce",
+   "ref": "RLI 20/00523816",
+   "header": "⭐ RLI 20/00523816 — Relatório de Inspeção",
+   "status": "⬛ acórdão (decisão)",
+   "data": "12/05/2025",
+   "texto": "Prefeitura Municipal de Campo Belo do Sul | Prefeitura Municipal de Campos Novos | Instituto Canoinhense de Previdência Inspeção envolvendo o cumprimento das Metas 18 e 19 da Lei (municipal) n. 2.070/2015 (Plano Municipal de | Inspeção sobre o cumprimento das normas da Lei n. 13.784/2019 e da Lei (estadual) n. 18.091/2021, acerca de | Registro de Ato de Aposentadoria Vanessa Gizelo Treml José Tadeu Martins de Oliveira e Geisa Mara Moretti Borges Costa",
+   "decisao": "decide: 1. Conhecer do Relatório DAP/CAPE I/Div.1 n. 6511/2022 (fs. 472-481), para: 1.1. considerar cumprida a determinação constante no item 2.1.2 da Decisão n. 380/2022 (f. 447), relativa à previsão de diretrizes para gestão democrática da educação na escolha de diretores; 1.2. considerar irregular a ausência de atualização do Plano de Carreira do Magistério Público Municipal, em descumprimento ao Plano Nacional de Educação (Lei n. 13.005/2014) e ao Plano Municipal de Educação (Lei – municipal - n. 2070/2015), e reiterar a determinação transcrita no item 2.1.1 da Decisão n. 380/2022 (f. 447), concedendo à Responsável pela Prefeitura Municipal de Campo Belo do Sul o prazo de 30 (trinta) dias para encaminhar a este Tribunal de Contas a comprovação do cumprimento da seguinte determinação: 1.2.1. Adoção de providências visando à remessa, ao Poder Legislativo, de projeto de lei disciplinando adequar a legislação municipal quanto à atualização do Plano de Carreira do Magistério Público Municipal, nos termos dos Planos Municipal e Nacional de Educação. 2. Alertar à Prefeitura Municipal de Campo Belo do Sul, na pessoa da Prefeita Municipal, assim como à Secretaria de Educação daquele Município, da imprescindível tempestividade e diligência no cumprimento da determinação exarada por este Tribunal, sob pena de aplicação das sanções previstas no art. 70, III e §1º, da Lei Complementar (estadual) n. 202/2000. 3. Determinar à Diretoria de Atos de Pessoal deste Tribunal que monitore o cumprimento da determinação expedida nesta deliberação, mediante diligências e/ou inspeções in loco, e, ao final do prazo nela fixado, manifeste-se pelo arquivamento dos autos, quando cumprida a Decisão, ou pela adoção das providências necessárias, se for o caso, quando verificado o não cumprimento, submetendo os autos ao Relator para que decida quanto às medidas a serem adotadas. 4. Determinar à Secretaria-Geral deste Tribunal que acompanhe as deliberações constantes desta Decisão, no que tange ao prazo referido, e comunique à Diretoria-Geral de Controle Externo e à Diretoria de Atos de Pessoal, após o trânsito em julgado, acerca do cumprimento, ou não, do prazo estipulado, para fins de registro no banco de dados. 5. Dar ciência desta Decisão, do Relatório e do Voto do Relator que a fundamentam, bem como do Relatório DAP/CAPE I/Div.1 n. 6511/2022, à Sra. Claudiane Varela Pucci – Prefeita Municipal de Campo Belo do Sul, aos demais Responsáveis supranominados, à Secretaria de Educação e ao Controle Interno daquele Município e ao Responsável pela Assessoria Jurídica da Unidade Gestora em tela. Ata n.: 21/2023 Data da Sessão: 14/06/2023 - Ordinária - Virtual Especificação do quórum: Herneus João De Nadal, José Nei Alberton Ascari, Adircélio de Moraes Ferreira Júnior, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Luiz Eduardo Cherem e Aderson Flores Representante do Ministério Público de Contas/SC: Diogo Roberto Ringenberg Conselheiros-Substitutos presentes: Gerson dos Santos Sicca"
+  },
+  {
+   "i": 7,
+   "tipo": "tce",
+   "ref": "DEN 23/80049704",
+   "header": "⭐ DEN 23/80049704 — Denúncia",
+   "status": "❔ em tramitação",
+   "data": "30/04/2024",
+   "texto": "Prefeitura Municipal de Campo Belo do Sul Denúncia acerca de supostas irregularidades referentes à ausência de implementação do Piso Nacional da Carreira ",
+   "decisao": "decide: 1. Conhecer do Relatório DAP/CAPE-IV/Div.8 n. 139/2024, que trata de possíveis irregularidades concernentes à ausência de implementação do Piso Nacional da Carreira do Magistério no Município de Campo Belo do Sul, para determinar o sobrestamento do presente processo por 180 (cento e oitenta) dias, a fim de aguardar o trânsito em julgado da sentença exarada nos autos do Processo n. 5009224-32.2023.4.04.7206/SC, em trâmite na Justiça Federal de Santa Catarina, nos termos do art. 36, § 1º, “a”, da Lei Complementar (estadual) n. 202/2000 (Lei Orgânica deste Tribunal) e do caput do art. 123 da Resolução n. TC-06/2001 (Regimento Interno do TCE-SC), permanecendo suspensa a prescrição da pretensão punitiva em sede administrativa, nos termos do art. 83-D, II, da citada Lei Complementar (com redação dada pela Lei Complementar – estadual - n. 819/2023). 2. Determinar à Prefeitura Municipal de Campo Belo do Sul que comunique a este Tribunal de Contas quaisquer movimentações que alterem a sentença exarada no Processo n. 5009224-32.2023.4.04.7206/SC, em trâmite na Justiça Federal de Santa Catarina, para que os presentes autos possam ter o devido seguimento neste Tribunal, com a consequente análise das possíveis irregularidades constantes deste processo. 3. Determinar à Diretoria de Atos de Pessoal – DAP - o monitoramento periódico da determinação constante do item 2 desta deliberação. 4. Dar ciência desta Decisão, bem como do Relatório e Voto do Relator e do Relatório DAP/CAPE-IV/Div.8 n. 139/2024 que a fundamentam, ao Denunciante, à Prefeitura Municipal de Campo Belo do Sul e à Secretaria de Educação daquele Município. Ata n.: 10/2024 Data da Sessão: 12/04/2024 - Ordinária - Virtual Especificação do quórum: Herneus João De Nadal, José Nei Alberton Ascari, Adircélio de Moraes Ferreira Júnior, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Luiz Eduardo Cherem, Aderson Flores. Representante do Ministério Público junto ao Tribunal de Contas/SC: Diogo Roberto Ringenberg Conselheiros-Substitutos presentes: Gerson dos Santos Sicca, Cleber Muniz Gavi e Sabrina Nunes Iocken HERNEUS JOÃO DE NADAL Presidente JOSÉ NEI ALBERTON ASCARI Relator Fui presente: DIOGO ROBERTO RINGENBERG Procurador-Geral do Ministério Público junto ao Tribunal de Contas/SC Florianópolis"
+  },
+  {
+   "i": 8,
+   "tipo": "tce",
+   "ref": "PAP 23/80049704",
+   "header": "⭐ PAP 23/80049704 — Processo de Apuração",
+   "status": "🔴 apontou irregularidade",
+   "data": "30/10/2023",
+   "texto": "Prefeitura Municipal de Campo Belo do Sul Possíveis irregularidades quanto à ausência de implementação do Piso Nacional da Carreira do Magistério no Macson Pucci",
+   "decisao": "decido: 1. Considerar atendidos os critérios de seletividade do presente Procedimento Apuratório Preliminar, instaurado em virtude de comunicação apresentada à Ouvidoria deste TCE por Macson Pucci, vereador do Município de Campo Belo do Sul, em que relata possíveis irregularidades no que se refere à ausência de implementação do Piso Salarial Nacional do Magistério na referida municipalidade, em alegada ofensa à Legislação Federal de nº 11.738/2008; 2. Converter o Procedimento Apuratório Preliminar em processo de Denúncia, nos termos do art. 10, inciso I, da Resolução TC nº 165/2020, conhecendo-a, por preencher os requisitos de admissibilidade na hipótese; 3. Determinar à Diretoria de Atos de Pessoal a adoção de providências que se fizerem necessárias para apuração das supostas irregularidades; 4. Determinar à Secretaria Geral que promova diligência, amparada pelo art. 123, caput e § 3º, e art. 124, § 1º, do Regimento Interno desta Corte de Contas, com ofício à Prefeitura Municipal de Campo Belo do Sul, para que encaminhe os seguintes documentos e esclarecimentos necessários à instrução do presente processo, no prazo de 30 (trinta) dias: 4.1. Informações quanto à remuneração dos professores, de acordocom os itens que seguem: 4.1.1. Vencimento básico do cargo efetivo de professor 40 horas, emsetembro de 2023, com o envio de 20 contracheques de servidores ocupantesdo respectivo cargo, em início de carreira, que desempenhem a carga horáriaacima apontada; 4.1.2. Vencimento básico do contratado temporário para exercer asfunções do cargo efetivo de professor 40 horas, em setembro de 2023, com oenvio de 10 contracheques de servidores em desempenho da respectivafunção que executem a carga horária acima apontada; 4.2. Demais documentos e informações que possam esclarecer asituação; 5. Dar ciência desta Decisão, bem como do Relatório DAP Nº 6319/2023, ao comunicante e à Prefeitura Municipal de Campo Belo do Sul. Florianópolis, 18 de outubro de 2023. José Nei Alberton Ascari Conselheiro Relator Capinzal"
+  },
+  {
+   "i": 9,
+   "tipo": "tce",
+   "ref": "DEN 23/80049704",
+   "header": "⭐ DEN 23/80049704 — Denúncia",
+   "status": "❔ em tramitação",
+   "data": "09/03/2026",
+   "texto": "Prefeitura Municipal de Campo Belo do Sul Denúncia acerca de supostas irregularidades referentes à ausência de implementação do Piso Nacional da Carreira Claudiane Varela Pucci e Fabiana da Silva",
+   "decisao": "decide: 1. Conhecer do Relatório DAP/CAPE-IV/Div.8 n. 139/2024, que trata de possíveis irregularidades concernentes à ausência de implementação do Piso Nacional da Carreira do Magistério no Município de Campo Belo do Sul, para determinar o sobrestamento do presente processo por 180 (cento e oitenta) dias, a fim de aguardar o trânsito em julgado da sentença exarada nos autos do Processo n. 5009224-32.2023.4.04.7206/SC, em trâmite na Justiça Federal de Santa Catarina, nos termos do art. 36, § 1º, “a”, da Lei Complementar (estadual) n. 202/2000 (Lei Orgânica deste Tribunal) e do caput do art. 123 da Resolução n. TC-06/2001 (Regimento Interno do TCE-SC), permanecendo suspensa a prescrição da pretensão punitiva em sede administrativa, nos termos do art. 83-D, II, da citada Lei Complementar (com redação dada pela Lei Complementar – estadual - n. 819/2023). 2. Determinar à Prefeitura Municipal de Campo Belo do Sul que comunique a este Tribunal de Contas quaisquer movimentações que alterem a sentença exarada no Processo n. 5009224-32.2023.4.04.7206/SC, em trâmite na Justiça Federal de Santa Catarina, para que os presentes autos possam ter o devido seguimento neste Tribunal, com a consequente análise das possíveis irregularidades constantes deste processo. 3. Determinar à Diretoria de Atos de Pessoal – DAP - o monitoramento periódico da determinação constante do item 2 desta deliberação. 4. Dar ciência desta Decisão, bem como do Relatório e Voto do Relator e do Relatório DAP/CAPE-IV/Div.8 n. 139/2024 que a fundamentam, ao Denunciante, à Prefeitura Municipal de Campo Belo do Sul e à Secretaria de Educação daquele Município. Ata n.: 10/2024 Data da Sessão: 12/04/2024 - Ordinária - Virtual Especificação do quórum: Herneus João De Nadal, José Nei Alberton Ascari, Adircélio de Moraes Ferreira Júnior, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Luiz Eduardo Cherem, Aderson Flores. Representante do Ministério Público junto ao Tribunal de Contas/SC: Diogo Roberto Ringenberg Conselheiros-Substitutos presentes: Gerson dos Santos Sicca, Cleber Muniz Gavi e Sabrina Nunes Iocken HERNEUS JOÃO DE NADAL Presidente JOSÉ NEI ALBERTON ASCARI Relator Fui presente: DIOGO ROBERTO RINGENBERG Procurador-Geral do Ministério Público junto ao Tribunal de Contas/SC Florianópolis"
+  },
+  {
+   "i": 10,
+   "tipo": "tce",
+   "ref": "DEN 25/00189265",
+   "header": "⭐ DEN 25/00189265 — Denúncia",
+   "status": "❔ em tramitação",
+   "data": "24/06/2026",
+   "texto": "Prefeitura Municipal de Campo Belo do Sul Denúncia acerca de supostas irregularidades referentes ao pagamento de verbas devidas a servidores em desrespeito Roselito Everaldo de Lins",
+   "decisao": "decide: 1. Não conhecer da Denúncia, por não terem sido atendidos os requisitos de admissibilidade previstos no art. 96 do Regimento Interno deste Tribunal de Contas. 2. Dar ciência desta Decisão ao Sr. Roselito Everaldo de Lins e à Prefeitura Municipal de Campo Belo do Sul. 3. Determinar o arquivamento dos autos, em razão do não conhecimento. Ata n.: 4/2026 Primeira Câmara - Sessão Ordinária em Ambiente Virtual Período da Sessão: de 05/06/2026 a 12/06/2026 Especificação do quórum: Wilson Rogério Wan-Dall, José Nei Alberton Ascari e Aderson Flores Representante do Ministério Público junto ao Tribunal de Contas/SC: Leandro Ocaña Vieira Conselheiros-Substitutos presentes: Gerson dos Santos Sicca e Sabrina Nunes Iocken ADERSON FLORES Presidente da Primeira Câmara WILSON ROGÉRIO WAN-DALL Relator Fui presente: LEANDRO OCAÑA VIEIRA Procurador do Ministério Público junto ao Tribunal de Contas/SC Cerro Negro"
+  },
+  {
+   "i": 11,
+   "tipo": "tce",
+   "ref": "RLI 20/00523816",
+   "header": "⭐ RLI 20/00523816 — Relatório de Inspeção",
+   "status": "❔ em tramitação",
+   "data": "13/05/2022",
+   "texto": "Prefeitura Municipal de Campo Belo do Sul Inspeção envolvendo o monitoramento do cumprimento das Metas 18 e 19 da Lei (municipal) n. 2070/2015 (Plano Municipal de Jose Tadeu Martins de Oliveira e Geisa Mara Moretti Borges",
+   "decisao": "decide: 1. Conhecer do Relatório DAP/CAPE I/Div.1 n. 6511/2022 (fs. 472-481), para: 1.1. considerar cumprida a determinação constante no item 2.1.2 da Decisão n. 380/2022 (f. 447), relativa à previsão de diretrizes para gestão democrática da educação na escolha de diretores; 1.2. considerar irregular a ausência de atualização do Plano de Carreira do Magistério Público Municipal, em descumprimento ao Plano Nacional de Educação (Lei n. 13.005/2014) e ao Plano Municipal de Educação (Lei – municipal - n. 2070/2015), e reiterar a determinação transcrita no item 2.1.1 da Decisão n. 380/2022 (f. 447), concedendo à Responsável pela Prefeitura Municipal de Campo Belo do Sul o prazo de 30 (trinta) dias para encaminhar a este Tribunal de Contas a comprovação do cumprimento da seguinte determinação: 1.2.1. Adoção de providências visando à remessa, ao Poder Legislativo, de projeto de lei disciplinando adequar a legislação municipal quanto à atualização do Plano de Carreira do Magistério Público Municipal, nos termos dos Planos Municipal e Nacional de Educação. 2. Alertar à Prefeitura Municipal de Campo Belo do Sul, na pessoa da Prefeita Municipal, assim como à Secretaria de Educação daquele Município, da imprescindível tempestividade e diligência no cumprimento da determinação exarada por este Tribunal, sob pena de aplicação das sanções previstas no art. 70, III e §1º, da Lei Complementar (estadual) n. 202/2000. 3. Determinar à Diretoria de Atos de Pessoal deste Tribunal que monitore o cumprimento da determinação expedida nesta deliberação, mediante diligências e/ou inspeções in loco, e, ao final do prazo nela fixado, manifeste-se pelo arquivamento dos autos, quando cumprida a Decisão, ou pela adoção das providências necessárias, se for o caso, quando verificado o não cumprimento, submetendo os autos ao Relator para que decida quanto às medidas a serem adotadas. 4. Determinar à Secretaria-Geral deste Tribunal que acompanhe as deliberações constantes desta Decisão, no que tange ao prazo referido, e comunique à Diretoria-Geral de Controle Externo e à Diretoria de Atos de Pessoal, após o trânsito em julgado, acerca do cumprimento, ou não, do prazo estipulado, para fins de registro no banco de dados. 5. Dar ciência desta Decisão, do Relatório e do Voto do Relator que a fundamentam, bem como do Relatório DAP/CAPE I/Div.1 n. 6511/2022, à Sra. Claudiane Varela Pucci – Prefeita Municipal de Campo Belo do Sul, aos demais Responsáveis supranominados, à Secretaria de Educação e ao Controle Interno daquele Município e ao Responsável pela Assessoria Jurídica da Unidade Gestora em tela. Ata n.: 21/2023 Data da Sessão: 14/06/2023 - Ordinária - Virtual Especificação do quórum: Herneus João De Nadal, José Nei Alberton Ascari, Adircélio de Moraes Ferreira Júnior, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Luiz Eduardo Cherem e Aderson Flores Representante do Ministério Público de Contas/SC: Diogo Roberto Ringenberg Conselheiros-Substitutos presentes: Gerson dos Santos Sicca"
+  },
+  {
+   "i": 12,
+   "tipo": "tce",
+   "ref": "RLI 20/00523816",
+   "header": "• RLI 20/00523816 — Relatório de Inspeção",
+   "status": "🔴 apontou irregularidade",
+   "data": "29/06/2023",
+   "texto": "Prefeitura Municipal de Campo Belo do Sul | Instituto de Previdência Social dos Servidores Públicos do Município de Florianópolis – IPREF | Instituto de Previdência Social dos Servidores Públicos do Município de Florianópolis - IPREF Inspeção envolvendo o monitoramento do cumprimento das Metas 18 e 19 da Lei (municipal) n. 2070/2015 (Plano | Registro de Ato de Aposentadoria Alecio Andre Siqueira | Registro de Ato de Aposentadoria de Jorge Alfredo Luz José Tadeu Martins de Oliveira, Claudiane Varela Pucci, Geisa Mara Moretti Borges Costa e Fabiana da Silva",
+   "decisao": "decide: 1. Conhecer do Relatório DAP/CAPE I/Div.1 n. 6511/2022 (fs. 472-481), para: 1.1. considerar cumprida a determinação constante no item 2.1.2 da Decisão n. 380/2022 (f. 447), relativa à previsão de diretrizes para gestão democrática da educação na escolha de diretores; 1.2. considerar irregular a ausência de atualização do Plano de Carreira do Magistério Público Municipal, em descumprimento ao Plano Nacional de Educação (Lei n. 13.005/2014) e ao Plano Municipal de Educação (Lei – municipal - n. 2070/2015), e reiterar a determinação transcrita no item 2.1.1 da Decisão n. 380/2022 (f. 447), concedendo à Responsável pela Prefeitura Municipal de Campo Belo do Sul o prazo de 30 (trinta) dias para encaminhar a este Tribunal de Contas a comprovação do cumprimento da seguinte determinação: 1.2.1. Adoção de providências visando à remessa, ao Poder Legislativo, de projeto de lei disciplinando adequar a legislação municipal quanto à atualização do Plano de Carreira do Magistério Público Municipal, nos termos dos Planos Municipal e Nacional de Educação. 2. Alertar à Prefeitura Municipal de Campo Belo do Sul, na pessoa da Prefeita Municipal, assim como à Secretaria de Educação daquele Município, da imprescindível tempestividade e diligência no cumprimento da determinação exarada por este Tribunal, sob pena de aplicação das sanções previstas no art. 70, III e §1º, da Lei Complementar (estadual) n. 202/2000. 3. Determinar à Diretoria de Atos de Pessoal deste Tribunal que monitore o cumprimento da determinação expedida nesta deliberação, mediante diligências e/ou inspeções in loco, e, ao final do prazo nela fixado, manifeste-se pelo arquivamento dos autos, quando cumprida a Decisão, ou pela adoção das providências necessárias, se for o caso, quando verificado o não cumprimento, submetendo os autos ao Relator para que decida quanto às medidas a serem adotadas. 4. Determinar à Secretaria-Geral deste Tribunal que acompanhe as deliberações constantes desta Decisão, no que tange ao prazo referido, e comunique à Diretoria-Geral de Controle Externo e à Diretoria de Atos de Pessoal, após o trânsito em julgado, acerca do cumprimento, ou não, do prazo estipulado, para fins de registro no banco de dados. 5. Dar ciência desta Decisão, do Relatório e do Voto do Relator que a fundamentam, bem como do Relatório DAP/CAPE I/Div.1 n. 6511/2022, à Sra. Claudiane Varela Pucci – Prefeita Municipal de Campo Belo do Sul, aos demais Responsáveis supranominados, à Secretaria de Educação e ao Controle Interno daquele Município e ao Responsável pela Assessoria Jurídica da Unidade Gestora em tela. Ata n.: 21/2023 Data da Sessão: 14/06/2023 - Ordinária - Virtual Especificação do quórum: Herneus João De Nadal, José Nei Alberton Ascari, Adircélio de Moraes Ferreira Júnior, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Luiz Eduardo Cherem e Aderson Flores Representante do Ministério Público de Contas/SC: Diogo Roberto Ringenberg Conselheiros-Substitutos presentes: Gerson dos Santos Sicca"
+  }
+ ]
+}

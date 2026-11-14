@@ -1,0 +1,1788 @@
+{
+ "mp": [
+  {
+   "i": 0,
+   "keep": true,
+   "title": "MP apura contratação sem licitação na Câmara de Pomerode e caso é arquivado",
+   "description": "O inquérito civil investigou a contratação da empresa Artes Serviços Contábeis Ltda. ME pela Câmara de Vereadores de Pomerode no final de 2016, sem licitação. O MP concluiu que não havia dolo na conduta do então presidente da Câmara. Recomendação acatada e caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 1,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 2,
+   "keep": true,
+   "title": "MP apura obra com alvará irregular em Pomerode e empresa firma TAC",
+   "description": "O inquérito civil investigou irregularidade na construção autorizada pela SEPLAN na Rua Hermann Weege, promovida pela JGM. O MP constatou irregularidade, mas o caso não configurou improbidade. Foi formalizado TAC com a empresa e o alvará foi revogado. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 3,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 4,
+   "keep": true,
+   "title": "MP apura depósito irregular de FGTS em Pomerode e caso prescreve",
+   "description": "O inquérito apurou que a ex-secretária Mônica Susan Zimmer depositou valores em contas de FGTS de servidores contrariando sentenças trabalhistas. O MP verificou irregularidade, mas o caso foi arquivado por prescrição após alterações da Lei 14.230/2021 na Lei de Improbidade.",
+   "status": "⚫ prescrito",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 5,
+   "keep": true,
+   "title": "MP apura improbidade de servidor em Pomerode e arquiva por ausência de dolo",
+   "description": "Inquérito apurou atos de improbidade do servidor Cláudio Marcos Krueger por infrações nos PADs 25/2016 e 26/2016. O MP concluiu pela ausência de dolo. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 6,
+   "keep": true,
+   "title": "MP apura abuso de poder de diretor de escola em Pomerode e arquiva",
+   "description": "Inquérito apurou conduta irregular do diretor Denis Sell. Irregularidades constatadas, mas sem dolo para improbidade. O servidor foi exonerado. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 7,
+   "keep": true,
+   "title": "MP apura omissão em obra irregular em Pomerode e arquiva após regularização",
+   "description": "Inquérito averiguou obra na Rua Presidente Juscelino, 1260, e possível omissão do município. Obra regularizada, ausência de dolo. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 8,
+   "keep": true,
+   "title": "MP apura parceria com escola de ballet em escolas de Pomerode e arquiva",
+   "description": "Inquérito investigou parceria informal entre município e Associação Cultural Corpo de Baile, com aulas de ballet em escolas municipais pagas por alunos sem contraprestação ao poder público. Fatos esclarecidos. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 9,
+   "keep": true,
+   "title": "MP apura cessão irregular de servidores comissionados em Pomerode e arquiva",
+   "description": "Procedimento apurou imoralidade na cessão de servidores comissionados para emergências pela Lei Complementar 464/2022. Recomendação expedida e acatada. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 10,
+   "keep": true,
+   "title": "MP apura médica que trabalhava em outro estado durante licença em Pomerode e arquiva",
+   "description": "Inquérito apurou que a médica Marcela Mendonça da Silva trabalhava como perita em Pernambuco enquanto usava licença de saúde municipal. Ilícito comprovado e demanda de ressarcimento ajuizada, mas sem dolo para improbidade. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 11,
+   "keep": true,
+   "title": "MP apura servidora que exercia comércio durante licença médica em Pomerode e arquiva",
+   "description": "Inquérito apurou que a servidora Maria Carolina Mestre Vilaça exercia comércio durante licença médica. Ilegalidade comprovada, mas legislação sancionadora foi revogada. Servidora demitida. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 12,
+   "keep": true,
+   "title": "MP apura omissão de prefeitura em publicar relatório de viagens em Pomerode e arquiva",
+   "description": "Inquérito apurou descumprimento da Lei Municipal 2.939/2017 sobre publicação de relatório de viagens. Recomendação acatada. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 13,
+   "keep": true,
+   "title": "MP apura conflito de interesse de engenheiro em Pomerode e caso prescreve",
+   "description": "Inquérito apurou que o engenheiro Cláudio Marcos Krueger atuou como responsável técnico e parecerista no mesmo processo. Irregularidade pontual, caso prescrito.",
+   "status": "⚫ prescrito",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 14,
+   "keep": true,
+   "title": "MP apura escola que não retornou às aulas presenciais em Pomerode e arquiva",
+   "description": "Inquérito apurou descumprimento do retorno obrigatório às aulas presenciais em 2021. O MP concluiu que fragilidades estruturais inviabilizavam o retorno seguro. Improbidade não caracterizada. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 15,
+   "keep": true,
+   "title": "MP apura licitação para obras no CEI Damaris Frahm em Pomerode e arquiva",
+   "description": "Inquérito apurou falta de fiscalização no primeiro contrato e segunda licitação homologada um dia após a inauguração. Sem indícios de fraude ou prejuízo ao erário. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 16,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 17,
+   "keep": true,
+   "title": "MP apura prestação de contas da 32ª Festa Pomerana e caso é arquivado",
+   "description": "Inquérito apurou irregularidade na prestação de contas da Festa Pomerana 2015 e desproporção entre receita e lucro. Análises técnicas e contábeis concluíram pela regularidade. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 18,
+   "keep": true,
+   "title": "MP apura assessores que não cumpriam jornada na Câmara de Pomerode e arquiva",
+   "description": "Inquérito apurou descumprimento de jornada de Assessor Parlamentar Especial e Assessor de Comunicação sem compensação. Situação regularizada com compensação e descontos. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 19,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 20,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 21,
+   "keep": true,
+   "title": "MP apura preterição de candidata a concurso em Pomerode e arquiva",
+   "description": "Inquérito apurou preterição de candidata aprovada para Arquiteto no Concurso 050/2022 por contratação de comissionado. Recomendação expedida e convocação realizada. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 22,
+   "keep": true,
+   "title": "MP apura vulnerabilidade a enchentes em Pomerode e arquiva após providências",
+   "description": "Inquérito fiscalizou a atualização do mapeamento de áreas de risco do CPRM (2012) e as providências municipais. Comprovada a adoção de medidas. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 23,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 24,
+   "keep": true,
+   "title": "MP apura uso irregular de slogan municipal em Pomerode e arquiva",
+   "description": "Procedimento apurou uso do slogan \"Sempre Alles gut\" em desacordo com Lei Municipal 74/1964. Recomendação expedida e acatada. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 25,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 26,
+   "keep": true,
+   "title": "MP apura transparência legislativa na Câmara de Pomerode e arquiva",
+   "description": "Inquérito apurou obrigação de divulgação de peças legislativas pela Câmara, conforme decisão do TCE/SC. Adequações realizadas. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 27,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 28,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 29,
+   "keep": true,
+   "title": "MP apura violação da Lei de Acesso à Informação pelo SAMAE em Pomerode e arquiva",
+   "description": "Inquérito apurou possível violação da LAI pelo SAMAE e pela empresa Kraft. Sem dolo específico. Conduta regularizada. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 30,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 31,
+   "keep": true,
+   "title": "MP apura temporariedade da Lei Orçamentária em Pomerode e arquiva",
+   "description": "Inquérito apurou irregularidade na Lei Orçamentária Anual (Projeto 2980/2022) com vigência temporária. Recomendação expedida para processos futuros. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 32,
+   "keep": true,
+   "title": "MP apura segurança na Festa Pomerana em Pomerode e arquiva",
+   "description": "Extrajudicial apurou irregularidade em contrato de segurança da Festa Pomerana 2023 com agentes em formação inferior à contratada. Licitações regulares e sem ilegalidade na execução. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 33,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 34,
+   "keep": true,
+   "title": "MP apura mau cheiro de indústria em Pomerode e arquiva após regularização",
+   "description": "Inquérito acompanhou medidas da GMI Brasil para sanar mau cheiro. Vistorias confirmaram medidas adotadas e Autorização Ambiental concedida. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 35,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 36,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 37,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 38,
+   "keep": true,
+   "title": "MP acompanha pavimentação na Rua Ernst Klemann em Pomerode",
+   "description": "Procedimento acompanhou medidas de infraestrutura para minimizar poluição de caminhões na Rua Ernst Klemann. Pavimentação e drenagem concluídas. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 39,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 40,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 41,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 42,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 43,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 44,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 45,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 46,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 47,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 48,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 49,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 50,
+   "keep": true,
+   "title": "MP apura edificação com possível irregularidade em Pomerode e arquiva",
+   "description": "Inquérito apurou a regularidade do projeto de edificação na Rua Augusto B.H. Geisler. MP concluiu que a interpretação normativa cabe à municipalidade. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 51,
+   "keep": true,
+   "title": "MP firma TAC com Pomerode para Plano de Rotas Acessíveis",
+   "description": "Inquérito identificou condições de acessibilidade das calçadas. Celebrado TAC para implementação do Plano de Rotas Acessíveis ao Plano Diretor. Perda do objeto. Caso arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 52,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 53,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 54,
+   "keep": true,
+   "title": "MP apura edificação na Avenida 21 de Janeiro em Pomerode e arquiva",
+   "description": "Inquérito apurou irregularidade em construção na esquina da Avenida 21 de Janeiro com Rua Hermann Schwanke. Parecer técnico inconclusivo e Plano Diretor em revisão. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 55,
+   "keep": true,
+   "title": "MP apura decretos municipais com violação à impessoalidade em Pomerode",
+   "description": "Inquérito apurou violação à impessoalidade por decretos municipais. Recomendação acatada. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 56,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 57,
+   "keep": true,
+   "title": "MP apura riscos de enchentes em Pomerode e arquiva após providências",
+   "description": "Inquérito promoveu atualização do mapeamento de áreas de risco do CPRM de 2012. Providências adotadas comprovadas. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 58,
+   "keep": true,
+   "title": "MP apura uso irregular de slogan municipal em Pomerode e arquiva",
+   "description": "Procedimento apurou uso do slogan \"Sempre Alles gut\" em desacordo com Lei Municipal 74/1964. Recomendação expedida e acatada. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 59,
+   "keep": true,
+   "title": "MP apura falta de inspeção sanitária em Pomerode e arquiva",
+   "description": "Procedimento apurou falta de inspeção sanitária por ausência de veterinário. Estabelecimentos inspecionados e irregularidades corrigidas. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 60,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 61,
+   "keep": true,
+   "title": "MP apura irregularidades em almoxarifado de Pomerode e arquiva",
+   "description": "Inquérito apurou irregularidades no almoxarifado municipal. Estrutura física adaptada e sistemas de controle implantados. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 62,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 63,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 64,
+   "keep": true,
+   "title": "MP apura adicional de periculosidade irregular em GETRAN de Pomerode",
+   "description": "Inquérito apurou pagamento irregular de adicional de periculosidade na GETRAN por ausência de fiscalização de uso de veículos. Recomendação acatada e situação regularizada. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 65,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 66,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 67,
+   "keep": true,
+   "title": "MP apura infração ambiental de empresa em Pomerode e arquiva",
+   "description": "Inquérito apurou infração da Transportes e Madeiras Just Ltda. Empresa obteve LAO, CRA e PRAD com medidas mitigatórias. Peças encaminhadas à polícia para eventual crime ambiental. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 68,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 69,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 70,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 71,
+   "keep": true,
+   "title": "MP apura danos ambientais em Pomerode e arquiva após cumprimento de PRAD",
+   "description": "Inquérito apurou danos ambientais (IP 0000415-62.2015.8.24.0050). PRAD aprovado e executado com acompanhamento do órgão competente. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 72,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 73,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 74,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 75,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 76,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 77,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 78,
+   "keep": true,
+   "title": "MP apura ausência de plantão em creches de Pomerode e arquiva após regularização",
+   "description": "Procedimento apurou falta de plantão nos CEIs durante recesso escolar (janeiro e julho). Conduta irregular constatada. Recomendação expedida e acatada. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 79,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 80,
+   "keep": true,
+   "title": "MP apura irregularidades e maus-tratos em creche de Pomerode e arquiva",
+   "description": "Inquérito apurou irregularidades estruturais, higiênico-sanitárias e maus-tratos na Creche Tia Arleni. Convênio encerrado e situação regularizada. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 81,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 82,
+   "keep": true,
+   "title": "MP apura participação de empresa em evento em Pomerode e arquiva",
+   "description": "Inquérito apurou regularidade da participação da empresa Pommern Haus no evento Pommern Markt. Empresa enquadrada no Acordo de Cooperação 02/2020. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 83,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 84,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 85,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 86,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 87,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 88,
+   "keep": true,
+   "title": "MP firma TAC com Pomerode por acessibilidade de unidade de saúde",
+   "description": "Inquérito apurou acessibilidade da USF Horst Wilhelm Bernhard. Celebrado TAC. Perda do objeto. Caso arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 89,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 90,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 91,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 92,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 93,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 94,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 95,
+   "keep": true,
+   "title": "MP apura qualidade de pavimentação em vias de Pomerode e arquiva",
+   "description": "Inquérito apurou precariedade na pavimentação de ruas em Pomerode. Município comprovou condições seguras com sinalização. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 96,
+   "keep": true,
+   "title": "MP apura edificação na Rua Fritz Wachholz em Pomerode e arquiva",
+   "description": "Inquérito analisou regularidade de projeto na Rua Fritz Wachholz esquina com Rua Luiz Abry. Projeto alterado e situação regularizada. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 97,
+   "keep": true,
+   "title": "MP apura demanda de saúde em Pomerode e arquiva",
+   "description": "Procedimento apurou demanda de saúde. Município comprovou atendimento. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 98,
+   "keep": true,
+   "title": "MP apura servidor e TAC com construtora em Pomerode e arquiva",
+   "description": "Inquérito apurou conduta do engenheiro Cláudio Marcos Krueger que aprovou projeto contrariando lei municipal, gerando TAC 002/2021 entre município e Findeis Construtora. Justificativas aceitas, sem dolo. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 99,
+   "keep": true,
+   "title": "MP encerra TAC com Pomerode e AGIR após cumprimento de metas",
+   "description": "TAC firmado com Município de Pomerode e AGIR atingiu objetivos. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 100,
+   "keep": true,
+   "title": "MP apura ampliação de parque fabril sem alvará em Pomerode e arquiva",
+   "description": "Procedimento apurou suposta ampliação fabril da Hitech Etiquetas sem alvará. Comprovada a expedição de alvará e cumprimento da LAO. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 101,
+   "keep": true,
+   "title": "MP apura irregularidades sanitárias e ambientais em frigorífico em Pomerode",
+   "description": "Inquérito apurou irregularidades da Frigorífico Rahn (Frigo Frios Qualycarne). Irregularidades cumpridas. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 102,
+   "keep": true,
+   "title": "MP apura edificação na Rua XV de Novembro em Pomerode e arquiva",
+   "description": "Inquérito analisou projeto de edificação multifamiliar na Rua XV de Novembro. Sem dúvida de interpretação normativa. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 103,
+   "keep": true,
+   "title": "MP apura edificação na Rua Hermann Weege em Pomerode e arquiva",
+   "description": "Inquérito analisou projeto na Rua Hermann Weege esquina com Bandeirantes. Sem dúvida de interpretação normativa. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 104,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 105,
+   "keep": true,
+   "title": "MP acompanha ações da prefeitura durante pandemia em Pomerode e arquiva",
+   "description": "Inquérito acompanhou ações municipais na pandemia de COVID-19. Pandemia superada e fiscalizações regulares realizadas. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 106,
+   "keep": true,
+   "title": "MP apura omissão na fiscalização de esgoto em Pomerode e arquiva",
+   "description": "Inquérito apurou omissão na fiscalização de esgoto na Rua dos Atiradores. Fiscalização realizada e situação regularizada. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 107,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 108,
+   "keep": true,
+   "title": "MP apura ressarcimento de valores pagos a servidor em Pomerode e arquiva",
+   "description": "Inquérito apurou medida para ressarcimento de valores pagos irregularmente ao ex-servidor Luiz Carlos Carneiro dos Santos. PAD concluído determinando ressarcimento. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 109,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 110,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 111,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 112,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 113,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 114,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 115,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 116,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 117,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 118,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 119,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 120,
+   "keep": true,
+   "title": "MP apura ilegalidade de resolução do FAP de Pomerode e arquiva",
+   "description": "Procedimento apurou ilegalidade na Resolução 3.796/2025 do FAP que exigia perícia para isenção de IR por doença grave. Recomendação expedida e dispositivos revogados. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 121,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 122,
+   "keep": true,
+   "title": "MP apura informações equivocadas em Pomerode e arquiva",
+   "description": "Procedimento apurou atraso e erros em informações sobre guarda de documentos do Decreto 4.481/2024. Inserido em investigação mais ampla (IC 06.2026.00002352-5). Duplicidade evitada. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 123,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 124,
+   "keep": true,
+   "title": "MP apura medidas de mitigação de impactos urbanos em Pomerode e arquiva",
+   "description": "Inquérito apurou necessidade de mitigar impactos de grandes empreendimentos. Alterações legislativas e novo Plano Diretor aprovado com medidas mitigatórias. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 125,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 126,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 127,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 128,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 129,
+   "keep": true,
+   "title": "MP apura irregularidade em produto alimentício em Pomerode e arquiva",
+   "description": "Procedimento apurou uso de Metabissulfito de Sódio acima do permitido em palmito da Grutzmacher Alimentos. Situação regular. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 130,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 131,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 132,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 133,
+   "keep": true,
+   "title": "MP apura edificação na Rua Luiz Abry em Pomerode e arquiva",
+   "description": "Inquérito apurou regularidade de projeto na Rua Luiz Abry esquina com Dr. Blumenau. Interpretação cabe à municipalidade. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 134,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 135,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 136,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 137,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 138,
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 139,
+   "keep": true,
+   "title": "MP apura atuação de enfermagem em hospital de Pomerode e arquiva",
+   "description": "Procedimento apurou ilegalidade na atuação de profissionais de enfermagem do Hospital e Maternidade Rio do Testo. Ausência de ilegalidade. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media",
+   "tipo": "mp"
+  },
+  {
+   "i": 140,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 141,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC com Hornburg para regularizar parcelamento irregular de solo em Pomerode",
+   "description": "O Ministério Público apurou parcelamento irregular de solo em imóvel de Ercilia Hornburg e espólio de Ingo Hornburg em Pomerode. Formalizado Termo de Ajustamento de Conduta, o caso foi arquivado por desnecessidade de outras providências.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 142,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 143,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre uso ilegal de imóvel do SAMAE de Pomerode após regularização",
+   "description": "O Ministério Público apurou a utilização ilegal de imóvel público do SAMAE de Pomerode para reflorestamento de pinus, construção de residência particular e retenção de águas sem outorga, envolvendo a ACAPRENA, Sérgio Novais e o SAMAE. Realizadas as diligências, as situações foram regularizadas e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 144,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 145,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre cassação de registro do Grupo Escoteiro Pomerano após revogação de resolução do CMDCA",
+   "description": "O Ministério Público apurou irregularidades envolvendo o Grupo Escoteiro Pomerano e o Conselho Municipal dos Direitos da Criança e do Adolescente (CMDCA) de Pomerode. A Resolução do CMDCA que cassara o registro do grupo escoteiro foi revogada e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 146,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 147,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração contra Clínica Brasil de Optometria em Pomerode após constatar regularidade",
+   "description": "O Ministério Público apurou possíveis práticas ilegais da Clínica Brasil de Optometria e Beatriz Lopes Silva por infração a decretos que regulamentam a optometria. Comprovada a não abusividade das práticas apuradas, o procedimento foi arquivado por ausência de elementos para ACP.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 148,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre créditos de transporte coletivo da Volkmann em Pomerode após adequação",
+   "description": "O Ministério Público apurou ausência de informação clara sobre limitação temporal de créditos de transporte coletivo pela Empresa de Transporte Coletivo Volkmann. Após adequação da política interna e ampla divulgação com prazo adicional aos consumidores, o caso foi arquivado por ausência de elementos para ACP.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 149,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  }
+ ],
+ "tce": [
+  {
+   "i": 0,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta"
+  },
+  {
+   "i": 1,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multa prefeito Ércio Kriek por irregularidades em pavimentação asfáltica em Pomerode",
+   "description": "O TCE julgou parcialmente procedente representação sobre obras de pavimentação asfáltica contratadas pela Prefeitura de Pomerode com a empresa Eco Soil. O prefeito Ércio Kriek foi multado em R$ 842,33 por não atendimento a diligência e em multas por irregularidades na contratação.",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta"
+  },
+  {
+   "i": 2,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE julga improcedente representação sobre pregão de trator agrícola em Pomerode",
+   "description": "O TCE julgou improcedente representação sobre suposta irregularidade no Pregão Eletrônico n. 021/2021 para aquisição de trator agrícola pela Prefeitura de Pomerode, que supostamente restringia a participação a apenas uma marca. O TCE recomendou aprimoramento nas pesquisas de mercado e arquivou o processo.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 3,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 4,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 5,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 6,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 7,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multa engenheiro por irregularidades em reforma de centro de educação infantil em Pomerode",
+   "description": "O TCE julgou procedente representação sobre irregularidades na execução de reforma no telhado e reforma completa do Centro de Educação Infantil Damaris Frahm, contratada pela Prefeitura de Pomerode. Foram constatadas liquidação indevida de itens, execução em desacordo com projeto e projeto básico incompleto. O engenheiro André Luis Amorim foi multado em R$ 1.684,66.",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta"
+  },
+  {
+   "i": 8,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva representação sobre inexigibilidades de licitação em Pomerode sem analisar o mérito",
+   "description": "O TCE arquivou representação sobre supostas irregularidades nas Inexigibilidades de Licitação ns. 7/2020 e 1/2021 de Pomerode por não atingimento do percentual mínimo da Matriz de Seletividade, sem análise do mérito.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 9,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva representação sobre chamamentos públicos da Festa Pomerana sem analisar o mérito",
+   "description": "O TCE arquivou representação sobre supostas irregularidades nos Editais de Chamamento Público para patrocínio da Festa Pomerana, por não atingimento da pontuação mínima na seletividade. O TCE recomendou maior transparência e publicidade nos editais.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 10,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE suspende contrato de R$ 12,6 milhões de serviços advocatícios da Prefeitura de Pomerode",
+   "description": "O TCE concedeu medida cautelar de sustação de todos os atos vinculados ao Contrato n. 49/2024, firmado pela Prefeitura de Pomerode com o escritório Monteiro e Monteiro Advogados Associados para serviços jurídicos de inclusão no rol de distribuição de royalties de petróleo, no valor de R$ 12,6 milhões. O objeto do contrato não apresentava singularidade, descaracterizando a inexigibilidade de licitação.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "alta"
+  },
+  {
+   "i": 11,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟠 cautelar / sustação",
+   "severity": "alta"
+  },
+  {
+   "i": 12,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE não conhece denúncia sobre redução de carga horária em Pomerode por seletividade",
+   "description": "O TCE não conheceu denúncia sobre possíveis irregularidades na redução de carga horária na Prefeitura de Pomerode, pois a demanda não alcançou a pontuação mínima da análise de seletividade. O processo foi arquivado sem análise de mérito.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 13,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva apuração sobre concorrência de engenharia em Pomerode sem julgar o mérito",
+   "description": "O TCE arquivou Procedimento Apuratório Preliminar sobre supostas irregularidades na Concorrência n. 013/2022 para contratação de empresa de engenharia em Pomerode, por não atingimento dos critérios de seletividade, sem análise do mérito.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 14,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta irregularidades na transparência de gastos com educação em Pomerode",
+   "description": "O TCE julgou procedente representação sobre irregularidades na operacionalização do Fundo de Manutenção e Desenvolvimento da Educação em Pomerode. Recomendou ao município que observe as regras de transparência dos gastos públicos, especialmente na educação, e determinou o arquivamento.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "alta"
+  },
+  {
+   "i": 15,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE suspende cautelarmente pregão eletrônico de Pomerode por uso de plataforma de licitante",
+   "description": "O TCE concedeu medida cautelar suspendendo o Pregão Eletrônico n. 40/2025 de Pomerode, por irregularidade na utilização da plataforma elicita.atende.net de propriedade da empresa IPM Sistemas Ltda., que participou como licitante, em afronta aos princípios da legalidade e moralidade.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "alta"
+  },
+  {
+   "i": 16,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟠 cautelar / sustação",
+   "severity": "alta"
+  },
+  {
+   "i": 17,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta"
+  },
+  {
+   "i": 18,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE julga improcedente representação sobre leilão público em Pomerode",
+   "description": "O TCE julgou improcedente representação sobre supostas irregularidades no Leilão Público n. 01/2021 para venda de bens móveis inservíveis de Pomerode. O processo foi arquivado.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 19,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE investiga possíveis irregularidades em desapropriações em Pomerode",
+   "description": "O TCE conheceu representação sobre possíveis irregularidades em desapropriações efetuadas pela Prefeitura de Pomerode e determinou o prosseguimento da análise pela Diretoria de Contas de Gestão.",
+   "status": "🟡 em instrução (citação/audiência)",
+   "severity": "media"
+  },
+  {
+   "i": 20,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva representação sobre pagamento de férias a Rafael Ramthun em Pomerode após correção",
+   "description": "O TCE conheceu representação sobre irregularidades no pagamento de férias e gratificação natalina a Rafael Ramthun, prefeito de Pomerode. Considerando que houve a correção da irregularidade, determinou o arquivamento. Também determinou a instauração de procedimento para revisão do Prejulgado n. 2196 sobre o tema.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 21,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "⬛ julgado irregular",
+   "severity": "media"
+  },
+  {
+   "i": 22,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva apuração sobre contratação da Fundação EZUTE para saneamento em Pomerode sem análise de mérito",
+   "description": "O TCE arquivou Procedimento Apuratório Preliminar sobre supostas irregularidades na contratação direta da Fundação EZUTE pelo Município de Pomerode para estruturação da concessão do serviço de saneamento básico, por não atendimento das condições de seletividade.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 23,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta"
+  },
+  {
+   "i": 24,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 25,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 26,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva apuração sobre acumulação indevida de cargo em Pomerode sem analisar o mérito",
+   "description": "O TCE arquivou Procedimento Apuratório Preliminar sobre suposta acumulação indevida de cargo envolvendo Franklin Carlos Zummach em Pomerode, por não atendimento das condições prévias para análise da seletividade, sem julgamento do mérito.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 27,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "⬛ julgado irregular",
+   "severity": "media"
+  },
+  {
+   "i": 28,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE mantém multas a Ércio Kriek em recurso sobre pavimentação asfáltica em Pomerode",
+   "description": "O TCE negou provimento a recurso e manteve as multas aplicadas ao prefeito Ércio Kriek por irregularidades na contratação de pavimentação asfáltica em Pomerode (Processo REP 19/00826159).",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta"
+  },
+  {
+   "i": 29,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta"
+  },
+  {
+   "i": 30,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE reconhece prescrição e cancela multa aplicada a Paulo Maurício Pizzolatti em Pomerode",
+   "description": "O TCE reconheceu de ofício a prescrição da pretensão punitiva e cancelou multa aplicada a Paulo Maurício Pizzolatti por irregularidades em auditoria no município de Pomerode.",
+   "status": "⚫ prescrito",
+   "severity": "media"
+  },
+  {
+   "i": 31,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE dá provimento a recurso e cancela multa de Ércio Kriek sobre auditoria de trânsito em Pomerode",
+   "description": "O TCE deu provimento ao Recurso de Reexame interposto por Ércio Kriek contra decisão sobre auditoria na contratação de sistema de monitoramento fotoeletrônico em Pomerode, cancelando multa anteriormente aplicada.",
+   "status": "⬛ julgado irregular",
+   "severity": "media"
+  },
+  {
+   "i": 32,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE considera regular o cumprimento de metas do Plano Municipal de Educação de Pomerode",
+   "description": "O TCE realizou inspeção sobre o cumprimento das Metas 18 e 19 do Plano Municipal de Educação de Pomerode e considerou regular o seu objeto. O município demonstrou o cumprimento das metas e o processo foi arquivado.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 33,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 34,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta irregularidades em contratação de monitoramento eletrônico em Pomerode e aplica multas",
+   "description": "O TCE julgou irregular a contratação de serviços de locação, instalação e manutenção de sistema de monitoramento fotoeletrônico em Pomerode (Contratos ns. 007/2013 e 052/2017). Foram aplicadas multas aos responsáveis por ausência de estudo técnico, projeto básico incompleto e falta de demonstrativos de eficácia dos equipamentos.",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta"
+  },
+  {
+   "i": 35,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 36,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 37,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 38,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 39,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE mantém suspensão de contrato milionário de advocacia em Pomerode após recurso",
+   "description": "O TCE negou provimento a Embargos de Declaração contra a decisão que suspendeu cautelarmente o Contrato n. 49/2024 da Prefeitura de Pomerode com o escritório Monteiro e Monteiro Advogados Associados, no valor de R$ 12,6 milhões, mantendo integralmente a deliberação que sustou o contrato.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "alta"
+  },
+  {
+   "i": 40,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 41,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 42,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 43,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 44,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 45,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 46,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 47,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  }
+ ]
+}

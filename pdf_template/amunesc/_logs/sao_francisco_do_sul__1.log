@@ -1,0 +1,168 @@
+[0m
+> build · gpt-5.4-mini
+[0m
+[0m# [0mTodos
+[•] Ler CURADORIA.md e entender critérios obrigatórios
+[ ] Analisar lote sao_francisco_do_sul__1.json e suas fontes
+[ ] Gravar lote curado 1 em pdf_template/amunesc/_lotes_curados
+[ ] Analisar lote sao_francisco_do_sul__2.json e suas fontes
+[ ] Gravar lote curado 2 em pdf_template/amunesc/_lotes_curados
+[ ] Analisar lote sao_francisco_do_sul__3.json e suas fontes
+[ ] Gravar lote curado 3 em pdf_template/amunesc/_lotes_curados
+[ ] Reportar contagens finais por lote
+[0m
+[0m✱ [0mGlob "pdf_template/amunesc/_lotes/sao_francisco_do_sul__*.json"[90m 11 matches[0m
+[0m✱ [0mGlob "pdf_template/CURADORIA.md"[90m 1 match[0m
+Vou ler o critério obrigatório e inspecionar os três lotes antes de julgar caso a caso.
+[0m→ [0mRead pdf_template/CURADORIA.md[90m [offset=1, limit=400][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes/sao_francisco_do_sul__2.json[90m [offset=1, limit=400][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes/sao_francisco_do_sul__1.json[90m [offset=1, limit=400][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes/sao_francisco_do_sul__3.json[90m [offset=1, limit=400][0m
+Já vi que há muitos casos vagos e vários instanciamentos; vou ler o restante dos lotes para identificar apenas os que realmente entram no dossiê e os que exigem cautela especial (TCE, TAC, prescrição, fases duplicadas).
+[0m→ [0mRead pdf_template/amunesc/_lotes/sao_francisco_do_sul__1.json[90m [offset=401, limit=400][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes/sao_francisco_do_sul__3.json[90m [offset=401, limit=400][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes/sao_francisco_do_sul__2.json[90m [offset=401, limit=400][0m
+Vou consolidar as decisões e depois gravar cada lote já curado, mantendo a ordem original e cortando só o que é vago, duplicado ou de outro município.
+[0m✱ [0mGlob "pdf_template/amunesc/_lotes_curados"[90m in . · 0 matches[0m
+[0m✱ [0mGlob "pdf_template/amunesc/_lotes_curados/*.json"[90m 21 matches[0m
+Vou gravar os três lotes curados agora, com `keep:false` nos casos vagos ou duplicados e `keep:true` só onde a fonte sustenta um card.
+[0m
+[0m$ [0mpython3 - <<'PY'
+import json, os
+from pathlib import Path
+
+base = Path('/Users/jairofortunato/mp/pdf_template/amunesc/_lotes')
+outdir = Path('/Users/jairofortunato/mp/pdf_template/amunesc/_lotes_curados')
+outdir.mkdir(parents=True, exist_ok=True)
+
+common_false = {"keep": False, "title": "", "description": "", "status": "", "severity": ""}
+
+lot1 = {
+71: {"keep": True, "title": "Câmara de São Francisco do Sul cumpre exigências de transparência", "description": "A Câmara de Vereadores apresentou comprovação complementar e mostrou melhora no índice de transparência. O Ministério Público concluiu que as obrigações pactuadas foram cumpridas e pediu o arquivamento. O caso foi encerrado sem apontar irregularidade atual.", "status": "🟢 arquivado", "severity": "media"},
+76: {"keep": True, "title": "MP arquiva apuração sobre obra em APP urbana no Bairro Reta", "description": "O inquérito apurava suposta irregularidade em edificação em Área de Preservação Permanente. Parecer técnico e vistoria municipal apontaram inexistência de curso hídrico ou nascente na área. Sem passivo ambiental, o caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+78: {"keep": True, "title": "Diárias da Câmara foram pagas regularmente e caso é arquivado", "description": "A apuração sobre diárias pagas pela Câmara de Vereadores terminou sem prova dos fatos narrados. O MP concluiu que as concessões eram regulares. O procedimento foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+83: {"keep": True, "title": "MP arquiva denúncia sobre chamamento de aprovados no concurso", "description": "A notícia de fato apurava a ordem de chamamento dos aprovados no concurso público da prefeitura. O órgão concluiu que faltava lastro probatório e que a convocação foi regular. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+84: {"keep": True, "title": "Prefeitura tem convocação de concursados considerada regular", "description": "A apuração sobre a ordem de chamamento dos candidatos do concurso 001/2023 foi encerrada. O Ministério Público disse que os fatos já tinham sido investigados e não havia irregularidade. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+85: {"keep": True, "title": "Empreiteira é inocentada em apuração sobre pavimentação asfáltica", "description": "O inquérito tratava de suposto descumprimento contratual numa obra de pavimentação. A análise técnica apontou regularidade e afastou responsabilidade por danos. O MP promoveu o arquivamento.", "status": "🟢 arquivado", "severity": "media"},
+86: {"keep": True, "title": "MP descarta nepotismo na contratação de estagiária de enfermagem", "description": "A investigação mirava a contratação de Priscila Francyne da Silva Nunes, esposa do secretário de administração. O texto registra falta de provas mínimas de ato doloso e de dano ao erário. O procedimento foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+87: {"keep": True, "title": "MP arquiva acusação de poluição na represa Rio Olaria", "description": "A notícia de fato apurava possível dano ambiental atribuído à empresa Águas de São Francisco do Sul e ao Município. As informações da Secretaria do Meio Ambiente não apontaram responsabilidade da companhia. O caso foi indeferido e arquivado.", "status": "🟢 arquivado", "severity": "media"},
+88: {"keep": True, "title": "Município responde pedidos e MP arquiva apuração ambiental", "description": "A notícia de fato tratava de possível dano ambiental e de suposta omissão em prestar informações. Os processos nas secretarias foram respondidos e a apuração sobre a omissão foi encerrada. O trecho informa arquivamento, com o outro tema já em procedimento próprio.", "status": "🟢 arquivado", "severity": "media"},
+89: {"keep": True, "title": "MP vê licitação 06/2024 dentro da lei e arquiva denúncia", "description": "A representação alegava dispensa indevida de licitação e irregularidade fiscal da contratada. O Ministério Público concluiu que o valor atendia à Lei 14.133/21 e não havia indícios de irregularidade. O caso foi indeferido e arquivado.", "status": "🟢 arquivado", "severity": "media"},
+94: {"keep": True, "title": "Drenagem pluvial da Rua Melborne é resolvida e caso é arquivado", "description": "A apuração tratava de suposta deficiência na drenagem pluvial da Rua Melborne, no Ubatuba. O texto informa que a situação foi solucionada. O procedimento foi indeferido e arquivado.", "status": "🟢 arquivado", "severity": "media"},
+95: {"keep": True, "title": "Poluição sonora é contida e MP arquiva apuração", "description": "O procedimento apurava possível poluição sonora de estabelecimento comercial. A vistoria municipal não constatou irregularidade no momento da fiscalização e houve medida preventiva. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+98: {"keep": True, "title": "Terminal Graneleiro não teve improbidade comprovada", "description": "A investigação sobre supostos atos de improbidade no uso do Terminal Graneleiro terminou sem provas de irregularidades. O MP registrou ausência de elementos para configurar ato ímprobo. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+103: {"keep": True, "title": "MP arquiva denúncia sobre convocação de professora especializada", "description": "A notícia de fato apurava a convocação de candidata para professor de educação especial sem observar requisitos do edital. O denunciante não foi encontrado para novos esclarecimentos e o MP indeferiu a investigação. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+108: {"keep": True, "title": "MP arquiva apuração sobre excesso de comissionados na Câmara", "description": "A apuração mirava suposto excesso de servidores comissionados no quadro da Câmara de Vereadores. O texto diz que havia outros procedimentos correlatos e que não existia fundamento para ação judicial. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+110: {"keep": True, "title": "Convênios com sindicato dos servidores não indicam irregularidade", "description": "O inquérito apurava falta de repasses de convênios entre o Executivo e o sindicato dos servidores. O MP apontou falta de prova e ausência de irregularidades. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+111: {"keep": True, "title": "MP declara prescrito caso de contratações sem licitação no hospital", "description": "A apuração sobre contratações irregulares no Hospital e Maternidade Municipal terminou com reconhecimento de prescrição. O texto ainda menciona ausência de indícios de dolo. O caso foi arquivado como prescrito.", "status": "⚫ prescrito", "severity": "media"},
+112: {"keep": True, "title": "MP arquiva suspeita de conflito de interesses no Meio Ambiente", "description": "A notícia de fato apurava possível conflito de interesses na atuação de Renan da Silva Canuto como secretário de Meio Ambiente. O texto registra ausência de direcionamento, dolo específico e materialidade. O procedimento foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+113: {"keep": True, "title": "Resposta do município e da Águas encerra apuração sobre protocolos", "description": "A apuração tratava de suposta omissão na resposta a protocolos e solicitação administrativa. Os órgãos prestaram os esclarecimentos e o MP não viu lesão a direito tutelado. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+116: {"keep": True, "title": "Edital do processo seletivo é mantido e caso é arquivado", "description": "A denúncia dizia que o edital 008/2023 da Educação teria prorrogado contratos de ACTs de forma irregular. O Ministério Público concluiu que não havia irregularidade e que a gestão tinha discricionariedade. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+117: {"keep": True, "title": "Publicidade do seletivo emergencial 003/2024 não teve irregularidade", "description": "A apuração questionava a divulgação do processo seletivo simplificado emergencial. O MP afirmou que não houve prova de irregularidade e que as queixas eram meras insatisfações. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+119: {"keep": True, "title": "Concurso 001/2024 é considerado regular pelo MP", "description": "A notícia de fato apontava possível descumprimento da lei estadual no edital do concurso público. O Ministério Público concluiu pela ausência de irregularidade e indeferiu a instauração do inquérito civil. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+120: {"keep": True, "title": "MP arquiva denúncia de abuso de poder em CMEI", "description": "A apuração tratava de conduta da diretora do CMEI Cantinho Alegre e de suposto abuso de poder contra servidora. A Secretaria de Educação apurou os fatos e o MP não viu base para intervenção. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+122: {"keep": True, "title": "Descarte de resíduos de construção civil é regularizado", "description": "O procedimento preparatório apurava descarte incorreto de resíduos de construção civil em trecho urbano do município. A situação acabou resolvida na via administrativa. O MP promoveu o arquivamento.", "status": "🟢 arquivado", "severity": "media"},
+128: {"keep": True, "title": "MP não encontra diárias irregulares em fim de mandato", "description": "A notícia de fato apurava eventuais diárias recebidas por vereadores e a finalidade das viagens após as eleições de 2020. A pesquisa no Portal da Transparência não mostrou diárias no período e as viagens foram justificadas. O caso foi indeferido.", "status": "🟢 arquivado", "severity": "media"},
+131: {"keep": True, "title": "Corte de árvores na Enseada não gera dano ambiental", "description": "A apuração sobre suposta falta de consulta ao conselho ambiental e corte de árvores na Enseada concluiu que não houve dano ao meio ambiente. O texto registra ausência de irregularidades e de fundamento para ação civil pública. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+135: {"keep": True, "title": "MP encerra apuração sobre dano ambiental e aponta outras esferas", "description": "O procedimento tratava de dano ambiental e já havia apuração cível, criminal e administrativa paralela. O texto diz que não havia fundamento para nova ação civil pública ou TAC. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+139: {"keep": True, "title": "Fiscalização da saúde municipal não viola regra do CRM-SC", "description": "A apuração questionava a exigência de inscrição da Secretaria Municipal de Saúde no CRM-SC. O Ministério Público concluiu que não havia previsão legal para a exigência e não identificou violação a direitos difusos ou coletivos. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+}
+
+lot2 = {
+141: {"keep": True, "title": "Saúde firma TAC sobre listas de espera e encerra inquérito", "description": "O inquérito tratava da transparência nas listas de espera de consultas, exames e cirurgias. Houve assinatura de Termo de Ajustamento de Conduta. O procedimento foi arquivado após o TAC.", "status": "🟠 TAC firmado", "severity": "media"},
+142: {"keep": True, "title": "Conselho Municipal de Educação tem apuração arquivada", "description": "A notícia de fato apurava possíveis irregularidades no funcionamento do Conselho Municipal de Educação. O MP apontou falta de lastro probatório e disse que os fatos já estavam solucionados. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+146: {"keep": True, "title": "Porto de São Francisco do Sul vence apuração sobre licitação", "description": "A investigação mirava possível burla à competitividade da Licitação 28/2015 do porto. O objeto da licitação foi cumprido e não houve irregularidades demonstradas. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+154: {"keep": True, "title": "Município corrige contratações temporárias de advogado e MP arquiva", "description": "O procedimento apurava contratações temporárias para advogado. A recomendação expedida foi cumprida e candidatos aprovados em concurso foram nomeados. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+157: {"keep": True, "title": "LAM Terminal de Cargas fecha TAC para licenciamento ambiental", "description": "A apuração tratava do funcionamento irregular da empresa e da expedição de licença ambiental. Houve termo de ajustamento de conduta e o acordo foi cumprido. O inquérito foi arquivado.", "status": "🟠 TAC firmado", "severity": "media"},
+168: {"keep": True, "title": "Resposta do município afasta omissão em pedido de informação", "description": "A apuração sobre ausência de resposta a um processo administrativo terminou com a informação de que o município respondeu após provocação. O texto afirma que não houve lesão ou ameaça a direito tutelado. O caso foi encerrado.", "status": "🟢 arquivado", "severity": "media"},
+170: {"keep": True, "title": "Plano diretor é revisto com participação popular e caso é arquivado", "description": "O inquérito apurava a tramitação da revisão do Plano Diretor e a participação popular. A conclusão registrou que houve participação na fase do Executivo e que o projeto foi arquivado. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+171: {"keep": True, "title": "Seleção interna de professores perde objeto na Justiça", "description": "A apuração sobre irregularidade no edital de remoção terminou com perda do objeto porque a situação foi resolvida na esfera judicial. O MP arquivou o inquérito civil.", "status": "🟢 arquivado", "severity": "media"},
+174: {"keep": True, "title": "Resposta a pedido de informação afasta irregularidade", "description": "A notícia de fato questionava resposta ao Protocolo 21080/2022 e 38082/2022. O município respondeu após provocação e o MP não viu lesão a direito tutelado. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+175: {"keep": True, "title": "Município responde pedido de informação e caso é arquivado", "description": "A apuração sobre resposta ao Protocolo 14824/2022 terminou do mesmo modo: houve esclarecimentos e não restou lesão ou ameaça a direito. O procedimento foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+176: {"keep": True, "title": "Desapropriação para parque municipal não gera dano ao erário", "description": "O inquérito tratava de desapropriação de imóvel para parque municipal e uso de método de avaliação imobiliária. A conclusão afastou irregularidade, dolo e dano ao erário. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+177: {"keep": True, "title": "Evento de rodeio não chega a se realizar e MP arquiva caso", "description": "A notícia de fato apurava a regularidade de evento rural anunciado no bairro Tapera. A fiscalização no local não encontrou a realização do evento. O caso foi indeferido por ausência de justa causa.", "status": "🟢 arquivado", "severity": "media"},
+178: {"keep": True, "title": "Obra pública sem irregularidade comprovada é arquivada", "description": "A representação falava em irregularidades em obra pública. O Ministério Público concluiu pela falta de provas e pelo não esgotamento da via administrativa. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+179: {"keep": True, "title": "MP arquiva apuração sobre falta de resposta ao Processo 1400/2023", "description": "A notícia de fato apontava suposta violação ao direito de acesso à informação. Os esclarecimentos foram prestados e o MP concluiu que não havia lesão ou ameaça a direito. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+180: {"keep": True, "title": "Imóvel é reconhecido como urbano e apuração é arquivada", "description": "O inquérito analisava a situação de um imóvel em área urbana e a atuação da Secretaria de Meio Ambiente. A conclusão registrou que o imóvel era urbano desde o século XX. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+181: {"keep": True, "title": "Imóvel em área urbana leva procedimento a arquivamento", "description": "O procedimento preparatório concluiu que o imóvel de fato estava em área urbana desde o século XX. Com isso, o MP arquivou o caso.", "status": "🟢 arquivado", "severity": "media"},
+183: {"keep": True, "title": "Resposta ao protocolo afasta omissão da prefeitura", "description": "A notícia de fato apurava eventual omissão na resposta ao Protocolo 237/2020. O município respondeu após provocação ministerial e o representante não esgotou a via administrativa. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+184: {"keep": True, "title": "Resposta tardia ao processo 21105/2022 encerra apuração", "description": "A apuração sobre acesso à informação terminou com a resposta apresentada pelo município após provocação. O MP registrou ausência de lesão aos direitos tutelados. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+186: {"keep": True, "title": "Fiscalização encontra construções regulares em praias do Rocio Grande", "description": "A notícia de fato foi instaurada para apurar construções irregulares e danos ambientais nas praias Paum e do Lixo. A fiscalização não encontrou irregularidades e o MP apontou ausência de justa causa. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+187: {"keep": True, "title": "IMA dispensa licenciamento para sede no Parque Acaraí", "description": "O MP analisou a regularidade de processo do IMA para intervenção na zona de uso intensivo do Parque Estadual Acaraí. A conclusão foi de ausência de irregularidade e indeferimento da investigação. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+190: {"keep": True, "title": "MP arquiva caso de abuso de autoridade já apurado em outro procedimento", "description": "A notícia de fato tratava de suposto abuso de autoridade em desfavor de Ricardo Pibernat, mas o texto diz que os fatos já foram apurados em outro procedimento. O MP indeferiu a nova investigação. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+191: {"keep": True, "title": "Construção sobre via pública é regularizada e caso é arquivado", "description": "O inquérito apurava suposta construção sobre via pública. A situação foi consolidada, a via nunca chegou a ser instalada e a desafetação foi concluída. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+193: {"keep": True, "title": "Guardas portuários atuam conforme plano de segurança", "description": "A notícia de fato apurava abuso de autoridade envolvendo guardas portuários da SCPAR. O MP concluiu que a atuação era em conjunto com fuzileiros navais e obedecia ao plano de segurança portuária. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+195: {"keep": True, "title": "Escola municipal fecha TAC sobre construção irregular", "description": "A apuração tratava da instalação e construção da Escola Municipal João Germano Machado em área próxima ao IFC. Houve celebração de TAC e o inquérito foi arquivado. O texto informa ausência circunstancial de interesse de agir.", "status": "🟠 TAC firmado", "severity": "media"},
+196: {"keep": True, "title": "Concurso 001/2023 para educação segue a lei e MP arquiva", "description": "A notícia de fato apurava suposta irregularidade no edital do concurso público. O MP entendeu que não havia discrepância entre o edital e a lei municipal citada. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+202: {"keep": True, "title": "Abuso de autoridade em prisão é afastado após esclarecimento", "description": "A apuração sobre prisão conduzida por policial penal foi esclarecida e o texto aponta ausência de excesso ou abuso. O procedimento foi indeferido e arquivado.", "status": "🟢 arquivado", "severity": "media"},
+203: {"keep": True, "title": "Município cumpre sentença e caso do Dada Night Club é arquivado", "description": "O procedimento acompanhava o cumprimento de sentença ligada às obras do estabelecimento comercial Dada Night Club. A conclusão registrou ausência de irregularidades nas obras. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+204: {"keep": True, "title": "Obra na Rua Antônio Urbano da Fonseca não tem irregularidade comprovada", "description": "A notícia de fato apurava problemas na pedreira e barreira Mazinho. O MP concluiu que faltavam provas e indeferiu a investigação. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+205: {"keep": True, "title": "Omissão em protocolo é sanada e caso vai ao arquivo", "description": "A apuração sobre omissão na resposta ao Protocolo 2552/2023 foi encerrada após as informações serem prestadas. O MP registrou que a irregularidade foi sanada. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+207: {"keep": True, "title": "Fiscalização da Polícia Rodoviária é considerada regular", "description": "O inquérito apurava a regularidade da fiscalização feita pela secretaria municipal no posto da Polícia Rodoviária Estadual. O MP afirmou que não houve excesso e que as apreensões foram regulares. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+}
+
+lot3 = {
+213: {"keep": True, "title": "FG Saneamento é inocentada em denúncia de poeira no Ubatuba", "description": "A notícia de fato apurava suposta irregularidade no tráfego da empresa e o acúmulo de poeira em residências. A diligência em campo concluiu que a denúncia não condizia com a realidade. O caso foi indeferido por falta de provas.", "status": "🟢 arquivado", "severity": "media"},
+215: {"keep": True, "title": "Município responde protocolos e MP arquiva caso de omissão", "description": "A apuração questionava a resposta aos protocolos 2682/2023 e 2681/2023. O município prestou informações e o MP apontou ausência de irregularidades. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+216: {"keep": True, "title": "MP rejeita denúncia sobre resposta de protocolo sem ver irregularidade", "description": "A notícia de fato tratava de suposta omissão na resposta ao Protocolo 3972/2024. Como faltavam documentos para análise, o MP concluiu pela ausência de irregularidade. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+219: {"keep": True, "title": "Genitora não responde por omissão em caso de abuso da filha", "description": "A representação tentava enquadrar a mãe em infração administrativa por não comunicar autoridades sobre suposto abuso. O MP concluiu que a conduta não se enquadrava no ECA e que a mãe protegeu a filha. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+220: {"keep": True, "title": "Município responde protocolos e apuração é arquivada", "description": "A notícia de fato tratava de suposta omissão na resposta a protocolos administrativos. As informações foram prestadas pelo município e não houve irregularidade. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+223: {"keep": True, "title": "Conflito de interesses na Procuradoria não é comprovado", "description": "O procedimento apurava afastamento de advogada da Procuradoria e gratificação a advogado do IPRESF. O MP concluiu que as irregularidades não foram comprovadas. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+224: {"keep": True, "title": "Prisão de Ricardo Pibernat não revela abuso de autoridade", "description": "A apuração tratava de abuso de autoridade em prisão feita por policiais militares e civis. O texto diz que a situação dos militares já havia sido resolvida e que faltava justa causa para prosseguir. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+226: {"keep": True, "title": "Doações de cestas e peixe na pandemia não geram responsabilização", "description": "O inquérito analisava a destinação de cestas básicas e peixe doados ao município durante a pandemia. O MP não encontrou autoria da secretária nem conduta dolosa suficiente. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+228: {"keep": True, "title": "Drenagem da Rua Melborne é resolvida e apuração é arquivada", "description": "A notícia de fato apurava deficiência na drenagem pluvial da Rua Melborne. O texto informa que a situação foi solucionada. O caso foi indeferido e arquivado.", "status": "🟢 arquivado", "severity": "media"},
+230: {"keep": True, "title": "Resposta tardia ao protocolo afasta irregularidade", "description": "A apuração tratava de omissão na resposta ao protocolo 2145/2023. O protocolo foi respondido, ainda que tarde, e o MP não viu irregularidade. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+232: {"keep": True, "title": "Cobrança de taxas para alvará segue a lei e caso é arquivado", "description": "A notícia de fato apurava cobrança de taxas para emissão de alvará em desacordo com a Lei Complementar 123/13. O MP concluiu que não havia direito tutelado a proteger e arquivou o caso.", "status": "🟢 arquivado", "severity": "media"},
+233: {"keep": True, "title": "Escola municipal sem acessibilidade vira ação civil pública", "description": "O inquérito tratava de irregularidades de acessibilidade e outras instalações na Escola Municipal Dr. Rogério Zattar. O MP informou que já havia ajuizado ação civil pública com o mesmo objeto e encerrou este feito. Por envolver educação e acessibilidade em escola pública, o caso entra no dossiê como grave.", "status": "🟢 arquivado", "severity": "alta"},
+234: {"keep": True, "title": "Águas de São Francisco do Sul segue regulamento no hidrômetro", "description": "A apuração sobre instalação de hidrômetro e notificação dos moradores concluiu que a concessionária agiu de acordo com o regulamento municipal. O MP promoveu o arquivamento.", "status": "🟢 arquivado", "severity": "media"},
+237: {"keep": True, "title": "Empresa fecha TAC por desmatamento em São Francisco do Sul", "description": "A denúncia tratava de desmatamento em área de 3.000 m². Houve processos administrativos, compensação ambiental e termo de ajustamento de conduta cumprido integralmente. O inquérito foi arquivado.", "status": "🟠 TAC firmado", "severity": "media"},
+245: {"keep": True, "title": "Prefeitura regulariza descarte de entulho e MP arquiva caso", "description": "O procedimento apurava descarte irregular de resíduos de construção civil pelo município. A situação foi regularizada e o MP arquivou o inquérito.", "status": "🟢 arquivado", "severity": "media"},
+246: {"keep": True, "title": "Tanque de combustível sem licença é retirado e caso perde objeto", "description": "A apuração tratava da instalação de tanque de combustível sem licença ambiental. Com a retirada do equipamento, o processo perdeu o objeto e foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+248: {"keep": True, "title": "Loteamento antigo é considerado regular e caso é arquivado", "description": "O inquérito concluiu que não havia construções irregulares em loteamento aprovado em 1965 e nunca implantado. O texto afirma que faltavam fundamentos para ação judicial. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+268: {"keep": True, "title": "Descarte de medicamentos não gera prejuízo sanitário à coletividade", "description": "O Conselho Municipal de Saúde apurava irregularidades na aquisição e no descarte de medicamentos de 2019. A conclusão diz que não houve desabastecimento nem prejuízo à saúde da coletividade. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+269: {"keep": True, "title": "Galpão em Ubatuba é limpo e cercado após apuração", "description": "O procedimento preparatório tratava de descarte irregular de resíduos sólidos em galpão abandonado. A limpeza e o cercamento foram comprovados pela via administrativa. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+271: {"keep": True, "title": "Maus-tratos e insalubridade são resolvidos e caso é arquivado", "description": "A apuração mirava maus-tratos a animais domésticos e insalubridade por acúmulo de resíduos. O texto informa que a situação foi solucionada. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+272: {"keep": True, "title": "MP arquiva apuração sobre contrato da Orla da Enseada", "description": "A conclusão tratava de supostas ilegalidades na execução do Contrato 186/2023 da revitalização da Orla da Enseada. O Ministério Público não viu fundamento para ação judicial. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+276: {"keep": True, "title": "Boteco do Paraná não teve poluição sonora atual comprovada", "description": "A apuração concluiu que não havia poluição sonora atual e contemporânea no local. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+278: {"keep": True, "title": "Indevida negativa em concurso da E.E.B. Victor Konder não se sustenta", "description": "A notícia de fato apurava negativa de inscrição em processo seletivo para direção escolar. O noticiante não comprovou suas alegações e o MP indeferiu a investigação. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+}
+
+for name, keepmap in [
+    ('sao_francisco_do_sul__1.json', lot1),
+    ('sao_francisco_do_sul__2.json', lot2),
+    ('sao_francisco_do_sul__3.json', lot3),
+]:
+    data = json.loads((base / name).read_text())
+    out = []
+    for case in data['casos']:
+        item = {"i": case['i'], "tipo": case['tipo'], **common_false}
+        if case['i'] in keepmap:
+            item.update(keepmap[case['i']])
+        out.append(item)
+    (outdir / name).write_text(json.dumps(out, ensure_ascii=False, indent=2) + '\n')
+    print(name, len(out), sum(1 for x in out if x['keep']), sum(1 for x in out if x['severity'] == 'alta'))
+PY
+sao_francisco_do_sul__1.json 70 28 0
+sao_francisco_do_sul__2.json 70 30 0
+sao_francisco_do_sul__3.json 70 23 1
+[0m
+Os arquivos foram gravados. Vou validar rapidamente a estrutura e conferir se os contadores batem com o que saiu em cada lote.
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/sao_francisco_do_sul__1.json[90m [offset=1, limit=40][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/sao_francisco_do_sul__3.json[90m [offset=1, limit=40][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/sao_francisco_do_sul__2.json[90m [offset=1, limit=40][0m
+[0m
+[0m# [0mTodos
+[✓] Ler CURADORIA.md e entender critérios obrigatórios
+[✓] Analisar lote sao_francisco_do_sul__1.json e suas fontes
+[✓] Gravar lote curado 1 em pdf_template/amunesc/_lotes_curados
+[✓] Analisar lote sao_francisco_do_sul__2.json e suas fontes
+[✓] Gravar lote curado 2 em pdf_template/amunesc/_lotes_curados
+[✓] Analisar lote sao_francisco_do_sul__3.json e suas fontes
+[✓] Gravar lote curado 3 em pdf_template/amunesc/_lotes_curados
+[✓] Reportar contagens finais por lote
+[0m
+Arquivos gravados em `pdf_template/amunesc/_lotes_curados/`.
+
+- `sao_francisco_do_sul__1.json`: 70 casos, 28 `keep:true`, 0 `severity: alta`
+- `sao_francisco_do_sul__2.json`: 70 casos, 30 `keep:true`, 0 `severity: alta`
+- `sao_francisco_do_sul__3.json`: 70 casos, 23 `keep:true`, 1 `severity: alta`

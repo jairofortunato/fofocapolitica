@@ -163,6 +163,18 @@ def main():
             lacunas.append(f"{cidade}: página não encontrada")
             continue
 
+        # Parte das cidades (Mafra, p. ex.) não tem a infobox no corpo do artigo:
+        # o artigo só transclui `{{Info/Município do Brasil/<página>}}`, e os
+        # parâmetros ficam na subpágina de predefinição. Sem seguir a
+        # transclusão, o `param()` não acha nada e a cidade vira lacuna — mesmo
+        # com bandeira e brasão publicados na Wikipédia.
+        sub = re.search(r"\{\{\s*Info/Munic[íi]pio do Brasil/([^}|\n]+)\}\}", txt)
+        if sub and not param(txt, ["bandeira"]):
+            tmpl = wikitext("Predefinição:Info/Município do Brasil/" + sub.group(1).strip())
+            if tmpl:
+                print(f"   infobox transcluída: {sub.group(1).strip()}", flush=True)
+                txt = tmpl
+
         for kind, chaves in (("b", ["bandeira"]), ("e", [r"bras[ãa]o"])):
             fname = param(txt, chaves)
             if not fname:

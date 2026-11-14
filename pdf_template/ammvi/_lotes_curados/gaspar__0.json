@@ -1,0 +1,632 @@
+[
+ {
+  "i": 0,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP instaura inquérito civil contra vereadores de Gaspar",
+  "description": "O Ministério Público instaurou inquérito civil para apurar conduta de 12 vereadores da Câmara Municipal de Gaspar, incluindo Adao Marafigo de Figueiredo, Celso Xavier Schmitt e outros. O objeto da apuração não foi detalhado no extrato publicado. Caso encontra-se em fase de apuração.",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 1,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração sobre laboratório sem certificação INMETRO em Gaspar",
+  "description": "O inquérito civil apurou se o Laboratório Beckhauser e Barros Ltda. possuía certificação do INMETRO para atuar no Pregão Eletrônico n. 67/2023 da SAMAE de Gaspar. Restou demonstrado que o laboratório é acreditado desde 2014, não havendo fraude à licitação, improbidade administrativa ou dano ao erário. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 2,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração sobre Projeto de Lei de vereador de Gaspar",
+  "description": "O inquérito civil apurou se a aprovação do Projeto de Lei n. 09/2021 pelo vereador Cícero Giovane Amaro e pela Câmara Municipal de Gaspar violava a Constituição Federal ou configurava improbidade administrativa. Não foi comprovada qualquer violação constitucional ou ato ímprobo. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 3,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura irregularidades em obras de drenagem em Gaspar e arquiva após recomendação",
+  "description": "O inquérito civil investigou supostas irregularidades técnicas nas obras de drenagem nas Ruas Leopoldo Alberto Schramm e Frei Solano, no Bairro Gasparinho. O Município de Gaspar acatou a Recomendação n. 0001/2025/04PJ/GAS com medidas gerais e futuras. Não foram encontrados indícios de improbidade administrativa. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 4,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura desvio de função de servidora em Gaspar e arquiva após exoneração",
+  "description": "O inquérito civil apurou se a servidora pública Jéssica Machado, ocupante do cargo em comissão de Diretora de Associação de Moradores e Mutirão, analisou anteprojeto urbanístico para licenciamento de loteamento da empresa RVJ Construções Ltda. sem possuir atribuição para tanto. A servidora foi exonerada do cargo e a Recomendação foi cumprida pelo município. Não foram encontrados indícios de improbidade administrativa.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 5,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura dispensa de licitação na Câmara de Vereadores de Gaspar e arquiva",
+  "description": "O inquérito civil apurou suposta irregularidade na Dispensa de Licitação n. 01/2018 da Câmara Municipal de Vereadores de Gaspar para contratação de sistema de votação eletrônica e controle de sessões. O valor da contratação não ultrapassou 10% do limite para dispensa e não houve indicativos de direcionamento. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 6,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura regularização de declaração de bens por servidores em Gaspar e Ilhota",
+  "description": "O inquérito civil verificou a necessidade de adequação dos Municípios de Ilhota e Gaspar quanto à apresentação de declaração de bens e valores de servidores, conforme art. 13 da Lei de Improbidade Administrativa. Ambos os municípios comprovaram a regulamentação por meio de decretos. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 7,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura parecer irregular sobre descaracterização de curso d'água em Gaspar",
+  "description": "O inquérito civil apurou se houve improbidade administrativa na elaboração do \"Parecer para Descaracterização de Curso D'água\" por Raphael de Gasperi Xavier da Silva e Rafael Andrade Weber. Apesar dos indícios de violação ao princípio da legalidade, os investigados não praticaram condutas específicas da Lei de Improbidade Administrativa. Não houve dano ao erário. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 8,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura recebimento indevido de verba de representação por vereador de Gaspar",
+  "description": "O inquérito civil apurou se o vereador Ciro André Quintino da Câmara Municipal de Gaspar praticou ato de improbidade administrativa ao receber indevidamente verba de representação e diárias para visitas à Assembleia Legislativa de SC. O Ministério Público concluiu que não há indícios da prática de ato de improbidade administrativa. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 9,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura desvio de função de servidores em Gaspar e arquiva",
+  "description": "O inquérito civil apurou suposto desvio de função pelos servidores públicos municipais Ezequiel Hintz, João Vítor da Silva Costa e Elaine Cristina Wandalen. Os denunciados não fazem mais parte do quadro funcional do município e não foram encontrados indícios de desvio de função, improbidade administrativa ou dano ao erário. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 10,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura nepotismo em Gaspar: contratação de cunhado do prefeito para cargo em comissão",
+  "description": "O inquérito civil apurou a contratação de Jonathan Boneti Siquera, cunhado do Prefeito de Gaspar, para o cargo em comissão de Diretor de Gabinete. O desvio de função da servidora Josieli Cristina Casanova não foi comprovado e a apuração foi arquivada parcialmente. Foi instaurado novo inquérito para verificar a ocorrência de nepotismo na contratação.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 11,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura processo seletivo público irregular em Gaspar e arquiva",
+  "description": "O inquérito civil apurou suposta irregularidade na deflagração do Processo Seletivo Público n. 13/2023 pelo Município de Gaspar para cargo de Agente Administrativo, na vigência de concurso público para idêntico cargo. Não foram encontrados indícios de vantagem indevida, prejuízo ao erário ou preterição arbitrária entre candidatos. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 12,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura dano ao erário por equipamentos hospitalares em Gaspar e arquiva",
+  "description": "O inquérito civil apurou possível ato de improbidade administrativa consistente em dano ao erário a partir da inexecução de serviços de instalação e manutenção de equipamentos de ventilação mecânica no Hospital Nossa Senhora do Perpétuo Socorro, sobretudo ao longo de 2020. Não foi comprovado superfaturamento ou dano ao erário. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 13,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura fraude em licitação de coleta de lixo em Gaspar e arquiva",
+  "description": "O inquérito civil apurou possível fraude na Contratação de coleta e transporte de resíduos sólidos pelo Município de Gaspar (Concorrência n. 04/2020). A concorrência foi revogada por superveniente interesse público e o município realizou novo pregão. O contrato anterior com a empresa Racli Limpeza Urbana já foi encerrado. Não foi constatada irregularidade.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 14,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 15,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 16,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração sobre contratação temporária de enfermeiros em Gaspar",
+  "description": "O inquérito civil apurou suposta irregularidade na contratação de enfermeiros a título temporário pelo Município de Gaspar durante a vigência do Concurso Público n. 002/2023. Não houve ilegalidade nas contratações, vantagem indevida, prejuízo ao erário ou preterição arbitrária. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 17,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura irregularidades na Secretaria de Planejamento de Gaspar e arquiva",
+  "description": "O inquérito civil apurou supostas irregularidades na Secretaria Municipal de Planejamento Territorial de Gaspar, envolvendo os servidores Alexandre Gevaerd e Norberto Mette, a partir de denúncia do sindicato SINTRASPUG. Não foram encontrados indícios de improbidade administrativa, dano ambiental ou outra questão que justificasse intervenção ministerial. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 18,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 19,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura licitação de obras em Gaspar e arquiva por ausência de irregularidades",
+  "description": "O inquérito civil apurou a regularidade da Tomada de Preços n. 134/2015 do Município de Gaspar. O valor da obra foi considerado compatível e não foram encontrados indícios de improbidade administrativa. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 20,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura irregularidades no SAMAE de Gaspar e arquiva",
+  "description": "O inquérito civil apurou supostas irregularidades no SAMAE de Gaspar, envolvendo Jefferson Jorge de Souza. As supostas irregularidades noticiadas não foram confirmadas, não havendo razão para continuidade das investigações. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 21,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 22,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração sobre uso indevido de veículo municipal em Gaspar",
+  "description": "O inquérito civil apurou se o servidor público Fleibiz da Silva, do Município de Gaspar, usou veículo do município em horário de expediente para adquirir uma caixa de cervejas. O Ministério Público considerou a conduta isolada e o dano ao erário insignificante. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 23,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 24,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura cálculos irregulares de precatórios em Gaspar e Ilhota e arquiva",
+  "description": "O inquérito civil apurou possível ato de improbidade administrativa a partir de irregularidades em cálculos de precatórios submetidos à pagamento em processos da Comarca de Gaspar, envolvendo os municípios de Gaspar, Ilhota e a SAMAE de Gaspar. Não foi comprovada má-fé e os equívocos foram retificados. Os entes foram cientificados da necessidade de providências para evitar repetição. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 25,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura desapropriação irregular em Gaspar e caso é prescrito",
+  "description": "O inquérito civil apurou possível ato de improbidade administrativa e irregularidades no processo de desapropriação de imóvel pelo Decreto Municipal n. 6.921/2016. Eventual ato de improbidade administrativa foi declarado prescrito. Também não foram encontrados elementos concretos de irregularidades. O caso foi arquivado.",
+  "status": "⚫ prescrito",
+  "severity": "media"
+ },
+ {
+  "i": 26,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 27,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura improbidade de servidor Silvio Cleffi em Gaspar e arquiva",
+  "description": "O inquérito civil apurou possível ato de improbidade administrativa pelo servidor do Município de Gaspar, Silvio Cleffi, envolvendo o Hospital Nossa Senhora do Perpétuo Socorro. Não foi comprovada a prática de qualquer ato de improbidade administrativa. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 28,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura improbidade em construção de creche em Gaspar e arquiva",
+  "description": "O inquérito civil apurou possível ato de improbidade administrativa pelo Município de Gaspar e pela empresa Soberana Serviços e Construções Ltda. na obra do Centro de Desenvolvimento Infantil Dorvalina Fachini. Não foi comprovado ato de improbidade e a obra foi concluída. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 29,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura manipulação de pregão em Gaspar envolvendo investigado de Brusque",
+  "description": "O inquérito civil apurou possível manipulação do Pregão Presencial n. 202/2015 do Município de Gaspar com participação de Jaime Flávio da Silva Cesari, processado em Brusque pela mesma prática. As empresas participaram diretamente do pregão sem influência ou contato do investigado. Não foram encontrados indicativos de direcionamento. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 30,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 31,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura descumprimento de carga horária por servidores de Ilhota e Gaspar",
+  "description": "O inquérito civil apurou suposto descumprimento de carga horária laboral por servidores públicos municipais de Ilhota e Gaspar, incluindo Patrícia Gubler, Mirgon Arend, Jocelene da Silveira e outros. Não foram encontrados indícios de improbidade administrativa. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 32,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 33,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura promoção pessoal pelo presidente da Câmara de Gaspar e firma ACNP",
+  "description": "O inquérito civil apurou suposto ato de promoção pessoal promovido pelo Presidente da Câmara de Vereadores do Município de Gaspar, Sílvio Cleffi. O caso foi resolvido com a celebração de Acordo de Não Persecução Cível (ACNP) entre o Ministério Público e o investigado, tornando desnecessária a propositura de Ação Civil Pública.",
+  "status": "🟠 ACNP firmado",
+  "severity": "media"
+ },
+ {
+  "i": 34,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura uso de viatura policial para interesses particulares em Gaspar e arquiva",
+  "description": "O inquérito civil apurou se o Cabo PM Paulo Cesar Vanzella utilizou viatura policial para atender a interesses particulares enquanto escalado para serviço policial. O Ministério Público considerou a conduta isolada, o bom comportamento do servidor e o dano ao erário insignificante de R$ 15,50. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 35,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 36,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura uso de slogan municipal para promoção pessoal pelo ex-prefeito de Gaspar",
+  "description": "O inquérito civil apurou se o ex-Prefeito Municipal de Gaspar, Kleber Edson Wan-Dall, utilizou o slogan do Município para promoção pessoal, em possível violação ao art. 11, inciso XII, da Lei de Improbidade Administrativa. O caso foi resolvido com a celebração de Acordo de Não Persecução Civil (ACNP) com o investigado.",
+  "status": "🟠 ACNP firmado",
+  "severity": "media"
+ },
+ {
+  "i": 37,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura repasse de verbas públicas a associação em Gaspar e caso prescreve",
+  "description": "O inquérito civil apurou possível ilegalidade no repasse de verbas públicas à Associação ACIIL, envolvendo Erico de Oliveira, Manuela da Silva Hermes e Alisson Pilar Machado. Não foi comprovado dolo e eventual ato de improbidade administrativa prescreveu. Também prescreveu eventual ação para ressarcimento ao erário. O caso foi arquivado.",
+  "status": "⚫ prescrito",
+  "severity": "media"
+ },
+ {
+  "i": 38,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura nepotismo em Gaspar: contratação de esposo de vereadora",
+  "description": "O inquérito civil apurou suposta ocorrência de nepotismo no Município de Gaspar, em razão da contratação de Joel Alves dos Santos, esposo da vereadora Mara Santos, para o cargo de Coordenador Geral de Serviços junto ao Poder. O desfecho do caso não foi informado no extrato publicado. O texto encontra-se truncado.",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 39,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 40,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura favorecimento de empresa de coleta de lixo em Gaspar e arquiva",
+  "description": "O inquérito civil apurou suposto favorecimento da empresa Vitaciclo S.A. Logística Reserva em processo de dispensa de licitação no Município de Gaspar para prestação de serviço de coleta de lixo. A ilegalidade não foi constatada. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 41,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 42,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP identifica inconstitucionalidade em lei de área urbana consolidada de Gaspar",
+  "description": "O inquérito civil acompanhou o trâmite legislativo da Lei Complementar n. 5/2022 de Gaspar, que delimita a área urbana consolidada e define áreas de preservação permanente. O MP concluiu que o diploma legal (Lei n. 161/2022) padece de inconstitucionalidade por inobservância da Lei Federal n. 14.285/2021 e normas ambientais. Foi ajuizada Ação Direta de Inconstitucionalidade, o que encerrou o objeto do inquérito civil.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 43,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 44,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura desvio de função de 13 servidores em Ilhota e Gaspar",
+  "description": "O inquérito civil apurou ocorrência de desvio de função de 13 servidores públicos municipais de Ilhota que também atuavam em Gaspar, incluindo Atierre Agostinho Peixer, Francineide Pereira e outros. Os servidores mudaram de cargos e não foram encontrados indícios de irregularidade. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 45,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura corte ilegal de eucalipto e obras em APP em Gaspar e arquiva",
+  "description": "O inquérito civil apurou corte ilegal de eucalipto e bambu em Área de Preservação Permanente, caça ilegal de animais silvestres, danos ambientais e obras irregulares nas imediações da Rua Carlos Zuchi Netto, em Gaspar. A vistoria da SUMDAS constatou que o local apresenta características favoráveis para regeneração natural. A responsabilidade dos proprietários foi afastada.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 46,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura contratação temporária para cargos permanentes em Gaspar e arquiva",
+  "description": "O inquérito civil apurou suposta violação do art. 37, IX, da Constituição Federal pela publicação do Edital n. 04/2019 do Município de Gaspar visando contratação de servidores temporários para cargos de caráter permanente. O Processo Seletivo n. 004/2019 expirou sem contratação decorrente. A recomendação ministerial foi acatada. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 47,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 48,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 49,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura irregularidades na SUMADS de Gaspar e arquiva após regularização",
+  "description": "O inquérito civil apurou irregularidades apontadas no Diagnóstico SISMUMA na Superintendência de Meio Ambiente e Desenvolvimento Sustentável (SUMADS) do Município de Gaspar. As lacunas identificadas no Relatório de Constatações foram sanadas durante o procedimento. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 50,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura dano ambiental em APP em Gaspar e arquiva com ação demolitória em andamento",
+  "description": "O inquérito civil apurou dano ambiental em área de preservação permanente no Município de Gaspar. Uma ação judicial demolitória foi ajuizada e encontra-se em andamento. O objeto da investigação foi considerado exaurido. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 51,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 52,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura poluição por britagem em Gaspar e arquiva por ausência de irregularidades",
+  "description": "O inquérito civil apurou possível crime de poluição perpetrado pela empresa Britagem e Pavimentadora Barracão Ltda., localizada em Gaspar, diante da excessiva poeira que atinge residências vizinhas. Após vistorias pelos órgãos ambientais, foram constatados a ausência de elementos que indiquem irregularidades. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 53,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 54,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura intervenção em APP por desvio de curso hídrico em Gaspar e arquiva",
+  "description": "O inquérito civil apurou suposta intervenção em Área de Preservação Permanente por desvio de curso hídrico no imóvel da Rua José Rampelotti, n. 300, Bairro Alto Gasparinho, em Gaspar. A Polícia Militar Ambiental constatou que a captação de água é de uso insignificante e dispensável de outorga, que não foi possível identificar os autores das intervenções e que houve regeneração natural. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 55,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura omissão da Secretaria de Agricultura de Gaspar em acesso à informação",
+  "description": "O inquérito civil apurou a conduta omissa dos servidores da Secretaria de Agricultura de Gaspar diante do requerimento do munícipe Adilson Luis Schmitt para acesso a informações sobre serviço de patrulha mecanizada. O atendimento da solicitação feriria a Lei Geral de Proteção de Dados (LGPD). Não foi identificada lesão ou ameaça de lesão. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 56,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura concessão de licenças ambientais irregular em Gaspar e arquiva",
+  "description": "O inquérito civil apurou se a Superintendência de Meio Ambiente do Município de Gaspar estaria concedendo licenças ambientais sem as devidas observações em benefício de particulares. Não foram encontrados elementos de informação concretos aptos para dar azo a uma linha de investigação. As alegações foram consideradas genéricas. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 57,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 58,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura poluição do solo e acúmulo de resíduos em Gaspar e arquiva",
+  "description": "O inquérito civil apurou suposta prática de poluição do solo e acúmulo indevido de resíduos sólidos em imóvel da Rua João Olídio da Trindade, n. 230, Bairro Margem Esquerda, em Gaspar. O local foi limpo por ocasião da desocupação do imóvel. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 59,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura funcionamento de lixão irregular em Gaspar e arquiva com embargo e ação criminal",
+  "description": "O inquérito civil apurou supostas irregularidades no funcionamento do estabelecimento denominado \"Lixão do Zezinho\", situado na Estrada-Geral Arraial do Ouro, n. 1.000, Bairro Arraial do Ouro, em Gaspar. As atividades foram interrompidas por embargo administrativo e foi deflagrado procedimento criminal paralelo. Não foi constatado dano ambiental a teor dos fatos. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 60,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 61,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura loteamento irregular em Gaspar e arquiva com ação demolitória",
+  "description": "O inquérito civil apurou possível loteamento irregular na Rua Augusto Groh, Bairro Belchior Central, em Gaspar. A SAMAE e a CELESC de Blumenau acataram a recomendação ministerial. Foi instaurado Procedimento Administrativo para acompanhar o cumprimento das medidas e ajuizada ação demolitória. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 62,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 63,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 64,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura enchentes em Ribeirão Poço Grande em Gaspar e arquiva",
+  "description": "O inquérito civil apurou eventuais irregularidades com relação à ocorrência de enchentes no Ribeirão Poço Grande, na altura da Rua Artur Poffo, Bairro Santa Terezinha, em Gaspar. Foi comprovado que o ribeirão não apresenta mais obstruções e que o barramento denunciado não produz efeitos de inundação. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 65,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 66,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 67,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 68,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 69,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura irregularidades sanitárias em educandários de Gaspar e arquiva",
+  "description": "O inquérito civil apurou a regularidade dos educandários municipais e espaços destinados à educação de Gaspar no que tange às normas sanitárias vigentes. As irregularidades foram sanadas pelo investigado. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ }
+]

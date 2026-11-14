@@ -1,0 +1,632 @@
+[
+ {
+  "i": 210,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 211,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 212,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 213,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 214,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva caso de descumprimento da Covid apos ausencia de dano coletivo",
+  "description": "A apuracao mirava dano moral coletivo por descumprimento de normas da pandemia. O MP concluiu que nao havia fundamentos para o dano coletivo e arquivou.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 215,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Discoteca do Petisco e arquivada em caso da Covid",
+  "description": "O procedimento tratava de descumprimento de normas sanitarias na pandemia. Como o estabelecimento estava fechado e nao houve base para dano coletivo, o caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 216,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 217,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Lechman Terminais e arquivada em caso da Covid",
+  "description": "A apuracao era sobre descumprimento das regras de enfrentamento da pandemia. O MP nao viu fundamentos para dano moral coletivo e arquivou.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 218,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Itapoa Saneamento se livra de cobranca excessiva por extensao de rede",
+  "description": "O caso apurava suposta cobranca irregular de extensao da rede de agua em uma rua da cidade. O MP concluiu que a cobranca nao era excessiva e arquivou.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 219,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Estrada escolar e considerada em boas condicoes e caso e arquivado",
+  "description": "O procedimento verificava a situacao da estrada usada no transporte escolar. A prefeitura informou que a via estava em boas condicoes e o caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 220,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 221,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 222,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 223,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 224,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 225,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 226,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 227,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 228,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 229,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 230,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 231,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 232,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 233,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 234,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 235,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 236,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP firma TAC com ACINI por evento infantil sem autorizacao judicial",
+  "description": "A ACINI foi apurada por promover evento sem a autorizacao judicial exigida pelo ECA. O MP formalizou TAC e arquivou o inquerito.",
+  "status": "🟠 TAC firmado",
+  "severity": "media"
+ },
+ {
+  "i": 237,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 238,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Delegacia de Itapoa inicia regularizacao e MP arquiva caso de acessibilidade",
+  "description": "O inquerito tratava da falta de acessibilidade na Delegacia de Policia Civil de Itapoa. Com o inicio da regularizacao, o MP arquivou e manteve acompanhamento por procedimento administrativo.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 0,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 1,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 2,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 3,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE multa gestores de Itapoa no caso da UPA 24h",
+  "description": "A denuncia sobre o chamamento publico da UPA 24h foi julgada procedente. O Tribunal aplicou multas aos responsaveis por falhas no contrato de gestao e na modelagem da contratacao.",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta"
+ },
+ {
+  "i": 4,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE nao conhece PAP sobre contratacao na saude de Itapoa",
+  "description": "O PAP sobre possiveis irregularidades na contratacao de servicos de saude nao passou na admissibilidade. O pedido cautelar foi prejudicado e os autos foram arquivados sem analise de merito.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 5,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 6,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 7,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 8,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 9,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 10,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 11,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE cobra Itapoa sobre horas extras, banco de horas e sobreaviso",
+  "description": "A inspeção apontou irregularidades em horas extras, banco de horas e sobreaviso no municipio. O Tribunal determinou providencias e abriu instrução para defesa dos responsaveis.",
+  "status": "🟡 em instrução (citação/audiência)",
+  "severity": "media"
+ },
+ {
+  "i": 12,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE nao conhece PAP sobre concorrencia 03/2022 em Itapoa",
+  "description": "A representacao foi considerada sem seletividade e o pedido de sustacao foi negado. O processo foi arquivado sem conversao do PAP em representacao.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 13,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 14,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 15,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE nao conhece representacao sobre pregao 08/2024 em Itapoa",
+  "description": "A representacao nao atendeu aos requisitos de admissibilidade e foi arquivada. O TCE deu ciencia da decisao a prefeitura e ao representado.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 16,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 17,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva representacao sobre pregao 33/2024 de Itapoa",
+  "description": "A representacao foi barrada por falta de seletividade e o processo acabou arquivado. O Tribunal nao entrou no merito das alegadas irregularidades.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 18,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE nao conhece representacao sobre pregao 007/2026 em Itapoa",
+  "description": "A denuncia nao passou pelo filtro de seletividade e foi arquivada. O TCE apenas deu ciencia ao representado e ao controle interno.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 19,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 20,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 21,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva representacao contra concorrencia 08/2021 em Itapoa",
+  "description": "O Tribunal reconheceu a perda do objeto porque a licitacao ja havia sido anulada. Mesmo assim, deixou recomendacoes para futuros certames.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 22,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE julga improcedente representacao sobre obra da Escola Frei Valentim",
+  "description": "A representacao foi conhecida, mas o merito foi considerado improcedente apos saneamento da impropriedade. O processo acabou arquivado.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 23,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 24,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE barra aposentadoria de servidora do IPESI por falha no laudo medico",
+  "description": "O Tribunal apontou ausencia de laudo medico oficial circunstanciado para o ato de aposentadoria. O IPESI precisa corrigir a falha para tentar o registro do ato.",
+  "status": "⬛ julgado irregular",
+  "severity": "media"
+ },
+ {
+  "i": 25,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE nao conhece PAP sobre reenquadramento de servidora em Itapoa",
+  "description": "O procedimento nao ultrapassou os requisitos de seletividade e foi arquivado. Nao houve analise de merito.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 26,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 27,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE mantém multa em auditoria sobre atos de pessoal em Itapoa",
+  "description": "No recurso, o Tribunal manteve integralmente o acórdão anterior no processo de auditoria. A sancao e as determinacoes seguiram validas.",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta"
+ },
+ {
+  "i": 28,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 29,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 30,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 31,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 32,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 33,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 34,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 35,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE mantém multa em recurso sobre atos de pessoal de Itapoa",
+  "description": "O recurso contra o acórdão da auditoria foi negado, com manutencao integral da decisao anterior. As multas permanecem para o gestor.",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta"
+ },
+ {
+  "i": 36,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 37,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE encerra inspeção sobre situacao atuarial do IPESI",
+  "description": "A inspeção sobre a situacao atuarial do regime proprio foi encerrada por exaurimento do objeto. A decisao apenas deu ciencia ao municipio e ao IPESI.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 38,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE susta edital de iluminacao publica de Itapoa",
+  "description": "O Tribunal encontrou sobrepreco e problemas na formacao do orcamento da Concorrencia 05/2025. A medida cautelar sustou o edital ate nova deliberação.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 39,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE barra aposentadoria de servidora por enquadramento irregular",
+  "description": "O ato de aposentadoria foi considerado ilegal por derivar de enquadramento irregular sem concurso. O IPESI foi instado a anular a portaria e observar o devido processo legal.",
+  "status": "⬛ julgado irregular",
+  "severity": "media"
+ },
+ {
+  "i": 40,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ }
+]

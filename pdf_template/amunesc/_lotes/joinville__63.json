@@ -1,0 +1,648 @@
+{
+ "cidade": "Joinville",
+ "casos": [
+  {
+   "i": 4410,
+   "tipo": "mp",
+   "ref": "01.2026.00021711-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00021711-7",
+   "status": "🟡 em apuração",
+   "data": "14/05/2026",
+   "texto": "Leandro Rodolfo Becker."
+  },
+  {
+   "i": 4411,
+   "tipo": "mp",
+   "ref": "01.2026.00023189-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00023189-6",
+   "status": "🟡 em apuração",
+   "data": "14/05/2026",
+   "texto": "sigilo."
+  },
+  {
+   "i": 4412,
+   "tipo": "mp",
+   "ref": "01.2026.00021709-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00021709-4",
+   "status": "🟡 em apuração",
+   "data": "15/05/2026",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 4413,
+   "tipo": "mp",
+   "ref": "01.2026.00018218-8",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2026.00018218-8",
+   "status": "🟢 arquivado",
+   "data": "18/05/2026",
+   "texto": "Ruth Viviane. Conclusão: apurar possível situação de maus-tratos e negligência no atendimento a canino realizado na Clínica Agrowilke, localizada na Avenida Kurt Meinert, n. 278, Bairro Paranaguamirim, em Joinville. Instada a se manifestar, a SAMA informou que o estabelecimento possui as licenças necessárias para o regular funcionamento. O Conselho Regional de Medicina Veterinária - CRMV comunicou ciência dos fatos e adoção das providências cabíveis quanto à análise da conduta da médica veterinária envolvida. Por sua vez, a Autoridade Policial informou a instauração de Inquérito Policial para apuração dos fatos noticiados. Arquivamento com fundamento no artigo 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4414,
+   "tipo": "mp",
+   "ref": "06.2025.00002076-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00002076-8",
+   "status": "🟢 arquivado",
+   "data": "18/05/2026",
+   "texto": "Kauany Gianka Belegante e Marcia Elisa S. Jesus Conclusão: suposta situação de vulnerabilidade de diversos felinos, em residência localizada na Rua Alberto Felippi, n. 679, Bairro Vila Nova, em Joinville. Gatil construído. Animais castrados e microchipados. Medidas administrativas acatadas. Fatos solucionados. Arquivamento."
+  },
+  {
+   "i": 4415,
+   "tipo": "mp",
+   "ref": "01.2026.00024626-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00024626-7",
+   "status": "🟡 em apuração",
+   "data": "21/05/2026",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 4416,
+   "tipo": "mp",
+   "ref": "01.2026.00023774-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00023774-6",
+   "status": "🟡 em apuração",
+   "data": "22/05/2026",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 4417,
+   "tipo": "mp",
+   "ref": "01.2026.00006960-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2026.00006960-0",
+   "status": "🟢 arquivado",
+   "data": "26/05/2026",
+   "texto": "Sabrina. Conclusão: apurar possível situação de vulnerabilidade de três cães, no imóvel localizado na Rua Antônio Valdui Rodrigues da Silveira, n. 25, Bairro João Costa, Joinville. Atuação da SAMA. Situação de maus-tratos constatada. Animal acolhidos pelo órgão de proteção animal. Bem-estar animal resguardado. Inquérito policial requisitado para apurar o crime de maus-tratos. Arquivamento com fundamento no art. 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4418,
+   "tipo": "mp",
+   "ref": "01.2026.00007533-5",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2026.00007533-5",
+   "status": "🟢 arquivado",
+   "data": "26/05/2026",
+   "texto": "sigiloso. Conclusão: apurar possível situação de vulnerabilidade de um cão no imóvel localizado na Rua Colon, n. 617, Bairro Glória, Joinville. Atuação do órgão de proteção animal. Canino em tratamento veterinário contínuo, Bem-estar resguardado. Arquivamento com fundamento no art. 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4419,
+   "tipo": "mp",
+   "ref": "01.2026.00014446-1",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2026.00014446-1",
+   "status": "🟢 arquivado",
+   "data": "26/05/2026",
+   "texto": "sigiloso. Conclusão: apurar possível situação de vulnerabilidade envolvendo uma canina da raça pinscher, mantida em imóvel localizado na Rua Hélio Schmidt, n. 246, final da via, em Joinville. Atuação da SAMA. Animal recebeu atendimento veterinário e vacinação pelo CBEA. Ficou esclarecido que houve acompanhamento por profissional especializado, não sendo indicada a realização de procedimento cirúrgico. Canina adotada. Bem-estar resguardado. Arquivamento com fundamento no art. 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4420,
+   "tipo": "mp",
+   "ref": "01.2026.00021497-5",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2026.00021497-5",
+   "status": "🟢 arquivado",
+   "data": "26/05/2026",
+   "texto": "Thiago de Aguiar. Conclusão: apurar possível situação de abandono e vulnerabilidade de canino em terreno localizado na Rua Antônio Fernandes, n. 35, Bairro Iririú, em Joinville. Atuação da SAMA. Acolhimento do animal. Canina recebeu atendimento veterinário adequado, foi submetida à castração, microchipagem e permanece sob cuidados até a alta clínica, quando será destinada à adoção responsável. Determinou-se, ainda, o encaminhamento do caso à autoridade policial, para apuração de eventual prática de maus-tratos, notadamente quanto à conduta de abandono. Bem-estar do animal encontra-se devidamente resguardado. Indeferimento de instauração, com fundamento no art. 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4421,
+   "tipo": "mp",
+   "ref": "01.2026.00023189-6",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2026.00023189-6",
+   "status": "🟢 arquivado",
+   "data": "26/05/2026",
+   "texto": "sigiloso. Conclusão: apurar possível demora no atendimento veterinário de animal por parte do CBEA de Joinville. Atuação da SAMA. Efetiva prestação de atendimento veterinário ao animal, com diagnóstico e tratamento adequado. Sem indicios de omissão por parte do Poder Público. Bem-estar do animal resguardado. Arquivamento com base no artigo 7º, inciso III, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4422,
+   "tipo": "mp",
+   "ref": "01.2026.00022011-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00022011-1",
+   "status": "🟡 em apuração",
+   "data": "26/05/2026",
+   "texto": "Maria Oli da Silva."
+  },
+  {
+   "i": 4423,
+   "tipo": "mp",
+   "ref": "01.2026.00023171-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00023171-9",
+   "status": "🟡 em apuração",
+   "data": "26/05/2026",
+   "texto": "Anderson Luis Mattos."
+  },
+  {
+   "i": 4424,
+   "tipo": "mp",
+   "ref": "01.2026.00023889-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00023889-0",
+   "status": "🟡 em apuração",
+   "data": "26/05/2026",
+   "texto": "anônimo."
+  },
+  {
+   "i": 4425,
+   "tipo": "mp",
+   "ref": "01.2026.00024764-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00024764-4",
+   "status": "🟡 em apuração",
+   "data": "26/05/2026",
+   "texto": "IMA/SC."
+  },
+  {
+   "i": 4426,
+   "tipo": "mp",
+   "ref": "01.2026.00024906-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00024906-4",
+   "status": "🟡 em apuração",
+   "data": "26/05/2026",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 4427,
+   "tipo": "mp",
+   "ref": "01.2026.00004086-8",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2026.00004086-8",
+   "status": "🟢 arquivado",
+   "data": "27/05/2026",
+   "texto": "Jakeline Birckholz. Conclusão: apurar possível situação de vulnerabilidade de um canino, adotado por D. S. da S. e G. A. R. Endereço incorreto. Atuação do órgão de proteção animal. Animal não localizado. Indeferimento de instauração com base no artigo 7º, inciso III, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4428,
+   "tipo": "mp",
+   "ref": "01.2026.00016172-7",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2026.00016172-7",
+   "status": "❔ status indef.",
+   "data": "27/05/2026",
+   "texto": "Frada de Joinville e Elaine Cristina Garcia."
+  },
+  {
+   "i": 4429,
+   "tipo": "mp",
+   "ref": "06.2025.00004422-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00004422-7",
+   "status": "🟡 em apuração",
+   "data": "27/05/2026",
+   "texto": "Nazareno Bez Batti."
+  },
+  {
+   "i": 4430,
+   "tipo": "mp",
+   "ref": "06.2025.00005147-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00005147-2",
+   "status": "🟢 arquivado",
+   "data": "28/05/2026",
+   "texto": "sigiloso. Conclusão: apurar suposta situação de vulnerabilidade de sete caninos no imóvel situado na Rua Atenor Douat Baptista, n. 308, Bairro Ulisses Guimarães, em Joinville. Atuação da SAMA e adoção de medidas administrativas. Adequações no abrigo, instalação de obstáculos no portão e no muro da propriedade para impedir acesso à via pública, vacinação, castração e microchipagem. Animais com a saúde e bem-estar resguardados. Arquivamento com supedâneo no art. 48, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4431,
+   "tipo": "mp",
+   "ref": "01.2026.00013133-3",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2026.00013133-3",
+   "status": "🟢 arquivado",
+   "data": "29/05/2026",
+   "texto": "Waltercler Hille e Jocinéia Novak Guimarães. Conclusão: despacho. Notícia de fato criminal. Representação narrando a prática de crime de prevaricação por servidor público. Chefe de cartório que teria deixado de encaminhar os autos para análise do magistrado para reavaliação da prisão preventiva. Inexistência de crime. Servidor que cumpriu o devido processo legal. Indeferimento de abertura de investigação. Arquivamento da notícia de fato."
+  },
+  {
+   "i": 4432,
+   "tipo": "mp",
+   "ref": "01.2026.00026373-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00026373-3",
+   "status": "🟡 em apuração",
+   "data": "29/05/2026",
+   "texto": "Bianca Gabriele de Oliveira."
+  },
+  {
+   "i": 4433,
+   "tipo": "mp",
+   "ref": "06.2026.00001796-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2026.00001796-7",
+   "status": "🟡 em apuração",
+   "data": "29/05/2026",
+   "texto": "Marinetti de Freitas Alves e Sérgio Luiz Claudino."
+  },
+  {
+   "i": 4434,
+   "tipo": "mp",
+   "ref": "06.2021.00002593-6",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL PÚBLICO N. 06.2021.00002593-6",
+   "status": "🟠 TAC firmado",
+   "data": "01/06/2026",
+   "texto": "Brasimet Processamento Térmico Ltda. e HSKP Administração e Participações Ltda. Conclusão: plano. Plano de remediação de área contaminada e pagamento de medida compensação pelos danos não passiveis de remediação. Celebração de termo de ajustamento de conduta. Reparação danos ambientais. Arquivamento com supedâneo no art. 48, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4435,
+   "tipo": "mp",
+   "ref": "06.2025.00004378-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00004378-3",
+   "status": "🟢 arquivado",
+   "data": "01/06/2026",
+   "texto": "sigiloso. Conclusão: apurar possível situação de vulnerabilidade de felinos no imóvel situado na Rua Arlindo Correa, n. 199, Bairro Vila Nova, em Joinville. Atuação do órgão de proteção animal. Animais com seu bem-estar resguardado. Medidas administrativas acatadas pela tutora. Arquivamento com supedâneo no art. 48, inciso I, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4436,
+   "tipo": "mp",
+   "ref": "06.2025.00005147-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00005147-2",
+   "status": "🟢 arquivado",
+   "data": "01/06/2026",
+   "texto": "sigiloso. Conclusão: apurar suposta situação de vulnerabilidade de sete caninos no imóvel situado na Rua Atenor Douat Baptista, n. 308, Bairro Ulisses Guimarães, em Joinville. Atuação da SAMA e adoção de medidas administrativas. Adequações no abrigo, instalação de obstáculos no portão e no muro da propriedade para impedir acesso à via pública, vacinação, castração e microchipagem. Animais com a saúde e bem-estar resguardados. Arquivamento com supedâneo no art. 48, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4437,
+   "tipo": "mp",
+   "ref": "06.2026.00001429-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2026.00001429-2",
+   "status": "🟢 arquivado",
+   "data": "01/06/2026",
+   "texto": "Marli Piekarski. Conclusão: apurar o destino final da canina denominada Preta, inclusive a eventual ocorrência de óbito e as respectivas causas. Munícipes ex-tutores da canina que comunicaram sua doação. Adotante com residência em outro estado da federação. Ausência de atribuição territorial para prosseguimento da apuração. Arquivamento com supedâneo no art. 48, inciso I, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4438,
+   "tipo": "mp",
+   "ref": "01.2026.00026101-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00026101-3",
+   "status": "🟡 em apuração",
+   "data": "01/06/2026",
+   "texto": "Joceane de Fátima Venturi."
+  },
+  {
+   "i": 4439,
+   "tipo": "mp",
+   "ref": "01.2026.00027573-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00027573-0",
+   "status": "🟡 em apuração",
+   "data": "05/06/2026",
+   "texto": "FRADA Joinville."
+  },
+  {
+   "i": 4440,
+   "tipo": "mp",
+   "ref": "06.2025.00004740-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00004740-2",
+   "status": "🟡 em apuração",
+   "data": "05/06/2026",
+   "texto": "Irene de Oliveira Borges."
+  },
+  {
+   "i": 4441,
+   "tipo": "mp",
+   "ref": "01.2026.00027575-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00027575-1",
+   "status": "🟡 em apuração",
+   "data": "08/06/2026",
+   "texto": "Carlos Correia."
+  },
+  {
+   "i": 4442,
+   "tipo": "mp",
+   "ref": "01.2026.00010185-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2026.00010185-0",
+   "status": "🟢 arquivado",
+   "data": "09/06/2026",
+   "texto": "Ana Beatriz Chaves Lemos e Raquel Borges. Conclusão: apurar possível situação de vulnerabilidade de uma canina nas proximidades da Rua Alexandre Humboldt, n. 357, Bairro Santo Antônio, em Joinville. Atuação da SAMA. Canina Lili veio a óbito. Canina Belinha recebeu tratamento veterinário e encontra-se com seu bem-estar resguardado. Arquivamento com fundamento no art. 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4443,
+   "tipo": "mp",
+   "ref": "01.2026.00027966-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00027966-9",
+   "status": "🟡 em apuração",
+   "data": "09/06/2026",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 4444,
+   "tipo": "mp",
+   "ref": "01.2026.00027968-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00027968-0",
+   "status": "🟡 em apuração",
+   "data": "09/06/2026",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 4445,
+   "tipo": "mp",
+   "ref": "01.2026.00011234-7",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2026.00011234-7",
+   "status": "🟢 arquivado",
+   "data": "10/06/2026",
+   "texto": "anônimo. Conclusão: arquivamento. Indeferimento. Ausência de informações. Inércia do noticiante."
+  },
+  {
+   "i": 4446,
+   "tipo": "mp",
+   "ref": "01.2026.00021695-1",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2026.00021695-1",
+   "status": "🟢 arquivado",
+   "data": "10/06/2026",
+   "texto": "Leda Silvana dos Santos. Conclusão: apurar possível situação de vulnerabilidade de um canino, em terreno localizado na Estrada do Atalho, n. 1500, Bairro Vila Nova, ao lado do Pesque Pague Piraí, em Joinville. Atuação da SAMA. Medidas administrativas acatadas. Bem-estar do animal resguardado. Arquivamento com fundamento no art. 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4447,
+   "tipo": "mp",
+   "ref": "01.2026.00028145-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00028145-3",
+   "status": "🟡 em apuração",
+   "data": "10/06/2026",
+   "texto": "Rúbia Lázzaris."
+  },
+  {
+   "i": 4448,
+   "tipo": "mp",
+   "ref": "06.2026.00002427-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2026.00002427-9",
+   "status": "🟡 em apuração",
+   "data": "11/06/2026",
+   "texto": "Solenir Martins."
+  },
+  {
+   "i": 4449,
+   "tipo": "mp",
+   "ref": "01.2026.00006483-8",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2026.00006483-8",
+   "status": "🟢 arquivado",
+   "data": "12/06/2026",
+   "texto": "Valdirene Alves Spader. Conclusão: apurar suposta situação de vulnerabilidade e maus-tratos envolvendo um canino na Rua Alfredo Pogan, n. 84, Bairro Jardim Iririú, em Joinville. Atuação da SAMA. Canino comunitário. Constatada a melhora nas condições de saúde e bem- estar do animal. Caso permanecerá sob acompanhamento da SAMA, órgão competente para a fiscalização e o monitoramento contínuo das condições de manejo e bem-estar do animal, a quem incumbirá assegurar, inclusive, a sua devida microchipagem e a manutenção de condições adequadas de cuidado e segurança. Arquivamento com fundamento no art. 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4450,
+   "tipo": "mp",
+   "ref": "01.2026.00028683-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00028683-7",
+   "status": "🟡 em apuração",
+   "data": "12/06/2026",
+   "texto": "Francine Valente."
+  },
+  {
+   "i": 4451,
+   "tipo": "mp",
+   "ref": "06.2026.00002438-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2026.00002438-0",
+   "status": "🟡 em apuração",
+   "data": "12/06/2026",
+   "texto": "Ivalci de Oliveira."
+  },
+  {
+   "i": 4452,
+   "tipo": "mp",
+   "ref": "01.2026.00029163-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00029163-0",
+   "status": "🟡 em apuração",
+   "data": "15/06/2026",
+   "texto": "Osvaldo Gonçalves da Maia."
+  },
+  {
+   "i": 4453,
+   "tipo": "mp",
+   "ref": "06.2026.00002486-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2026.00002486-8",
+   "status": "🟡 em apuração",
+   "data": "15/06/2026",
+   "texto": "Gisele Marcondes."
+  },
+  {
+   "i": 4454,
+   "tipo": "mp",
+   "ref": "01.2026.00029377-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00029377-1",
+   "status": "🟡 em apuração",
+   "data": "16/06/2026",
+   "texto": "Frada Joinville."
+  },
+  {
+   "i": 4455,
+   "tipo": "mp",
+   "ref": "01.2026.00009438-7",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2026.00009438-7",
+   "status": "🟢 arquivado",
+   "data": "17/06/2026",
+   "texto": "Daniela dos Santos Américo e Luis Fernando Lopes Toledo. Conclusão: apurar a atual situação do canino Bolinha, mantido em imóvel situado na Rua Evangelista Justino Espíndola, n. 183, Bairro Parque Guarani, em Joinville. Atuação da SAMA. A municipalidade adotou medidas de acompanhamento, incluindo vacinação, microchipagem e encaminhamento para castração, além de providências de suporte social à família. Animais se encontram em condições adequadas de saúde e bem-estar. Promove-se o arquivamento com fundamento no art. 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4456,
+   "tipo": "mp",
+   "ref": "01.2026.00029602-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00029602-4",
+   "status": "🟡 em apuração",
+   "data": "17/06/2026",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 4457,
+   "tipo": "mp",
+   "ref": "01.2026.00008997-3",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2026.00008997-3",
+   "status": "🟢 arquivado",
+   "data": "19/06/2026",
+   "texto": "Amor Pety e Adriana Aparecida Groskopf Furtado. Conclusão: apurar possível situação de vulnerabilidade envolvendo um canino ferido nas proximidades da Rua Aimóres, n. 642, Bairro Petrópolis em Joinville. Atuação da SAMA. Determinações realizadas pela tutora. Bem-estar resguardado. Arquivamento com fundamento no art. 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4458,
+   "tipo": "mp",
+   "ref": "06.2026.00002644-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2026.00002644-4",
+   "status": "🟡 em apuração",
+   "data": "22/06/2026",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 4459,
+   "tipo": "mp",
+   "ref": "01.2026.00030606-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00030606-1",
+   "status": "🟡 em apuração",
+   "data": "23/06/2026",
+   "texto": "IMA/SC e Kalko Esquadrias Ltda."
+  },
+  {
+   "i": 4460,
+   "tipo": "mp",
+   "ref": "01.2026.00030752-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00030752-7",
+   "status": "🟡 em apuração",
+   "data": "23/06/2026",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 4461,
+   "tipo": "mp",
+   "ref": "01.2026.00030763-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00030763-8",
+   "status": "🟡 em apuração",
+   "data": "24/06/2026",
+   "texto": "sigiloso"
+  },
+  {
+   "i": 4462,
+   "tipo": "mp",
+   "ref": "01.2026.00030916-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00030916-9",
+   "status": "🟡 em apuração",
+   "data": "24/06/2026",
+   "texto": "Leticia Oliveira Heerdt."
+  },
+  {
+   "i": 4463,
+   "tipo": "mp",
+   "ref": "01.2026.00026101-3",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2026.00026101-3",
+   "status": "🟢 arquivado",
+   "data": "25/06/2026",
+   "texto": "Joceane de Fátima Venturi. Conclusão: apurar suposta situação de abandono e comportamento agressivo de um cão, atualmente localizado na Rua Scheunemann, n. 10, Bairro Vila Nova, em Joinville. Atuação da SAMA. Tutora temporária atendeu às necessidades do canino, promovendo melhora do escore corporal, microchipagem e vacinação, responsabilizando-se pela castração e futura adoção. SAMA incumbida da fiscalização. Bem-estar do animal resguardado. Arquivamento com fundamento no art. 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4464,
+   "tipo": "mp",
+   "ref": "01.2026.00030931-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00030931-4",
+   "status": "🟡 em apuração",
+   "data": "25/06/2026",
+   "texto": "Jennifer Caroline."
+  },
+  {
+   "i": 0,
+   "tipo": "tce",
+   "ref": "REP 24/00567527",
+   "header": "⭐ REP 24/00567527 — Representação",
+   "status": "🟠 cautelar / sustação",
+   "data": "29/10/2024",
+   "texto": "Prefeitura Municipal de Joinville Possíveis irregularidades no Pregão Eletrônico nº 420/2023 - aquisição de sachês de sais para reidratação oral Ricardo Mafra, Secretário de Estado de Administração, de Joinville",
+   "decisao": "Diante do exposto, acolho a análise e sugestão de encaminhamentos da Diretoria de Licitações e Contratações – DLC, com os acréscimos deste Relator. III. DECISÃO Diante do exposto, decido: 3.1. INCLUIR NO POLO PASSIVO dos presentes autos, o Consórcio Intermunicipal de Saúde do Nordeste de Santa Catarina – CISNORDESTE. 3.2. CONHECER da Representação, com fundamento no art. 102, Parágrafo único, c/c o art. 96, §§1º e 2º, do Regimento Interno desta Corte de Contas, alterado pela Res. nº TC-0260/2024, e art. 24, caput e §1º, II, da IN nº TC-21/2015, apresentada pelo Sr. Carlos Henrique de Lima, Deputado Estadual, comunicando supostas irregularidades no Pregão Eletrônico nº 002/2024 (edital 05/2024), lançado pelo Consórcio Intermunicipal de Saúde do Nordeste de Santa Catarina – CISNORDESTE, e o Pregão Eletrônico nº 420/2023, da Prefeitura Municipal de Joinville, ambos visando a futura e eventual aquisição de medicamentos. 3.3. CONSIDERAR ATENDIDOS os critérios de seletividade estabelecidos na Res. 0165/2021 e na Portaria nº TC-156/2021, esta, aplicável aos presentes autos por expressa determinação do art. 7º da Res. nº TC-0260/2024, que alterou a Res. 0165/2021. 3.4. CONSIDERAR PREJUDICADA A ANÁLISE DO PEDIDO CAUTELAR em relação à ata de registro de preços do Pregão Eletrônico nº 02/2024 (Edital nº 05/2024), haja vista que não se constatou a adjudicação do item 25 do Anexo I do citado edital, conforme Ata de Adjudicação que consta no site do Consórcio CISNORDESTE. 3.5. DETERMINAR à Secretaria Geral a realização de DILIGÊNCIAS para: 3.5.1. Prefeitura Municipal de Joinville, em nome do Sr. Ricardo Mafra, Secretário de Estado de Administração e Planejamento, CPF nº 936.518.649-87; e Sra. Silvia Cristina Bello, Diretora Executiva, CPF nº 947.742.859-00, signatários do edital Pregão Eletrônico nº 420/2023, para que: 3.5.1.1. apresentem as justificativas técnicas para a opção de registro de preços do produto “sais para reidratação oral, composição: cloreto de sódio 1,066g; glicose 6,093g, cloreto de potássio 0,457g e citrato sódio 0,884g, pó para diluição, uso oral, na apresentação de sachê com 8,5g”, em detrimento a outros produtos para a mesma finalidade mas com apresentações diferentes, haja vista o potencial direcionamento para o produto do laboratório do grupo Catarinense Pharma, com indícios de ser o único fabricante que possui a apresentação exigida no item 216 do Anexo I do Pregão Eletrônico nº 420/2023; 3.5.1.2. encaminhem a pesquisa de preços e o orçamento estimado referente ao item 216 do Anexo I do Pregão Eletrônico nº 420/2023, que se refere ao produto acima identificado; 3.5.1.3. apresentem outras justificativas que entenderem necessárias para o esclarecimento dos fatos apontados na presente representação. 3.5.2. Consórcio Intermunicipal de Saúde do Nordeste de Santa Catarina - CISNORDESTE, em nome da Sra. Ana Maria Groff Jansen, Diretora Executiva, CPF nº 345.290.129-72, e signatária do edital Pregão Eletrônico nº 02/2024 (Edital nº 05/2024),"
+  },
+  {
+   "i": 1,
+   "tipo": "tce",
+   "ref": "REP 25/00196806",
+   "header": "⭐ REP 25/00196806 — Representação",
+   "status": "🟠 cautelar / sustação",
+   "data": "17/07/2026",
+   "texto": "Prefeitura Municipal de Joinville Representação acerca de supostas irregularidades referentes ao edital do Pregão Eletrônico n. 362/2025 - ",
+   "decisao": "decide: 1. Considerar atendidos os requisitos de admissibilidade (arts. 96 e 102, caput e parágrafo único, do Regimento Interno deste Tribunal – Resolução n. TC-06/2001) e os critérios de seletividade (Resolução n. TC-283/2025), para conhecer da presente Representação, formulada pela pessoa jurídica Orcali Serviços Especializados Ltda., em face do edital do Pregão Eletrônico n. 362/2025, promovido pela Prefeitura Municipal de Joinville, visando à contratação de empresa especializada na prestação de serviços contínuos com dedicação exclusiva de mão de obra na área de limpeza, conservação e zeladoria, com fornecimento de equipamentos para unidades administradas pela Secretaria Municipal de Educação. 2. Indeferir o pedido de medida cautelar de sustação do certame em razão do não preenchimento dos requisitos. 3. Considerar improcedente esta Representação, uma vez que não confirmadas as irregularidades noticiadas, nos termos do art. 27, parágrafo único, da Instrução Normativa n. TC-21/2015. 4. Recomendar à Prefeitura Municipal de Joinville que, ao definir os critérios para comprovação de qualificação técnica, limite- se às parcelas de maior relevância ou valor significativo do objeto da licitação, em cumprimento ao disposto no art. 67, §§ 1º e 2º, da Lei n. 14.133/2021. 5. Dar ciência desta Decisão à empresa Representante retromencionada, aos advogados Joel de Menezes Niebuhr e Cauê Vecchia Luzia (f. 27 dos autos), à Prefeitura Municipal de Joinville e ao órgão de Controle Interno daquela Unidade Gestora. 6. Determinar o arquivamento dos autos. Ata n.: 6/2026 Primeira Câmara - Sessão Ordinária em Ambiente Virtual Período da Sessão: de 03/07/2026 a 10/07/2026 Especificação do quórum: Wilson Rogério Wan-Dall, José Nei Alberton Ascari e Aderson Flores Representante do Ministério Público junto ao Tribunal de Contas/SC: Leandro Ocaña Vieira Conselheiros-Substitutos presentes: Gerson dos Santos Sicca e Sabrina Nunes Iocken ADERSON FLORES Presidente da Primeira Câmara JOSÉ NEI ALBERTON ASCARI Relator Fui presente: LEANDRO OCAÑA VIEIRA Procurador do Ministério Público junto ao Tribunal de Contas/SC"
+  },
+  {
+   "i": 2,
+   "tipo": "tce",
+   "ref": "PAP 24/80043449",
+   "header": "⭐ PAP 24/80043449 — Processo de Apuração",
+   "status": "🟠 cautelar / sustação",
+   "data": "26/06/2024",
+   "texto": "Prefeitura Municipal de Joinville Procedimento Apuratório Preliminar acerca de supostas irregularidades referentes ao Edital do Pregão Eletrônico n. Adriano Bornschein Silva e Ricardo Mafra",
+   "decisao": "decide: 1. Converter o pRocedimento Apuratório Preliminar – PAP - em Representação, nos termos do art. 10, I, da Resolução n. TC-165/2020. 2. Conhecer da Representação interposta por Sunrise Engenharia & Consultoria., pessoa jurídica de direito privado, com sede no Município de Taubaté/SP, em face do Processo Licitatório n. 220/2024 - Pregão Eletrônico, lançado pela Prefeitura Municipal de Joinville, visando à “Contratação de empresa de engenharia especializada para manutenção do sistema de iluminação pública do Município de Joinville/SC.”, por preencher os requisitos e formalidades previstos no § 1º do art. 170, § 4º, da Lei n. 14.133/2021 e nos arts. 65 e 66 da Lei Complementar (estadual) n. 202/2000 c/c o art. 24 da Instrução Normativa n. TC-21/2015, arguindo a seguinte irregularidade: 2.1. Sobrepreço: Da composição de custos e avaliação errônea do preço unitário e da formação de preço baseada exclusivamente em cotação, em afronta ao art. 6º, XXIII, XXV e LVI, c/c o art. 23, § 2º, da Lei n. 14.133/2021, em especial ao art. 11, III, da mesma lei (subitem 4.2 do Relatório DLC/COSE/Div.3 n. 492/2024). 3. Considerar prejudicada a análise do pedido de sustação cautelar do Edital do Pregão Eletrônico n. 220/2024, tendo em vista a medida cautelar adotada na Decisão Singular GAC/WWD - 341/2024, nos autos do Processo n. @LCC-24/00338846. 4 . Determinar à Prefeitura Municipal de Joinville a retificação do memorial descritivo - Serviços SEI n. 0020617352/2024 - SEINFRA.UIP – item 2 – Descrição dos Serviços, no tocante à divergência deste com o prazo previsto no Edital SEI n. 0020926708/2024 – SAP.LCT, Item 15 - Dos prazos e da forma de execução do objeto (subitem 4.3 do Relatório DLC). 5. Determinar a vinculação destes autos ao Processo n. @LCC-24/00338846, 6. Dar ciência desta Decisão, bem como do Relatório e Voto do Relator que a fundamentam, à Interessada retronominada, à Prefeitura Municipal de Joinville e ao Órgão de Controle Interno e à Procuradoria Jurídica daquele Município. Ata n.: 19/2024 Data da Sessão: 14/06/2024 - Ordinária - Virtual Especificação do quórum: Herneus João De Nadal, José Nei Alberton Ascari, Adircélio de Moraes Ferreira Júnior, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Luiz Eduardo Cherem e Aderson Flores Representante do Ministério Público junto ao Tribunal de Contas/SC: Cibelly Farias Conselheiros-Substitutos presentes: Gerson dos Santos Sicca, Cleber Muniz Gavi e Sabrina Nunes Iocken HERNEUS JOÃO DE NADAL Presidente WILSON ROGÉRIO WAN-DALL Relator Fui presente: CIBELLY FARIAS Procuradora-Geral Adjunta do Ministério Público junto ao Tribunal de Contas/SC"
+  },
+  {
+   "i": 3,
+   "tipo": "tce",
+   "ref": "REP 25/00108796",
+   "header": "⭐ REP 25/00108796 — Representação",
+   "status": "🟠 cautelar / sustação",
+   "data": "09/07/2025",
+   "texto": "Prefeitura Municipal de Joinville Possíveis irregularidades no Edital de Pregão Eletrônico n.185/2025 - Registro de Preços para aquisição de | Aquisição de pneus e câmaras ",
+   "decisao": "decide: 1. Considerar improcedente a Representação formulada pela empresa Forterm Representações e Comércio Ltda., que trata de possível irregularidade no edital do Pregão Eletrônico n. 185/2025, promovido pela Prefeitura Municipal de Joinville, visando ao registro de preços para a aquisição de material de expediente, no valor previsto de R$27.235.664,79 (vinte e sete milhões, duzentos e trinta e cinco mil, seiscentos e sessenta e quatro reais e setenta e nove centavos). 2. Dar ciência desta Decisão, do Relatório e Voto do Relator que a fundamentam, bem como do Relatório DLC/CAJU-I/Div.5 n. 669/2025, à empresa Representante, Forterm Representações e Comércio Ltda, ao Prefeito Municipal de Joinville e à Assessoria Jurídica e ao responsável pelo Controle Interno da Unidade Gestora em tela. Ata n.: 30/2025 Data da Sessão: 22/08/2025 - Ordinária - Virtual Especificação do quórum: Herneus João De Nadal, José Nei Alberton Ascari, Adircélio de Moraes Ferreira Júnior, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Luiz Eduardo Cherem e Aderson Flores Representante do Ministério Público junto ao Tribunal de Contas/SC: Cibelly Farias Conselheiros-Substitutos presentes: Gerson dos Santos Sicca, Cleber Muniz Gavi e Sabrina Nunes Iocken HERNEUS JOÃO DE NADAL Presidente GERSON DOS SANTOS SICCA Relator Fui presente: CIBELLY FARIAS Procuradora-Geral do Ministério Público junto ao Tribunal de Contas/SC"
+  },
+  {
+   "i": 4,
+   "tipo": "tce",
+   "ref": "LCC 25/00061897",
+   "header": "⭐ LCC 25/00061897 — Licitações e Contratos",
+   "status": "🟠 cautelar / sustação",
+   "data": "23/09/2025",
+   "texto": "Prefeitura Municipal de Joinville Concessão e gestão do serviço de transporte público urbano e proposta de modelo de seleção, de modelagem do ",
+   "decisao": "DECIDO: 1 – Conhecer o Relatório nº DLC - 569/2025, que trata da análise preliminar dos procedimentos de planejamento da concessão comum dos serviços de transporte público coletivo de passageiros e de transporte de pessoas com deficiência, no perímetro urbano do Município de Joinville, em atenção à Instrução Normativa nº TC-022/2015. 2 – Recomendar ao Sr. Adriano Bornschein Silva, Prefeito de Joinville, com fundamento no art. 11, § 1°, da Instrução Normativa nº TC-022/2015, a adoção de providências visando ao atendimento das orientações técnicas relativas ao planejamento para a futura delegação, por meio de concessão comum, dos serviços de transporte público coletivo de passageiros e de transporte de pessoas com deficiência no perímetro urbano do Município de Joinville, nos termos da fundamentação exposta no item 2 do Relatório nº DLC 569/2025, arroladas a seguir, destacando-se aquelas cujo não atendimento poderá, eventualmente, ensejar a sustação cautelar do certame: 2.1 – Termo de Referência, Plano de Negócios e Fluxo de Caixa: 2.1.1 – Incluir os seguintes documentos atinentes à regularidade fiscal dos subsídios tarifários a serem destinados à concessão, nos termos da Lei Complementar (federal) nº 101/2000 (Lei de Responsabilidade Fiscal, LRF): a) Estimativa de impacto orçamentário-financeiro no exercício de início da despesa e nos dois subsequentes, consoante art. 16, I, da LRF; b) Declaração do ordenador da despesa quanto à adequação orçamentária e compatibilidade com o PPA, LDO e LOA, conforme art. 16, II, da LRF; c) Demonstração da origem dos recursos para custeio da despesa obrigatória de caráter continuado (subsídios tarifários ao longo da contratação), conforme art. 17, § 1º, da LRF; e d) Comprovação de que a nova despesa não afetará as metas fiscais e de que será compensada por aumento permanente de receita ou redução permanente de despesa, conforme art. 17, § 2º e § 3º, da LRF; 2.1.2 – Garantir que os custos estimados em “Custo Unitário de Investimentos em reforma e construção de Terminais” estejam definidos em suficientes “elementos do projeto básico que permitam sua plena caracterização”, em atenção ao art. 23, caput, da Lei (federal) nº 14.133/2021 c/c o art. 18, IV e XV, da Lei (federal) nº 8.987/1995, bem como com o art. 9º, § 1º da Lei (federal) nº 12.587/2012; 2.1.3 – Retificar ou justificar o custo unitário adotado para “área de circulação de veículo”, indicando a adoção de valores compatíveis com os praticados pelo mercado e com as condições aceitas pelo próprio Poder Concedente no item 1.2.2.7, “c” do Termo de Referência, adotando o valor unitário mais vantajoso para a Administração Pública dentre as soluções permitidas pelo Edital, em atenção ao art. 23, caput, da Lei (federal) nº 14.133/2021 c/c o art. 18, IV e XV da Lei (federal) nº 8.987/1995, bem como com o art. 9º, § 1º, da Lei (federal) nº 12.587/2012; 2.1.4 – Retificar ou justificar a diferença nos quantitativos previstos para abrigos e placas, uma vez que o total de"
+  },
+  {
+   "i": 5,
+   "tipo": "tce",
+   "ref": "LCC 22/00249360",
+   "header": "⭐ LCC 22/00249360 — Licitações e Contratos",
+   "status": "❔ em tramitação",
+   "data": "26/05/2023",
+   "texto": "Prefeitura Municipal de Joinville Dispensa de Licitação n. 273/2022 - Contratação de estudo especializado e pesquisas a serem elaborados com base ",
+   "decisao": "decide: 1. Conhecer do Relatório DLC/COSE/Div.4 n. 1006/2022, que trata do exame do Termo de Dispensa de Licitação n. 273/2022 para contratação da Fundação Instituto de Pesquisa Econômicas - FIPE - pelo Município de Joinville, visando à elaboração de estudo especializado para estruturação de projeto de concessão e gestão do serviço de transporte público urbano, no valor de R$ 3.280.000,00, com fulcro no inciso XIII do art. 24 da Lei n. 8.666/1993. 2. Recomendar aos Srs. Adriano Silva, Prefeito Municipal de Joinville, e Jorge Luiz Correia de Sá, Secretário de Infraestrutura daquele Município e subscritor do Termo de Dispensa de Licitação n. 273/2022, que se abstenham de realizar contratações futuras de projetos de infraestrutura por meio de contratação direta, salvo em casos devidamente justificados e fundamentados juridicamente. 3. Dar ciência desta Decisão, bem como do Relatório e Voto do Relator que a fundamentam, à Prefeitura Municipal de Joinville e ao Secretário de Infraestrutura daquele Município. 4. Determinar o arquivamento dos autos. Ata n.: 16/2023 Data da Sessão: 10/05/2023 - Ordinária - Virtual Especificação do quórum: Herneus João De Nadal, José Nei Alberton Ascari, Adircélio de Moraes Ferreira Júnior, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Luiz Eduardo Cherem e Gerson dos Santos Sicca (art. 86, §4º, da LC n. 202/2000) Representante do Ministério Público de Contas/SC: Diogo Roberto Ringenberg Conselheiros-Substitutos presentes: Cleber Muniz Gavi e Sabrina Nunes Iocken HERNEUS JOÃO DE NADAL Presidente CLEBER MUNIZ GAVI Relator Fui presente: DIOGO ROBERTO RINGENBERG Procurador-Geral do Ministério Público de Contas/SC Rio do Sul"
+  },
+  {
+   "i": 6,
+   "tipo": "tce",
+   "ref": "PCP 23/00106609",
+   "header": "⭐ PCP 23/00106609 — Prestação de Contas do Prefeito",
+   "status": "🟢 parecer pela aprovação",
+   "data": "18/12/2023",
+   "texto": "Prefeitura Municipal de Joinville Prestação de Contas do Prefeito referente ao exercício de 2022 "
+  },
+  {
+   "i": 7,
+   "tipo": "tce",
+   "ref": "PCP 22/00113700",
+   "header": "⭐ PCP 22/00113700 — Prestação de Contas do Prefeito",
+   "status": "🟢 parecer pela aprovação",
+   "data": "19/12/2022",
+   "texto": "Prefeitura Municipal de Joinville Prestação de Contas do Prefeito referente ao exercício de 2021 "
+  },
+  {
+   "i": 8,
+   "tipo": "tce",
+   "ref": "REP 18/00195114",
+   "header": "⭐ REP 18/00195114 — Representação",
+   "status": "⬛ julgado irregular + multa",
+   "data": "15/03/2023",
+   "texto": "Prefeitura Municipal de Joinville Representação do Ministério Público acerca de supostas irregularidades na execução do Contrato de Concessão n. Romualdo Theophanes de França Júnior, Udo Döhler, Flávio Martins Alves, Miguel Ângelo Bertolini, Ana",
+   "decisao": "ACORDAM os Conselheiros do Tribunal de Contas do Estado de Santa Catarina, reunidos em Sessão Plenária, diante das razões apresentadas pelo Relator e com fulcro nos arts. 59 e 113 da Constituição Estadual e 1º da Lei Complementar (estadual) n. 202/2000: 1. Considerar parcialmente procedente o mérito da Representação formulada pela 13ª Promotoria de Justiça da Comarca de Joinville do Ministério Público de Santa Catarina, por intermédio do Promotor de Justiça Rene José Anderle, em face de possíveis irregularidades no Termo de Contrato de Concessão n. 378/2002, da Prefeitura Municipal de Joinville, que visa à concessão de serviço de coleta de resíduos, manutenção de aterro sanitário e limpeza de áreas públicas, nos termos do art. 27, parágrafo único, da Instrução Normativa n. TC-21/2015, em vista da concessão de reequilíbrio econômico-financeiro, formalizado no 6º Aditivo Contratual, a despeito de não subjazerem os requisitos autorizativos, em violação ao art. 65, II, “d”, da Lei n. 8.666/1993. 2. Aplicar ao Sr. Romualdo Theophanes de França Júnior, Secretário Municipal de Infraestrutura Urbana de Joinville à época, inscrito no CPF sob o n. 486.844.499-91, com fundamento no art. 70, II, da Lei Complementar (estadual) n. 202/2000 c/c o art. 109, II, da Resolução n. TC- 06/2001, multa no valor de R$ 3.000,00 (três mil reais), em face da autorização da revisão do Contrato de Concessão n. 378/2002 sem embasamento em estudos técnicos que tenham apurado e atestado o alegado desequilíbrio contratual, em violação ao art. 65, II, “d”, da Lei n. 8.666/1993, fixando-lhe o prazo de 30 (trinta) dias, a contar da publicação deste Acórdão no Diário Oficial Eletrônico desta Corte de Contas, para comprovar ao Tribunal o recolhimento ao Tesouro do Estado da multa cominada, ou interpor recurso na forma da lei, sem o quê, fica desde logo autorizado o encaminhamento da dívida para cobrança judicial, observado o disposto nos arts. 43, II, e 71 do referido diploma legal. 3. Determinar ao Sr. Adriano Silva, Prefeito Municipal de Joinville, e aos Responsáveis pela gestão do Contrato de Concessão n. 378/2002, que acompanhem as ações judiciais que ainda tramitam no Poder Judiciário. 4. Determinar à Diretoria-Geral de Controle Externo deste Tribunal que, em conjunto com a Diretoria de Licitações e Contrações, avalie as medidas a serem adotadas visando à fiscalização da execução do Termo de Contrato de Concessão n. 378/2002, da Prefeitura Municipal de Joinville. O trânsito em julgado ocorreu em 2/5/2023 (fl. 1883). Tendo assumido o novo Presidente do TCE/SC, Conselheiro Herneus João De Nadal, em 13/2/2023, o processo foi redistribuído para este Conselheiro, nos termos do disposto no art. 122 da Resolução n. TC-06/2001 (Regimento Interno deste Tribunal). Em razão da determinação para que a Diretoria-Geral de Controle Externo (DGCE) deste Tribunal, juntamente com a Diretoria de Licitações e Contrações (DLC), avaliassem as medidas a serem adotadas, visando à fiscalização da execuç"
+  },
+  {
+   "i": 9,
+   "tipo": "tce",
+   "ref": "REP 23/80028294",
+   "header": "⭐ REP 23/80028294 — Representação",
+   "status": "⬛ julgado irregular + multa",
+   "data": "23/05/2024",
+   "texto": "Prefeitura Municipal de Joinville | Prefeitura de Otacílio Costa Representação acerca de supostas irregularidades referentes ao Pregão Eletrônico n. 617/22 - Contratação de | Situação atuarial deficitária do RPPS de Otacílio Costa e apropriação indevida de valores do fundo previdenciário Silvia Cristina Bello e Ricardo Mafra",
+   "decisao": "ACORDAM os Conselheiros do Tribunal de Contas do Estado de Santa Catarina, reunidos em Sessão Plenária, diante das razões apresentadas pelo Relator e com fulcro nos arts. 59 e 113 da Constituição Estadual e 1º da Lei Complementar (estadual) n. 202/2000: 1. Considerar procedente a Representação, nos termos do art. 27, parágrafo único, da Instrução Normativa n. TC-21/2015, representada por Sr. Michel Evandro do Carmo Barbosa, em razão de supostas irregularidades no Edital do Pregão Eletrônico n. 617/2022. 2. Aplicar aos Responsáveis abaixo nominados, com fundamento no art. 70, II, da Lei Complementar (estadual) n. 202/2000 c/c o art. 109, II, do Regimento Interno deste Tribunal (Resolução n. TC-06/2001), as multas adiante elencadas, em face da divisão do objeto em itens (unitários) de até R$ 80.000,00 (oitenta mil reais), dispensando-se tratamento diferenciado às microempresas e às empresas de pequeno porte, sem observância dos critérios legais para tanto, especificamente o art. 49, III, da Lei Complementar n. 123/2006 (item 2.3.3 do Relatório DLC/CAJU-I/Div.6 n. 1170/2023), em violação, também, ao princípio da eficiência/economicidade, fixando-lhes o prazo de 30 (trinta) dias para comprovar ao Tribunal de Contas o recolhimento das multas aos cofres do Município, ou interporem recurso na forma da lei, sem o quê, fica desde logo, autorizado o encaminhamento da dívida para cobrança judicial, observado o disposto nos arts. 43, II, e 71, da Lei Complementar (estadual) n. 202/2000: 2.1. ao Sr. RICARDO MAFRA, inscrito no CPF/MF sob o n. 936.518.649-87, a multa no valor de R$ 1.990.60 (mil, novecentos e noventa reais e sessenta centavos); 2.2. à Sra. SILVIA CRISTINA BELLO, inscrita no CPF/MF sob o n. 947.742.859-00, a multa no valor de R$ 1.990.60 (mil, novecentos e noventa reais e sessenta centavos). 3. Dar ciência deste Acórdão à Sra. Silvia Cristina Bello, ao Sr. Ricardo Mafra, à Prefeitura Municipal de Joinville, ao Controle Interno daquela Unidade Gestora e à Câmara Municipal de Joinville. Ata n.: 14/2024 Data da Sessão: 10/05/2024 - Ordinária - Virtual Especificação do quórum: Herneus João De Nadal, José Nei Alberton Ascari, Wilson Rogério Wan-Dall, Luiz Eduardo Cherem, Aderson Flores, Cleber Muniz Gavi (art. 86, caput, da LC n. 202/2000) e Sabrina Nunes Iocken (art. 86, caput, da LC n. 202/2000) Representante do Ministério Público junto ao Tribunal de Contas/SC: Diogo Roberto Ringenberg Conselheiro-Substituto presente: Gerson dos Santos Sicca HERNEUS JOÃO DE NADAL Presidente WILSON ROGÉRIO WAN-DALL Relator Fui presente: DIOGO ROBERTO RINGENBERG Procurador-Geral do Ministério Público junto ao Tribunal de Contas/SC Otacílio Costa PROCESSO Nº: @RLI-24/00077945 UNIDADE GESTORA: Prefeitura de Otacílio Costa RESPONSÁVEL: Fabiano Baldessar de Souza INTERESSADOS: Fabiano Baldessar de Souza, Prefeitura de Otacílio Costa ASSUNTO: Situação atuarial deficitária do RPPS de Otacílio Costa e apropriação indevida de valores do fundo previdenciário no fundo finan"
+  },
+  {
+   "i": 10,
+   "tipo": "tce",
+   "ref": "REP 25/00059302",
+   "header": "⭐ REP 25/00059302 — Representação",
+   "status": "🟠 cautelar / sustação",
+   "data": "10/04/2025",
+   "texto": "Prefeitura Municipal de Joinville Possíveis irregularidades no Pregão Eletrônico 385/2024 - Contratação de empresa especializada de serviços de ",
+   "decisao": "Diante do exposto, a medida cautelar há de ser indeferida, por ausência de fumus boni iuris. Gizo que as considerações aqui traçadas se dão em juízo de cognição não exauriente, ou seja, são preliminares e não significam julgamento definitivo quanto ao mérito, que será examinado após a regular tramitação do processo. Por tal motivo, pertinente que se determine a audiência da responsável, principalmente para venham aos autos mais elementos para a elucidação do ponto concernente à exequibilidade da proposta, o que permitirá um juízo definitivo sobre a matéria. Por ora, correto o entendimento da DLC no sentido da inexistência de fatos que indiquem conduta irregular por parte da Pregoeira. Ante o exposto, DECIDO: 1 – Conhecer a Representação proposta pela empresa Nutriville Restaurante S/A, por intermédio de seu Diretor, Sr. Alberto Beier, comunicando suposta irregularidade no Pregão Eletrônico nº 385/2024, realizado pela Unidade de Licitações da Secretaria de Administração e Planejamento de Joinville, cujo objeto é a contratação de empresa especializada na prestação de serviços de Alimentação e Nutrição (SAN), para fornecimento contínuo de refeições completas, produção e distribuição ao Hospital Municipal São José (HMSJ), com valor referencial estimado foi de R$ 12.832.830,00 (doze milhões, oitocentos e trinta e dois mil, e oitocentos e trinta reais), pois atendidos os requisitos de admissibilidade e os critérios de seletividade, consoante o art. 96, § 2º, I e II, do Regimento Interno do Tribunal de Contas. 2 – Indeferir a Medida Cautelar pleiteada, pois ausentes os pressupostos estabelecidos no art. 114-A do Regimento Interno do Tribunal de Contas. 3 – Determinar a audiência da Sra. Ana Luiz Baumer, Pregoeira, e do Sr. Ricardo Mafra, Secretário Municipal de Administração e Planejamento de Joinville, ambos signatários do julgamento do Recurso Sei nº 0024049184/2025 - SAP.LCT, nos termos do art. 29, § 1º, da Lei Complementar (estadual) nº 202/2000, para, no prazo de 30 (trinta) dias, a contar do recebimento da deliberação, com amparo no art. 46, I, b, do mesmo diploma legal c/c o art. 124 do Regimento Interno do Tribunal de Contas, apresentar justificativas sobre a apontada insuficiência na aferição da exequibilidade da proposta vencedora do Pregão Eletrônico nº 385/2024. 4 – Dar ciência imediata da Decisão e do Relatório Técnico n° DLC – 356/2025, à representante, à Prefeitura Municipal de Joinville e a seus órgãos de controle interno e de assessoramento jurídico. 5 – Determinar a submissão do indeferimento da medida cautelar ao Plenário na próxima Sessão, nos termos do § 1º do Artigo 114-A do Regimento Interno desta Corte de Contas. Ato contínuo, remeter os autos ao Ministério Público de Contas (MPC), para manifestação. Publique-se. Gabinete, data da assinatura digital. Gerson dos Santos Sicca Relator NOTIFICAÇÃO DE ALERTA Nº 259/2025 O(A) Diretor(a) da Diretoria de Contas de Governo, por delegação"
+  },
+  {
+   "i": 11,
+   "tipo": "tce",
+   "ref": "PAP 23/80028294",
+   "header": "⭐ PAP 23/80028294 — Processo de Apuração",
+   "status": "❔ em tramitação",
+   "data": "06/10/2023",
+   "texto": "Prefeitura Municipal de Joinville Procedimento Apuratório Preliminar acerca de supostas irregularidades referentes ao edital do Pregão Eletrônico n. Adriano Bornschein Silva, Silvia Cristina Bello e Ricardo Mafra",
+   "decisao": "decide: 1. Considerar atendidos os critérios de seletividade pelo Procedimento Apuratório Preliminar, nos termos dos arts. 7º da Portaria n. TC-156/2021 e 10, I, da Resolução n. TC-165/2020 (item 2.2 do Relatório DLC/CAJU-I/Div.6 n. 373/2023). 2. Converter o Procedimento Apuratório Preliminar em processo de Representação, nos termos dos arts. 7º da Portaria n. TC-0156/2021 e 10, I, da Resolução n. TC-165/2020. 3. Conhecer da Representação formulada pela empresa Guia Veículos Ltda., comunicando supostas irregularidades no edital do Pregão Eletrônico n. 617/2022, promovido pela Prefeitura de Joinville, para contratação de empresa especializada na prestação de serviço de locação de veículos com e sem condutores, pelo valor total estimado de R$ 16.726.673,52 (dezesseis milhões setecentos e vinte e seis mil seiscentos e setenta e três reais e cinquenta e dois centavos), por atender aos requisitos de admissibilidade para a sua apreciação, previstos na Instrução Normativa n. TC-21/2015 (item 2.3 do Relatório DLC). 4. Determinar audiência da Sra. SILVIA CRISTINA BELLO, CPF n. 947.742.859-00, Diretora Executiva, e do Sr. RICARDO MAFRA, CPF n. 936.518.649-87, Secretário Municipal, nos termos do art. 29, § 1º, da Lei Complementar (estadual) n. 202, de 15 de dezembro de 2000, para, no prazo de 30 (trinta) dias, com fulcro no art. 46, I, b, do mesmo diploma legal c/c o art. 124 do Regimento Interno desta Casa (Resolução n. TC-06, de 28 de dezembro de 2001), apresentarem justificativas, adotarem as medidas corretivas necessárias ao exato cumprimento da lei ou, se for o caso, promoverem a anulação do Pregão promovido pela Prefeitura, em razão das irregularidades descritas nos itens 4.1 e 4.2 da presente deliberação. 4.1. Exigência de que os itens (veículos) a serem locados sejam emplacados (licenciados) no Município licitante, fato que acarreta direcionamento indevido do certame, restringindo, por conseguinte, a competitividade, em violação ao art. 3º, §1º, I da Lei n. 8.666/93 (item 2.3.2 do Relatório DLC); 4.2. Divisão do objeto em itens (unitários) de até R$ 80.000,00 (oitenta mil reais), dispensando-se tratamento diferenciado às microempresas e às empresas de pequeno porte, sem observância dos critérios legais para tanto, especificamente o art. 49, III, da Lei Complementar 123/06 (item 2.3.3 do Relatório DLC), em violação, também, ao princípio da eficiência/economicidade. 5. Determinar diligência à Sra. SILVIA CRISTINA BELLO e ao Sr. RICARDO MAFRA para que, nos termos do inciso I do art. 25 da Instrução Normativa n. TC-21/2015, no prazo máximo de 05 (cinco) dias, conforme parágrafo único do art. 25 da citada IN, com fulcro na letra “a” do inciso I do art. 46 da Lei Complementar (estadual) n. 202/2000, apresentem a este Tribunal os documentos do processo licitatório PE 617/2022 (estudos, pesquisas, edital, termo de referência, levantamento de participantes), para que sejam examinadas as justificativas apresentadas pela administração na fase interna. 6. Da"
+  },
+  {
+   "i": 12,
+   "tipo": "tce",
+   "ref": "DEN 25/00006012",
+   "header": "⭐ DEN 25/00006012 — Denúncia",
+   "status": "🔴 apontou irregularidade",
+   "data": "24/02/2025",
+   "texto": "Prefeitura Municipal de Joinville | Instituto de Previdência do Município de Lages | Instituto de Previdência Social dos Servidores Públicos do Município de São Bento do Sul Possíveis irregularidades na contratação temporária de servidores para a função de Auxiliar de Educador, em | Registro de Ato de Aposentadoria de Andreia Simone Correa Melo | Registro de Ato de Aposentadoria de Sueli Aparecida Martins | Registro de Ato de Aposentadoria Joseane Dziedicz Instituto de Previdência do Município de Lages - LAGESPREVI, Prefeitura de Lages | Instituto de Previdência Social dos Servidores Públicos do Município de São Bento do Sul, Prefeitura de São",
+   "decisao": "DECIDO: 1 – Converter o procedimento em Relatório de Inspeção (RLI), na forma do art. 10, I, da Resolução nº TC – 0165/2020, tendo em vista o alcance dos critérios de seletividade dispostos no mesmo diploma normativo. 2 – Determinar a realização de diligência à Prefeitura Municipal de Joinville, na pessoa do seu atual gestor, para que, no prazo de 30 (trinta) dias, a contar da publicação da Decisão no Diário Oficial Eletrônico do Tribunal de Contas (DOTC-e): 2.1 – envie a relação entre a quantidade de servidores efetivos e contratados temporariamente, referente ao mês de janeiro/2025, no cargo de Auxiliar de Educador, no seguinte formato: Quantidade de cargos prevista Quantidade de servidores Quantidade de servidores Cargo em lei efetivos em exercício contratados temporariamente Auxiliar de Educador 2.2 – envie documentos e informações que elucidem a motivação das contratações temporárias realizadas para a função de Auxiliar de Educador, tendo em vista que o elevado quantitativo verificado em relação a dezembro/2024 indica possível desvirtuamento da transitoriedade inerente à modalidade de contratação; 2.3 – remeta outros documentos e informações que entender pertinentes. 3 – Alertar, desde já, que o não-atendimento à diligência é suscetível de aplicação da multa prevista no art. 70, III, da Lei Complementar (estadual) nº 202/2000, no modo previsto no art. 109, § 3º, do Regimento Interno do Tribunal de Contas. 4 – Dar ciência à Prefeitura Municipal de Joinville, na pessoa do seu atual gestor, bem como à assessoria jurídica e ao órgão de controle interno da unidade gestora. Gabinete, data da assinatura digital. Gerson dos Santos Sicca Relator Lages PROCESSO Nº: @APE-22/00677590 UNIDADE GESTORA: Instituto de Previdência do Município de Lages RESPONSÁVEL: Aldo da Silva Honório e Roselainy Lima Lopes INTERESSADOS: Instituto de Previdência do Município de Lages - LAGESPREVI, Prefeitura de Lages ASSUNTO: Registro de Ato de Aposentadoria de Andreia Simone Correa Melo RELATOR: Conselheiro Aderson Flores UNIDADE TÉCNICA: Divisão 7 - DAP/CAPE III/DIV7 DECISÃO SINGULAR: GAC/AF - 312/2025 Tratam os autos de ato de aposentadoria submetido à apreciação deste Tribunal de Contas, nos termos em que dispõem os arts. 59, III, da Constituição Estadual, 1º, IV, da Lei Complementar Estadual n° 202/2000, 1º, IV, do Regimento Interno do Tribunal de Contas - Resolução n° TC-6/2001, e a Resolução n° TC-35/2008. A Diretoria de Atos de Pessoal, por meio do Relatório nº DAP-58/2025 (fls. 60/63), sugeriu ordenar o registro do ato em questão, dada a regularidade deste. Instado a se manifestar, o Ministério Público de Contas, mediante o parecer nº MPC/SRF/147/2025 (fl. 64), acompanhou o posicionamento emitido pela DAP. Em seguida veio o processo, na forma regimental, para decisão. Considerando-se o Relatório Técnico emitido pela Diretoria de Controle"
+  },
+  {
+   "i": 13,
+   "tipo": "tce",
+   "ref": "REP 25/00108796",
+   "header": "⭐ REP 25/00108796 — Representação",
+   "status": "❔ em tramitação",
+   "data": "15/09/2025",
+   "texto": "Prefeitura Municipal de Joinville Representação acerca de supostas irregularidades referentes ao edital do Pregão Eletrônico n. 185/2025 - Registro Forterm Representações e Comércio Ltda.",
+   "decisao": "decide: 1. Considerar improcedente a Representação formulada pela empresa Forterm Representações e Comércio Ltda., que trata de possível irregularidade no edital do Pregão Eletrônico n. 185/2025, promovido pela Prefeitura Municipal de Joinville, visando ao registro de preços para a aquisição de material de expediente, no valor previsto de R$27.235.664,79 (vinte e sete milhões, duzentos e trinta e cinco mil, seiscentos e sessenta e quatro reais e setenta e nove centavos). 2. Dar ciência desta Decisão, do Relatório e Voto do Relator que a fundamentam, bem como do Relatório DLC/CAJU-I/Div.5 n. 669/2025, à empresa Representante, Forterm Representações e Comércio Ltda, ao Prefeito Municipal de Joinville e à Assessoria Jurídica e ao responsável pelo Controle Interno da Unidade Gestora em tela. Ata n.: 30/2025 Data da Sessão: 22/08/2025 - Ordinária - Virtual Especificação do quórum: Herneus João De Nadal, José Nei Alberton Ascari, Adircélio de Moraes Ferreira Júnior, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Luiz Eduardo Cherem e Aderson Flores Representante do Ministério Público junto ao Tribunal de Contas/SC: Cibelly Farias Conselheiros-Substitutos presentes: Gerson dos Santos Sicca, Cleber Muniz Gavi e Sabrina Nunes Iocken HERNEUS JOÃO DE NADAL Presidente GERSON DOS SANTOS SICCA Relator Fui presente: CIBELLY FARIAS Procuradora-Geral do Ministério Público junto ao Tribunal de Contas/SC"
+  },
+  {
+   "i": 14,
+   "tipo": "tce",
+   "ref": "REP 25/00059302",
+   "header": "⭐ REP 25/00059302 — Representação",
+   "status": "❔ em tramitação",
+   "data": "24/10/2025",
+   "texto": "Prefeitura Municipal de Joinville Representação acerca de supostas irregularidades referentes ao Pregão Eletrônico n. 385/2024-Contratação de ",
+   "decisao": "Diante do exposto, a medida cautelar há de ser indeferida, por ausência de fumus boni iuris. Gizo que as considerações aqui traçadas se dão em juízo de cognição não exauriente, ou seja, são preliminares e não significam julgamento definitivo quanto ao mérito, que será examinado após a regular tramitação do processo. Por tal motivo, pertinente que se determine a audiência da responsável, principalmente para venham aos autos mais elementos para a elucidação do ponto concernente à exequibilidade da proposta, o que permitirá um juízo definitivo sobre a matéria. Por ora, correto o entendimento da DLC no sentido da inexistência de fatos que indiquem conduta irregular por parte da Pregoeira. Ante o exposto, DECIDO: 1 – Conhecer a Representação proposta pela empresa Nutriville Restaurante S/A, por intermédio de seu Diretor, Sr. Alberto Beier, comunicando suposta irregularidade no Pregão Eletrônico nº 385/2024, realizado pela Unidade de Licitações da Secretaria de Administração e Planejamento de Joinville, cujo objeto é a contratação de empresa especializada na prestação de serviços de Alimentação e Nutrição (SAN), para fornecimento contínuo de refeições completas, produção e distribuição ao Hospital Municipal São José (HMSJ), com valor referencial estimado foi de R$ 12.832.830,00 (doze milhões, oitocentos e trinta e dois mil, e oitocentos e trinta reais), pois atendidos os requisitos de admissibilidade e os critérios de seletividade, consoante o art. 96, § 2º, I e II, do Regimento Interno do Tribunal de Contas. 2 – Indeferir a Medida Cautelar pleiteada, pois ausentes os pressupostos estabelecidos no art. 114-A do Regimento Interno do Tribunal de Contas. 3 – Determinar a audiência da Sra. Ana Luiz Baumer, Pregoeira, e do Sr. Ricardo Mafra, Secretário Municipal de Administração e Planejamento de Joinville, ambos signatários do julgamento do Recurso Sei nº 0024049184/2025 - SAP.LCT, nos termos do art. 29, § 1º, da Lei Complementar (estadual) nº 202/2000, para, no prazo de 30 (trinta) dias, a contar do recebimento da deliberação, com amparo no art. 46, I, b, do mesmo diploma legal c/c o art. 124 do Regimento Interno do Tribunal de Contas, apresentar justificativas sobre a apontada insuficiência na aferição da exequibilidade da proposta vencedora do Pregão Eletrônico nº 385/2024. 4 – Dar ciência imediata da Decisão e do Relatório Técnico n° DLC – 356/2025, à representante, à Prefeitura Municipal de Joinville e a seus órgãos de controle interno e de assessoramento jurídico. 5 – Determinar a submissão do indeferimento da medida cautelar ao Plenário na próxima Sessão, nos termos do § 1º do Artigo 114-A do Regimento Interno desta Corte de Contas. Ato contínuo, remeter os autos ao Ministério Público de Contas (MPC), para manifestação. Publique-se. Gabinete, data da assinatura digital. Gerson dos Santos Sicca Relator NOTIFICAÇÃO DE ALERTA Nº 259/2025 O(A) Diretor(a) da Diretoria de Contas de Governo, por delegação"
+  }
+ ]
+}

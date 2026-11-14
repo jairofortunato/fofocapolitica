@@ -1,0 +1,281 @@
+[0m
+> build · gpt-5.4-mini
+[0m
+Vou começar lendo o critério obrigatório e mapear os três lotes antes de julgar caso a caso.
+[0m→ [0mRead pdf_template/CURADORIA.md
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__52.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__53.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__54.json
+Já tenho o critério e os três lotes. Vou concentrar a decisão nos casos com fato narrado suficiente e cortar o que está vago, sigiloso ou só processual.
+Vou gerar os curados de forma mecânica a partir das decisões editoriais e escrever cada lote já com a ordem original preservada.
+[0m✱ [0mGlob "pdf_template/amunesc/_lotes_curados"[90m in . · 0 matches[0m
+[0m✱ [0mGlob "pdf_template/amunesc/_lotes/*.json"[90m in . · 100 matches[0m
+[0m
+[0m$ [0mmkdir -p "/Users/jairofortunato/mp/pdf_template/amunesc/_lotes_curados"
+(no output)
+[0m
+[0m$ [0mpython - <<'PY'
+import json
+from pathlib import Path
+
+base = Path('/Users/jairofortunato/mp/pdf_template/amunesc/_lotes')
+out = Path('/Users/jairofortunato/mp/pdf_template/amunesc/_lotes_curados')
+
+maps = {
+    'joinville__52.json': {
+        3640: ('keep', 'MP arquiva apuração sobre canino em vulnerabilidade em Joinville', 'A notícia apurava a situação de um canino na Rua da Independência. A SAMA informou que o animal foi resgatado e depois adotado. O caso foi indeferido e arquivado sem instauração.', '🟢 arquivado', 'media'),
+        3646: ('keep', 'MP arquiva caso de felinos na Rua Oscar P. Scholz', 'A notícia tratava de felinos abandonados perto da residência da noticiante. A SAMA disse que a situação amenizou e que os gatos dispersaram. O órgão indeferiu a instauração.', '🟢 arquivado', 'media'),
+        3647: ('keep', 'MP arquiva denúncia sobre canino doado em Joinville', 'A apuração envolvia um canino na Rua Willy Afonso Jacob. O animal foi doado e houve termo de tutela com o novo tutor. O caso foi encerrado sem instauração.', '🟢 arquivado', 'media'),
+        3648: ('keep', 'MP arquiva apuração sobre três cachorras de rua', 'A notícia tratava de três cachorras e da falta de complementação da noticiante. Como não vieram dados mínimos para avançar, a instauração foi indeferida.', '🟢 arquivado', 'media'),
+        3649: ('keep', 'MP arquiva caso de canino acolhido pelo CBEA', 'A apuração envolvia um canino que precisava de atendimento do CBEA. O centro já estava com o animal sob cuidados e acolhimento. O procedimento foi indeferido.', '🟢 arquivado', 'media'),
+        3660: ('keep', 'MP arquiva apuração sobre dois cães comunitários em Joinville', 'A SAMA informou que os animais eram comunitários, castrados, microchipados e vacinados, com a canina Pretinha em fila para adoção. O caso foi arquivado sem instauração.', '🟢 arquivado', 'media'),
+        3662: ('keep', 'MP arquiva caso de canina no cio em Joinville', 'O resgate foi feito pelo Centro de Bem-Estar Animal e o bem-estar ficou resguardado. O procedimento foi indeferido e arquivado.', '🟢 arquivado', 'media'),
+        3666: ('keep', 'MP apura risco à saúde por laser estético sem Anvisa', 'O inquérito trata do uso de equipamentos a laser para fins estéticos sem aprovação da Anvisa. O texto está truncado e não traz o desfecho final.', '❔ status indef.', 'media'),
+        3670: ('keep', 'MP arquiva apuração sobre felinos com lar temporário', 'A noticiante informou que encontrou um lar temporário para os felinos antes da diligência da SAMA. O caso foi indeferido.', '🟢 arquivado', 'media'),
+        3674: ('keep', 'MP arquiva caso de cães regularizados após notificação', 'A SAMA informou que a tutora cumpriu o Auto de Notificação n. 4601/2024. Com as medidas atendidas e o bem-estar resguardado, a instauração foi indeferida.', '🟢 arquivado', 'media'),
+        3675: ('keep', 'MP arquiva apuração sobre dois cães acolhidos', 'Os cães foram acolhidos pelo órgão de proteção animal e houve requisição de inquérito policial. Mesmo assim, o MP indeferiu a instauração do feito.', '🟢 arquivado', 'media'),
+        3677: ('keep', 'MP arquiva caso de cadela atropelada e já falecida', 'A SAMA não encontrou o animal e a noticiante informou o óbito da canina. O procedimento foi indeferido por perda de objeto.', '🟢 arquivado', 'media'),
+        3681: ('keep', 'MP arquiva discussão sobre falta de medicamentos oncológicos', 'O caso tratava da demora e negativa no fornecimento de iodo radioativo a pacientes do SUS. As pretensões individuais foram resolvidas na via administrativa e o restante foi arquivado.', '🟢 arquivado', 'alta'),
+        3683: ('keep', 'MP arquiva caso solucionado na via administrativa', 'A notícia foi encerrada com a informação de que o fato estava solucionado administrativamente. O procedimento foi arquivado.', '🟢 arquivado', 'media'),
+        3684: ('keep', 'MP arquiva apuração sobre pit bull resgatado', 'O canino "Alemão" foi resgatado e levado à clínica veterinária, mas morreu em 29/11/2024. O MP indeferiu a instauração.', '🟢 arquivado', 'media'),
+        3685: ('keep', 'MP arquiva apuração por falta de elementos sobre felino', 'O MP não encontrou elementos mínimos nem recebeu as informações complementares pedidas. A instauração foi indeferida.', '🟢 arquivado', 'media'),
+        3686: ('keep', 'MP arquiva caso de canina idosa tratada por veterinário', 'A canina foi levada para tratamento veterinário e o bem-estar foi resguardado. O procedimento foi indeferido.', '🟢 arquivado', 'media'),
+        3687: ('keep', 'MP arquiva apuração sobre demora no iodo radioativo', 'O inquérito tratava de demora e negativa no fornecimento do insumo a pacientes do SUS. Como as pretensões individuais foram resolvidas, o caso foi arquivado.', '🟢 arquivado', 'alta'),
+        3688: ('keep', 'MP arquiva discussão sobre deliberação do Conselho de Saúde', 'O Executivo municipal não homologou a deliberação do CMS de forma fundamentada. O MP entendeu que não havia outras providências e arquivou o inquérito.', '🟢 arquivado', 'media'),
+        3689: ('keep', 'MP conclui apuração sobre fogos da abertura do Natal', 'A SECULT disse que os fogos eram de baixo ruído e a empresa contratada confirmou a informação, mas o texto está truncado. O desfecho final não aparece completo.', '❔ status indef.', 'media'),
+        3690: ('keep', 'MP arquiva caso de cão atropelado atendido pela SAMA', 'O animal foi resgatado, recebeu tratamento veterinário e morreu de parada cardiorrespiratória. O MP indeferiu a abertura de investigação.', '🟢 arquivado', 'media'),
+        3696: ('keep', 'MP arquiva caso de cães acolhidos no cemitério luterano', 'A SAMA acolheu três animais e o paradeiro dos remanescentes ficou incerto. O procedimento foi arquivado.', '🟢 arquivado', 'media'),
+        3703: ('keep', 'MP arquiva caso repetido sobre cão levado para Florianópolis', 'O tutor levou o animal para Florianópolis e juntou documentos ao feito. O bem-estar foi resguardado e a instauração foi indeferida.', '🟢 arquivado', 'media'),
+        3706: ('keep', 'MP arquiva orientação sobre acompanhamento de idosos na saúde', 'O caso tratava de idosos que não devem deixar de receber atendimento por falta de acompanhante. O MP arquivou o inquérito após registrar a orientação às unidades de saúde.', '🟢 arquivado', 'media'),
+    },
+    'joinville__53.json': {
+        3711: ('keep', 'MP ajuíza ACP contra escola particular em Joinville', 'O inquérito foi concluído com o ajuizamento da Ação Civil Pública n. 5001146-57.2025.8.24.0038. O texto não traz o mérito da ação, só a ida do caso à Justiça.', '🔴 ACP ajuizada', 'media'),
+        3712: ('keep', 'MP arquiva caso de três animais abandonados na Vila do Oca', 'A SAMA informou que duas caninas foram castradas e microchipadas, e a terceira foi adotada. O MP indeferiu a instauração.', '🟢 arquivado', 'media'),
+        3717: ('keep', 'MP arquiva plano de atendimento a animais silvestres no recesso', 'O órgão ajustou o encaminhamento de animais resgatados e apreendidos durante o recesso do CMV da Unisociesc. Com os fluxos definidos, o caso foi solucionado.', '🟢 arquivado', 'media'),
+        3726: ('keep', 'MP arquiva apuração sobre canino abandonado e atendido pela SAMA', 'A SAMA constatou que o animal não estava em abandono nem maus-tratos. A tutora foi localizada e orientada, e o procedimento foi indeferido.', '🟢 arquivado', 'media'),
+        3727: ('keep', 'MP arquiva caso de canina com sinais de queimadura', 'A clínica veterinária prestou atendimento e a saúde da canina ficou resguardada. O MP concluiu pela solução do caso e indeferiu a instauração.', '🟢 arquivado', 'media'),
+        3728: ('keep', 'MP arquiva caso de cão atropelado em Joinville', 'A tutora foi localizada e o animal recebeu atendimento médico veterinário. O procedimento foi encerrado sem instauração.', '🟢 arquivado', 'media'),
+        3729: ('keep', 'MP arquiva apuração sobre caninos vacinados e microchipados', 'A SAMA informou que os caninos estavam vacinados, microchipados e castrados, com bem-estar resguardado. O caso foi indeferido.', '🟢 arquivado', 'media'),
+        3738: ('keep', 'MP arquiva caso de equinas sem localização confirmada', 'A atuação do órgão de proteção animal e o boletim de fiscalização não mudaram o quadro, e houve requisição de inquérito policial. A instauração foi indeferida.', '🟢 arquivado', 'media'),
+        3739: ('keep', 'MP arquiva apuração sobre pit bull abandonado e suspeita de envenenamento', 'O canino foi acolhido e o bem-estar foi resguardado. O caso foi indeferido pela Promotoria.', '🟢 arquivado', 'media'),
+        3740: ('keep', 'MP arquiva caso de equinas com atuação do órgão de proteção animal', 'A atuação do órgão de proteção animal não trouxe novos elementos e houve requisição de inquérito policial. O MP indeferiu a instauração.', '🟢 arquivado', 'media'),
+        3745: ('keep', 'MP arquiva caso de ILPI após estudos sociais', 'A juntada dos estudos sociais levou à perda do objeto e ao fim da necessidade de investigação. O órgão arquivou o inquérito.', '❔ status indef.', 'media'),
+        3746: ('keep', 'MP arquiva caso de canino preso a cabo curto', 'A SAMA constatou animal saudável, microchipado e vacinado, com bem-estar resguardado. O caso foi indeferido.', '🟢 arquivado', 'media'),
+        3747: ('keep', 'MP arquiva caso de canina atendida pelo CBEA', 'A canina recebeu atendimento médico veterinário e o bem-estar foi resguardado. O MP concluiu pelo arquivamento.', '🟢 arquivado', 'media'),
+        3751: ('keep', 'MP arquiva caso duplicado sobre canino com partes inchadas', 'O feito foi considerado duplicado de outra notícia de fato já apurada. A instauração foi indeferida.', '🟢 arquivado', 'media'),
+        3752: ('keep', 'MP firma TAC em caso de exercício irregular de biomédica', 'O TAC previu abstenção da prática e cláusula penal. O inquérito foi arquivado após o ajuste.', '🟠 TAC firmado', 'media'),
+        3756: ('keep', 'MP arquiva apuração sobre cão no imóvel da Rua Suriname', 'A SAMA constatou que o canino e os tutores estavam em local incerto e não sabido. O MP indeferiu a instauração.', '🟢 arquivado', 'media'),
+        3757: ('keep', 'MP arquiva caso de falta de materiais para queimados no Hospital São José', 'O hospital adotou providências licitatórias para comprar os materiais necessários aos pacientes com queimaduras. O inquérito foi arquivado.', '🟢 arquivado', 'alta'),
+        3761: ('keep', 'MP arquiva caso de cães e pessoa em situação de rua', 'Um canino teria sido agredido e estava sem paradeiro conhecido, com instauração de inquérito policial para apurar maus-tratos. O MP indeferiu a instauração.', '🟢 arquivado', 'media'),
+        3762: ('keep', 'MP arquiva apuração sobre canina prenhe e filhotes', 'A SAMA apresentou documentos do atendimento à canina e aos filhotes. O bem-estar foi resguardado e o caso foi indeferido.', '🟢 arquivado', 'media'),
+        3765: ('keep', 'MP arquiva caso de canino comunitário atendido duas vezes', 'A SAMA informou que o animal recebeu atendimento veterinário e voltou às ruas por ser cão comunitário sem lar temporário. O procedimento foi indeferido.', '🟢 arquivado', 'media'),
+        3767: ('keep', 'MP arquiva apuração sobre coelhos e galinhas em Joinville', 'A vistoria da SAMA constatou 16 animais, sem falta de asseio nem ambiente insalubre. A instauração foi indeferida.', '🟢 arquivado', 'media'),
+        3769: ('keep', 'MP arquiva debate sobre participação popular no Conselho da Cidade', 'A apuração tratava de entraves à participação de movimentos sociais nas reuniões do conselho. O texto está truncado e o desfecho aparece como arquivamento.', '❔ status indef.', 'media'),
+        3773: ('keep', 'MP arquiva caso de canino com abrigo e alimentação', 'A SAMA constatou presença do animal no quintal, com abrigo, alimentação e sem maus-tratos evidentes. As medidas de vacinação, microchipagem e laudo veterinário foram acatadas.', '🟢 arquivado', 'media'),
+        3775: ('keep', 'MP firma TAC contra exercício irregular de biomédica', 'O termo de compromisso determinou a abstenção da prática e previu multa compensatória e cláusula penal. O caso foi arquivado após o ajuste.', '🟠 TAC firmado', 'media'),
+        3778: ('keep', 'MP arquiva caso de dois caninos com suspeita de cinomose', 'Um dos animais morreu e a canina sobrevivente concluiu o tratamento. O bem-estar foi resguardado e a instauração foi indeferida.', '🟢 arquivado', 'media'),
+    },
+    'joinville__54.json': {
+        3780: ('keep', 'MP arquiva caso de animais tutelados com bem-estar resguardado', 'A SAMA constatou abrigo, alimentação e local adequado para os cães. Sem sinais de maus-tratos, o procedimento foi indeferido.', '🟢 arquivado', 'media'),
+        3785: ('keep', 'MP arquiva apuração sobre canina e filhote sem paradeiro', 'A atuação do órgão de proteção animal não localizou o animal. O caso foi indeferido por ausência de elementos e paradeiro desconhecido.', '🟢 arquivado', 'media'),
+        3786: ('keep', 'MP arquiva caso de canina e oito filhotes em lar temporário', 'Os animais estavam em lar temporário, microchipados e vacinados. O MP indeferiu a instauração.', '🟢 arquivado', 'media'),
+        3791: ('keep', 'MP arquiva apuração sobre felina adulta e filhotes adotados', 'Os felinos foram atendidos, castrados e adotados pelo órgão de proteção animal. O caso foi indeferido.', '🟢 arquivado', 'media'),
+        3794: ('keep', 'MP arquiva caso de pitbull amarrado a toco de árvore', 'O animal foi acolhido e a Delegacia de Proteção Animal recebeu os fatos para investigar eventual abandono do tutor. O MP indeferiu a instauração.', '🟢 arquivado', 'media'),
+        3795: ('keep', 'MP arquiva apuração sobre canino comunitário em Joinville', 'A SAMA informou que o animal era comunitário, vacinado, microchipado e castrado, sem risco comprovado a munícipes. O caso foi arquivado.', '🟢 arquivado', 'media'),
+        3797: ('keep', 'MP arquiva caso de construção irregular judicializada', 'Os fatos foram levados ao Judiciário e o inquérito perdeu o objeto. O MP arquivou por inviabilidade de TAC ou ACP.', '🟢 arquivado', 'media'),
+        3799: ('keep', 'MP arquiva apuração sobre canino castrado e em lar temporário', 'O animal estava castrado e em lar temporário, sem situação de risco. A instauração foi indeferida.', '🟢 arquivado', 'media'),
+        3801: ('keep', 'MP arquiva caso de canino com miíase e paradeiro desconhecido', 'A atuação do órgão de proteção animal não localizou o animal e a noticiante não trouxe novas informações. O MP indeferiu a instauração.', '🟢 arquivado', 'media'),
+        3803: ('keep', 'MP apura caso de canino abandonado e supostamente agressivo', 'O texto está truncado, mas ainda indica apuração sobre um canino em situação de vulnerabilidade e agressividade. O desfecho não aparece completo.', '❔ status indef.', 'media'),
+        3804: ('keep', 'MP arquiva apuração sobre cinco animais com bem-estar resguardado', 'Os animais estavam castrados, vacinados e microchipados, sem sinais de maus-tratos. O procedimento foi indeferido.', '🟢 arquivado', 'media'),
+        3808: ('keep', 'MP arquiva caso de pit bull em local adequado', 'O canino estava castrado, vacinado e microchipado, em local adequado. O MP indeferiu a instauração.', '🟢 arquivado', 'media'),
+        3809: ('keep', 'MP arquiva conflito em centro de eventos após cessação das atividades', 'A venda do imóvel e a cessação das atividades solucionaram o problema investigado. O inquérito foi arquivado.', '🟢 arquivado', 'media'),
+        3812: ('keep', 'MP firma TAC sobre laser estético sem Anvisa', 'O termo de compromisso previu abstenção da prática e multa compensatória. O inquérito foi arquivado após o ajuste.', '🟠 TAC firmado', 'media'),
+        3813: ('keep', 'MP arquiva caso de suposta venda casada em ótica', 'A fiscalização apontou ausência de indicativos de venda casada e bastância do poder de polícia sanitária. O inquérito foi arquivado.', '🟢 arquivado', 'media'),
+        3818: ('keep', 'MP arquiva caso de canina abandonada e agressiva', 'O órgão de proteção animal não localizou o animal, cujo paradeiro seguia desconhecido. A instauração foi indeferida.', '🟢 arquivado', 'media'),
+        3821: ('keep', 'MP arquiva apuração sobre canino na Rua Cotia', 'O animal estava em local adequado, microchipado, vacinado e castrado. O procedimento foi indeferido, mas o texto veio truncado.', '🟢 arquivado', 'media'),
+        3824: ('keep', 'MP arquiva caso de canina comunitária sem paradeiro conhecido', 'O animal e seu paradeiro atual eram desconhecidos. A instauração foi indeferida.', '🟢 arquivado', 'media'),
+        3826: ('keep', 'MP arquiva apuração sobre canino adotado em Joinville', 'A SAMA informou que o animal foi adotado e a saúde ficou acompanhada. O procedimento foi indeferido.', '🟢 arquivado', 'media'),
+        3827: ('keep', 'MP arquiva estudo social de ILPI em Joinville', 'A perda do objeto ocorreu com a juntada dos estudos sociais e não houve base para ação judicial. O inquérito foi encerrado.', '❔ status indef.', 'media'),
+        3828: ('keep', 'MP arquiva caso de frota de ônibus e acessibilidade', 'A frota foi atualizada e as normas de acessibilidade estavam atendidas. O inquérito foi arquivado.', '🟢 arquivado', 'media'),
+        3829: ('keep', 'MP arquiva apuração sobre cães em empresa de reciclagem', 'O paradeiro dos cães era desconhecido e o noticiante não retornou contato da Promotoria. O caso foi indeferido.', '🟢 arquivado', 'media'),
+        3830: ('keep', 'MP arquiva fiscalização sobre vacinação e microchipagem de cães', 'A SAMA informou que os caninos estavam em lar temporário e majoritariamente castrados, vacinados e microchipados. O MP indeferiu a instauração.', '🟢 arquivado', 'media'),
+        3835: ('keep', 'MP arquiva apuração sobre canino em rua particular', 'O animal tinha saúde e bem-estar resguardados. O caso foi indeferido.', '🟢 arquivado', 'media'),
+        3836: ('keep', 'MP arquiva caso de cão abandonado com pata quebrada', 'O animal estava em local desconhecido e não houve elementos para avançar. O MP indeferiu a instauração.', '🟢 arquivado', 'media'),
+        3838: ('keep', 'MP apura caso de dois pastor alemão em Joinville', 'O texto está truncado, mas ainda indica apuração sobre dois caninos da raça pastor alemão. O desfecho não aparece completo.', '❔ status indef.', 'media'),
+        3840: ('keep', 'MP ajuíza ação civil pública em caso de Pedro Conveniência', 'O texto informa apenas a propositura da ACP. Não traz mais detalhes sobre o objeto da ação.', '🔴 ACP ajuizada', 'media'),
+        3841: ('keep', 'MP arquiva apuração sobre diversos cães no Paranaguamirim', 'Houve identificação de um animal comunitário e informação de outro em local desconhecido, além da morte de uma canina atropelada. Os fatos já haviam sido comunicados à autoridade policial.', '🟢 arquivado', 'media'),
+        3842: ('keep', 'MP arquiva caso de canina e aves em cativeiro', 'A canina ficou resguardada e houve medidas criminais sobre as aves apreendidas. O MP indeferiu a instauração.', '🟢 arquivado', 'media'),
+        3844: ('keep', 'MP arquiva caso de caninos com vacinação e microchipagem', 'Os animais tinham bem-estar e saúde resguardados, com água e alimentos à disposição. A instauração foi indeferida.', '🟢 arquivado', 'media'),
+        3846: ('keep', 'MP arquiva caso de coelho em local insalubre', 'O animal vivia em espaço pequeno e insalubre, com excesso de fezes e urina. Houve atuação da Polícia Militar e o MP indeferiu a instauração por ausência de informação sobre o paradeiro.', '🟢 arquivado', 'media'),
+    },
+}
+
+for name in ['joinville__52.json', 'joinville__53.json', 'joinville__54.json']:
+    data = json.loads((base / name).read_text(encoding='utf-8'))
+    out_cases = []
+    spec = maps[name]
+    for case in data['casos']:
+        entry = {'i': case['i'], 'tipo': case['tipo']}
+        if case['i'] in spec:
+            _, title, desc, status, severity = spec[case['i']]
+            entry.update({'keep': True, 'title': title, 'description': desc, 'status': status, 'severity': severity})
+        else:
+            entry.update({'keep': False, 'title': '', 'description': '', 'status': '', 'severity': ''})
+        out_cases.append(entry)
+    out_data = out_cases
+    (out / name).write_text(json.dumps(out_data, ensure_ascii=False, indent=2), encoding='utf-8')
+PY
+zsh:1: command not found: python
+[0m
+O primeiro comando falhou porque `python` não existe no ambiente; vou refazer com `python3` e validar os arquivos gerados.
+[0m$ [0mpython3 - <<'PY'
+import json
+from pathlib import Path
+
+base = Path('/Users/jairofortunato/mp/pdf_template/amunesc/_lotes')
+out = Path('/Users/jairofortunato/mp/pdf_template/amunesc/_lotes_curados')
+
+maps = {
+    'joinville__52.json': {
+        3640: ('keep', 'MP arquiva apuração sobre canino em vulnerabilidade em Joinville', 'A notícia apurava a situação de um canino na Rua da Independência. A SAMA informou que o animal foi resgatado e depois adotado. O caso foi indeferido e arquivado sem instauração.', '🟢 arquivado', 'media'),
+        3646: ('keep', 'MP arquiva caso de felinos na Rua Oscar P. Scholz', 'A notícia tratava de felinos abandonados perto da residência da noticiante. A SAMA disse que a situação amenizou e que os gatos dispersaram. O órgão indeferiu a instauração.', '🟢 arquivado', 'media'),
+        3647: ('keep', 'MP arquiva denúncia sobre canino doado em Joinville', 'A apuração envolvia um canino na Rua Willy Afonso Jacob. O animal foi doado e houve termo de tutela com o novo tutor. O caso foi encerrado sem instauração.', '🟢 arquivado', 'media'),
+        3648: ('keep', 'MP arquiva apuração sobre três cachorras de rua', 'A notícia tratava de três cachorras e da falta de complementação da noticiante. Como não vieram dados mínimos para avançar, a instauração foi indeferida.', '🟢 arquivado', 'media'),
+        3649: ('keep', 'MP arquiva caso de canino acolhido pelo CBEA', 'A apuração envolvia um canino que precisava de atendimento do CBEA. O centro já estava com o animal sob cuidados e acolhimento. O procedimento foi indeferido.', '🟢 arquivado', 'media'),
+        3660: ('keep', 'MP arquiva apuração sobre dois cães comunitários em Joinville', 'A SAMA informou que os animais eram comunitários, castrados, microchipados e vacinados, com a canina Pretinha em fila para adoção. O caso foi arquivado sem instauração.', '🟢 arquivado', 'media'),
+        3662: ('keep', 'MP arquiva caso de canina no cio em Joinville', 'O resgate foi feito pelo Centro de Bem-Estar Animal e o bem-estar ficou resguardado. O procedimento foi indeferido e arquivado.', '🟢 arquivado', 'media'),
+        3666: ('keep', 'MP apura risco à saúde por laser estético sem Anvisa', 'O inquérito trata do uso de equipamentos a laser para fins estéticos sem aprovação da Anvisa. O texto está truncado e não traz o desfecho final.', '❔ status indef.', 'media'),
+        3670: ('keep', 'MP arquiva apuração sobre felinos com lar temporário', 'A noticiante informou que encontrou um lar temporário para os felinos antes da diligência da SAMA. O caso foi indeferido.', '🟢 arquivado', 'media'),
+        3674: ('keep', 'MP arquiva caso de cães regularizados após notificação', 'A SAMA informou que a tutora cumpriu o Auto de Notificação n. 4601/2024. Com as medidas atendidas e o bem-estar resguardado, a instauração foi indeferida.', '🟢 arquivado', 'media'),
+        3675: ('keep', 'MP arquiva apuração sobre dois cães acolhidos', 'Os cães foram acolhidos pelo órgão de proteção animal e houve requisição de inquérito policial. Mesmo assim, o MP indeferiu a instauração do feito.', '🟢 arquivado', 'media'),
+        3677: ('keep', 'MP arquiva caso de cadela atropelada e já falecida', 'A SAMA não encontrou o animal e a noticiante informou o óbito da canina. O procedimento foi indeferido por perda de objeto.', '🟢 arquivado', 'media'),
+        3681: ('keep', 'MP arquiva discussão sobre falta de medicamentos oncológicos', 'O caso tratava da demora e negativa no fornecimento de iodo radioativo a pacientes do SUS. As pretensões individuais foram resolvidas na via administrativa e o restante foi arquivado.', '🟢 arquivado', 'alta'),
+        3683: ('keep', 'MP arquiva caso solucionado na via administrativa', 'A notícia foi encerrada com a informação de que o fato estava solucionado administrativamente. O procedimento foi arquivado.', '🟢 arquivado', 'media'),
+        3684: ('keep', 'MP arquiva apuração sobre pit bull resgatado', 'O canino "Alemão" foi resgatado e levado à clínica veterinária, mas morreu em 29/11/2024. O MP indeferiu a instauração.', '🟢 arquivado', 'media'),
+        3685: ('keep', 'MP arquiva apuração por falta de elementos sobre felino', 'O MP não encontrou elementos mínimos nem recebeu as informações complementares pedidas. A instauração foi indeferida.', '🟢 arquivado', 'media'),
+        3686: ('keep', 'MP arquiva caso de canina idosa tratada por veterinário', 'A canina foi levada para tratamento veterinário e o bem-estar foi resguardado. O procedimento foi indeferido.', '🟢 arquivado', 'media'),
+        3687: ('keep', 'MP arquiva apuração sobre demora no iodo radioativo', 'O inquérito tratava de demora e negativa no fornecimento do insumo a pacientes do SUS. Como as pretensões individuais foram resolvidas, o caso foi arquivado.', '🟢 arquivado', 'alta'),
+        3688: ('keep', 'MP arquiva discussão sobre deliberação do Conselho de Saúde', 'O Executivo municipal não homologou a deliberação do CMS de forma fundamentada. O MP entendeu que não havia outras providências e arquivou o inquérito.', '🟢 arquivado', 'media'),
+        3689: ('keep', 'MP conclui apuração sobre fogos da abertura do Natal', 'A SECULT disse que os fogos eram de baixo ruído e a empresa contratada confirmou a informação, mas o texto está truncado. O desfecho final não aparece completo.', '❔ status indef.', 'media'),
+        3690: ('keep', 'MP arquiva caso de cão atropelado atendido pela SAMA', 'O animal foi resgatado, recebeu tratamento veterinário e morreu de parada cardiorrespiratória. O MP indeferiu a abertura de investigação.', '🟢 arquivado', 'media'),
+        3696: ('keep', 'MP arquiva caso de cães acolhidos no cemitério luterano', 'A SAMA acolheu três animais e o paradeiro dos remanescentes ficou incerto. O procedimento foi arquivado.', '🟢 arquivado', 'media'),
+        3703: ('keep', 'MP arquiva caso repetido sobre cão levado para Florianópolis', 'O tutor levou o animal para Florianópolis e juntou documentos ao feito. O bem-estar foi resguardado e a instauração foi indeferida.', '🟢 arquivado', 'media'),
+        3706: ('keep', 'MP arquiva orientação sobre acompanhamento de idosos na saúde', 'O caso tratava de idosos que não devem deixar de receber atendimento por falta de acompanhante. O MP arquivou o inquérito após registrar a orientação às unidades de saúde.', '🟢 arquivado', 'media'),
+    },
+    'joinville__53.json': {
+        3711: ('keep', 'MP ajuíza ACP contra escola particular em Joinville', 'O inquérito foi concluído com o ajuizamento da Ação Civil Pública n. 5001146-57.2025.8.24.0038. O texto não traz o mérito da ação, só a ida do caso à Justiça.', '🔴 ACP ajuizada', 'media'),
+        3712: ('keep', 'MP arquiva caso de três animais abandonados na Vila do Oca', 'A SAMA informou que duas caninas foram castradas e microchipadas, e a terceira foi adotada. O MP indeferiu a instauração.', '🟢 arquivado', 'media'),
+        3717: ('keep', 'MP arquiva plano de atendimento a animais silvestres no recesso', 'O órgão ajustou o encaminhamento de animais resgatados e apreendidos durante o recesso do CMV da Unisociesc. Com os fluxos definidos, o caso foi solucionado.', '🟢 arquivado', 'media'),
+        3726: ('keep', 'MP arquiva apuração sobre canino abandonado e atendido pela SAMA', 'A SAMA constatou que o animal não estava em abandono nem maus-tratos. A tutora foi localizada e orientada, e o procedimento foi indeferido.', '🟢 arquivado', 'media'),
+        3727: ('keep', 'MP arquiva caso de canina com sinais de queimadura', 'A clínica veterinária prestou atendimento e a saúde da canina ficou resguardada. O MP concluiu pela solução do caso e indeferiu a instauração.', '🟢 arquivado', 'media'),
+        3728: ('keep', 'MP arquiva caso de cão atropelado em Joinville', 'A tutora foi localizada e o animal recebeu atendimento médico veterinário. O procedimento foi encerrado sem instauração.', '🟢 arquivado', 'media'),
+        3729: ('keep', 'MP arquiva apuração sobre caninos vacinados e microchipados', 'A SAMA informou que os caninos estavam vacinados, microchipados e castrados, com bem-estar resguardado. O caso foi indeferido.', '🟢 arquivado', 'media'),
+        3738: ('keep', 'MP arquiva caso de equinas sem localização confirmada', 'A atuação do órgão de proteção animal e o boletim de fiscalização não mudaram o quadro, e houve requisição de inquérito policial. A instauração foi indeferida.', '🟢 arquivado', 'media'),
+        3739: ('keep', 'MP arquiva apuração sobre pit bull abandonado e suspeita de envenenamento', 'O canino foi acolhido e o bem-estar foi resguardado. O caso foi indeferido pela Promotoria.', '🟢 arquivado', 'media'),
+        3740: ('keep', 'MP arquiva caso de equinas com atuação do órgão de proteção animal', 'A atuação do órgão de proteção animal não trouxe novos elementos e houve requisição de inquérito policial. O MP indeferiu a instauração.', '🟢 arquivado', 'media'),
+        3745: ('keep', 'MP arquiva caso de ILPI após estudos sociais', 'A juntada dos estudos sociais levou à perda do objeto e ao fim da necessidade de investigação. O órgão arquivou o inquérito.', '❔ status indef.', 'media'),
+        3746: ('keep', 'MP arquiva caso de canino preso a cabo curto', 'A SAMA constatou animal saudável, microchipado e vacinado, com bem-estar resguardado. O caso foi indeferido.', '🟢 arquivado', 'media'),
+        3747: ('keep', 'MP arquiva caso de canina atendida pelo CBEA', 'A canina recebeu atendimento médico veterinário e o bem-estar foi resguardado. O MP concluiu pelo arquivamento.', '🟢 arquivado', 'media'),
+        3751: ('keep', 'MP arquiva caso duplicado sobre canino com partes inchadas', 'O feito foi considerado duplicado de outra notícia de fato já apurada. A instauração foi indeferida.', '🟢 arquivado', 'media'),
+        3752: ('keep', 'MP firma TAC em caso de exercício irregular de biomédica', 'O TAC previu abstenção da prática e cláusula penal. O inquérito foi arquivado após o ajuste.', '🟠 TAC firmado', 'media'),
+        3756: ('keep', 'MP arquiva apuração sobre cão no imóvel da Rua Suriname', 'A SAMA constatou que o canino e os tutores estavam em local incerto e não sabido. O MP indeferiu a instauração.', '🟢 arquivado', 'media'),
+        3757: ('keep', 'MP arquiva caso de falta de materiais para queimados no Hospital São José', 'O hospital adotou providências licitatórias para comprar os materiais necessários aos pacientes com queimaduras. O inquérito foi arquivado.', '🟢 arquivado', 'alta'),
+        3761: ('keep', 'MP arquiva caso de cães e pessoa em situação de rua', 'Um canino teria sido agredido e estava sem paradeiro conhecido, com instauração de inquérito policial para apurar maus-tratos. O MP indeferiu a instauração.', '🟢 arquivado', 'media'),
+        3762: ('keep', 'MP arquiva apuração sobre canina prenhe e filhotes', 'A SAMA apresentou documentos do atendimento à canina e aos filhotes. O bem-estar foi resguardado e o caso foi indeferido.', '🟢 arquivado', 'media'),
+        3765: ('keep', 'MP arquiva caso de canino comunitário atendido duas vezes', 'A SAMA informou que o animal recebeu atendimento veterinário e voltou às ruas por ser cão comunitário sem lar temporário. O procedimento foi indeferido.', '🟢 arquivado', 'media'),
+        3767: ('keep', 'MP arquiva apuração sobre coelhos e galinhas em Joinville', 'A vistoria da SAMA constatou 16 animais, sem falta de asseio nem ambiente insalubre. A instauração foi indeferida.', '🟢 arquivado', 'media'),
+        3769: ('keep', 'MP arquiva debate sobre participação popular no Conselho da Cidade', 'A apuração tratava de entraves à participação de movimentos sociais nas reuniões do conselho. O texto está truncado e o desfecho aparece como arquivamento.', '❔ status indef.', 'media'),
+        3773: ('keep', 'MP arquiva caso de canino com abrigo e alimentação', 'A SAMA constatou presença do animal no quintal, com abrigo, alimentação e sem maus-tratos evidentes. As medidas de vacinação, microchipagem e laudo veterinário foram acatadas.', '🟢 arquivado', 'media'),
+        3775: ('keep', 'MP firma TAC contra exercício irregular de biomédica', 'O termo de compromisso determinou a abstenção da prática e previu multa compensatória e cláusula penal. O caso foi arquivado após o ajuste.', '🟠 TAC firmado', 'media'),
+        3778: ('keep', 'MP arquiva caso de dois caninos com suspeita de cinomose', 'Um dos animais morreu e a canina sobrevivente concluiu o tratamento. O bem-estar foi resguardado e a instauração foi indeferida.', '🟢 arquivado', 'media'),
+    },
+    'joinville__54.json': {
+        3780: ('keep', 'MP arquiva caso de animais tutelados com bem-estar resguardado', 'A SAMA constatou abrigo, alimentação e local adequado para os cães. Sem sinais de maus-tratos, o procedimento foi indeferido.', '🟢 arquivado', 'media'),
+        3785: ('keep', 'MP arquiva apuração sobre canina e filhote sem paradeiro', 'A atuação do órgão de proteção animal não localizou o animal. O caso foi indeferido por ausência de elementos e paradeiro desconhecido.', '🟢 arquivado', 'media'),
+        3786: ('keep', 'MP arquiva caso de canina e oito filhotes em lar temporário', 'Os animais estavam em lar temporário, microchipados e vacinados. O MP indeferiu a instauração.', '🟢 arquivado', 'media'),
+        3791: ('keep', 'MP arquiva apuração sobre felina adulta e filhotes adotados', 'Os felinos foram atendidos, castrados e adotados pelo órgão de proteção animal. O caso foi indeferido.', '🟢 arquivado', 'media'),
+        3794: ('keep', 'MP arquiva caso de pitbull amarrado a toco de árvore', 'O animal foi acolhido e a Delegacia de Proteção Animal recebeu os fatos para investigar eventual abandono do tutor. O MP indeferiu a instauração.', '🟢 arquivado', 'media'),
+        3795: ('keep', 'MP arquiva apuração sobre canino comunitário em Joinville', 'A SAMA informou que o animal era comunitário, vacinado, microchipado e castrado, sem risco comprovado a munícipes. O caso foi arquivado.', '🟢 arquivado', 'media'),
+        3797: ('keep', 'MP arquiva caso de construção irregular judicializada', 'Os fatos foram levados ao Judiciário e o inquérito perdeu o objeto. O MP arquivou por inviabilidade de TAC ou ACP.', '🟢 arquivado', 'media'),
+        3799: ('keep', 'MP arquiva apuração sobre canino castrado e em lar temporário', 'O animal estava castrado e em lar temporário, sem situação de risco. A instauração foi indeferida.', '🟢 arquivado', 'media'),
+        3801: ('keep', 'MP arquiva caso de canino com miíase e paradeiro desconhecido', 'A atuação do órgão de proteção animal não localizou o animal e a noticiante não trouxe novas informações. O MP indeferiu a instauração.', '🟢 arquivado', 'media'),
+        3803: ('keep', 'MP apura caso de canino abandonado e supostamente agressivo', 'O texto está truncado, mas ainda indica apuração sobre um canino em situação de vulnerabilidade e agressividade. O desfecho não aparece completo.', '❔ status indef.', 'media'),
+        3804: ('keep', 'MP arquiva apuração sobre cinco animais com bem-estar resguardado', 'Os animais estavam castrados, vacinados e microchipados, sem sinais de maus-tratos. O procedimento foi indeferido.', '🟢 arquivado', 'media'),
+        3808: ('keep', 'MP arquiva caso de pit bull em local adequado', 'O canino estava castrado, vacinado e microchipado, em local adequado. O MP indeferiu a instauração.', '🟢 arquivado', 'media'),
+        3809: ('keep', 'MP arquiva conflito em centro de eventos após cessação das atividades', 'A venda do imóvel e a cessação das atividades solucionaram o problema investigado. O inquérito foi arquivado.', '🟢 arquivado', 'media'),
+        3812: ('keep', 'MP firma TAC sobre laser estético sem Anvisa', 'O termo de compromisso previu abstenção da prática e multa compensatória. O inquérito foi arquivado após o ajuste.', '🟠 TAC firmado', 'media'),
+        3813: ('keep', 'MP arquiva caso de suposta venda casada em ótica', 'A fiscalização apontou ausência de indicativos de venda casada e bastância do poder de polícia sanitária. O inquérito foi arquivado.', '🟢 arquivado', 'media'),
+        3818: ('keep', 'MP arquiva caso de canina abandonada e agressiva', 'O órgão de proteção animal não localizou o animal, cujo paradeiro seguia desconhecido. A instauração foi indeferida.', '🟢 arquivado', 'media'),
+        3821: ('keep', 'MP arquiva apuração sobre canino na Rua Cotia', 'O animal estava em local adequado, microchipado, vacinado e castrado. O procedimento foi indeferido, mas o texto veio truncado.', '🟢 arquivado', 'media'),
+        3824: ('keep', 'MP arquiva caso de canina comunitária sem paradeiro conhecido', 'O animal e seu paradeiro atual eram desconhecidos. A instauração foi indeferida.', '🟢 arquivado', 'media'),
+        3826: ('keep', 'MP arquiva apuração sobre canino adotado em Joinville', 'A SAMA informou que o animal foi adotado e a saúde ficou acompanhada. O procedimento foi indeferido.', '🟢 arquivado', 'media'),
+        3827: ('keep', 'MP arquiva estudo social de ILPI em Joinville', 'A perda do objeto ocorreu com a juntada dos estudos sociais e não houve base para ação judicial. O inquérito foi encerrado.', '❔ status indef.', 'media'),
+        3828: ('keep', 'MP arquiva caso de frota de ônibus e acessibilidade', 'A frota foi atualizada e as normas de acessibilidade estavam atendidas. O inquérito foi arquivado.', '🟢 arquivado', 'media'),
+        3829: ('keep', 'MP arquiva apuração sobre cães em empresa de reciclagem', 'O paradeiro dos cães era desconhecido e o noticiante não retornou contato da Promotoria. O caso foi indeferido.', '🟢 arquivado', 'media'),
+        3830: ('keep', 'MP arquiva fiscalização sobre vacinação e microchipagem de cães', 'A SAMA informou que os caninos estavam em lar temporário e majoritariamente castrados, vacinados e microchipados. O MP indeferiu a instauração.', '🟢 arquivado', 'media'),
+        3835: ('keep', 'MP arquiva apuração sobre canino em rua particular', 'O animal tinha saúde e bem-estar resguardados. O caso foi indeferido.', '🟢 arquivado', 'media'),
+        3836: ('keep', 'MP arquiva caso de cão abandonado com pata quebrada', 'O animal estava em local desconhecido e não houve elementos para avançar. O MP indeferiu a instauração.', '🟢 arquivado', 'media'),
+        3838: ('keep', 'MP apura caso de dois pastor alemão em Joinville', 'O texto está truncado, mas ainda indica apuração sobre dois caninos da raça pastor alemão. O desfecho não aparece completo.', '❔ status indef.', 'media'),
+        3840: ('keep', 'MP ajuíza ação civil pública em caso de Pedro Conveniência', 'O texto informa apenas a propositura da ACP. Não traz mais detalhes sobre o objeto da ação.', '🔴 ACP ajuizada', 'media'),
+        3841: ('keep', 'MP arquiva apuração sobre diversos cães no Paranaguamirim', 'Houve identificação de um animal comunitário e informação de outro em local desconhecido, além da morte de uma canina atropelada. Os fatos já haviam sido comunicados à autoridade policial.', '🟢 arquivado', 'media'),
+        3842: ('keep', 'MP arquiva caso de canina e aves em cativeiro', 'A canina ficou resguardada e houve medidas criminais sobre as aves apreendidas. O MP indeferiu a instauração.', '🟢 arquivado', 'media'),
+        3844: ('keep', 'MP arquiva caso de caninos com vacinação e microchipagem', 'Os animais tinham bem-estar e saúde resguardados, com água e alimentos à disposição. A instauração foi indeferida.', '🟢 arquivado', 'media'),
+        3846: ('keep', 'MP arquiva caso de coelho em local insalubre', 'O animal vivia em espaço pequeno e insalubre, com excesso de fezes e urina. Houve atuação da Polícia Militar e o MP indeferiu a instauração por ausência de informação sobre o paradeiro.', '🟢 arquivado', 'media'),
+    },
+}
+
+for name in ['joinville__52.json', 'joinville__53.json', 'joinville__54.json']:
+    data = json.loads((base / name).read_text(encoding='utf-8'))
+    out_cases = []
+    spec = maps[name]
+    for case in data['casos']:
+        entry = {'i': case['i'], 'tipo': case['tipo']}
+        if case['i'] in spec:
+            _, title, desc, status, severity = spec[case['i']]
+            entry.update({'keep': True, 'title': title, 'description': desc, 'status': status, 'severity': severity})
+        else:
+            entry.update({'keep': False, 'title': '', 'description': '', 'status': '', 'severity': ''})
+        out_cases.append(entry)
+    (out / name).write_text(json.dumps(out_cases, ensure_ascii=False, indent=2), encoding='utf-8')
+PY
+(no output)
+[0m
+[0m$ [0mpython3 - <<'PY'
+import json
+from pathlib import Path
+for name in ['joinville__52.json','joinville__53.json','joinville__54.json']:
+    p = Path('/Users/jairofortunato/mp/pdf_template/amunesc/_lotes_curados')/name
+    data = json.loads(p.read_text(encoding='utf-8'))
+    print(name, len(data), sum(1 for x in data if x['keep']), sum(1 for x in data if x['keep'] and x['severity']=='alta'))
+PY
+joinville__52.json 70 24 2
+joinville__53.json 70 25 1
+joinville__54.json 70 31 0
+[0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/joinville__52.json[90m [offset=1, limit=80][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/joinville__53.json[90m [offset=1, limit=80][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/joinville__54.json[90m [offset=1, limit=80][0m
+Há dois casos de perda de objeto que valem mais como arquivados do que como indefinidos. Vou ajustar esses selos e revisar um erro de digitação antes de fechar.
+[0m✱ [0mGrep "bastân"[90m in pdf_template/amunesc/_lotes_curados · 1 match[0m
+[0m✱ [0mGrep "perda do objeto"[90m in pdf_template/amunesc/_lotes_curados · 28 matches[0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/joinville__53.json[90m [offset=316, limit=30][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/joinville__54.json[90m [offset=426, limit=20][0m
+[0m% [0mPatch 2 files
+[0m
+[0m$ [0mpython3 - <<'PY'
+import json
+from pathlib import Path
+for name in ['joinville__52.json','joinville__53.json','joinville__54.json']:
+    p = Path('/Users/jairofortunato/mp/pdf_template/amunesc/_lotes_curados')/name
+    data = json.loads(p.read_text(encoding='utf-8'))
+    print(name, len(data), sum(1 for x in data if x['keep']), sum(1 for x in data if x['keep'] and x['severity']=='alta'))
+PY
+joinville__52.json 70 24 2
+joinville__53.json 70 25 1
+joinville__54.json 70 31 0
+[0m
+Arquivos gravados em `pdf_template/amunesc/_lotes_curados/`.
+
+- `joinville__52.json`: 70 casos, 24 `keep:true`, 2 `severity: alta`
+- `joinville__53.json`: 70 casos, 25 `keep:true`, 1 `severity: alta`
+- `joinville__54.json`: 70 casos, 31 `keep:true`, 0 `severity: alta`

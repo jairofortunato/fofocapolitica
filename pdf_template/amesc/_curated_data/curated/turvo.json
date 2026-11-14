@@ -1,0 +1,926 @@
+{
+ "mp": [
+  {
+   "i": 0,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Prefeitura de Turvo foi investigada por promoção pessoal em publicações, mas MP arquivou",
+   "description": "O Ministério Público apurou se agentes públicos de Turvo se promoviam pessoalmente nas publicações oficiais da Prefeitura. O MP expediu uma recomendação e o município cumpriu integralmente o que foi recomendado. A investigação concluiu que não houve irregularidade, prejuízo ao erário nem improbidade, e o inquérito foi arquivado em fevereiro de 2023.",
+   "severity": "media"
+  },
+  {
+   "i": 1,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou uso de verba pública em convênio com associação de Morro Chato e não achou desvio",
+   "description": "O Ministério Público investigou possíveis irregularidades no uso de dinheiro público repassado à Associação Comunitária de Morro Chato pelo Convênio n. 013/2016, em Turvo. A apuração concluiu que a obra foi realizada, com função social comprovada, e que não houve superfaturamento nem desvio de dinheiro. O inquérito foi arquivado em outubro de 2024.",
+   "severity": "media"
+  },
+  {
+   "i": 2,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 3,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP flagra servidor de Turvo contratado como operador de máquinas atuando como bombeiro civil",
+   "description": "O Ministério Público apurou desvio de função do servidor Jonas Semler Zanette, aprovado em concurso para operador de máquinas agrícolas mas que exercia, na prática, funções de bombeiro civil profissional. O MP recomendou a correção e a Prefeitura acatou, remanejando o servidor para as atribuições próprias do cargo. Com a irregularidade cessada, o inquérito foi arquivado em maio de 2025.",
+   "severity": "media"
+  },
+  {
+   "i": 4,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 5,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou desvio de função de servidora temporária em Turvo e arquivou após situação cessar",
+   "description": "O Ministério Público investigou o desvio de função de uma servidora temporária da Prefeitura de Turvo. Ficou verificado que ela permaneceu desviada de suas atribuições por um período que não foi possível precisar, mas que a situação irregular já não existia mais. Sem indícios de intenção de violar os princípios da administração pública, o MP arquivou o caso em abril de 2023.",
+   "severity": "media"
+  },
+  {
+   "i": 6,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 7,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 8,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 9,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP questionou regra que dava ao prefeito de Turvo nomear procurador, mas ela já fora revogada",
+   "description": "O Ministério Público apurou a constitucionalidade de um trecho da Lei Orgânica de Turvo que tratava o cargo de procurador do município como de livre nomeação do prefeito. Durante a apuração, o MP constatou que o dispositivo já havia sido revogado pela Emenda à Lei Orgânica n. 01/2021. Sem irregularidade remanescente, o inquérito foi arquivado em maio de 2025.",
+   "severity": "media"
+  },
+  {
+   "i": 10,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou dispensa irregular de licitação em publicidade em Turvo; Prefeitura acatou correção",
+   "description": "O Ministério Público investigou uma possível dispensa irregular de licitação na contratação de serviços de publicidade pela Prefeitura de Turvo. O MP não encontrou indícios de intenção de violar os princípios da administração pública e expediu recomendação para corrigir as falhas. A Prefeitura acatou e cumpriu satisfatoriamente a recomendação, e o inquérito foi arquivado em novembro de 2022.",
+   "severity": "media"
+  },
+  {
+   "i": 11,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 12,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Motorista do SAMU acumulava cargo em Turvo e Meleiro, foi exonerado e vai responder na esfera criminal",
+   "description": "O Ministério Público apurou que o servidor Luis Felipe Costa atuava como motorista do SAMU ao mesmo tempo nos municípios de Meleiro e de Turvo. Turvo abriu processo administrativo disciplinar e o servidor acabou exonerado pela Portaria n. 264/2024, encerrando a acumulação indevida. O MP indeferiu o prosseguimento na esfera cível, mas determinou a instauração de inquérito policial para apurar o crime de falsidade ideológica.",
+   "severity": "alta"
+  },
+  {
+   "i": 13,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 14,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Turvo abriu seleção temporária de farmacêutico com concurso em vigor e recuou após o MP",
+   "description": "O Ministério Público apurou a abertura do Processo Seletivo Simplificado n. 002/2023 para o cargo de farmacêutico enquanto ainda vigorava o Concurso Público n. 01/2022 para a mesma função. O MP recomendou a nomeação gradual dos aprovados no concurso e o fim da prorrogação do contrato de servidora temporária. A Prefeitura acatou, enviou projeto de lei para criar um novo cargo de farmacêutico e chamou os aprovados; o inquérito foi arquivado em maio de 2025.",
+   "severity": "media"
+  },
+  {
+   "i": 15,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou barulho de serralheria e omissão policial em Jacinto Machado e não achou irregularidade",
+   "description": "O Ministério Público investigou a suposta perturbação do sossego causada por uma serralheria em área residencial e uma possível recusa da polícia em registrar boletim de ocorrência. A apuração constatou que a serralheria está regularizada e fica em área comercial consolidada há mais de 20 anos, sem irregularidade urbanística. Também verificou que o denunciante foi atendido pelas Polícias Civil e Militar e orientado sobre como proceder. O caso foi arquivado em setembro de 2025.",
+   "severity": "media"
+  },
+  {
+   "i": 16,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cobrou fim de contratos temporários de odontólogos em Turvo; município nomeou aprovados",
+   "description": "O Ministério Público apurou a renovação irregular do contrato temporário do odontólogo Marlon Peruchi com a Prefeitura de Turvo. O MP recomendou nomear os aprovados no concurso, encerrar as prorrogações de contratos temporários e abrir novo certame caso a lista se esgotasse. A Prefeitura acatou, nomeou todos os aprovados no concurso vigente e encerrou os contratos temporários; o caso foi concluído em outubro de 2025.",
+   "severity": "media"
+  },
+  {
+   "i": 17,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP analisou exigência de comprovante de residência na saúde de Turvo e concluiu que é legal",
+   "description": "Uma denúncia anônima apontou que Turvo estaria restringindo o acesso aos serviços de saúde a moradores de outros municípios. O Ministério Público concluiu que exigir comprovante de residência para atendimentos eletivos e de rotina tem amparo nas regras do SUS sobre territorialização e financiamento, e que os atendimentos de urgência e emergência seguem garantidos a todos. O MP indeferiu a abertura de investigação em fevereiro de 2026.",
+   "severity": "media"
+  },
+  {
+   "i": 18,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Turvo contratou servidores sem concurso e assinou com MP novo prazo para realizar certame",
+   "description": "O Ministério Público apura desde 2017 a contratação irregular de servidores públicos por Turvo sem realização de concurso. Em 2022, foi feito o segundo aditamento do termo de ajustamento de conduta, prorrogando o prazo para o município realizar o concurso até 31/12/2022. O inquérito foi arquivado, com o cumprimento do TAC passando a ser acompanhado à parte.",
+   "severity": "media"
+  },
+  {
+   "i": 19,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou falta de professores presenciais na pandemia e não viu violação em Turvo",
+   "description": "O Ministério Público investigou reclamações sobre a ausência de professores em aulas presenciais durante a pandemia de Covid-19 e sobre o aproveitamento de docentes do grupo de risco em aulas remotas. A escola apontada é vinculada à rede estadual de Santa Catarina. O MP não constatou violação concreta ao direito à educação e considerou o objeto prejudicado com o fim da pandemia e o retorno das aulas presenciais, concluindo o caso em janeiro de 2024.",
+   "severity": "media"
+  },
+  {
+   "i": 20,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP dá a Turvo novo prazo, até 2026, para fazer o concurso cobrado desde 2017",
+   "description": "O inquérito do Ministério Público sobre a contratação irregular de servidores públicos por Turvo sem concurso, aberto em 2017, chegou ao terceiro aditamento do termo de ajustamento de conduta. O prazo para o município realizar o concurso público foi novamente prorrogado, agora para 31/12/2026. O procedimento foi arquivado em fevereiro de 2026, com a fiscalização do TAC seguindo em separado.",
+   "severity": "media"
+  },
+  {
+   "i": 21,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 22,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo com empresa Transorgânico após apurar irregularidades em Turvo",
+   "description": "O Ministério Público investigou supostas irregularidades na atividade da empresa Transorgânico Crepaldi Ltda. ME, instalada no Bairro Cidade Alta, em Turvo. O caso foi resolvido com a assinatura de um termo de ajustamento de conduta, e o inquérito teve arquivamento parcial em abril de 2024. O extrato publicado não detalha quais irregularidades foram apuradas.",
+   "severity": "media"
+  },
+  {
+   "i": 23,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 24,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Turvo mantinha servidores nos cargos mesmo depois de aposentados; MP cobrou e Prefeitura corrigiu",
+   "description": "O Ministério Público apurou a permanência de servidores públicos de Turvo em seus cargos mesmo após a aposentadoria. O MP expediu recomendação ao município para corrigir a situação e a Prefeitura acatou, com elementos indicando cumprimento satisfatório. O inquérito foi arquivado em janeiro de 2025.",
+   "severity": "media"
+  },
+  {
+   "i": 25,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou prazos curtos em processos seletivos de Turvo e concluiu que não houve irregularidade",
+   "description": "O Ministério Público investigou a publicidade dos processos seletivos n. 001/2021 e n. 002/2021 realizados pela Prefeitura de Turvo, diante da suspeita de prazos curtos de inscrição. A apuração apontou número satisfatório de inscritos e concluiu que o prazo reduzido não configura, por si só, irregularidade, tendo sido atendido o princípio da publicidade. O inquérito foi arquivado em janeiro de 2025.",
+   "severity": "media"
+  },
+  {
+   "i": 26,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 27,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Turvo barrava aposentadas aprovadas em seleção; MP cobrou e as duas foram nomeadas",
+   "description": "O Ministério Público apurou falta de isonomia na contratação de servidores aposentados aprovados em processos seletivos de Turvo. O MP recomendou a nomeação de Rosa Maria Fernandes Lazari e Paula Maria Tonetto Raupp, aprovadas dentro das vagas do Processo Seletivo n. 01/2023 para agente comunitário de saúde, já que não há impedimento para acumular aposentadoria e remuneração de cargo público. A Prefeitura acatou, as servidoras foram nomeadas e o inquérito foi arquivado em maio de 2025.",
+   "severity": "media"
+  },
+  {
+   "i": 28,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou registro de horas extras de nutricionista em Timbé do Sul e não confirmou irregularidade",
+   "description": "O Ministério Público investigou o registro de horas extraordinárias pela nutricionista Nicolly Moro, do município de Timbé do Sul. Foi aberta sindicância, mas os elementos colhidos não permitiram confirmar a veracidade dos fatos denunciados. O MP concluiu pela inexistência de irregularidades e arquivou o inquérito em maio de 2025.",
+   "severity": "media"
+  },
+  {
+   "i": 29,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP confirma irregularidade em demissão de servidora temporária gestante em Turvo",
+   "description": "O Ministério Público apurou possíveis irregularidades nas contratações e demissões de servidoras temporárias gestantes em Turvo. A irregularidade foi constatada no caso da representante, mas o MP entendeu tratar-se de interesse particular a ser cobrado em ação própria. Foi expedida recomendação a todos os municípios da comarca de Turvo para que respeitem a legislação e a jurisprudência e evitem casos semelhantes; a recomendação foi acatada integralmente e o inquérito, arquivado em maio de 2025.",
+   "severity": "media"
+  },
+  {
+   "i": 30,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 31,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou excesso de horas na escala do SAMU de Turvo; situação foi regularizada",
+   "description": "O Ministério Público investigou supostas irregularidades na escala de plantão dos funcionários do SAMU de Turvo, diante de denúncia de excesso de horas trabalhadas. Segundo o MP, a situação foi regularizada e os elementos colhidos não permitiram confirmar a veracidade dos fatos. O inquérito foi arquivado em dezembro de 2025.",
+   "severity": "media"
+  },
+  {
+   "i": 32,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 33,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 34,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cobrou CASAN e cooperativas por levar água e luz a loteamentos irregulares na região de Turvo",
+   "description": "O Ministério Público apurou o fornecimento de energia elétrica e água a construções em loteamentos irregulares ou clandestinos, inclusive em áreas de preservação permanente, na comarca de Turvo. Foram alvo a CASAN, o SAMAE e cooperativas de energia como CEJAMA e CERSUL. As partes acataram a recomendação do MP e a situação foi cessada; sem elementos para uma ação civil pública, o inquérito foi arquivado em dezembro de 2022.",
+   "severity": "media"
+  },
+  {
+   "i": 35,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 36,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 37,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 38,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cobrou Turvo por calçadas sem acessibilidade e arquivou após município notificar proprietários",
+   "description": "O Ministério Público apurou as condições de acessibilidade das calçadas de Turvo. Foi expedida recomendação para que o município notificasse os proprietários e promovesse as adequações necessárias. O MP registrou que a recomendação vinha sendo cumprida de forma regular e que não havia notícia de omissão do poder público, arquivando o inquérito em novembro de 2022.",
+   "severity": "media"
+  },
+  {
+   "i": 39,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 40,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 41,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 42,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou falta de médico em posto de saúde de Turvo; município contratou terceiro profissional",
+   "description": "O Ministério Público investigou a possível falta de médico em uma unidade básica de saúde de Turvo. Durante a apuração, o município contratou um terceiro médico para a unidade, que passou a contar com mais profissionais, e não houve outras reclamações. Com a perda do objeto, o inquérito foi arquivado em janeiro de 2024.",
+   "severity": "media"
+  },
+  {
+   "i": 43,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Turvo assina acordo com o MP e passa a ter prazo e multa para adequar calçadas à acessibilidade",
+   "description": "O inquérito do Ministério Público sobre as condições de acessibilidade nas calçadas de Turvo terminou com a assinatura de um termo de ajustamento de conduta. O acordo estipula obrigações de fazer e não fazer ao município e prevê multa em caso de descumprimento. O inquérito foi arquivado em fevereiro de 2024, e o MP abriu procedimento administrativo específico para fiscalizar o cumprimento do TAC.",
+   "severity": "media"
+  },
+  {
+   "i": 44,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 45,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 46,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 47,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 48,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 49,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Denúncia sobre diretora e merenda em escola de Turvo não se confirmou, e MP indeferiu o caso",
+   "description": "O Ministério Público apurou uma denúncia de que alunos da Escola Municipal Professora Laurita Manfredini Bristot estariam em situação de risco por causa da conduta da diretora e da falta de alimentação adequada. Segundo o MP, os fatos narrados não se confirmaram minimamente e não houve lesão ou ameaça a direitos sob sua tutela. A notícia de fato foi parcialmente indeferida em novembro de 2024.",
+   "severity": "media"
+  },
+  {
+   "i": 50,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 51,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 52,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 53,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou falta de professores na rede municipal de Turvo; vagas foram preenchidas",
+   "description": "O Ministério Público investigou a falta de professoras e funcionários na rede municipal de ensino de Turvo. Durante a apuração, o município realizou processo seletivo e chamadas públicas e preencheu as vagas. Com a situação regularizada, o MP concluiu não haver razão para outras medidas, como o ajuizamento de ação civil pública, e encerrou o caso em julho de 2025.",
+   "severity": "media",
+   "status": "🟢 arquivado"
+  },
+  {
+   "i": 54,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Serviço de convivência de Turvo ficou parado cinco meses; MP confirmou demora na contratação",
+   "description": "O Ministério Público apurou que o Serviço de Convivência e Fortalecimento de Vínculos (SCFV) de Turvo ficou inativo de meados de dezembro de 2024 até maio de 2025. A apuração confirmou que houve morosidade do município na contratação dos profissionais que ministram as oficinas. A situação foi regularizada pela Prefeitura e o MP concluiu não haver razão para ajuizar ação civil pública, encerrando o caso em agosto de 2025.",
+   "severity": "media",
+   "status": "🟢 arquivado"
+  },
+  {
+   "i": 55,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou dispensação irregular de medicamentos em Turvo e não achou risco ao consumidor",
+   "description": "O Ministério Público apurou a possível dispensação ilegal de medicamentos e insumos de saúde, com risco ao consumidor. A investigação identificou um grupo econômico que transferia insumos entre empresas integrantes, mas constatou que os produtos tinham nota fiscal, rastreabilidade e registro no prontuário dos pacientes, e foram adquiridos de fornecedores autorizados. Sem perigo iminente aos consumidores, o inquérito foi arquivado em setembro de 2025.",
+   "severity": "media"
+  },
+  {
+   "i": 56,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou desconsideração de tempo de serviço no consórcio de saúde CIASS e não viu irregularidade",
+   "description": "O Ministério Público investigou a queixa de que o Consórcio Intermunicipal de Assistência Social e Saúde (CIASS) teria desconsiderado o tempo de serviço de uma candidata. A apuração não encontrou irregularidade nem comprovação documental, e registrou que a noticiante foi convocada e contratada depois. O MP concluiu que o atraso nas publicações não indica dolo do ente público nem justifica ação civil pública, encerrando o caso em outubro de 2025.",
+   "severity": "media",
+   "status": "🟢 arquivado"
+  },
+  {
+   "i": 57,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Sistema federal de medidas socioeducativas está fora do ar, e MP arquiva cobrança contra Turvo",
+   "description": "O Ministério Público apurou a não utilização correta e frequente do sistema SIPIA-SINASE na execução de medidas socioeducativas em Turvo. Durante a investigação, constatou-se que o sistema está inoperante desde meados de 2024, sem previsão de retorno, o que inviabiliza seu uso. Com o objeto exaurido, o inquérito foi arquivado em outubro de 2025.",
+   "severity": "media"
+  },
+  {
+   "i": 58,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP achou erros graves em inspeções de medidas socioeducativas na comarca de Turvo",
+   "description": "O Ministério Público apurou a defasagem nos serviços de execução de medidas socioeducativas em meio aberto (liberdade assistida e prestação de serviços à comunidade) na comarca de Turvo, após constatar erros graves no preenchimento dos formulários de inspeção. Os municípios de Turvo, Timbé do Sul, Jacinto Machado e Ermo encaminharam os profissionais responsáveis para capacitação técnica. O MP concluiu não haver razão para ação civil pública e encerrou o caso em outubro de 2025.",
+   "severity": "media",
+   "status": "🟢 arquivado"
+  },
+  {
+   "i": 59,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cobrou Prefeitura de Turvo por árvores bloqueando calçadas e aceitou a resposta do município",
+   "description": "Uma representação apontou que árvores plantadas sobre o passeio público em Turvo dificultavam a circulação de pedestres, comprometendo acessibilidade e segurança. O Ministério Público requisitou informações à Prefeitura, que respondeu ter orientado os moradores e se comprometeu a remover as árvores e plantas remanescentes caso não sejam retiradas voluntariamente. O MP considerou as medidas suficientes, afastou a omissão do poder público e indeferiu a abertura de investigação em novembro de 2025.",
+   "severity": "media"
+  },
+  {
+   "i": 60,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 61,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 62,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 63,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 64,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 65,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 66,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 67,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 68,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 69,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 70,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 71,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 72,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou oxigenoterapia autorizada por ex-secretária de Saúde e não achou irregularidade",
+   "description": "O Ministério Público investigou a realização de procedimento de oxigenoterapia hiperbárica autorizado pela então secretária de Saúde. A apuração constatou que havia prescrição médica, que a inserção no sistema SISREG foi regular e que não havia pacientes na fila de espera para o procedimento. O MP concluiu pela inexistência de irregularidade e encerrou o caso em maio de 2025.",
+   "severity": "media"
+  },
+  {
+   "i": 73,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso de dependência química após Turvo internar o paciente",
+   "description": "Um familiar procurou o Ministério Público pedindo a intervenção da rede pública para tratamento de dependência química e alcoólica. A secretaria municipal de saúde encaminhou e internou o paciente em comunidade terapêutica, com transferência clínica já agendada. Considerando o problema solucionado a tempo pelo poder público municipal, o MP indeferiu a abertura de investigação em março de 2026.",
+   "severity": "media"
+  },
+  {
+   "i": 74,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 75,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 76,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 77,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Escola de Timbé do Sul teve segurança restabelecida após reforma cobrada pelo MP",
+   "description": "O Ministério Público acompanhou a situação de segurança da escola municipal E.M.E.B. Albino Zanatta, em Timbé do Sul. Segundo o MP, a segurança foi restabelecida com as medidas adotadas pelo município, incluindo a reforma dos blocos e o reforço do telhado. O caso foi concluído em abril de 2024.",
+   "severity": "media"
+  },
+  {
+   "i": 78,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou falta de responsável técnico na unidade da CASAN em Turvo e arquivou o caso",
+   "description": "O Ministério Público investigou a ausência de responsável técnico inscrito no Conselho Regional de Química da 13ª Região para atuar na filial de Turvo da CASAN, a companhia estadual de água e saneamento. O inquérito foi arquivado em maio de 2024. O extrato publicado não detalha os fundamentos do arquivamento.",
+   "severity": "media"
+  },
+  {
+   "i": 79,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 80,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 81,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 82,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 83,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 84,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 85,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 86,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 87,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 88,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 89,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 90,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou uso do sistema APOIA pelo Conselho Tutelar de Ermo e encerrou após capacitação",
+   "description": "O Ministério Público investigou a possível não utilização do sistema APOIA pelo Conselho Tutelar de Ermo, que alegava falta de capacitação específica. O colegiado comprovou ter realizado as capacitações necessárias, que usa o sistema APOIA antigo e que se habilitou no novo sistema de gestão previsto para agosto de 2025. O MP concluiu não haver razão para ação civil pública e encerrou o caso em julho de 2025.",
+   "severity": "media",
+   "status": "🟢 arquivado"
+  },
+  {
+   "i": 91,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 92,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou recusa de policiais em registrar ocorrência em Turvo e viu atendimento regular",
+   "description": "O Ministério Público investigou a suposta omissão de policiais civis da Delegacia de Turvo, que teriam se recusado a lavrar um novo boletim de ocorrência. Segundo o extrato publicado, ficou demonstrado que o representante foi atendido em diversas ocasiões. O texto oficial está truncado e não detalha o desfecho formal do procedimento, concluído em agosto de 2025.",
+   "severity": "media"
+  },
+  {
+   "i": 93,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 94,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP analisou recusa de delegado em receber moto apreendida em Turvo e atestou atuação regular",
+   "description": "O Ministério Público apurou a recusa da autoridade policial de Turvo em receber integralmente uma motocicleta apreendida pela Polícia Militar, aceitando apenas o motor, que estava vinculado a um registro de furto. A perícia confirmou a substituição do motor e o MP entendeu que a apreensão total geraria impasse, já que qualquer solução prejudicaria um dos proprietários. Concluiu pela regularidade da atuação da autoridade policial em setembro de 2025.",
+   "severity": "media"
+  },
+  {
+   "i": 95,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 96,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 97,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cobrou delegacia de Turvo por inquérito parado desde 2017 e não viu omissão da autoridade",
+   "description": "O Ministério Público apurou a demora na realização de diligências e na conclusão de um inquérito policial de 2017 pela autoridade policial de Turvo, apesar de reiteradas cobranças da 1ª Promotoria de Justiça e da relevância de uma perícia pendente. O MP concluiu não haver omissão injustificada, inércia ou desídia, registrando que a delegacia adotou providências para localizar o veículo a ser periciado, que estaria em área rural de Mafra. O caso foi indeferido em fevereiro de 2026.",
+   "severity": "media"
+  },
+  {
+   "i": 98,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 99,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP analisou pedido de internação psiquiátrica em Turvo e concluiu que rede municipal agiu",
+   "description": "Uma família pediu ao Ministério Público a internação psiquiátrica involuntária de um jovem com dependência química e deficiência intelectual. O MP verificou que as redes municipais de saúde e assistência social atuaram de forma ativa e coordenada, com consulta de reavaliação médica agendada e acompanhamento continuado da família. Sem omissão ou recusa do município, o caso foi arquivado em junho de 2026.",
+   "severity": "media"
+  }
+ ],
+ "tce": [
+  {
+   "i": 0,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 1,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE recomendou aprovação das contas de 2020 da Prefeitura de Turvo",
+   "description": "O Tribunal de Contas de Santa Catarina analisou a prestação de contas do prefeito de Turvo referente ao exercício de 2020. O parecer prévio foi pela aprovação das contas, emitido em fevereiro de 2022. A palavra final sobre o julgamento cabe à Câmara de Vereadores.",
+   "severity": "media",
+   "status": "🟢 parecer pela aprovação"
+  },
+  {
+   "i": 2,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE recomendou aprovação das contas de 2021 da Prefeitura de Turvo",
+   "description": "O Tribunal de Contas de Santa Catarina analisou a prestação de contas do prefeito de Turvo referente ao exercício de 2021. O parecer prévio, emitido em dezembro de 2022, foi pela aprovação das contas. Cabe à Câmara de Vereadores o julgamento final.",
+   "severity": "media",
+   "status": "🟢 parecer pela aprovação"
+  },
+  {
+   "i": 3,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE recomendou aprovação das contas de 2022 da Prefeitura de Turvo",
+   "description": "O Tribunal de Contas de Santa Catarina analisou a prestação de contas do prefeito de Turvo referente ao exercício de 2022. Em outubro de 2023, o parecer prévio foi pela aprovação das contas. O julgamento definitivo é da Câmara de Vereadores.",
+   "severity": "media",
+   "status": "🟢 parecer pela aprovação"
+  },
+  {
+   "i": 4,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multa ex-prefeito de Turvo Tiago Zilli por descumprir determinação do tribunal",
+   "description": "Em julho de 2023, o Tribunal de Contas aplicou a Tiago Zilli, prefeito de Turvo à época dos fatos, multa de R$ 995,29 por deixar de cumprir determinação da Corte fixada em acórdão de 2019. O tribunal também deu 30 dias para que a prefeitura, então sob o comando de Sandro Cirimbelli, comprovasse providências efetivas de cobrança dos valores devidos — notificação dos devedores, protesto ou ação judicial. Outro apontado no processo, Ronaldo Carlessi, já havia quitado a multa que lhe coubera.",
+   "severity": "alta",
+   "status": "🔴 multa aplicada"
+  },
+  {
+   "i": 5,
+   "tipo": "tce",
+   "keep": true,
+   "title": "Ex-prefeito de Turvo recorre e TCE suspende cobrança da multa que lhe foi aplicada",
+   "description": "Tiago Zilli apresentou recurso de reexame contra o Acórdão n. 183/2023, que o havia multado no processo sobre a Prefeitura de Turvo. O relator conheceu o recurso e concedeu efeito suspensivo ao item que aplicou a multa, ou seja, a cobrança ficou suspensa enquanto o mérito é examinado. Os autos foram devolvidos à Diretoria de Recursos e Revisões e o julgamento final ainda não ocorreu.",
+   "severity": "media",
+   "status": "❔ em tramitação"
+  },
+  {
+   "i": 6,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE apura denúncia de acúmulo de cargo público na Prefeitura de Turvo",
+   "description": "O Tribunal de Contas de Santa Catarina recebeu denúncia sobre supostas irregularidades relacionadas ao acúmulo de cargo público na Prefeitura de Turvo. O processo foi registrado em março de 2025. Não há decisão publicada no material disponível e, portanto, não há responsabilização definida.",
+   "severity": "media",
+   "status": "❔ em tramitação"
+  },
+  {
+   "i": 7,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE julgou improcedente denúncia sobre pregão de Turvo e arquivou o caso",
+   "description": "A empresa Comércio de Pneus Oenning Ltda. representou ao Tribunal de Contas contra o Pregão Presencial n. 082/2021 da Prefeitura de Turvo, um registro de preços para aquisição de bens. Em março de 2022, o TCE conheceu a representação e a julgou improcedente, determinando o arquivamento. Nenhuma irregularidade foi confirmada e ninguém foi responsabilizado.",
+   "severity": "media",
+   "status": "🟢 julgado regular"
+  },
+  {
+   "i": 8,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE recomendou aprovação das contas de 2023 da Prefeitura de Turvo",
+   "description": "O Tribunal de Contas de Santa Catarina analisou a prestação de contas do prefeito de Turvo referente ao exercício de 2023. O parecer prévio, de setembro de 2024, foi pela aprovação das contas. O julgamento final cabe à Câmara de Vereadores.",
+   "severity": "media",
+   "status": "🟢 parecer pela aprovação"
+  },
+  {
+   "i": 9,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE recomendou aprovação das contas de 2024 da Prefeitura de Turvo",
+   "description": "O Tribunal de Contas de Santa Catarina analisou a prestação de contas do prefeito de Turvo referente ao exercício de 2024. Em dezembro de 2025, o parecer prévio foi pela aprovação das contas. A decisão definitiva é da Câmara de Vereadores.",
+   "severity": "media",
+   "status": "🟢 parecer pela aprovação"
+  },
+  {
+   "i": 10,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE apura falta de credenciamento em seleção feita pela Prefeitura de Turvo",
+   "description": "O Tribunal de Contas de Santa Catarina recebeu representação sobre supostas irregularidades pela ausência de procedimento de credenciamento em uma seleção conduzida pela Prefeitura de Turvo. O processo foi autuado em fevereiro de 2022. O extrato está truncado, não detalha qual seleção é apontada e não há decisão publicada.",
+   "severity": "media",
+   "status": "❔ em tramitação"
+  },
+  {
+   "i": 11,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 12,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aceita recurso de Tiago Zilli e suspende multa aplicada no caso da Prefeitura de Turvo",
+   "description": "O ex-prefeito de Turvo Tiago Zilli recorreu do Acórdão n. 183/2023, proferido na representação sobre a prefeitura. O Tribunal de Contas conheceu o recurso de reexame e atribuiu efeito suspensivo ao item do acórdão que lhe aplicou multa. O mérito do recurso ainda será examinado pela Diretoria de Recursos e Revisões.",
+   "severity": "media",
+   "status": "❔ em tramitação"
+  }
+ ]
+}

@@ -1,0 +1,1428 @@
+{
+ "mp": [
+  {
+   "i": 0,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva suspeita de fraude em pregão de Garuva",
+   "description": "O MP apurou suposta fraude no Pregão Presencial 048/2018 ligada a serviços e peças de ônibus. O arquivamento concluiu que a irregularidade e a improbidade não foram confirmadas. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 1,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 2,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva suspeita contra delegado por uso de viatura e agentes",
+   "description": "A investigação apurou uso indevido de viatura policial e de agentes como motoristas particulares, além de falha no registro de flagrante. O MP concluiu que não havia base para ação civil pública. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 3,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva suspeita de venda irregular de terreno",
+   "description": "O MP investigou possível irregularidade na venda de um terreno relacionado à empresa Aratu Construções Elétricas. A irregularidade ou improbidade não foi confirmada e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 4,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 5,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 6,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 7,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 8,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre transporte escolar prescrito em Garuva",
+   "description": "O procedimento tratou de possíveis irregularidades na licitação e no contrato do transporte escolar. O MP reconheceu a prescrição e a falta de fundamento para nova ação. O caso foi arquivado.",
+   "status": "⚫ prescrito",
+   "severity": "media"
+  },
+  {
+   "i": 9,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva cobrança da taxa de lixo após audiência pública",
+   "description": "A apuração avaliou a cobrança da taxa de lixo e o suposto aumento abusivo. O MP concluiu que não houve irregularidades e que a audiência pública e outras medidas bastavam. O procedimento foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 10,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso da Câmara de Vereadores de Garuva",
+   "description": "O MP concluiu que não havia fundamento para ação judicial e determinou o arquivamento do inquérito civil. O procedimento foi encerrado sem responsabilização.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 11,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva inquérito sobre parceria com universidade",
+   "description": "A investigação envolveu a Câmara Municipal de Vereadores e a Universidade Estadual do Oeste do Paraná. O MP não viu base para ação judicial e arquivou o caso.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 12,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 13,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 14,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 15,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 16,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 17,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP ajuíza ACP contra processo seletivo de professores em Garuva",
+   "description": "O inquérito apontou burla ao concurso público no processo seletivo 009/2020 para contratação temporária de professores e orientadores. O MP ajuizou ação civil pública, o seletivo foi anulado e depois houve concurso homologado. O caso se encerrou com a ação extinta e o objeto esgotado.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 18,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 19,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 20,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 21,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cumpre recomendação sobre exigência de habilitação em Garuva",
+   "description": "O Município acolheu a recomendação da Promotoria sobre a exigência de habilitação para o cargo no momento da inscrição. Como não houve candidatos prejudicados, o MP não viu fundamento para ação judicial. O caso foi arquivado.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 22,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva licitação de confecções em Garuva",
+   "description": "A investigação sobre procedimentos licitatórios com a empresa E & A Sequinel Confecções constatou que os critérios legais foram observados. O MP arquivou o caso por inexistência de irregularidades.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 23,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 24,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 25,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 26,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre Covid-19 em Garuva",
+   "description": "O MP avaliou as ações de enfrentamento da Covid-19 no município. Como as principais questões foram superadas e não houve irregularidades, o procedimento foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 27,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 28,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC e arquiva caso do licenciamento ambiental",
+   "description": "A apuração tratou da adequação do órgão ambiental municipal e do licenciamento local. O MP registrou aditamento do TAC e entendeu desnecessária nova ação judicial. O caso foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 29,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 30,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 31,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP conclui que conduta de prefeito de Garuva não gerou dano ao erário",
+   "description": "O procedimento analisou a conduta do prefeito e afastou enquadramento na Lei de Improbidade. O texto afirma que não houve dano ao erário, mas o desfecho completo não aparece no extrato. O caso segue com status indefinido.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 32,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 33,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre princípios administrativos",
+   "description": "O MP concluiu que não havia fundamento para a propositura de ação civil pública em um inquérito sobre possível violação dos princípios administrativos. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 34,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 35,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 36,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 37,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 38,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 39,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva regularização da área de proteção ambiental do Quiriri",
+   "description": "O objeto do inquérito foi atendido com a regularização da APA do Quiriri, inclusive plano de manejo, conselho consultivo e estrutura de gestão. O MP arquivou o caso. O procedimento foi encerrado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 40,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 41,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 42,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 43,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso de fornecimento de leite especial a crianças",
+   "description": "A investigação sobre a omissão no fornecimento de leite especial terminou com recomendação acatada e sem necessidade de nova ação judicial. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 44,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 45,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva acessibilidade no Conselho Tutelar de Garuva",
+   "description": "A Promotoria apurou falta de acessibilidade no prédio do Conselho Tutelar. O serviço foi transferido para espaço adequado e o caso foi arquivado. O problema foi solucionado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 46,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 47,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 48,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 49,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 50,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva resíduos da construção civil em Garuva",
+   "description": "O MP concluiu que o Município adotou o plano e a instrução normativa para resíduos da construção civil, ainda que com atraso. Como não havia justificativa para ação judicial, o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 51,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 52,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 53,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC em apuração de Garuva",
+   "description": "O procedimento foi encerrado com termo de ajustamento de conduta firmado pelo Município. O extrato não detalha o objeto, mas indica composição extrajudicial. O caso ficou com TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 54,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC em outra apuração de Garuva",
+   "description": "O inquérito terminou com a assinatura de TAC pelo Município. O extrato é genérico, mas registra solução consensual do caso. O procedimento foi encerrado com acordo.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 55,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 56,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 57,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 58,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 59,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP encerra política de atendimento a crianças vítimas de violência",
+   "description": "O Município implementou a política de atendimento às crianças e adolescentes vítimas de violência. Com isso, o MP concluiu que não havia motivo para manter o procedimento. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 60,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre saneamento de Garuva",
+   "description": "O inquérito terminou com a constatação de inexistência de fundamento para ação judicial e foi arquivado. O procedimento foi encerrado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 61,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre princípios administrativos em Garuva",
+   "description": "O MP concluiu que não havia fundamento para ação judicial e determinou o arquivamento do inquérito civil. O caso foi encerrado sem responsabilização.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 62,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva fortalecimento do controle interno em Garuva",
+   "description": "A apuração sobre o fortalecimento da unidade de controle interno registrou providências já adotadas. O MP arquivou o caso por inexistir fundamento para ação civil pública.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 63,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 64,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 65,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 66,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 67,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 68,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 69,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 70,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 71,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 72,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 73,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 74,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 75,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 76,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 77,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 78,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 79,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 80,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 81,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 82,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre Clínica Ceccatto em Garuva",
+   "description": "A Promotoria concluiu que não houve deficiência no serviço prestado por Márcio Luis Ceccato e que não havia outras irregularidades a sanar. O texto diz que faltaram argumentos para levar o caso à Justiça. O procedimento foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 83,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 84,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração ambiental contra São Gabriel Mineração",
+   "description": "A investigação sobre danos ambientais foi encerrada depois da recuperação das áreas afetadas por São Gabriel Mineração Ltda. A Promotoria registrou que não restaram outras irregularidades a sanar e que não havia base para medidas judiciais.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 85,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 86,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 87,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 88,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 89,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 90,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 91,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 92,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 93,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 94,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 95,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 96,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 97,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 98,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 99,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 100,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 101,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 102,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 103,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 104,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 105,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC com Minipreço em Garuva",
+   "description": "A Promotoria concluiu o inquérito com termo de ajustamento de conduta firmado por Minipreço Mercado e Açougue Ltda. O caso saiu da apuração com acordo cumprido na origem.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 106,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 107,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 108,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 109,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC com Jocelino Schenekemberg",
+   "description": "A apuração terminou com termo de ajustamento de conduta firmado por Jocelino Schenekemberg. O texto indica encerramento consensual do caso.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 110,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP homologa TAC com Supermercado Floriani em Garuva",
+   "description": "O inquérito contra Supermercado Floriani Eireli foi encerrado com termo de ajustamento de conduta. A medida substituiu nova judicialização.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 111,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP homologa TAC com Mix Minimercado em Garuva",
+   "description": "A Promotoria fechou o caso com termo de ajustamento de conduta firmado por Mix Minimercado e Sorveteria Eireli. O procedimento foi resolvido por acordo.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 112,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP homologa TAC com Supermercado Farias em Garuva",
+   "description": "O inquérito sobre Supermercado Farias Ltda. terminou com termo de ajustamento de conduta. Não houve notícia de ação judicial ao final do trecho.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 113,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 114,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração parcial contra Ivonei da Silva Polsin",
+   "description": "A Promotoria arquivou apenas em relação a Ivonei da Silva Polsin, por inexistir fundamento para ação judicial. O texto registra arquivamento parcial do inquérito.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 115,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC com Supermercado Lennertz em Garuva",
+   "description": "A apuração sobre Supermercado Lennertz Ltda. terminou com termo de ajustamento de conduta. O caso saiu do inquérito pela via consensual.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 116,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC com Dona Bê Mercado e Açougue",
+   "description": "O inquérito civil foi encerrado com TAC firmado por Dona Bê Mercado e Açougue. A solução foi consensual e sem notícia de ação judicial.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 117,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC com Luana Machado de Freitas Ltda.",
+   "description": "A Promotoria concluiu a apuração com termo de ajustamento de conduta firmado por Luana Machado de Freitas Ltda. O caso foi encerrado por acordo.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 118,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 119,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 120,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 121,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 122,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 123,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 124,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 125,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 126,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  }
+ ],
+ "tce": [
+  {
+   "i": 0,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 1,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE susta contrato de advocacia da Prefeitura de Garuva",
+   "description": "O Tribunal conheceu a fiscalização e concedeu cautelar para sustar todos os atos ligados ao contrato com Bornholdt Advogados, inclusive pagamentos. Também marcou audiência do prefeito, do secretário e do advogado contratado por supostas irregularidades na inexigibilidade.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 2,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 3,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta falha em contratação do concurso de Garuva",
+   "description": "A representação sobre a empresa de apoio ao concurso público foi julgada parcialmente procedente. O Tribunal identificou elaboração de documentos sem justificativa para os quantitativos e recomendou ajustes à Prefeitura.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 4,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 5,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 6,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 7,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE mantém sustação do contrato de advocacia em Garuva",
+   "description": "No agravo, o Tribunal negou provimento e preservou a cautelar que suspendeu a execução do contrato com Bornholdt Advogados. A decisão também comunicou a Prefeitura e os responsáveis.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 8,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 9,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 10,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva PAP sobre concurso em Garuva sem julgar o mérito",
+   "description": "O procedimento apuratório preliminar foi arquivado por não atingir os critérios de seletividade. O texto ainda traz recomendações ao município, mas não há exame de mérito das suspeitas.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 11,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multa prefeito de Garuva por descumprir decisão sobre chamamento social",
+   "description": "O Tribunal aplicou multa ao prefeito Rodrigo Adriany David por não atender a decisões anteriores no caso do chamamento público. A sanção foi fixada em R$ 1.684,66.",
+   "status": "🔴 multa aplicada",
+   "severity": "alta"
+  },
+  {
+   "i": 12,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva representação sobre tomada de preços em Garuva",
+   "description": "A representação foi extinta sem resolução de mérito porque a Prefeitura anulou a Tomada de Preços n. 28/2021. O processo acabou arquivado sem análise das acusações.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 13,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE não conhece representação sobre leis que reconheceram dívida em Garuva",
+   "description": "A representação foi barrada por falta de seletividade e arquivada sem análise de mérito. Mesmo assim, o Tribunal recomendou que a Prefeitura observe os prazos contratuais para evitar reconhecimento de dívida fora do contrato.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 14,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva representação sobre pregão de Garuva por perda de objeto",
+   "description": "A representação sobre o Pregão Presencial PMG 062/2021 foi extinta porque o objeto se perdeu no curso do processo. Não houve julgamento do mérito das supostas irregularidades.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 15,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 16,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 17,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 18,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 19,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 20,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva apuração sobre pregão de escola em Garuva",
+   "description": "A representação sobre o Pregão Presencial n. 91/2024 não passou na seletividade e acabou arquivada como procedimento apuratório preliminar. O caso foi remetido ao controle interno, sem análise de mérito pelo Tribunal.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 21,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE mira pregão de Garuva por desclassificação sem diligência",
+   "description": "Na fase mais avançada do processo, o relator mandou ouvir o prefeito e o pregoeiro por possível irregularidade na desclassificação da empresa Saay's sem diligência saneadora. O caso segue em instrução.",
+   "status": "🟡 em instrução (citação/audiência)",
+   "severity": "media"
+  },
+  {
+   "i": 22,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 23,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE encerra representação sobre tomada de preços 28/2021 em Garuva",
+   "description": "O Tribunal extinguiu o processo porque a Prefeitura anulou a licitação, o que levou à perda superveniente do objeto. A decisão não julgou o mérito das acusações.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 24,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva PAP sobre credenciamento de leiloeiro em Garuva",
+   "description": "O procedimento apuratório preliminar foi arquivado por falta de pontuação mínima na seletividade. Houve apenas recomendação ao controle interno, sem mérito apreciado.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 25,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 26,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 27,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 28,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 29,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multa prefeito de Garuva por desrespeitar regras da liberdade econômica",
+   "description": "O Tribunal aplicou multa de R$ 1.990,59 a Rodrigo Adriany David pela falta de envio de informações sobre a adequação do município à legislação da liberdade econômica. A decisão também exigiu manifestação da Prefeitura sobre o tema.",
+   "status": "🔴 multa aplicada",
+   "severity": "alta"
+  },
+  {
+   "i": 30,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE rejeita embargos e mantém sustação do contrato de advocacia em Garuva",
+   "description": "Os embargos de declaração foram rejeitados e a decisão anterior foi ratificada integralmente. O efeito prático foi manter a cautelar já imposta no caso do contrato de advocacia do município.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  }
+ ]
+}

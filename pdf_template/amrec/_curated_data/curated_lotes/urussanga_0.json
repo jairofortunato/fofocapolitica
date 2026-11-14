@@ -1,0 +1,426 @@
+[
+ {
+  "ref": "06.2021.00002333-8",
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura gastos com publicidade e contratação de jornais pela Câmara de Morro da Fumaça",
+  "description": "O Ministério Público investigou suposto excesso de gastos com publicidade legal e irregularidades na contratação de jornais pela Câmara de Vereadores de Morro da Fumaça. A parte sobre contratação de jornais foi considerada frágil e arquivada, mas a apuração sobre excesso de gastos com publicidade seguiu em outro processo mais amplo, ainda em andamento.",
+  "severity": "media"
+ },
+ {
+  "ref": "06.2023.00001283-8",
+  "tipo": "mp",
+  "keep": true,
+  "title": "Concurso da Câmara de Cocal do Sul foi anulado após denúncia de fraude na banca organizadora",
+  "description": "O MP apurou irregularidades no concurso público (Edital 001/2022) da Câmara de Cocal do Sul, organizado pela banca Centro de Estudos UNIASE. O certame foi anulado e a banca teve que devolver os valores pagos pela Câmara, além de outras sanções contratuais. O Ministério Público concluiu que não houve improbidade administrativa, apenas irregularidade já corrigida, e arquivou o caso.",
+  "severity": "alta"
+ },
+ {
+  "ref": "06.2024.00003519-0",
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP investigou falhas na aplicação de provas do concurso de Urussanga em 2023",
+  "description": "Foi apurada denúncia de que candidatos do Concurso Público 01/2023 de Urussanga teriam sido liberados sem lacre do envelope de provas em uma sala e começado a prova antes do horário em outra. A apuração concluiu que houve falhas de execução, mas sem quebra de sigilo ou vantagem para candidatos, sem indício de dolo. O texto da conclusão está incompleto nos registros públicos.",
+  "severity": "media"
+ },
+ {
+  "ref": "06.2020.00001017-2",
+  "tipo": "mp",
+  "keep": true,
+  "title": "Conselho fiscal da cooperativa de energia CERMOFUL denuncia irregularidades contábeis à direção",
+  "description": "O Ministério Público apurou denúncia do Conselho Fiscal da Cooperativa Fumacense de Eletricidade (CERMOFUL) contra o Conselho de Administração, apontando notas e duplicatas não pagas e divergências entre estoque físico e o sistema. O texto da conclusão está incompleto nos registros disponíveis, sem informação sobre o desfecho final.",
+  "severity": "media"
+ },
+ {
+  "ref": "06.2022.00003799-1",
+  "tipo": "mp",
+  "keep": true,
+  "title": "Suspeita de licitação direcionada para empresa de guincho em Urussanga é arquivada por falta de provas",
+  "description": "O MP investigou se a Prefeitura de Urussanga teria direcionado uma licitação (Processo 70/2021) para favorecer a empresa Peraro Guincho Eireli, com participação de Rubens Biazoto de Souza. A suspeita não foi comprovada com provas suficientes e o inquérito foi arquivado.",
+  "severity": "media"
+ },
+ {
+  "ref": "06.2023.00000711-3",
+  "tipo": "mp",
+  "keep": true,
+  "title": "Prefeito de Urussanga foi denunciado por perseguir rádio local, mas MP não achou provas de improbidade",
+  "description": "Dirigentes da Rádio Marconi (Daniel Pagani e André Niclele) denunciaram o prefeito de Urussanga, Luís Gustavo Cancellier, e Arnaldo Bez Batti por suposta interferência na atividade da emissora. O Ministério Público não encontrou provas de improbidade administrativa, mas encaminhou cópia do processo à Procuradoria-Geral de Justiça para avaliar possível crime cometido pelo prefeito.",
+  "severity": "alta"
+ },
+ {
+  "ref": "06.2025.00004581-5",
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP investiga prefeito de Urussanga e familiares por loteamento ligado a empresa da família",
+  "description": "Está em apuração suspeita de que o prefeito Luis Gustavo Cancellier e parentes (Silvio Luis Cancellier, Thaise Talamini, Giorgia Tatiane Bendo Cancellier e Lucas Talamini) tenham cometido conflito de interesses e usado manobras societárias simuladas para driblar exigências legais no licenciamento do empreendimento '2C Loteamento SPE Ltda'. Investigação em andamento, sem conclusão até o momento.",
+  "severity": "alta"
+ },
+ {
+  "ref": "06.2022.00001730-7",
+  "tipo": "mp",
+  "keep": true,
+  "title": "Vereador de Urussanga é investigado por desviar cargas de areia da prefeitura para particulares",
+  "description": "O vereador Rozemar Sebastião, conhecido como 'Taliano', é investigado por supostamente ter desviado, em duas ocasiões, cargas de areão da Prefeitura de Urussanga para beneficiar os particulares Júlio César Menegas e Andréia Sartor Lino. A conduta pode configurar improbidade administrativa com lesão ao erário. Caso ainda em apuração.",
+  "severity": "alta"
+ },
+ {
+  "ref": "06.2022.00001738-4",
+  "tipo": "mp",
+  "keep": true,
+  "title": "Outro vereador de Urussanga é investigado por desviar carga de areão para particular",
+  "description": "O vereador Odivaldo Bonetti é investigado por suposto desvio de carga de areão da Prefeitura de Urussanga em favor do particular Emílio Della Bruna, conduta que pode configurar improbidade administrativa com lesão ao erário. Caso ainda em apuração.",
+  "severity": "alta"
+ },
+ {
+  "ref": "",
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP abre inquérito sobre uso de veículo do SAMAE para serviços particulares em Urussanga",
+  "description": "Foi aberta investigação contra Fabiano Murialdo de Bona, operador de máquinas, e Vanderlei Marcírio, ex-diretor do SAMAE (Serviço Autônomo Municipal de Água e Esgoto) de Urussanga, suspeitos de usar veículo público para prestar serviços particulares enquanto ocupavam cargos públicos.",
+  "severity": "media"
+ },
+ {
+  "ref": "06.2022.00000308-0",
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP processa ex-diretor do SAMAE e operador por uso de veículo público em serviço particular",
+  "description": "Após apurar que Vanderlei Marcírio (ex-diretor do SAMAE de Urussanga) e Fabiano Murialdo de Bona (operador de máquinas) teriam usado veículo público para prestar serviços particulares, o Ministério Público ajuizou ação civil pública por improbidade administrativa contra os dois, buscando as sanções previstas em lei.",
+  "severity": "alta"
+ },
+ {
+  "ref": ".",
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP fiscaliza acordo com floricultura envolvida em caso de improbidade em Urussanga",
+  "description": "O Ministério Público abriu procedimento para acompanhar o cumprimento do Acordo de Não Persecução Cível firmado com a Recanto Decorações para Eventos Ltda. (Floricultura Recanto das Flores), dentro de uma ação civil pública por improbidade administrativa já em curso. Acompanhamento segue em andamento.",
+  "severity": "media"
+ },
+ {
+  "ref": "06.2023.00000357-2",
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP não encontra improbidade em denúncias sobre concurso do consórcio de lixo CIRSURES",
+  "description": "Foram apuradas denúncias de irregularidades no concurso público (Edital 001/2022) do Consórcio Intermunicipal de Resíduos Sólidos Urbanos da Região Sul (CIRSURES), envolvendo o candidato Jhone Cidral e o Município de Urussanga. O Ministério Público concluiu que as provas não indicam ato de improbidade nem justificam ação judicial, e arquivou o caso, restando aos candidatos prejudicados a via individual.",
+  "severity": "media"
+ },
+ {
+  "ref": "06.2022.00002125-5",
+  "tipo": "mp",
+  "keep": true,
+  "title": "Prefeitura de Urussanga é investigada por fracionar contratos para driblar licitação entre 2013 e 2015",
+  "description": "O MP apura se a Prefeitura de Urussanga fracionou contratações com a empresa J.S. Obras Ltda. ME entre 2013 e 2015 para dispensar indevidamente a licitação na execução de obras e serviços, causando possíveis danos ao erário. A investigação avalia a necessidade de reparação aos cofres públicos. Caso em andamento.",
+  "severity": "alta"
+ },
+ {
+  "ref": "06.2021.00003616-6",
+  "tipo": "mp",
+  "keep": true,
+  "title": "Contrato da Câmara de Urussanga com blog para divulgar vereadores é investigado e arquivado",
+  "description": "O MP apurou o contrato da Câmara de Vereadores de Urussanga com o 'Blog Paulo Matias', suspeito de ter sido firmado sem pesquisa de preços e sem checar pendências fiscais da empresa, além de possível uso do espaço para promoção pessoal de políticos. A investigação não encontrou indícios de dolo ou dano ao erário e o caso foi arquivado.",
+  "severity": "media"
+ },
+ {
+  "ref": "06.2023.00003662-0",
+  "tipo": "mp",
+  "keep": true,
+  "title": "Loteamento Vila Toscana em Urussanga é investigado por desmatar além do permitido em área de preservação",
+  "description": "O Ministério Público apura denúncia da Polícia Militar Ambiental de que o Loteamento Vila Toscana, no Bairro Rio Carvão Baixo, avançou sobre área de preservação permanente, cortando vegetação no entorno de três cursos d'água além do autorizado pelas licenças ambientais. Os investigados são Julino Bendo e o responsável legal da empresa 2C Loteamento SPE Ltda — a mesma empresa ligada à família do prefeito Cancellier em outro inquérito do MP. Caso ainda em apuração.",
+  "severity": "alta"
+ },
+ {
+  "ref": "06.2020.00003964-8",
+  "tipo": "mp",
+  "keep": true,
+  "title": "Construção em área de preservação em Urussanga é liberada após estudo técnico",
+  "description": "O MP apurou denúncia de construção irregular em área de preservação permanente na Rua Osmar Cunha, em imóvel de Valdir Garcia, em Urussanga. Um estudo técnico concluiu que a residência está em Área Urbana Consolidada, e o caso foi arquivado sem necessidade de mais medidas.",
+  "severity": "media"
+ },
+ {
+  "ref": "06.2017.00002553-5",
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP processa Urussanga por falta de estrutura no órgão de fiscalização ambiental",
+  "description": "O Ministério Público apurou que o órgão ambiental de Urussanga não tinha estrutura adequada para fiscalizar e licenciar atividades com potencial de degradação ambiental, descumprindo regras estaduais (SISMUMA). Como o município não fez as mudanças necessárias, o MP ajuizou ação civil pública contra a Prefeitura.",
+  "severity": "media"
+ },
+ {
+  "ref": "06.2016.00002140-2",
+  "tipo": "mp",
+  "keep": true,
+  "title": "Contrato de consultoria em saúde de Urussanga é investigado por suspeita de serviço mal prestado",
+  "description": "O MP apurou a contratação da empresa Gestão Saúde Ltda. pela Prefeitura de Urussanga (Processo Licitatório 26/2014), suspeitando que os serviços de consultoria não foram prestados ou fiscalizados adequadamente. A licitação em si foi considerada regular, mas eventuais atos de improbidade já haviam prescrito e faltaram provas de prejuízo ao erário. Caso arquivado.",
+  "severity": "media"
+ },
+ {
+  "ref": "06.2023.00000357-2",
+  "tipo": "mp",
+  "keep": true,
+  "title": "Denúncia aponta prova de concurso 'sob medida' para beneficiar candidato ligado ao consórcio de lixo",
+  "description": "O MP investigou denúncia de que o concurso do CIRSURES (Edital 001/2022) teria sido manipulado para prejudicar o candidato Jhone Cidral e beneficiar Júlio Antonio Bortolon, que já trabalhava no consórcio — exigindo dele tarefas de outro cargo na prova prática e permitindo que buscasse um documento pessoal após o fechamento dos portões. A apuração concluiu, em extrato posterior, que não houve prova de improbidade, e o caso foi arquivado.",
+  "severity": "alta"
+ },
+ {
+  "ref": "06.2023.00002684-3",
+  "tipo": "mp",
+  "keep": true,
+  "title": "Edital de concurso em Urussanga não previu isenção de taxa para candidatos de baixa renda",
+  "description": "O MP apurou que o edital do concurso público 001/2023 de Urussanga não incluiu a possibilidade de isenção da taxa de inscrição para candidatos com renda de até dois salários mínimos, como exige a lei estadual. A denunciante foi Dyelen Vieira Elibio. Caso ainda em apuração.",
+  "severity": "media"
+ },
+ {
+  "ref": "01.2023.00039913-9",
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura irregularidades na campanha eleitoral para o Conselho Tutelar de Urussanga",
+  "description": "Foi aberta apuração sobre possíveis irregularidades na campanha eleitoral de Victor Novareski e Edneia Lunardi Frozzi, candidatos ao Conselho Tutelar de Urussanga. A responsabilidade de apurar os fatos foi repassada a uma comissão especial. O texto da conclusão está incompleto nos registros públicos.",
+  "severity": "media"
+ },
+ {
+  "ref": "06.2024.00004105-9",
+  "tipo": "mp",
+  "keep": true,
+  "title": "Vereadores de Urussanga viajaram a Brasília no Carnaval com diárias públicas, mas MP não viu irregularidade",
+  "description": "O MP apurou denúncia de que vereadores de Urussanga (Altemar Nowask, Thiago Mutini, Odivaldo Bonetti, José Carlos José e Elson Roberto Ramos) teriam recebido diárias indevidas para viagem a Brasília durante o Carnaval de 2024. A apuração concluiu que o pagamento seguiu a legislação, que a viagem ocorreu no período de indicação de emendas parlamentares e que as contas foram prestadas normalmente. Caso arquivado.",
+  "severity": "media"
+ },
+ {
+  "ref": "01.2023.00025359-0",
+  "tipo": "mp",
+  "keep": true,
+  "title": "Vereador denuncia falta de vagas em creches de Urussanga, e Justiça já cobra solução",
+  "description": "O vereador Luan Francisco Varnier denunciou a falta de vagas em creches de Urussanga, especialmente no Centro de Educação Infantil Elias Biz. Já existe ação civil pública em andamento para garantir vagas a todas as crianças do município, e o MP considerou que essa ação mais ampla já cobre o problema, arquivando o pedido individual do vereador.",
+  "severity": "media"
+ },
+ {
+  "ref": "06.2025.00003924-6",
+  "tipo": "mp",
+  "keep": true,
+  "title": "Fura-fila em atendimento oftalmológico do SUS em Urussanga gera ação por dano moral coletivo",
+  "description": "O MP apurou possível violação da ordem de prioridade em atendimentos oftalmológicos de urgência pelo SUS em Urussanga, envolvendo Altemar Nowaski, Luan Francisco Varnier e Rafaela Belina. Foi ajuizada ação civil pública buscando reparação por dano moral coletivo. Quanto ao médico Alexandre Régio Gomes, a apuração concluiu que ele agiu de forma técnica e de boa-fé, sem saber que já havia consulta marcada. O texto da conclusão sobre os demais investigados está incompleto.",
+  "severity": "alta"
+ },
+ {
+  "ref": "06.2020.00004323-0",
+  "tipo": "mp",
+  "keep": true,
+  "title": "Vereador e moradores são processados por obras irregulares em área de preservação em Urussanga",
+  "description": "O MP apurou obras potencialmente poluidoras e outras intervenções ilegais em área de preservação permanente na Estrada Geral Rio Caeté Baixo, em Urussanga, envolvendo o vereador Rozemar Sebastião, Mariza Scremin Bergmann e Sidney Bergmann. Foi ajuizada ação civil pública para desfazer as obras e reparar o dano ambiental.",
+  "severity": "alta"
+ },
+ {
+  "ref": "06.2018.00004005-1",
+  "tipo": "mp",
+  "keep": true,
+  "title": "Loteamento industrial de Urussanga tem irregularidade em reserva legal e gera duas ações na Justiça",
+  "description": "O MP apurou que a Prefeitura de Urussanga não fez a devida especialização da reserva legal ao transformar áreas rurais em urbanas para viabilizar um loteamento industrial. Foi firmado Termo de Ajustamento de Conduta, o imóvel foi inscrito no cadastro ambiental com 20% de reserva legal, e duas ações judiciais envolvendo os imóveis seguem em andamento.",
+  "severity": "media"
+ },
+ {
+  "ref": "06.2022.00004133-0",
+  "tipo": "mp",
+  "keep": true,
+  "title": "Urussanga descumpre acordo para regularizar contratação de professores de educação física",
+  "description": "O MP apurou contratações temporárias irregulares de professores de educação física pela Prefeitura de Urussanga. Um Termo de Ajustamento de Conduta (TAC) foi firmado para regularizar a situação, mas o município descumpriu as cláusulas, levando o MP a ajuizar ação de execução para forçar o cumprimento.",
+  "severity": "alta"
+ },
+ {
+  "ref": "06.2022.00002147-7",
+  "tipo": "mp",
+  "keep": true,
+  "title": "Monitores de transporte escolar de Urussanga foram contratados sem concurso, aponta denúncia ao MP",
+  "description": "O MP apurou denúncia de que Marlei Albertina Soares e Arthur de Oliveira ingressaram como Monitores de Transporte Escolar em Urussanga sem processo seletivo. Arthur foi demitido durante a apuração e Marlei foi recontratada em 2023 por processo seletivo regular. O MP considerou a contratação temporária amparada por lei municipal e arquivou o caso.",
+  "severity": "media"
+ },
+ {
+  "ref": "06.2023.00004644-0",
+  "tipo": "mp",
+  "keep": true,
+  "title": "Urussanga mantém contratados temporários e não chama aprovados em concurso, denuncia MP",
+  "description": "O MP apurou que a Prefeitura de Urussanga manteve funcionários contratados temporariamente em vez de chamar os aprovados nos concursos 01/2023 e 02/2023, após denúncia de Sarah Vieira Brasileiro, Roberto Arruda e Marcia Gomes Romero de Simas. O município aceitou recomendação para publicar a homologação dos concursos e exonerar os temporários, mas o MP também move ação judicial para executar um TAC anterior sobre o tema, já que a prefeitura não regularizou totalmente a situação.",
+  "severity": "alta"
+ },
+ {
+  "ref": "09.2022.00001616-3",
+  "tipo": "mp",
+  "keep": false,
+  "title": "MP acompanha cumprimento de decisão judicial ambiental em Urussanga",
+  "description": "Procedimento administrativo aberto apenas para acompanhar e fiscalizar o cumprimento de decisão judicial anterior, que determinou a elaboração de um diagnóstico socioambiental pelo Município de Urussanga. Não há irregularidade nova relatada, apenas monitoramento processual.",
+  "severity": "media"
+ },
+ {
+  "ref": "09.2022.00001726-2",
+  "tipo": "mp",
+  "keep": false,
+  "title": "MP monitora cumprimento de decisão sobre diagnóstico socioambiental na região",
+  "description": "Procedimento aberto para acompanhar o cumprimento de decisão judicial que determinou a elaboração de diagnóstico socioambiental, ligado a ação civil pública anterior. É um acompanhamento processual, sem nova irregularidade apontada.",
+  "severity": "media"
+ },
+ {
+  "ref": "06.2022.00001331-1",
+  "tipo": "mp",
+  "keep": false,
+  "title": "Denúncia de descarte irregular de lixo em Urussanga é resolvida com limpeza do local",
+  "description": "Uma denúncia anônima relatou depósito irregular de lixo (madeira, pedras, colchões) em propriedade na Estrada Geral, Figueira, em Urussanga. A Polícia Militar Ambiental confirmou o descarte, e a prefeitura providenciou a limpeza do local. Sem responsável identificado, o MP arquivou o caso.",
+  "severity": "media"
+ },
+ {
+  "ref": "06.2023.00000904-4",
+  "tipo": "mp",
+  "keep": true,
+  "title": "Urussanga contratou servidores já aposentados sem poder, e MP cobrou correção",
+  "description": "O MP apurou que a Prefeitura de Urussanga contratou diretamente quatro servidores (Adriana Tibes da Silva, Olvenita Bez Fontana, Ideraldo Dal Bó e Lucir Zatta) que já recebiam aposentadoria, incompatível com decreto municipal. Três deles, de fato aposentados pelo INSS, foram exonerados; o quarto permaneceu por não estar aposentado. O MP considerou a irregularidade já corrigida pela prefeitura e arquivou o caso.",
+  "severity": "media"
+ },
+ {
+  "ref": "06.2019.00002322-3",
+  "tipo": "mp",
+  "keep": false,
+  "title": "MP verifica ações de Urussanga contra a dengue e considera medidas eficazes",
+  "description": "Inquérito aberto de ofício para verificar as ações da Prefeitura de Urussanga contra a proliferação do mosquito da dengue. O MP constatou que as medidas foram eficazes, com o município sem focos de dengue havia meses, e arquivou o caso sem apontar irregularidade.",
+  "severity": "media"
+ },
+ {
+  "ref": "06.2022.00003510-5",
+  "tipo": "mp",
+  "keep": true,
+  "title": "Dupla é flagrada desmatando Mata Atlântica em Urussanga e fecha acordo para evitar processo criminal",
+  "description": "Glaucio Magagnin e Edevir Tomazi foram investigados por suprimir cerca de 207 metros quadrados de vegetação nativa da Mata Atlântica em propriedade no Bairro São Pedro, em Urussanga. Como o impacto ambiental foi considerado baixo, os dois fecharam acordo de não persecução penal para evitar o processo criminal.",
+  "severity": "media"
+ },
+ {
+  "ref": "06.2024.00001709-2",
+  "tipo": "mp",
+  "keep": true,
+  "title": "Casal é investigado por desmatamento em Urussanga e aceita reparar área degradada",
+  "description": "Armelindo Raichaski e Hilda Beninca Raichaski foram investigados por suprimir vegetação nativa sem autorização em imóvel no Bairro De Brida, em Urussanga. Eles aceitaram transação penal com o compromisso de recuperar a área degradada, e o caso foi arquivado.",
+  "severity": "media"
+ },
+ {
+  "ref": "06.2022.00001486-5",
+  "tipo": "mp",
+  "keep": true,
+  "title": "Proprietária é investigada por abrir estrada em área de preservação em Cocal do Sul",
+  "description": "Dirce de Moraes Piucco foi investigada por fazer terraplanagem para abrir estrada perto de uma nascente, em área de preservação permanente, em imóvel na zona rural de Cocal do Sul. Ela apresentou plano de recuperação da área, aprovado pelo órgão ambiental, e o caso foi arquivado.",
+  "severity": "media"
+ },
+ {
+  "ref": "06.2021.00005003-5",
+  "tipo": "mp",
+  "keep": true,
+  "title": "Casal é investigado por abrir estrada e cortar árvores em área protegida em Urussanga",
+  "description": "Nelsa Rosa Pigmentel Romagna e Vanderlei Romagna foram investigados por abrir estrada de terra a apenas 2 metros de um curso d'água, dentro de área de preservação permanente, e por cortar duas árvores nativas. O órgão ambiental constatou baixo impacto e regeneração natural do local, e o MP arquivou o caso.",
+  "severity": "media"
+ },
+ {
+  "ref": "01.2023.00011025-9",
+  "tipo": "mp",
+  "keep": false,
+  "title": "Falta de vagas em creche durante reforma em Urussanga é resolvida com aluguel de outro imóvel",
+  "description": "Foi apurada reclamação sobre crianças matriculadas na extensão do CEI Elias Biz enquanto o prédio passava por reforma em Urussanga. A prefeitura alugou outro imóvel e fez adequações para receber as 26 crianças. O MP considerou que ação civil pública mais ampla já trata do tema e não abriu novo procedimento individual.",
+  "severity": "media"
+ },
+ {
+  "ref": "01.2023.00007861-0",
+  "tipo": "mp",
+  "keep": false,
+  "title": "MP nega pedido por transporte escolar gratuito a universitários de Urussanga",
+  "description": "Uma moradora pediu ao MP que cobrasse da Prefeitura de Urussanga transporte escolar gratuito para 12 alunos universitários até Tubarão. O MP entendeu que essa é decisão discricionária da administração, ligada à disponibilidade de recursos, e negou a abertura de procedimento.",
+  "severity": "media"
+ },
+ {
+  "ref": "06.2016.00007940-6",
+  "tipo": "mp",
+  "keep": true,
+  "title": "Empresa é responsabilizada por poluição sonora e intervenção irregular em curso d'água em Urussanga",
+  "description": "Moraes Feltrin & Cia. Ltda. e Joacir Domingos Feltrin foram investigados por poluição sonora e por intervenções irregulares em cursos d'água (canalização e barramento) em Urussanga. A poluição foi corrigida com adequações comprovadas por laudo técnico, as intervenções hídricas foram regularizadas e a recuperação ambiental foi cumprida por decisão judicial já transitada em julgado. Caso arquivado.",
+  "severity": "media"
+ },
+ {
+  "ref": "06.2021.00000702-7",
+  "tipo": "mp",
+  "keep": false,
+  "title": "Urussanga regulariza sistema de declaração de bens de servidores após cobrança do MP",
+  "description": "O MP verificou se a Prefeitura de Urussanga cumpria a exigência legal de declaração anual de bens dos servidores. O município criou decreto e sistema eletrônico para isso, e o MP arquivou o caso por falta de motivo para ação judicial.",
+  "severity": "media"
+ },
+ {
+  "ref": "06.2017.00000805-8",
+  "tipo": "mp",
+  "keep": true,
+  "title": "Justiça é acionada para obrigar preservação de imóvel histórico tombado em Urussanga",
+  "description": "O MP apurou o estado de conservação do conjunto de três edificações tombadas da Vinícola Cadorin, em Urussanga, envolvendo a família Cadorin, a Fundação Catarinense de Cultura, o Estado de Santa Catarina e o Município. Como as tentativas de resolver o problema fora da Justiça não deram certo, foi ajuizada ação civil pública para garantir a conservação do patrimônio histórico.",
+  "severity": "media"
+ },
+ {
+  "ref": "01.2023.00001244-9",
+  "tipo": "mp",
+  "keep": true,
+  "title": "Idoso é deixado desamparado após alta de hospital em Urussanga, e caso de abandono vai à Justiça",
+  "description": "O MP apurou a situação de um idoso identificado como A.A., que teria ficado em situação de vulnerabilidade durante a internação e no momento da alta no Hospital Nossa Senhora da Conceição de Urussanga, por conduta de familiares. O idoso estava desacompanhado, mas lúcido e assistido pela equipe médica. Um possível crime de abandono após a alta será apurado à parte, e uma ação civil pública foi movida em razão da situação de risco constatada. O texto da conclusão está incompleto nos registros públicos.",
+  "severity": "alta"
+ },
+ {
+  "ref": "06.2022.00004959-8",
+  "tipo": "mp",
+  "keep": true,
+  "title": "Empresa de resíduos que incomodava vizinhança com mau cheiro em Cocal do Sul assina acordo",
+  "description": "A empresa Ecofaq Gerenciamento de Resíduos, no Bairro Rio do Galo em Cocal do Sul, foi investigada após moradores reclamarem de odor químico, associado ao encerramento de um Reator Bioquímico da empresa. Após reunião com a comunidade e o poder público, foi assinado Termo de Ajustamento de Conduta prevendo o fim definitivo do equipamento e troca de tecnologia. O texto da conclusão está incompleto nos registros públicos.",
+  "severity": "media"
+ },
+ {
+  "ref": "01.2024.00028467-5",
+  "tipo": "mp",
+  "keep": false,
+  "title": "Comunidade pede para manter equipe médica de UBS em Urussanga, mas Justiça já havia determinado saída",
+  "description": "Moradores de Urussanga, com abaixo-assinado organizado por Luciane Masiero, pediram a permanência da equipe médica e de enfermagem da UBS José Cattaneo. As exonerações decorriam de decisão judicial anterior que já obrigava a prefeitura a regularizar contratações temporárias por concurso. O MP negou o pedido da comunidade, mantendo a determinação judicial.",
+  "severity": "media"
+ },
+ {
+  "ref": "09.2025.00003357-4",
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP acompanha reforma obrigatória da Vinícola Cadorin, patrimônio histórico de Urussanga",
+  "description": "Procedimento aberto para acompanhar o cumprimento de sentença judicial que condenou o Estado de Santa Catarina, a Fundação Catarinense de Cultura e, subsidiariamente, o Município de Urussanga, além de membros da família Cadorin, a recuperar e restaurar o conjunto tombado da Vinícola Cadorin. A decisão também proíbe qualquer intervenção no imóvel sem autorização da Fundação. Acompanhamento em andamento.",
+  "severity": "media"
+ },
+ {
+  "ref": "06.2023.00004226-5",
+  "tipo": "mp",
+  "keep": true,
+  "title": "Intervenção sem autorização em imóvel de Urussanga causa risco de deslizamento e dano ambiental",
+  "description": "Geraldo Fornasa foi investigado por realizar intervenções sem autorização em imóvel na Rua Vinte e Seis de Maio, no Bairro Da Figueira em Urussanga, causando danos ambientais e risco de deslizamento. Foi firmado Termo de Ajustamento de Conduta, cujo cumprimento será acompanhado, e o inquérito civil foi arquivado.",
+  "severity": "media"
+ },
+ {
+  "ref": "06.2024.00001543-9",
+  "tipo": "mp",
+  "keep": true,
+  "title": "Bairro de Urussanga fica sem água potável e Justiça obriga prefeitura a assumir abastecimento",
+  "description": "Moradores do Bairro Rio América Alto, representados pela Associação AMBRA e por Nelson Cittadin, denunciaram problemas no abastecimento de água em Urussanga. A suspeita de contaminação por agrotóxicos não foi comprovada e essa parte foi arquivada, mas o MP determinou o ajuizamento de ação civil pública para obrigar a prefeitura a assumir o serviço de água, fornecer abastecimento emergencial e reparar danos morais coletivos.",
+  "severity": "alta"
+ },
+ {
+  "ref": "06.2021.00004208-0",
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP processa morador por dano ambiental em área de preservação em Urussanga",
+  "description": "Marcelo Paulo e Daniele Schlichting Fusinato foram investigados por intervenção irregular em área de preservação permanente em Urussanga. O caso contra Daniele foi arquivado por rompimento do nexo de causalidade, mas o MP ajuizou ação civil pública contra Marcelo Paulo, exigindo a recuperação da área degradada e reparação pelos danos ambientais.",
+  "severity": "media"
+ },
+ {
+  "ref": "06.2014.00006045-3",
+  "tipo": "mp",
+  "keep": true,
+  "title": "Ônibus intermunicipais sem acessibilidade para pessoas com deficiência são investigados",
+  "description": "O MP apurou denúncia de Giane Amélia Eilert Ronchi de que ônibus da Autoviação São José, no transporte intermunicipal que passa por Urussanga, não tinham plataforma elevatória para pessoas com deficiência. Verificou-se que a empresa só era obrigada a ter o equipamento nos veículos fabricados a partir de 2018, e que esses já possuíam a plataforma. O texto da conclusão está incompleto nos registros públicos.",
+  "severity": "media"
+ },
+ {
+  "ref": "06.2017.00004673-0",
+  "tipo": "mp",
+  "keep": true,
+  "title": "Motorista de veículo da Saúde de Urussanga usava carro do SUS para levar pacientes a atendimento particular",
+  "description": "Izolete Duarte Vieira Gastaldon foi investigada por usar veículos da Secretaria de Saúde de Urussanga, destinados ao transporte de pacientes do SUS, para levar pessoas a procedimentos médicos particulares. De três casos denunciados, dois foram confirmados. Ela firmou acordo de não persecução cível, com ressarcimento ao erário e pagamento de multa, e o caso foi arquivado.",
+  "severity": "alta"
+ }
+]

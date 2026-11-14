@@ -1,0 +1,632 @@
+[
+ {
+  "i": 420,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 421,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 422,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 423,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 424,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 425,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP conclui inquérito sobre servidor de planejamento urbano de Brusque e arquiva",
+  "description": "O inquérito civil apurou a conduta de Bruno Correa em relação à Secretaria Municipal de Planejamento Urbano de Brusque. O Ministério Público concluiu que não havia elementos para ajuizamento de ação civil e arquivou o caso.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 426,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP conclui inquérito sobre empreendimento imobiliário de Brusque e arquiva",
+  "description": "O inquérito civil apurou a conduta de Z&Z Empreendimentos Imobiliários Ltda., Joares Ferrari e Rosilene Bonfante Ferrari no Município de Brusque. O Ministério Público concluiu que não havia elementos para ajuizamento de ação civil e arquivou o caso.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 427,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP conclui inquérito sobre PRAD de Brusque e acompanha cumprimento no inquérito policial",
+  "description": "O inquérito civil apurou a conduta de Ivo Molinari e Wanderleia Dória no Município de Brusque. O Ministério Público concluiu que o PRAD apresentado estava sendo acompanhado e cumprido no âmbito de inquérito policial sobre o mesmo objeto (SIG n. 08.2023.00355377-9). O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 428,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 429,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 430,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 431,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 432,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP conclui inquérito sobre família Scharf em Brusque e arquiva por ausência de fundamentos",
+  "description": "O inquérito civil apurou a conduta de Rita Scharf e outros membros da família Scharf no Município de Brusque. O Ministério Público concluiu que não havia elementos para ajuizamento de ação civil e arquivou o caso.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 433,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 0,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 1,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE multa ex-prefeito de Brusque por despesas com pessoal acima do limite prudencial",
+  "description": "O TCE julgou parcialmente procedente a representação decorrente de comunicação à Ouvidoria, considerando irregulares as despesas com pessoal no Município de Brusque em 2017, quando o Poder Executivo se encontrava acima do limite prudencial da Lei de Responsabilidade Fiscal. O ex-prefeito Jonas Oscar Paegle foi multado em R$ 1.684,66.",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta"
+ },
+ {
+  "i": 2,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 3,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE recomenda correções no planejamento da concessão de saneamento de Brusque",
+  "description": "O TCE analisou o planejamento da concessão dos serviços públicos de esgotamento sanitário e abastecimento de água do Município de Brusque (LCC 25/00078609). O Tribunal recomendou a adoção de diversas providências relativas ao projeto básico, plano de negócios e fluxo de caixa, incluindo a verificação da ausência de Value for Money e de demonstração de avaliação comparativa com outras modalidades de contratação.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 4,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 5,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE considera improcedente representação sobre concorrência de saneamento de Brusque",
+  "description": "O TCE julgou improcedente a representação de Renan Fontana Ferraz sobre supostas irregularidades na Concorrência Presencial n. 11/2025, que prevê a concessão dos serviços de esgotamento sanitário e abastecimento de água do Município de Brusque. O pedido de sustação cautelar foi indeferido e a representação foi arquivada.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 6,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE considera improcedente segunda representação sobre concorrência de saneamento de Brusque",
+  "description": "O TCE julgou improcedente a representação de Infrainvest Participações Ltda. sobre supostas irregularidades na Concorrência Pública n. 11/2025 para concessão dos serviços de saneamento do Município de Brusque. O pedido de sustação cautelar foi indeferido e a representação foi arquivada.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 7,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE apura irregularidades em pregão de material escolar de Brusque",
+  "description": "O TCE converteu procedimento apuratório preliminar em representação sobre supostas irregularidades no Pregão Eletrônico n. 130/2022, promovido pela Prefeitura de Brusque para aquisição de material escolar. A medida cautelar de suspensão não foi concedida por ausência de fumus boni iuris e foi determinada audiência da Secretária de Educação para apresentar justificativas.",
+  "status": "🟡 em instrução (citação/audiência)",
+  "severity": "media"
+ },
+ {
+  "i": 8,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva apuração sobre pregão de pneus em Brusque após retificação do Termo de Referência",
+  "description": "O TCE converteu procedimento apuratório preliminar em representação sobre supostas irregularidades no Pregão Eletrônico n. 035/2023, promovido pela Prefeitura de Brusque para aquisição de pneus. O objeto foi considerado prejudicado em vista das retificações promovidas tempestivamente no Termo de Referência pela municipalidade. O caso foi arquivado.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 9,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta irregularidade em cômputo de período de estágio probatório em Brusque",
+  "description": "O TCE considerou irregular o cômputo de período de exercício de cargo de agente político de Secretário Municipal de Trânsito para fins de conclusão de estágio probatório do servidor Paulo Rodrigo Sestrem no Município de Brusque. Foi determinada a reavaliação do servidor no prazo de 180 dias.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "alta"
+ },
+ {
+  "i": 10,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE apura irregularidades em pregão de limpeza de Brusque e concede cautelar",
+  "description": "O TCE conheceu a representação da empresa Sanitary Serviços sobre supostas irregularidades no Pregão Eletrônico n. 007/2025, para contratação de serviços de limpeza em Brusque. Porém, julgou improcedente a representação, concluindo que as irregularidades suscitadas não comprometeram o caráter competitivo da licitação. O caso foi arquivado.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 11,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE concede cautelar e suspende contratação de paisagismo de Brusque",
+  "description": "O TCE conheceu a representação da empresa Camila Venturin Zappelline Paiva Ltda. sobre supostas irregularidades no Pregão Eletrônico n. 007/2025 para serviços de paisagismo e roçada em Brusque, incluindo possível dano ao erário de R$ 389.563,20 por desclassificação por motivos sanáveis. Foi concedida medida cautelar para suspender a execução do contrato e determinada audiência dos responsáveis.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "alta"
+ },
+ {
+  "i": 12,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 13,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE condena ex-diretor da Fundesporte de Brusque por irregularidades no Programa Bolsa-Atleta",
+  "description": "O TCE julgou irregulares, com imputação de débito, as contas da Tomada de Contas Especial referentes a irregularidades na concessão de benefícios do Programa Bolsa-Atleta pela Fundação Municipal de Esportes de Brusque no exercício de 2021. O ex-diretor-geral Edson Garcia foi condenado ao recolhimento de R$ 19.300,00 e multado em R$ 7.200,00 por pagamento de parcelas excedentes às previstas no Edital.",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta"
+ },
+ {
+  "i": 14,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE não conhece representação sobre dispensa emergencial de Brusque por ausência de indícios",
+  "description": "O TCE não conheceu a representação sobre supostas irregularidades na dispensa de licitação emergencial para tratamento e saúde no Município de Brusque, por inexistência de indícios de irregularidades e ausência de comprovação de adoção dos meios administrativos prévios. O caso foi arquivado.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 15,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 16,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE sobresta tomada de contas sobre obras de pavimentação de Brusque para reparação voluntária",
+  "description": "O TCE conheceu Tomada de Contas Especial instaurada pelo Município de Brusque sobre irregularidades na execução de pavimentação em CBUQ (valor de R$ 315.301,13) e passeios pela empresa Empreiteira de Mão de Obra Adrimar Ltda. O prosseguimento foi sobrestado por 90 dias para oportunizar reparação voluntária dos danos pela empresa contratada.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "alta"
+ },
+ {
+  "i": 17,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 18,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 19,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 20,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 21,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE prescreve pretensões sobre doação de imóvel público em Brusque e faz recomendações",
+  "description": "O TCE reconheceu a incidência da prescrição das pretensões punitiva e ressarcitória em relação a irregularidades imputadas no processo de Tomada de Contas Especial de Brusque envolvendo doação de imóvel público. O Tribunal fez diversas recomendações ao município sobre a observância de requisitos legais para doação de imóveis públicos.",
+  "status": "⚫ prescrito",
+  "severity": "media"
+ },
+ {
+  "i": 22,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 23,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta irregularidade em aposentadoria de servidora de saúde de Brusque por acúmulo de cargos",
+  "description": "O TCE denegou o registro de aposentadoria da servidora Maria de Lourdes Correia, da Secretaria de Estado da Saúde, por ter exercido cargo de Técnico em Enfermagem em acumulação com proventos de cargo federal de Auxiliar Operacional de Serviços Diversos, em afronta à Constituição Federal. O ato de aposentadoria foi considerado irregular e foi determinada a sua anulação.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "alta"
+ },
+ {
+  "i": 24,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta irregularidade no uso de recursos da COSIP para decoração natalina em Brusque",
+  "description": "O TCE considerou procedente a representação e irregulares os atos do Executivo do Município de Brusque quanto à utilização de recursos da COSIP para pagamentos de despesas com decoração natalina nos exercícios de 2017 e 2018, na ausência de permissivo na legislação local. O Tribunal recomendou a estrita observância à legislação municipal sobre desvinculação de recursos da COSIP.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "alta"
+ },
+ {
+  "i": 25,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE considera improcedente representação sobre pregão de material escolar de Brusque",
+  "description": "O TCE julgou improcedente a representação da empresa Futura Comércio de Materiais Educacionais Ltda. sobre supostas irregularidades no Pregão Eletrônico n. 130/2022, para aquisição de material escolar pelo Município de Brusque, no valor previsto de R$ 3.820.913,70. A representação foi arquivada.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 26,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE sobresta tomada de contas sobre obras de pavimentação de Brusque para reparação voluntária",
+  "description": "O TCE conheceu Tomada de Contas Especial sobre irregularidades na execução de pavimentação em CBUQ e passeios pela empresa Empreiteira de Mão de Obra Adrimar Ltda. no Município de Brusque, com indícios de danos ao erário de R$ 315.301,13. O prosseguimento foi sobrestado por 90 dias para oportunizar reparação voluntária dos danos pela empresa contratada.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "alta"
+ },
+ {
+  "i": 27,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aprova plano de ação de Brusque sobre metas de educação e monitora implementação",
+  "description": "O TCE conheceu o Plano de Ação apresentado pela Prefeitura Municipal de Brusque sobre o cumprimento da Meta 18 da Lei municipal n. 3887/2015 e o aprovou, nos termos e prazos propostos. Foi alertada a prefeitura sobre a tempestividade na apresentação do Relatório de Acompanhamento, sob pena de multa.",
+  "status": "🟡 em instrução (citação/audiência)",
+  "severity": "media"
+ },
+ {
+  "i": 28,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 29,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aplica multas por atrasos na remessa de dados ao e-Sfinge em Brusque e Rio Rufino",
+  "description": "O TCE considerou irregulares as omissões e atrasos na remessa de informações ao Sistema e-Sfinge pela Câmara Municipal de Rio Rufino. Foram aplicadas multas aos responsáveis pelo atraso no envio de dados relativos aos módulos de Execução Orçamentária e Atos de Pessoal, nos exercícios de 2021, 2022 e 2023.",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta"
+ },
+ {
+  "i": 30,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE concede cautelar e suspende contratação de paisagismo de Brusque",
+  "description": "O TCE conheceu a representação da empresa Camila Venturin Zappelline Paiva Ltda. sobre supostas irregularidades no Pregão Eletrônico n. 007/2025 para serviços de paisagismo e roçada em Brusque, incluindo possível dano ao erário de R$ 389.563,20 por desclassificação por motivos sanáveis. Foi concedida medida cautelar para suspender a execução do contrato e determinada audiência dos responsáveis.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "alta"
+ },
+ {
+  "i": 31,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE monitora implementação de plano de ação de Brusque sobre nomeações no magistério",
+  "description": "O TCE aprovou o novo Plano de Ação apresentado pela Prefeitura Municipal de Brusque, sobre nomeações de candidatos aprovados em concurso para o magistério. Foi determinado relatório de acompanhamento em 180 dias, com alerta sobre multa em caso de descumprimento.",
+  "status": "🟡 em instrução (citação/audiência)",
+  "severity": "media"
+ },
+ {
+  "i": 32,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE apura descumprimento de jornada em Brusque e arquiva por ausência de condição prévia",
+  "description": "O TCE determinou o arquivamento do Procedimento Apuratório Preliminar sobre possível descumprimento de jornada no Município de Brusque, por ausência da condição prévia exigida na legislação do Tribunal. O caso foi arquivado sem análise do mérito.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 33,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE mantém irregularidade em Tomada de Contas Especial sobre aquisição de toras de eucalipto em Brusque",
+  "description": "O TCE deu parcial provimento ao Recurso de Reconsideração de César Morilo Roza, cancelando um item da deliberação original e adequando outro, mas mantendo a irregularidade apontada nas contas referentes a ilegalidades nos procedimentos de aquisição de toras de eucalipto para obras municipais nos anos de 2007 e 2008.",
+  "status": "⬛ julgado irregular",
+  "severity": "alta"
+ },
+ {
+  "i": 34,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta irregularidades na documentação de aposentadoria e levantamento de despesas em Brusque",
+  "description": "O TCE ordenou o registro de pensão por morte em favor de Francisco Ramos, em decorrência do óbito de Otilia Ramos, servidora da Prefeitura de Blumenau. Em seguida, verificou a regularidade de despesas de Brusque com aquisição de gêneros alimentícios para refeições escolares junto à empresa Mini Mercado Tete Ltda., sem encontrar evidências de irregularidades na execução contratual.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 35,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE recomenda correções em programa de desenvolvimento urbano de Brusque financiado pelo FONPLATA",
+  "description": "O TCE analisou os resultados do Relatório de Auditoria Financeira do Programa de Desenvolvimento Urbano e Sustentável de Brusque/SC – Brusque 2030, financiado pelo FONPLATA, relativo aos exercícios de 2023 e 2024. O Tribunal recomendou diversas providências ao município sobre formalização de substituições de membros da equipe técnica, qualificação profissional e preenchimento de requisitos contratuais.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 36,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva inspeção sobre pregão de EPIs de Brusque após atendimento de diligência",
+  "description": "O TCE determinou o arquivamento dos autos relativos ao Pregão Presencial n. 02/2020, para aquisição de equipamentos de proteção individual para enfrentamento da pandemia de COVID-19 pelo Município de Brusque, em razão do atendimento à diligência pela municipalidade.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 37,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE dá parcial provimento a recurso e mantém contas regulares com ressalva em Brusque",
+  "description": "O TCE deu parcial provimento ao Recurso de Reconsideração interposto por Ciro Marcial Roza e outros contra Acórdão anterior, modificando a deliberação para julgar regulares com ressalva as contas pertinentes à Tomada de Contas Especial referente a depósitos judiciais no Município de Brusque, recomendando a observância estrita da legislação sobre depósitos judiciais.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 38,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta irregularidade em aposentadoria de servidor de Brusque por cálculo de benefício",
+  "description": "O TCE fixou prazo final de 30 dias para o Instituto Brusquense de Previdência sanar irregularidades na aposentadoria de Agostinho Lombardi, incluindo ausência de memória de cálculo com exclusão de vantagens indevidas e concessão irregular de anuênio no percentual de 40%, quando o apurado foi de 34%.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "alta"
+ },
+ {
+  "i": 39,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE nega recurso de reexame de prefeito de Brusque e mantém irregularidade em contratos",
+  "description": "O TCE negou provimento ao Recurso de Reexame interposto pelo ex-prefeito Jonas Oscar Paegle contra Acórdão que considerou irregular a Tomada de Contas Especial referente a contratos de aquisição de toras de eucalipto no Município de Brusque, mantendo a deliberação recorrida na íntegra.",
+  "status": "⬛ julgado irregular",
+  "severity": "alta"
+ },
+ {
+  "i": 40,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE dá provimento a embargos de declaração e cancela item de acórdão sobre Brusque",
+  "description": "O TCE deu provimento ao Recurso de Embargos de Declaração para cancelar o item 6.3 do Acórdão n. 382/2019, estendendo os efeitos da deliberação ao Sr. César Morilo Roza, nos termos do Código de Processo Penal aplicado por analogia. O conteúdo do item cancelado não consta do dispositivo, portanto o desfecho final do caso não pode ser afirmado.",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 41,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE cancela multa em recurso de reconsideração sobre Brusque",
+  "description": "O TCE deu parcial provimento ao Recurso de Reconsideração contra o Acórdão n. 0469/2019, tão somente para cancelar a multa inscrita no item 6.2 da deliberação recorrida, mantendo os demais termos da decisão original sobre o Município de Brusque.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 42,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ decisão singular",
+  "severity": "media"
+ },
+ {
+  "i": 43,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta irregularidades na documentação de pensão de Brusque",
+  "description": "O TCE fixou prazo de 30 dias para o Instituto Brusquense de Previdência sanar irregularidades na concessão de pensão e auxílio especial em nome de Maria Geovani, incluindo ausência de comprovante de pagamento do mês anterior ao óbito e necessidade de retificação do ato de concessão para constar embasamento legal correto.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "alta"
+ },
+ {
+  "i": 44,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva auditoria sobre programa de desenvolvimento urbano de Brusque",
+  "description": "O TCE determinou o arquivamento dos autos da auditoria sobre o Programa de Desenvolvimento Urbano e Sustentável em Brusque/SC, sem prejuízo de futura autuação para fiscalização do programa em sua integralidade.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 45,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta irregularidade em aposentadoria de servidora de Brusque",
+  "description": "O TCE apontou irregularidades na aposentadoria de Beatriz Brigitte Borchardt Grisa no Instituto Brusquense de Previdência e determinou providências para regularização do ato, com base em restrições detectadas na documentação apresentada.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "alta"
+ },
+ {
+  "i": 46,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE determina registro de aposentadoria de servidora de Brusque considerada legal",
+  "description": "O TCE ordenou o registro do ato de aposentadoria da servidora Dorian Willrich, da Prefeitura Municipal de Brusque, considerando-o legal conforme análise realizada pelo órgão instrutivo.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 47,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta irregularidade em aposentadoria especial de professora de Brusque",
+  "description": "O TCE fixou prazo de 30 dias para o Instituto Brusquense de Previdência sanar restrição na aposentadoria voluntária de Maristela Kunescki, por ausência de comprovação de exercício de funções de magistério na educação infantil, fundamental ou médio pelo período de 25 anos, conforme exigido para aposentadoria especial de professor.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "alta"
+ },
+ {
+  "i": 48,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE responde consulta sobre contratação de remanescente de Brusque",
+  "description": "O TCE respondeu Consulta da Prefeitura de Brusque sobre a regra de transição da Lei n. 14.133/2021, esclarecendo que o gestor público tem discricionariedade para promover novo certame ou adotar a contratação de remanescente de obra, serviço ou fornecimento, desde que atendidos os requisitos legais aplicáveis.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 49,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE prescreve pretensão ressarcitória sobre Parque das Esculturas de Brusque",
+  "description": "O TCE reconheceu de ofício a prescrição da pretensão ressarcitória em favor dos responsáveis pelo recebimento de recursos antecipados para a realização do projeto Parque das Esculturas no Município de Brusque, por meio de Termo de Convênio no valor total de R$ 3.700.000,00.",
+  "status": "⚫ prescrito",
+  "severity": "media"
+ },
+ {
+  "i": 50,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE responde consulta sobre acumulação de cargos em Brusque e reforma prejulgados",
+  "description": "O TCE respondeu Consulta da Prefeitura de Brusque sobre acumulação de cargos e funções, reformando os Prejulgados ns. 1690 e 903 e revogando item do Prejulgado n. 653, estabelecendo novas orientações sobre a matéria.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 51,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aplica multas por irregularidades na liquidação da CODEB em Brusque",
+  "description": "O TCE considerou irregulares os atos administrativos e gerenciais praticados na Companhia de Desenvolvimento e Urbanização de Brusque (CODEB) nos anos de 2018 e 2019, e aplicou multas ao liquidante José Delamar de Oliveira e ao ex-prefeito Jonas Oscar Paegle por deixarem de adotar providências necessárias para a liquidação da empresa, incluindo regularização do controle patrimonial e localização de documentos.",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta"
+ },
+ {
+  "i": 52,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ acórdão (decisão)",
+  "severity": "media"
+ },
+ {
+  "i": 53,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE nega recurso de reexame sobre irregularidades em contratos de Brusque",
+  "description": "O TCE negou provimento ao Recurso de Reexame interposto pelo Contador do Município de Brusque, Cristiano Bittencourt, contra Acórdão que considerou irregular a Tomada de Contas Especial referente a contratos no Município de Brusque, mantendo a deliberação recorrida na íntegra.",
+  "status": "⬛ julgado irregular",
+  "severity": "alta"
+ },
+ {
+  "i": 54,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ acórdão (decisão)",
+  "severity": "media"
+ },
+ {
+  "i": 55,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ acórdão (decisão)",
+  "severity": "media"
+ }
+]

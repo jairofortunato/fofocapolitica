@@ -1,0 +1,74 @@
+{
+ "_fonte": "pop: IBGE Censo 2022 (agregado 4714/var 93). rec/desp: Siconfi/Tesouro, RREO 2025 6º bimestre, Anexo 01 — rec=TotalReceitas 'Até o Bimestre (c)', desp=TotalDespesas 'DESPESAS EMPENHADAS ATÉ O BIMESTRE (f)'. Mesma fonte e definição usadas na AMREC, AMESC, AMUREL, AMURES e AMVALI. Dado fiscal extraído para 13 das 14 cidades, com linha única por conta/coluna em todas.",
+ "_lacunas": "Timbó não tem RREO no Siconfi: verificado bimestre a bimestre, não publicou nenhum RREO em 2024 nem em 2025, o que descumpre a LRF. Fica com rec/desp nulos e o PDF mostra '—'. Não foi preenchido com a receita bruta do DCA porque ela é ~6% maior que a receita líquida do RREO e inflaria a cidade na comparação.",
+ "Blumenau": {
+  "pop": 361261,
+  "rec": 3129194513,
+  "desp": 3179802609
+ },
+ "Brusque": {
+  "pop": 141385,
+  "rec": 1223574933,
+  "desp": 1101240435
+ },
+ "Gaspar": {
+  "pop": 72570,
+  "rec": 542319915,
+  "desp": 504124690
+ },
+ "Indaial": {
+  "pop": 71549,
+  "rec": 570381529,
+  "desp": 562722222
+ },
+ "Timbó": {
+  "pop": 46099,
+  "rec": null,
+  "desp": null
+ },
+ "Pomerode": {
+  "pop": 34289,
+  "rec": 324988609,
+  "desp": 279570554
+ },
+ "Guabiruba": {
+  "pop": 24543,
+  "rec": 167057687,
+  "desp": 153055886
+ },
+ "Rodeio": {
+  "pop": 12757,
+  "rec": 72536797,
+  "desp": 67895185
+ },
+ "Rio dos Cedros": {
+  "pop": 10865,
+  "rec": 105642801,
+  "desp": 101545790
+ },
+ "Benedito Novo": {
+  "pop": 10520,
+  "rec": 80354244,
+  "desp": 75709493
+ },
+ "Apiúna": {
+  "pop": 9811,
+  "rec": 85994064,
+  "desp": 83327350
+ },
+ "Ascurra": {
+  "pop": 8319,
+  "rec": 57109971,
+  "desp": 55166034
+ },
+ "Botuverá": {
+  "pop": 5363,
+  "rec": 55965212,
+  "desp": 53796141
+ },
+ "Doutor Pedrinho": {
+  "pop": 3637,
+  "rec": 42126964,
+  "desp": 36081606
+ }
+}

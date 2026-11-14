@@ -1,0 +1,209 @@
+[
+ {
+  "i": 0,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura loteamento irregular em Rio dos Cedros e arquiva após REURB",
+  "description": "O Ministério Público instaurou inquérito civil para apurar loteamento irregular na Rodovia Municipal 456, Localidade de Alto Cedros, em Rio dos Cedros. A atuação do MP foi suficiente para instigar providências pelo município, com REURB em curso. Condutas penais seguem em investigação própria. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 1,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura descarte irregular de resíduos em APP em Rio dos Cedros e arquiva",
+  "description": "O Ministério Público investigou obras com aterro, disposição de rejeitos de construção civil e descarte de lixo em Área de Preservação Permanente em Rio dos Cedros. O material foi retirado pelo proprietário, a autoria não foi identificada e a licença ambiental de operação foi emitida. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 2,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 3,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura parcelamento irregular do solo em Rio dos Cedros e arquiva após ação municipal",
+  "description": "O Ministério Público investigou parcelamento irregular do solo no imóvel situado na Rua Pomeranio Central, Bairro Caravaggio, em Rio dos Cedros. A irregularidade foi confirmada e o município ajuizou ação contra o responsável. Condutas penais seguem em investigação. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 4,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura parcelamento irregular no Bairro Cruzeiro em Rio dos Cedros e arquiva",
+  "description": "O Ministério Público investigou parcelamento irregular do solo na Rua 1º de Maio, Bairro Cruzeiro, em Rio dos Cedros. A irregularidade foi confirmada e o município ajuizou ação contra o responsável. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 5,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP firma TAC com Supermercado Campos por irregularidades sanitárias em Rio dos Cedros",
+  "description": "O Ministério Público constatou irregularidades sanitárias no Supermercado Campos Ltda. durante ação conjunta do Programa de Proteção Jurídico Sanitário dos Consumidores de Produtos de Origem Animal (POA) em Rio dos Cedros. Termo de Ajustamento de Conduta foi firmado para correção. O caso foi arquivado.",
+  "status": "🟠 TAC firmado",
+  "severity": "media"
+ },
+ {
+  "i": 6,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 7,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 8,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 9,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 10,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 11,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 12,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva TAC com Rio dos Cedros e AGIR após cumprimento de metas",
+  "description": "O Ministério Público firmou Termo de Compromisso de Ajustamento de Conduta com o Município de Rio dos Cedros e a Agência Intermunicipal de Regulação do Médio Vale do Itajaí (AGIR). Após aditamento e atingimento dos objetivos, o inquérito civil foi arquivado.",
+  "status": "🟢 recomendação cumprida",
+  "severity": "media"
+ },
+ {
+  "i": 13,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 0,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "media"
+ },
+ {
+  "i": 1,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 2,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 3,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE julga regular aquisição de aparelho de anestesia em Rio dos Cedros",
+  "description": "O TCE considerou regulares os atos relativos à aquisição de aparelho de anestesia pelo Município de Rio dos Cedros com base na Lei n. 13.979/2020, que trata da dispensa temporária de licitação para enfrentamento da pandemia.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 4,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 5,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 6,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE multa ex-prefeito de Rio dos Cedros por atraso na prestação de contas",
+  "description": "O TCE julgou irregular a reincidência do ex-prefeito de Rio dos Cedros, Marildo Domingos Felippi, no atraso na remessa da Prestação de Contas do Prefeito referente ao exercício de 2019. Foi aplicada multa de R$ 1.684,66.",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta"
+ },
+ {
+  "i": 7,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE nega recurso e mantém irregularidade contra ex-prefeito de Rio dos Cedros",
+  "description": "O TCE negou provimento ao Recurso de Reexame interposto por Marildo Domingos Felippi contra acórdão anterior, mantendo integralmente a deliberação que apontou irregularidades.",
+  "status": "⬛ julgado irregular",
+  "severity": "media"
+ },
+ {
+  "i": 8,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ }
+]

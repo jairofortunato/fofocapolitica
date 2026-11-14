@@ -1,0 +1,635 @@
+{
+ "cidade": "Joinville",
+ "casos": [
+  {
+   "i": 3850,
+   "tipo": "mp",
+   "ref": "01.2025.00009875-7",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00009875-7",
+   "status": "🟢 arquivado",
+   "data": "25/04/2025",
+   "texto": "anônimo. Conclusão: arquivamento. Atribuição do Município. Ausência de demonstração da omissão do ente municipal."
+  },
+  {
+   "i": 3851,
+   "tipo": "mp",
+   "ref": "01.2025.00018354-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00018354-0",
+   "status": "🟡 em apuração",
+   "data": "28/04/2025",
+   "texto": "Jéssica Anselmo."
+  },
+  {
+   "i": 3852,
+   "tipo": "mp",
+   "ref": "01.2025.00019022-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00019022-9",
+   "status": "🟡 em apuração",
+   "data": "30/04/2025",
+   "texto": "Vanderlei Nunes e SAMA."
+  },
+  {
+   "i": 3853,
+   "tipo": "mp",
+   "ref": "01.2025.00019047-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00019047-3",
+   "status": "🟡 em apuração",
+   "data": "30/04/2025",
+   "texto": "sigilo."
+  },
+  {
+   "i": 3854,
+   "tipo": "mp",
+   "ref": "06.2025.00001419-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00001419-9.",
+   "status": "🟡 em apuração",
+   "data": "30/04/2025",
+   "texto": "Romilde Moreira."
+  },
+  {
+   "i": 3855,
+   "tipo": "mp",
+   "ref": "06.2024.00004011-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00004011-6",
+   "status": "🟡 em apuração",
+   "data": "02/05/2025",
+   "texto": "Antônio Donizete Veiga."
+  },
+  {
+   "i": 3856,
+   "tipo": "mp",
+   "ref": "06.2025.00001485-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00001485-5.",
+   "status": "🟡 em apuração",
+   "data": "02/05/2025",
+   "texto": "noticiante sigiloso."
+  },
+  {
+   "i": 3857,
+   "tipo": "mp",
+   "ref": "06.2025.00000773-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00000773-2",
+   "status": "🟢 arquivado",
+   "data": "05/05/2025",
+   "texto": "Ana Paula Fronza e Marcos Dietzold. Conclusão: suposta situação de grave incidente de segurança pública envolvendo dois cães da raça pit bull, que residem na Rua Bella Vista, n. 450, Bairro Saguaçu, em Joinville/SC. Atuação do órgão de proteção animal. Animais castrados, vacinados e microchipados. Medidas de contenção adotadas pelo tutor. Bem-estar resguardado. Arquivamento com supedâneo no art. 48, inciso I, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 3858,
+   "tipo": "mp",
+   "ref": "01.2025.00000451-3",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00000451-3",
+   "status": "🟢 arquivado",
+   "data": "06/05/2025",
+   "texto": "Dayene Nogueira dos Santos. Conclusão: apurar possível situação de vulnerabilidade de um canino no imóvel localizado na Rua Parintintins, n.180, geminado de esquina, Bairro Costa e Silva, em Joinville/SC. Atuação do órgão de proteção animal. Adequações no abrigo, vacinação e microchipagem. Canino com seu bem-estar resguardado. Indeferimento de Instauração com base no artigo 7º, incisos II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 3859,
+   "tipo": "mp",
+   "ref": "01.2025.00000723-2",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00000723-2",
+   "status": "🟢 arquivado",
+   "data": "06/05/2025",
+   "texto": "Nicoli Messias. Conclusão: apurar possível situação de vulnerabilidade de animais no imóvel localizado na Estrada Arataca (coordenadas (26°18'59.0\"S 48°54'12.6\"W), Bairro Morro do Meio, Joinville/SC. Adequações no abrigo, vacinação, castração e microchipagem. Caninos com seu bem-estar resguardado. Indeferimento de Instauração com base no artigo 7º, incisos II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 3860,
+   "tipo": "mp",
+   "ref": "01.2025.00002382-1",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00002382-1",
+   "status": "🟢 arquivado",
+   "data": "06/05/2025",
+   "texto": "Antônio Sérgio Farias e noticiante sigiloso. Conclusão: apurar possível situação de vulnerabilidade de uma canina, em imóvel localizado na Rua Carlos Willy Boehm, n. 194, Bairro Santo Antônio, em Joinville/SC. Atuação do órgão de proteção animal. Medidas administrativas cabíveis cumpridas pela nova tutora (vacinação, microchipagem, abrigo adequado e tratamento veterinário). Animal com seu bem-estar resguardado. Indeferimento de Instauração com base no artigo 7º, incisos II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 3861,
+   "tipo": "mp",
+   "ref": "01.2025.00002638-4",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00002638-4",
+   "status": "🟢 arquivado",
+   "data": "06/05/2025",
+   "texto": "Julia Vieira. Conclusão: apurar possível situação de vulnerabilidade de dois caninos e uma calopsita, em imóvel localizado na Rua Servidão Afonso Eduardo Bernardo Hoepfner, n. 88, Bairro Petrópolis, em Joinville/SC. Atuação do órgão de proteção animal e da PMSC. Adequações no abrigo, vacinação e microchipagem. Animais com seu bem-estar resguardado. Indeferimento de Instauração com base no artigo 7º, incisos II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 3862,
+   "tipo": "mp",
+   "ref": "01.2025.00002736-1",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00002736-1",
+   "status": "🟢 arquivado",
+   "data": "06/05/2025",
+   "texto": "Cristina Clarice Nass Burdella. Conclusão: apurar suposta situação de vulnerabilidade e maus-tratos vivenciada por um canino, no imóvel localizado na Rua Julho Vieira, n. 345, Bairro Jardim Sofia (loteamento Kelly), em Joinville/SC. Atuação do órgão de proteção animal. Adequações no abrigo, castração, vacinação e microchipagem. Canino com seu bem-estar resguardado. Indeferimento de instauração com base no artigo 7º, incisos II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 3863,
+   "tipo": "mp",
+   "ref": "01.2024.00058256-8",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00058256-8",
+   "status": "🟢 arquivado",
+   "data": "06/05/2025",
+   "texto": "Biih Erdmann Heringer. Conclusão: apurar suposta situação de vulnerabilidade de duas felinas, presas a uma corrente. Atuação do órgão de proteção animal. Felinos encontram-se em local adequado. Felina Kiara encontra-se castrada, vacinada e microchipada. Indeferimento de instauração com base no artigo 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 3864,
+   "tipo": "mp",
+   "ref": "01.2025.00019717-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00019717-7",
+   "status": "🟡 em apuração",
+   "data": "06/05/2025",
+   "texto": "Marli Piekarski."
+  },
+  {
+   "i": 3865,
+   "tipo": "mp",
+   "ref": "01.2024.00053309-9",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00053309-9",
+   "status": "🟢 arquivado",
+   "data": "07/05/2025",
+   "texto": "V.B. Conclusão: arquivamento. Pessoa com Deficiência (PcD). Vaga em RI. Óbito."
+  },
+  {
+   "i": 3866,
+   "tipo": "mp",
+   "ref": "01.2025.00013844-4",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2025.00013844-4",
+   "status": "🟢 arquivado",
+   "data": "07/05/2025",
+   "texto": "Valdineia Vicente Santos. Conclusão: suposto abandono de animal. Ausência de indícios suficientes da autoria delitiva do crime de maus-tratos que embasem o início de uma apuração criminal. Manutenção do animal na residência da noticiante. Acolhimento voluntário. Inclusão do canino na feira virtual de adoção da SAMA. Indeferimento de instauração com base no artigo 7º, incisos I e II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 3867,
+   "tipo": "mp",
+   "ref": "01.2025.00020871-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00020871-4",
+   "status": "🟡 em apuração",
+   "data": "07/05/2025",
+   "texto": "sigilo."
+  },
+  {
+   "i": 3868,
+   "tipo": "mp",
+   "ref": "01.2025.00021213-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00021213-0",
+   "status": "🟡 em apuração",
+   "data": "07/05/2025",
+   "texto": "Janis Huchak Pinheiro."
+  },
+  {
+   "i": 3869,
+   "tipo": "mp",
+   "ref": "06.2024.00004053-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00004053-8",
+   "status": "🟡 em apuração",
+   "data": "07/05/2025",
+   "texto": "Antônio Pereira."
+  },
+  {
+   "i": 3870,
+   "tipo": "mp",
+   "ref": "06.2025.00001519-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00001519-8.",
+   "status": "🟡 em apuração",
+   "data": "07/05/2025",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 3871,
+   "tipo": "mp",
+   "ref": "06.2025.00001548-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00001548-7",
+   "status": "🟡 em apuração",
+   "data": "07/05/2025",
+   "texto": "Leila Jhoni."
+  },
+  {
+   "i": 3872,
+   "tipo": "mp",
+   "ref": "06.2025.00001570-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00001570-0.",
+   "status": "🟡 em apuração",
+   "data": "09/05/2025",
+   "texto": "Schirley Matos Pereira."
+  },
+  {
+   "i": 3873,
+   "tipo": "mp",
+   "ref": "06.2025.00001593-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00001593-2",
+   "status": "🟡 em apuração",
+   "data": "09/05/2025",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 3874,
+   "tipo": "mp",
+   "ref": "06.2024.00003255-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00003255-0",
+   "status": "🟢 arquivado",
+   "data": "12/05/2025",
+   "texto": "noticiante sigiloso e Itamar da Rocha Kersten. Conclusão: apurar suposta situação de vulnerabilidade de caninos e felinos presos constantemente em local fechado, na Rua Robinson Luís de França, n. 86, Zona Industrial Norte, ao lado sobrado de n. 48, Joinville/SC, CEP 89219-68. Resguardado o bem-estar e a dignidade de todos os animais. Animais castrados, vacinados e microchipados. Inexistência de fundamento para ingresso de Ação Civil Pública. Arquivamento. Artigo 48, inciso I, do Ato 395/2018/PGJ."
+  },
+  {
+   "i": 3875,
+   "tipo": "mp",
+   "ref": "06.2024.00004759-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00004759-7",
+   "status": "❔ status indef.",
+   "data": "12/05/2025",
+   "texto": "Secretarias Municipais de Saúde de Joinville, Araquari, Balneário Barra do Sul, Barra Velha, São João do Itaperiú, Garuva, Guaramirim, Massaranduba, Schroeder, Itapoá, Jaraguá do Sul, Corupá e São Francisco do Sul Secretaria de Estado da Saúde de Santa Catarina, Conselho Regional de Medicina de Santa Catarina (CRM/SC) e Conselho Regional de"
+  },
+  {
+   "i": 3876,
+   "tipo": "mp",
+   "ref": "01.2025.00021921-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00021921-1.",
+   "status": "🟡 em apuração",
+   "data": "13/05/2025",
+   "texto": "Zenita Burg."
+  },
+  {
+   "i": 3877,
+   "tipo": "mp",
+   "ref": "01.2025.00022481-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00022481-4",
+   "status": "🟡 em apuração",
+   "data": "13/05/2025",
+   "texto": "21ª Promotoria de Justiça de Joinville."
+  },
+  {
+   "i": 3878,
+   "tipo": "mp",
+   "ref": "01.2025.00022860-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00022860-0.",
+   "status": "🟡 em apuração",
+   "data": "13/05/2025",
+   "texto": "sigilo."
+  },
+  {
+   "i": 3879,
+   "tipo": "mp",
+   "ref": "06.2025.00001643-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00001643-1.",
+   "status": "🟡 em apuração",
+   "data": "13/05/2025",
+   "texto": "Ana Beatriz Barbosa Coraça."
+  },
+  {
+   "i": 3880,
+   "tipo": "mp",
+   "ref": "06.2025.00001667-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00001667-5.",
+   "status": "🟡 em apuração",
+   "data": "13/05/2025",
+   "texto": "Caroline Zanatta Leite."
+  },
+  {
+   "i": 3881,
+   "tipo": "mp",
+   "ref": "06.2025.00001668-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00001668-6.",
+   "status": "🟡 em apuração",
+   "data": "13/05/2025",
+   "texto": "Khetllyn Araújo."
+  },
+  {
+   "i": 3882,
+   "tipo": "mp",
+   "ref": "01.2024.00058968-3",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00058968-3",
+   "status": "❔ status indef.",
+   "data": "15/05/2025",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 3883,
+   "tipo": "mp",
+   "ref": "01.2025.00021214-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00021214-0",
+   "status": "🟡 em apuração",
+   "data": "15/05/2025",
+   "texto": "sigilo."
+  },
+  {
+   "i": 3884,
+   "tipo": "mp",
+   "ref": "06.2025.00001698-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00001698-6",
+   "status": "🟡 em apuração",
+   "data": "15/05/2025",
+   "texto": "Vilena Mathias."
+  },
+  {
+   "i": 3885,
+   "tipo": "mp",
+   "ref": "06.2025.00001700-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00001700-8",
+   "status": "🟡 em apuração",
+   "data": "15/05/2025",
+   "texto": "Carlos Correa."
+  },
+  {
+   "i": 3886,
+   "tipo": "mp",
+   "ref": "01.2025.00023199-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00023199-2",
+   "status": "🟡 em apuração",
+   "data": "16/05/2025",
+   "texto": "SAMA e Lacy Souza da Maia."
+  },
+  {
+   "i": 3887,
+   "tipo": "mp",
+   "ref": "01.2025.00005353-7",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00005353-7",
+   "status": "🟢 arquivado",
+   "data": "19/05/2025",
+   "texto": "Ana Cristina Negrão Ribeiro. Conclusão: apurar possível situação de vulnerabilidade de um canino, aparentemente sem acesso a abrigo adequado, na residência localizada na Rua Maracujá, n. 607, Bairro Comasa, Joinville/SC. Canino com o bem-estar resguardado. Vacinação e microchipagem. Indeferimento de instauração com base no artigo 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 3888,
+   "tipo": "mp",
+   "ref": "01.2024.00057359-1",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00057359-1",
+   "status": "🟢 arquivado",
+   "data": "19/05/2025",
+   "texto": "Maria Kreusch. Conclusão: apurar suposto corte de árvores na Rua Riachuelo, esquina com a Praches (ao lado do n. 620 e em frente ao n. 623), Bairro Bom Retiro, em Joinville/SC. Fatos já investigados no âmbito do Procedimento Preparatório 06.2024.00001577-2. Indeferimento de instauração com base no artigo 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 3889,
+   "tipo": "mp",
+   "ref": "06.2025.00001719-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00001719-6",
+   "status": "🟡 em apuração",
+   "data": "19/05/2025",
+   "texto": "Duane Maria Corrêa."
+  },
+  {
+   "i": 3890,
+   "tipo": "mp",
+   "ref": "01.2025.00023397-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00023397-9",
+   "status": "🟡 em apuração",
+   "data": "20/05/2025",
+   "texto": "José Rodrigo de Souza."
+  },
+  {
+   "i": 3891,
+   "tipo": "mp",
+   "ref": "01.2025.00023398-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00023398-0",
+   "status": "🟡 em apuração",
+   "data": "20/05/2025",
+   "texto": "sigilo."
+  },
+  {
+   "i": 3892,
+   "tipo": "mp",
+   "ref": "06.2025.00001818-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2025.00001818-4",
+   "status": "🟡 em apuração",
+   "data": "21/05/2025",
+   "texto": "Estádio Dr. Sadalla Amin Ghanem."
+  },
+  {
+   "i": 3893,
+   "tipo": "mp",
+   "ref": "01.2025.00024925-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00024925-0",
+   "status": "🟡 em apuração",
+   "data": "21/05/2025",
+   "texto": "Miriam da Silva."
+  },
+  {
+   "i": 3894,
+   "tipo": "mp",
+   "ref": "01.2025.00024488-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00024488-7.",
+   "status": "🟡 em apuração",
+   "data": "23/05/2025",
+   "texto": "Gabriela Tenorio Ataíde."
+  },
+  {
+   "i": 3895,
+   "tipo": "mp",
+   "ref": "06.2025.00001850-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00001850-7",
+   "status": "🟡 em apuração",
+   "data": "23/05/2025",
+   "texto": "Flávia Vonvossen."
+  },
+  {
+   "i": 3896,
+   "tipo": "mp",
+   "ref": "06.2025.00001820-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00001820-7",
+   "status": "🟡 em apuração",
+   "data": "23/05/2025",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 3897,
+   "tipo": "mp",
+   "ref": "01.2024.00058711-9",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00058711-9",
+   "status": "🟢 arquivado",
+   "data": "26/05/2025",
+   "texto": "sigiloso. Conclusão: apurar possível situação de vulnerabilidade de dois caninos da raça pit bull, nos fundos do comércio D'Lamour Store, localizado na Avenida Kurt Meinert, n. 302, Bairro Paranaguamirim, em Joinville/SC. Intervenção do órgão de proteção animal. Canina Lola veio a óbito. Mudança de endereço do canino Zeus para a cidade de São João do Itaperiú. Indeferimento de instauração com base no artigo 7º, inciso III, do Ato n. 395/2018/PGJ. Remessa de cópia dos autos à 1ª PJ de Barra Velha."
+  },
+  {
+   "i": 3898,
+   "tipo": "mp",
+   "ref": "01.2025.00001567-6",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2025.00001567-6",
+   "status": "🟢 arquivado",
+   "data": "26/05/2025",
+   "texto": "Karine Kavilhuka. Conclusão: apurar suposta situação de vulnerabilidade de dois caninos comunitários, nas proximidades da Rua Joana D'Arc, n. 418, Bairro Nova Brasília, em Joinville/SC. Atuação da SAMA. Acolhimento da canina e seus nove filhotes. Paradeiro do canino macho desconhecido. Canina castrada, microchipada e vacinada. Fatos solucionados. Indeferimento de instauração com base no artigo 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 3899,
+   "tipo": "mp",
+   "ref": "01.2025.00001796-3",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2025.00001796-3",
+   "status": "🟢 arquivado",
+   "data": "26/05/2025",
+   "texto": "sigiloso. Conclusão: apurar possível situação de vulnerabilidade de um canino, supostamente preso a corrente de ponto fixo, sem possibilidade de acesso ao abrigo. Atuação do órgão de proteção animal. Canina da raça pitbull castrada, vacinada e microchipada. Abrigo adequado. Bem-estar do animal resguardado. Indeferimento de instauração com base no artigo 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 3900,
+   "tipo": "mp",
+   "ref": "01.2025.00003190-0",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2025.00003190-0",
+   "status": "🟢 arquivado",
+   "data": "26/05/2025",
+   "texto": "Franciele Dalcin do Nascimento. Conclusão: apurar possível situação de vulnerabilidade de um canino, em imóvel situado na Servidão Beatriz de Oliveira, n. 2554, fundos (acesso visível por estrada de chão), Bairro Costa e Silva, na cidade de Joinville/SC. Atuação do órgão de proteção animal. Canino em local adequado, vacinado e microchipado. Indeferimento de Instauração com base no artigo 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 3901,
+   "tipo": "mp",
+   "ref": "01.2025.00003631-6",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2025.00003631-6",
+   "status": "🟢 arquivado",
+   "data": "26/05/2025",
+   "texto": "sigiloso. Conclusão: apurar possível situação de vulnerabilidade de dois caninos abandonados e machucados, nas proximidades da Rua Iririú n. 1464, Bairro Iririú, em Joinville/SC. Acionada a SAMA. Bem-estar dos animais resguardado. Vacinação, microchipagem e medicação realizada. Indeferimento de Instauração com base no artigo 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 3902,
+   "tipo": "mp",
+   "ref": "01.2025.00019022-9",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2025.00019022-9",
+   "status": "🟢 arquivado",
+   "data": "26/05/2025",
+   "texto": "21ª Promotoria de Justiça. Conclusão: procedimento instaurado de ofício por esta Promotoria de Justiça, em razão da comunicação sobre uma canina alojada nas dependências do Fórum da Comarca de Joinville/SC, devido ao cumprimento de mandado de prisão em desfavor de seu tutor. Animal acolhido pelo Centro de Bem-Estar Animal. Fatos solucionados. Indeferimento de Instauração com base no artigo 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 3903,
+   "tipo": "mp",
+   "ref": "01.2025.00022481-4",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2025.00022481-4",
+   "status": "🟢 arquivado",
+   "data": "26/05/2025",
+   "texto": "21ª Promotoria de Justiça. Conclusão: apurar suposto abandono de um canino na Rua Marta Julia da Conceição, Bairro Boehmerwald, na cidade de Joinville/SC. Canino acolhido por uma ONG de Proteção Animal. Fato solucionado sem a intervenção da PJ. Indeferimento de instauração com base no artigo 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 3904,
+   "tipo": "mp",
+   "ref": "06.2024.00005365-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00005365-5",
+   "status": "🟢 arquivado",
+   "data": "26/05/2025",
+   "texto": "José Rodrigo de Souza e Sérgio Spindola. Conclusão: apurar possível situação de vulnerabilidade de um canino supostamente em condições inapropriadas, preso a uma corrente com pouca mobilidade e pouco espaço para abrigo, na Rua Mauro Lopes, quadra 6, lote 36 (casa de esquina), Bairro Parque Guarani, na cidade de Joinville/SC. Atuação do órgão de proteção animal. Animal em local adequado, castrado, vacinado e microchipados. Bem-estar resguardado. Arquivamento com supedâneo no art. 48, inciso I, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 3905,
+   "tipo": "mp",
+   "ref": "06.2025.00001838-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2025.00001838-4",
+   "status": "🟡 em apuração",
+   "data": "26/05/2025",
+   "texto": "Koch Hipermercado S/A."
+  },
+  {
+   "i": 3906,
+   "tipo": "mp",
+   "ref": "06.2025.00001839-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2025.00001839-5",
+   "status": "🟡 em apuração",
+   "data": "26/05/2025",
+   "texto": "Chácara Percicoti."
+  },
+  {
+   "i": 3907,
+   "tipo": "mp",
+   "ref": "06.2025.00001840-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2025.00001840-7",
+   "status": "🟡 em apuração",
+   "data": "26/05/2025",
+   "texto": "Bistek Supermercados Ltda."
+  },
+  {
+   "i": 3908,
+   "tipo": "mp",
+   "ref": "06.2025.00001841-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2025.00001841-8",
+   "status": "🟡 em apuração",
+   "data": "26/05/2025",
+   "texto": "Cantu Importação e Exportação Ltda."
+  },
+  {
+   "i": 3909,
+   "tipo": "mp",
+   "ref": "06.2025.00001842-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2025.00001842-9",
+   "status": "🟡 em apuração",
+   "data": "26/05/2025",
+   "texto": "SDB Comércio de Alimentos Ltda."
+  },
+  {
+   "i": 3910,
+   "tipo": "mp",
+   "ref": "06.2025.00001843-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2025.00001843-0",
+   "status": "🟡 em apuração",
+   "data": "26/05/2025",
+   "texto": "Gustavo Henrique Figueiredo."
+  },
+  {
+   "i": 3911,
+   "tipo": "mp",
+   "ref": "01.2025.00025676-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00025676-1",
+   "status": "🟡 em apuração",
+   "data": "26/05/2025",
+   "texto": "Adriana Aragão Frota."
+  },
+  {
+   "i": 3912,
+   "tipo": "mp",
+   "ref": "06.2025.00001896-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00001896-2",
+   "status": "🟡 em apuração",
+   "data": "26/05/2025",
+   "texto": "Marta da Silva."
+  },
+  {
+   "i": 3913,
+   "tipo": "mp",
+   "ref": "01.2025.00021213-0",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2025.00021213-0",
+   "status": "🟢 arquivado",
+   "data": "28/05/2025",
+   "texto": "Janis Huchak Pinheiro. Conclusão: apurar supostos ataques de cães a moradores do Bairro Vila Nova, em Joinville. Caninos contidos no imóvel pelo tutor. Melhorias no portão para evitar a fuga dos animais. Caninos microchipados e vacinados. Indeferimento de Instauração com base no artigo 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 3914,
+   "tipo": "mp",
+   "ref": "06.2025.00001923-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2025.00001923-9",
+   "status": "🟡 em apuração",
+   "data": "28/05/2025",
+   "texto": "Rei do Morango."
+  },
+  {
+   "i": 3915,
+   "tipo": "mp",
+   "ref": "06.2025.00001926-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2025.00001926-1",
+   "status": "🟡 em apuração",
+   "data": "28/05/2025",
+   "texto": "Agrivale Ltda."
+  },
+  {
+   "i": 3916,
+   "tipo": "mp",
+   "ref": "01.2025.00026214-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00026214-1",
+   "status": "🟡 em apuração",
+   "data": "28/05/2025",
+   "texto": "Jéssica Aparecida Martins da Silva."
+  },
+  {
+   "i": 3917,
+   "tipo": "mp",
+   "ref": "01.2025.00018291-8",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00018291-8",
+   "status": "🟢 arquivado",
+   "data": "29/05/2025",
+   "texto": "A.P.S. Conclusão: arquivamento. Pessoa com Deficiência. Relatórios SAS e SES atestando inexistência de situação de risco ou vulnerabilidade."
+  },
+  {
+   "i": 3918,
+   "tipo": "mp",
+   "ref": "06.2024.00004457-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00004457-8",
+   "status": "🟢 arquivado",
+   "data": "29/05/2025",
+   "texto": "Conselho Municipal de Saúde de Joinville, Secretaria Municipal de Saúde de Joinville, Secretaria de Estado da Saúde de Santa Catarina. Conclusão: a Secretaria Municipal de Saúde de Joinville quem tinha recursos a ressarcir à Secretaria de Estado da Saúde de Santa Catarina, e o valor apurado será descontado em 12 (doze) parcelas. Inexistência de valores a ressarcir pela Secretaria de Estado da Saúde de Santa Catarina ao Fundo Municipal de Saúde de Joinville. Arquivamento."
+  },
+  {
+   "i": 3919,
+   "tipo": "mp",
+   "ref": "01.2025.00026479-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00026479-4",
+   "status": "🟡 em apuração",
+   "data": "29/05/2025",
+   "texto": "Ana Caroline dos Santos Costa."
+  }
+ ]
+}

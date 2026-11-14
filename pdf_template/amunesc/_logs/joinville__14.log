@@ -1,0 +1,62 @@
+[0m
+> build · gpt-5.4-mini
+[0m
+Vou ler o critério obrigatório e mapear os três lotes antes de julgar caso a caso.
+[0m→ [0mRead pdf_template/CURADORIA.md
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__15.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__14.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__16.json
+Já tenho o critério e a triagem editorial. Agora vou montar os três JSON curados, com corte agressivo dos casos sem substância e mantendo só os que trazem fato verificável.
+[0m
+[0m# [0mTodos
+[•] Curar joinville__14.json caso a caso
+[ ] Curar joinville__15.json caso a caso
+[ ] Curar joinville__16.json caso a caso
+[ ] Gravar os três lotes curados em _lotes_curados
+[ ] Verificar contagens finais por lote
+[0m
+[0m✱ [0mGlob "pdf_template/amunesc/_lotes_curados"[90m in . · 0 matches[0m
+[0m→ [0mRead pdf_template/amunesc
+[0m→ [0mRead pdf_template/amunesc/_lotes
+Vou gravar o primeiro lote agora, já com os cortes de casos vazios e os poucos keep:true reescritos com desfecho verificável.
+[0m% [0mPatch 1 file
+O primeiro lote já está gravado. Vou repetir o mesmo padrão nos dois seguintes, mantendo só os casos com fato substantivo e desfecho legível.
+[0m% [0mPatch 1 file
+[0m% [0mPatch 1 file
+Os três arquivos já foram escritos. Agora vou validar JSON e conferir as contagens de `keep:true` e `severity: alta` por lote antes de fechar.
+[0m
+[0m$ [0mjq '{len:length, keep:(map(select(.keep==true))|length), alta:(map(select(.severity=="alta"))|length)}' "pdf_template/amunesc/_lotes_curados/joinville__14.json"
+{
+  "len": 70,
+  "keep": 12,
+  "alta": 2
+}
+[0m
+[0m$ [0mjq '{len:length, keep:(map(select(.keep==true))|length), alta:(map(select(.severity=="alta"))|length)}' "pdf_template/amunesc/_lotes_curados/joinville__15.json"
+{
+  "len": 70,
+  "keep": 6,
+  "alta": 0
+}
+[0m
+[0m$ [0mjq '{len:length, keep:(map(select(.keep==true))|length), alta:(map(select(.severity=="alta"))|length)}' "pdf_template/amunesc/_lotes_curados/joinville__16.json"
+{
+  "len": 70,
+  "keep": 4,
+  "alta": 0
+}
+[0m
+[0m# [0mTodos
+[✓] Curar joinville__14.json caso a caso
+[✓] Curar joinville__15.json caso a caso
+[✓] Curar joinville__16.json caso a caso
+[✓] Gravar os três lotes curados em _lotes_curados
+[✓] Verificar contagens finais por lote
+[0m
+Gravei os três lotes curados em `pdf_template/amunesc/_lotes_curados/`.
+
+- `joinville__14.json`: 70 casos, 12 `keep:true`, 2 `severity: alta`
+- `joinville__15.json`: 70 casos, 6 `keep:true`, 0 `severity: alta`
+- `joinville__16.json`: 70 casos, 4 `keep:true`, 0 `severity: alta`
+
+Validei os três JSONs com `jq`.

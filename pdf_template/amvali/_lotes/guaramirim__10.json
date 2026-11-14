@@ -1,0 +1,635 @@
+{
+ "cidade": "Guaramirim",
+ "casos": [
+  {
+   "i": 700,
+   "tipo": "mp",
+   "ref": "01.2022.00001713-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00001713-0",
+   "status": "🟡 em apuração",
+   "data": "28/01/2022",
+   "texto": "Juizado Especial Cível da Comarca de Guaramirim."
+  },
+  {
+   "i": 701,
+   "tipo": "mp",
+   "ref": "01.2022.00001763-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00001763-0",
+   "status": "🟡 em apuração",
+   "data": "28/01/2022",
+   "texto": "Juizado Especial Cível da Comarca de Guaramirim."
+  },
+  {
+   "i": 702,
+   "tipo": "mp",
+   "ref": "06.2021.00002949-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00002949-8",
+   "status": "🟢 arquivado",
+   "data": "07/02/2022",
+   "texto": "Fabrissio Portelinha Graffunder e Medcel Editora e Eventos Ltda. Conclusão: Inquérito Civil instaurado para apurar suposta prática de propaganda/publicidade enganosa, em tese praticada pela empresa Medcel Editora e Eventos S.A., violando os direitos dos consumidores. Prática não constatada no decorrer das investigações. Denunciante demonstrou desinteresse no prosseguimento do feito e não prestou os esclarecimentos necessários. Arquivamento."
+  },
+  {
+   "i": 703,
+   "tipo": "mp",
+   "ref": "09.2022.00000240-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00000240-3",
+   "status": "🟡 em apuração",
+   "data": "10/02/2022",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 704,
+   "tipo": "mp",
+   "ref": "06.2021.00003265-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00003265-9",
+   "status": "🟢 arquivado",
+   "data": "23/02/2022",
+   "texto": "José Martim Pianezer. Conclusão: tratando-se de imóvel particular, não há óbice à abertura de acessos e arruamento interno, desde que não haja abertura de lotes e danos ambientais em seu encalço, o que não foi verificado no caso em tela. Trata-se, portanto, do mero exercício do direito de propriedade que dispõe o representado, é que comprovadamente proprietário do bem registrado sob a matrícula n. 10.647. Ante o exposto, não há outro caminho para o caso senão o arquivamento deste Inquérito Civil, porquanto inexiste fundamento para propositura de Ação Civil Pública."
+  },
+  {
+   "i": 705,
+   "tipo": "mp",
+   "ref": "06.2022.00000573-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00000573-3",
+   "status": "🟡 em apuração",
+   "data": "23/02/2022",
+   "texto": "Osvaldo Giampiccolo e Catharina Kisielow Giampiccolo."
+  },
+  {
+   "i": 706,
+   "tipo": "mp",
+   "ref": "09.2022.00001034-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N.09.2022.00001034-7",
+   "status": "🟡 em apuração",
+   "data": "03/03/2022",
+   "texto": "Super Treis."
+  },
+  {
+   "i": 707,
+   "tipo": "mp",
+   "ref": "09.2022.00001034-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00001034-7",
+   "status": "🟡 em apuração",
+   "data": "08/03/2022",
+   "texto": "Super Treis."
+  },
+  {
+   "i": 708,
+   "tipo": "mp",
+   "ref": "06.2022.00000369-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00000369-0",
+   "status": "🟡 em apuração",
+   "data": "10/03/2022",
+   "texto": "Cartório de Registro de Imóveis de Guaramirim."
+  },
+  {
+   "i": 709,
+   "tipo": "mp",
+   "ref": "06.2022.00000952-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00000952-9",
+   "status": "❔ status indef.",
+   "data": "11/03/2022",
+   "texto": "Açougue Schroeder (Daiane dos Santos de Oliveira). Conclusão: procedimento instaurado para buscar o cumprimento das exigências exaradas pelas autoridades sanitárias no que"
+  },
+  {
+   "i": 710,
+   "tipo": "mp",
+   "ref": "09.2022.00001229-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00001229-0",
+   "status": "🟡 em apuração",
+   "data": "15/03/2022",
+   "texto": "Açougue Schroeder (Daiane dos Santos de Oliveira)."
+  },
+  {
+   "i": 711,
+   "tipo": "mp",
+   "ref": "09.2022.00001238-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00001238-9",
+   "status": "🟡 em apuração",
+   "data": "15/03/2022",
+   "texto": "Rancho do Arno (Mercearia e Açougue Arno Ltda.)."
+  },
+  {
+   "i": 712,
+   "tipo": "mp",
+   "ref": "09.2022.00000508-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00000508-8",
+   "status": "🟡 em apuração",
+   "data": "16/03/2022",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 713,
+   "tipo": "mp",
+   "ref": "06.2013.00006254-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2013.00006254-7",
+   "status": "❔ status indef.",
+   "data": "18/03/2022",
+   "texto": "Bertoldo Francisco Baader e GD Adm. de Bens Ltda. Conclusão: o objeto do presente Inquérito Civil já foi analisado e sanado, visto que houve averbação da reserva legal nos imóveis n. 26.526, 26.527 e 26.659."
+  },
+  {
+   "i": 714,
+   "tipo": "mp",
+   "ref": "06.2020.00001417-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00001417-9",
+   "status": "❔ status indef.",
+   "data": "18/03/2022",
+   "texto": "Olavio Tomelin, Instituição de Ensino Ser e Aprender Centro de Apoio Educacional. Conclusão: a existência de um ou poucos e definidos prejudicados indica a primazia de interesses individuais disponíveis, a serem tutelados não por ação civil pública titularizada em substituição processual pelo Ministério Público, mas por ação individual baseada na disciplina dos direitos de vizinhança (Código Civil, artigo 1.277 e seguintes). Dito isso, não se justifica o"
+  },
+  {
+   "i": 715,
+   "tipo": "mp",
+   "ref": "06.2022.00000953-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00000953-0",
+   "status": "🟡 em apuração",
+   "data": "24/03/2022",
+   "texto": "proprietários das matrículas 21.003 e 25.527."
+  },
+  {
+   "i": 716,
+   "tipo": "mp",
+   "ref": "06.2017.00002241-6",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2017.00002241-6",
+   "status": "❔ status indef.",
+   "data": "25/03/2022",
+   "texto": "HSK Enobrecimento Têxtil e do Corpo de Bombeiros Militar de Santa Catarina. Conclusão: apurar o possível descumprimento das normas de segurança, de prevenção e de proteção contra incêndio por HSK"
+  },
+  {
+   "i": 717,
+   "tipo": "mp",
+   "ref": "06.2022.00000953-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00000953-0",
+   "status": "🟡 em apuração",
+   "data": "25/03/2022",
+   "texto": "proprietários das matrículas 21.003 e 25.527."
+  },
+  {
+   "i": 718,
+   "tipo": "mp",
+   "ref": "06.2022.00001096-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00001096-9",
+   "status": "🟡 em apuração",
+   "data": "30/03/2022",
+   "texto": "Leomar Hamann."
+  },
+  {
+   "i": 719,
+   "tipo": "mp",
+   "ref": "09.2022.00000180-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00000180-4",
+   "status": "🟡 em apuração",
+   "data": "05/04/2022",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 720,
+   "tipo": "mp",
+   "ref": "09.2022.00001408-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00001408-7",
+   "status": "🟡 em apuração",
+   "data": "05/04/2022",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 721,
+   "tipo": "mp",
+   "ref": "06.2022.00001591-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00001591-0",
+   "status": "🟡 em apuração",
+   "data": "19/04/2022",
+   "texto": "Cartório de Registro de Imóveis de Guaramirim, Max Hélio Hemmer e Aracy Catarina Pimentel Hemmer."
+  },
+  {
+   "i": 722,
+   "tipo": "mp",
+   "ref": "09.2021.00002559-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2021.00002559-1",
+   "status": "🟠 TAC firmado",
+   "data": "04/05/2022",
+   "texto": "Agroamazon Comércio de Insumos Agropecuários Ltda. Conclusão: acompanhar e fiscalizar o cumprimento do Termo de Compromisso de Ajustamento de Condutas celebrado no Inquérito Civil n. 06.2015.00009447-0. Cumprimento das obrigações. Arquivamento."
+  },
+  {
+   "i": 723,
+   "tipo": "mp",
+   "ref": "09.2022.00002629-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00002629-4",
+   "status": "🟡 em apuração",
+   "data": "09/05/2022",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 724,
+   "tipo": "mp",
+   "ref": "09.2022.00002236-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00002236-5",
+   "status": "🟡 em apuração",
+   "data": "12/05/2022",
+   "texto": "\"Sítio São Pedro\" (Max de Oliveira Santa Cruz)."
+  },
+  {
+   "i": 725,
+   "tipo": "mp",
+   "ref": "06.2018.00001346-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2018.00001346-5",
+   "status": "❔ status indef.",
+   "data": "25/05/2022",
+   "texto": "Federação Catarinense de Ciclismo e Federação Catarinense de Mountain Bike. Conclusão: o caso deve ser acompanhado por procedimento administrativo, consoante disciplina o Ato n. 398/2018/PGJ, bem como o resultado útil de eventual ação civil pública seria ainda inefetivo."
+  },
+  {
+   "i": 726,
+   "tipo": "mp",
+   "ref": "06.2020.00001275-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00001275-9",
+   "status": "❔ status indef.",
+   "data": "25/05/2022",
+   "texto": "Leontina Valcanaia e Metalúrgica IMAM Ltda. Conclusão: a existência de um ou poucos e definidos prejudicados indica a primazia de interesses individuais disponíveis, a serem tutelados não por ação civil pública titularizada em substituição processual pelo Ministério Público, mas por ação individual baseada na disciplina dos direitos de vizinhança (Código Civil, artigo 1.277 e seguintes)."
+  },
+  {
+   "i": 727,
+   "tipo": "mp",
+   "ref": "09.2022.00002078-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00002078-9",
+   "status": "🟡 em apuração",
+   "data": "30/05/2022",
+   "texto": "Federação Catarinense de Ciclismo e Federação Catarinense de Mountain Bike."
+  },
+  {
+   "i": 728,
+   "tipo": "mp",
+   "ref": "06.2015.00008139-6",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2015.00008139-6",
+   "status": "🔴 ACP ajuizada",
+   "data": "09/06/2022",
+   "texto": "Renato Tomelin. Conclusão: considerando ter sido o PRAD aprovado e executado, com acompanhamento administrativo feito pelo IBAMA, inexistem razões para ajuizamento de ação civil pública ou adoção de outras medidas extrajudiciais."
+  },
+  {
+   "i": 729,
+   "tipo": "mp",
+   "ref": "01.2022.00020937-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00020937-8",
+   "status": "🟡 em apuração",
+   "data": "29/06/2022",
+   "texto": "a apurar."
+  },
+  {
+   "i": 730,
+   "tipo": "mp",
+   "ref": "01.2022.00021517-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N.01.2022.00021517-0",
+   "status": "🟡 em apuração",
+   "data": "05/07/2022",
+   "texto": "Germano Woehl Junior."
+  },
+  {
+   "i": 731,
+   "tipo": "mp",
+   "ref": "01.2022.00017657-0",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00017657-0",
+   "status": "🟢 arquivado",
+   "data": "27/07/2022",
+   "texto": "G. H. Conclusão: apurar as circunstâncias, bem como a responsabilidade penal pela prática, em tese, de crime contra a dignidade sexual. Remessa dos autos à Delegacia de Polícia de Schroeder, a fim de que a Autoridade Policial instaure procedimento investigativo para apurar o fato narrado. Arquivamento."
+  },
+  {
+   "i": 732,
+   "tipo": "mp",
+   "ref": "09.2022.00001034-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00001034-7",
+   "status": "🟠 TAC firmado",
+   "data": "27/07/2022",
+   "texto": "Super Treis (Marcos José Treis Eireli). Conclusão: acompanhar e fiscalizar o cumprimento do Termo de Compromisso de Ajustamento de Condutas celebrado no Inquérito Civil n. 06.2022.00000851-9, pelo estabelecimento Super Treis. Cumprimento das obrigações. Arquivamento."
+  },
+  {
+   "i": 733,
+   "tipo": "mp",
+   "ref": "06.2021.00002474-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00002474-8",
+   "status": "❔ status indef.",
+   "data": "11/08/2022",
+   "texto": "Tapajós Representações Ltda. Conclusão: [...] No caso em tela, inexistente qualquer remanescente de vegetação nativa previamente ao marco regulatório, afasta-se a exigência de especificação de reserva, ainda que o imóvel permaneça com destinação rural. Daí porque entende-se não haver amparo legal para exigir da representada a instituição de reserva legal no imóvel objeto do feito. Nessa linha, não se justificativa o prosseguimento do presente inquérito civil para obrigar a representada a inscrever o imóvel no CAR. [...]"
+  },
+  {
+   "i": 734,
+   "tipo": "mp",
+   "ref": "06.2021.00002474-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00002474-8",
+   "status": "❔ status indef.",
+   "data": "12/08/2022",
+   "texto": "Tapajós Representações Ltda. Conclusão: [...] no caso em tela, inexistente qualquer remanescente de vegetação nativa previamente ao marco regulatório, afasta-se a exigência de especificação de reserva, ainda que o imóvel permaneça com destinação rural. Daí porque entende-se não haver amparo legal para exigir da representada a instituição de reserva legal no imóvel objeto do feito. Nessa linha, não se justificativa o prosseguimento do presente inquérito civil para obrigar a representada a inscrever o imóvel no CAR. [...]"
+  },
+  {
+   "i": 735,
+   "tipo": "mp",
+   "ref": "01.2022.00027179-4",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00027179-4",
+   "status": "🟢 arquivado",
+   "data": "18/08/2022",
+   "texto": "Fabiano Roberto Tonn e Dionara Lemke. Conclusão: apurar supostas agressões físicas proferidas por Fabiano Roberto Tonn em desfavor de Dionara Lemke. Indeferimento da instauração de procedimento investigativo. Fato objeto do Inquérito Policial n. 5004324-55.2022.8.24.0026. Arquivamento."
+  },
+  {
+   "i": 736,
+   "tipo": "mp",
+   "ref": "09.2022.00002236-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00002236-5",
+   "status": "🟠 TAC firmado",
+   "data": "25/08/2022",
+   "texto": "Max de Oliveira Santa Cruz. Conclusão: acompanhar e fiscalizar o cumprimento do Termo de Compromisso de Ajustamento de Condutas celebrado no"
+  },
+  {
+   "i": 737,
+   "tipo": "mp",
+   "ref": "01.2022.00028170-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00028170-4",
+   "status": "🟡 em apuração",
+   "data": "25/08/2022",
+   "texto": "Thayrine de Carvalho Oliveira."
+  },
+  {
+   "i": 738,
+   "tipo": "mp",
+   "ref": "06.2022.00000953-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00000953-0",
+   "status": "🟡 em apuração",
+   "data": "05/09/2022",
+   "texto": "proprietários das matrículas 21.003 e 26.527."
+  },
+  {
+   "i": 739,
+   "tipo": "mp",
+   "ref": "09.2020.00006558-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2020.00006558-0",
+   "status": "🟠 TAC firmado",
+   "data": "16/09/2022",
+   "texto": "Luciana Neja e Gilberto Neja. Conclusão: acompanhar e fiscalizar o cumprimento do Termo de Compromisso de Ajustamento de Condutas firmado no Inquérito Civil n. 06.2017.00005846-0. Cumprimento das obrigações. Arquivamento."
+  },
+  {
+   "i": 740,
+   "tipo": "mp",
+   "ref": "01.2022.00032296-7",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00032296-7",
+   "status": "🟢 arquivado",
+   "data": "30/09/2022",
+   "texto": "Polícia Militar do Estado de Santa Catarina. Conclusão: apurar possível perseguição perpetrada por policiais militares. Fatos não confirmados. Arquivamento."
+  },
+  {
+   "i": 741,
+   "tipo": "mp",
+   "ref": "09.2022.00006847-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00006847-3",
+   "status": "🟡 em apuração",
+   "data": "21/10/2022",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 742,
+   "tipo": "mp",
+   "ref": "01.2022.00036523-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00036523-4",
+   "status": "🟡 em apuração",
+   "data": "26/10/2022",
+   "texto": "a apurar."
+  },
+  {
+   "i": 743,
+   "tipo": "mp",
+   "ref": "09.2022.00007604-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00007604-0",
+   "status": "🟡 em apuração",
+   "data": "27/10/2022",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 744,
+   "tipo": "mp",
+   "ref": "01.2022.00037798-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00037798-5",
+   "status": "🟡 em apuração",
+   "data": "04/11/2022",
+   "texto": "Heron Domingues Soares de Almeida."
+  },
+  {
+   "i": 745,
+   "tipo": "mp",
+   "ref": "01.2022.00039699-3",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00039699-3",
+   "status": "🟢 arquivado",
+   "data": "21/11/2022",
+   "texto": "André Renato Vieira e Hospital Municipal de Guaramirim. Conclusão: apurar suposto descumprimento contratual do Hospital Municipal de Guaramirim com o Instituto Santé e possível instauração de procedimentos disciplinares sem fundamento pela Administração Pública de Guaramirim. Fatos noticiados não configuram lesão ou ameaça aos interesses ou direitos tutelados pelo Ministério Público. Indeferimento da instauração de procedimento investigativo. Fatos objetos das Notícias de Fato n. 01.2022.00038193-4, 01.2022.00039116-5, 01.2022.00038296-6, 01.2022.00039252-0 e 01.2022.00039272-0. Arquivamento."
+  },
+  {
+   "i": 746,
+   "tipo": "mp",
+   "ref": "01.2022.00041185-6",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00041185-6",
+   "status": "🟢 arquivado",
+   "data": "24/11/2022",
+   "texto": "Noeli Aparecida Boehn e Edina Catiane Carvalho. Conclusão: apurar a possível prática do injusto penal de racismo, supostamente perpetrado por Noeli Aparecida Boehn. Indeferimento da instauração de procedimento investigativo. Fatos objeto da Notícia de Fato n. 01.2022.00039228-6. Arquivamento."
+  },
+  {
+   "i": 747,
+   "tipo": "mp",
+   "ref": "09.2022.00006966-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00006966-1",
+   "status": "🟡 em apuração",
+   "data": "05/12/2022",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 748,
+   "tipo": "mp",
+   "ref": "09.2016.00006297-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2016.00006297-0",
+   "status": "🟠 TAC firmado",
+   "data": "09/12/2022",
+   "texto": "Almir Feiler ME. Conclusão: ap¿urar o cumprimento do Termo de Compromisso de Ajustamento de Conduta celebrado com a empresa Cerâmica Feiler nos autos do Inquérito Civil n. 06.2012.00010498-3. Ajuizamento de execução. Arquivamento."
+  },
+  {
+   "i": 749,
+   "tipo": "mp",
+   "ref": "09.2022.00009380-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00009380-6",
+   "status": "🟡 em apuração",
+   "data": "14/12/2022",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 750,
+   "tipo": "mp",
+   "ref": "09.2022.00009084-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00009084-2",
+   "status": "🟡 em apuração",
+   "data": "16/12/2022",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 751,
+   "tipo": "mp",
+   "ref": "01.2023.00001487-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00001487-0",
+   "status": "🟡 em apuração",
+   "data": "20/01/2023",
+   "texto": "Lúcia Seibert, Osni Bruehmuller e Delegacia de Polícia de Guaramirim."
+  },
+  {
+   "i": 752,
+   "tipo": "mp",
+   "ref": "06.2020.00003232-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00003232-2",
+   "status": "🟢 arquivado",
+   "data": "30/01/2023",
+   "texto": "Francisco Areomar Silveira e Estado de Santa Catarina. Conclusão: instaurado ¿para apurar suposta retificação irregular do imóvel matriculado sob o n. 6.448, do Ofício de Registro de Imóveis de Guaramirim, realizada no ano de 2016, na qual teria havido acréscimo indevido de área de 6.333,68m², que, em tese, abrangeria parcela doada ao Estado de Santa Catarina, no ano de 1962, pelo proprietário do imóvel à época. As providências necessárias para regularização da questão já estão sendo tomadas na esfera administrativa pelo Estado, inexistindo necessidade de intervenção do Ministério Público. Arquivamento."
+  },
+  {
+   "i": 753,
+   "tipo": "mp",
+   "ref": "09.2023.00000161-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2023.00000161-9",
+   "status": "🟡 em apuração",
+   "data": "01/02/2023",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 754,
+   "tipo": "mp",
+   "ref": "09.2023.00000673-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2023.00000673-6",
+   "status": "🟡 em apuração",
+   "data": "06/02/2023",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 755,
+   "tipo": "mp",
+   "ref": "01.2023.00008399-0",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N.01.2023.00008399-0",
+   "status": "🟢 arquivado",
+   "data": "15/03/2023",
+   "texto": "Janete Rogala. Conclusão: apurar suposta situação de vulnerabilidade e risco dos cães existentes no canil Rogala's Bull House. Existência de procedimento em trâmite com o mesmo objeto. Determinada a juntada de cópia nos autos já existentes. Arquivamento."
+  },
+  {
+   "i": 756,
+   "tipo": "mp",
+   "ref": "01.2023.00009410-9",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2023.00009410-9",
+   "status": "❔ status indef.",
+   "data": "21/03/2023",
+   "texto": "João Carlos Franco da Silva."
+  },
+  {
+   "i": 757,
+   "tipo": "mp",
+   "ref": "01.2023.00008836-2",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N.01.2023.00008836-2",
+   "status": "🟢 arquivado",
+   "data": "21/03/2023",
+   "texto": "Daniela Benedito Domingos Cabral e Marcos Eduardo Martins. Conclusão: apurar suposta evasão/infrequência escolar dos infantes Rebeca Benedito Domingos Cabral, Marcos Daniel Martins e Pedro Henrique Martins, nascidos, respectivamente, em 2/8/2012, 19/9/2015 e 21/6/2017, filhos de Daniela Benedito Domingos Cabral e Marcos Eduardo Martins. Fatos ocorridos no final do ano letivo de 2022. Perda do objeto. Arquivamento."
+  },
+  {
+   "i": 758,
+   "tipo": "mp",
+   "ref": "01.2023.00009415-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N.01.2023.00009415-3",
+   "status": "🟡 em apuração",
+   "data": "21/03/2023",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 759,
+   "tipo": "mp",
+   "ref": "01.2023.00010014-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N.01.2023.00010014-0",
+   "status": "🟡 em apuração",
+   "data": "21/03/2023",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 760,
+   "tipo": "mp",
+   "ref": "01.2023.00009254-4",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2023.00009254-4",
+   "status": "❔ status indef.",
+   "data": "22/03/2023",
+   "texto": "Angélica Cristina Castelari Zils."
+  },
+  {
+   "i": 761,
+   "tipo": "mp",
+   "ref": "01.2023.00009931-5",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2023.00009931-5",
+   "status": "❔ status indef.",
+   "data": "22/03/2023",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 762,
+   "tipo": "mp",
+   "ref": "01.2023.00010351-4",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2023.00010351-4",
+   "status": "🟢 arquivado",
+   "data": "22/03/2023",
+   "texto": "sigiloso. Conclusão: apurar suposta situação de vulnerabilidade e risco de pessoa portadora de deficiência (paraplégico), em Massaranduba. Existência de procedimento com o mesmo objeto. Arquivamento."
+  },
+  {
+   "i": 763,
+   "tipo": "mp",
+   "ref": "01.2022.00030616-7",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N.01.2022.00030616-7",
+   "status": "🟢 arquivado",
+   "data": "22/03/2023",
+   "texto": "Cartório de Registro de Imóveis da Comarca de Guaramirim. Conclusão: apurar a ausência de prévia especialização de reserva legal em imóvel urbano, decorrente de transformação de imóvel rural, notadamente em relação ao imóvel matriculado sob o n. 38.779 no Cartório de Registro de Imóveis da Comarca de Guaramirim. Arquivamento."
+  },
+  {
+   "i": 764,
+   "tipo": "mp",
+   "ref": "01.2023.00010293-7",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N.01.2023.00010293-7",
+   "status": "❔ status indef.",
+   "data": "22/03/2023",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 765,
+   "tipo": "mp",
+   "ref": "01.2023.00009723-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00009723-9",
+   "status": "🟡 em apuração",
+   "data": "22/03/2023",
+   "texto": "Sistema APOIA on-line."
+  },
+  {
+   "i": 766,
+   "tipo": "mp",
+   "ref": "01.2023.00009782-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00009782-8",
+   "status": "🟡 em apuração",
+   "data": "22/03/2023",
+   "texto": "Sistema APOIA on-line."
+  },
+  {
+   "i": 767,
+   "tipo": "mp",
+   "ref": "01.2023.00009592-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N.01.2023.00009592-0",
+   "status": "🟡 em apuração",
+   "data": "22/03/2023",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 768,
+   "tipo": "mp",
+   "ref": "01.2023.00009943-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N.01.2023.00009943-7",
+   "status": "🟡 em apuração",
+   "data": "22/03/2023",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 769,
+   "tipo": "mp",
+   "ref": "01.2023.00010177-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N.01.2023.00010177-1",
+   "status": "🟡 em apuração",
+   "data": "22/03/2023",
+   "texto": "sigiloso."
+  }
+ ]
+}

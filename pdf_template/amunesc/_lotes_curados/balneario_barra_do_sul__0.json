@@ -1,0 +1,632 @@
+[
+ {
+  "i": 0,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva nepotismo em obra em Barra do Sul",
+  "description": "O inquérito investigava possível improbidade do ex-prefeito Ademar Henrique Borges por não embargar obra do irmão. O MP arquivou por falta de fundamento para ação judicial.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 1,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura fraudes em licitações ligadas a parente de prefeito",
+  "description": "O inquérito tratou de suposto direcionamento de licitações para a 3M TEM Comércio de Variedades Ltda. O caso foi atingido pela prescrição.",
+  "status": "⚫ prescrito",
+  "severity": "media"
+ },
+ {
+  "i": 2,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 3,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva seleção no CRAS sem ver irregularidade em Barra do Sul",
+  "description": "O procedimento apurava o processo seletivo para contratação temporária no CRAS. O município prestou esclarecimentos e o MP arquivou o caso.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 4,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 5,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP conclui que cobrança na quadra não virou improbidade",
+  "description": "A apuração sobre cobranças para usar a quadra de esportes terminou com conclusão de inocorrência. O MP não viu base para ação.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 6,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva suspeita de desvio de função e nomeações em Barra do Sul",
+  "description": "A investigação sobre desvio de função e irregularidades na criação e ocupação de cargos concluiu que não houve desvio nem problema nas nomeações. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 7,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 8,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 9,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva nepotismo no gabinete do prefeito de Barra do Sul",
+  "description": "O MP concluiu que não houve nepotismo no caso de Rafael Hille. A investigação foi arquivada por falta de fundamento para ação judicial.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 10,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva suposta fraude na fila do SUS em Barra do Sul",
+  "description": "A investigação sobre fraude no sistema de lista de espera do SUS terminou sem prova de dolo e com absolvição em PAD. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 11,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva filas do SUS em Barra do Sul após regularização",
+  "description": "A apuração sobre transparência das filas de espera por exames, consultas e cirurgias constatou regularização da situação. O procedimento foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 12,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 13,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva contratação temporária na Prefeitura de Barra do Sul",
+  "description": "O inquérito concluiu que não houve irregularidade na contratação de temporários durante concurso válido. O feito foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 14,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 15,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 16,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 17,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 18,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva suspeita sobre salários de jurídico municipal em Barra do Sul",
+  "description": "A apuração concluiu que não havia ilegalidade na estrutura remuneratória entre assessor jurídico e advogado municipal. O procedimento foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 19,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 20,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP resolve problema de vala e esgoto em Barra do Sul",
+  "description": "O inquérito tratou de alagamentos e esgoto a céu aberto em rua do município. A situação do esgoto foi resolvida provisoriamente e o procedimento foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 21,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 22,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 23,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 24,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 25,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 26,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 27,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 28,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 29,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP vê inocorrência em aprovação de projeto de arquitetura em Barra do Sul",
+  "description": "A apuração sobre aprovação indevida de projeto fora dos parâmetros legais terminou em inocorrência. O caso foi encerrado sem responsabilização.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 30,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva suspeita de superlotação em escola de Barra do Sul",
+  "description": "A investigação sobre salas lotadas na Escola Juraci Izaura de Oliveira terminou sem fundamento para ação judicial. O procedimento foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 31,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 32,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 33,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 34,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP ajuíza ação contra decreto do ITBI em Barra do Sul",
+  "description": "O MP questionou o decreto municipal que condicionava a guia do ITBI à quitação do IPTU e levou o tema ao TJSC por ADI. O inquérito foi arquivado após a medida judicial.",
+  "status": "🔴 ADI ajuizada",
+  "severity": "media"
+ },
+ {
+  "i": 35,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 36,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 37,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva saneamento básico após plano municipal aprovado",
+  "description": "O município comprovou a elaboração e aprovação do plano municipal de saneamento básico e gestão de resíduos sólidos. Com o objetivo cumprido, o MP arquivou o inquérito.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 38,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 39,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva análise clínica na UPA de Barra do Sul após regularização",
+  "description": "A investigação apontava falhas no serviço de análises clínicas da UPA 24h Jetel Mendes. Como a regularização foi comprovada, o caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 40,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 41,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 42,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 43,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 0,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE adia cautelar sobre contrato do lixo em Barra do Sul",
+  "description": "A representação sobre o contrato de coleta de resíduos sólidos teve a cautelar postergada para instrução complementar. O Tribunal ainda vai examinar o mérito do pedido.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 1,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva pregão do lixo após anulação, mas alerta por falhas",
+  "description": "O pregão 022/2025 foi arquivado porque já havia sido anulado. Mesmo assim, o relator apontou impropriedades no edital, como falta de detalhamento de custos e restrições à competitividade.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 2,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 3,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 4,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE responsabiliza prefeitura por condenação trabalhista e cobra TCE no mercado",
+  "description": "A decisão considerou parcialmente procedente a representação e mandou apurar responsabilidades pela falta de fiscalização do contrato com a empresa Debroski e Schuster. Também determinou comunicação sobre a tredestinação do imóvel do mercado municipal.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 5,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 6,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 7,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 8,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 9,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 10,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 11,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE chama secretário para explicar chamamento público da saúde em Barra do Sul",
+  "description": "O relator revogou a cautelar anterior e determinou audiência sobre a habilitação do IMAS no chamamento público da saúde. O caso segue sob análise do Tribunal.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 12,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 13,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE não conhece credenciamento de leiloeira em Barra do Sul",
+  "description": "A representação sobre o credenciamento 02/2021 não passou na seletividade e foi arquivada. O mérito da contratação não foi examinado.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 14,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 15,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 16,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta irregularidade e manda recuperar R$ 57,5 mil na iluminação de Barra do Sul",
+  "description": "A auditoria considerou irregular o pagamento a maior na execução do contrato de iluminação pública e determinou a recuperação ou compensação de valores pagos indevidamente. O caso trata de dano ao erário já apurado.",
+  "status": "⬛ julgado irregular",
+  "severity": "alta"
+ },
+ {
+  "i": 17,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE abre investigação sobre seletivo e férias em dobro na Barra do Sul",
+  "description": "A denúncia sobre o processo seletivo 09/2025 e o pagamento em dobro de férias foi convertida em representação e recebeu diligências. O Tribunal ainda vai instruir o mérito.",
+  "status": "🟡 em instrução (citação/audiência)",
+  "severity": "media"
+ },
+ {
+  "i": 18,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 19,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE corrige inabilitação indevida em pregão do lixo na Barra do Sul",
+  "description": "O Tribunal considerou procedente a representação e reconheceu falha na inabilitação da empresa, sem aplicar sanções. A administração foi orientada a adotar formalismo moderado nos próximos certames.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 20,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 21,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 22,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 23,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 24,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE não conhece denúncia sobre concorrência eletrônica em Barra do Sul",
+  "description": "A representação sobre a Concorrência Eletrônica 022/2024 não foi conhecida por falta de seletividade. O processo foi encerrado sem exame do mérito.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 25,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE rejeita acusação de acúmulo irregular em Barra do Sul",
+  "description": "A representação sobre acúmulo de cargo e função no controle interno foi julgada improcedente e arquivada. O Tribunal não confirmou a irregularidade.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ }
+]

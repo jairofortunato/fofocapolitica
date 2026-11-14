@@ -1,0 +1,632 @@
+[
+  {
+    "i": 350,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva pedido de informação após providência do Município",
+    "description": "A apuração tratava da omissão do Município em fornecer informações à comunicante. Os pedidos foram solucionados e não houve prejuízo. O caso foi indeferido e arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 351,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso sobre pedido de informação já analisado",
+    "description": "A representação tratava de suposta omissão no pedido de informação 19898/2023, mas os fatos já tinham sido examinados em outra notícia de fato. Sem novos elementos, o MP indeferiu a investigação e arquivou o caso.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 352,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 353,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 354,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 355,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 356,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 357,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 358,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 359,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva protocolo de regularização fundiária sem documentos do noticiante",
+    "description": "A notícia de fato apurava suposto encerramento indevido de protocolos de regularização fundiária urbana. Como os noticiantes deixaram o prazo correr sem apresentar documentos, o caso foi indeferido e arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 360,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva suposta omissão na resposta ao Protocolo 722/2024",
+    "description": "A representação questionava a demora do Município em responder ao protocolo indicado. Como os representantes não trouxeram documentos que comprovassem as alegações, o caso foi indeferido e arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 361,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso sobre falta de dentista em UBS",
+    "description": "A apuração sobre ausência de dentista no UBS do Bairro Paulas terminou com a informação de que o profissional foi contratado e a situação foi resolvida. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 362,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 363,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva atraso em cirurgia coclear após concluir que não havia urgência",
+    "description": "A notícia de fato tratava da morosidade no agendamento de cirurgia coclear. O MP entendeu que não havia urgência e que não se podia burlar a fila. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 364,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva atraso em cirurgia ortopédica",
+    "description": "A representação apontava morosidade no agendamento de cirurgia ortopédica. O caso foi arquivado após a análise ministerial.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 365,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 366,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 367,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 368,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva demora em atendimento neuropediátrico",
+    "description": "A notícia de fato tratava da suposta morosidade no atendimento neuropediátrico de adolescente. O MP reconheceu ausência de risco, acompanhamento pela rede de proteção e impossibilidade de burlar a lista do SUS. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 369,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 370,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 371,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva omissão em resposta a protocolo após resposta do Município",
+    "description": "A Promotoria apurava suposta omissão do Município em responder ao protocolo da comunicante. Houve encerramento do protocolo com apresentação de resposta, objeto esgotado e arquivo do caso.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 372,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre obra do Projeto Praia Acessível",
+    "description": "A notícia de fato apurava possíveis danos ambientais ligados à obra municipal do Projeto Praia Acessível, na Praia da Saudade. O tema já estava sendo tratado em outro procedimento e o caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 373,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso sobre ausência de médico clínico geral no PREMIR",
+    "description": "A Promotoria tratou da suposta ausência de médico clínico geral no PREMIR. O procedimento foi indeferido e arquivado após a conclusão ministerial.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 374,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 375,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 376,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 377,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva omissão do Município em múltiplos protocolos",
+    "description": "A apuração reuniu vários protocolos sem resposta, mas o Município prestou as informações e o MP registrou ausência de prejuízo e garantia do direito de acesso. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 378,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 379,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva suposta invasão e construções irregulares em terreno particular",
+    "description": "A notícia de fato tratava de invasão e construção irregular em terreno particular. Não houve elementos de prova e o noticiante não complementou a denúncia. O caso foi indeferido e arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 380,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 381,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva omissão na resposta ao Protocolo 443/2024",
+    "description": "A apuração sobre a resposta ao protocolo indicou que o Município prestou as informações, assegurou o acesso à informação e adotou providências administrativas. O caso foi indeferido e arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 382,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 383,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 384,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 385,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 386,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso do Centro de Bem-Estar Animal",
+    "description": "O inquérito concluiu que o Centro de Bem-Estar Animal funcionava com melhorias implementadas e de acordo com os ditames legais. A denúncia foi considerada sem fundamento e o caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 387,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 388,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 389,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva discussão sobre inconstitucionalidade da Lei 2.820/2024",
+    "description": "A notícia de fato apurava eventual inconstitucionalidade da lei municipal sobre alimentação escolar. O MP concluiu que não havia inconstitucionalidade formal ou material e indeferiu o pedido.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 390,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva situação funcional de servidor condenado por tráfico",
+    "description": "A Promotoria apurou a situação funcional de Ciliélson Caldeira Reis após condenação criminal. O PAD terminou com absolvição por inassiduidade habitual e o caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 391,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva vala de esgoto após instalação de tubulação",
+    "description": "A apuração tratou de vala de esgoto e drenagem aberta pelo Município. A comunicação interna registrou instalação da tubulação e a situação foi resolvida. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 392,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 393,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 394,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 395,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva suspeita sobre conduta de professores do CMEI Pedacinho do Céu",
+    "description": "O inquérito foi instaurado para apurar suposta conduta inadequada de professores com relação a uma criança. O MP concluiu que a situação seria tratada na esfera criminal e não havia providências na infância e juventude. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 396,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 397,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 398,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 399,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso sobre CAPS após regularização do serviço",
+    "description": "A apuração avaliou a adequação e a eficiência do CAPS de São Francisco do Sul e a necessidade de ampliação do tratamento em saúde mental. A situação foi regularizada com substituição de coordenação e contratação de novo médico. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 400,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 401,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 402,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 403,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso sobre castração de felino após perda do objeto",
+    "description": "A notícia de fato tratava de risco e maus-tratos em abrigo de animais. As vistorias apontaram boas condições e o animal faleceu, com perda do objeto. O procedimento preparatório foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 404,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 405,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP pede ação judicial por falta de pediatras na UPA",
+    "description": "O inquérito tratava da falta de médicos pediatras na UPA e da ausência de atendimento infantil no hospital municipal. O hospital prestava parte do serviço, mas a Promotoria determinou ajuizamento de ação judicial sobre a falta de pediatras na UPA. O caso segue em tramitação.",
+    "status": "❔ em tramitação",
+    "severity": "alta"
+  },
+  {
+    "i": 406,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 407,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 408,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 409,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 410,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 411,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC para corrigir falhas de comunicação com o Conselho de Assistência Social",
+    "description": "A apuração sobre falta de resposta do Município às solicitações do Conselho de Assistência Social terminou com TAC para corrigir as falhas de comunicação. A Promotoria promoveu o arquivamento e submeteu o ajuste ao Conselho Superior.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 412,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 413,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso sobre acessibilidade em via pública",
+    "description": "A apuração tratava da falta de acessibilidade e segurança no acesso à calçada em frente à residência do noticiante. A Promotoria promoveu o arquivamento após a regularização do tema.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 414,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre manutenção de ruas no Ervino",
+    "description": "O inquérito discutia possível falta de manutenção e conservação de ruas na Praia do Ervino e pendências com empresa contratada pelos moradores. A Promotoria promoveu o arquivamento e submeteu a promoção ao Conselho Superior.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 415,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP reconhece prescrição em caso de pregão e fornecimento de medicamentos",
+    "description": "A apuração tratava da regularidade de pregão e do fornecimento de medicamentos pela vencedora do certame. Com o lapso temporal e a prescrição da pretensão, a responsabilização não foi julgada e o caso foi arquivado.",
+    "status": "⚫ prescrito",
+    "severity": "media"
+  },
+  {
+    "i": 416,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 417,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 418,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 419,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  }
+]

@@ -1,0 +1,852 @@
+{
+ "mp": [
+  {
+   "i": 0,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva suspeita de superfaturamento em indenizações por saibro",
+   "description": "O MP investigou indenizações do Município de Campo Alegre ligadas à extração de saibro para obras públicas. O parecer técnico afastou dano ao erário e improbidade. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 1,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva suspeita de má conservação de veículos e desvio de função",
+   "description": "A apuração tratou de negligência na conservação de veículos da Saúde e possível desvio de função de dois servidores. O MP apontou ausência de provas e fato superado pelo retorno de um servidor e a aposentadoria do outro. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 2,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre férias coletivas e ponto facultativo",
+   "description": "O procedimento examinou férias coletivas de servidores e ponto facultativo no Natal de 2018. O MP concluiu que houve exercício regular da discricionariedade administrativa e que não existiu dolo. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 3,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC em apuração sobre licitação e finanças",
+   "description": "A investigação tratou de suposta inobservância de regras de licitação e finanças públicas. O MP afastou improbidade, mas firmou TAC para ressarcimento do dano. O caso foi arquivado após o acordo.",
+   "status": "🟠 TAC firmado",
+   "severity": "alta"
+  },
+  {
+   "i": 4,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 5,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre dispensa de licitação na pandemia",
+   "description": "A investigação analisou a dispensa de licitação adotada durante a pandemia. O MP não viu irregularidades nem indícios de dano ao erário. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 6,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva suspeita sobre julgamento de contas municipais",
+   "description": "O MP apurou suposto descumprimento do dever de julgamento das contas pela Câmara e de remessa ao TCE. A Câmara comprovou que o julgamento pendente e a comunicação ao Tribunal foram feitos. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 7,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 8,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC para regularizar loteamento clandestino em Campo Alegre",
+   "description": "O inquérito tratou de parcelamento irregular do solo e supressão de vegetação nativa. O MP firmou TAC com os responsáveis para reparar o dano ambiental e regularizar o loteamento. O caso foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 9,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva ação sobre edificação clandestina em APP",
+   "description": "A apuração envolveu edificação clandestina em área de preservação permanente. O Município já havia ajuizado ação demolitória e adotado medidas de recuperação, consideradas suficientes pelo MP. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 10,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso de edificação sem licença em APP",
+   "description": "O MP apurou uma edificação sem licença e em área de preservação permanente. A irregularidade foi sanada com a demolição do imóvel, sem necessidade de nova ação. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 11,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC para recuperar área com supressão de vegetação",
+   "description": "A apuração constatou supressão de vegetação nativa em reserva legal e APP sem autorização. O investigado firmou TAC para recuperar a área degradada e executar PRAD. O caso foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 12,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso de doação de imóvel público com prazo prescrito",
+   "description": "A investigação tratou de possível irregularidade na doação de imóvel público. O MP reconheceu a prescrição dos supostos atos ímprobos e a ausência de prova de dolo. O caso foi arquivado.",
+   "status": "⚫ prescrito",
+   "severity": "media"
+  },
+  {
+   "i": 13,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre loteamento irregular com REURB",
+   "description": "O MP apurou a implantação de loteamento irregular sem licenças no imóvel indicado. Como havia processo administrativo de regularização urbana em curso, o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 14,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 15,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 16,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC para regularizar convênio do Hospital São Luiz",
+   "description": "A investigação apurou irregularidade no convênio com o Instituto Santé para a gestão do hospital. O Município firmou TAC para regularizar a transferência da gestão e o caso foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 17,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva após aditamento de TAC sobre gestão do Hospital São Luiz",
+   "description": "Em nova fiscalização, o MP tratou da mesma transferência da gestão do hospital e apontou necessidade de aditamento do TAC. As obrigações foram ajustadas e o caso foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 18,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 19,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 20,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre resíduo líquido lançado a céu aberto",
+   "description": "O MP apurou o lançamento irregular de resíduo líquido em via pública. A irregularidade foi sanada pelo Município e o caso foi arquivado por falta de interesse de agir.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 21,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva reserva legal parcial e deixa ACP em outro imóvel",
+   "description": "A apuração tratou da ausência de especialização de reserva legal em imóveis do Município. Dois imóveis foram regularizados e o terceiro passou a ser tratado em ação civil pública própria. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 22,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva contrato de análise da água em Campo Alegre",
+   "description": "O MP investigou a contratação e a execução de serviço de análise de qualidade das águas. Como não houve fundamento para ação civil pública, o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 23,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 24,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP acompanha TAC no acolhimento familiar e execução de multa",
+   "description": "O procedimento tratou do programa de acolhimento familiar e do cumprimento das obrigações assumidas em TAC. Houve execução das obrigações e da cláusula penal, depois arquivada com o cumprimento. O caso foi encerrado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 25,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre omissão na preservação de patrimônio histórico",
+   "description": "O MP apurou suposta omissão do Município na preservação de patrimônio histórico-cultural. A construção de memorial compensou os danos apontados e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 26,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva fiscalização do Serviço de Inspeção Municipal",
+   "description": "O MP avaliou a estrutura do Serviço de Inspeção Municipal de Campo Alegre. As irregularidades foram sanadas e não houve base para ação judicial. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 27,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 28,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 29,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 30,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cumpre recomendação sobre equipes multiprofissionais na educação",
+   "description": "O inquérito apurou se o Município cumpria a Lei 13.935/2019 na educação básica. A recomendação foi aceita e cumprida, e o MP encerrou o procedimento sem ação. O caso foi arquivado.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 31,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre adolescentes em festa rural",
+   "description": "A investigação tratou de supostas infrações administrativas na Festa Nacional da Ovelha e na Festa Agropecuária. O MP não encontrou elementos para imputar responsabilidade à investigada. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 32,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 33,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva fiscalização do plano municipal de saneamento",
+   "description": "O procedimento acompanhou a implantação da política e do plano municipal de saneamento básico. Como a manutenção dos autos se mostrou desnecessária, o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 34,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 35,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 36,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 37,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 38,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP ajuíza ação civil pública em caso de loteamento irregular",
+   "description": "O procedimento terminou com o ajuizamento de ação civil pública após apuração de loteamento irregular em Campo Alegre. O caso passou ao Judiciário.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 39,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 40,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 41,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre contratações temporárias",
+   "description": "A investigação sobre prorrogação irregular de contratações temporárias concluiu que o vício foi sanado e que não havia fundamento para ação. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 42,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva contratação temporária de psicóloga após recomendação",
+   "description": "O MP recomendou a correção da contratação temporária de psicóloga, e o ente municipal acatou a orientação. O vício foi sanado e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 43,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  }
+ ],
+ "tce": [
+  {
+   "i": 0,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE susta contrato de advocacia da Prefeitura de Campo Alegre",
+   "description": "O Tribunal analisou a contratação de serviços advocatícios e apontou ausência de singularidade, cláusula quota litis e falta de justificativa de preço. Houve determinação de audiência e sustação cautelar. O caso segue em cautelar.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 1,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multa prefeita de Campo Alegre por atraso na prestação de contas",
+   "description": "O Tribunal julgou irregular o atraso de 142 dias na remessa da prestação de contas do prefeito de 2020. A prefeita recebeu multa e a irregularidade foi confirmada. O caso terminou com sanção.",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta"
+  },
+  {
+   "i": 2,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 3,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 4,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 5,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva representação sobre edital de resíduos em Campo Alegre",
+   "description": "O Tribunal concluiu que a representação sobre a Concorrência 128/2022 não merecia prosseguimento e determinou o arquivamento. Também recomendou ajustes para futuras licitações. O caso terminou sem sanção.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 6,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 7,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 8,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva PAP sobre concessão de serviço municipal",
+   "description": "O Procedimento Apuratório Preliminar não alcançou a seletividade mínima e a cautelar foi prejudicada. O Tribunal recomendou ajustes e determinou o arquivamento sem análise de mérito. O caso é de não conhecimento.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 9,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE confirma irregularidades e multa em transporte escolar de Campo Alegre",
+   "description": "O Tribunal considerou procedente a representação contra o Pregão 110/2023. Reconheceu falhas na ata de registro de preços, no quantitativo e no valor estimado, e aplicou multas aos responsáveis. O caso terminou com sanção.",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta"
+  },
+  {
+   "i": 10,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 11,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multa responsáveis por pregão do transporte escolar em Campo Alegre",
+   "description": "A representação sobre o Pregão Eletrônico 110/2023 foi julgada procedente. O Tribunal apontou uso inadequado da ata de registro de preços e quantitativos incompatíveis com a contratação, com multas aos responsáveis. O caso terminou irregular com sanção.",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta"
+  },
+  {
+   "i": 12,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE não conhece representação sobre transporte escolar de 2025",
+   "description": "A representação sobre o Pregão 119/2025 não superou a admissibilidade. O Tribunal declarou prejudicado o cautelar e determinou o arquivamento. O caso terminou sem exame de mérito.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 13,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE não conhece denúncia sobre processo seletivo em Campo Alegre",
+   "description": "A denúncia sobre o Processo Seletivo 01/2025 não atingiu a pontuação mínima de seletividade. O Tribunal não conheceu da peça e arquivou os autos. O caso não teve análise de mérito.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 14,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 15,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 16,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE considera irregular pregão da Festa da Ovelha em Campo Alegre",
+   "description": "O Tribunal considerou parcialmente procedente a representação e apontou ausência de justificativas para o critério de julgamento adotado. Houve irregularidade no Pregão 1/2025, sem multa no trecho visível do dispositivo. O caso ficou irregular.",
+   "status": "⬛ julgado irregular",
+   "severity": "media"
+  },
+  {
+   "i": 17,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva representação sobre pregão em Campo Alegre",
+   "description": "O Tribunal conheceu da representação e concluiu pela improcedência do pedido, com arquivamento dos autos. Também houve recomendações para licitações futuras. O caso terminou sem sanção.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 18,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 19,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE mantém multa por atraso nas contas de Campo Alegre",
+   "description": "No recurso de reexame, o Tribunal manteve a irregularidade do atraso de 142 dias na remessa da prestação de contas de 2020. A multa aplicada à prefeita foi ratificada. O caso terminou com sanção.",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta"
+  },
+  {
+   "i": 20,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 21,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE susta edital de resíduos e aponta falhas de competitividade",
+   "description": "O Tribunal analisou o edital de concorrência para coleta e destinação de resíduos e apontou aglutinação do objeto, falta de orçamento detalhado e exigências restritivas. Houve sustação cautelar do certame. O caso segue cautelarmente.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 22,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE julga regulares os investimentos do IPRECAL",
+   "description": "A inspeção sobre investimentos com recursos previdenciários foi considerada regular e os autos foram arquivados por exaurimento do objeto. O Tribunal não aplicou sanção. O caso terminou regular.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 23,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE converte PAP em representação sobre transporte escolar",
+   "description": "O PAP foi considerado atendido na seletividade e convertido em representação. O Tribunal não concedeu a cautelar, mas determinou audiência dos responsáveis. O caso segue em instrução.",
+   "status": "🟡 em instrução (citação/audiência)",
+   "severity": "media"
+  },
+  {
+   "i": 24,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 25,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 26,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 27,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 28,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 29,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 30,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 31,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 32,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 33,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 34,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 35,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 36,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 37,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 38,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE mantém multa por atraso nas contas de Campo Alegre",
+   "description": "O recurso de reexame foi negado e o Tribunal ratificou a decisão que considerou irregular o atraso de 142 dias na remessa da prestação de contas de 2020. A multa foi mantida. O caso terminou com sanção.",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta"
+  },
+  {
+   "i": 39,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 40,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 41,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 42,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 43,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 44,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 45,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 46,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 47,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 48,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 49,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  }
+ ]
+}

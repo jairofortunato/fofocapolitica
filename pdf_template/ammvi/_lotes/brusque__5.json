@@ -1,0 +1,635 @@
+{
+ "cidade": "Brusque",
+ "casos": [
+  {
+   "i": 350,
+   "tipo": "mp",
+   "ref": "06.2022.00000535-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00000535-5",
+   "status": "🟢 arquivado",
+   "data": "18/10/2023",
+   "texto": "Célia Radtke Reis e Paulo José Reis. Conclusão: conclui-se que é caso de arquivamento do presente feito, uma vez que as informações apresentadas no curso do procedimento foram conclusivas no sentido de que não há motivos para prosseguimento das apurações, tendo em vista que houve apenas indícios de parcelamentos, alguns com mais de 40 anos, que poderiam estar irregulares."
+  },
+  {
+   "i": 351,
+   "tipo": "mp",
+   "ref": "06.2017.00004290-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2017.00004290-1",
+   "status": "🔴 ACP ajuizada",
+   "data": "20/10/2023",
+   "texto": "Fundema, Edivan Emerson Beuting e Isedi Maria Beuting. Conclusão: após instrução, concluiu-se que extrajudicialmente é inviável a solução da questão, de modo que o caminho mais adequado é o ajuizamento de ação civil pública para que, judicialmente, se busque a regularização."
+  },
+  {
+   "i": 352,
+   "tipo": "mp",
+   "ref": "06.2019.00003861-6",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00003861-6",
+   "status": "🟢 arquivado",
+   "data": "20/10/2023",
+   "texto": "Ofício de Registro de Imóveis da Comarca de Brusque, Juraci Fachini e Moacir Luiz Maestri. Conclusão: conclui-se que é caso de arquivamento do presente feito, uma vez que houve a regularização, com a inscrição dos imóveis e, consequentemente, das reservas legais, formando-se o convencimento de que inexistem fundamentos para a propositura de ação civil, diante da perda do objeto."
+  },
+  {
+   "i": 353,
+   "tipo": "mp",
+   "ref": "06.2023.00004101-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00004101-1",
+   "status": "🟡 em apuração",
+   "data": "26/10/2023",
+   "texto": "Ofício de Registro de Imóveis da Comarca de Brusque, Décio Luiz Torezani, Conceição Aparecida Torezani, Abercio Ângelo Torezani, Luiz Amaro Eduardo e Benta Eduardo."
+  },
+  {
+   "i": 354,
+   "tipo": "mp",
+   "ref": "06.2020.00002018-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00002018-1",
+   "status": "❔ status indef.",
+   "data": "01/11/2023",
+   "texto": "Rafaela Gullich, Paulo Gullich, Lavacar, Jaça Estética, MHR Estética e Lavação, Lava Car Macqueen, Lava Car Andrade, Lavação do Xandy, Maroca, Hot Dog 5,00, Hot Dog Jonny's, Big Lanches Trailer Preto, Trailer Vermelho, Lanches Top, Vini Lanches e Texas Bar. Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil competente."
+  },
+  {
+   "i": 355,
+   "tipo": "mp",
+   "ref": "06.2020.00002089-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00002089-2",
+   "status": "❔ status indef.",
+   "data": "05/02/2024",
+   "texto": "Luciano Witkowsky. Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil competente, haja vista a perda superveniente do objeto da investigação."
+  },
+  {
+   "i": 356,
+   "tipo": "mp",
+   "ref": "06.2021.00000037-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00000037-8",
+   "status": "❔ status indef.",
+   "data": "05/02/2024",
+   "texto": "Ronimar Fachini e Ofício de Registro de Imóveis de Brusque. Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil competente."
+  },
+  {
+   "i": 357,
+   "tipo": "mp",
+   "ref": "06.2023.00003734-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00003734-0",
+   "status": "🟢 arquivado",
+   "data": "05/02/2024",
+   "texto": "Ministério Público de Santa Catarina e Hospital Arquidiocesano Cônsul Carlos Renaux. Conclusão: constatada a ausência de instauração de procedimento em relação aos fatos noticiados pela cidadã Jaqueline da Rold junto à Ouvidoria do nosocômio. Expedida recomendação a respeito da necessidade de instauração de Processo Administrativo Disciplinar - PAD na hipótese de qualquer fato que ocorra nas dependências do hospital para apuração dos fatos noticiados e no intuito de assegurar aos representantes/pacientes o direito de petição e acesso à Justiça. Recomendação acatada. Ausência circunstancial do interesse de agir. Arquivamento."
+  },
+  {
+   "i": 358,
+   "tipo": "mp",
+   "ref": "06.2024.00000634-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00000634-0",
+   "status": "🟡 em apuração",
+   "data": "15/02/2024",
+   "texto": "Ofício de Registro de Imóveis da Comarca de Brusque, Tatiane Cervi Nuss e Inácio Nuss Júnior."
+  },
+  {
+   "i": 359,
+   "tipo": "mp",
+   "ref": "06.2020.00002861-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00002861-8",
+   "status": "❔ status indef.",
+   "data": "23/02/2024",
+   "texto": "Márcio Vinotti. Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil competente."
+  },
+  {
+   "i": 360,
+   "tipo": "mp",
+   "ref": "06.2020.00002861-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00002861-8",
+   "status": "❔ status indef.",
+   "data": "27/02/2024",
+   "texto": "Valmir Sherer e Edson Aurélio Becker. Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil competente."
+  },
+  {
+   "i": 361,
+   "tipo": "mp",
+   "ref": "06.2021.00001378-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00001378-4",
+   "status": "❔ status indef.",
+   "data": "27/02/2024",
+   "texto": "FUNDEMA e Jean Carlos Eccel (Toalhas Sul Catarinense EIRELI-ME/Confecção Crisbel Ltda.). Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil competente."
+  },
+  {
+   "i": 362,
+   "tipo": "mp",
+   "ref": "06.2023.00000636-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00000636-9",
+   "status": "❔ status indef.",
+   "data": "27/02/2024",
+   "texto": "Márcio Correia e RTR Beneficiamento Têxtil Ltda. Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil competente."
+  },
+  {
+   "i": 363,
+   "tipo": "mp",
+   "ref": "06.2019.00003858-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00003858-2",
+   "status": "❔ status indef.",
+   "data": "01/03/2024",
+   "texto": "Ofício do registro de Imóveis da Comarca de Brusque, Kohler Tinturaria Ltda. e Arão Weiss. Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil competente."
+  },
+  {
+   "i": 364,
+   "tipo": "mp",
+   "ref": "06.2022.00002187-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00002187-7",
+   "status": "❔ status indef.",
+   "data": "02/04/2024",
+   "texto": "Osni de Souza Júnior e Giracor Têxtil Ltda. Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil competente."
+  },
+  {
+   "i": 365,
+   "tipo": "mp",
+   "ref": "06.2024.00001530-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00001530-6",
+   "status": "🟡 em apuração",
+   "data": "03/04/2024",
+   "texto": "Ofício de Registro de Imóveis da Comarca de Brusque, Daniel Bork, Mirian Bork, Marcos Antonio Letzov Brattig, Mariana Brattig (Espólio dos bens de Marcos Henrique Brattig) e Joana Brattig Leite (Espólio dos bens de Éster Brattig)."
+  },
+  {
+   "i": 366,
+   "tipo": "mp",
+   "ref": "06.2021.00003562-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00003562-3",
+   "status": "❔ status indef.",
+   "data": "12/04/2024",
+   "texto": "Fabricio Zen, André Kavessaki, Evandro da Silva e Bruspav Pavimentação. Conclusão: não se constatou lesão ou ameaça de lesão a um interesse cuja tutela incumbisse ao Ministério Público tutelar."
+  },
+  {
+   "i": 367,
+   "tipo": "mp",
+   "ref": "06.2024.00000592-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00000592-0",
+   "status": "❔ status indef.",
+   "data": "12/04/2024",
+   "texto": "Daniel Osmar Teixeira e Igreja Pentecostal Deus é Conosco. Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil competente."
+  },
+  {
+   "i": 368,
+   "tipo": "mp",
+   "ref": "06.2017.00004344-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2017.00004344-4",
+   "status": "❔ status indef.",
+   "data": "15/04/2024",
+   "texto": "Recicle Catarinense de Resíduos Ltda. e anônimo. Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil competente."
+  },
+  {
+   "i": 369,
+   "tipo": "mp",
+   "ref": "06.2023.00002560-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00002560-0",
+   "status": "❔ status indef.",
+   "data": "15/04/2024",
+   "texto": "Condomínio Residencial Vale das Pedras (Acires Martins). Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil competente."
+  },
+  {
+   "i": 370,
+   "tipo": "mp",
+   "ref": "06.2020.00001706-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00001706-5",
+   "status": "❔ status indef.",
+   "data": "24/04/2024",
+   "texto": "João Carlos Klabunde, Maria Oli Klabunde e Altair Heck. Conclusão: propositura de Ação Civil Pública."
+  },
+  {
+   "i": 371,
+   "tipo": "mp",
+   "ref": "06.2019.00002754-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00002754-1",
+   "status": "❔ status indef.",
+   "data": "13/05/2024",
+   "texto": "anônimo, Osni Graf, Pedro Bezel e Elias Bezel. Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil competente."
+  },
+  {
+   "i": 372,
+   "tipo": "mp",
+   "ref": "06.2023.00000657-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00000657-0",
+   "status": "❔ status indef.",
+   "data": "06/06/2024",
+   "texto": "sigiloso e NH Empreendimentos Imobiliários Ltda. Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil competente."
+  },
+  {
+   "i": 373,
+   "tipo": "mp",
+   "ref": "06.2023.00004101-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00004101-1",
+   "status": "❔ status indef.",
+   "data": "11/06/2024",
+   "texto": "Ofício de Registro de Imóveis de Brusque, Décio Luiz Torezani, Conceição Aparecida Torezani, Abercio Ângelo Torezani, Luiz Amaro Eduardo e Benta Eduardo. Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil competente. Membro do Ministério público: Marcio Gai Veiga"
+  },
+  {
+   "i": 374,
+   "tipo": "mp",
+   "ref": "06.2024.00002124-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00002124-1",
+   "status": "🟢 arquivado",
+   "data": "14/06/2024",
+   "texto": "Gestor da Unidade Escolar E.E.B. Padre Lux. Conclusão: arquivado em razão de inexistir fundamento para a propositura de ação civil pública, uma vez que a unidade escolar acatou a Recomendação n. 0003/2024/01PJ/BRU expedida pelo Ministério Público."
+  },
+  {
+   "i": 375,
+   "tipo": "mp",
+   "ref": "06.2022.00002975-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00002975-8",
+   "status": "❔ status indef.",
+   "data": "01/08/2024",
+   "texto": "Ofício de Registro de Imóveis da Comarca de Brusque e Cecília Gioconda Baungartner. Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil competente."
+  },
+  {
+   "i": 376,
+   "tipo": "mp",
+   "ref": "06.2023.00001333-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00001333-7",
+   "status": "❔ status indef.",
+   "data": "05/08/2024",
+   "texto": "Aluis Schaefer e Conecta Empreendimentos Ltda. Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil competente, pois a situação foi regularizada."
+  },
+  {
+   "i": 377,
+   "tipo": "mp",
+   "ref": "06.2024.00002167-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00002167-4",
+   "status": "❔ status indef.",
+   "data": "05/08/2024",
+   "texto": "Ricardo dos Santos Lada. Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil competente."
+  },
+  {
+   "i": 378,
+   "tipo": "mp",
+   "ref": "06.2021.00001055-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00001055-4",
+   "status": "❔ status indef.",
+   "data": "23/09/2024",
+   "texto": "Milani Limas ME e Renan Verwiebe. Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil."
+  },
+  {
+   "i": 379,
+   "tipo": "mp",
+   "ref": "06.2024.00000644-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00000644-0",
+   "status": "❔ status indef.",
+   "data": "08/10/2024",
+   "texto": "sigilosa e Serviço Autônomo de Água e Esgoto (SAMAE) de Brusque. Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil."
+  },
+  {
+   "i": 380,
+   "tipo": "mp",
+   "ref": "06.2024.00001530-6",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00001530-6",
+   "status": "❔ status indef.",
+   "data": "08/10/2024",
+   "texto": "Ofício de Registro de Imóveis da Comarca de Brusque, Daniel Bork, Mirian Bork, Marcos Antônio Letzov Brattig, Ana Clara Letzov Brattig, Mariana Brattg Félix e Joana Brattig Leite. Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de Ação Civil."
+  },
+  {
+   "i": 381,
+   "tipo": "mp",
+   "ref": "09.2024.00009347-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00009347-0",
+   "status": "🟡 em apuração",
+   "data": "28/11/2024",
+   "texto": "Casa Assistencial Cagere Ltda."
+  },
+  {
+   "i": 382,
+   "tipo": "mp",
+   "ref": "09.2024.00009401-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00009401-3",
+   "status": "🟡 em apuração",
+   "data": "28/11/2024",
+   "texto": "Lar Menino Deus."
+  },
+  {
+   "i": 383,
+   "tipo": "mp",
+   "ref": "06.2024.00000477-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00000477-5",
+   "status": "❔ status indef.",
+   "data": "05/12/2024",
+   "texto": "sigilosa e MVEE Participações Ltda. Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil."
+  },
+  {
+   "i": 384,
+   "tipo": "mp",
+   "ref": "06.2021.00003975-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00003975-2",
+   "status": "❔ status indef.",
+   "data": "06/12/2024",
+   "texto": "José Ademir Imhof, Memorial Brusque de Gestão de Cemitérios Ltda., Célio Alcione Zuchi, Walter Thomsen e Anderson Luiz Cavichioli. Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil."
+  },
+  {
+   "i": 385,
+   "tipo": "mp",
+   "ref": "06.2025.00000317-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00000317-0",
+   "status": "🟡 em apuração",
+   "data": "05/02/2025",
+   "texto": "Ministério Público, Imigrantes Hospital e Maternidade, e Estado de Santa Catarina."
+  },
+  {
+   "i": 386,
+   "tipo": "mp",
+   "ref": "06.2024.00005036-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00005036-9",
+   "status": "🟡 em apuração",
+   "data": "10/02/2025",
+   "texto": "Valcir Mario de Gasperi e José Agostinho Gandolfi."
+  },
+  {
+   "i": 387,
+   "tipo": "mp",
+   "ref": "06.2024.00005074-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00005074-7",
+   "status": "🟡 em apuração",
+   "data": "11/02/2025",
+   "texto": "sigilosa e Roseli Schaefer da Cunha."
+  },
+  {
+   "i": 388,
+   "tipo": "mp",
+   "ref": "06.2024.00000535-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00000535-2",
+   "status": "❔ status indef.",
+   "data": "27/02/2025",
+   "texto": "Ademar da Silva o Madeireiro (Madeireira Silva). Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil."
+  },
+  {
+   "i": 389,
+   "tipo": "mp",
+   "ref": "06.2024.00005074-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00005074-7",
+   "status": "❔ status indef.",
+   "data": "27/02/2025",
+   "texto": "sigilosa e Roseli Schaefer da Cunha. Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil, pois a situação foi regularizada."
+  },
+  {
+   "i": 390,
+   "tipo": "mp",
+   "ref": "06.2025.00000663-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00000663-3",
+   "status": "🟡 em apuração",
+   "data": "28/02/2025",
+   "texto": "Leonir Carlos Fugazza e Antônio Carlos Weidgenant. Objetivo: apurar as condições de salubridade e guarda dos animais na residência de Antônio Carlos Weidgenant, localizada na Rua Carlos Ristow, 587, Bairro Azambuja, Brusque."
+  },
+  {
+   "i": 391,
+   "tipo": "mp",
+   "ref": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE ACOMPANHAMENTO DE TAC n.",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE ACOMPANHAMENTO DE TAC n.",
+   "status": "🟡 em apuração",
+   "data": "14/03/2025",
+   "texto": "Renan Verwiebe e Miliani Limas ME (Madeireira Mickaeli Batisti)."
+  },
+  {
+   "i": 392,
+   "tipo": "mp",
+   "ref": "06.2025.00000029-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00000029-4",
+   "status": "❔ status indef.",
+   "data": "31/03/2025",
+   "texto": "Gaia e Nilo Barni. Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil."
+  },
+  {
+   "i": 393,
+   "tipo": "mp",
+   "ref": "06.2025.00000143-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00000143-8",
+   "status": "❔ status indef.",
+   "data": "08/04/2025",
+   "texto": "parte sigilosa e William Alberto Zimmermann. Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil."
+  },
+  {
+   "i": 394,
+   "tipo": "mp",
+   "ref": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE ACOMPANHAMENTO DE TAC N.",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE ACOMPANHAMENTO DE TAC N.",
+   "status": "🟡 em apuração",
+   "data": "10/04/2025",
+   "texto": "Nilo Barni e GAIA-IMA/SC."
+  },
+  {
+   "i": 395,
+   "tipo": "mp",
+   "ref": "06.2025.00000663-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00000663-3",
+   "status": "❔ status indef.",
+   "data": "30/04/2025",
+   "texto": "Leonir Carlos Fugazza e Antônio Carlos Weidgenant. Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil, pois a situação foi regularizada."
+  },
+  {
+   "i": 396,
+   "tipo": "mp",
+   "ref": "06.2024.00005036-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00005036-9",
+   "status": "❔ status indef.",
+   "data": "29/05/2025",
+   "texto": "Valcir Mário de Gasperi, José Agostinho Gandolfi e Nadir Cognacco. Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil."
+  },
+  {
+   "i": 397,
+   "tipo": "mp",
+   "ref": "01.2025.00029859-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00029859-5",
+   "status": "🟡 em apuração",
+   "data": "11/06/2025",
+   "texto": "Presídio Regional de Brusque."
+  },
+  {
+   "i": 398,
+   "tipo": "mp",
+   "ref": "09.2025.00004068-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00004068-6.",
+   "status": "🟡 em apuração",
+   "data": "16/06/2025",
+   "texto": "Ministério Público de Santa Catarina e E. S. F."
+  },
+  {
+   "i": 399,
+   "tipo": "mp",
+   "ref": "06.2024.00000474-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00000474-2",
+   "status": "❔ status indef.",
+   "data": "20/06/2025",
+   "texto": "Jairsinho Nunes, Romar Transportes e Marmoraria Ltda. ME e Brusque Stone Marmoraria Ltda. Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil."
+  },
+  {
+   "i": 400,
+   "tipo": "mp",
+   "ref": "01.2025.00029859-5",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO Nº 01.2025.00029859-5.",
+   "status": "❔ status indef.",
+   "data": "07/08/2025",
+   "texto": "Presídio Regional de Brusque."
+  },
+  {
+   "i": 401,
+   "tipo": "mp",
+   "ref": "01.2025.00044885-5",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO Nº 01.2025.00044885-5",
+   "status": "❔ status indef.",
+   "data": "21/08/2025",
+   "texto": "Presídio Regional de Brusque."
+  },
+  {
+   "i": 402,
+   "tipo": "mp",
+   "ref": "01.2025.00044885-5",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00044885-5",
+   "status": "❔ status indef.",
+   "data": "25/08/2025",
+   "texto": "Presídio Regional de Brusque."
+  },
+  {
+   "i": 403,
+   "tipo": "mp",
+   "ref": "06.2024.00004623-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00004623-2",
+   "status": "❔ status indef.",
+   "data": "18/09/2025",
+   "texto": "Forjatec Metalúrgica Ltda. e Edson Almir Weber. Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil."
+  },
+  {
+   "i": 404,
+   "tipo": "mp",
+   "ref": "06.2025.00003772-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00003772-6",
+   "status": "🟡 em apuração",
+   "data": "18/09/2025",
+   "texto": "Alan Alves Paz e Maria Delurdes Peixer."
+  },
+  {
+   "i": 405,
+   "tipo": "mp",
+   "ref": "06.2025.00003789-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00003789-2",
+   "status": "🟡 em apuração",
+   "data": "23/09/2025",
+   "texto": "Hof Administradora de Bens Ltda. e Leomir Zirke."
+  },
+  {
+   "i": 406,
+   "tipo": "mp",
+   "ref": "09.2025.00006915-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00006915-1",
+   "status": "🟡 em apuração",
+   "data": "23/09/2025",
+   "texto": "Lar Menino de Deus."
+  },
+  {
+   "i": 407,
+   "tipo": "mp",
+   "ref": "09.2025.00006916-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00006916-2",
+   "status": "🟡 em apuração",
+   "data": "23/09/2025",
+   "texto": "Casa Assistencial Cagere Ltda."
+  },
+  {
+   "i": 408,
+   "tipo": "mp",
+   "ref": "09.2025.00006918-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00006918-4",
+   "status": "🟡 em apuração",
+   "data": "23/09/2025",
+   "texto": "Oásis Residencial Geriátrico."
+  },
+  {
+   "i": 409,
+   "tipo": "mp",
+   "ref": "09.2025.00006919-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00006919-5",
+   "status": "🟡 em apuração",
+   "data": "23/09/2025",
+   "texto": "Lar de Idosos Vó Adele."
+  },
+  {
+   "i": 410,
+   "tipo": "mp",
+   "ref": "09.2025.00006947-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00006947-3",
+   "status": "🟡 em apuração",
+   "data": "23/09/2025",
+   "texto": "Lar dos Idosos Lions Clube Brusque."
+  },
+  {
+   "i": 411,
+   "tipo": "mp",
+   "ref": "09.2025.00006955-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00006955-1",
+   "status": "🟡 em apuração",
+   "data": "23/09/2025",
+   "texto": "Casa de Assistência Dilony."
+  },
+  {
+   "i": 412,
+   "tipo": "mp",
+   "ref": "09.2025.00006956-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00006956-2",
+   "status": "🟡 em apuração",
+   "data": "23/09/2025",
+   "texto": "ILPI Sênior Brusque."
+  },
+  {
+   "i": 413,
+   "tipo": "mp",
+   "ref": "06.2025.00005277-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00005277-1",
+   "status": "🟡 em apuração",
+   "data": "11/12/2025",
+   "texto": "Arnoldo Nicoletti e Giovana Taina Amaral. Objetivo: apurar suposta obra municipal que teria redundado em infiltrações e rachaduras no terreno localizado na Rua das Primaveras, casa n. 15, Bairro Ponta Russa, em Brusque, ocasionando perigo."
+  },
+  {
+   "i": 414,
+   "tipo": "mp",
+   "ref": "06.2022.00002187-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00002187-7",
+   "status": "❔ status indef.",
+   "data": "08/01/2026",
+   "texto": "Osni de Souza Júnior e Giracor Têxtil Ltda. Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil."
+  },
+  {
+   "i": 415,
+   "tipo": "mp",
+   "ref": "06.2017.00001862-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2017.00001862-3",
+   "status": "❔ status indef.",
+   "data": "15/01/2026",
+   "texto": "João Batista Testoni e Três Morellis Empreendimentos Imobiliários Eireli. Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil."
+  },
+  {
+   "i": 416,
+   "tipo": "mp",
+   "ref": "06.2019.00002702-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00002702-0",
+   "status": "❔ status indef.",
+   "data": "15/01/2026",
+   "texto": "parte sigilosa, JVargas Administradora de Bens Ltda. e FUNDEMA. Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil."
+  },
+  {
+   "i": 417,
+   "tipo": "mp",
+   "ref": "06.2026.00000100-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2026.00000100-9",
+   "status": "🟡 em apuração",
+   "data": "19/01/2026",
+   "texto": "Francini Pavesi (Condomínio Jardins Rio Branco) e Absolut Construtora e Incorporadora Ltda."
+  },
+  {
+   "i": 418,
+   "tipo": "mp",
+   "ref": "06.2026.00000209-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2026.00000209-6",
+   "status": "🟡 em apuração",
+   "data": "27/01/2026",
+   "texto": "Bruno Corrêa e Condomínio Jardim das Hortênsias."
+  },
+  {
+   "i": 419,
+   "tipo": "mp",
+   "ref": "06.2026.00000212-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2026.00000212-0",
+   "status": "🟡 em apuração",
+   "data": "27/01/2026",
+   "texto": "Cecília Neta de Jesus e Fratelli Ogliari Tinturaria Ltda."
+  }
+ ]
+}

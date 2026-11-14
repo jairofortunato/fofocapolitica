@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Gera o HTML do dossiê AMREC (12 cidades) — modelo Transparência Radical.
+"""Gera o HTML do dossiê AMREC (12 cidades) — modelo Fofoca Política: Transparência Radical.
 Conteúdo dos casos = tradução curada (linguagem simples). Identidade e imagens
 das cidades preenchidas por IDENTIDADE/IMGS (vindas de pesquisa web)."""
 import html, os

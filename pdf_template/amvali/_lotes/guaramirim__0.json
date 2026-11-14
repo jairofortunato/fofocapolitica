@@ -1,0 +1,635 @@
+{
+ "cidade": "Guaramirim",
+ "casos": [
+  {
+   "i": 0,
+   "tipo": "mp",
+   "ref": "01.2023.00000175-2",
+   "header": "⭐ EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00000175-2",
+   "status": "🟡 em apuração",
+   "data": "12/01/2023",
+   "texto": "Município de Guaramirim e Marcelo Amadeu Deretti."
+  },
+  {
+   "i": 1,
+   "tipo": "mp",
+   "ref": "01.2023.00000087-5",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2023.00000087-5",
+   "status": "🟢 arquivado",
+   "data": "08/02/2023",
+   "texto": "Município de Guaramirim. Conclusão: apurar suposto ato de improbidade administrativa no Município de Guaramirim/SC, em razão de eventual lesão ao erário, diante da dispensa de licitação n. 233/2022 - PMG, que teve como objeto a instalação de gerador elétrico, em que pese a existência de contratação anterior para referida instalação. Fatos esclarecidos. Não constatada irregularidade. Arquivamento."
+  },
+  {
+   "i": 2,
+   "tipo": "mp",
+   "ref": "01.2023.00002262-5",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N.01.2023.00002262-5",
+   "status": "❔ status indef.",
+   "data": "31/10/2023",
+   "texto": "Município de Guaramirim."
+  },
+  {
+   "i": 3,
+   "tipo": "mp",
+   "ref": "06.2021.00002701-2",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00002701-2",
+   "status": "🟢 arquivado",
+   "data": "25/07/2022",
+   "texto": "Victor's Uniformes EIRELI-ME e Sinop Uniformes EIRELI-ME. Conclusão: apurar possível ato de improbidade administrativa decorrente de suposta fraude à Licitação n. 25/2018, no âmbito do Município de Guaramirim. Fatos esclarecidos e irregularidades não confirmadas. Ausência de prejuízos ao erário e ato de improbidade administrativa. Inviabilidade de continuidade das investigações. Arquivamento."
+  },
+  {
+   "i": 4,
+   "tipo": "mp",
+   "ref": "01.2023.00000087-5",
+   "header": "⭐ EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00000087-5",
+   "status": "🟡 em apuração",
+   "data": "12/01/2023",
+   "texto": "Município de Guaramirim."
+  },
+  {
+   "i": 5,
+   "tipo": "mp",
+   "ref": "01.2022.00006510-0",
+   "header": "⭐ EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2022.00006510-0",
+   "status": "🟡 em apuração",
+   "data": "15/03/2022",
+   "texto": "Município de Guaramirim."
+  },
+  {
+   "i": 6,
+   "tipo": "mp",
+   "ref": "01.2022.00017770-3",
+   "header": "⭐ EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N.01.2022.00017770-3",
+   "status": "🟡 em apuração",
+   "data": "02/06/2022",
+   "texto": "Município de Guaramirim e Rodrigo Rafael Meurer."
+  },
+  {
+   "i": 7,
+   "tipo": "mp",
+   "ref": "01.2022.00006510-0",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00006510-0",
+   "status": "🟢 arquivado",
+   "data": "10/06/2022",
+   "texto": "Carine Sczepaniak Alves da Silva, Município de Guaramirim e Odenir Ruediger. Conclusão: apurar possível ato de improbidade administrativa decorrente de eventual desvio de função da servidora Carine Sczepaniak Alves da Silva, que teria sido nomeada para o cargo de Assistente do PROCON, porém está lotada no setor de licitações da Prefeitura de Guaramirim. Arquivamento."
+  },
+  {
+   "i": 8,
+   "tipo": "mp",
+   "ref": "01.2022.00019895-3",
+   "header": "⭐ EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00019895-3",
+   "status": "🟡 em apuração",
+   "data": "23/06/2022",
+   "texto": "Município de Guaramirim, Flavia Vanessa Ribas da Silva, Jussara Teresinha Possamai, Mônica Darci Gieseler e Valquíria Fideles."
+  },
+  {
+   "i": 9,
+   "tipo": "mp",
+   "ref": "01.2022.00019895-3",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00019895-3",
+   "status": "🟢 arquivado",
+   "data": "30/08/2022",
+   "texto": "Município de Guaramirim e Peter da Silva. Conclusão: apurar suposto ato de improbidade administrativa no Município de Guaramirim em razão de eventual enriquecimento ilícito das servidoras municipais Flávia Vanessa Ribas da Silva, Jussara Teresinha Possamai, Mônica Darci Gieseler e Valquíria Fideles, mais precisamente em virtude pelo recebimento de verbas não compatíveis com os cargos públicos ocupados. Fatos não confirmados. Arquivamento."
+  },
+  {
+   "i": 10,
+   "tipo": "mp",
+   "ref": "01.2022.00038296-6",
+   "header": "⭐ EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00038296-6",
+   "status": "🟡 em apuração",
+   "data": "21/11/2022",
+   "texto": "Prefeito do Município de Guaramirim, Instituto Santé, Hospital Municipal de Guaramirim e Valmor Busnello."
+  },
+  {
+   "i": 11,
+   "tipo": "mp",
+   "ref": "06.2023.00004788-2",
+   "header": "⭐ EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00004788-2",
+   "status": "🟡 em apuração",
+   "data": "07/04/2025",
+   "texto": "Município de Guaramirim e Edith Linda Kinas Persuhn."
+  },
+  {
+   "i": 12,
+   "tipo": "mp",
+   "ref": "06.2021.00003745-4",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00003745-4",
+   "status": "🟢 arquivado",
+   "data": "20/03/2023",
+   "texto": "Município de Guaramirim. Conclusão: Inquérito Civil. Moralidade administrativa. Apurar possível ato de improbidade administrativa decorrente de suposta irregularidade no edital de Processo Seletivo n. 001/2021, do Município de Guaramirim, consistente na preferência de candidatos aprovados em processos seletivos anteriores. Sem necessidade de outras diligências. Inexistência, por ora, de medidas de cunho cível a serem tomadas no presente procedimento, pois alcançada a meta visada por ocasião da instauração da presente investigação. Arquivamento que se impõe."
+  },
+  {
+   "i": 13,
+   "tipo": "mp",
+   "ref": "06.2019.00004622-7",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00004622-7",
+   "status": "🟢 arquivado",
+   "data": "25/08/2022",
+   "texto": "Município de Guaramirim e Araújo Construções Ltda. Conclusão: apurar a suposta prática de ato de improbidade administrativa na rescisão do Contrato Administrativo n. 15/2015, firmado entre o Município de Guaramirim e Araújo Construções Ltda. para construção de ponte sobre o Rio Itapocu. Arquivamento."
+  },
+  {
+   "i": 14,
+   "tipo": "mp",
+   "ref": "06.2017.00004947-1",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2017.00004947-1",
+   "status": "⚫ prescrito",
+   "data": "26/08/2022",
+   "texto": "Município de Guaramirim. Conclusão: apurar a suposta prática de ato de improbidade administrativa no âmbito do Município de Guaramirim, consistente em inaugurações de obras públicas antes de suas conclusões. Prescrição. Ausência de dolo. Arquivamento."
+  },
+  {
+   "i": 15,
+   "tipo": "mp",
+   "ref": "01.2022.00031138-1",
+   "header": "⭐ EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00031138-1",
+   "status": "🟡 em apuração",
+   "data": "11/11/2022",
+   "texto": "Edina Catiane Carvalho, \"Noeli\" e \"Ingrit\"."
+  },
+  {
+   "i": 16,
+   "tipo": "mp",
+   "ref": "01.2023.00003273-4",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N.01.2023.00003273-4",
+   "status": "🟢 arquivado",
+   "data": "02/02/2023",
+   "texto": "Município de Guaramirim. Conclusão: apurar suposto ato de improbidade administrativa decorrente do possível repasse de valores não previstos em lei pelo Município de Guaramirim ao Município de São João do Itaperiú, em razão de convênio firmado objetivando a construção de uma ponte entre os municípios. Possível ilegalidade não confirmada. Arquivamento."
+  },
+  {
+   "i": 17,
+   "tipo": "mp",
+   "ref": "06.2023.00001686-7",
+   "header": "⭐ EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00001686-7",
+   "status": "🟡 em apuração",
+   "data": "12/05/2023",
+   "texto": "servidoras públicas Noeli Aparecida Bohoen e Ingrit Eli Rohweder."
+  },
+  {
+   "i": 18,
+   "tipo": "mp",
+   "ref": "06.2022.00004073-0",
+   "header": "⭐ EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004073-0",
+   "status": "🟡 em apuração",
+   "data": "07/10/2022",
+   "texto": "Município de Guaramirim."
+  },
+  {
+   "i": 19,
+   "tipo": "mp",
+   "ref": "01.2022.00042195-4",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00042195-4",
+   "status": "🟢 arquivado",
+   "data": "05/12/2022",
+   "texto": "Peter da Silva. Conclusão: apurar a possível prática de ato de improbidade administrativa no Município de Guaramirim, consistente em irregularidade no Pregão Presencial n. 128/2022, no qual foi efetivada a contratação da pessoa jurídica Bortoluzzi Oficina Ltda. Arquivamento."
+  },
+  {
+   "i": 20,
+   "tipo": "mp",
+   "ref": "01.2022.00039116-5",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00039116-5",
+   "status": "🟢 arquivado",
+   "data": "15/12/2022",
+   "texto": "André Renato Vieira, Instituto Santé e Município Guaramirim. Conclusão: apurar suposto ato de improbidade administrativa no Hospital Municipal de Guaramirim, em virtude de eventual tratamento parcial em favor do pai do Prefeito da cidade de Guaramirim em novembro de 2021, e de parentes de autoridades do Instituto Santé no interregno de fevereiro de 2018 e abril de 2022, em detrimento dos demais usuários do serviço público. Arquivamento."
+  },
+  {
+   "i": 21,
+   "tipo": "mp",
+   "ref": "01.2023.00001503-5",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2023.00001503-5",
+   "status": "🟢 arquivado",
+   "data": "03/02/2023",
+   "texto": "Peter Silva e Município de Guaramirim. Conclusão: ap¿urar suposto ato de improbidade administrativa no Município de Guaramirim/SC, em razão de eventual violação à autonomia administrativa do Hospital Municipal - autarquia da Administração Pública Indireta -, pela Administração Pública Direta, ao realizar a compra de um 'Transdutor Setorial Cardio para Ultrassom GE' e o pagamento de 'serviços de limpeza de fossa, filtros, caixa de gordura', ambos em favor do nosocômio. Fatos noticiados não configuram lesão ou ameaça aos interesses ou direitos tutelados pelo Ministério Público. Indeferimento da instauração de procedimento investigativo. Arquivamento."
+  },
+  {
+   "i": 22,
+   "tipo": "mp",
+   "ref": "06.2021.00004916-1",
+   "header": "⭐ EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2021.00004916-1",
+   "status": "🟡 em apuração",
+   "data": "07/02/2022",
+   "texto": "Valdir Zapellini."
+  },
+  {
+   "i": 23,
+   "tipo": "mp",
+   "ref": "01.2021.00021595-4",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2021.00021595-4",
+   "status": "❔ status indef.",
+   "data": "02/06/2022",
+   "texto": "Nylson Bylaardt. Conclusão: apurar a possível prática de ato de improbidade administrativa no Município de Guaramirim, notadamente em razão"
+  },
+  {
+   "i": 24,
+   "tipo": "mp",
+   "ref": "06.2020.00001049-4",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00001049-4",
+   "status": "🟢 arquivado",
+   "data": "04/08/2022",
+   "texto": "anônimo e Município de Guaramirim. Conclusão: apurar a possível prática de ato de improbidade administrativa decorrente de eventual prorrogação irregular de contrato temporário de Simone Regina de Freitas para o cargo de assistente social de Guaramirim. Prorrogações justificadas. Servidora exonerada. Ausência de ato de improbidade. Arquivamento."
+  },
+  {
+   "i": 25,
+   "tipo": "mp",
+   "ref": "01.2022.00039252-0",
+   "header": "⭐ EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00039252-0",
+   "status": "🟡 em apuração",
+   "data": "21/11/2022",
+   "texto": "Município de Guaramirim, Instituto Santé e Hospital Municipal de Guaramirim."
+  },
+  {
+   "i": 26,
+   "tipo": "mp",
+   "ref": "01.2023.00001409-1",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2023.00001409-1",
+   "status": "🟢 arquivado",
+   "data": "20/01/2023",
+   "texto": "Peter Silva e Município de Guaramirim. Conclusão: apurar suposto ato de improbidade administrativa no Município de Guaramirim/SC, em razão de eventual lesão ao erário, diante do pagamento pelo serviço de terraplanagem do CEI Joanir da Silva, por meio do Pregão Presencial n. 56/2022 - PMG, em que pese a existência de contratação anterior para referida terraplanagem. Fatos noticiados não configuram lesão ou ameaça aos interesses ou direitos tutelados pelo Ministério Público. Indeferimento da instauração de procedimento investigativo. Arquivamento."
+  },
+  {
+   "i": 27,
+   "tipo": "mp",
+   "ref": "01.2023.00001799-9",
+   "header": "⭐ EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00001799-9",
+   "status": "🟡 em apuração",
+   "data": "24/01/2023",
+   "texto": "Peter Silva e Município de Guaramirim."
+  },
+  {
+   "i": 28,
+   "tipo": "mp",
+   "ref": "01.2023.00012609-5",
+   "header": "⭐ EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00012609-5",
+   "status": "🟡 em apuração",
+   "data": "17/04/2023",
+   "texto": "Município de Guaramirim."
+  },
+  {
+   "i": 29,
+   "tipo": "mp",
+   "ref": "06.2023.00001322-6",
+   "header": "⭐ EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00001322-6",
+   "status": "🟡 em apuração",
+   "data": "17/04/2023",
+   "texto": "Município de Guaramirim/SC, Instituto Santé e Hospital Municipal de Guaramirim/SC."
+  },
+  {
+   "i": 30,
+   "tipo": "mp",
+   "ref": "01.2023.00017711-8",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2023.00017711-8",
+   "status": "🟢 arquivado",
+   "data": "11/05/2023",
+   "texto": "Peter Silva e Município de Guaramirim. Conclusão: apurar suposto ato de improbidade administrativa no Município de Guaramirim, em razão de eventual lesão ao erário, diante do pagamento de gratificação em valor superior ao estabelecido por Lei municipal para as servidoras Annie Paula Figueiredo e Paola Vieira Carriço Finatti. Fatos noticiados não configuram lesão ou ameaça aos interesses ou direitos tutelados pelo Ministério Público. Indeferimento da instauração de procedimento investigativo. Arquivamento."
+  },
+  {
+   "i": 31,
+   "tipo": "mp",
+   "ref": "01.2023.00017645-2",
+   "header": "⭐ EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00017645-2",
+   "status": "🟡 em apuração",
+   "data": "16/05/2023",
+   "texto": "Carlos Felipe Fischer e Município de Guaramirim."
+  },
+  {
+   "i": 32,
+   "tipo": "mp",
+   "ref": "01.2023.00017967-1",
+   "header": "⭐ EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00017967-1",
+   "status": "🟡 em apuração",
+   "data": "16/05/2023",
+   "texto": "Município de Guaramirim"
+  },
+  {
+   "i": 33,
+   "tipo": "mp",
+   "ref": "01.2023.00001799-9",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2023.00001799-9",
+   "status": "🟢 arquivado",
+   "data": "17/10/2023",
+   "texto": "Peter Silva e Município de Guaramirim. Conclusão: apurar suposto ato de improbidade administrativa no Município de Guaramirim, em razão de eventual pagamento indevido do auxílio moradia previsto na Lei n. 4467/2017. Arquivamento."
+  },
+  {
+   "i": 34,
+   "tipo": "mp",
+   "ref": "01.2022.00039272-0",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00039272-0",
+   "status": "🟢 arquivado",
+   "data": "19/01/2024",
+   "texto": "Município de Guaramirim e denunciante anônimo. Conclusão: trata-se de Notícia de Fato instaurada para apurar ato de improbidade administrativa no Hospital Municipal de Guaramirim pelos membros da comissão responsável pela fiscalização da execução do contrato de gestão do nosocômio, em razão de omissão na averiguação das obrigações contratuais, permitindo contratações sem qualquer formalidade legal. Ausência de elementos mínimos para investigação. Sem justa causa. Indeferimento."
+  },
+  {
+   "i": 35,
+   "tipo": "mp",
+   "ref": "06.2023.00003876-1",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DE INQUÉRITO CIVIL N. 06.2023.00003876-1",
+   "status": "🟢 arquivado",
+   "data": "03/12/2024",
+   "texto": "Município de Guaramirim. Conclusão: Inquérito Civil. Curadoria da moralidade administrativa. Noticiada ocorrência de possível ato de improbidade na utilização de recursos da Secretaria de Saúde para custear obras da Secretaria de Desenvolvimento Social e Habitação. Adoção de medidas pertinentes no âmbito administrativo. Ausência de desvio de finalidade e de ato ímprobo. Desnecessidade de adoção de outras diligências. Promoção de arquivamento."
+  },
+  {
+   "i": 36,
+   "tipo": "mp",
+   "ref": "06.2024.00000550-8",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DE INQUÉRITO CIVIL N. 06.2024.00000550-8",
+   "status": "🟢 arquivado",
+   "data": "03/12/2024",
+   "texto": "Município de Guaramirim. Conclusão: Inquérito Civil. Curadoria da moralidade administrativa. Noticiada ocorrência de possível ato de improbidade na utilização de recursos da Secretaria de Saúde para custear obras da Secretaria de Desenvolvimento Social e Habitação. Adoção de medidas pertinentes no âmbito administrativo. Ausência de desvio de finalidade e de ato improbo. Desnecessidade de adoção de outras diligências. Promoção de arquivamento."
+  },
+  {
+   "i": 37,
+   "tipo": "mp",
+   "ref": "06.2025.00001484-4",
+   "header": "⭐ EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00001484-4",
+   "status": "🟡 em apuração",
+   "data": "12/06/2025",
+   "texto": "anônimo, Odenir Deretti e Município de Masaranduba."
+  },
+  {
+   "i": 38,
+   "tipo": "mp",
+   "ref": "06.2017.00003266-9",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2017.00003266-9",
+   "status": "🟢 arquivado",
+   "data": "18/11/2025",
+   "texto": "Manoel Vieira Neto, Ricardo Luis Kuhn e Luis Cláudio Dalprá. Conclusão:Inquérito Civil. Moralidade administrativa. Apuração de supostos servidores \"fantasmas\" na Secretaria de Lazer, Esporte e Cultura do Município de Guaramirim. Prova da inexistência de atos de improbidade administrativa. Regularidade do cumprimento das jornadas. Arquivamento."
+  },
+  {
+   "i": 39,
+   "tipo": "mp",
+   "ref": "06.2014.00006675-8",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2014.00006675-8",
+   "status": "🔴 ACP ajuizada",
+   "data": "30/09/2022",
+   "texto": "Instituto do Meio Ambiente (IMA). Conclusão: não se observa qualquer ato de improbidade administrativa que justifique o prosseguimento deste inquérito civil, muito menos o ajuizamento de ação civil pública."
+  },
+  {
+   "i": 40,
+   "tipo": "mp",
+   "ref": "01.2022.00041376-5",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00041376-5",
+   "status": "🟢 arquivado",
+   "data": "05/12/2022",
+   "texto": "André Renato Vieira, Hospital Municipal de Guaramirim e Silvana Regina Bernardo. Conclusão: apurar suposto ato de improbidade administrativa no Hospital Municipal de Guaramirim, em razão do evento denominado \"Hotdog da Comissão HSA\", promovido pelos membros da \"Comissão de Humanização do Hospital Municipal\", nos dias 15/9/2022 e 16/9/2022, bem como pela ausência de apuração do ocorrido por Silvana Regina Bernardo, diretora do nosocômio. Fatos noticiados não configuram lesão ou ameaça aos interesses ou direitos tutelados pelo Ministério Público. Indeferimento da instauração de procedimento investigativo. Arquivamento."
+  },
+  {
+   "i": 41,
+   "tipo": "mp",
+   "ref": "06.2023.00001369-2",
+   "header": "⭐ EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00001369-2",
+   "status": "🟡 em apuração",
+   "data": "13/04/2023",
+   "texto": "Eliseu Guilherme Cofferi e Visauto Vistorias Ltda."
+  },
+  {
+   "i": 42,
+   "tipo": "mp",
+   "ref": "01.2021.00024291-8",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2021.00024291-8",
+   "status": "🟢 arquivado",
+   "data": "03/03/2022",
+   "texto": "Município de Guaramirim. Conclusão: apurar possível fraude no Processo Licitatório n. 74/2021, do Município de Guaramirim, em decorrência de supostas inconsistências dos documentos apresentados pela empresa Makles Construtora e Incorporadora EIRELI. Fatos esclarecidos e irregularidades não confirmadas. Inviabilidade de continuidade das investigações sobre fraude de licitação. Arquivamento. Remessa de cópia dos autos para outra Promotoria de Justiça."
+  },
+  {
+   "i": 43,
+   "tipo": "mp",
+   "ref": "06.2020.00005234-0",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00005234-0",
+   "status": "⚫ prescrito",
+   "data": "04/04/2022",
+   "texto": "Município de Guaramirim. Conclusão: apurar possíveis irregularidades na instituição de cotas de exames para os laboratórios clínicos credenciados pelo Município de Guaramirim no período de 2015 a 2016. Prescrição quanto às sanções acerca de possível violação aos princípios administrativos e enriquecimento ilícito. Ausência de elementos que demonstrem prejuízos ao erário e dolo. Inviabilidade de continuidade das investigações. Arquivamento."
+  },
+  {
+   "i": 44,
+   "tipo": "mp",
+   "ref": "06.2022.00004921-0",
+   "header": "⭐ EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004921-0",
+   "status": "🟡 em apuração",
+   "data": "01/02/2023",
+   "texto": "Câmara de Vereadores do Município de Guaramirim/SC."
+  },
+  {
+   "i": 45,
+   "tipo": "mp",
+   "ref": "06.2023.00003876-1",
+   "header": "⭐ EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00003876-1",
+   "status": "🟡 em apuração",
+   "data": "22/01/2024",
+   "texto": "Município de Guaramirim/SC."
+  },
+  {
+   "i": 46,
+   "tipo": "mp",
+   "ref": "01.2023.00016564-4",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO ELEITORAL N. 01.2023.00016564-4",
+   "status": "🟢 arquivado",
+   "data": "03/05/2023",
+   "texto": "Odenir Deretti. Conclusão: apurar suposta irregularidade decorrente da assunção ao cargo de Prefeito pelo Vice-prefeito de Massaranduba, Odenir Deretti, diante da prisão do Prefeito Armindo Sessar Tassi. Suposta situação irregular não confirmada. Arquivamento."
+  },
+  {
+   "i": 47,
+   "tipo": "mp",
+   "ref": "01.2025.00040444-5",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2025.00040444-5",
+   "status": "🟢 arquivado",
+   "data": "08/08/2025",
+   "texto": "Peter da Silva e Município de Guaramirim Conclusão: representação apresentada por cidadão relatando suposta irregularidade na cessão de espaço público municipal para exploração por terceiros. Após análise preliminar, verificou-se que a utilização do espaço público decorre de ato administrativo regularmente editado pelo Poder Público, consubstanciado em permissão de uso, instituto jurídico de natureza precária, unilateral e discricionária. Ausência de qualquer indício de ilegalidade, favorecimento indevido, desvio de finalidade ou prejuízo ao erário. Inexistência de justa causa ou elementos mínimos que justifiquem a instauração de procedimento investigatório. Arquivamento."
+  },
+  {
+   "i": 48,
+   "tipo": "mp",
+   "ref": "06.2021.00003755-4",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00003755-4",
+   "status": "🟢 arquivado",
+   "data": "12/04/2022",
+   "texto": "Controladoria-Geral do Estado de Santa Catarina e Município de Guaramirim. Conclusão: apurar possível prática de imoralidade qualificada que importou em dano ao erário do Município de Guaramirim, decorrente da ocorrência de sobrepreço na aquisição de materiais didáticos, pedagógicos e de ensino, por meio de recursos estaduais oriundos do convênio firmado entre a extinta Agência de Desenvolvimento Regional e mencionado ente federativo. Arquivamento."
+  },
+  {
+   "i": 49,
+   "tipo": "mp",
+   "ref": "01.2022.00017844-6",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00017844-6",
+   "status": "🟢 arquivado",
+   "data": "02/06/2022",
+   "texto": "Município de Guaramirim e Câmara de Vereadores de Guaramirim. Conclusão: apurar supostas contratações irregulares em cargos comissionados no Município de Guaramirim/SC e na Câmara de Vereadores de Guaramirim/SC. Indeferimento da instauração de procedimento investigativo. Ausência de elementos suficientes a justificar a instauração de investigação. Arquivamento."
+  },
+  {
+   "i": 50,
+   "tipo": "mp",
+   "ref": "01.2022.00017844-6",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00017844-6",
+   "status": "🟢 arquivado",
+   "data": "23/06/2022",
+   "texto": "Município de Guaramirim e Câmara de Vereadores de Guaramirim. Conclusão: apurar supostas contratações irregulares em cargos comissionados no Município de Guaramirim/SC e na Câmara de Vereadores de Guaramirim/SC. Indeferimento da instauração de procedimento investigativo. Fato objeto da Notícia de Fato n. 01.2022.00016727-1. Arquivamento."
+  },
+  {
+   "i": 51,
+   "tipo": "mp",
+   "ref": "01.2022.00021681-3",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00021681-3",
+   "status": "🟢 arquivado",
+   "data": "07/07/2022",
+   "texto": "Nilson Bylaardt, Município de Guaramirim e Câmara de Vereadores de Guaramirim. Conclusão: apurar supostas contratações irregulares em cargos comissionados no Município de Guaramirim/SC e na Câmara de Vereadores de Guaramirim/SC. Indeferimento da instauração de procedimento investigativo. Fatos objeto da Notícia de Fato n. 01.2022.00016727-1. Arquivamento."
+  },
+  {
+   "i": 52,
+   "tipo": "mp",
+   "ref": "06.2022.00002114-4",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00002114-4",
+   "status": "🟢 arquivado",
+   "data": "20/03/2023",
+   "texto": "Fernando Rodrigo da Rosa. Conclusão: curadoria da Moralidade Administrativa. Suposta fraude e direcionamento em certames. Procurador Municipal que é advogado da empresa que venceu o certame. Ausência de participação na seleção. Pareceres formais expedidos pelo Procurador Municipal. Divergência quanto a nomenclatura do cargo exercido. Evidências indicando que o cargo exercido é o de Procurador-Geral do Município. Necessidade de inclusão da proibição do art. 29 do Estatuto da OAB/SC. Impedimento de exercer advocacia privada. Procedimento já instaurado pela OAB/SC. Ausência de ato de improbidade. Conduta que se deve ser analisada sob o aspecto ético-disciplinar (Município ou OAB/SC). Ausência de justa causa. Arquivamento."
+  },
+  {
+   "i": 53,
+   "tipo": "mp",
+   "ref": "01.2023.00012079-0",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2023.00012079-0",
+   "status": "🟢 arquivado",
+   "data": "03/04/2023",
+   "texto": "Nylson Bylaardt. Conclusão: averiguar possível desrespeito ao Regimento Interno da Câmara de Vereadores do Município de Guaramirim, especialmente quanto à suspensão de sessão extraordinária. Arquivamento."
+  },
+  {
+   "i": 54,
+   "tipo": "mp",
+   "ref": "06.2025.00001444-4",
+   "header": "⭐ EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00001444-4",
+   "status": "🟡 em apuração",
+   "data": "17/07/2025",
+   "texto": "Érica Buse Jacobson ME, Geverson Carlos Dalpra e Câmara de Vereadores de Guaramirim."
+  },
+  {
+   "i": 55,
+   "tipo": "mp",
+   "ref": "06.2023.00002790-9",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00002790-9",
+   "status": "🟢 arquivado",
+   "data": "19/02/2024",
+   "texto": "Dimas Cattoni e Sérgio Lui Cattoni. Conclusão: Inquérito Civil. Meio Ambiente. Suposta ausência de rede de esgotamento sanitário individual na propriedade de Sérgio Luiz Cattoni, localizada na Rua Vereador Catalício Érico Flores, s/n, Bairro Barro Branco, em Guaramirim. Realizada vistoria no local, constatou-se que o imóvel possui rede de esgotamento sanitário individual, com a presença de fossa e filtro. Município de Guaramirim que não conta com sistema coletivo de tratamento de esgoto sanitário. Exigência apenas de sistema de fossa e filtro. Rejeitos provenientes do filtro permanecem dentro do imóvel do representado. Ausência de irregularidade. Inexistência de fundamento para a propositura de ação judicial. Arquivamento."
+  },
+  {
+   "i": 56,
+   "tipo": "mp",
+   "ref": "06.2022.00004910-0",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DE INQUÉRITO CIVIL N. 06.2022.00004910-0",
+   "status": "🟢 arquivado",
+   "data": "18/06/2024",
+   "texto": "Câmara de Vereadores de Schroeder. Conclusão: Inquérito Civil. Curadoria da moralidade administrativa. Noticiada necessidade de adequação do portal da transparência da Câmara de Vereadores de Schroeder à legislação aplicável, nos termos sugeridos pelo Centro de Apoio da Moralidade Administrativa, diante do Programa Transparência e Cidadania - PGA (2020-2023). Migração para o sistema \"Transparência Betha Cloud\". Adequações promovidas. Desnecessidade de adoção de outras medidas. Promoção de arquivamento."
+  },
+  {
+   "i": 57,
+   "tipo": "mp",
+   "ref": "01.2024.00029622-7",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00029622-7",
+   "status": "🟢 arquivado",
+   "data": "30/09/2025",
+   "texto": "Município de Guaramirim e Márcio José Jung. Conclusão: apuração de suposto desvio de função e pagamento indevido de diárias de servidor que, ao tempo da representação, ocupava o cargo de Secretário Adjunto da Saúde do Município de Guaramirim. Improcedência das alegações levantadas. Comprovação, pelo município de que as atividades extraordinárias se deram de forma pontual e visando a continuidade do serviço público em atendimento à população municipal. Desnecessidade de continuidade ou evolução do feito. Arquivamento."
+  },
+  {
+   "i": 58,
+   "tipo": "mp",
+   "ref": "01.2023.00001446-9",
+   "header": "⭐ EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N.01.2023.00001446-9",
+   "status": "🟡 em apuração",
+   "data": "20/01/2023",
+   "texto": "Município de Guaramirim, Osni Romeu Denker e Marko Alexandre Persuhn ME."
+  },
+  {
+   "i": 59,
+   "tipo": "mp",
+   "ref": "01.2023.00001446-9",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00001446-9",
+   "status": "🟢 arquivado",
+   "data": "19/12/2023",
+   "texto": "Peter da Silva e Município de Guaramirim. Conclusão: apurar suposto nepotismo na Prefeitura de Guaramirim, diante da contratação direta da empresa Marko Alexandre Persuhn ME, cujo responsável é cunhado do servidor Osni Romeu Denker, quem exerce o cargo comissionado de Diretor de Recursos Hídricos. Ausência de suporte e justa causa para investigação. Indeferimento."
+  },
+  {
+   "i": 60,
+   "tipo": "mp",
+   "ref": "06.2018.00005343-5",
+   "header": "⭐ EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2018.00005343-5",
+   "status": "🟠 TAC firmado",
+   "data": "24/03/2025",
+   "texto": "Câmara de Vereadores de Guaramirim. Conclusão: Inquérito Civil instaurado para apurar as possíveis irregularidades decorrentes da falta de acessibilidade no Poder Legislativo de Guaramirim. Celebrado Termo de Compromisso de Ajustamento de Condutas (TAC). Arquivamento."
+  },
+  {
+   "i": 61,
+   "tipo": "mp",
+   "ref": "06.2025.00004728-0",
+   "header": "⭐ EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00004728-0",
+   "status": "🟡 em apuração",
+   "data": "04/11/2025",
+   "texto": "Ministério Público do Estado de Santa Catarina e Osmar Prusse Júnior."
+  },
+  {
+   "i": 62,
+   "tipo": "mp",
+   "ref": "06.2021.00001588-2",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00001588-2",
+   "status": "❔ status indef.",
+   "data": "03/05/2022",
+   "texto": "Adilson Rech. Conclusão: as irregularidades ambientais foram devidamente sanadas, com atuação efetiva do órgão ambiental do Município de Guaramirim na fiscalização e proteção do meio ambiente, eis que adotou as medidas pertinentes."
+  },
+  {
+   "i": 63,
+   "tipo": "mp",
+   "ref": "06.2020.00004920-2",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00004920-2",
+   "status": "🟢 arquivado",
+   "data": "10/03/2023",
+   "texto": "anônimo e G.L.R. Conclusão: arquivamento parcial. Denúncia acerca de percebimento indevido de adicional de insalubridade. Irregularidade administrativa demonstrada no curso das investigações. Funcionário que não mais exercia as atividades insalubres, mas seguia recebendo o benefício em grau máximo. Comprovação de que, durante o procedimento, o Poder Público municipal corrigiu a irregularidade, suprimindo o adicional indevido. Inexistência de indícios de conduta dolosa a caracterizar ato de improbidadeadministrativa. Arquivamento parcial que se impõe à luz das alterações da Lei n. 14.230/2021. Acerca do necessário ressarcimento dos danos suportados pelo erário, mormente para obtenção dos documentos necessários para liquidação do prejuízo, as investigações seguirão seu curso."
+  },
+  {
+   "i": 64,
+   "tipo": "mp",
+   "ref": "09.2025.00002057-9",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N.09.2025.00002057-9",
+   "status": "🟡 em apuração",
+   "data": "31/03/2025",
+   "texto": "Câmara de Vereadores de Guaramirim."
+  },
+  {
+   "i": 65,
+   "tipo": "mp",
+   "ref": "01.2025.00004905-5",
+   "header": "• EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2025.00004905-5",
+   "status": "🟢 arquivado",
+   "data": "26/08/2025",
+   "texto": "Daltiéli Furtado Marinho e Município de Guaramirim. Conclusão: apuração de suposta preterição de candidatos aprovados em Concurso Público vigente para o cargo de Assistente Social, em razão da deflagração de processo seletivo para o mesmo cargo, realizado pelo Município De Guaramirim. Ilegalidade não verificada. Desnecessidade de continuidade ou evolução do feito. Arquivamento."
+  },
+  {
+   "i": 66,
+   "tipo": "mp",
+   "ref": "06.2024.00004908-4",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00004908-4",
+   "status": "🟢 arquivado",
+   "data": "08/09/2025",
+   "texto": "Eduardo Antunes Alberton e Município de Guaramirim. Conclusão: Inquérito Civil instaurado para apurar a suposta irregularidade na prestação do serviço público de pavimentação asfáltica pela Prefeitura Municipal de Guaramirim, que teria ocasionado colapso da tubulação de esgoto da Rua Belthides Paula Machado Ribeiro, localizada no Bairro Avaí. Situação esclarecida e superada. Obras de reparos realizadas. Desnecessidade de continuidade do procedimento. Arquivamento."
+  },
+  {
+   "i": 67,
+   "tipo": "mp",
+   "ref": "09.2023.00000173-0",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2023.00000173-0",
+   "status": "🟡 em apuração",
+   "data": "31/01/2023",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 68,
+   "tipo": "mp",
+   "ref": "01.2022.00043147-4",
+   "header": "• EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00043147-4",
+   "status": "❔ status indef.",
+   "data": "17/10/2023",
+   "texto": "Município de Massarandura."
+  },
+  {
+   "i": 69,
+   "tipo": "mp",
+   "ref": "01.2023.00042966-1",
+   "header": "• EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N.01.2023.00042966-1",
+   "status": "❔ status indef.",
+   "data": "13/11/2023",
+   "texto": "Município de Guaramirim."
+  }
+ ]
+}

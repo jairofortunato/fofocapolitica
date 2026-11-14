@@ -1,0 +1,632 @@
+[
+ {
+  "i": 350,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 351,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 352,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 353,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 354,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 355,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 356,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 0,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🔴 multa aplicada",
+  "severity": "media"
+ },
+ {
+  "i": 1,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 2,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE julga irregulares contas de Gaspar por promoção pessoal do prefeito e aplica multa",
+  "description": "O TCE julgou irregulares as contas da Tomada de Contas Especial sobre a campanha \"Avança Gaspar\", constatando que o prefeito Kleber Edson Wan-Dall utilizou publicidade institucional para promoção pessoal, em afronta ao princípio da impessoalidade. Foi aplicada multa de R$ 1.990,60 ao prefeito. O TCE também recomendou que o município se abstenha de novas campanhas com promoção pessoal.",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta"
+ },
+ {
+  "i": 3,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 4,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 5,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE nega recurso do prefeito de Gaspar contra condenação por promoção pessoal",
+  "description": "O TCE negou provimento ao Recurso de Reconsideração interposto pelo prefeito Kleber Edson Wan-Dall contra o Acórdão n. 134/2024, que o condenou por usar a campanha \"Avança Gaspar\" para promoção pessoal. A decisão foi mantida na íntegra pelo Tribunal Pleno.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 6,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE multa prefeito de Gaspar em R$ 4 mil por irregularidades em pregão de pavimentação",
+  "description": "O TCE julgou parcialmente procedente denúncia sobre irregularidades no Pregão Presencial n. 78/2018, para contratação de serviços de drenagem e pavimentação articulada em Gaspar, no valor estimado de R$ 13 milhões. O prefeito Kleber Edson Wan-Dall foi multado em R$ 2.000 por não formalizar instrumento contratual e em mais R$ 2.000 por não designar fiscal de contrato.",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta"
+ },
+ {
+  "i": 7,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 8,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE apura irregularidades em contratação de software de gestão em Gaspar",
+  "description": "O TCE considerou parcialmente procedente denúncia sobre irregularidades na execução do Contrato n. SAF-27/2014 e aditivos para aquisição de software de gestão municipal em Gaspar. Foi constatada contratação direta por inexigibilidade de licitação sem justificativa de preços. O TCE recomendou ao município que junte documentos de suporte em futuras contratações diretas.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 9,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 10,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 11,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 12,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 13,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE multa prefeito e secretário de Gaspar por descumprimento de determinação",
+  "description": "O TCE aplicou multa de R$ 2.866,71 ao prefeito Kleber Edson Wan-Dall e igual valor ao secretário de Obras Roni Jean Muller, por descumprirem injustificadamente determinação do Acórdão n. 495/2019 sobre o Pregão Presencial n. 058/2019, em Gaspar. O TCE alertou que a reincidência pode ensejar sanções mais graves.",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta"
+ },
+ {
+  "i": 14,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 15,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE susta pregão de Gaspar para contratação de caminhão com água por pagamento por hora",
+  "description": "O TCE determinou a sustação cautelar do Pregão Eletrônico n. 58/2025, da Prefeitura de Gaspar, para registro de preços de serviços de caminhão com água pressurizada e auto vácuo, no valor estimado de R$ 1,6 milhão. A irregularidade apontada foi a previsão de pagamento por hora trabalhada, em ofensa ao art. 37 da Constituição Federal e à Lei n. 14.133/2021.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 16,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE multa secretário de Gaspar por uso de máquina pública em propriedade particular",
+  "description": "O TCE julgou procedente representação do vereador Dionísio Luís Bertoldi sobre o uso de máquina e mão de obra públicos para limpeza em propriedade particular em Gaspar. O secretário de Agricultura André Pasqual Waltrick foi multado em R$ 1.700,00 por afronta aos princípios da legalidade, impessoalidade e moralidade administrativa.",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta"
+ },
+ {
+  "i": 17,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE apura excesso de servidores temporários na Educação de Gaspar",
+  "description": "O TCE instaurou procedimento para apurar possíveis irregularidades relacionadas ao excesso de servidores ACTs (admitidos em caráter temporário) na Secretaria Municipal de Educação de Gaspar, a partir de denúncia do Sindicato dos Trabalhadores no Serviço Público Municipal. O TCE determinou diligência ao município para apresentação de documentos e esclarecimentos.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 18,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva apuração sobre promoção pessoal em Gaspar sem analisar o mérito",
+  "description": "O TCE arquivou Procedimento Apuratório Preliminar sobre possíveis irregularidades na promoção pessoal com recursos públicos em Gaspar, por não atingir a pontuação mínima exigida na Portaria n. 156/2021 (critérios de seletividade). O pedido de medida cautelar foi indeferido. O caso não chegou a ser analisado no mérito.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 19,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE investiga irregularidades na limpeza pública de Gaspar a partir de CPI da Câmara",
+  "description": "O TCE conheceu representação formulada a partir de Comissão Parlamentar de Inquérito instituída pela Resolução n. 61/2025 da Câmara de Vereadores de Gaspar, acerca de possíveis irregularidades na prestação de serviços de limpeza, manutenção e conservação de vias públicas no município. Foram determinadas audiências e oitivas das empresas envolvidas.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 20,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE julga procedente representação sobre pregão de instrumentos musicais em Gaspar",
+  "description": "O TCE julgou procedente representação sobre irregularidades no Pregão Eletrônico n. 33/2021, da Prefeitura de Gaspar, para aquisição de instrumentos musicais no valor de R$ 359.559,49. O TCE determinou que o município se abstenha de prorrogar o contrato e recomendou que identifique soluções de mercado antes de especificar produtos em futuros certames.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 21,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 parecer pela aprovação",
+  "severity": "media"
+ },
+ {
+  "i": 22,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE susta concorrência de Gaspar para projetos de engenharia no valor de R$ 6 milhões",
+  "description": "O TCE determinou a sustação cautelar da Concorrência Eletrônica n. 14/2026, da Prefeitura de Gaspar, para contratação de projetos de engenharia no valor estimado de R$ 5.979.422,30. A irregularidade apontada foi a adoção do Sistema de Registro de Preços para contratar projetos complexos de engenharia, vedado pela Lei n. 14.133/2021.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 23,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE apura descumprimento de metas de saneamento básico em Gaspar",
+  "description": "O TCE considerou parcialmente procedente representação sobre descumprimento de metas do Plano Municipal de Saneamento Básico de Gaspar. O tribunal recomendou que o município e o SAMAE adotem providências para solucionar problemas na concorrência de obras de esgoto, substituam tratamento individual por coletivo, ampliem coleta e revisem o plano de saneamento.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 24,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta irregularidades em pregão de limpeza do SAMAE de Gaspar",
+  "description": "O TCE julgou procedente representação sobre irregularidades no Pregão Presencial n. 075/2021, do SAMAE de Gaspar, para contratação de serviços de limpeza e manutenção. O tribunal recomendou que o SAMAE não exija responsáveis técnicos para áreas que vão além da atividade básica ou serviço preponderante da licitação em futuros certames.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 25,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE susta pregão de Gaspar por ausência de definição do objeto e orçamento inadequado",
+  "description": "O TCE determinou a sustação cautelar do Pregão Eletrônico n. 08/2023, da Prefeitura de Gaspar, para registro de preços de contratação de serviços. As irregularidades apontadas foram ausência de definição precisa do objeto e orçamento inadequado, em afronta à Lei de Licitações. Os secretários municipais envolvidos foram notificados para apresentar defesa.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 26,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 parecer pela aprovação",
+  "severity": "media"
+ },
+ {
+  "i": 27,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE mantém sustação parcial de pregão de Gaspar por exigência restritiva de marca",
+  "description": "O TCE revogou parcialmente a cautelar que suspendeu o Pregão Eletrônico n. 39/2023 da Prefeitura de Gaspar, mantendo a suspensão apenas para itens que exigiam que o fabricante pertencesse ao grupo \"Promoters\" do fórum UEFI.org. O município anulou parcialmente o pregão para excluir essa cláusula restritiva, conforme determinado pelo tribunal.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 28,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva recurso sobre irregularidades em pregão de Gaspar após cumprimento de determinação",
+  "description": "O TCE determinou o arquivamento de processo após verificar que a determinação contida na Decisão n. 1031/2024 foi cumprida. O caso trata de irregularidades relacionadas a recurso interposto em face do Acórdão n. 344/2024, exarado no processo REP-19/00544501, sobre o Pregão Presencial n. 058/2019 de Gaspar.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 29,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE apura irregularidades em obras de drenagem e esgoto de Gaspar e determina correções",
+  "description": "O TCE considerou parcialmente procedente representação sobre irregularidades nas obras de pavimentação, drenagem e rede de esgoto da Rua Barão do Rio Branco em Gaspar, executadas pela Progresso Ambiental Eirelli. O tribunal determinou que o município comprove a correção dos problemas de drenagem e recomendou verificar a viabilidade de mudança de postes de energia.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 30,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 31,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta restrições irregulares em pregão do SAMU de Gaspar e veda prorrogação de contrato",
+  "description": "O TCE julgou parcialmente procedente representação sobre cláusulas restritivas no Pregão Presencial n. 22/2021, da Prefeitura de Gaspar, para contratação de profissionais e veículos para o Serviço de Atendimento Móvel à Urgência (SAMU). O TCE determinou que o município não prorrogue o contrato decorrente e não repita as cláusulas restritivas em futuras licitações.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 32,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta irregularidades em pregão de transporte coletivo de Gaspar",
+  "description": "O TCE analisou irregularidades no Pregão Presencial n. 050/2021 da Prefeitura de Gaspar para contratação de empresa de transporte coletivo urbano. O tribunal determinou que o município se abstenha de prorrogar o contrato com a Expresso Presidente Getúlio EIRELLI, considerando indícios de atuação concatenada de licitantes e inconsistências no certame.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 33,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE mantém multa a gestores de Gaspar por irregularidades em tomada de preços",
+  "description": "O TCE deu provimento parcial a recurso de reexame contra o Acórdão n. 563/2019 sobre irregularidades na Tomada de Preços n. 002/2018 de Gaspar. O tribunal cancelou dois itens de irregularidade mas manteve o item 1.3 e a respectiva multa aplicada a cada um dos recorrentes: José Hilário Melato, Kleber Edson Wan-Dall, Carlos Roberto Pereira e José Carlos de Carvalho Júnior.",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta"
+ },
+ {
+  "i": 34,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta irregularidades em concorrência de transporte público de Gaspar",
+  "description": "O TCE considerou parcialmente procedente representação contra irregularidades no edital da Concorrência n. 03/2023, para concessão do serviço de transporte público coletivo de Gaspar. Foram identificadas exigência não justificada de 3 portas nos veículos, prazo exíguo para início dos serviços e ausência de dados completos para elaboração de propostas.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 35,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 36,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva apuração sobre promoção pessoal em Gaspar sem analisar mérito",
+  "description": "O TCE determinou o arquivamento de Procedimento Apuratório Preliminar sobre possíveis irregularidades de promoção pessoal com recursos públicos em Gaspar, por não alcançar a pontuação mínima exigida nos critérios de seletividade da Portaria n. 156/2021. O caso não foi analisado no mérito.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 37,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE julga improcedente representação sobre desvio de função em Gaspar",
+  "description": "O TCE julgou improcedente representação formulada por servidor municipal sobre suposto desvio de função na atuação de servidora comissionada em Gaspar. O caso foi arquivado por não restar configurada irregularidade.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 38,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🔴 multa aplicada",
+  "severity": "media"
+ },
+ {
+  "i": 39,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE condena ex-gestores de Gaspar a pagar R$ 71 mil por irregularidades em obra de CDI",
+  "description": "O TCE julgou irregulares com imputação de débito as contas de Tomada de Contas Especial sobre irregularidades na contratação e execução de obras de melhorias e reforço estrutural do Centro de Desenvolvimento Infantil Dorvalina Fachini em Gaspar, executadas pelos Contratos ns. SAF 27 e 93/2011 e 39/2013 com a Soberana Serviços e Construções Ltda., no valor de R$ 2.441.688,79. O engenheiro fiscal Edmundo de Jesus Araújo Júnior e a secretária de Planejamento Patrícia Scheidt Marques foram condenados solidariamente ao pagamento de R$ 71.866,50.",
+  "status": "⬛ julgado irregular",
+  "severity": "alta"
+ },
+ {
+  "i": 40,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta irregularidades em tomada de preços de Gaspar e determina correção",
+  "description": "O TCE analisou Procedimento Apuratório Preliminar sobre a Tomada de Preços n. 09/2023 de Gaspar para reforma de cobertura. Como a licitação foi revogada, o TCE determinou que o município desconstitua o ato de revogação convertendo-o em anulação, tendo em vista a ilegalidade constatada, sob pena de multa.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 41,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta irregularidades em licitação de salas modulares de Gaspar e faz recomendações",
+  "description": "O TCE analisou Concorrência Eletrônica n. 26/2024 da Prefeitura de Gaspar para construção de salas de aulas e banheiros modulares, mas considerou prejudicada a análise de mérito pela revogação do certame. O TCE recomendou que o município ajuste a metodologia conforme a Nota Técnica n. TC-11/2024 e adote Estudo Técnico Preliminar como artefato de planejamento.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 42,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 43,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE investiga irregularidades em obra do Anel Viário de Gaspar orçada em R$ 8,9 milhões",
+  "description": "O TCE instaurou representação para apurar possíveis irregularidades na execução do Contrato SAF n. 108/2019, decorrente da Concorrência Pública n. 01/2019, para implantação e pavimentação do trecho 2 do Anel Viário de Gaspar, no valor de R$ 8.894.811,62. O TCE determinou diligência ao município para apresentação de documentos e esclarecimentos sobre as alterações de projeto e medições.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "alta"
+ },
+ {
+  "i": 44,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE não conhece representação sobre pregão do SAMU em Gaspar",
+  "description": "O TCE não conheceu representação sobre supostas irregularidades no Pregão Presencial n. 22/2021 e contrato decorrente do SAMU em Gaspar, por a matéria não estar acompanhada de indícios de prática de irregularidade. O caso foi arquivado.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 45,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE não conhece representação sobre pregão de relógio ponto em Gaspar",
+  "description": "O TCE não conheceu representação sobre supostas irregularidades no Pregão Presencial n. 85/2021 para locação de equipamento de relógio ponto em Gaspar, por não atender aos requisitos de seletividade. O caso foi arquivado.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 46,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE concede cautelar e converte apuração em representação sobre pregão de Gaspar",
+  "description": "O TCE converteu Procedimento Apuratório Preliminar em Representação e concedeu medida cautelar para sustar o Pregão Eletrônico n. 39/2023 da Prefeitura de Gaspar, por exigência de que o fabricante dos equipamentos fosse membro do grupo \"Promoters\" do fórum UEFI.org, caracterizando restrição à competitividade. O secretário municipal foi notificado para defesa.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 47,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 48,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta sobrepreço de R$ 842 mil em pregão de pavimentação de Gaspar e susta licitação",
+  "description": "O TCE determinou a sustação cautelar do Pregão Eletrônico n. 104/2023 da Prefeitura de Gaspar para serviços de pavimentação intertravada, no valor estimado de R$ 4.853.630,00. Foram identificados orçamento inadequado com possível sobrepreço de R$ 842.280,00, projeto insuficiente e ausência de ART. O secretário de Obras foi notificado para defesa.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "alta"
+ },
+ {
+  "i": 49,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta restrição em pregão de vale alimentação de Gaspar avaliado em R$ 14 milhões",
+  "description": "O TCE conheceu representação contra o Pregão Eletrônico n. 46/2023 da Prefeitura de Gaspar para contratação de serviços de vale alimentação e refeição no valor de R$ 14.225.280,00. A opção pelo arranjo aberto foi considerada restritiva à participação. O TCE determinou audiência do secretário municipal para justificativas.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 50,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 parecer pela aprovação",
+  "severity": "media"
+ },
+ {
+  "i": 51,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 parecer pela aprovação",
+  "severity": "media"
+ },
+ {
+  "i": 52,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE considera regular contratação temporária de servidores em Gaspar",
+  "description": "O TCE considerou regular a contratação temporária de servidores relacionados ao programa \"Avança Gaspar\" (Lei Municipal n. 3.839/2017), após inspeção. Não ficou comprovada ofensa ao art. 37, II e IX, da Constituição Federal. O caso foi arquivado.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 53,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE não conhece representação sobre pregão de horas-máquina de Gaspar",
+  "description": "O TCE não conheceu representação sobre supostas irregularidades no Pregão Eletrônico n. 71/2025 de Gaspar para registro de preços de horas-máquina com operador, por não atender aos requisitos legais de admissibilidade. O caso foi arquivado.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 54,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE apura acumulação de cargo público com atividade empresarial por secretária de Educação de Gaspar",
+  "description": "O TCE instaurou procedimento para apurar possíveis irregularidades relacionadas à acumulação de cargo público com atividade empresarial pela Secretária Municipal de Educação de Gaspar, Andréia Symone Zimmermann Nagel. O TCE determinou diligência para que a secretária preste esclarecimentos sobre os fatos apontados na denúncia.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 55,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta irregularidades em pregão de transporte coletivo de Gaspar e veda prorrogação de contrato",
+  "description": "O TCE, em recurso, manteve a determinação para que a Prefeitura de Gaspar se abstenha de prorrogar o Contrato n. 72/2021 com a Expresso Presidente Getúlio EIRELLI, por indícios de atuação concatenada de licitantes no Pregão Presencial n. 050/2021. O tribunal recomendou a realização de estudos para concessão do serviço de transporte coletivo.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 56,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE não conhece denúncia sobre publicidade indevida em Gaspar",
+  "description": "O TCE não conheceu denúncia sobre supostas irregularidades referentes a publicidade indevida em Gaspar, por não atingir os critérios de seletividade. O caso foi arquivado.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 57,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE não conhece representação sobre concorrência para construção de CDI em Gaspar",
+  "description": "O TCE não conheceu representação sobre supostas irregularidades na Concorrência n. 04/2021 para construção do CDI Central em Gaspar, por não atender aos requisitos de seletividade. O caso foi arquivado.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 58,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva processo sobre tomada de preços de Gaspar após cumprimento de determinação",
+  "description": "O TCE considerou atendida a determinação contida no Acórdão n. 563/2019 sobre irregularidades na Tomada de Preços n. 002/2018 de Gaspar, e determinou o arquivamento do processo de acompanhamento.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 59,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta irregularidades em licitação de salas modulares em Gaspar",
+  "description": "O TCE apontou irregularidades na Concorrência n. 16/2023 da Prefeitura de Gaspar para construção de salas de aula em sistema modular pré-fabricado, concluindo que o projeto básico não atende aos requisitos mínimos previstos no art. 6º, inciso XXV, da Lei n. 14.133/2021, em desacordo com a Nota Técnica n. TC-11/2024 do próprio TCE.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 60,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE não conhece representação sobre pregão de Gaspar",
+  "description": "O TCE não conheceu representação sobre supostas irregularidades no Pregão Presencial n. 124/2022 de Gaspar, por não atender aos requisitos de seletividade. O caso foi arquivado.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 61,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE não conhece representação sobre pregão de Gaspar",
+  "description": "O TCE não conheceu representação sobre supostas irregularidades no Pregão Presencial n. 99/2022 de Gaspar, por não atender aos requisitos de seletividade. O caso foi arquivado.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 62,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva auditoria sobre atos de pessoal de Gaspar e programa nova fiscalização",
+  "description": "O TCE determinou o arquivamento de auditoria sobre atos de pessoal de Gaspar (período 2012-2013), por cumprimento do objetivo. O tribunal também determinou que a Diretoria-Geral de Controle Externo inclua em sua programação nova auditoria para verificar a situação atual da legalidade dos atos de pessoal do município.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ }
+]

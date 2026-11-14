@@ -257,6 +257,7 @@ def build_cover_html(reg, city):
                                         ("bras", imgs.get("brasao"))) if src)
     out = (tpl.replace("{{CIDADE}}", esc(city))
               .replace("{{NA_REGIAO}}", f"na região do {reg.nome}" if reg.nome.startswith("Extremo")
+                       else f"no {reg.nome}" if reg.nome == "Alto Vale do Itajaí"
                        else f"na {reg.nome}")
               .replace("{{SIMBOLOS}}", simbolos)
               .replace("{{REGIAO_LABEL}}", esc(reg.label))
@@ -310,7 +311,7 @@ def build_city_html(reg, city, so_desfecho=False, ranked=False, limite=None,
         <div class="ci"><span class="cl">População</span><b>{fmt_pop(fin.get("pop", 0))}</b><span class="cu">Censo 2022</span></div>
         <div class="ci"><span class="cl">Arrecadou 2025</span><b>{fmt_brl(fin.get("rec", 0))}</b><span class="cu">receita realizada</span></div>
         <div class="ci"><span class="cl">Gastou 2025</span><b>{fmt_brl(fin.get("desp", 0))}</b><span class="cu">despesa empenhada</span></div>
-      </div>''' if fin else ""
+      </div>''' if fin and all(fin.get(k) is not None for k in ("pop", "rec", "desp")) else ""
 
     if ranked:
         # a linha de contagem vira o aviso de ordenação. É o único lugar em que

@@ -1,0 +1,60 @@
+[0m
+> build · gpt-5.4-mini
+[0m
+Vou ler o critério editorial e os três lotes na ordem, julgar caso a caso pela fonte e gravar cada JSON curado imediatamente após concluir o lote.
+[0m→ [0mRead pdf_template/CURADORIA.md
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__13.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__11.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__12.json
+Já li o critério. Agora vou separar os casos que entram de fato no dossiê, cortar instaurações vazias e duplicatas, e só então escrever cada lote curado.
+[0m
+[0m# [0mTodos
+[•] Curar e gravar `joinville__11.json`
+[ ] Curar e gravar `joinville__12.json`
+[ ] Curar e gravar `joinville__13.json`
+[ ] Verificar totais e resumir por lote
+[0m
+[0m✱ [0mGlob "pdf_template/amunesc/_lotes_curados/*.json"[90m in . · 45 matches[0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/joinville__5.json
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/joinville__0.json
+Vou gravar o primeiro lote agora, já com os cortes de instaurações vazias e as duplicatas mantidas só quando há fase conclusiva/substância.
+[0m% [0mPatch 1 file
+Agora vou gravar o segundo lote. Aqui a maior parte é ruído processual; estou mantendo só as conclusões com fato material ou efeito editorial.
+[0m% [0mPatch 1 file
+Fechando o terceiro lote. Aqui há alguns encerramentos por recomendação cumprida e vários casos de proteção animal com desfecho claro.
+[0m% [0mPatch 1 file
+Vou validar agora que os três JSONs estão íntegros e contar `keep:true` e `severity:"alta"` em cada lote antes de te devolver o resumo.
+[0m
+[0m$ [0mjq 'length as $n | {cases:$n, keep_true: map(select(.keep==true))|length, severity_alta: map(select(.severity=="alta"))|length}' "pdf_template/amunesc/_lotes_curados/joinville__13.json"
+{
+  "cases": 70,
+  "keep_true": 14,
+  "severity_alta": 0
+}
+[0m
+[0m$ [0mjq 'length as $n | {cases:$n, keep_true: map(select(.keep==true))|length, severity_alta: map(select(.severity=="alta"))|length}' "pdf_template/amunesc/_lotes_curados/joinville__12.json"
+{
+  "cases": 70,
+  "keep_true": 14,
+  "severity_alta": 0
+}
+[0m
+[0m$ [0mjq 'length as $n | {cases:$n, keep_true: map(select(.keep==true))|length, severity_alta: map(select(.severity=="alta"))|length}' "pdf_template/amunesc/_lotes_curados/joinville__11.json"
+{
+  "cases": 70,
+  "keep_true": 39,
+  "severity_alta": 0
+}
+[0m
+[0m# [0mTodos
+[✓] Curar e gravar `joinville__11.json`
+[✓] Curar e gravar `joinville__12.json`
+[✓] Curar e gravar `joinville__13.json`
+[✓] Verificar totais e resumir por lote
+[0m
+Gravei os três lotes curados em `pdf_template/amunesc/_lotes_curados/`.
+
+Totais:
+- `joinville__11.json`: 70 casos, 39 `keep:true`, 0 `severity:"alta"`
+- `joinville__12.json`: 70 casos, 14 `keep:true`, 0 `severity:"alta"`
+- `joinville__13.json`: 70 casos, 14 `keep:true`, 0 `severity:"alta"`

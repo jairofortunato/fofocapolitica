@@ -25,7 +25,11 @@ html,body{background:var(--paper);color:var(--ink);font-family:'Archivo',sans-se
 .cover-photo{position:absolute;right:-8mm;bottom:0;height:190mm;z-index:1;filter:drop-shadow(0 0 30px rgba(0,0,0,.6))}
 .cover-flags{display:flex;flex-wrap:wrap;gap:7px;margin-top:22px;max-width:120mm}
 .cover-flags img{height:9mm;width:auto;border:1px solid rgba(255,255,255,.25);border-radius:2px;background:#fff}
-.cover-region{margin-top:22px;max-width:118mm}
+.cover-flags.solo{gap:14px;align-items:center}
+.cover-flags.solo img{height:26mm;border-radius:4px}
+/* 105mm e não 118mm: a foto da capa entra pela direita e o texto de nome de
+   cidade longo (ex. "Presidente Castello Branco") encostava nela. */
+.cover-region{margin-top:22px;max-width:105mm}
 .cover-region .rlabel{font-weight:800;text-transform:uppercase;letter-spacing:2px;font-size:8.5pt;color:var(--gold);margin-bottom:8px;display:flex;align-items:center;gap:8px}
 .cover-region .rlabel::before{content:"";width:26px;height:3px;background:var(--gold);display:inline-block}
 .cover-region .rcities{font-weight:700;font-size:11pt;line-height:1.7;color:#eaeaea}
@@ -37,12 +41,24 @@ html,body{background:var(--paper);color:var(--ink);font-family:'Archivo',sans-se
 .cta p{font-size:12.5pt;color:#dcdcdc;max-width:120mm;line-height:1.55;margin-top:16px}
 .cta .box{margin-top:22px;background:var(--gold);color:#0a0a0a;border-radius:10px;padding:6mm 7mm;max-width:120mm}
 .cta .box .big{font-family:'Anton';font-size:17pt;text-transform:uppercase;margin-bottom:4px}
+.cta .box-alt{margin-top:10px;background:transparent;color:#fff;border:1.5px solid var(--gold)}
+.cta .box-alt .big{color:var(--gold)}
+.cta .box-alt div:not(.big){color:#dcdcdc}
 .wa-btn{display:inline-flex;align-items:center;gap:10px;margin-top:14px;background:#0a0a0a;color:#fff;text-decoration:none;font-weight:800;font-size:11pt;padding:12px 18px;border-radius:8px}
 .wa-btn .wa-ic{background:#25D366;color:#0a0a0a;width:22px;height:22px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:12pt}
-.cta-foot{margin-top:auto;display:flex;justify-content:space-between;align-items:flex-end;border-top:1px solid rgba(255,255,255,.18);padding-top:12px}
+.wa-btn-alt{background:var(--gold);color:#0a0a0a}
+/* o rodapé precisa de fundo próprio: a foto encosta no pé da página e o
+   disclaimer cinza ficava ilegível por cima do paletó. O gradiente sangra até a
+   borda (margens negativas compensando o padding de 15/16mm do .pad). */
+.cta-foot{margin-top:auto;display:flex;justify-content:space-between;align-items:flex-end;border-top:1px solid rgba(255,255,255,.18);padding:12px 15mm 16mm 15mm;margin:0 -15mm -16mm -15mm;
+  background:linear-gradient(to top,#0a0a0a 70%,rgba(10,10,10,.92) 100%)}
 .cta-foot img{height:16mm}
 .cta-foot .disc{font-size:7.5pt;color:#8f8f8f;max-width:96mm;line-height:1.5;position:relative;z-index:3}
-.cta-photo{position:absolute;right:-6mm;bottom:0;height:150mm;z-index:1}
+.cta-foot .disc .ig-link{color:var(--gold);text-decoration:none;font-weight:700}
+/* foto2.png é retrato de busto (corte na cintura), não corpo inteiro como a
+   foto.png antiga — por isso altura menor e encostada mais à direita, pra não
+   invadir a coluna dos boxes de CTA. */
+.cta-photo{position:absolute;right:-22mm;bottom:0;height:155mm;z-index:1}
 
 .cityblock{page-break-before:always}
 .cityhead{display:flex;align-items:center;gap:14px;border-bottom:4px solid var(--city);padding-bottom:8px;margin-bottom:5mm}
@@ -80,4 +96,9 @@ html,body{background:var(--paper);color:var(--ink);font-family:'Archivo',sans-se
 .src.tce{background:#eee7fb;color:#5b3b9c}
 .case h3{font-family:'Archivo';font-weight:800;font-size:10.5pt;line-height:1.2;margin-bottom:2px}
 .ln{font-size:9pt;line-height:1.35;color:#333}
-.ref{margin-top:2px;font-size:7pt;color:#aaa;letter-spacing:.3px}
+.ref{margin-top:3px;font-size:7pt;color:#aaa;letter-spacing:.3px;line-height:1.4}
+.ref a{color:#888;text-decoration:underline}
+
+.case.sev-alta{background:#fdf0ef;border-radius:5px;padding:2.5mm 3mm;margin:0 -3mm 3.5mm -3mm}
+.case.sev-alta .rail::after{background:var(--city)}
+.sev-tag{font-size:6.5pt;font-weight:800;letter-spacing:.8px;color:var(--city)}

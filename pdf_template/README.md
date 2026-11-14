@@ -1,4 +1,4 @@
-# Modelo "Transparência Radical" — como gerar o PDF
+# Modelo "Fofoca Política: Transparência Radical" — como gerar o PDF
 
 Estilo APROVADO em 08/07/2026. Não mudar o visual sem combinar.
 

@@ -1,0 +1,632 @@
+[
+  {
+    "i": 2450,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 2451,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 2452,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso sobre exercício irregular de educação física",
+    "description": "A notícia tratava de exercício irregular da profissão de educador físico. Houve termo circunstanciado e o MP arquivou a parte cível por falta de dano coletivo concreto atual.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 2453,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 2454,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 2455,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC com academia por oferta irregular de serviços",
+    "description": "A investigação apurou risco à saúde do consumidor por serviços de educação física prestados por pessoas não habilitadas. O caso terminou com TAC, multa compensatória e arquivamento.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 2456,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 2457,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso sobre pitbulls no CBEA de Joinville",
+    "description": "A apuração tratou da omissão do CBEA no acolhimento de pitbulls acionados pela Polícia Militar. O órgão adotou providências e os animais passaram a ser acompanhados, com arquivamento.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 2458,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 2459,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso de acessibilidade e Libras na educação",
+    "description": "A notícia tratava da obrigação de intérprete de Libras em ambiente educacional. O MP concluiu que a exigência se limita à educação básica e superior regulares e arquivou.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 2460,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 2461,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva pedido de segundo professor para aluno com autismo",
+    "description": "A apuração tratou de concessão de segundo professor para aluno com autismo. A Promotoria concluiu pela ausência de interesse de agir e arquivou.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 2462,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva novo pedido de segundo professor para aluno com autismo",
+    "description": "O caso repetia a discussão sobre segundo professor para aluno com autismo. O parecer técnico e a ausência de interesse de agir levaram ao arquivamento.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 2463,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso de falta de professores em escola de Joinville",
+    "description": "A notícia tratava de ausência de professor de Educação Física e Ciências em escola municipal. A situação foi resolvida administrativamente e o procedimento perdeu objeto.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 2464,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 2465,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 2466,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 2467,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 2468,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 2469,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 2470,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva demora em cirurgia no Hospital São José",
+    "description": "A apuração sobre demora na fila de cirurgia no Hospital Municipal São José concluiu que não houve demora injustificada. O MP arquivou o inquérito.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 2471,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso de sanitárias em bar de Joinville",
+    "description": "O caso tratava de suposto desrespeito às normas sanitárias por um bar. A atividade foi regularizada e o MP não viu necessidade de medidas judiciais ou extrajudiciais.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 2472,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso de água de piscinas regularizada",
+    "description": "A notícia tratava de desrespeito a normas sanitárias sobre água usada em piscinas e para consumo. As atividades foram regularizadas e o caso arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 2473,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso sobre canina com direitos resguardados",
+    "description": "A conclusão informou que o animal tinha seus direitos resguardados e que não havia mais medidas administrativas a adotar. O caso foi encerrado sem prosseguimento.",
+    "status": "❔ status indef.",
+    "severity": "media"
+  },
+  {
+    "i": 2474,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 2475,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva inquérito após TAC com agn serviços",
+    "description": "A apuração terminou com celebração de termo de ajustamento de conduta, e o procedimento foi arquivado para acompanhamento. O ajuste resolveu a controvérsia.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 2476,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 2477,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso sobre reserva legal em imóvel",
+    "description": "A notícia tratou da não obrigatoriedade de averbação de reserva legal no imóvel analisado. Sem outra medida a adotar, o MP arquivou.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 2478,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso sobre direitos de pessoas em situação de rua",
+    "description": "A Promotoria registrou que já havia adotado as medidas cabíveis sobre os direitos das pessoas em situação de rua. O caso foi arquivado por exaurimento da atuação ministerial.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 2479,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso sobre especialistas do Hospital São José",
+    "description": "A apuração tratava da quantidade de médicos hepatologistas para atendimento de pacientes. O texto indica arquivamento após diligências, sem demora injustificada.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 2480,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva fila de cirurgia oncológica no Hospital Hans Dieter Schmidt",
+    "description": "A investigação apurou fila de espera para nefrectomia parcial e falta de materiais. As diligências afastaram a inércia do poder público e o caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 2481,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva denúncia sobre falsa vaga de emprego",
+    "description": "A notícia apontava falsa divulgação de vagas de emprego para induzir compra de curso. A noticiante não esclareceu os fatos e o MP indeferiu a investigação.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 2482,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva vacinação de adolescentes no NSJ",
+    "description": "A apuração tratou da vacinação de adolescentes no Núcleo Socioterapêutico de Joinville sem anuência dos responsáveis. O MP concluiu que a atuação seguiu a lei e arquivou.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 2483,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 2484,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso de normas sanitárias em tabacaria",
+    "description": "A notícia tratava de desrespeito às normas sanitárias por uma tabacaria. O estabelecimento se regularizou e o MP arquivou o caso.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 2485,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC com Hiago Bebidas em caso sanitário",
+    "description": "A apuração terminou com TAC e acompanhamento por procedimento administrativo. O ajuste resolveu a questão fiscalizada.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 2486,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 2487,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 2488,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 2489,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 2490,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso de cães acolhidos por terceiros",
+    "description": "A notícia tratava de abandono de cães, com animais acolhidos por terceiros e investigação policial em andamento. O MP entendeu que não havia mais medidas administrativas a adotar.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 2491,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso de canina em lar temporário",
+    "description": "A apuração confirmou que a canina permanece em lar temporário com acompanhamento do CBEA. O MP arquivou por ausência de medidas adicionais.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 2492,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso de acessibilidade em restaurante",
+    "description": "A investigação sobre ausência de alvará sanitário e normas de acessibilidade terminou com regularização da atividade. O MP arquivou o inquérito.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 2493,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 2494,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 2495,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso sobre averbação de reserva legal",
+    "description": "A apuração concluiu que não havia obrigatoriedade de averbação de reserva legal no imóvel. Sem outra medida, o MP arquivou.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 2496,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 2497,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre maus-tratos no Lar Abdon Batista",
+    "description": "A investigação apurou maus-tratos e violência no Lar Abdon Batista, mas as diligências e a apuração policial não confirmaram os fatos. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 2498,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva obra aprovada e concluída",
+    "description": "O procedimento administrativo foi encerrado porque o projeto já estava aprovado, executado e concluído. Não havia mais diligências a realizar.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 2499,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 2500,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso de medida adotada pela Defesa Civil",
+    "description": "A conclusão apontou que a medida foi devidamente tratada e que não havia mais providências a tomar. O caso foi arquivado por ato ministerial.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 2501,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva demora em cirurgia no Hospital São José",
+    "description": "A apuração sobre fila de cirurgia reparadora concluiu que não houve demora injustificada no procedimento. O inquérito foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 2502,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva obra aprovada e concluída",
+    "description": "O procedimento administrativo foi encerrado após constar que o projeto foi aprovado, executado e concluído. Não restavam diligências a serem feitas.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 2503,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 2504,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 2505,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso de farmácia sem responsável técnico",
+    "description": "A apuração tratou de farmácia sem responsável técnico, com infração sanitária regularizada após intervenção do MP. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 2506,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 2507,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 2508,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 2509,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso de acessibilidade em bar e lanchonete",
+    "description": "A notícia informou adequação do estabelecimento às normas de acessibilidade. Sem fundamento para ação judicial, o procedimento foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 2510,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 2511,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso sobre exigência de vacina em hospital",
+    "description": "A apuração tratou da exigência de comprovante de vacinação para entrar no Hospital Unimed de Joinville. O MP entendeu que não houve lesão a direitos tutelados e indeferiu a investigação.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 2512,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva falta de materiais em cirurgia no Hans Dieter Schmidt",
+    "description": "A investigação apurou falta de materiais para nefrolitotomia percutânea. Os equipamentos foram consertados e os procedimentos retornaram, afastando inércia do Estado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 2513,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso de colonoscopia e endoscopia no HMSJ",
+    "description": "A apuração tratou da ausência de aparelho para colonoscopia e endoscopia. Houve manutenção, empréstimos e mutirão, sem prova de omissão injustificada.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 2514,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC com Hiago Bebidas Ltda.",
+    "description": "A apuração terminou com celebração de termo de ajustamento de conduta, com acompanhamento em procedimento administrativo. O caso foi encerrado com TAC.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 2515,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva fila de consultas no SUS de Joinville",
+    "description": "A investigação tratava de demora em consultas de especialidades no SUS, mas não se comprovou inércia do poder público. O contexto da pandemia também foi considerado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 2516,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 2517,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso sobre Gert Roland Fischer",
+    "description": "A notícia foi arquivada após medidas adotadas e conclusão de que não cabia inquérito civil ou procedimento preparatório. O texto não aponta irregularidade remanescente.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 2518,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva fila de ortopedia adulto no SUS",
+    "description": "A apuração verificou suposta demora na primeira consulta de ortopedia geral adulta. Como o noticiante buscou atendimento particular e a fila deixou de existir, o caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 2519,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva acessibilidade em estabelecimento de Joinville",
+    "description": "A notícia tratou de adequação do estabelecimento às normas de acessibilidade. O MP concluiu que não havia fundamento para ação e arquivou.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  }
+]

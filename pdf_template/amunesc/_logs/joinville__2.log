@@ -1,0 +1,205 @@
+[0m
+> build · gpt-5.4-mini
+[0m
+Vou ler o critério e os três lotes, depois verificar as fontes caso a caso para curar cada JSON no lugar.
+[0m→ [0mRead pdf_template/CURADORIA.md
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__4.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__2.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__3.json
+Já tenho o critério e os lotes. Agora vou separar as entradas com substância das que são só instauração/trecho vago, e montar os três JSON curados na ordem original.
+[0m
+[0m# [0mTodos
+[•] Classificar os casos do lote joinville__2.json e definir keep/title/description/status/severity
+[ ] Classificar os casos do lote joinville__3.json e definir keep/title/description/status/severity
+[ ] Classificar os casos do lote joinville__4.json e definir keep/title/description/status/severity
+[ ] Gravar os três lotes curados em pdf_template/amunesc/_lotes_curados/
+[ ] Verificar contagens finais de keep:true e severity alta por lote
+[0m
+Vou gravar as saídas agora. Antes, confirmo o diretório de destino e depois gero os três JSON curados a partir do material lido.
+[0m$ [0mls "pdf_template/amunesc"
+_build
+_curated_data
+_logs
+_lotes
+_lotes_curados
+assets
+cores.json
+financas.json
+[0m
+[0m$ [0mls "pdf_template/amunesc/_lotes"
+_manifest.json
+araquari__0.json
+araquari__1.json
+araquari__2.json
+araquari__3.json
+balneario_barra_do_sul__0.json
+balneario_barra_do_sul__1.json
+campo_alegre__0.json
+campo_alegre__1.json
+garuva__0.json
+garuva__1.json
+garuva__2.json
+itapoa__0.json
+itapoa__1.json
+itapoa__2.json
+itapoa__3.json
+itapoa__4.json
+joinville__0.json
+joinville__1.json
+joinville__10.json
+joinville__11.json
+joinville__12.json
+joinville__13.json
+joinville__14.json
+joinville__15.json
+joinville__16.json
+joinville__17.json
+joinville__18.json
+joinville__19.json
+joinville__2.json
+joinville__20.json
+joinville__21.json
+joinville__22.json
+joinville__23.json
+joinville__24.json
+joinville__25.json
+joinville__26.json
+joinville__27.json
+joinville__28.json
+joinville__29.json
+joinville__3.json
+joinville__30.json
+joinville__31.json
+joinville__32.json
+joinville__33.json
+joinville__34.json
+joinville__35.json
+joinville__36.json
+joinville__37.json
+joinville__38.json
+joinville__39.json
+joinville__4.json
+joinville__40.json
+joinville__41.json
+joinville__42.json
+joinville__43.json
+joinville__44.json
+joinville__45.json
+joinville__46.json
+joinville__47.json
+joinville__48.json
+joinville__49.json
+joinville__5.json
+joinville__50.json
+joinville__51.json
+joinville__52.json
+joinville__53.json
+joinville__54.json
+joinville__55.json
+joinville__56.json
+joinville__57.json
+joinville__58.json
+joinville__59.json
+joinville__6.json
+joinville__60.json
+joinville__61.json
+joinville__62.json
+joinville__63.json
+joinville__64.json
+joinville__65.json
+joinville__66.json
+joinville__67.json
+joinville__68.json
+joinville__69.json
+joinville__7.json
+joinville__70.json
+joinville__71.json
+joinville__72.json
+joinville__73.json
+joinville__74.json
+joinville__75.json
+joinville__76.json
+joinville__77.json
+joinville__78.json
+joinville__79.json
+joinville__8.json
+joinville__9.json
+rio_negrinho__0.json
+rio_negrinho__1.json
+rio_negrinho__2.json
+sao_bento_do_sul__0.json
+sao_bento_do_sul__1.json
+sao_bento_do_sul__2.json
+sao_bento_do_sul__3.json
+sao_bento_do_sul__4.json
+sao_bento_do_sul__5.json
+sao_bento_do_sul__6.json
+sao_francisco_do_sul__0.json
+sao_francisco_do_sul__1.json
+sao_francisco_do_sul__10.json
+sao_francisco_do_sul__2.json
+sao_francisco_do_sul__3.json
+sao_francisco_do_sul__4.json
+sao_francisco_do_sul__5.json
+sao_francisco_do_sul__6.json
+sao_francisco_do_sul__7.json
+sao_francisco_do_sul__8.json
+sao_francisco_do_sul__9.json
+[0m
+[0m✗ [0mRead pdf_template/amunesc/_lotes_curados/joinville__0.json failed[90m [offset=1, limit=40][0m
+[91m[1mError: [0mFile not found: /Users/jairofortunato/mp/pdf_template/amunesc/_lotes_curados/joinville__0.json
+[0m✱ [0mGlob "joinville__*.json"[90m in pdf_template/amunesc/_lotes_curados · 0 matches[0m
+Vou paralelizar a leitura editorial dos três lotes para reduzir erro de alinhamento e acelerar a escrita final.
+[0m• [0mCurate Joinville lote 2[90m General Agent[0m
+[0m• [0mCurate Joinville lote 3[90m General Agent[0m
+[0m• [0mCurate Joinville lote 4[90m General Agent[0m
+[0m✓ [0mCurate Joinville lote 4[90m General Agent[0m
+[0m✓ [0mCurate Joinville lote 2[90m General Agent[0m
+[0m✓ [0mCurate Joinville lote 3[90m General Agent[0m
+Os julgamentos já estão fechados. Agora vou gravar os três lotes curados no diretório `_lotes_curados` e depois conferir os totais.
+[0m% [0mPatch 3 files
+Os arquivos já estão escritos. Vou validar o JSON e contar `keep:true` e `severity:"alta"` por lote antes de encerrar.
+[0m
+[0m$ [0mjq 'length, map(select(.keep==true)) | length, map(select(.severity=="alta")) | length' "pdf_template/amunesc/_lotes_curados/joinville__2.json"
+70
+jq: error (at pdf_template/amunesc/_lotes_curados/joinville__2.json:72): Cannot iterate over number (70)
+[0m
+[0m$ [0mjq 'length, map(select(.keep==true)) | length, map(select(.severity=="alta")) | length' "pdf_template/amunesc/_lotes_curados/joinville__3.json"
+70
+jq: error (at pdf_template/amunesc/_lotes_curados/joinville__3.json:72): Cannot iterate over number (70)
+[0m
+[0m$ [0mjq 'length, map(select(.keep==true)) | length, map(select(.severity=="alta")) | length' "pdf_template/amunesc/_lotes_curados/joinville__4.json"
+70
+jq: error (at pdf_template/amunesc/_lotes_curados/joinville__4.json:72): Cannot iterate over number (70)
+[0m
+A validação de estrutura passou. Só faltam os totais, então vou ler as contagens corretas agora.
+[0m$ [0mjq 'map(select(.keep==true)) | length' "pdf_template/amunesc/_lotes_curados/joinville__4.json"
+15
+[0m
+[0m$ [0mjq 'map(select(.severity=="alta")) | length' "pdf_template/amunesc/_lotes_curados/joinville__2.json"
+3
+[0m
+[0m$ [0mjq 'map(select(.keep==true)) | length' "pdf_template/amunesc/_lotes_curados/joinville__2.json"
+40
+[0m
+[0m$ [0mjq 'map(select(.severity=="alta")) | length' "pdf_template/amunesc/_lotes_curados/joinville__4.json"
+0
+[0m
+[0m$ [0mjq 'map(select(.keep==true)) | length' "pdf_template/amunesc/_lotes_curados/joinville__3.json"
+40
+[0m
+[0m$ [0mjq 'map(select(.severity=="alta")) | length' "pdf_template/amunesc/_lotes_curados/joinville__3.json"
+0
+[0m
+[0m# [0mTodos
+[✓] Classificar os casos do lote joinville__2.json e definir keep/title/description/status/severity
+[✓] Classificar os casos do lote joinville__3.json e definir keep/title/description/status/severity
+[✓] Classificar os casos do lote joinville__4.json e definir keep/title/description/status/severity
+[✓] Gravar os três lotes curados em pdf_template/amunesc/_lotes_curados/
+[✓] Verificar contagens finais de keep:true e severity alta por lote
+[0m
+Curados e gravados em `pdf_template/amunesc/_lotes_curados/`.
+
+- `joinville__2.json`: 70 casos, 40 `keep:true`, 3 `severity: alta`
+- `joinville__3.json`: 70 casos, 40 `keep:true`, 0 `severity: alta`
+- `joinville__4.json`: 70 casos, 15 `keep:true`, 0 `severity: alta`

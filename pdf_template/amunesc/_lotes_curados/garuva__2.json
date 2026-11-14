@@ -1,0 +1,20 @@
+[
+{"i":13,"tipo":"tce","keep":true,"title":"TCE não conhece representação sobre leis que reconheceram dívida em Garuva","description":"A representação foi barrada por falta de seletividade e arquivada sem análise de mérito. Mesmo assim, o Tribunal recomendou que a Prefeitura observe os prazos contratuais para evitar reconhecimento de dívida fora do contrato.","status":"❔ não conhecido (sem análise)","severity":"media"},
+{"i":14,"tipo":"tce","keep":true,"title":"TCE arquiva representação sobre pregão de Garuva por perda de objeto","description":"A representação sobre o Pregão Presencial PMG 062/2021 foi extinta porque o objeto se perdeu no curso do processo. Não houve julgamento do mérito das supostas irregularidades.","status":"❔ não conhecido (sem análise)","severity":"media"},
+{"i":15,"tipo":"tce","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":16,"tipo":"tce","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":17,"tipo":"tce","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":18,"tipo":"tce","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":19,"tipo":"tce","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":20,"tipo":"tce","keep":true,"title":"TCE arquiva apuração sobre pregão de escola em Garuva","description":"A representação sobre o Pregão Presencial n. 91/2024 não passou na seletividade e acabou arquivada como procedimento apuratório preliminar. O caso foi remetido ao controle interno, sem análise de mérito pelo Tribunal.","status":"❔ não conhecido (sem análise)","severity":"media"},
+{"i":21,"tipo":"tce","keep":true,"title":"TCE mira pregão de Garuva por desclassificação sem diligência","description":"Na fase mais avançada do processo, o relator mandou ouvir o prefeito e o pregoeiro por possível irregularidade na desclassificação da empresa Saay's sem diligência saneadora. O caso segue em instrução.","status":"🟡 em instrução (citação/audiência)","severity":"media"},
+{"i":22,"tipo":"tce","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":23,"tipo":"tce","keep":true,"title":"TCE encerra representação sobre tomada de preços 28/2021 em Garuva","description":"O Tribunal extinguiu o processo porque a Prefeitura anulou a licitação, o que levou à perda superveniente do objeto. A decisão não julgou o mérito das acusações.","status":"❔ não conhecido (sem análise)","severity":"media"},
+{"i":24,"tipo":"tce","keep":true,"title":"TCE arquiva PAP sobre credenciamento de leiloeiro em Garuva","description":"O procedimento apuratório preliminar foi arquivado por falta de pontuação mínima na seletividade. Houve apenas recomendação ao controle interno, sem mérito apreciado.","status":"❔ não conhecido (sem análise)","severity":"media"},
+{"i":25,"tipo":"tce","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":26,"tipo":"tce","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":27,"tipo":"tce","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":28,"tipo":"tce","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":29,"tipo":"tce","keep":true,"title":"TCE multa prefeito de Garuva por desrespeitar regras da liberdade econômica","description":"O Tribunal aplicou multa de R$ 1.990,59 a Rodrigo Adriany David pela falta de envio de informações sobre a adequação do município à legislação da liberdade econômica. A decisão também exigiu manifestação da Prefeitura sobre o tema.","status":"🔴 multa aplicada","severity":"alta"},
+{"i":30,"tipo":"tce","keep":true,"title":"TCE rejeita embargos e mantém sustação do contrato de advocacia em Garuva","description":"Os embargos de declaração foram rejeitados e a decisão anterior foi ratificada integralmente. O efeito prático foi manter a cautelar já imposta no caso do contrato de advocacia do município.","status":"🟠 cautelar / sustação","severity":"media"}
+]

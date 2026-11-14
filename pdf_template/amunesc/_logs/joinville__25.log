@@ -1,0 +1,81 @@
+[0m
+> build · gpt-5.4-mini
+[0m
+Vou ler o critério e abrir os três lotes para mapear as fontes antes de julgar caso a caso.
+[0m→ [0mRead pdf_template/CURADORIA.md
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__25.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__32.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__33.json
+Agora vou localizar as fontes brutas desses refs para julgar cada item pelo texto original, sem depender do rótulo.
+[0m✱ [0mGlob "**/*06.2025.00005543-5*"[90m in . · 0 matches[0m
+[0m✱ [0mGlob "**/*06.2025.00005478-0*"[90m in . · 0 matches[0m
+[0m✱ [0mGlob "**/*01.2026.00000801-3*"[90m in . · 0 matches[0m
+[0m✱ [0mGlob "pdf_template/**"[90m in . · 100 matches[0m
+[0m✱ [0mGlob "pdf_template/amunesc/**"[90m in . · 100 matches[0m
+[0m✱ [0mGlob "pdf_template/amunesc/**/*"[90m in . · 100 matches[0m
+[0m✱ [0mGlob "pdf_template/amunesc/**/_fontes/**"[90m in . · 0 matches[0m
+[0m✱ [0mGlob "pdf_template/amunesc/**/fontes/**"[90m in . · 0 matches[0m
+[0m✱ [0mGrep "06\.2025\.00005478-0"[90m in . · 8 matches[0m
+[0m✱ [0mGrep "06\.2025\.00005543-5"[90m in . · 14 matches[0m
+[0m✱ [0mGrep "01\.2026\.00000801-3"[90m in . · 15 matches[0m
+Encontrei o arquivo bruto consolidado de Joinville. Vou usar ele para extrair o trecho completo de cada referência e montar os JSONs na mesma ordem dos lotes.
+[0m→ [0mRead pdf_template/amunesc/_curated_data/raw/joinville.json[90m [offset=19244, limit=45][0m
+[0m→ [0mRead pdf_template/amunesc/_curated_data/raw/joinville.json[90m [offset=7948, limit=40][0m
+[0m→ [0mRead pdf_template/amunesc/_curated_data/raw/joinville.json[90m [offset=19270, limit=45][0m
+[0m✱ [0mGlob "pdf_template/amunesc/_lotes_curados/joinville__33.json"[90m in . · 0 matches[0m
+[0m✱ [0mGlob "pdf_template/amunesc/_lotes_curados/joinville__32.json"[90m in . · 0 matches[0m
+[0m✱ [0mGlob "pdf_template/amunesc/_lotes_curados/joinville__25.json"[90m in . · 0 matches[0m
+Vou organizar os três lotes em paralelo e preencher os cards com base no desfecho real do texto, cortando as entradas sem substância.
+[0m
+[0m# [0mTodos
+[•] Curar joinville__25.json e gravar em _lotes_curados
+[ ] Curar joinville__32.json e gravar em _lotes_curados
+[ ] Curar joinville__33.json e gravar em _lotes_curados
+[ ] Verificar contagens finais e arquivos gravados
+[0m
+[0m• [0mCurar lote Joinville 25[90m General Agent[0m
+[0m• [0mCurar lote Joinville 32[90m General Agent[0m
+[0m• [0mCurar lote Joinville 33[90m General Agent[0m
+[0m✓ [0mCurar lote Joinville 25[90m General Agent[0m
+[0m✓ [0mCurar lote Joinville 32[90m General Agent[0m
+[0m✓ [0mCurar lote Joinville 33[90m General Agent[0m
+Os três lotes já foram gravados. Vou validar o JSON e conferir se o tamanho e as contagens batem antes de encerrar.
+[0m
+[0m$ [0mjq 'length' "/Users/jairofortunato/mp/pdf_template/amunesc/_lotes_curados/joinville__25.json" && jq '[.[] | select(.keep==true)] | length' "/Users/jairofortunato/mp/pdf_template/amunesc/_lotes_curados/joinville__25.json" && jq '[.[] | select(.severity=="alta")] | length' "/Users/jairofortunato/mp/pdf_template/amunesc/_lotes_curados/joinville__25.json"
+70
+25
+0
+[0m
+[0m$ [0mjq 'length' "/Users/jairofortunato/mp/pdf_template/amunesc/_lotes_curados/joinville__32.json" && jq '[.[] | select(.keep==true)] | length' "/Users/jairofortunato/mp/pdf_template/amunesc/_lotes_curados/joinville__32.json" && jq '[.[] | select(.severity=="alta")] | length' "/Users/jairofortunato/mp/pdf_template/amunesc/_lotes_curados/joinville__32.json"
+70
+42
+0
+[0m
+[0m$ [0mjq 'length' "/Users/jairofortunato/mp/pdf_template/amunesc/_lotes_curados/joinville__33.json" && jq '[.[] | select(.keep==true)] | length' "/Users/jairofortunato/mp/pdf_template/amunesc/_lotes_curados/joinville__33.json" && jq '[.[] | select(.severity=="alta")] | length' "/Users/jairofortunato/mp/pdf_template/amunesc/_lotes_curados/joinville__33.json"
+70
+49
+0
+[0m
+A validação fechou: os três JSONs têm o mesmo tamanho dos lotes e os totais de `keep:true` bateram. Vou marcar a tarefa como concluída.
+[0m# [0mTodos
+[✓] Curar joinville__25.json e gravar em _lotes_curados
+[✓] Curar joinville__32.json e gravar em _lotes_curados
+[✓] Curar joinville__33.json e gravar em _lotes_curados
+[✓] Verificar contagens finais e arquivos gravados
+[0m
+Arquivos gravados em `pdf_template/amunesc/_lotes_curados/`:
+
+- `joinville__25.json`  
+  - 70 casos
+  - 25 `keep:true`
+  - 0 `severity: alta`
+
+- `joinville__32.json`  
+  - 70 casos
+  - 42 `keep:true`
+  - 0 `severity: alta`
+
+- `joinville__33.json`  
+  - 70 casos
+  - 49 `keep:true`
+  - 0 `severity: alta`

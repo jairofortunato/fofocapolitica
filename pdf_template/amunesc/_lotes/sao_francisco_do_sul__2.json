@@ -1,0 +1,635 @@
+{
+ "cidade": "São Francisco do Sul",
+ "casos": [
+  {
+   "i": 140,
+   "tipo": "mp",
+   "ref": "06.2022.00003856-8",
+   "header": "• EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2022.00003856-8",
+   "status": "🟡 em apuração",
+   "data": "20/09/2022",
+   "texto": "Ministério Público de Santa Catarina e Município de São Francisco do Sul"
+  },
+  {
+   "i": 141,
+   "tipo": "mp",
+   "ref": "06.2022.00003856-8",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00003856-8",
+   "status": "🟠 TAC firmado",
+   "data": "29/11/2022",
+   "texto": "Ministério Público do Estado de Santa Catarina e Município de São Francisco do Sul. Conclusão: Inquérito Civil. Transparência na listas de espera dos pacientes que aguardam por consultas, exames, cirurgias ou outros procedimentos de saúde. Assinatura de Termo de Ajustamento de Conduta. Arquivamento."
+  },
+  {
+   "i": 142,
+   "tipo": "mp",
+   "ref": "01.2023.00011895-1",
+   "header": "• EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00011895-1",
+   "status": "🟢 arquivado",
+   "data": "23/01/2024",
+   "texto": "Conselho Municipal de Educação e Secretaria Municipal de Educação. Conclusão: Notícia de Fato. Indeferimento. Apurar possíveis irregularidades quanto ao funcionamento do Conselho Municipal de Educação do Município de São Francisco do Sul (COMED). Ausência de lastro probatório para subsidiar investigação civil. Fatos já solucionados sem necessidade de intervenção ministerial. Arquivamento."
+  },
+  {
+   "i": 143,
+   "tipo": "mp",
+   "ref": "06.2023.00002437-8",
+   "header": "• EXTRATO DE CONVERSÃO EM INQUÉRITO CIVIL DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00002437-8",
+   "status": "❔ status indef.",
+   "data": "25/03/2024",
+   "texto": "Osvaldo Teixeira Soares e Município de São Francisco do Sul."
+  },
+  {
+   "i": 144,
+   "tipo": "mp",
+   "ref": "01.2024.00016470-5",
+   "header": "• EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00016470-5",
+   "status": "🟢 arquivado",
+   "data": "16/05/2024",
+   "texto": "Joane Soares Caldeira e Município de São Francisco do Sul. Conclusão: apurar suposta irregularidade na Prova de Títulos do Concurso Municipal de Educação (Edital 001/20), para o cargo de \"Professor de Ensino Fundamental II - Ensino Religioso\". Fatos objeto do Mandado de Segurança n. 50008899420248240061. Ameaça a direito meramente individual da noticiante. Ausência de justa causa. Arquivamento."
+  },
+  {
+   "i": 145,
+   "tipo": "mp",
+   "ref": "01.2024.00025938-7",
+   "header": "• EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00025938-7",
+   "status": "🟡 em apuração",
+   "data": "01/07/2024",
+   "texto": "Conselho Municipal dos Direitos da Criança e do Adolescente de São Francisco do Sul (CMDCA) e Município de São Francisco do Sul."
+  },
+  {
+   "i": 146,
+   "tipo": "mp",
+   "ref": "06.2018.00002291-0",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2018.00002291-0",
+   "status": "🟢 arquivado",
+   "data": "03/07/2024",
+   "texto": "Edmilson Pereira, Jaime Flávio da Silva Cesari e SCPAR Porto de São Francisco do Sul. Conclusão: apurar possível burla à competitividade da Licitação n. 28/2015 da Administração do Porto de São Francisco do Sul. Objeto da licitação cumprido. Ausência de irregularidades demonstradas no presente feito. Falta justa causa. Arquivamento."
+  },
+  {
+   "i": 147,
+   "tipo": "mp",
+   "ref": "06.2024.00004714-2",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00004714-2",
+   "status": "🟡 em apuração",
+   "data": "11/11/2024",
+   "texto": "Conselho Municipal dos Direitos da Criança e do Adolescente de São Francisco do Sul (CMDCA) e Município de São Francisco do Sul/SC."
+  },
+  {
+   "i": 148,
+   "tipo": "mp",
+   "ref": "06.2025.00003265-3",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00003265-3",
+   "status": "🟡 em apuração",
+   "data": "07/10/2025",
+   "texto": "Carlos Natalino Lemos do Nascimento (noticiante) e Município de São Francisco do Sul (investigado)."
+  },
+  {
+   "i": 149,
+   "tipo": "mp",
+   "ref": "06.2025.00003657-1",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00003657-1",
+   "status": "🟡 em apuração",
+   "data": "07/10/2025",
+   "texto": "Ouvidoria Nacional de Direitos Humanos (noticiante) e Município de São Francisco do Sul (investigado)."
+  },
+  {
+   "i": 150,
+   "tipo": "mp",
+   "ref": "06.2025.00004500-4",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00004500-4",
+   "status": "🟡 em apuração",
+   "data": "22/10/2025",
+   "texto": "Município de São Francisco do Sul."
+  },
+  {
+   "i": 151,
+   "tipo": "mp",
+   "ref": "06.2025.00005523-5",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00005523-5",
+   "status": "🟡 em apuração",
+   "data": "15/01/2026",
+   "texto": "proprietários dos estabelecimentos comerciais - a serem identificados."
+  },
+  {
+   "i": 152,
+   "tipo": "mp",
+   "ref": "06.2025.00005524-6",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00005524-6",
+   "status": "🟡 em apuração",
+   "data": "16/01/2026",
+   "texto": "Veolia Serviços Ambientais Ltda."
+  },
+  {
+   "i": 153,
+   "tipo": "mp",
+   "ref": "06.2025.00005526-8",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00005526-8",
+   "status": "🟡 em apuração",
+   "data": "19/01/2026",
+   "texto": "Edson Debacker."
+  },
+  {
+   "i": 154,
+   "tipo": "mp",
+   "ref": "06.2025.00000461-3",
+   "header": "• EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00000461-3",
+   "status": "🟢 arquivado",
+   "data": "15/04/2026",
+   "texto": "Município de São Francisco do Sul Conclusão: procedimento preparatório. Apurar possíveis ilegalidades nas contratações temporárias para o cargo de advogado feitas pelo Município de São Francisco do Sul. Processo Simplificado n. 003/2023. Recomendação expedida e cumprida. Nomeação de candidatos aprovados em concurso. Inexistência de fundamento para eventual propositura de ação judicial. Arquivamento. Submissão da promoção à apreciação do Conselho Superior."
+  },
+  {
+   "i": 155,
+   "tipo": "mp",
+   "ref": "06.2021.00002703-4",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2021.00002703-4",
+   "status": "🟡 em apuração",
+   "data": "26/01/2022",
+   "texto": "Ministério Público de Santa Catarina e Município de São Francisco do Sul."
+  },
+  {
+   "i": 156,
+   "tipo": "mp",
+   "ref": "06.2021.00002698-0",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2021.00002698-0",
+   "status": "🟡 em apuração",
+   "data": "30/03/2022",
+   "texto": "Ministério Público de Santa Catarina e Município de São Francisco do Sul."
+  },
+  {
+   "i": 157,
+   "tipo": "mp",
+   "ref": "06.2015.00001565-1",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2015.00001565-1",
+   "status": "🟠 TAC firmado",
+   "data": "26/04/2022",
+   "texto": "Ministério Público do Estado de Santa Catarina e LAM Terminal de Cargas Ltda. Conclusão: Inquérito Civil. Instaurado a fim de averiguar o funcionamento irregular da empresa LAM Terminal de Cargas Ltda., neste Município de São Francisco do Sul. Celebração de termo de ajustamento de conduta a fim da expedição da Licença Ambiental correlatada que foi devidamente cumprido. Arquivamento."
+  },
+  {
+   "i": 158,
+   "tipo": "mp",
+   "ref": "06.2022.00004618-0",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00004618-0",
+   "status": "🟡 em apuração",
+   "data": "05/12/2022",
+   "texto": "Fabiano Stainik Cordeiro e Prefeitura Municipal de São Francisco do Sul."
+  },
+  {
+   "i": 159,
+   "tipo": "mp",
+   "ref": "06.2020.00003175-6",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2020.00003175-6",
+   "status": "🟡 em apuração",
+   "data": "27/01/2023",
+   "texto": "anônimo e Município de São Francisco do Sul."
+  },
+  {
+   "i": 160,
+   "tipo": "mp",
+   "ref": "06.2022.00004677-9",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00004677-9",
+   "status": "🟡 em apuração",
+   "data": "22/02/2023",
+   "texto": "Cristiana Silveira Mira e Município de São Francisco do Sul."
+  },
+  {
+   "i": 161,
+   "tipo": "mp",
+   "ref": "06.2022.00004681-3",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00004681-3",
+   "status": "🟡 em apuração",
+   "data": "22/02/2023",
+   "texto": "Município de São Francisco do Sul, Registro de Imóveis da 1ª Circunscrição da Comarca de São Francisco do Sul, Waldemar Klaas, Iliane Marisa Freitas, Sueli Seefeld e Mirian Rosane Hardt."
+  },
+  {
+   "i": 162,
+   "tipo": "mp",
+   "ref": "06.2015.00009889-8",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2015.00009889-8",
+   "status": "❔ status indef.",
+   "data": "20/04/2023",
+   "texto": "Município de São Francisco do Sul. Conclusão: defesa do Meio Ambiente. Promotoria Regional da Região Hidrográfica 6. Inquérito Civil instaurado visando apurar a adequação do Município de São Francisco do Sul à Política Nacional de Resíduos Sólidos. Município de São Francisco do Sul comprovou a elaboração e aprovação do Plano Intermunicipal de Gestão Integrada de Resíduos Sólidos (PIGRS). Ausência de"
+  },
+  {
+   "i": 163,
+   "tipo": "mp",
+   "ref": "01.2023.00014827-8",
+   "header": "• EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2023.00014827-8",
+   "status": "🟡 em apuração",
+   "data": "20/04/2023",
+   "texto": "Município de São Francisco do Sul."
+  },
+  {
+   "i": 164,
+   "tipo": "mp",
+   "ref": "06.2023.00001224-9",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00001224-9",
+   "status": "🟡 em apuração",
+   "data": "20/04/2023",
+   "texto": "Município de São Francisco do Sul."
+  },
+  {
+   "i": 165,
+   "tipo": "mp",
+   "ref": "06.2022.00004620-2",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00004620-2",
+   "status": "🟡 em apuração",
+   "data": "24/04/2023",
+   "texto": "a identificar."
+  },
+  {
+   "i": 166,
+   "tipo": "mp",
+   "ref": "01.2023.00019060-0",
+   "header": "• EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2023.00019060-0",
+   "status": "🟡 em apuração",
+   "data": "17/05/2023",
+   "texto": "Márcio Wolfgang Neubrand e Município de São Francisco do Sul."
+  },
+  {
+   "i": 167,
+   "tipo": "mp",
+   "ref": "01.2023.00003070-3",
+   "header": "• EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00003070-3",
+   "status": "🟢 arquivado",
+   "data": "26/06/2023",
+   "texto": "Luciane Garcez e Prefeitura de São Francisco do Sul. Conclusão: acesso à informação. Apurar possível violação ao direito de acesso à informação na ausência de resposta pelo Município de São Francisco do Sul ao Processo n. 47/2021, Código Verificador Y8ED. Representante não esgotou a via administrativa. Resposta apresentada pelo ente municipal após provocação. Sem lesão/ameaça a direitos tutelados pelo Ministério Público. Indeferimento de investigação."
+  },
+  {
+   "i": 168,
+   "tipo": "mp",
+   "ref": "06.2022.00004618-0",
+   "header": "• EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00004618-0",
+   "status": "❔ status indef.",
+   "data": "29/06/2023",
+   "texto": "Fabiano Stainik Cordeiro e Município de São Francisco do Sul. Conclusão: acesso à informação. Apurar possível violação ao direito de acesso à informação na ausência de resposta pelo Município de São Francisco do Sul ao Processo n. 14456/2021, Código Verificador O79X. Resposta apresentada pelo ente municipal após provocação. Sem lesão/ameaça a direitos tutelados pelo Ministério Público."
+  },
+  {
+   "i": 169,
+   "tipo": "mp",
+   "ref": "06.2020.00000827-7",
+   "header": "• EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2020.00000827-7",
+   "status": "🟢 arquivado",
+   "data": "03/07/2023",
+   "texto": "Leda de Fátima Lopes e Município de São Francisco do Sul. Conclusão: Procedimento Preparatório. Denúncia. Irregularidades na cobrança de taxas. Certidão de Tempo de Serviço. Previsão legal. Não esgotou administrativamente as possibilidades de resolução. Ausência de elementos que configurem irregularidades. Arquivamento."
+  },
+  {
+   "i": 170,
+   "tipo": "mp",
+   "ref": "06.2019.00003181-2",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00003181-2",
+   "status": "🟢 arquivado",
+   "data": "10/07/2023",
+   "texto": "Município de São Francisco do Sul, anônimo(a), Luciana Garcez e Cristiane Fernandes de Macedo Gomes. Conclusão: arquivamento. Apurar possíveis irregularidades na tramitação de projeto de revisão do Plano Diretor do Município de São Francisco do Sul, notadamente no que diz respeito à participação popular. Constatação da participação popular na fase do Executivo municipal no processo de revisão do plano diretor. Projeto de Lei de Lei arquivado. Instaurado Inquérito Civil n. 06.2023.00001125-0 para acompanhar o novo projeto."
+  },
+  {
+   "i": 171,
+   "tipo": "mp",
+   "ref": "06.2020.00001774-3",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00001774-3",
+   "status": "🟢 arquivado",
+   "data": "10/07/2023",
+   "texto": "Inayara Cabral de Souza e Município de São Francisco do Sul Conclusão: Inquérito Civil. Irregularidade seletivo interno. Edital de Remoção. Omissão de Vagas pelo Município. Situação resolvida na esfera judicial. Perda do objeto. Arquivamento."
+  },
+  {
+   "i": 172,
+   "tipo": "mp",
+   "ref": "06.2023.00002698-7",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00002698-7",
+   "status": "🟡 em apuração",
+   "data": "28/07/2023",
+   "texto": "Marcos Arzua e Município de São Francisco do Sul."
+  },
+  {
+   "i": 173,
+   "tipo": "mp",
+   "ref": "01.2023.00014827-8",
+   "header": "• EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00014827-8",
+   "status": "❔ status indef.",
+   "data": "01/08/2023",
+   "texto": "denunciante anônimo(a). Conclusão: apurar eventual irregularidade na contratação de advogados em caráter temporário por meio do Processo Seletivo n. 023/2022, uma vez que os artigos 17 e 19, § 1º, ambos da Lei Municipal n. 2109/2018 limitam o exercício da advocacia pública no Município de São Francisco do Sul a advogados efetivos."
+  },
+  {
+   "i": 174,
+   "tipo": "mp",
+   "ref": "01.2023.00003118-0",
+   "header": "• EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00003118-0",
+   "status": "🟢 arquivado",
+   "data": "02/08/2023",
+   "texto": "Solange Patricia Korilo e Prefeitura de São Francisco do Sul. Conclusão: acesso à informação. Apurar possível violação ao direito de acesso à informação na suposta ausência de resposta pelo Município de São Francisco do Sul aos Processos Administrativos n. 21080/2022 e 38082/2022. Representante não esgotou a via administrativa. Resposta apresentada pelo ente municipal após provocação. Inércia do representante. Sem lesão/ameaça a direitos tutelados pelo Ministério Público. Indeferimento de investigação."
+  },
+  {
+   "i": 175,
+   "tipo": "mp",
+   "ref": "01.2023.00016477-8",
+   "header": "• EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00016477-8",
+   "status": "🟢 arquivado",
+   "data": "02/08/2023",
+   "texto": "Thiago Rafael Machado e Prefeitura de São Francisco do Sul. Conclusão: acesso à informação. Apurar possível violação ao direito de acesso à informação na suposta ausência de resposta pelo Município de São Francisco do Sul ao Processo n. 14824/2022. Representante não esgotou a via administrativa. Resposta apresentada pelo ente municipal após provocação. Inércia do representante. Sem lesão/ameaça a direitos tutelados pelo Ministério Público. Indeferimento de investigação."
+  },
+  {
+   "i": 176,
+   "tipo": "mp",
+   "ref": "06.2019.00005786-8",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00005786-8",
+   "status": "🟢 arquivado",
+   "data": "03/08/2023",
+   "texto": "Rocha Empreendimentos Imobiliários e Participações Ltda. e Município de São Francisco do Sul. Conclusão: Inquérito Civil. Moralidade administrativa. Município de São Francisco do Sul. Desapropriação de imóvel para implantação de parque municipal. Suposta utilização de método de avaliação imobiliária vedado por lei. Ausência irregularidade. Acordo modificação. Redução da indenização e da área expropriada. Falta dolo. Ausência dano ao erário. Arquivamento."
+  },
+  {
+   "i": 177,
+   "tipo": "mp",
+   "ref": "01.2023.00028541-5",
+   "header": "• EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00028541-5",
+   "status": "🟢 arquivado",
+   "data": "10/08/2023",
+   "texto": "Município de São Francisco do Sul. Conclusão: indeferimento de investigação. Notícia de Fato instaurada para apurar regularidade do evento \"4º Rodeio do Piquete Refugio Crioulo\" agendado, para 7, 8 e 9/7/2023, na Rua Manoel Sebastião Cordeiro, Bairro Tapera no Município de São Francisco do Sul/SC. Realizada fiscalização no local pela Secretaria de Meio Ambiente do Município de São Francisco do Sul. Não constatada a realização do evento. Ausência de justa causa."
+  },
+  {
+   "i": 178,
+   "tipo": "mp",
+   "ref": "01.2023.00032752-2",
+   "header": "• EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00032752-2",
+   "status": "🟢 arquivado",
+   "data": "22/08/2023",
+   "texto": "Valmir Vieira Barbosa. Conclusão: alegação de irregularidades em obra pública. Ausência de provas. Noticiante não acionou a autoridade administrativa para obter informações prévias sobre os fatos. Arquivamento."
+  },
+  {
+   "i": 179,
+   "tipo": "mp",
+   "ref": "01.2023.00026236-6",
+   "header": "• EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00026236-6",
+   "status": "🟢 arquivado",
+   "data": "31/08/2023",
+   "texto": "Mário José Castilho Camargo. Conclusão: Notícia de Fato. Indeferimento. Apurar suposta violação do direito de acesso à informação, consistente na ausência de resposta ao Processo n. 1400/2023, por parte do Município de São Francisco do Sul. Esclarecimentos prestados. Sem lesão ou ameaça de direito tutelado pelo Ministério Público."
+  },
+  {
+   "i": 180,
+   "tipo": "mp",
+   "ref": "06.2021.00004172-5",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00004172-5",
+   "status": "🟢 arquivado",
+   "data": "04/09/2023",
+   "texto": "1º Ofício de Registro de Imóveis da Comarca de São Francisco do Sul, do Município de São Francisco do Sul e da Secretaria Municipal de Meio Ambiente. Conclusão: arquivamento; imóvel de fato em área urbana desde o século XX."
+  },
+  {
+   "i": 181,
+   "tipo": "mp",
+   "ref": "06.2022.00004681-3",
+   "header": "• EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00004681-3",
+   "status": "🟢 arquivado",
+   "data": "04/09/2023",
+   "texto": "1º Ofício de Registro de Imóveis da Comarca de São Francisco do Sul, do Município de São Francisco do Sul e da Secretaria Municipal de Meio Ambiente. Conclusão: arquivamento. Imóvel de fato em área urbana desde o século XX."
+  },
+  {
+   "i": 182,
+   "tipo": "mp",
+   "ref": "06.2023.00003077-0",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00003077-0",
+   "status": "🟡 em apuração",
+   "data": "04/09/2023",
+   "texto": "Isabelle Cristina de Oliveira e Jefferson Pacheco de Moraes."
+  },
+  {
+   "i": 183,
+   "tipo": "mp",
+   "ref": "01.2023.00006557-0",
+   "header": "• EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00006557-0",
+   "status": "🟢 arquivado",
+   "data": "11/09/2023",
+   "texto": "Carmen Lúcia Gill Alves Pereira e Prefeitura de São Francisco do Sul. Conclusão: Notícia de Fato. Acesso à informação. Apurar eventual violação ao dever de prestar informação por parte do Município de São Francisco do Sul, consistente na ausência de resposta ao Protocolo n. 237/2020. Representante não esgotou a via administrativa. Resposta apresentada pelo ente municipal após provocação ministerial. Sem lesão/ameaça a direitos tutelados pelo Ministério Público. Indeferimento de investigação. Arquivamento."
+  },
+  {
+   "i": 184,
+   "tipo": "mp",
+   "ref": "01.2023.00016819-6",
+   "header": "• EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00016819-6",
+   "status": "🟢 arquivado",
+   "data": "11/09/2023",
+   "texto": "Jarbas Leocadio Moreira Paz e Prefeitura de São Francisco do Sul. Conclusão: Notícia de Fato. Acesso à informação. Apurar possível violação ao direito de acesso à informação na suposta ausência de resposta pelo Município de São Francisco do Sul ao Processo n. 21105/2022. Representante não esgotou a via administrativa. Resposta apresentada pelo ente municipal após provocação ministerial. Sem lesão/ameaça a direitos tutelados pelo Ministério Público. Indeferimento de investigação. Arquivamento."
+  },
+  {
+   "i": 185,
+   "tipo": "mp",
+   "ref": "06.2023.00003557-5",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00003557-5",
+   "status": "🟡 em apuração",
+   "data": "21/09/2023",
+   "texto": "João Gomes Ferreira e Município de São Francisco do Sul."
+  },
+  {
+   "i": 186,
+   "tipo": "mp",
+   "ref": "01.2023.00014179-6",
+   "header": "• EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00014179-6",
+   "status": "🟢 arquivado",
+   "data": "02/10/2023",
+   "texto": "Município de São Francisco do Sul. Conclusão: indeferimento de investigação. Notícia de Fato instaurada para apurar existência de construções irregulares e de danos ambientais nas localidades denominadas \"Praia Paum\" e \"Praia do Lixo\", ambos no Bairro Rocio Grande, em São Francisco do Sul. Realizada fiscalização no local pela Secretaria de Infraestrutura do Município de São Francisco do Sul. Não encontradas irregularidades. Ausência de justa causa."
+  },
+  {
+   "i": 187,
+   "tipo": "mp",
+   "ref": "01.2023.00036833-5",
+   "header": "• EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00036833-5",
+   "status": "🟢 arquivado",
+   "data": "04/10/2023",
+   "texto": "Instituto do Meio Ambiente de Santa Catarina. Conclusão: Notícia de Fato instaurada para apurar a regularidade do Processo 7405/2023 do Instituto do Meio Ambiente (IMA), que versa sobre autorização para intervenção na zona de uso intensivo para construção da Sede Administrativa e Centro de Visitantes do Parque Estadual Acaraí. Dispensa de Licenciamento Ambiental. Ausência de irregularidade. Indeferimento de instauração de investigação."
+  },
+  {
+   "i": 188,
+   "tipo": "mp",
+   "ref": "06.2021.00004169-1",
+   "header": "• EXTRATO DE CONVERSÃO EM INQUÉRITO CIVIL DO PROCEDIMENTO PREPARATÓRIO N. 06.2021.00004169-1",
+   "status": "❔ status indef.",
+   "data": "13/10/2023",
+   "texto": "Christopher Camargo Oliveira e Município de São Francisco do Sul."
+  },
+  {
+   "i": 189,
+   "tipo": "mp",
+   "ref": "01.2023.00039990-6",
+   "header": "• EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00039990-6",
+   "status": "❔ status indef.",
+   "data": "16/10/2023",
+   "texto": "André Contini. Conclusão: apurar suposta irregularidade na chamada pública para professor de matemática ACT, por desrespeito a ordem classificatória, referente ao processo seletivo do magistério 015/2022 da Prefeitura Municipal de São Francisco do Sul."
+  },
+  {
+   "i": 190,
+   "tipo": "mp",
+   "ref": "01.2023.00041988-5",
+   "header": "• EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00041988-5",
+   "status": "🟢 arquivado",
+   "data": "16/10/2023",
+   "texto": "Emir Camacho e Ricardo da Silva Pibernat. Conclusão: apurar a suposta prática do delito de abuso de autoridade praticado, em tese, pelo agente de polícia civil Camacho, em desfavor de Ricardo Pibernat da Silva. Fatos apurados em outro procedimento. Indeferimento de instauração de investigação."
+  },
+  {
+   "i": 191,
+   "tipo": "mp",
+   "ref": "06.2018.00003224-0",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2018.00003224-0",
+   "status": "🟢 arquivado",
+   "data": "26/10/2023",
+   "texto": "Maria Antonieta Neres de Oliveira; Daniela Marley de Oliveira; Município de São Francisco do Sul. Conclusão: Inquérito Civil instaurado para apurar suposta irregularidade de construção sobrepondo-se a via pública. Situação consolidada. Via pública jamais instalada de fato. Desafetação concluída. Arquivamento."
+  },
+  {
+   "i": 192,
+   "tipo": "mp",
+   "ref": "01.2023.00048222-3",
+   "header": "• EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2023.00048222-3",
+   "status": "🟡 em apuração",
+   "data": "20/11/2023",
+   "texto": "Nilson Ricardo Gamper e Município de São Francisco do Sul."
+  },
+  {
+   "i": 193,
+   "tipo": "mp",
+   "ref": "01.2023.00041838-6",
+   "header": "• EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00041838-6",
+   "status": "🟢 arquivado",
+   "data": "23/11/2023",
+   "texto": "Daniel Veiga Jusi e SCPAR Porto de São Francisco do Sul. Conclusão: Notícia de Fato. Abuso de autoridade. Guardas Portuários lotados na SCPAR Porto de São Francisco do Sul. Inexistência. Exercício em conjunto com os fuzileiros navais. Obediência ao Plano de Segurança Portuária. Indeferimento."
+  },
+  {
+   "i": 194,
+   "tipo": "mp",
+   "ref": "01.2023.00050990-7",
+   "header": "• EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2023.00050990-7",
+   "status": "🟡 em apuração",
+   "data": "14/12/2023",
+   "texto": "Simone Valéria Chemim."
+  },
+  {
+   "i": 195,
+   "tipo": "mp",
+   "ref": "06.2021.00003465-7",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00003465-7",
+   "status": "🟠 TAC firmado",
+   "data": "15/01/2024",
+   "texto": "Ministério Público de Santa Catarina e Município de São Francisco do Sul. Conclusão: apurar eventuais irregularidades relacionadas à instalação e construção da Escola Municipal João Germano Machado, em imóvel situado nas proximidades da Rodovia Duque de Caxias, s/n., Bairro Iperoba, Município de São Francisco do Sul, em área aos fundos do Instituto Federal Catarinense. Celebração de Termo de Ajustamento de Conduta. Ausência circunstancial do interesse de agir. Arquivamento."
+  },
+  {
+   "i": 196,
+   "tipo": "mp",
+   "ref": "01.2024.00001814-7",
+   "header": "• EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00001814-7",
+   "status": "🟢 arquivado",
+   "data": "24/01/2024",
+   "texto": "Josiane Moser e Município de São Francisco do Sul. Conclusão: apurar suposta irregularidade no Edital n. 001/2023 do concurso de São Francisco do Sul, o qual estaria em desacordo com Lei Municipal que exige experiência para o exercícios das atividades de Técnico Pedagógico. Alteração legislativa. Ausência de discrepância entre o edital e o referido dispositivo legal. Arquivamento."
+  },
+  {
+   "i": 197,
+   "tipo": "mp",
+   "ref": "01.2024.00000297-7",
+   "header": "• EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00000297-7",
+   "status": "🟡 em apuração",
+   "data": "24/01/2024",
+   "texto": "Edmundo Emiliano do Nascimento, Jeferson Barros do Rosário, Marcelo Marquioli e Wagner de Moraes dos Santos."
+  },
+  {
+   "i": 198,
+   "tipo": "mp",
+   "ref": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE TUTELA DE INTERESSES INDIVIDUAIS",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE TUTELA DE INTERESSES INDIVIDUAIS",
+   "status": "🟡 em apuração",
+   "data": "25/01/2024",
+   "texto": "CREAS e Ministério Público de Santa Catarina."
+  },
+  {
+   "i": 199,
+   "tipo": "mp",
+   "ref": "01.2024.00001782-6",
+   "header": "• EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00001782-6",
+   "status": "🟡 em apuração",
+   "data": "30/01/2024",
+   "texto": "Jonatas Chuffo Vieira e Bruno Chupel Alves Machado."
+  },
+  {
+   "i": 200,
+   "tipo": "mp",
+   "ref": "01.2024.00005015-8",
+   "header": "• EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00005015-8",
+   "status": "🟡 em apuração",
+   "data": "16/02/2024",
+   "texto": "Francine Passos de Miranda e Ricardo."
+  },
+  {
+   "i": 201,
+   "tipo": "mp",
+   "ref": "01.2024.00006851-5",
+   "header": "• EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00006851-5",
+   "status": "🟡 em apuração",
+   "data": "29/02/2024",
+   "texto": "Luiz Alberto da Silva."
+  },
+  {
+   "i": 202,
+   "tipo": "mp",
+   "ref": "01.2024.00005015-8",
+   "header": "• EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00005015-8",
+   "status": "🟢 arquivado",
+   "data": "06/03/2024",
+   "texto": "Francine Passos de Miranda. Conclusão: apurar suposta pratica do crime de abuso de autoridade cometido pelo policial penal indentificado apenas como Ricardo. Conduta esclarecida. Ausência de excesso ou abuso. Indeferimento."
+  },
+  {
+   "i": 203,
+   "tipo": "mp",
+   "ref": "06.2023.00004620-6",
+   "header": "• EXTRATO DE CONCLUSÃO DO PROCEDIMENTO ADMINISTRATIVO N. 06.2023.00004620-6",
+   "status": "🟢 arquivado",
+   "data": "08/03/2024",
+   "texto": "Município de São Francisco do Sul, Cátia Patrícia da Silva e Edilene Mara Rosa da Silva. Conclusão: acompanhar a atuação do Município de São Francisco do Sul em decorrência das determinações proferidas na sentença dos Autos n. 5005334-29.2022.8.24.0061. Ausência de irregularidades nas obras do estabelecimento comercial \"Dada Night Club\". Arquivamento."
+  },
+  {
+   "i": 204,
+   "tipo": "mp",
+   "ref": "01.2024.00007230-8",
+   "header": "• EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00007230-8",
+   "status": "🟢 arquivado",
+   "data": "11/03/2024",
+   "texto": "Marcos Osny Packer e Município de São Francisco do Sul. Conclusão: apurar irregularidades na obra localizada na Rua Antônio Urbano da Fonseca, Forte, mais especificamente na pedreira e barreira Mazinho. Ausência de consulta administrativa. Inexistência de provas indicando irregularidades na obra impugnada. Indeferimento da instauração de investigação."
+  },
+  {
+   "i": 205,
+   "tipo": "mp",
+   "ref": "01.2024.00001069-9",
+   "header": "• EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00001069-9",
+   "status": "🟢 arquivado",
+   "data": "25/03/2024",
+   "texto": "Ellen Inacio e Município de São Francisco do Sul. Conclusão: apurar suposta omissão na resposta ao Protocolo n. 2552/2023, código verificador E2CZ, por parte do Município de São Francisco do Sul. Informações prestadas após provocação do Ministério Público. Irregularidade sanada. Indeferimento da instauração de investigação."
+  },
+  {
+   "i": 206,
+   "tipo": "mp",
+   "ref": "06.2024.00000736-1",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000736-1",
+   "status": "🟡 em apuração",
+   "data": "25/03/2024",
+   "texto": "Lennon Moraes Joanico, Wemerson Jorge das Virgens, Emir Camacho Júnior e Ricardo da Silva Pibernat."
+  },
+  {
+   "i": 207,
+   "tipo": "mp",
+   "ref": "06.2016.00001104-8",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N.06.2016.00001104-8",
+   "status": "🟢 arquivado",
+   "data": "01/04/2024",
+   "texto": "Município de São Francisco do Sul e o 24º Grupo da Polícia Militar Rodoviária. Conclusão: apurar a regularidade da fiscalização realizada pela Secretaria Municipal de Infraestrutura, Urbanismo e Integração de São Francisco do Sul no Posto da Polícia Rodoviária Estadual.Ausência de prova acerca das irregularidades apuradas. Fiscalização da órgãos municipais regularidades. Ausência de excesso. Exercício do Poder de Polícia. Apreensões pela Polícia Militar Rodoviária sem irregularidades. Estrito cumprimento de dever legal. Arquivamento."
+  },
+  {
+   "i": 208,
+   "tipo": "mp",
+   "ref": "01.2024.00013390-1",
+   "header": "• EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00013390-1",
+   "status": "🟡 em apuração",
+   "data": "18/04/2024",
+   "texto": "Fatima Regina Martins Siebers e Município de São Francisco do Sul."
+  },
+  {
+   "i": 209,
+   "tipo": "mp",
+   "ref": "01.2024.00013427-7",
+   "header": "• EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00013427-7",
+   "status": "🟡 em apuração",
+   "data": "18/04/2024",
+   "texto": "Marisa Gonçalves e Município de São Francisco do Sul."
+  }
+ ]
+}

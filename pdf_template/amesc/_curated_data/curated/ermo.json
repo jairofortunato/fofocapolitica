@@ -1,0 +1,294 @@
+{
+ "mp": [
+  {
+   "i": 0,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou suspeita de venda de gabaritos no concurso de Ermo e não achou provas",
+   "description": "O Ministério Público investigou possíveis irregularidades no Concurso Público n. 01/2023 de Ermo, incluindo a suspeita de venda de gabaritos. A apuração concluiu que a denúncia era genérica: não houve prova documental, nenhum candidato beneficiado foi apontado e não se identificou intenção de fraudar o certame. O MP também não viu irregularidade na contratação da empresa organizadora. Mesmo assim, recomendou ao prefeito que não faça novas contratações do instituto responsável pela prova.",
+   "severity": "media"
+  },
+  {
+   "i": 1,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Câmara de Vereadores de Ermo contratou servidores sem concurso e assinou acordo com o MP",
+   "description": "O Ministério Público investigou contratações de servidores da Câmara de Vereadores de Ermo feitas sem concurso público nem processo seletivo. Para regularizar a situação, foi firmado um Termo de Ajustamento de Conduta com o órgão. Com o acordo assinado, o inquérito foi arquivado.",
+   "severity": "media"
+  },
+  {
+   "i": 2,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 3,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou dispensa de licitação em publicidade em Ermo e arquivou após correção",
+   "description": "O Ministério Público apurou uma possível dispensa irregular de licitação na contratação de serviços de publicidade pela Prefeitura de Ermo. A investigação não encontrou indícios de intenção de violar os princípios da administração pública. O MP expediu recomendação para corrigir as falhas, o município acatou e o caso foi arquivado.",
+   "severity": "media"
+  },
+  {
+   "i": 4,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 5,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Após cobrança do MP, Ermo convocou professora da lista de pessoas com deficiência",
+   "description": "O Ministério Público apurou se a Prefeitura de Ermo estava chamando corretamente os aprovados para o cargo de Professor (40h) do Concurso Público n. 01/2023, em especial a lista reservada a pessoas com deficiência. O MP recomendou a convocação da próxima pessoa com deficiência da lista específica. A prefeitura acatou e publicou o ato convocatório n. 77/2025, e o caso foi arquivado.",
+   "severity": "media"
+  },
+  {
+   "i": 6,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Ermo abriu seleção temporária com concurso válido e exonerou os contratados após o MP",
+   "description": "O Ministério Público investigou a abertura do Processo Seletivo Simplificado n. 01/2024 para cargos que já tinham aprovados no Concurso Público n. 01/2023, ainda em vigência. A situação foi regularizada com a exoneração dos servidores temporários e o município acatou a recomendação do MP. Como não se identificou intenção de burlar o concurso, o inquérito foi arquivado.",
+   "severity": "media"
+  },
+  {
+   "i": 7,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP confirma defasagem no ensino pré-escolar da Escola João Moro, em Ermo, e município corrige",
+   "description": "O Ministério Público apurou o ensino oferecido ao pré-escolar da Escola João Moro, em Ermo, e constatou defasagem no conteúdo pedagógico ministrado aos alunos. Depois de uma reunião multissetorial, o município regularizou a situação com a Instrução Normativa n. 01/2025 da Secretaria de Educação, que passou a exigir que as horas-atividade dos professores sejam cumpridas majoritariamente dentro da escola. Diante da correção, o MP entendeu que não havia motivo para ajuizar ação civil pública e encerrou o caso.",
+   "severity": "media",
+   "status": "🟢 recomendação cumprida"
+  },
+  {
+   "i": 8,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 9,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 10,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 11,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 12,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Ermo contratou assessoria jurídica sem licitação desde 2015 e encerrou contrato após o MP",
+   "description": "O Ministério Público investigou a contratação direta de assessorias jurídicas pela Prefeitura de Ermo, prática que se estendia pelo menos desde 2015, sem licitação. O MP expediu recomendação e a relação contratual foi encerrada. Com a correção, o inquérito foi arquivado por falta de justa causa para continuar investigando.",
+   "severity": "media"
+  },
+  {
+   "i": 13,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 14,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 15,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 16,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou loteamento irregular em Garapuvu, em Ermo, e arquivou após regularização",
+   "description": "O Ministério Público investigou um possível parcelamento irregular de solo em um imóvel na localidade de Garapuvu, em Ermo. Segundo informações prestadas pelo órgão municipal, o loteamento já se encontra regularizado. Diante disso, o inquérito foi arquivado.",
+   "severity": "media"
+  },
+  {
+   "i": 17,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 18,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 19,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Vigilância Sanitária de Ermo corrige falhas apontadas e contrata servidor efetivo",
+   "description": "O Ministério Público acompanhou inconsistências na Vigilância Sanitária de Ermo apontadas pela Diretoria de Vigilância Sanitária Regional. O município adequou a estrutura de trabalho do setor e contratou servidor efetivo, sanando as falhas. O procedimento foi encerrado com a constatação de que as pendências foram resolvidas.",
+   "severity": "media"
+  },
+  {
+   "i": 20,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 21,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 22,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  }
+ ],
+ "tce": [
+  {
+   "i": 0,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE analisa as contas de 2024 do prefeito de Ermo",
+   "description": "O Tribunal de Contas de Santa Catarina tem processo de prestação de contas do prefeito de Ermo referente ao exercício de 2024. Nesse tipo de processo, o TCE emite um parecer prévio e a decisão final sobre aprovar ou rejeitar as contas cabe à Câmara de Vereadores. O extrato publicado não informa o teor do parecer.",
+   "severity": "media",
+   "status": "❔ em tramitação"
+  },
+  {
+   "i": 1,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aprova as contas de 2022 da Prefeitura de Ermo",
+   "description": "O Tribunal de Contas de Santa Catarina analisou a prestação de contas do prefeito de Ermo referente ao exercício de 2022 e emitiu parecer prévio pela aprovação. O parecer segue para julgamento final da Câmara de Vereadores.",
+   "severity": "media",
+   "status": "🟢 parecer pela aprovação"
+  },
+  {
+   "i": 2,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aprova as contas de 2021 da Prefeitura de Ermo",
+   "description": "O Tribunal de Contas de Santa Catarina analisou a prestação de contas do prefeito de Ermo referente ao exercício de 2021 e emitiu parecer prévio pela aprovação. O parecer segue para julgamento final da Câmara de Vereadores.",
+   "severity": "media",
+   "status": "🟢 parecer pela aprovação"
+  },
+  {
+   "i": 3,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 4,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multa prefeito de Ermo por ignorar determinações do tribunal sobre pessoal",
+   "description": "Auditoria do Tribunal de Contas sobre os atos de pessoal da Prefeitura de Ermo entre 2016 e 2018 gerou determinações no Acórdão 584/2019, reiteradas em 2022. Como elas não foram cumpridas, o TCE aplicou multa de R$ 1.684,66 ao prefeito Paulo Della Vecchia e reiterou as ordens: parar de contratar serviços jurídicos e de engenharia por licitação, estruturando quadro próprio via concurso, e manter controle rigoroso e diário da jornada e das horas extras dos servidores.",
+   "severity": "alta",
+   "status": "🔴 multa aplicada"
+  },
+  {
+   "i": 5,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aprova as contas de 2023 da Prefeitura de Ermo",
+   "description": "O Tribunal de Contas de Santa Catarina analisou a prestação de contas do prefeito de Ermo referente ao exercício de 2023 e emitiu parecer prévio pela aprovação. O parecer segue para julgamento final da Câmara de Vereadores.",
+   "severity": "media",
+   "status": "🟢 parecer pela aprovação"
+  },
+  {
+   "i": 6,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE abre tomada de contas especial sobre a Prefeitura de Ermo após auditoria",
+   "description": "Uma auditoria do Tribunal de Contas de Santa Catarina na Prefeitura de Ermo foi convertida em tomada de contas especial, procedimento usado quando há indícios que exigem apuração mais rigorosa. O extrato publicado não detalha o que exatamente está sendo apurado. Não há decisão publicada sobre o caso.",
+   "severity": "media",
+   "status": "❔ em tramitação"
+  },
+  {
+   "i": 7,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 8,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aprofunda apuração sobre suposto enriquecimento ilícito de agente público em Ermo",
+   "description": "Em janeiro de 2025, o Tribunal de Contas decidiu converter em processo de inspeção o procedimento preliminar que trata do suposto enriquecimento ilícito de um agente público ligado à Prefeitura de Ermo. A diretoria de contas de gestão foi encarregada de continuar o exame e realizar as diligências necessárias. Nada foi julgado nem responsabilizado até aqui.",
+   "severity": "media",
+   "status": "❔ em tramitação"
+  },
+  {
+   "i": 9,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 10,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 11,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  }
+ ]
+}

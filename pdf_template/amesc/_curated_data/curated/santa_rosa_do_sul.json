@@ -1,0 +1,861 @@
+{
+ "mp": [
+  {
+   "i": 0,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 1,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 2,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 3,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Improbidade prescreve para 8 investigados em Santa Rosa do Sul; MP segue contra 1",
+   "description": "O Ministério Público apurou, em inquérito civil, fatos de moralidade administrativa que também são objeto de uma ação penal na comarca. Ao concluir o inquérito, o MP reconheceu que as sanções da Lei de Improbidade Administrativa já haviam prescrito em relação a oito dos investigados, entre eles Tiago Zacca Acordi, Leonardo Valentin Colodel, Ana Cleia Mazzuco Rufino e José Luiz Eckert. Prescrição significa que passou o prazo legal para punir, não que houve condenação. O procedimento seguiu apenas em relação a Fábio Alves da Silveira, e o texto publicado no Diário não detalha qual providência foi tomada.",
+   "severity": "media"
+  },
+  {
+   "i": 4,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 5,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 6,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Contas de Jonas Gomes de Souza caíram por gasto em educação, mas MP arquivou o caso",
+   "description": "O TCE rejeitou as contas de 2019 do município porque não foi aplicado o mínimo constitucional de recursos em manutenção e desenvolvimento do ensino. A partir disso, o Ministério Público abriu inquérito para verificar se o prefeito Jonas Gomes de Souza agiu com dolo, ou seja, de forma intencional. O MP concluiu que não havia indícios de intenção e que, sem dolo, não se configura improbidade administrativa. O caso foi arquivado, com remessa ao Conselho Superior do Ministério Público.",
+   "severity": "media"
+  },
+  {
+   "i": 7,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 8,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 9,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 10,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou contratação de motoristas sem concurso na prefeitura e não achou irregularidade",
+   "description": "O Ministério Público apurou a suspeita de que a Prefeitura de Santa Rosa do Sul teria contratado motoristas sem concurso público ou passado por cima de candidatos aprovados no Concurso Público 01/2023. Depois da investigação, o MP afirmou que, apesar dos esforços, não foram encontrados indícios de que isso tenha ocorrido. Sem elementos para ir à Justiça, o inquérito foi encerrado.",
+   "severity": "media"
+  },
+  {
+   "i": 11,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 12,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cobrou prefeitura por manter técnica de enfermagem temporária no lugar de concursado",
+   "description": "O Ministério Público abriu inquérito após a notícia de que a Prefeitura de Santa Rosa do Sul mantinha uma servidora contratada em caráter temporário no cargo de técnico de enfermagem, em vez de chamar candidato aprovado em concurso público. Segundo a conclusão publicada no Diário, a questão foi resolvida ao longo da apuração. O inquérito foi arquivado.",
+   "severity": "media"
+  },
+  {
+   "i": 13,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 14,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 15,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 16,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 17,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 18,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 19,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 20,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 21,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 22,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 23,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 24,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 25,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 26,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 27,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 28,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou venda de polvilho com objeto estranho na embalagem e arquivou após fiscalização",
+   "description": "O Ministério Público investigou a denúncia de que a empresa Polvilheira Jean Ltda. teria vendido produto impróprio para consumo, com um objeto estranho dentro da embalagem. Houve fiscalização no local, e o MP concluiu que as condições de produção eram apropriadas e que se tratou de uma situação isolada. Como eventual indenização seria assunto individual do consumidor, e não coletivo, o caso foi arquivado.",
+   "severity": "media"
+  },
+  {
+   "i": 29,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 30,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 31,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 32,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 33,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 34,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 35,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 36,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 37,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 38,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 39,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 40,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 41,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 42,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 43,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 44,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 45,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 46,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 47,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 48,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 49,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 50,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 51,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 52,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 53,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 54,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 55,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 56,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 57,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 58,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Servidora reclamou de mudança de função na prefeitura, mas MP considerou a realocação legal",
+   "description": "Uma servidora, Fernanda dos Santos Burin, representou contra o Município de Santa Rosa do Sul por causa da sua realocação dentro da prefeitura. O Ministério Público analisou o caso e concluiu que a mudança estava dentro das atribuições previstas para o cargo, portanto era legal. A servidora acabou pedindo exoneração por conta própria, o que fez o caso perder o objeto. O inquérito foi arquivado.",
+   "severity": "media"
+  },
+  {
+   "i": 59,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 60,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 61,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 62,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 63,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 64,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 65,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 66,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 67,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 68,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 69,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou água e luz ligadas em loteamentos irregulares da região e arquivou o caso",
+   "description": "O Ministério Público investigou se CASAN, CELESC, cooperativas de energia e o SAMAE estariam fornecendo água e energia elétrica a construções erguidas em loteamentos irregulares ou clandestinos na comarca de Santa Rosa do Sul, incluindo áreas de preservação permanente e imóveis sem autorização do poder público. Ligar serviços nesses locais ajuda a consolidar ocupações ilegais. Ao final, o MP entendeu que não havia justa causa para seguir investigando ou para entrar na Justiça, e arquivou o inquérito.",
+   "severity": "media"
+  },
+  {
+   "i": 70,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 71,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 72,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 73,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 74,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 75,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 76,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 77,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 78,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 79,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou superlotação da casa de acolhimento do CISAS, que atende quatro cidades",
+   "description": "O Ministério Público abriu inquérito para apurar informações reiteradas de superlotação na Casa Lar do CISAS, o consórcio intermunicipal que acolhe crianças e adolescentes de Santa Rosa do Sul, Passo de Torres, São João do Sul e Praia Grande. Enquanto o inquérito corria, a Justiça passou a tratar do mesmo assunto em ação própria. Com isso, o procedimento do MP perdeu o objeto e foi arquivado — a discussão sobre a superlotação seguiu no Judiciário.",
+   "severity": "media"
+  },
+  {
+   "i": 80,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 81,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 82,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 83,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 84,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP analisou falta de material e transporte escolar em escola municipal de Santa Rosa do Sul",
+   "description": "Uma família procurou o Ministério Público relatando que a escola municipal não teria fornecido o material escolar necessário para cumprir o cronograma de aulas on-line e que o município negou o transporte escolar. Na análise, o MP registrou que as aulas presenciais já haviam voltado e que o poder público deve garantir vaga em escola próxima à residência ou, alternativamente, o transporte. O texto publicado aponta que não há lei federal fixando distância mínima entre casa e escola, e que a lei municipal adota o critério de 2 km. O desfecho final do caso não está explícito no extrato do Diário.",
+   "severity": "media"
+  },
+  {
+   "i": 85,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 86,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 87,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 88,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 89,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 90,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 91,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 92,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  }
+ ],
+ "tce": [
+  {
+   "i": 0,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 1,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 2,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE julga irregular compra de livros didáticos sem justificativa em Santa Rosa do Sul",
+   "description": "O Tribunal de Contas julgou parcialmente procedente a representação sobre o Pregão Presencial n. 011/2022 da Prefeitura de Santa Rosa do Sul, para aquisição de livros didáticos. Em agosto de 2025, apontou a falta de justificativa para a escolha do material e para a realização da licitação. Determinou que a Secretaria Municipal de Educação demonstre, nas próximas compras, as razões técnicas das quantidades e da escolha, e recomendou usar o Programa Nacional do Livro Didático. Não houve multa.",
+   "severity": "media",
+   "status": "⬛ julgado irregular"
+  },
+  {
+   "i": 3,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 4,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 5,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE apura pregão de livros didáticos em Santa Rosa do Sul",
+   "description": "Processo de apuração do Tribunal de Contas do Estado examina supostas irregularidades no Pregão Presencial 11/2022 da Prefeitura de Santa Rosa do Sul, um registro de preços para aquisição de livros didáticos da rede de ensino. A Prefeitura consta como parte no processo. O material publicado não informa o desfecho da apuração.",
+   "severity": "media",
+   "status": "❔ em tramitação"
+  },
+  {
+   "i": 6,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE cobra explicações do prefeito de Santa Rosa do Sul por suspeita de fraude em licitação",
+   "description": "Ao analisar o Pregão Presencial n. 33/2023 e o contrato dele decorrente, o Tribunal de Contas determinou audiência de três responsáveis. O prefeito Almides Roberg Silva da Rosa terá de explicar possível simulação de orçamentos e fraude à licitação, ausência de composição de custos, valor de contrato acima da pesquisa de mercado e a nomeação de um único servidor como fiscal de todos os contratos do município. A servidora Karine Isoppo Schule responde por atesto irregular de notas fiscais e o fiscal Edson de Oliveira Borba, por fiscalização deficitária. O relator indeferiu a suspensão do pregão; as apurações podem gerar débito e multa.",
+   "severity": "alta",
+   "status": "🟡 em instrução (citação/audiência)"
+  },
+  {
+   "i": 7,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 8,
+   "tipo": "tce",
+   "keep": true,
+   "title": "Santa Rosa do Sul se adequou a tempo e TCE arquivou inspeção sem aplicar multa",
+   "description": "A inspeção do Tribunal de Contas sobre o cumprimento da Lei da Liberdade Econômica em Santa Rosa do Sul terminou em junho de 2024 com a determinação considerada atendida. A Corte decidiu expressamente deixar de aplicar a multa prevista, por entendê-la injustificada diante do cumprimento. O processo foi arquivado e o prefeito Almides Roberg Silva da Rosa não foi responsabilizado.",
+   "severity": "media",
+   "status": "🟢 julgado regular"
+  },
+  {
+   "i": 9,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multa prefeito de Santa Rosa do Sul por dados omitidos e contador com empresa própria",
+   "description": "O Tribunal de Contas aplicou ao prefeito Almides Roberg Silva da Rosa uma série de multas de R$ 1.362,60 cada, somadas no mesmo acórdão. Os motivos: atraso e omissão no envio de dados ao sistema e-Sfinge em 2023, ausência de fiscal designado para os contratos de software de gestão pública e o fato de o contador municipal Fábio de Souza Machado, com jornada de 40 horas, prestar assessoria a outros municípios por sua própria empresa durante o expediente — o que o estatuto do servidor proíbe. O acórdão também tratou da contratação da IPM Sistemas. Os responsáveis têm 30 dias para recolher as multas ou recorrer.",
+   "severity": "alta",
+   "status": "⬛ julgado irregular + multa"
+  },
+  {
+   "i": 10,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquivou denúncia sobre pagamentos fora da ordem em Santa Rosa do Sul",
+   "description": "Uma representação apontou quebra da ordem cronológica de pagamentos pela Prefeitura de Santa Rosa do Sul — regra que impede fornecedores de serem pagos fora da fila. Em agosto de 2025, o Tribunal de Contas não conheceu a representação por não atender aos requisitos de admissibilidade e determinou o arquivamento. O mérito não chegou a ser examinado e ninguém foi responsabilizado.",
+   "severity": "media",
+   "status": "🟢 julgado regular"
+  },
+  {
+   "i": 11,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE suspende licitação de R$ 9,3 milhões para asfalto em Santa Rosa do Sul",
+   "description": "A empresa Fabsul Pavimentações representou contra o Edital de Concorrência Eletrônica n. 088/2026 da Prefeitura de Santa Rosa do Sul, para pavimentar as estradas gerais Vila Bitencourt, Lageado e Peroba, com valor estimado de R$ 9.330.783,60. O Tribunal de Contas concedeu medida cautelar e determinou ao prefeito Almides Roberg Silva da Rosa que suspenda o certame, apontando exigências de qualificação técnica indevidamente restritivas à competição. A agente de contratação Luana de Souza Pereira foi chamada em audiência para se justificar em 30 dias. O mérito ainda será julgado.",
+   "severity": "alta",
+   "status": "🟠 cautelar / sustação"
+  },
+  {
+   "i": 12,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  }
+ ]
+}

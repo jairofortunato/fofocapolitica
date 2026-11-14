@@ -1,0 +1,632 @@
+[
+ {
+  "i": 420,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 421,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração sobre lançamento de esgoto em drenagem de Blumenau",
+  "description": "O Ministério Público apurou irregularidades sanitárias decorrentes do lançamento de esgoto na rede de drenagem da Rua Edmar Manoel dos Santos, Bairro Fortaleza, em Blumenau. As irregularidades foram solucionadas e o caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 422,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 423,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 424,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 425,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração sobre cobrança de tarifa de água do SAMAE em Blumenau",
+  "description": "O Ministério Público apurou a cobrança da Tarifa de Água com base no valor do consumo mínimo multiplicado pelo número de economias em imóveis com único hidrômetro em Blumenau. Concluiu pela inviabilidade de implantação de outra modalidade de cobrança, por tratar-se de opção política inserida na discricionariedade administrativa. O caso foi arquivado por ausência de elementos para propositura de Ação Civil Pública.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 426,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 427,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 428,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 429,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 430,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟠 TAC firmado",
+  "severity": "media"
+ },
+ {
+  "i": 431,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP firma TAC para adequação de condomínio em Blumenau às normas de acessibilidade",
+  "description": "O Ministério Público apurou falta de acessibilidade no Edifício Residencial Fritz Júnior, em Blumenau. O condomínio tomou medidas para adequação do edifício à Norma Técnica NBR 9050 da ABNT e firmou Termo de Ajustamento de Conduta. O caso foi arquivado.",
+  "status": "🟠 TAC firmado",
+  "severity": "media"
+ },
+ {
+  "i": 432,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração sobre prorrogações de contrato do SAMAE de Blumenau",
+  "description": "O Ministério Público apurou supostas prorrogações indevidas do Contrato n. 2239/2015 entre o SAMAE de Blumenau e a empresa SLM Transportes e Construções Eireli. Não foram encontrados indícios de dolo ou má-fé dos agentes investigados. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 433,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 434,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração sobre uso de espaço público por servidora para advocacia privada em Blumenau",
+  "description": "O Ministério Público apurou a utilização de espaço público por servidora pública municipal para atender clientes da advocacia privada durante o horário de trabalho. Por falta de conteúdo probatório, o caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 435,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração sobre falta de acessibilidade em condomínio de Blumenau",
+  "description": "O Ministério Público apurou falta de acessibilidade no Condomínio Residencial Montebello, em Blumenau. As obras de adequação à Norma Técnica NBR 9050 da ABNT foram concluídas e o caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 436,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração sobre abandono de cargo por servidora em Blumenau",
+  "description": "O Ministério Público apurou faltas contínuas da servidora pública municipal Júlia Ávila Barth, caracterizando abandono de cargo. Não houve prejuízo ao erário e as medidas administrativas foram adotadas. O caso foi arquivado por falta de justa causa para ação civil pública.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 437,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 438,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração após manutenção do Museu Hering em Blumenau",
+  "description": "O Ministério Público apurou a necessidade de obras de manutenção no Museu Hering, em Blumenau. A Fundação Hermann Hering realizou as adequações conforme orientações do Conselho Regional de Museologia. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 439,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração sobre comercialização de tomate orgânico impróprio em Blumenau",
+  "description": "O Ministério Público apurou a comercialização de tomate orgânico impróprio para consumo por conter resíduos de agrotóxico não autorizado para cultivo orgânico. O investigado era o vendedor, não o produtor. Por ausência de elementos para propositura de ACP, o caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 440,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP ajuíza ACP contra proprietários por supressão irregular de vegetação em Blumenau",
+  "description": "O Ministério Público apurou supressão irregular de vegetação no imóvel localizado na Rua Augusto Bauer, em Blumenau, por Adriana Muller e Meletino Mueller. Foi ajuizada Ação Civil Pública n. 5028971-71.2022.8.24.0008 para reparação dos danos ambientais. O inquérito foi arquivado por ter seu objeto integralmente abrangido pela ação judicial.",
+  "status": "🔴 ACP ajuizada",
+  "severity": "alta"
+ },
+ {
+  "i": 441,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 442,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração sobre implementação irregular de condomínio empresarial em Blumenau",
+  "description": "O Ministério Público apurou a implementação irregular do condomínio Bianchini Business Park em Blumenau, com canalização de curso d'água e obras sem observância de normas ambientais e urbanísticas. Após vistoria do órgão competente, as obras foram adequadas à legislação. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 443,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração sobre manutenção do Museu de Hábitos e Costumes em Blumenau",
+  "description": "O Ministério Público apurou a necessidade de manutenção estrutural no Museu de Hábitos e Costumes, em Blumenau. As adequações foram realizadas a contento e foi concedido o Atestado de Habite-se. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 444,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 445,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração sobre condições na Penitenciária Industrial de Blumenau",
+  "description": "O Ministério Público apurou a suficiência da alimentação e dos itens de higiene fornecidos pelo Estado aos detentos da Penitenciária Industrial de Blumenau. Concluiu pela inexistência de fundamento para propositura de ação judicial. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 446,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP conclui pela suficiência de alimentação e higiene no Presídio Regional de Blumenau",
+  "description": "O Ministério Público apurou as condições de fornecimento de alimentação e itens de higiene aos detentos do Presídio Regional de Blumenau. Concluiu pela inexistência de fundamento para ação judicial, com recomendações sobre padronização de visitas e vedação de entrega de valores. O caso foi arquivado.",
+  "status": "🟢 recomendação cumprida",
+  "severity": "media"
+ },
+ {
+  "i": 447,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva notícia de fato sobre poluição sonora por falta de atribuição estadual",
+  "description": "O Ministério Público recebeu notícia de fato sobre poluição sonora em Blumenau. Concluiu que a apuração cabe aos órgãos ambientais municipais e estadual licenciadores, não ao âmbito estadual do MP. O caso foi arquivado por falta de atribuição.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 448,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 449,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP acompanha recursos do PPI para ações socioeducativas em Blumenau",
+  "description": "O Ministério Público acompanha, por meio de procedimento administrativo, a aplicação dos recursos do Programa de Parcerias de Investimentos (PPI/ME) destinados a ações socioeducativas em Blumenau. A segunda fase foi concluída e o projeto depende de audiência pública e análise da nova gestão, que será acompanhada em novo procedimento.",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 450,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 451,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 452,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração sobre manutenção do Museu da Família Colonial em Blumenau",
+  "description": "O Ministério Público apurou a necessidade de manutenção do prédio do Museu da Família Colonial, em Blumenau. As adequações foram realizadas a contento e concedido o Atestado de Habite-se. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 453,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 454,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração sobre implantação de barragem em Blumenau",
+  "description": "O Ministério Público apurou a implantação de barragem pela empresa DSA Energia Sustentável Ltda. em Blumenau. Os órgãos técnicos confirmaram que todos os procedimentos estavam em conformidade com a legislação, sem riscos de enchentes ou alagamentos. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 455,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 456,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP firma TAC com SAMAE de Blumenau por descumprimento de percentual de efetivos em comissão",
+  "description": "O Ministério Público apurou o descumprimento do percentual de servidores efetivos ocupantes de cargos em comissão no SAMAE de Blumenau. Foi firmado Termo de Ajustamento de Conduta e o caso foi arquivado.",
+  "status": "🟠 TAC firmado",
+  "severity": "media"
+ },
+ {
+  "i": 457,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 458,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 459,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração sobre suposta apropriação de materiais no SAMAE de Blumenau",
+  "description": "O Ministério Público apurou suposta apropriação de areias e materiais de construção do almoxarifado do SAMAE de Blumenau. Concluiu pela inexistência de irregularidades e determinou a correção de procedimentos internos para aumentar a segurança na entrega dos materiais. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 460,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 461,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 462,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 463,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP ajuíza ACP por danos ambientais contra proprietários em Blumenau",
+  "description": "O Ministério Público apurou danos ambientais e ajuizou Ação Civil Pública n. 5028184-08.2023.8.24.0008 contra Wilson Luiz Zanella e Anderson Cardoso Schumacker para reparação dos danos constatados no inquérito civil. O procedimento investigatório foi encerrado e anexado à petição inicial.",
+  "status": "🔴 ACP ajuizada",
+  "severity": "alta"
+ },
+ {
+  "i": 464,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 465,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração após Celesc implantar projeto contra eletrocussão de animais em SC",
+  "description": "O Ministério Público apurou a necessidade de implantação de projeto pela Celesc para diminuir o risco de eletrocussão de animais nas redes de distribuição de energia de Santa Catarina. O objetivo foi alcançado e o caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 466,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP firma TAC com supermercados de Blumenau por venda de tomate impróprio",
+  "description": "O Ministério Público apurou a comercialização de tomate impróprio para consumo pela Cavi Comércio de Frutas e Verduras Ltda. e Bistek Supermercados Ltda. Foram firmados Termos de Ajustamento de Conduta com as empresas. O caso foi arquivado.",
+  "status": "🟠 TAC firmado",
+  "severity": "media"
+ },
+ {
+  "i": 467,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva procedimento preparatório contra Weg após mérito resolvido em outra apuração",
+  "description": "O Ministério Público apurou fatos envolvendo a Weg Equipamentos Elétricos S/A. O mérito da demanda já havia sido resolvido em outra notícia de fato. Sem justa causa para prosseguimento, o caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 468,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 469,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 470,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 471,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP recomenda e Polícia Civil de SC melhora cumprimento de prazos em inquéritos",
+  "description": "O Ministério Público apurou demora no cumprimento de diligências e instauração de inquéritos policiais requisitados às delegacias. A Polícia Civil de SC acatou a recomendação e não houve novas insurgências. O caso foi arquivado.",
+  "status": "🟢 recomendação cumprida",
+  "severity": "media"
+ },
+ {
+  "i": 472,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 473,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 474,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 475,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração após limpeza de terreno público em Blumenau",
+  "description": "O Ministério Público apurou a necessidade de limpeza de terreno público localizado na Rua São Rafael, em Blumenau. A limpeza foi executada e o caso foi arquivado por inexistência de omissão.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 476,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 477,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração sobre venda de pimentão impróprio em Blumenau após novos exames",
+  "description": "O Ministério Público apurou a comercialização de pimentão impróprio para consumo pela empresa Carleonice Batista ME. Nova coleta de amostragem em 2023 constatou que o produto estava próprio para consumo, com agrotóxicos dentro dos parâmetros autorizados. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 478,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 479,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 480,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP firma TAC com incorporadora por danos ambientais em Blumenau",
+  "description": "O Ministério Público apurou danos ambientais e firmou Termo de Compromisso de Ajustamento de Conduta com a empresa Alfablu LXI Blumenau Empreendimentos SPE Ltda. e seus administradores Diomar May Cardoso e José Carlos May Cardoso. O objetivo foi atingido e o inquérito foi arquivado.",
+  "status": "🟠 TAC firmado",
+  "severity": "media"
+ },
+ {
+  "i": 481,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 482,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 483,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 484,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP firma TAC com Hospital Santo Antônio em Blumenau",
+  "description": "O Ministério Público firmou Termo de Compromisso de Ajustamento de Conduta com o Hospital Santo Antônio. O objetivo foi atingido e o inquérito civil foi arquivado.",
+  "status": "🟠 TAC firmado",
+  "severity": "media"
+ },
+ {
+  "i": 485,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP firma TAC com Hospital Santa Isabel em Blumenau",
+  "description": "O Ministério Público firmou Termo de Compromisso de Ajustamento de Conduta com o Hospital Santa Isabel. O objetivo foi atingido e o inquérito civil foi arquivado.",
+  "status": "🟠 TAC firmado",
+  "severity": "media"
+ },
+ {
+  "i": 486,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP ajuíza ACP contra proprietários por danos ambientais em Blumenau",
+  "description": "O Ministério Público apurou danos ambientais e ajuizou Ação Civil Pública n. 5018001-41.2024.8.24.0008 contra Leo José Voltolini e Zélia Maria Voltolini para reparação dos danos constatados no inquérito civil. O procedimento investigatório foi encerrado e anexado à petição inicial.",
+  "status": "🔴 ACP ajuizada",
+  "severity": "alta"
+ },
+ {
+  "i": 487,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 488,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP firma TAC com Antônio Miguel da Fonseca em Blumenau",
+  "description": "O Ministério Público firmou Termo de Compromisso de Ajustamento de Conduta com Antônio Miguel da Fonseca. O objetivo foi atingido e o inquérito civil foi arquivado.",
+  "status": "🟠 TAC firmado",
+  "severity": "media"
+ },
+ {
+  "i": 489,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP firma TAC com proprietários por danos ambientais em Blumenau",
+  "description": "O Ministério Público firmou Termo de Compromisso de Ajustamento de Conduta com Genivaldo Scheidt e Valentim Oderdengm para reparação de danos ambientais. O objetivo foi atingido e o inquérito civil foi arquivado.",
+  "status": "🟠 TAC firmado",
+  "severity": "media"
+ }
+]

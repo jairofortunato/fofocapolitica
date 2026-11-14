@@ -1,0 +1,4398 @@
+{
+ "mp": [
+  {
+   "i": 0,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 1,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP registra apuração sobre desvio de função da servidora Franciele Aparecida Pscheidt e...",
+   "description": "O MP apurou desvio de função da servidora Franciele Aparecida Pscheidt e a indevida concessão de folga. O desvio de função foi reconhecido, mas sem dano ao erário ou improbidade. O caso ficou sem desfecho claro no texto.",
+   "status": "❔ status indef.",
+   "severity": "alta"
+  },
+  {
+   "i": 2,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre a prática de atos de improbidade administrativa decorrentes d...",
+   "description": "O MP apurou a prática de atos de improbidade administrativa decorrentes de fraude nas listas de espera para atendimentos e exames pelo Sistema Único de Saúde (SUS) na Secretaria Municipal de Saúde de São Bento do Sul. O MP concluiu que não houve ato de improbidade. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "alta"
+  },
+  {
+   "i": 3,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP aponta irregularidade em suspensão do repasse de recursos financeiros para cirurgias...",
+   "description": "O MP apurou suspensão do repasse de recursos financeiros para cirurgias eletivas nos meses de novem.... O MP concluiu que não houve ato de improbidade. O caso ficou encerrado com apontamento de irregularidade.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "alta"
+  },
+  {
+   "i": 4,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 5,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre irregularidades nos registros contábeis do IPRESBS",
+   "description": "O MP apurou irregularidades nos registros contábeis do IPRESBS. Não foram constatadas irregularidades. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 6,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre a regularidades em procedimentos licitatórios realizados pela...",
+   "description": "O MP apurou a regularidades em procedimentos licitatórios realizados pela SAMAE. O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 7,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre moralidade Administrativa. Suposta concessão irregular de alv...",
+   "description": "O MP apurou moralidade Administrativa. Suposta concessão irregular de alvarás sanitários para insta.... O MP concluiu que não houve ato de improbidade. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "alta"
+  },
+  {
+   "i": 8,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre irregularidades na destruição da antiga sede da Escola Munici...",
+   "description": "O MP apurou irregularidades na destruição da antiga sede da Escola Municipal de Educação de Jovens e Adultos do Município de São Bento do Sul. O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "alta"
+  },
+  {
+   "i": 9,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre eventuais irregularidades na aplicação dos recursos públicos e nas r...",
+   "description": "O MP apurou eventuais irregularidades na aplicação dos recursos públicos e nas respectivas prestações de contas atinentes à edição do evento EXPOAMA, realizado neste Município de São Bento do Sul no ano de 2012. O MP concluiu que não houve ato de improbidade. O caso ficou encerrado com TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "alta"
+  },
+  {
+   "i": 10,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre irregularidades na transferência de recursos do Município de...",
+   "description": "O MP apurou irregularidades na transferência de recursos do Município de São Bento do Sul à Fundação PROMOSUL entre os anos de 2004 e 2013. O caso tratava de possível dano ao erário. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "alta"
+  },
+  {
+   "i": 11,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre moralidade administrativa. Irregularidades na execução da obra de pa...",
+   "description": "O MP apurou moralidade administrativa. Irregularidades na execução da obra de pavimentação comunitá.... O caso tratava de possível dano ao erário. O caso ficou encerrado com TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "alta"
+  },
+  {
+   "i": 12,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre suposta irregularidade na locação de máquina diversa da previ...",
+   "description": "O MP apurou suposta irregularidade na locação de máquina diversa da prevista na Ata do Pregão n. O MP concluiu que não houve ato de improbidade. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "alta"
+  },
+  {
+   "i": 13,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP encerra caso prescrito sobre possível prática de Ato de Improbidade Administrativa,...",
+   "description": "O MP apurou possível prática de Ato de Improbidade Administrativa, consistente na republicação da Lei Municipal n. O caso tratava de possível dano ao erário. O caso ficou encerrado por prescrição.",
+   "status": "⚫ prescrito",
+   "severity": "alta"
+  },
+  {
+   "i": 14,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre possível ato de improbidade decorrente da não observância pel...",
+   "description": "O MP apurou possível ato de improbidade decorrente da não observância pelo Município de São Bento do Sul do tempo extraclasse necessário ao preparo de aulas para os professores, em conformidade ao previsto no artigo 2º, § 4º, da Lei Federal n. O MP concluiu que não houve ato de improbidade. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 15,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre considerando a inexistência de prova da ocorrência de dolo (m...",
+   "description": "O MP apurou considerando a inexistência de prova da ocorrência de dolo (má-fé) na prática do ato, t.... O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 16,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP encerra caso prescrito sobre suposta parcialidade e predisposição de servidores em c...",
+   "description": "O MP apurou suposta parcialidade e predisposição de servidores em culpar demandada em procedimento administrativo do Município de São Bento do Sul. O possível ilícito foi alcançado pela prescrição. O caso ficou encerrado por prescrição.",
+   "status": "⚫ prescrito",
+   "severity": "media"
+  },
+  {
+   "i": 17,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre eventual improbidade administrativa decorrente da contratação de est...",
+   "description": "O MP apurou eventual improbidade administrativa decorrente da contratação de estagiários em substituição a atendentes educativos. Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 18,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre moralidade administrativa. Suposto ato de improbidade adminis...",
+   "description": "O MP apurou moralidade administrativa. Suposto ato de improbidade administrativa que viola os princ.... O caso tratava de possível dano ao erário. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "alta"
+  },
+  {
+   "i": 19,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP encerra caso prescrito sobre possível prática de ato de improbidade administrativa,...",
+   "description": "O MP apurou possível prática de ato de improbidade administrativa, consistente na realização de obras iniciais do Contorno Norte sem a existência de licenças ambientais para a obra, culminando no gasto de dinheiro público em razão de desapropriação e construção de ponte no local. O caso tratava de possível dano ao erário. O caso ficou encerrado por prescrição.",
+   "status": "⚫ prescrito",
+   "severity": "alta"
+  },
+  {
+   "i": 20,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 21,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP encerra caso prescrito sobre suposto ato de improbidade administrativa por servidor...",
+   "description": "O MP apurou suposto ato de improbidade administrativa por servidor público pelo não cumprimento integral da carga horária. O possível ilícito foi alcançado pela prescrição. O caso ficou encerrado por prescrição.",
+   "status": "⚫ prescrito",
+   "severity": "media"
+  },
+  {
+   "i": 22,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre eventuais irregularidades envolvendo o Centro de Educação Pro...",
+   "description": "O MP apurou eventuais irregularidades envolvendo o Centro de Educação Profissional (CEDUP) de São Bento do Sul, levando em conta seu não funcionamento em razão da falta de móveis e da necessidade de oficializar a Instituição, a despeito do transcurso de prazo superior a um ano desde a conclusão da obra. O MP concluiu que não houve ato de improbidade. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "alta"
+  },
+  {
+   "i": 23,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre de possíveis irregularidades na atuação da Cleiciane Cubas, d...",
+   "description": "O MP apurou de possíveis irregularidades na atuação da Cleiciane Cubas, decorrentes do exercício de funções privativas de Secretária do Fórum Municipal de Campo Alegre. O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 24,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre irregularidade no credenciamento de médico perante o DETRAN",
+   "description": "O MP apurou irregularidade no credenciamento de médico perante o DETRAN. A irregularidade foi sanada durante a apuração. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 25,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 26,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 27,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre se o Município de São Bento do Sul está cumprindo as regras relativa...",
+   "description": "O MP apurou se o Município de São Bento do Sul está cumprindo as regras relativas à dispensa de licitação no atual estado de emergência deflagrado pela disseminação do novo coronavírus (COVID-19). Não foram constatadas irregularidades. O caso ficou encerrado com TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 28,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre moralidade Administrativa. Subcontratação em pregão presencial promo...",
+   "description": "O MP apurou moralidade Administrativa. Subcontratação em pregão presencial promovido pela SAMAE de.... Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 29,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre ato de improbidade administrativa decorrente da não instauraç...",
+   "description": "O MP apurou ato de improbidade administrativa decorrente da não instauração de procedimento administrativo disciplinar em face de servidor. O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 30,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP encerra caso prescrito sobre suposto ato de improbidade administrativa",
+   "description": "O MP apurou suposto ato de improbidade administrativa. O possível ilícito foi alcançado pela prescrição. O caso ficou encerrado por prescrição.",
+   "status": "⚫ prescrito",
+   "severity": "media"
+  },
+  {
+   "i": 31,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP encerra caso prescrito sobre lesão ao erário decorrente do não cumprimento do contra...",
+   "description": "O MP apurou lesão ao erário decorrente do não cumprimento do contrato para reforma de escola por parte da empreiteira contratada. O caso tratava de possível dano ao erário. O caso ficou encerrado por prescrição.",
+   "status": "⚫ prescrito",
+   "severity": "alta"
+  },
+  {
+   "i": 32,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre eventual ato de improbidade administrativa por servidor decorrente d...",
+   "description": "O MP apurou eventual ato de improbidade administrativa por servidor decorrente da não execução de suas funções de supervisor de gestão de pessoas. O MP concluiu que não houve ato de improbidade. O caso ficou encerrado com TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "alta"
+  },
+  {
+   "i": 33,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre as condutas no âmbito penal",
+   "description": "O MP apurou as condutas no âmbito penal. O MP concluiu que não houve ato de improbidade. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 34,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre a ocorrência de ato de improbidade administrativa praticado,...",
+   "description": "O MP apurou a ocorrência de ato de improbidade administrativa praticado, em tese, pelos policiais militares Anderson Stein e Paulo Sérgio Alves em face de Jorge Wilson Rank. O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 35,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP registra apuração sobre os atos de improbidade administrativa que importam no",
+   "description": "O MP apurou os atos de improbidade administrativa que importam no. O caso foi encerrado conforme o texto de origem. O caso ficou sem desfecho claro no texto.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 36,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP registra apuração sobre não lavratura de auto de prisão em flagrante. Inquérito poli...",
+   "description": "O MP apurou não lavratura de auto de prisão em flagrante. Inquérito policial por Delegados de Políc.... O MP concluiu que não houve ato de improbidade. O caso ficou sem desfecho claro no texto.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 37,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre regularidade na Dispensa de Licitação n",
+   "description": "O MP apurou regularidade na Dispensa de Licitação n. O caso tratava de possível dano ao erário. O caso ficou encerrado com TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "alta"
+  },
+  {
+   "i": 38,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 39,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP leva à Justiça apuração sobre omissão da Câmara Municipal de Vereadores e do Municíp...",
+   "description": "O MP apurou omissão da Câmara Municipal de Vereadores e do Município de São Bento do Sul em aplicar o disposto no artigo art. O procedimento terminou com ajuizamento de ação civil pública. O caso ficou encerrado com ação judicial.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 40,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre possível desvio de função do servidor Domingos Soares",
+   "description": "O MP apurou possível desvio de função do servidor Domingos Soares. O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 41,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre suposto direcionamento do Pregão Eletrônico n",
+   "description": "O MP apurou suposto direcionamento do Pregão Eletrônico n. O caso tratava de possível dano ao erário. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "alta"
+  },
+  {
+   "i": 42,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP aponta irregularidade em moralidade Administrativa. Violação ao princípio da impesso...",
+   "description": "O MP apurou moralidade Administrativa. Violação ao princípio da impessoalidade em publicações no in.... O órgão apontou violação e adotou a providência indicada no texto. O caso ficou encerrado com apontamento de irregularidade.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 43,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre meio Ambiente. Obstrução da via pública pela construção de rampas de...",
+   "description": "O MP apurou meio Ambiente. Obstrução da via pública pela construção de rampas de acesso às residênc.... Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 44,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre a regularidade da Inexigibilidade de Licitação n",
+   "description": "O MP apurou a regularidade da Inexigibilidade de Licitação n. O caso tratava de possível dano ao erário. O caso ficou encerrado com TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "alta"
+  },
+  {
+   "i": 45,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre possível irregularidade na concessão e licitação de transporte públi...",
+   "description": "O MP apurou possível irregularidade na concessão e licitação de transporte público municipal. Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 46,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP leva à Justiça apuração sobre ajuizamento de ação civil pública.",
+   "description": "O MP apurou ajuizamento de ação civil pública.. O procedimento terminou com ajuizamento de ação civil pública. O caso ficou encerrado com ação judicial.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 47,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre suposta intervenção em área de preservação permanente",
+   "description": "O MP apurou suposta intervenção em área de preservação permanente. O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 48,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 49,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 50,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre suposta irregularidade na designação de servidores para exerc...",
+   "description": "O MP apurou suposta irregularidade na designação de servidores para exercício de cargo diverso do qual foram nomeados. O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 51,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre suposta ausência de especialização de reserva legal no imóvel...",
+   "description": "O MP apurou suposta ausência de especialização de reserva legal no imóvel matriculado sob o n. A irregularidade foi sanada durante a apuração. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 52,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP registra apuração sobre possíveis irregularidades no âmbito da Secretaria Municipal...",
+   "description": "O MP apurou possíveis irregularidades no âmbito da Secretaria Municipal de Saúde de São Bento do Sul decorrentes da ausência ou da falsificação de documentos relacionados à concessão de alvarás sanitários às Unidades Básicas de Saúde, às Estratégias Saúde da Família, ao Centro de Atenção Psicossocial (CAPS II) e ao Centro de Especialidades Médicas (CEM), inadequações no Sistema de Prontuários Eletrônicos, ausência de médico regulador e autorizador na esfera municipal e falta de equipamentos para realização e análises de ultrassonografias. A irregularidade foi sanada durante a apuração. O caso ficou sem desfecho claro no texto.",
+   "status": "❔ status indef.",
+   "severity": "alta"
+  },
+  {
+   "i": 53,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre meio Ambiente. Parcelamento irregular do solo e supressão de vegetaç...",
+   "description": "O MP apurou meio Ambiente. Parcelamento irregular do solo e supressão de vegetação nativa. Acordo d.... Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 54,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre supressão de árvores nativas e realização de obra de terrapla...",
+   "description": "O MP apurou supressão de árvores nativas e realização de obra de terraplanagem sem autorização do órgão ambiental. O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 55,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 56,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre suposta desídia do Município de São Bento do Sul no acompanhamento e...",
+   "description": "O MP apurou suposta desídia do Município de São Bento do Sul no acompanhamento e fiscalização da destinação correta de terra removida em face da concessão de licenças para movimentação de terra de médio e grande porte, quando há sobra de material. Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 57,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 58,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre meio ambiente. Lançamento de esgoto doméstico de forma irregu...",
+   "description": "O MP apurou meio ambiente. Lançamento de esgoto doméstico de forma irregular por residências da Rua.... O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 59,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 60,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre ausência de repasse dos valores devidos ao Fundo Municipal de...",
+   "description": "O MP apurou ausência de repasse dos valores devidos ao Fundo Municipal de Meio Ambiente. A irregularidade foi sanada durante a apuração. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 61,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre ato de improbidade consistente na utilização dos serviços de...",
+   "description": "O MP apurou ato de improbidade consistente na utilização dos serviços de estagiário de municipalidade para fins pessoais. O caso tratava de possível dano ao erário. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "alta"
+  },
+  {
+   "i": 62,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre a regularidade do andamento dos procedimentos de sindicância...",
+   "description": "O MP apurou a regularidade do andamento dos procedimentos de sindicância da Prefeitura Municipal de São Bento do Sul, bem como da estrutura da Comissão Permanente de Sindicância. O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 63,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 64,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre supostas irregularidades em tanque artificial localizado no p...",
+   "description": "O MP apurou supostas irregularidades em tanque artificial localizado no pátio da Fundação Promotora de Eventos de São Bento do Sul (Promosul), o qual, em dias de chuva forte, transborda e causa inundações nas propriedades vizinhas. O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 65,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre meio Ambiente. Construção de casas em área de preservação permanente...",
+   "description": "O MP apurou meio Ambiente. Construção de casas em área de preservação permanente pela EMHAB de São.... Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 66,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre meio Ambiente. Representação informando danos ambientais em quatro i...",
+   "description": "O MP apurou meio Ambiente. Representação informando danos ambientais em quatro imóveis da Avenida S.... Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 67,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 68,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 69,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 70,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre a prática de poluição sonora do estabelecimento Fundação Promotora d...",
+   "description": "O MP apurou a prática de poluição sonora do estabelecimento Fundação Promotora de Eventos de São Bento do Sul (PROMOSUL). Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 71,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre meio ambiente. Despejo de esgoto sanitário na rede de drenage...",
+   "description": "O MP apurou meio ambiente. Despejo de esgoto sanitário na rede de drenagem pluvial. Adoção das medi.... O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 72,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 73,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre possíveis irregularidades consistentes no estacionamento de veículos...",
+   "description": "O MP apurou possíveis irregularidades consistentes no estacionamento de veículos em passeios públicos no município de São Bento do Sul/SC. Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 74,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 75,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre eventuais irregularidade no pagamento de exames de Raio X pel...",
+   "description": "O MP apurou eventuais irregularidade no pagamento de exames de Raio X pelo Fundo Municipal de Saúde de São Bento do Sul ao Hospital e Maternidade Sagrada Família. Não foram constatadas irregularidades. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "alta"
+  },
+  {
+   "i": 76,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 77,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre supostas ilicitudes na cessão de uso do autódromo Lourenço Sc...",
+   "description": "O MP apurou supostas ilicitudes na cessão de uso do autódromo Lourenço Schreiner. Não foram constatadas irregularidades. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 78,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre moralidade administrativa. Irregularidade referente à representação...",
+   "description": "O MP apurou moralidade administrativa. Irregularidade referente à representação judicial do Municíp.... Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 79,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre irregularidade na cessão de imóvel à Associação Centro Especi...",
+   "description": "O MP apurou irregularidade na cessão de imóvel à Associação Centro Especializado em Prevenção e Recuperação de Dependentes Químicos. Não foram constatadas irregularidades. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "alta"
+  },
+  {
+   "i": 80,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre meio ambiente. Suposta contaminação do lençol freático e de r...",
+   "description": "O MP apurou meio ambiente. Suposta contaminação do lençol freático e de rios oriunda do antigo \"Lix.... O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 81,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre suposta infração ambiental praticada por Máxima Indústria de...",
+   "description": "O MP apurou suposta infração ambiental praticada por Máxima Indústria de Móveis Ltda. O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 82,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre irregularidades no pagamento de horas extras a servidores da...",
+   "description": "O MP apurou irregularidades no pagamento de horas extras a servidores da Secretaria de Obras de São Bento do Sul. O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 83,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre supostas irregularidades na cobrança de mensalidade e falta d...",
+   "description": "O MP apurou supostas irregularidades na cobrança de mensalidade e falta de vagas na Escola de Música Donaldo Ritzmann do Município de São Bento do Sul. O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "alta"
+  },
+  {
+   "i": 84,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre possíveis irregularidades no serviços de transporte, guarda e depósi...",
+   "description": "O MP apurou possíveis irregularidades no serviços de transporte, guarda e depósito de veículos apreendidos e retirados de circulação pelas polícias civil e militar no Município de São Bento do Sul, derivadas de supostos aumentos abusivos das respectivas taxas, bem como de sua cobrança indevida e por períodos superiores aos permitidos pelas normas de regência. Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 85,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre possíveis irregularidades no redirecionamento de cirurgias el...",
+   "description": "O MP apurou possíveis irregularidades no redirecionamento de cirurgias eletivas custeadas pelo Município de São Bento do Sul do Hospital e Maternidade Sagrada Família para a Maternidade e Cirurgia Nossa Senhora do Rocio S/A. O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "alta"
+  },
+  {
+   "i": 86,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 87,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 88,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre instaurado para constatar e sanar as irregularidades verificadas, ao...",
+   "description": "O MP apurou instaurado para constatar e sanar as irregularidades verificadas, ao longo das inspeçõe.... Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 89,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre a ausência de suporte às fiscalizações e punições de irregula...",
+   "description": "O MP apurou a ausência de suporte às fiscalizações e punições de irregularidades do Serviço de Inspeção Municipal de São Bento do Sul. O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 90,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre supostas irregularidades na contratação temporária de psicólogos",
+   "description": "O MP apurou supostas irregularidades na contratação temporária de psicólogos. Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 91,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 92,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre moralidade administrativa. Suposta irregularidade nos requisi...",
+   "description": "O MP apurou moralidade administrativa. Suposta irregularidade nos requisitos exigidos para cargo de.... O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 93,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 94,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre suposta contratação temporária irregular de secretário de escola pel...",
+   "description": "O MP apurou suposta contratação temporária irregular de secretário de escola pelo Município de São Bento do Sul. A irregularidade foi sanada durante a apuração. O caso ficou encerrado com TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "alta"
+  },
+  {
+   "i": 95,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre fluxo entre atenção primária e hospital local. Tempo de atendimento...",
+   "description": "O MP apurou fluxo entre atenção primária e hospital local. Tempo de atendimento por médicos em sobr.... Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "alta"
+  },
+  {
+   "i": 96,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 97,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 98,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre meio ambiente. Aterro em área de preservação permanente. Medidas adm...",
+   "description": "O MP apurou meio ambiente. Aterro em área de preservação permanente. Medidas administrativas sufici.... Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "alta"
+  },
+  {
+   "i": 99,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 100,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP registra apuração sobre apuração em São Bento do Sul",
+   "description": "O MP apurou o caso. O caso foi encerrado conforme o texto de origem. O caso ficou sem desfecho claro no texto.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 101,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 102,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 103,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP registra apuração sobre apuração em São Bento do Sul",
+   "description": "O MP apurou o caso. O caso foi encerrado conforme o texto de origem. O caso ficou sem desfecho claro no texto.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 104,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre moralidade Administrativa. Suposta promoção pessoal pelo ex-S...",
+   "description": "O MP apurou moralidade Administrativa. Suposta promoção pessoal pelo ex-Secretário de Educação do M.... O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 105,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre meio Ambiente. Suposta terraplanagem em área de preservação permanen...",
+   "description": "O MP apurou meio Ambiente. Suposta terraplanagem em área de preservação permanente. Termo de Ajusta.... Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 106,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre o cumprimento, por parte do Município de São Bento do Sul, das obrig...",
+   "description": "O MP apurou o cumprimento, por parte do Município de São Bento do Sul, das obrigações estabelecidas na Lei n. Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 107,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP registra apuração sobre as condições de segurança do transporte escolar ofertado pel...",
+   "description": "O MP apurou as condições de segurança do transporte escolar ofertado pela Secretaria Municipal de Educação do Município de São Bento do Sul. O caso foi encerrado conforme o texto de origem. O caso ficou sem desfecho claro no texto.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 108,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP registra apuração sobre as condições de segurança do transporte escolar ofertado pel...",
+   "description": "O MP apurou as condições de segurança do transporte escolar ofertado pela Secretaria Municipal de Educação do Município de São Bento do Sul. O caso foi encerrado conforme o texto de origem. O caso ficou sem desfecho claro no texto.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 109,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 110,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre possível má qualidade das fraldas de uso adulto fornecidas pe...",
+   "description": "O MP apurou possível má qualidade das fraldas de uso adulto fornecidas pelo Sistema Único de Saúde (SUS) aos pacientes. O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 111,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 112,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre o atual estágio da área degradada objeto da Notícia de Infraç...",
+   "description": "O MP apurou o atual estágio da área degradada objeto da Notícia de Infração Penal Ambiental n. O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 113,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre meio Ambiente. Supressão de vegetação nativa do Bioma Mata Atlântica...",
+   "description": "O MP apurou meio Ambiente. Supressão de vegetação nativa do Bioma Mata Atlântica. Acordo de não per.... Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 114,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre a violação dos direitos de consumidores de São Bento do Sul, derivad...",
+   "description": "O MP apurou a violação dos direitos de consumidores de São Bento do Sul, derivada do comércio de medicamentos em desacordo com as normas sanitárias vigentes pela Drogaria 25 de Julho Ltda. Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 115,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre a ausência de regulamentação da revisão de horas extras e de sobreav...",
+   "description": "O MP apurou a ausência de regulamentação da revisão de horas extras e de sobreaviso dos conselheiros tutelares de São Bento do Sul. Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 116,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP leva à Justiça apuração sobre ajuizamento de ação civil pública.",
+   "description": "O MP apurou ajuizamento de ação civil pública.. O procedimento terminou com ajuizamento de ação civil pública. O caso ficou encerrado com ação judicial.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 117,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre meio Ambiente. Dano provocado a duas árvores ameaçadas de extinção,...",
+   "description": "O MP apurou meio Ambiente. Dano provocado a duas árvores ameaçadas de extinção, um pinheiro-brasile.... Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 118,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 119,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 120,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 121,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre possível deficiência de política pública municipal voltada ao fornec...",
+   "description": "O MP apurou possível deficiência de política pública municipal voltada ao fornecimento de leite especial (suplemento alimentar/alimento acompanhado de alimentação diversificada para substituir o leite materno) para as crianças do Município de São Bento do Sul. Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 122,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre instaurado objetivando implementar medidas para manter, no Mu...",
+   "description": "O MP apurou instaurado objetivando implementar medidas para manter, no Município de São Bento do Su.... O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 123,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP leva à Justiça apuração sobre ajuizamento de ação civil pública.",
+   "description": "O MP apurou ajuizamento de ação civil pública.. O procedimento terminou com ajuizamento de ação civil pública. O caso ficou encerrado com ação judicial.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 124,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP leva à Justiça apuração sobre ajuizamento de ação civil pública.",
+   "description": "O MP apurou ajuizamento de ação civil pública.. O procedimento terminou com ajuizamento de ação civil pública. O caso ficou encerrado com ação judicial.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 125,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP leva à Justiça apuração sobre ajuizamento de ação civil pública.",
+   "description": "O MP apurou ajuizamento de ação civil pública.. O procedimento terminou com ajuizamento de ação civil pública. O caso ficou encerrado com ação judicial.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 126,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP leva à Justiça apuração sobre ajuizamento de ação civil pública.",
+   "description": "O MP apurou ajuizamento de ação civil pública.. O procedimento terminou com ajuizamento de ação civil pública. O caso ficou encerrado com ação judicial.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 127,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 128,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre desídia do Município de São Bento do Sul na conservação de be...",
+   "description": "O MP apurou desídia do Município de São Bento do Sul na conservação de bem público. O caso tratava de possível dano ao erário. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "alta"
+  },
+  {
+   "i": 129,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre desídia do Município de São Bento do Sul na conservação de be...",
+   "description": "O MP apurou desídia do Município de São Bento do Sul na conservação de bem público. O caso tratava de possível dano ao erário. O caso ficou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "alta"
+  },
+  {
+   "i": 130,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 131,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 132,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 133,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 134,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre possível descumprimento da carga horária de trabalho por servidora d...",
+   "description": "O MP apurou possível descumprimento da carga horária de trabalho por servidora do Município de São Bento do Sul. Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 135,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 136,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre a ilegalidade do recebimento de horas extras por servidora efetiva q...",
+   "description": "O MP apurou a ilegalidade do recebimento de horas extras por servidora efetiva que exerce função comissionada. Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 137,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP leva à Justiça apuração sobre ajuizamento de ação civil pública.",
+   "description": "O MP apurou ajuizamento de ação civil pública.. O procedimento terminou com ajuizamento de ação civil pública. O caso ficou encerrado com ação judicial.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 138,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 139,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre a legalidade e eventual privilégio à atual permissionária na fixação...",
+   "description": "O MP apurou a legalidade e eventual privilégio à atual permissionária na fixação de cláusula de indenização de serviços prestados referentes aos veículos depositados, na Concorrência Pública n. Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 140,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 141,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 142,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 143,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 144,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 145,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 146,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 147,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC com transporte coletivo sobre acessibilidade",
+   "description": "O inquérito apurava o cumprimento das normas de acessibilidade pela Empresa e Transporte Coletivo Rainha. O TAC foi aditado e o caso foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 148,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso sobre chefe de divisão sem qualificação técnica",
+   "description": "O MP apurou a ocupação do cargo por Jairo Elói Muller e concluiu que havia exercício efetivo das atividades, omissão na lei municipal e exoneração superveniente. O arquivamento foi proposto.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 149,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 150,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre atraso em PADs de médicos municipais",
+   "description": "O procedimento tratou das providências do município para concluir PADs ligados ao descumprimento de carga horária por médicos. O objeto perdeu o sentido e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 151,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso sobre acessibilidade na escola Coronel Osny Vasconcelos",
+   "description": "A fiscalização constatou que a reforma total da escola regularizou as falhas de acessibilidade. O objeto se esgotou e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 152,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre dano ambiental em Campo Alegre",
+   "description": "O MP apurou dano ambiental em propriedade privada e registrou a implementação do PRAD após autuação da Polícia Ambiental. As medidas administrativas foram consideradas suficientes.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 153,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 154,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP ajuíza ação sobre demora em consultas de fonoaudiologia",
+   "description": "O inquérito apurou demora excessiva no atendimento de fonoaudiologia para crianças e adolescentes. Houve ajuizamento de ação civil pública para regularizar os atendimentos.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 155,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cobra atendimento prioritário a crianças e adolescentes na saúde",
+   "description": "O procedimento tratou da precedência de atendimento nos serviços públicos de saúde e a recomendação não foi acatada. O MP ajuizou ação civil pública para garantir o atendimento.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 156,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP homologa TAC para proteção de crianças autistas",
+   "description": "O aditamento ao TAC ampliou a proteção dos direitos de crianças e adolescentes com TEA. O problema foi solucionado e o caso foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 157,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso sobre desmembramento de imóvel rural",
+   "description": "O inquérito concluiu que o imóvel se adequava à Lei Complementar 11/2023. Sem fundamento para ação, o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 158,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 159,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 160,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 161,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 162,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 163,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 164,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre acessibilidade do Colégio Global",
+   "description": "As inspeções e adequações pontuais mostraram que não havia lesão aos direitos dos alunos com deficiência. O objeto se esgotou e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 165,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 166,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 167,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso sobre ausências de professora e rotatividade em sala",
+   "description": "O inquérito apurava ausências da docente e a rotatividade excessiva de professores. A profissional foi readaptada e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 168,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 169,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 170,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 171,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva reclamação sobre qualidade da TIM em São Bento do Sul",
+   "description": "O MP concluiu que os fatos não foram confirmados e que a operadora atendia aos parâmetros da ANATEL. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 172,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso sobre plantão do Hospital Sagrada Família",
+   "description": "O inquérito tratou de supostas irregularidades no pronto atendimento do hospital. As questões restantes foram vistas como isoladas ou já solucionadas, e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 173,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre deslizamento e atuação da Defesa Civil",
+   "description": "O inquérito examinou a liberação de residências após deslizamento e a classificação de risco. Como o objeto se perdeu, o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 174,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso sobre ILPI Maria Luiza após adequações",
+   "description": "A entidade providenciou as adequações exigidas e o estudo social não apontou violações de direitos dos idosos. O MP arquivou o procedimento.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 175,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 176,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 177,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre o pronto atendimento do Sagrada Família",
+   "description": "O procedimento reuniu informação criminal e extrajudicial sobre atendimento e prontuário de paciente. O objeto foi esgotado e o caso acabou arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 178,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso sobre desmembramento de imóvel rural em área urbana",
+   "description": "O MP entendeu que a transformação do imóvel se enquadrava na exceção do Código Florestal. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 179,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 180,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 181,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre adicional de periculosidade no SAMAE",
+   "description": "O inquérito apurou suposto pagamento ilegal de adicional de periculosidade, mas o erro no cadastro não confirmou a irregularidade inicial. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 182,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 183,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 184,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre intervenção em APP em São Bento do Sul",
+   "description": "O investigado celebrou TAC e o MP entendeu não haver fundamento para ação judicial. O inquérito foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 185,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre movimentação irregular de terra para obra da Havan",
+   "description": "O TAC foi firmado com os investigados e o MP encerrou o caso sem ação judicial. O inquérito foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 186,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 187,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 188,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP ajuíza ação sobre irregularidades em ILPI de São Bento do Sul",
+   "description": "O MP apurou irregularidades no funcionamento da ILPI Cuidar Bem e encerrou o inquérito com ação civil pública para fechar a entidade e afastar o responsável técnico.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 189,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso sobre ILPI sem autorização em São Bento do Sul",
+   "description": "O procedimento tratou da instituição de longa permanência e da mudança do estabelecimento para outro município. O MP concluiu que não havia necessidade de seguir com a investigação.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 190,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 191,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 192,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 193,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC com casa noturna sem alvará em São Bento do Sul",
+   "description": "A ausência de licença para funcionamento foi confirmada e o estabelecimento firmou TAC para cessar a atividade até a regularização. O caso foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 194,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso sobre ruídos do Deck Lanches",
+   "description": "O ente municipal adotou providências para resolver a questão dos ruídos e o MP concluiu pela ausência de interesse de agir. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 195,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre supressão de vegetação no imóvel rural",
+   "description": "Os investigados firmaram TAC para a supressão de vegetação nativa em Campo Alegre. O caso foi arquivado após a composição.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 196,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 197,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC com Plaza Bier por funcionar sem licença",
+   "description": "O MP confirmou a ausência de alvará para casa noturna e firmou TAC para cessar a atividade sem licença. O caso foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 198,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 199,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre medicamentos oncológicos no hospital",
+   "description": "O procedimento discutia o custeio de medicamentos oncológicos prescritos no Hospital e Maternidade Sagrada Família. O texto aponta a responsabilidade do hospital habilitado e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "alta"
+  },
+  {
+   "i": 200,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 201,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 202,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 203,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 204,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 205,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso sobre ILPI após correções sugeridas",
+   "description": "A entidade de longa permanência adotou todas as providências sugeridas e a problemática foi considerada resolvida. O MP arquivou o caso.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 206,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso sobre contratação da Dalltor pelo Consórcio Quiriri",
+   "description": "O MP não viu indícios de burla à licitação e registrou que o serviço foi efetivamente prestado. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 207,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 208,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 209,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 210,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso sobre interdição no IGP de São Bento do Sul",
+   "description": "A interdição da sala de exames e necropsia foi superada com a posterior desinterdição e a providência para a sede própria. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 211,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC com optometristas e instituto em São Bento do Sul",
+   "description": "O MP tratou da atuação de optometristas no Instituto Optométrico dos Olhos e firmou TAC após fixar o entendimento sobre a atividade. O caso foi encerrado com acordo.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 212,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 213,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 214,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso sobre credenciamento do CFC Universal",
+   "description": "O MP concluiu que a cassação do credenciamento só transitou em julgado depois e que a relação marital citada não configurava ilegalidade. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 215,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC e exige devolução ao FIA após palestra paga com recursos públicos",
+   "description": "O caso tratou de palestra custeada com recursos do FIA e de suposta falha na prestação do serviço. O TAC previu restituição dos valores ao fundo.",
+   "status": "🟠 TAC firmado",
+   "severity": "alta"
+  },
+  {
+   "i": 216,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP leva acordo de não persecução civil à homologação",
+   "description": "O procedimento terminou com ajuizamento de ação para homologar o acordo de não persecução civil. O caso foi encerrado nessa etapa.",
+   "status": "🟠 ACNP firmado",
+   "severity": "media"
+  },
+  {
+   "i": 217,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 218,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC sobre obra sem alvará ligada a rinha de galos",
+   "description": "A construção irregular foi regularizada por TAC, com proibição de uso antes da regularização e pagamento pecuniário. O caso foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 219,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 220,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 221,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 222,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 223,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 224,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso sobre alimentação de presos na delegacia",
+   "description": "A edição de resolução transferiu os presos para Mafra e o MP entendeu desnecessário seguir com TAC ou ação. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 225,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 226,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 227,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 228,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 229,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 230,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 231,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 232,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 233,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 234,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso sobre acessibilidade da Polícia Civil",
+   "description": "O prédio da Polícia Civil passou por reformas e adaptações para atender às normas de acessibilidade. O Ministério Público arquivou o caso.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 235,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 236,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 237,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP encerra acompanhamento da extinção da Fundação Saturno",
+   "description": "O MP passou a acompanhar a extinção judicial da fundação e considerou desnecessária a manutenção deste procedimento. O objeto foi perdido e o caso foi encerrado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  }
+ ],
+ "tce": [
+  {
+   "i": 0,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 1,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 2,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 3,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 4,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 5,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 6,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 7,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 8,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 9,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 10,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 11,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 12,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 13,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 14,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 15,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 16,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 17,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 18,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 19,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 20,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 21,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 22,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 23,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 24,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 25,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 26,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 27,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 28,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 29,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 30,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 31,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 32,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 33,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 34,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 35,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 36,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 37,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 38,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 39,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 40,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 41,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 42,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 43,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 44,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE pede documentos sobre assessores jurídicos comissionados",
+   "description": "O procedimento apura a nomeação de assessores jurídicos comissionados na Procuradoria Jurídica. O Tribunal determinou diligência e a instrução continua.",
+   "status": "🟡 em instrução (citação/audiência)",
+   "severity": "media"
+  },
+  {
+   "i": 45,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE apura horas extras de assistente social em Presidente Getúlio",
+   "description": "O processo discutiu pagamento de horas extras e possível acumulação com função de confiança. O Tribunal postergou a cautelar e abriu oitiva.",
+   "status": "🟡 em instrução (citação/audiência)",
+   "severity": "media"
+  },
+  {
+   "i": 46,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva análise do transporte coletivo e recomenda ajustes",
+   "description": "O relatório sobre o planejamento da concessão do transporte público concluiu com recomendações técnicas. O processo foi arquivado.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 47,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE abre diligência sobre rádio e possíveis despesas fictas",
+   "description": "A representação apontou contratação de emissora sem regularidade e possíveis pagamentos fictos. O Tribunal conheceu o caso e determinou diligência.",
+   "status": "🟡 em instrução (citação/audiência)",
+   "severity": "media"
+  },
+  {
+   "i": 48,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE abre diligência sobre manutenção de equipamentos de saúde",
+   "description": "A representação questiona o pregão de manutenção de equipamentos médicos e odontológicos. O Tribunal conheceu o caso e determinou diligência sobre a empresa e a ata.",
+   "status": "🟡 em instrução (citação/audiência)",
+   "severity": "media"
+  },
+  {
+   "i": 49,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE pune assessores jurídicos comissionados em São Bento do Sul",
+   "description": "O Tribunal considerou irregular a emissão de pareceres por assessores comissionados em área reservada à advocacia pública. O processo foi arquivado após a decisão.",
+   "status": "⬛ julgado irregular",
+   "severity": "media"
+  },
+  {
+   "i": 50,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 51,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva monitoramento da meta de educação e cobra continuidade",
+   "description": "O relatório de inspeção tratou do monitoramento da estratégia 17.5 da educação. O Tribunal aprovou o plano de ação e arquivou o processo.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 52,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 53,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 54,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 55,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 56,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE não conhece representação sobre pregão de auxílio-alimentação",
+   "description": "A representação foi rejeitada por falha de admissibilidade e o processo foi arquivado.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 57,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multa Magno Bollmann por omissão na verificação de médico",
+   "description": "A denúncia foi julgada irregular e o Tribunal aplicou multa ao ex-prefeito pela falta de fiscalização da carga horária do servidor médico.",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta"
+  },
+  {
+   "i": 58,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva auditoria da iluminação pública",
+   "description": "O relatório constatou cumprimento da decisão anterior e apenas fez recomendações técnicas. O processo foi arquivado.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 59,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva chamamento público de peça teatral por falta de seletividade",
+   "description": "O PAP foi arquivado sem análise de mérito porque não passou na seletividade. O Tribunal apenas recomendou cuidados para futuras parcerias.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 60,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva denúncia sobre exercício de função pública",
+   "description": "A denúncia foi rejeitada por ausência de indícios de irregularidade. O processo foi arquivado.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 61,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva denúncia sobre cargos em confiança",
+   "description": "O Tribunal não conheceu a denúncia por falhas de admissibilidade e arquivou os autos.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 62,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva representação sobre dispensa eletrônica no IPRESBS",
+   "description": "A representação não passou na etapa de seletividade e foi arquivada.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 63,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva PAP sobre contratação temporária de auxiliares de educador",
+   "description": "O procedimento foi arquivado por não atender à seletividade, embora tenha rendido alerta ao controle interno.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 64,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 65,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE confirma irregularidade em tomada de preços da escola",
+   "description": "A representação sobre a tomada de preços 332/2021 foi julgada procedente e a irregularidade apontada foi confirmada.",
+   "status": "⬛ julgado irregular",
+   "severity": "media"
+  },
+  {
+   "i": 66,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva PAP sobre suspensão de processo seletivo e contratação de médicos",
+   "description": "O procedimento foi arquivado por falta de seletividade. O Tribunal recomendou convocar os aprovados do concurso.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 67,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 68,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 69,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 70,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva denúncia sobre cargos comissionados declarados",
+   "description": "A representação não foi conhecida por falta de seletividade e os autos foram arquivados.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 71,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 72,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 73,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva representação sobre gestão da EMHAB",
+   "description": "A representação foi rejeitada por ausência de documentos e indícios mínimos. O processo foi arquivado.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 74,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE abre diligência sobre emissora de rádio contratada pelo SAMAE",
+   "description": "A representação foi conhecida e o Tribunal pediu documentos sobre contrato, execução e regularidade da empresa. A instrução segue aberta.",
+   "status": "🟡 em instrução (citação/audiência)",
+   "severity": "media"
+  },
+  {
+   "i": 75,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 76,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva PAP sobre concorrência pública de esgoto",
+   "description": "O PAP não passou na seletividade e foi arquivado, com recomendações ao controle interno.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 77,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 78,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva denúncia sobre convocação de professor de violão",
+   "description": "O Tribunal arquivou o procedimento por falta de elementos de convicção sobre irregularidade na nomeação.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 79,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 80,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE reconhece prescrição em incentivo a empresas e mantém irregularidades",
+   "description": "O recurso revisou as despesas com incentivo para instalação de empresas em São Bento do Sul. O Tribunal reconheceu a irregularidade e também a prescrição da pretensão ressarcitória.",
+   "status": "⚫ prescrito",
+   "severity": "alta"
+  },
+  {
+   "i": 81,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 82,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 83,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE analisa pedido de revisão sobre incentivo a empresas",
+   "description": "O pedido de revisão discute o acórdão que tratou dos incentivos econômicos pagos pelo município. O texto mostrado é ainda de admissibilidade e redistribuição.",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 84,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 85,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 86,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 87,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE considera regular processo seletivo da educação em São Bento do Sul",
+   "description": "A inspeção considerou legal o processo seletivo e apenas recomendou providências para reduzir contratações temporárias no futuro.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 88,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 89,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 90,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 91,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 92,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE dá prazo para corrigir progressão funcional em aposentadoria",
+   "description": "O Tribunal apontou irregularidade na progressão funcional usada no cálculo da aposentadoria e deu prazo para correção. O caso segue em instrução.",
+   "status": "🟡 em instrução (citação/audiência)",
+   "severity": "media"
+  },
+  {
+   "i": 93,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva PAP sobre programa de pavimentação comunitária",
+   "description": "O procedimento foi arquivado por não atender à seletividade e o Tribunal apenas enviou cópia ao controle interno.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 94,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 95,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE confirma enquadramento ilegal em aposentadoria de servidora",
+   "description": "O Tribunal negou o registro da aposentadoria de Maurian Grohskopf Sadowski por enquadramento irregular em cargo efetivo. O caso foi considerado ilegal.",
+   "status": "⬛ julgado irregular",
+   "severity": "media"
+  },
+  {
+   "i": 96,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE mantém negativa de registro da aposentadoria de José Ervino Zimmer",
+   "description": "A decisão reiterou que o enquadramento do servidor foi irregular e manteve a negativa de registro do ato. O caso foi considerado ilegal.",
+   "status": "⬛ julgado irregular",
+   "severity": "media"
+  },
+  {
+   "i": 97,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE julga irregular falta de envio de dados da liberdade econômica",
+   "description": "O Tribunal considerou irregular a ausência de envio das informações sobre a adequação municipal à lei da liberdade econômica. O processo foi arquivado após a decisão.",
+   "status": "⬛ julgado irregular",
+   "severity": "media"
+  },
+  {
+   "i": 98,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 99,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE dá prazo para corrigir progressão funcional em aposentadoria",
+   "description": "O Tribunal apontou irregularidade na progressão funcional usada no cálculo da aposentadoria e deu prazo para a adequação. O caso segue em instrução.",
+   "status": "🟡 em instrução (citação/audiência)",
+   "severity": "media"
+  },
+  {
+   "i": 100,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 101,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 102,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 103,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 104,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 105,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 106,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 107,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 108,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 109,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 110,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 111,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 112,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 113,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 114,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 115,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 116,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 117,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 118,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 119,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 120,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 121,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 122,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 123,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 124,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 125,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta enquadramento irregular no IPRESBS e dá prazo",
+   "description": "O tribunal fixou prazo para o IPRESBS corrigir o enquadramento irregular de servidor de agente administrativo para administrador sem concurso publico. A decisao alerta sobre o devido processo legal para eventual anulacao de atos. Caso em apontamento de irregularidade.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 126,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 127,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 128,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE questiona progressao funcional usada na aposentadoria de Vera Lucia",
+   "description": "O processo fixou prazo para sanar a restricao ligada a progressao funcional usada no calculo da aposentadoria. A servidora nao teria tempo habil para as classes G e H, segundo a decisao. O caso segue como apontamento de irregularidade.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 129,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta irregularidades em concorrencia de esgoto do SAMAE",
+   "description": "A instrucao do tribunal listou restricoes tecnicas e financeiras na concorrencia publica para obras de esgoto do SAMAE. O trecho mostra apuracao em andamento, com varias irregularidades relatadas. Nao ha desfecho final ali.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 130,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 131,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 132,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 133,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 134,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 135,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 136,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 137,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 138,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 139,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 140,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 141,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 142,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 143,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 144,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 145,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 146,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 147,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 148,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 149,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 150,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 151,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 152,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 153,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 154,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 155,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 156,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 157,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 158,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 159,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 160,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 161,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 162,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE nega aposentadoria de Olinda Bauner e manda anular ato",
+   "description": "O tribunal manteve a denegacao do registro da aposentadoria de Olinda Bauner, por falta de tempo de servico suficiente e uso de tempo rural sem recolhimento previdenciario. Determinou a anulacao do ato e novas providencias da prefeitura. Julgado irregular.",
+   "status": "⬛ julgado irregular",
+   "severity": "media"
+  },
+  {
+   "i": 163,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 164,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 165,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 166,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 167,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 168,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 169,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 170,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 171,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 172,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 173,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 174,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 175,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 176,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta progressao irregular em aposentadoria de Rosane Kaminski",
+   "description": "O tribunal fixou prazo para corrigir a progressao funcional usada na aposentadoria da servidora, considerada irregular. A decisao reforca a necessidade de observancia do devido processo legal antes de suprimir vantagens. Apontamento de irregularidade.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 177,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 178,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 179,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 180,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE reconhece prescricao e arquiva debitos do IPRESBS",
+   "description": "O recurso de reconsideracao terminou com reconhecimento da prescricao e extincao do processo sem julgamento de merito. O tribunal afastou os debitos imputados e determinou o arquivamento. Nao houve punicao.",
+   "status": "⚫ prescrito",
+   "severity": "media"
+  },
+  {
+   "i": 181,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 182,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 183,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 184,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 185,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 186,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 187,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 188,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE reconhece prescricao e arquiva debito do IPRESBS",
+   "description": "O recurso de reconsideracao ligado ao IPRESBS terminou com reconhecimento da prescricao e extincao do processo sem julgamento de merito. O tribunal afastou os debitos e determinou o arquivamento. Caso prescrito, sem punicao.",
+   "status": "⚫ prescrito",
+   "severity": "media"
+  },
+  {
+   "i": 189,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 190,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 191,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 192,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 193,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 194,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE nega aposentadoria de José Ervino Zimmer e manda anular ato",
+   "description": "O tribunal declarou ilegal a aposentadoria de Jose Ervino Zimmer por enquadramento irregular feito sem concurso publico. Determinou a anulacao da portaria e advertiu o IPRESBS. Caso julgado irregular.",
+   "status": "⬛ julgado irregular",
+   "severity": "media"
+  },
+  {
+   "i": 195,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 196,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 197,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 198,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 199,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 200,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 201,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 202,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 203,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 204,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 205,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 206,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 207,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 208,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE revoga aposentadoria de Cacilda Teresa Beckert após decisao judicial",
+   "description": "O tribunal conheceu a portaria municipal que anulou a aposentadoria de Cacilda Teresa Fleischmann Beckert e revogou o registro anterior concedido em 2016. A medida foi tomada em consonancia com decisao judicial transitada em julgado. Revogacao do ato, sem multa.",
+   "status": "⬛ julgado irregular",
+   "severity": "media"
+  },
+  {
+   "i": 209,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 210,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 211,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 212,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 213,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 214,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 215,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 216,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 217,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 218,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 219,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 220,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 221,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 222,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 223,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 224,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 225,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 226,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 227,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 228,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 229,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 230,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 231,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 232,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 233,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 234,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 235,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 236,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 237,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 238,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 239,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 240,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 241,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 242,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 243,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 244,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 245,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 246,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE revoga aposentadoria de Cacilda Teresa Beckert por decisao judicial",
+   "description": "O processo registra a revogacao do ato de aposentadoria de Cacilda Teresa Fleischmann Beckert, depois de decisao judicial transitada em julgado. O tribunal revogou a decisao anterior e comunicou o IPRESBS. Caso encerrado.",
+   "status": "⬛ julgado irregular",
+   "severity": "media"
+  },
+  {
+   "i": 247,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": ""
+  },
+  {
+   "i": 248,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE nega aposentadoria de Iracema Rudnick e manda anular portaria",
+   "description": "O tribunal declarou ilegal a aposentadoria de Iracema Rudnick por ausencia de LTCAT que comprovasse a conversao do tempo especial. Determinou a anulação da portaria e o encaminhamento das providencias ao IPRESBS. Julgado irregular.",
+   "status": "⬛ julgado irregular",
+   "severity": "media"
+  },
+  {
+   "i": 249,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE revoga antigas decisoes e registra aposentadoria de Emilia Hornick",
+   "description": "A Corte anulou decisoes antigas que haviam barrado o ato e determinou o registro da aposentadoria de Emilia Hornick por forca de decisao judicial transitada em julgado. A regularizacao foi concluida sem multa. Caso regularizado judicialmente.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  }
+ ]
+}

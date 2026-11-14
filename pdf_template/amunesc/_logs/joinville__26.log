@@ -1,0 +1,708 @@
+[0m
+> build · gpt-5.4-mini
+[0m
+Vou ler o critério editorial e mapear os três lotes antes de julgar caso a caso.
+[0m→ [0mRead pdf_template/CURADORIA.md[90m [offset=1, limit=400][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__26.json[90m [offset=1, limit=400][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__27.json[90m [offset=1, limit=400][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__28.json[90m [offset=1, limit=400][0m
+Já tenho o critério e os primeiros blocos. Vou abrir o restante de cada lote para fechar os casos truncados e identificar repetidos/fases do mesmo processo.
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__26.json[90m [offset=401, limit=400][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__27.json[90m [offset=401, limit=400][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__28.json[90m [offset=401, limit=400][0m
+Vou cruzar os refs para cortar fases repetidas e evitar publicar mais de uma etapa do mesmo processo.
+[0m
+[0m$ [0mjq -r '.casos[] | [.ref,.i,.header] | @tsv' pdf_template/amunesc/_lotes/joinville__26.json pdf_template/amunesc/_lotes/joinville__27.json pdf_template/amunesc/_lotes/joinville__28.json
+06.2026.00001735-6	1820	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2026.00001735-6
+06.2026.00001586-9	1821	· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2026.00001586-9
+01.2026.00021579-6	1822	· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00021579-6
+06.2025.00003444-0	1823	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00003444-0
+06.2025.00003531-7	1824	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00003531-7
+01.2026.00023127-4	1825	· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00023127-4
+06.2025.00003318-5	1826	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00003318-5
+06.2025.00003476-2	1827	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00003476-2
+01.2026.00021782-8	1828	· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00021782-8
+06.2025.00003444-0	1829	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00003444-0
+01.2026.00013635-0	1830	· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2026.00013635-0
+01.2026.00019042-2	1831	· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2026.00019042-2
+01.2026.00021579-6	1832	· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2026.00021579-6
+06.2025.00004309-4	1833	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00004309-4
+06.2025.00004701-3	1834	· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00004701-3
+06.2026.00002041-7	1835	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2026.00002041-7
+06.2026.00002042-8	1836	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2026.00002042-8
+06.2026.00002063-9	1837	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2026.00002063-9
+06.2026.00002172-7	1838	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2026.00002172-7
+06.2026.00001568-0	1839	· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2026.00001568-0
+01.2026.00026530-9	1840	· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2026.00026530-9
+01.2026.00026100-2	1841	· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00026100-2
+01.2026.00026712-9	1842	· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00026712-9
+06.2026.00001950-0	1843	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2026.00001950-0
+06.2025.00002421-0	1844	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00002421-0
+01.2026.00018763-9	1845	· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2026.00018763-9
+01.2026.00027887-0	1846	· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00027887-0
+01.2026.00028240-8	1847	· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00028240-8
+01.2026.00027375-3	1848	· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00027375-3
+06.2026.00002125-0	1849	· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2026.00002125-0
+01.2026.00028844-6	1850	· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00028844-6
+06.2025.00004800-1	1851	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00004800-1
+01.2026.00029348-2	1852	· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00029348-2
+01.2026.00030582-9	1853	· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00030582-9
+01.2026.00031112-0	1854	· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00031112-0
+01.2022.00002457-4	1855	· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00002457-4
+06.2022.00001230-1	1856	· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2022.00001230-1
+06.2022.00001230-1	1857	· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2022.00001230-1
+06.2022.00001171-3	1858	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00001171-3
+06.2022.00001180-2	1859	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00001180-2
+06.2022.00001703-0	1860	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00001703-0
+06.2022.00001859-4	1861	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00001859-4
+01.2022.00002131-1	1862	· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00002131-1
+06.2022.00001842-8	1863	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00001842-8
+06.2022.00001948-2	1864	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00001948-2
+06.2022.00002640-6	1865	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00002640-6
+01.2022.00022440-2	1866	· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00022440-2
+06.2022.00003027-6	1867	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00003027-6
+01.2022.00024382-1	1868	· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00024382-1
+06.2021.00001518-2	1869	· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00001518-2
+06.2022.00003719-1	1870	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00003719-1
+06.2022.00003782-5	1871	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00003782-5
+06.2020.00000438-1	1872	· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00000438-1
+06.2022.00004338-2	1873	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004338-2
+01.2022.00036290-4	1874	· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00036290-4
+06.2022.00004381-6	1875	· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2022.00004381-6
+01.2022.00040217-9	1876	· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO ELEITORAL N. 01.2022.00040217-9
+06.2022.00004282-8	1877	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00004282-8
+06.2023.00000819-0	1878	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00000819-0
+06.2023.00000833-4	1879	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00000833-4
+06.2022.00001703-0	1880	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00001703-0
+06.2023.00001304-8	1881	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00001304-8
+06.2023.00001293-8	1882	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N.06.2023.00001293-8
+01.2023.00013226-4	1883	· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00013226-4
+06.2022.00002916-9	1884	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00002916-9
+06.2022.00004338-2	1885	· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL PÚBLICO N. 06.2022.00004338-2
+06.2020.00003753-9	1886	· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00003753-9
+01.2023.00018503-0	1887	· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00018503-0
+06.2023.00000202-9	1888	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00000202-9
+06.2023.00002245-8	1889	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00002245-8
+06.2023.00002295-8	1890	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00002295-8
+06.2023.00002257-0	1891	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00002257-0
+06.2023.00001417-0	1892	· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00001417-0
+06.2023.00000202-9	1893	· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00000202-9
+06.2023.00002646-5	1894	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00002646-5
+06.2023.00002648-7	1895	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00002648-7
+06.2023.00002855-2	1896	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00002855-2
+06.2023.00003117-9	1897	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00003117-9
+06.2023.00003197-9	1898	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00003197-9
+06.2023.00003142-4	1899	· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL PÚBLICO N. 06.2023.00003142-4
+01.2023.00039808-4	1900	· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00039808-4
+01.2023.00040470-4	1901	· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00040470-4
+06.2023.00002295-8	1902	· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00002295-8
+06.2023.00000648-0	1903	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00000648-0
+06.2021.00003815-3	1904	· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00003815-3
+01.2023.00048730-7	1905	· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00048730-7
+06.2023.00000819-0	1906	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00000819-0
+06.2023.00001293-8	1907	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00001293-8
+06.2023.00001304-8	1908	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00001304-8
+01.2023.00039808-4	1909	· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2023.00039808-4
+06.2023.00004774-9	1910	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00004774-9
+06.2023.00003197-9	1911	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00003197-9
+01.2023.00048730-7	1912	· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2023.00048730-7
+06.2023.00003007-0	1913	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00003007-0
+06.2024.00000827-1	1914	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00000827-1
+01.2024.00013128-0	1915	· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00013128-0
+06.2024.00001371-9	1916	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00001371-9
+06.2022.00001230-1	1917	· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00001230-1
+06.2023.00003117-9	1918	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00003117-9
+06.2024.00001354-1	1919	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00001354-1
+06.2023.00002793-1	1920	· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00002793-1
+· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00018428- 9	1921	· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00018428- 9
+06.2023.00002646-5	1922	· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00002646-5
+01.2024.00016492-7	1923	· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00016492-7
+06.2023.00004546-2	1924	· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 06.2023.00004546-2
+06.2024.00002753-5	1925	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00002753-5
+01.2024.00031680-7	1926	· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00031680-7
+06.2024.00003465-8	1927	· EXTRATO DE INSTAURAÇÃO DE PROCEDIMENTO PREPARATÓRIO N. 06.2024.00003465-8
+01.2024.00031680-7	1928	· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00031680-7
+06.2024.00003789-9	1929	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00003789-9
+06.2024.00004103-7	1930	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00004103-7
+06.2024.00004463-4	1931	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00004463-4
+06.2024.00004466-7	1932	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00004466-7
+06.2024.00005121-3	1933	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00005121-3
+06.2024.00005122-4	1934	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00005122-4
+06.2024.00001369-6	1935	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00001369-6
+06.2024.00005122-4	1936	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00005122-4
+06.2024.00001354-1	1937	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00001354-1
+06.2025.00000182-7	1938	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00000182-7
+06.2024.00001688-2	1939	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00001688-2
+06.2024.00001354-1	1940	· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00001354-1
+06.2025.00000906-3	1941	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00000906-3
+06.2025.00000941-9	1942	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00000941-9
+01.2025.00014338-0	1943	· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00014338-0
+01.2025.00020574-0	1944	· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00020574-0
+06.2025.00001547-6	1945	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00001547-6
+06.2025.00001665-3	1946	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00001665-3
+06.2024.00004463-4	1947	· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00004463-4
+06.2025.00002744-0	1948	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00002744-0
+06.2025.00001935-0	1949	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00001935-0
+06.2025.00003244-2	1950	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00003244-2
+06.2025.00003406-2	1951	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00003406-2
+01.2025.00047065-7	1952	· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00047065-7
+06.2020.00001478-0	1953	· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL PÚBLICO N.06.2020.00001478-0
+06.2025.00003125-4	1954	· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00003125-4
+06.2025.00004156-3	1955	· EXTRATO DE INSTAURAÇÃO DE PROCEDIMENTO PREPARATÓRIO ELEITORAL N. 06.2025.00004156-3
+· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO ELEITORAL N. 0001/2025	1956	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO ELEITORAL N. 0001/2025
+· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO ELEITORAL N. 0002/2025	1957	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO ELEITORAL N. 0002/2025
+· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO ELEITORAL N. 0003/2025	1958	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO ELEITORAL N. 0003/2025
+01.2025.00058519-1	1959	· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00058519-1
+01.2025.00044277-2	1960	· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2025.00044277-2
+06.2025.00005121-7	1961	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00005121-7
+01.2025.00047065-7	1962	· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2025.00047065-7
+01.2025.00058519-1	1963	· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00058519-1
+06.2025.00005540-2	1964	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00005540-2
+06.2024.00001369-6	1965	· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00001369-6
+01.2026.00003863-0	1966	· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2026.00003863-0
+01.2026.00005972-4	1967	· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2026.00005972-4
+06.2026.00000379-5	1968	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2026.00000379-5
+06.2025.00004205-1	1969	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00004205-1
+01.2026.00017432-2	1970	· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00017432-2
+01.2026.00017491-1	1971	· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00017491-1
+01.2026.00023301-7	1972	· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2026.00023301-7
+06.2022.00000012-7	1973	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00000012-7
+06.2018.00006800-6	1974	· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2018.00006800-6
+06.2020.00003878-2	1975	· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00003878-2
+06.2022.00000045-0	1976	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00000045-0
+06.2020.00003846-0	1977	· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00003846-0
+06.2020.00004130-0	1978	· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00004130-0
+01.2021.00033947-6	1979	· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2021.00033947-6
+06.2020.00000723-4	1980	· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00000723-4
+06.2017.00002423-6	1981	· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2017.00002423-6
+06.2022.00000804-1	1982	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00000804-1
+01.2021.00035637-5	1983	· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2021.00035637-5
+06.2020.00000713-4	1984	· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00000713-4
+01.2022.00002253-2	1985	· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00002253-2
+01.2022.00003526-0	1986	· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2022.00003526-0
+01.2022.00003701-4	1987	· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2022.00003701-4
+01.2022.00003993-4	1988	· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00003993-4
+01.2022.00003348-4	1989	· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2022.00003348-4
+06.2022.00000927-3	1990	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00000927-3
+06.2022.00000928-4	1991	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00000928-4
+06.2021.00003418-0	1992	· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2021.00003418-0
+06.2021.00003385-8	1993	· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00003385-8
+06.2022.00001190-2	1994	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00001190-2
+06.2022.00001191-3	1995	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00001191-3
+01.2022.00003526-0	1996	· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00003526-0
+06.2019.00001940-8	1997	· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00001940-8
+01.2022.00002457-4	1998	· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00002457-4
+06.2021.00003244-8	1999	· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00003244-8
+01.2022.00005019-4	2000	· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00005019-4
+01.2022.00005376-9	2001	· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00005376-9
+01.2021.00035882-9	2002	· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2021.00035882-9
+01.2022.00004837-7	2003	· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00004837-7
+06.2022.00001530-9	2004	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00001530-9
+01.2022.00003701-4	2005	· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00003701-4
+01.2022.00009356-1	2006	· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00009356-1
+01.2022.00003348-4	2007	· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00003348-4
+06.2021.00004991-7	2008	· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00004991-7
+01.2022.00009356-1	2009	· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00009356-1
+01.2022.00011936-8	2010	· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00011936-8
+06.2022.00001899-4	2011	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00001899-4
+01.2022.00012093-1	2012	· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2022.00012093-1
+01.2022.00013258-2	2013	· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00013258-2
+06.2019.00003627-3	2014	· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00003627-3
+06.2022.00002296-5	2015	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00002296-5
+06.2021.00004663-1	2016	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL PÚBLICO N. 06.2021.00004663-1
+01.2022.00012307-2	2017	· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00012307-2
+06.2021.00003133-8	2018	· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00003133-8
+06.2020.00004040-0	2019	· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00004040-0
+01.2022.00018770-1	2020	· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N.01.2022.00018770-1
+06.2017.00007183-0	2021	· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2017.00007183-0
+01.2022.00019337-0	2022	· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2022.00019337-0
+06.2021.00000287-6	2023	· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00000287-6
+01.2022.00020029-8	2024	· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2022.00020029-8
+06.2022.00002804-8	2025	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00002804-8
+06.2022.00002917-0	2026	· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00002917-0
+01.2022.00021757-8	2027	· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00021757-8
+06.2022.00002811-5	2028	· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00002811-5
+01.2022.00018770-1	2029	· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00018770-1
+[0m
+[0m$ [0mjq -r '.casos[].ref' pdf_template/amunesc/_lotes/joinville__26.json | sort | uniq -d
+01.2026.00021579-6
+06.2022.00001230-1
+06.2022.00001703-0
+06.2022.00004338-2
+06.2025.00003444-0
+[0m
+[0m$ [0mjq -r '.casos[].ref' pdf_template/amunesc/_lotes/joinville__28.json | sort | uniq -d
+01.2022.00003348-4
+01.2022.00003526-0
+01.2022.00003701-4
+01.2022.00009356-1
+01.2022.00018770-1
+[0m
+[0m$ [0mjq -r '.casos[].ref' pdf_template/amunesc/_lotes/joinville__27.json | sort | uniq -d
+01.2023.00039808-4
+01.2023.00048730-7
+01.2024.00031680-7
+06.2023.00002295-8
+06.2023.00002646-5
+06.2023.00003117-9
+06.2023.00003197-9
+06.2024.00001354-1
+06.2024.00004463-4
+06.2024.00005122-4
+[0m
+Encontrei várias repetições de fase e muitos itens sem fato suficiente. Agora vou separar os poucos casos publicáveis dos cortes por insuficiência/duplicidade.
+[0m✱ [0mGlob "pdf_template/amunesc/_lotes_curados"[90m in . · 0 matches[0m
+[0m✱ [0mGlob "pdf_template/**/CURADORIA*.md"[90m in . · 1 match[0m
+[0m✱ [0mGlob "pdf_template/amunesc/_lotes_curados/*.json"[90m in . · 57 matches[0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/joinville__11.json[90m [offset=1, limit=40][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/joinville__10.json[90m [offset=1, limit=40][0m
+Vou checar um padrão editorial para casos de “irregularidade sanada” antes de fechar os selos desse lote.
+[0m✱ [0mGrep "sanad"[90m in pdf_template/amunesc/_lotes_curados · 49 matches[0m
+[0m✱ [0mGrep "inexistência de fundamento para tomada de ajuste de condutas"[90m in pdf_template/amunesc/_lotes_curados · 0 matches[0m
+[0m✱ [0mGrep "objeto da Ação Civil Pública"[90m in pdf_template/amunesc/_lotes_curados · 0 matches[0m
+[0m✱ [0mGrep "serviço de saúde"[90m in pdf_template/amunesc/_lotes_curados · 1 match[0m
+[0m✱ [0mGrep "educação"[90m in pdf_template/amunesc/_lotes_curados · 12 matches[0m
+[0m✱ [0mGrep ""severity":"alta""[90m in pdf_template/amunesc/_lotes_curados · 28 matches[0m
+[0m✱ [0mGrep "tomada de ajuste de condutas ou propositura de Ação Civil Pública"[90m in pdf_template/amunesc/_lotes_curados · 0 matches[0m
+[0m✱ [0mGrep "não foram constatadas as práticas de poluição sonora e atmosférica"[90m in pdf_template/amunesc/_lotes_curados · 0 matches[0m
+[0m✱ [0mGrep "não é possível afirmar que ocorreu poluição"[90m in pdf_template/amunesc/_lotes_curados · 0 matches[0m
+Vou gerar o lote 26 já no formato final, com os cortes por falta de fato e os poucos casos publicáveis.
+[0m
+[0m$ [0mpython - <<'PY'
+import json
+from pathlib import Path
+p = Path('/Users/jairofortunato/mp/pdf_template/amunesc/_lotes/joinville__26.json')
+data = json.loads(p.read_text())
+keep = {
+1820:(False,'','','',''),1821:(False,'','','',''),1822:(False,'','','',''),1823:(False,'','','',''),1824:(False,'','','',''),1825:(False,'','','',''),1826:(False,'','','',''),1827:(False,'','','',''),1828:(False,'','','',''),1829:(False,'','','',''),
+1830:(True,'Joinville arquiva caso de criação irregular de abelhas','A apuração tratou de possível criação irregular de abelhas em imóvel de Joinville. A SAMA atuou, a quarentena foi autorizada e o enxame ficou acondicionado em caixa apropriada. O caso foi arquivado.','🟢 arquivado','media'),
+1831:(True,'Joinville arquiva caso de canina atendida pela SAMA','A notícia de fato tratava de suposta vulnerabilidade de uma canina. O texto informa que ela recebeu tratamento veterinário e que o bem-estar ficou resguardado. O caso foi arquivado.','🟢 arquivado','media'),
+1832:(True,'Joinville arquiva caso de pit bull em via pública','A apuração tratava de um canino da raça pit bull que estaria circulando em via pública. A SAMA não localizou o animal e o caso foi encerrado sem nova apuração.','🟢 arquivado','media'),
+1833:(False,'','','',''),1834:(True,'Joinville arquiva caso de cães regularizados em vila Catarina','A apuração envolvia diversos cães em imóvel da Estrada do Oeste. Os animais foram vacinados, microchipados e castrados, com o bem-estar resguardado. O caso foi arquivado.','🟢 arquivado','media'),
+1835:(False,'','','',''),1836:(False,'','','',''),1837:(False,'','','',''),1838:(False,'','','',''),
+1839:(True,'Joinville arquiva caso de canina transferida para outro município','A apuração tratava de possível vulnerabilidade de uma canina em Joinville. O texto informa que houve mudança para outro município e que o bem-estar do animal ficou resguardado. O caso foi arquivado.','🟢 arquivado','media'),
+1840:(False,'','','',''),1841:(False,'','','',''),1842:(False,'','','',''),1843:(False,'','','',''),1844:(False,'','','',''),1845:(True,'Joinville arquiva caso de canina resgatada na Estrada Major Lima','A notícia de fato tratava de possível abandono de uma canina. A SAMA resgatou o animal, que foi para lar temporário, e o bem-estar ficou resguardado. O caso foi arquivado.','🟢 arquivado','media'),
+1846:(False,'','','',''),1847:(False,'','','',''),1848:(False,'','','',''),1849:(True,'MP arquiva apuração sobre sigilo bancário no Banco do Brasil','O inquérito apurava eventual violação de sigilo bancário e proteção de dados no Banco do Brasil de Joinville. O MP não constatou irregularidade sistêmica nem lesão coletiva e arquivou o caso.','🟢 arquivado','media'),
+1850:(False,'','','',''),1851:(False,'','','',''),1852:(False,'','','',''),1853:(False,'','','',''),1854:(False,'','','',''),1855:(False,'','','',''),1856:(False,'','','',''),1857:(False,'','','',''),1858:(False,'','','',''),1859:(False,'','','',''),1860:(False,'','','',''),1861:(False,'','','',''),
+1862:(True,'MP arquiva caso de suposta cobrança abusiva no DETRAN-SC','A notícia de fato tratava de cobrança de nova avaliação psicológica após reprovação em concurso para condutor. O MP concluiu que a conduta era lícita e indeferiu a investigação. O caso foi arquivado.','🟢 arquivado','media'),
+1863:(False,'','','',''),1864:(False,'','','',''),1865:(False,'','','',''),1866:(False,'','','',''),1867:(False,'','','',''),1868:(False,'','','',''),
+1869:(True,'MP arquiva caso de aterro irregular em área de preservação','O inquérito apurava depósito irregular em área de preservação permanente. O investigado retirou o aterro, implantou PRAD e o Ministério Público arquivou o feito.','🟢 arquivado','media'),
+1870:(False,'','','',''),1871:(False,'','','',''),
+1872:(True,'MP arquiva apuração sobre poluição sonora e atmosférica','O inquérito concluiu que não foram constatadas as práticas de poluição sonora e atmosférica e que a empresa já havia encerrado as atividades. O Ministério Público entendeu não haver mais providência a adotar.','🟢 arquivado','media'),
+1873:(False,'','','',''),
+1874:(True,'MP arquiva caso de felino vulnerável já resguardado','A notícia de fato tratava de vulnerabilidade de um felino. As medidas de proteção já tinham sido adotadas e o Ministério Público arquivou o caso.','🟢 arquivado','media'),
+1875:(False,'','','',''),1876:(False,'','','',''),1877:(False,'','','',''),1878:(False,'','','',''),1879:(False,'','','',''),1880:(False,'','','',''),1881:(False,'','','',''),1882:(False,'','','',''),1883:(False,'','','',''),1884:(False,'','','',''),
+1885:(True,'MP firma TAC em caso de supressão de vegetação','A conclusão tratou de supressão de vegetação e intervenção em área de preservação permanente. Houve assinatura de TAC e acompanhamento de PRAD. O inquérito foi arquivado após o ajuste.','🟠 TAC firmado','media'),
+1886:(True,'MP arquiva regularidade da subestação da Celesc em Joinville','A conclusão reconheceu a legalidade da subestação e das linhas de transmissão da Celesc. Laudo técnico apontou aderência às normas e o inquérito foi arquivado.','🟢 arquivado','media'),
+1887:(False,'','','',''),1888:(False,'','','',''),1889:(False,'','','','')
+}
+out=[]
+for c in data['casos']:
+    k,title,desc,status,sev = keep[c['i']]
+    item={'i':c['i'],'tipo':c['tipo'],'keep':k,'title':title,'description':desc,'status':status,'severity':sev}
+    out.append(item)
+print('[')
+for idx,item in enumerate(out):
+    print(json.dumps(item, ensure_ascii=False, separators=(',', ':')) + (',' if idx < len(out)-1 else ''))
+print(']')
+PY
+zsh:1: command not found: python
+[0m
+O ambiente não tem `python` como comando, então vou usar `python3` para gerar o JSON final.
+[0m$ [0mpython3 - <<'PY'
+import json
+from pathlib import Path
+p = Path('/Users/jairofortunato/mp/pdf_template/amunesc/_lotes/joinville__26.json')
+data = json.loads(p.read_text())
+keep = {
+1820:(False,'','','',''),1821:(False,'','','',''),1822:(False,'','','',''),1823:(False,'','','',''),1824:(False,'','','',''),1825:(False,'','','',''),1826:(False,'','','',''),1827:(False,'','','',''),1828:(False,'','','',''),1829:(False,'','','',''),
+1830:(True,'Joinville arquiva caso de criação irregular de abelhas','A apuração tratou de possível criação irregular de abelhas em imóvel de Joinville. A SAMA atuou, a quarentena foi autorizada e o enxame ficou acondicionado em caixa apropriada. O caso foi arquivado.','🟢 arquivado','media'),
+1831:(True,'Joinville arquiva caso de canina atendida pela SAMA','A notícia de fato tratava de suposta vulnerabilidade de uma canina. O texto informa que ela recebeu tratamento veterinário e que o bem-estar ficou resguardado. O caso foi arquivado.','🟢 arquivado','media'),
+1832:(True,'Joinville arquiva caso de pit bull em via pública','A apuração tratava de um canino da raça pit bull que estaria circulando em via pública. A SAMA não localizou o animal e o caso foi encerrado sem nova apuração.','🟢 arquivado','media'),
+1833:(False,'','','',''),1834:(True,'Joinville arquiva caso de cães regularizados em Vila Catarina','A apuração envolvia diversos cães em imóvel da Estrada do Oeste. Os animais foram vacinados, microchipados e castrados, com o bem-estar resguardado. O caso foi arquivado.','🟢 arquivado','media'),
+1835:(False,'','','',''),1836:(False,'','','',''),1837:(False,'','','',''),1838:(False,'','','',''),
+1839:(True,'Joinville arquiva caso de canina transferida para outro município','A apuração tratava de possível vulnerabilidade de uma canina em Joinville. O texto informa que houve mudança para outro município e que o bem-estar do animal ficou resguardado. O caso foi arquivado.','🟢 arquivado','media'),
+1840:(False,'','','',''),1841:(False,'','','',''),1842:(False,'','','',''),1843:(False,'','','',''),1844:(False,'','','',''),1845:(True,'Joinville arquiva caso de canina resgatada na Estrada Major Lima','A notícia de fato tratava de possível abandono de uma canina. A SAMA resgatou o animal, que foi para lar temporário, e o bem-estar ficou resguardado. O caso foi arquivado.','🟢 arquivado','media'),
+1846:(False,'','','',''),1847:(False,'','','',''),1848:(False,'','','',''),1849:(True,'MP arquiva apuração sobre sigilo bancário no Banco do Brasil','O inquérito apurava eventual violação de sigilo bancário e proteção de dados no Banco do Brasil de Joinville. O MP não constatou irregularidade sistêmica nem lesão coletiva e arquivou o caso.','🟢 arquivado','media'),
+1850:(False,'','','',''),1851:(False,'','','',''),1852:(False,'','','',''),1853:(False,'','','',''),1854:(False,'','','',''),1855:(False,'','','',''),1856:(False,'','','',''),1857:(False,'','','',''),1858:(False,'','','',''),1859:(False,'','','',''),1860:(False,'','','',''),1861:(False,'','','',''),
+1862:(True,'MP arquiva caso de suposta cobrança abusiva no DETRAN-SC','A notícia de fato tratava de cobrança de nova avaliação psicológica após reprovação em concurso para condutor. O MP concluiu que a conduta era lícita e indeferiu a investigação. O caso foi arquivado.','🟢 arquivado','media'),
+1863:(False,'','','',''),1864:(False,'','','',''),1865:(False,'','','',''),1866:(False,'','','',''),1867:(False,'','','',''),1868:(False,'','','',''),
+1869:(True,'MP arquiva caso de aterro irregular em área de preservação','O inquérito apurava depósito irregular em área de preservação permanente. O investigado retirou o aterro, implantou PRAD e o Ministério Público arquivou o feito.','🟢 arquivado','media'),
+1870:(False,'','','',''),1871:(False,'','','',''),
+1872:(True,'MP arquiva apuração sobre poluição sonora e atmosférica','O inquérito concluiu que não foram constatadas as práticas de poluição sonora e atmosférica e que a empresa já havia encerrado as atividades. O Ministério Público entendeu não haver mais providência a adotar.','🟢 arquivado','media'),
+1873:(False,'','','',''),
+1874:(True,'MP arquiva caso de felino vulnerável já resguardado','A notícia de fato tratava de vulnerabilidade de um felino. As medidas de proteção já tinham sido adotadas e o Ministério Público arquivou o caso.','🟢 arquivado','media'),
+1875:(False,'','','',''),1876:(False,'','','',''),1877:(False,'','','',''),1878:(False,'','','',''),1879:(False,'','','',''),1880:(False,'','','',''),1881:(False,'','','',''),1882:(False,'','','',''),1883:(False,'','','',''),1884:(False,'','','',''),
+1885:(True,'MP firma TAC em caso de supressão de vegetação','A conclusão tratou de supressão de vegetação e intervenção em área de preservação permanente. Houve assinatura de TAC e acompanhamento de PRAD. O inquérito foi arquivado após o ajuste.','🟠 TAC firmado','media'),
+1886:(True,'MP arquiva regularidade da subestação da Celesc em Joinville','A conclusão reconheceu a legalidade da subestação e das linhas de transmissão da Celesc. Laudo técnico apontou aderência às normas e o inquérito foi arquivado.','🟢 arquivado','media'),
+1887:(False,'','','',''),1888:(False,'','','',''),1889:(False,'','','','')
+}
+out=[]
+for c in data['casos']:
+    k,title,desc,status,sev = keep[c['i']]
+    item={'i':c['i'],'tipo':c['tipo'],'keep':k,'title':title,'description':desc,'status':status,'severity':sev}
+    out.append(item)
+print('[')
+for idx,item in enumerate(out):
+    print(json.dumps(item, ensure_ascii=False, separators=(',', ':')) + (',' if idx < len(out)-1 else ''))
+print(']')
+PY
+[
+{"i":1820,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1821,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1822,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1823,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1824,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1825,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1826,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1827,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1828,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1829,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1830,"tipo":"mp","keep":true,"title":"Joinville arquiva caso de criação irregular de abelhas","description":"A apuração tratou de possível criação irregular de abelhas em imóvel de Joinville. A SAMA atuou, a quarentena foi autorizada e o enxame ficou acondicionado em caixa apropriada. O caso foi arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":1831,"tipo":"mp","keep":true,"title":"Joinville arquiva caso de canina atendida pela SAMA","description":"A notícia de fato tratava de suposta vulnerabilidade de uma canina. O texto informa que ela recebeu tratamento veterinário e que o bem-estar ficou resguardado. O caso foi arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":1832,"tipo":"mp","keep":true,"title":"Joinville arquiva caso de pit bull em via pública","description":"A apuração tratava de um canino da raça pit bull que estaria circulando em via pública. A SAMA não localizou o animal e o caso foi encerrado sem nova apuração.","status":"🟢 arquivado","severity":"media"},
+{"i":1833,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1834,"tipo":"mp","keep":true,"title":"Joinville arquiva caso de cães regularizados em Vila Catarina","description":"A apuração envolvia diversos cães em imóvel da Estrada do Oeste. Os animais foram vacinados, microchipados e castrados, com o bem-estar resguardado. O caso foi arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":1835,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1836,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1837,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1838,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1839,"tipo":"mp","keep":true,"title":"Joinville arquiva caso de canina transferida para outro município","description":"A apuração tratava de possível vulnerabilidade de uma canina em Joinville. O texto informa que houve mudança para outro município e que o bem-estar do animal ficou resguardado. O caso foi arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":1840,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1841,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1842,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1843,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1844,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1845,"tipo":"mp","keep":true,"title":"Joinville arquiva caso de canina resgatada na Estrada Major Lima","description":"A notícia de fato tratava de possível abandono de uma canina. A SAMA resgatou o animal, que foi para lar temporário, e o bem-estar ficou resguardado. O caso foi arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":1846,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1847,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1848,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1849,"tipo":"mp","keep":true,"title":"MP arquiva apuração sobre sigilo bancário no Banco do Brasil","description":"O inquérito apurava eventual violação de sigilo bancário e proteção de dados no Banco do Brasil de Joinville. O MP não constatou irregularidade sistêmica nem lesão coletiva e arquivou o caso.","status":"🟢 arquivado","severity":"media"},
+{"i":1850,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1851,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1852,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1853,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1854,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1855,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1856,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1857,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1858,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1859,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1860,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1861,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1862,"tipo":"mp","keep":true,"title":"MP arquiva caso de suposta cobrança abusiva no DETRAN-SC","description":"A notícia de fato tratava de cobrança de nova avaliação psicológica após reprovação em concurso para condutor. O MP concluiu que a conduta era lícita e indeferiu a investigação. O caso foi arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":1863,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1864,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1865,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1866,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1867,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1868,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1869,"tipo":"mp","keep":true,"title":"MP arquiva caso de aterro irregular em área de preservação","description":"O inquérito apurava depósito irregular em área de preservação permanente. O investigado retirou o aterro, implantou PRAD e o Ministério Público arquivou o feito.","status":"🟢 arquivado","severity":"media"},
+{"i":1870,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1871,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1872,"tipo":"mp","keep":true,"title":"MP arquiva apuração sobre poluição sonora e atmosférica","description":"O inquérito concluiu que não foram constatadas as práticas de poluição sonora e atmosférica e que a empresa já havia encerrado as atividades. O Ministério Público entendeu não haver mais providência a adotar.","status":"🟢 arquivado","severity":"media"},
+{"i":1873,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1874,"tipo":"mp","keep":true,"title":"MP arquiva caso de felino vulnerável já resguardado","description":"A notícia de fato tratava de vulnerabilidade de um felino. As medidas de proteção já tinham sido adotadas e o Ministério Público arquivou o caso.","status":"🟢 arquivado","severity":"media"},
+{"i":1875,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1876,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1877,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1878,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1879,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1880,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1881,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1882,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1883,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1884,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1885,"tipo":"mp","keep":true,"title":"MP firma TAC em caso de supressão de vegetação","description":"A conclusão tratou de supressão de vegetação e intervenção em área de preservação permanente. Houve assinatura de TAC e acompanhamento de PRAD. O inquérito foi arquivado após o ajuste.","status":"🟠 TAC firmado","severity":"media"},
+{"i":1886,"tipo":"mp","keep":true,"title":"MP arquiva regularidade da subestação da Celesc em Joinville","description":"A conclusão reconheceu a legalidade da subestação e das linhas de transmissão da Celesc. Laudo técnico apontou aderência às normas e o inquérito foi arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":1887,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1888,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1889,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""}
+]
+[0m
+Vou gerar o lote 27 em seguida, já com os cortes de repetição e os casos encerrados de fato.
+[0m$ [0mpython3 - <<'PY'
+import json
+from pathlib import Path
+p = Path('/Users/jairofortunato/mp/pdf_template/amunesc/_lotes/joinville__27.json')
+data = json.loads(p.read_text())
+keep = {
+1890:(False,'','','',''),1891:(False,'','','',''),
+1892:(True,'Joinville arquiva caso de poluição sonora no Bicho Solto','A apuração tratava de ruído do estabelecimento Bicho Solto Ltda. As aferições ficaram dentro do limite permitido para a região e o caso foi arquivado.','🟢 arquivado','media'),
+1893:(True,'Joinville fecha TAC e arquiva caso de poluição sonora','O inquérito apurava poluição sonora no BurnOut Muscle Bar. Houve celebração de TAC e o caso foi arquivado após o ajuste.','🟠 TAC firmado','media'),
+1894:(False,'','','',''),1895:(False,'','','',''),1896:(False,'','','',''),1897:(False,'','','',''),1898:(False,'','','',''),
+1899:(True,'Joinville arquiva caso de poluição no Rio do Braço','A conclusão tratou de poluição no curso hídrico Rio do Braço, com coloração arroxeada e substância tóxica. O responsável pelo lançamento não foi identificado e o caso foi arquivado.','🟢 arquivado','media'),
+1900:(False,'','','',''),1901:(False,'','','',''),
+1902:(True,'Joinville arquiva caso de poluição sonora no Studio D\'Loren','O inquérito apurava possível poluição sonora no Studio D\'Loren. O caso foi arquivado após a celebração de Termo de Ajuste de Condutas com o interessado.','🟠 TAC firmado','media'),
+1903:(False,'','','',''),
+1904:(True,'Joinville arquiva caso de poluição sonora em igreja do Aventureiro','A conclusão tratou de suposta poluição sonora e perturbação do sossego por igreja no bairro Aventureiro. O texto informa que não houve indícios suficientes e que o estabelecimento foi regularizado. O caso foi arquivado.','🟢 arquivado','media'),
+1905:(False,'','','',''),1906:(False,'','','',''),1907:(False,'','','',''),1908:(False,'','','',''),1909:(False,'','','',''),1910:(False,'','','',''),1911:(False,'','','',''),
+1912:(True,'Joinville arquiva caso da Contra Chamas Extintores','A notícia de fato tratava de possível poluição atmosférica pela empresa Contra Chamas Extintores. A promotoria concluiu que faltavam informações mínimas para seguir com a apuração e arquivou o caso.','🟢 arquivado','media'),
+1913:(False,'','','',''),1914:(False,'','','',''),1915:(False,'','','',''),1916:(False,'','','',''),
+1917:(True,'Joinville arquiva caso de ausência de alvará e poluição sonora em Fátima Hoinats','O inquérito tratava de ausência de alvará e emissão de ruídos. Com o encerramento das atividades e sem excesso de ruído comprovado, o caso foi arquivado.','🟢 arquivado','media'),
+1918:(False,'','','',''),1919:(False,'','','',''),
+1920:(True,'Joinville fecha TAC em caso do Guacamole Cocina Mexicana','O inquérito apurava poluição sonora no restaurante Guacamole Cocina Mexicana. Houve celebração de TAC e o caso foi arquivado sem necessidade de ACP.','🟠 TAC firmado','media'),
+1921:(False,'','','',''),
+1922:(True,'Joinville arquiva caso do Bar do Miguel após encerrar atividades','A conclusão tratava de poluição sonora e ausência de alvará no Bar do Miguel. Como o estabelecimento encerrou as atividades, o objeto foi perdido e o caso foi arquivado.','🟢 arquivado','media'),
+1923:(True,'Joinville arquiva granja irregular de suínos','A apuração tratava de granja irregular de suínos. As diligências da CIDASC e da PMA levaram o tutor a adotar as medidas necessárias e os animais ficaram resguardados. O caso foi arquivado.','🟢 arquivado','media'),
+1924:(True,'MP encerra apuração sobre possível poluição hídrica em Joinville','A notícia de fato tratava de possível poluição de corpo hídrico no bairro Fátima. A SAMA atuou e o laudo policial concluiu que não é possível afirmar a ocorrência de poluição em níveis danosos. O desfecho não veio explicitado no texto.','❔ status indef.','media'),
+1925:(False,'','','',''),1926:(False,'','','',''),1927:(False,'','','',''),
+1928:(True,'Joinville arquiva caso de poluição atmosférica sem provas','A notícia de fato apurava possível poluição atmosférica. O texto informa ausência de elementos mínimos para iniciar a apuração e o indeferimento da instauração. O caso foi arquivado.','🟢 arquivado','media'),
+1929:(False,'','','',''),1930:(False,'','','',''),1931:(False,'','','',''),1932:(False,'','','',''),1933:(False,'','','',''),1934:(False,'','','',''),1935:(False,'','','',''),1936:(False,'','','',''),1937:(False,'','','',''),1938:(False,'','','',''),1939:(False,'','','',''),
+1940:(True,'Joinville arquiva caso de poluição sonora e odorífera em oficina','A conclusão tratava de possível poluição sonora e odorífera na oficina WD Performance. O texto informa cessação da poluição, adequação do estabelecimento e solução dos problemas. O caso foi arquivado.','🟢 arquivado','media'),
+1941:(False,'','','',''),1942:(False,'','','',''),1943:(False,'','','',''),1944:(False,'','','',''),1945:(False,'','','',''),1946:(False,'','','',''),
+1947:(True,'Joinville arquiva caso de poluição sonora e odorífera no imóvel de Telma Marlete da Silva','A conclusão informa que a poluição sonora e odorífera não foi constatada em mais de uma aferição. Como não houve irregularidade remanescente, o auto de notificação foi cancelado e o caso arquivado.','🟢 arquivado','media'),
+1948:(False,'','','',''),1949:(False,'','','',''),1950:(False,'','','',''),1951:(False,'','','',''),
+1952:(False,'','','',''),
+1953:(True,'MP firma TAC em caso de intervenção irregular em APP em Joinville','O inquérito apurava intervenção irregular em área de preservação permanente. Houve TAC com compensação ambiental e indenização pecuniária, e o caso foi arquivado.','🟠 TAC firmado','media'),
+1954:(True,'Joinville encerra caso sobre irregularidades sanitárias na Escola Agrícola','A conclusão registrou que as irregularidades sanitárias na cozinha da Escola Agrícola Municipal Carlos Heins Funke foram sanadas. O texto não traz multa nem nova medida e o caso ficou encerrado.','🟢 arquivado','media'),
+1955:(False,'','','',''),1956:(False,'','','',''),1957:(False,'','','',''),1958:(False,'','','',''),
+1959:(False,'','','','')
+}
+out=[]
+for c in data['casos']:
+    k,title,desc,status,sev = keep[c['i']]
+    out.append({'i':c['i'],'tipo':c['tipo'],'keep':k,'title':title,'description':desc,'status':status,'severity':sev})
+print('[')
+for idx,item in enumerate(out):
+    print(json.dumps(item, ensure_ascii=False, separators=(',', ':')) + (',' if idx < len(out)-1 else ''))
+print(']')
+PY
+[
+{"i":1890,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1891,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1892,"tipo":"mp","keep":true,"title":"Joinville arquiva caso de poluição sonora no Bicho Solto","description":"A apuração tratava de ruído do estabelecimento Bicho Solto Ltda. As aferições ficaram dentro do limite permitido para a região e o caso foi arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":1893,"tipo":"mp","keep":true,"title":"Joinville fecha TAC e arquiva caso de poluição sonora","description":"O inquérito apurava poluição sonora no BurnOut Muscle Bar. Houve celebração de TAC e o caso foi arquivado após o ajuste.","status":"🟠 TAC firmado","severity":"media"},
+{"i":1894,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1895,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1896,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1897,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1898,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1899,"tipo":"mp","keep":true,"title":"Joinville arquiva caso de poluição no Rio do Braço","description":"A conclusão tratou de poluição no curso hídrico Rio do Braço, com coloração arroxeada e substância tóxica. O responsável pelo lançamento não foi identificado e o caso foi arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":1900,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1901,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1902,"tipo":"mp","keep":true,"title":"Joinville arquiva caso de poluição sonora no Studio D'Loren","description":"O inquérito apurava possível poluição sonora no Studio D'Loren. O caso foi arquivado após a celebração de Termo de Ajuste de Condutas com o interessado.","status":"🟠 TAC firmado","severity":"media"},
+{"i":1903,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1904,"tipo":"mp","keep":true,"title":"Joinville arquiva caso de poluição sonora em igreja do Aventureiro","description":"A conclusão tratou de suposta poluição sonora e perturbação do sossego por igreja no bairro Aventureiro. O texto informa que não houve indícios suficientes e que o estabelecimento foi regularizado. O caso foi arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":1905,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1906,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1907,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1908,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1909,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1910,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1911,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1912,"tipo":"mp","keep":true,"title":"Joinville arquiva caso da Contra Chamas Extintores","description":"A notícia de fato tratava de possível poluição atmosférica pela empresa Contra Chamas Extintores. A promotoria concluiu que faltavam informações mínimas para seguir com a apuração e arquivou o caso.","status":"🟢 arquivado","severity":"media"},
+{"i":1913,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1914,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1915,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1916,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1917,"tipo":"mp","keep":true,"title":"Joinville arquiva caso de ausência de alvará e poluição sonora em Fátima Hoinats","description":"O inquérito tratava de ausência de alvará e emissão de ruídos. Com o encerramento das atividades e sem excesso de ruído comprovado, o caso foi arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":1918,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1919,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1920,"tipo":"mp","keep":true,"title":"Joinville fecha TAC em caso do Guacamole Cocina Mexicana","description":"O inquérito apurava poluição sonora no restaurante Guacamole Cocina Mexicana. Houve celebração de TAC e o caso foi arquivado sem necessidade de ACP.","status":"🟠 TAC firmado","severity":"media"},
+{"i":1921,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1922,"tipo":"mp","keep":true,"title":"Joinville arquiva caso do Bar do Miguel após encerrar atividades","description":"A conclusão tratava de poluição sonora e ausência de alvará no Bar do Miguel. Como o estabelecimento encerrou as atividades, o objeto foi perdido e o caso foi arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":1923,"tipo":"mp","keep":true,"title":"Joinville arquiva granja irregular de suínos","description":"A apuração tratava de granja irregular de suínos. As diligências da CIDASC e da PMA levaram o tutor a adotar as medidas necessárias e os animais ficaram resguardados. O caso foi arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":1924,"tipo":"mp","keep":true,"title":"MP encerra apuração sobre possível poluição hídrica em Joinville","description":"A notícia de fato tratava de possível poluição de corpo hídrico no bairro Fátima. A SAMA atuou e o laudo policial concluiu que não é possível afirmar a ocorrência de poluição em níveis danosos. O desfecho não veio explicitado no texto.","status":"❔ status indef.","severity":"media"},
+{"i":1925,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1926,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1927,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1928,"tipo":"mp","keep":true,"title":"Joinville arquiva caso de poluição atmosférica sem provas","description":"A notícia de fato apurava possível poluição atmosférica. O texto informa ausência de elementos mínimos para iniciar a apuração e o indeferimento da instauração. O caso foi arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":1929,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1930,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1931,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1932,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1933,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1934,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1935,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1936,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1937,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1938,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1939,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1940,"tipo":"mp","keep":true,"title":"Joinville arquiva caso de poluição sonora e odorífera em oficina","description":"A conclusão tratava de possível poluição sonora e odorífera na oficina WD Performance. O texto informa cessação da poluição, adequação do estabelecimento e solução dos problemas. O caso foi arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":1941,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1942,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1943,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1944,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1945,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1946,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1947,"tipo":"mp","keep":true,"title":"Joinville arquiva caso de poluição sonora e odorífera no imóvel de Telma Marlete da Silva","description":"A conclusão informa que a poluição sonora e odorífera não foi constatada em mais de uma aferição. Como não houve irregularidade remanescente, o auto de notificação foi cancelado e o caso arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":1948,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1949,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1950,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1951,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1952,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1953,"tipo":"mp","keep":true,"title":"MP firma TAC em caso de intervenção irregular em APP em Joinville","description":"O inquérito apurava intervenção irregular em área de preservação permanente. Houve TAC com compensação ambiental e indenização pecuniária, e o caso foi arquivado.","status":"🟠 TAC firmado","severity":"media"},
+{"i":1954,"tipo":"mp","keep":true,"title":"Joinville encerra caso sobre irregularidades sanitárias na Escola Agrícola","description":"A conclusão registrou que as irregularidades sanitárias na cozinha da Escola Agrícola Municipal Carlos Heins Funke foram sanadas. O texto não traz multa nem nova medida e o caso ficou encerrado.","status":"🟢 arquivado","severity":"media"},
+{"i":1955,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1956,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1957,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1958,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1959,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""}
+]
+[0m
+Agora fecho o lote 28, com os casos de saúde/educação e os arquivamentos por solução ou falta de prova.
+[0m$ [0mpython3 - <<'PY'
+import json
+from pathlib import Path
+p = Path('/Users/jairofortunato/mp/pdf_template/amunesc/_lotes/joinville__28.json')
+data = json.loads(p.read_text())
+keep = {
+1960:(True,'Joinville arquiva caso de 8 cães já resguardados','A conclusão tratava de vulnerabilidade de oito cães nas proximidades de um centro de educação infantil. Parte dos animais foi acolhida, outros foram adotados ou enquadrados como comunitários e o bem-estar ficou resguardado. O caso foi arquivado.','🟢 arquivado','media'),
+1961:(False,'','','',''),
+1962:(True,'Joinville arquiva caso de fumaça de fogão a lenha','A notícia de fato tratava de poluição atmosférica por fumaça de fogão a lenha. A SAMA lavrou auto de infração, o investigado removeu os dutos e desativou o equipamento. O caso foi arquivado.','🟢 arquivado','media'),
+1963:(True,'MP arquiva caso de poluição na Tupy S/A','A apuração sobre possível poluição na Tupy S/A resultou em laudo técnico sem violação ambiental. A empresa foi considerada em conformidade com as normas e o caso foi arquivado.','🟢 arquivado','media'),
+1964:(False,'','','',''),
+1965:(True,'Joinville fecha TAC em caso de poluição sonora na Belli Sucatas','O inquérito tratava de poluição sonora no estabelecimento Belli Comércio de Sucatas e Transporte de Resíduos Industriais. Houve celebração de TAC e o caso foi arquivado.','🟠 TAC firmado','media'),
+1966:(True,'MP arquiva caso sobre enquadramento PcD em concurso de Joinville','A notícia de fato tratava de indeferimento de enquadramento como pessoa com deficiência em concurso público. O MP concluiu que se tratava de direito individual disponível e arquivou o caso.','🟢 arquivado','media'),
+1967:(True,'MP arquiva caso sobre vaga PcD em concurso de Joinville','A notícia de fato tratava de discordância com laudo apresentado para vaga destinada a pessoa com deficiência. O órgão ministerial apontou direito individual personalíssimo e arquivou o caso.','🟢 arquivado','media'),
+1968:(False,'','','',''),1969:(False,'','','',''),1970:(False,'','','',''),1971:(False,'','','',''),
+1972:(True,'Joinville arquiva caso de exoneração de professor sem risco à educação','A conclusão tratou de exoneração de professor e sindicância. O texto registra inexistência de situação de risco ou violação do direito à educação e o caso foi arquivado.','🟢 arquivado','media'),
+1973:(False,'','','',''),
+1974:(True,'Joinville arquiva caso de leitos paliativos no Hospital Regional Hans Dieter Schmidt','O inquérito apurava uso indevido de leitos e falta de preceptor no Hospital Regional Hans Dieter Schmidt. As diligências não demonstraram irregularidade e o caso foi arquivado.','🟢 arquivado','media'),
+1975:(True,'Joinville arquiva caso sobre falta de EPIs no início da pandemia','A apuração tratava de ausência de EPIs, higiene e insumos para unidades de saúde e assistência social no início da Covid-19. O texto reconhece a escassez inicial, mas afasta omissão atual e encerra o caso.','🟢 arquivado','media'),
+1976:(False,'','','',''),
+1977:(True,'Joinville arquiva caso sobre falta de pediatras no hospital infantil','A apuração tratava de falta de pediatras no Hospital Infantil Dr. Jeser Amarante Faria. O texto concluiu que a situação foi pontual e transitória, sem omissão do poder público, e arquivou o caso.','🟢 arquivado','media'),
+1978:(True,'Joinville arquiva caso sobre EPIs e insumos na rede de saúde','A investigação tratava de falta de EPIs, produtos de higiene e insumos para a rede de saúde e assistência social. O texto atribui o problema ao início da pandemia e encerra o caso.','🟢 arquivado','media'),
+1979:(True,'MP arquiva caso de supressão de árvores sem irregularidade em Joinville','A notícia de fato tratava de supressão de árvores acima do limite autorizado em condomínio. O texto concluiu que não houve supressão irregular no local e o caso foi arquivado.','🟢 arquivado','media'),
+1980:(True,'Joinville arquiva caso de bactérias multirresistentes no Hospital São José','A apuração tratava de possível epidemia de bactérias super-resistentes na UTI do Hospital Municipal São José. As diligências mostraram que a irregularidade foi sanada e que não houve omissão do poder público. O caso foi arquivado.','🟢 arquivado','media'),
+1981:(True,'Joinville arquiva caso de falta de pediatras na UPA Sul','A investigação tratava de ausência de médicos pediatras na UPA Sul. O texto concluiu que a falta foi pontual e transitória e que não houve omissão do poder público. O caso foi arquivado.','🟢 arquivado','media'),
+1982:(False,'','','',''),
+1983:(True,'Joinville arquiva caso de irregularidade sanitária em alvará e cigarros eletrônicos','A notícia de fato tratava de controvérsia no alvará sanitário e de suposta venda de cigarros eletrônicos. O MP tratou a irregularidade como administrativa e deixou a apuração criminal para outra seara. O caso foi arquivado.','🟢 arquivado','media'),
+1984:(True,'Joinville arquiva caso de falta de espaço no pronto-socorro','A investigação tratava de falta de espaço, leitos e macas no Hospital Regional Hans Dieter Schmidt. As diligências não confirmaram as irregularidades e o caso foi arquivado.','🟢 arquivado','media'),
+1985:(False,'','','',''),1986:(False,'','','',''),1987:(False,'','','',''),1988:(True,'Joinville arquiva caso do Auto Posto Durim','A notícia de fato tratava de suposta irregularidade sanitária no Auto Posto Durim. O MP considerou o caso já solucionado em outro procedimento e arquivou a notícia.','🟢 arquivado','media'),
+1989:(False,'','','',''),1990:(False,'','','',''),1991:(False,'','','',''),1992:(False,'','','',''),
+1993:(True,'Joinville arquiva caso de interrupção da medicina nuclear no Hospital São José','A conclusão tratava da interrupção do serviço de medicina nuclear para tratamento oncológico. O texto informa que o prestador se descredenciou, a municipalidade contratou novo prestador e o caso foi arquivado.','🟢 arquivado','media'),
+1994:(False,'','','',''),1995:(False,'','','',''),
+1996:(True,'Joinville arquiva caso de fiscalização sanitária no Restaurante Bonassina','A notícia de fato tratava de alvará sanitário para assar aves e outras carnes no Restaurante Bonassina. O MP concluiu que os fatos não configuravam lesão à saúde do consumidor e arquivou o caso.','🟢 arquivado','media'),
+1997:(True,'MP arquiva apuração sobre ajuste de condutas na SAMA de Joinville','A conclusão registrou inexistência de fundamento para ajuste de condutas ou ação civil pública na Secretaria de Agricultura e Meio Ambiente. O caso foi encerrado sem nova medida.','🟢 arquivado','media'),
+1998:(True,'MP arquiva caso de vulnerabilidade animal já solucionado em Joinville','A notícia de fato tratava de possível lesão ao meio ambiente natural. O texto concluiu pela inexistência de lesão e determinou o arquivamento.','🟢 arquivado','media'),
+1999:(True,'MP arquiva caso sobre fila de terapias na saúde de Joinville','A conclusão tratava de supostas irregularidades na mudança de posição de usuários em filas de terapia ocupacional, psicologia e fonoaudiologia. As diligências não demonstraram irregularidade e o caso foi arquivado.','🟢 arquivado','media'),
+2000:(True,'MP arquiva caso de atendimento veterinário já resolvido em Joinville','A notícia de fato tratava de demanda ambiental e veterinária. O órgão ambiental e a clínica credenciada prestaram atendimento e o MP arquivou o caso.','🟢 arquivado','media'),
+2001:(True,'MP arquiva caso de animal acolhido pelo CBEA em Joinville','A notícia de fato tratava de animal que foi acolhido pelo CBEA e passou por tratamento. O texto afirma que a situação restou solucionada e o caso foi arquivado.','🟢 arquivado','media'),
+2002:(True,'MP arquiva caso de cão tratado e resguardado em Joinville','A notícia de fato tratava de situação solucionada sem necessidade de intervenção ministerial. O animal foi acolhido pelo CBEA e recebeu tratamento, e o caso foi arquivado.','🟢 arquivado','media'),
+2003:(True,'MP arquiva caso de cão com vacinação e microchipagem em Joinville','A conclusão informou que restavam apenas medidas administrativas, como vacinação e microchipagem, a serem acompanhadas pelo órgão ambiental. O MP arquivou a notícia de fato.','🟢 arquivado','media'),
+2004:(False,'','','',''),
+2005:(True,'MP arquiva caso de alvará sanitário do Auto Posto Durim','A notícia de fato tratava de controvérsia no alvará sanitário e de licença do Auto Posto Durim. A vigilância sanitária acompanhava a situação e o caso foi arquivado.','🟢 arquivado','media'),
+2006:(False,'','','',''),
+2007:(True,'MP arquiva caso de alimentos impróprios no Enio Francisco Dalanhol MEI','A notícia de fato tratava de produtos impróprios ao consumo em lanchonete de Joinville. O problema foi sanado e a vigilância sanitária seguiu acompanhando a regularização. O caso foi arquivado.','🟢 arquivado','media'),
+2008:(True,'MP arquiva caso de descumprimento de medida restritiva no Recanto Sertanejo','A conclusão tratava de descumprimento de medida restritiva com potencial dano moral coletivo. O texto informa que o fato isolado não teve gravidade suficiente e que as medidas administrativas bastaram. O caso foi arquivado.','🟢 arquivado','media'),
+2009:(True,'MP arquiva caso de Ambiental Limpeza Urbana e Saneamento em Joinville','A notícia de fato tratava de suposta falha da empresa Ambiental Limpeza Urbana e Saneamento. O MP arquivou o caso sem prejuízo de reabertura após o retorno do caderno policial.','🟢 arquivado','media'),
+2010:(False,'','','',''),2011:(False,'','','',''),2012:(False,'','','',''),2013:(False,'','','',''),
+2014:(True,'MP arquiva caso da Jofund S.A. em Joinville','A conclusão registrou inexistência de fundamento para ajuste de condutas ou ação civil pública. O caso foi encerrado sem nova medida.','🟢 arquivado','media'),
+2015:(False,'','','',''),2016:(False,'','','',''),
+2017:(True,'MP arquiva caso do Auto Posto Bucarein após regularização','A notícia de fato tratava de irregularidades sanitárias no Auto Posto Bucarein. O texto informa que os fatos já se encontravam solucionados e que as irregularidades foram sanadas. O caso foi arquivado.','🟢 arquivado','media'),
+2018:(True,'MP arquiva caso de transporte de pacientes em ambulâncias','O inquérito tratava de irregularidades em empresa que explora transporte de pacientes em ambulâncias. A obtenção dos documentos e habilitações necessárias levou ao arquivamento.','🟢 arquivado','media'),
+2019:(False,'','','',''),2020:(False,'','','',''),
+2021:(True,'MP firma TAC em caso de limpeza urbana em Joinville','O inquérito tratava de irregularidades na limpeza urbana. Houve celebração de Termo de Ajustamento de Conduta e o caso foi arquivado.','🟠 TAC firmado','media'),
+2022:(False,'','','',''),
+2023:(True,'MP arquiva caso sem irregularidades na contratação em Joinville','A conclusão tratava de possível conflito em empresa de segurança. O texto informa que não foram constatadas irregularidades e que não havia fundamento para demanda judicial. O caso foi arquivado.','🟢 arquivado','media'),
+2024:(False,'','','',''),2025:(False,'','','',''),2026:(False,'','','',''),2027:(False,'','','',''),2028:(False,'','','',''),
+2029:(True,'MP arquiva caso de Mezo Bar após solução das irregularidades','A conclusão tratava de irregularidades sanitárias no Mezo Bar Lounge e Events Corporation Ltda. O texto informa que os problemas foram solucionados e o caso foi arquivado.','🟢 arquivado','media')
+}
+out=[]
+for c in data['casos']:
+    k,title,desc,status,sev = keep[c['i']]
+    out.append({'i':c['i'],'tipo':c['tipo'],'keep':k,'title':title,'description':desc,'status':status,'severity':sev})
+print('[')
+for idx,item in enumerate(out):
+    print(json.dumps(item, ensure_ascii=False, separators=(',', ':')) + (',' if idx < len(out)-1 else ''))
+print(']')
+PY
+[
+{"i":1960,"tipo":"mp","keep":true,"title":"Joinville arquiva caso de 8 cães já resguardados","description":"A conclusão tratava de vulnerabilidade de oito cães nas proximidades de um centro de educação infantil. Parte dos animais foi acolhida, outros foram adotados ou enquadrados como comunitários e o bem-estar ficou resguardado. O caso foi arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":1961,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1962,"tipo":"mp","keep":true,"title":"Joinville arquiva caso de fumaça de fogão a lenha","description":"A notícia de fato tratava de poluição atmosférica por fumaça de fogão a lenha. A SAMA lavrou auto de infração, o investigado removeu os dutos e desativou o equipamento. O caso foi arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":1963,"tipo":"mp","keep":true,"title":"MP arquiva caso de poluição na Tupy S/A","description":"A apuração sobre possível poluição na Tupy S/A resultou em laudo técnico sem violação ambiental. A empresa foi considerada em conformidade com as normas e o caso foi arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":1964,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1965,"tipo":"mp","keep":true,"title":"Joinville fecha TAC em caso de poluição sonora na Belli Sucatas","description":"O inquérito tratava de poluição sonora no estabelecimento Belli Comércio de Sucatas e Transporte de Resíduos Industriais. Houve celebração de TAC e o caso foi arquivado.","status":"🟠 TAC firmado","severity":"media"},
+{"i":1966,"tipo":"mp","keep":true,"title":"MP arquiva caso sobre enquadramento PcD em concurso de Joinville","description":"A notícia de fato tratava de indeferimento de enquadramento como pessoa com deficiência em concurso público. O MP concluiu que se tratava de direito individual disponível e arquivou o caso.","status":"🟢 arquivado","severity":"media"},
+{"i":1967,"tipo":"mp","keep":true,"title":"MP arquiva caso sobre vaga PcD em concurso de Joinville","description":"A notícia de fato tratava de discordância com laudo apresentado para vaga destinada a pessoa com deficiência. O órgão ministerial apontou direito individual personalíssimo e arquivou o caso.","status":"🟢 arquivado","severity":"media"},
+{"i":1968,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1969,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1970,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1971,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1972,"tipo":"mp","keep":true,"title":"Joinville arquiva caso de exoneração de professor sem risco à educação","description":"A conclusão tratou de exoneração de professor e sindicância. O texto registra inexistência de situação de risco ou violação do direito à educação e o caso foi arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":1973,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1974,"tipo":"mp","keep":true,"title":"Joinville arquiva caso de leitos paliativos no Hospital Regional Hans Dieter Schmidt","description":"O inquérito apurava uso indevido de leitos e falta de preceptor no Hospital Regional Hans Dieter Schmidt. As diligências não demonstraram irregularidade e o caso foi arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":1975,"tipo":"mp","keep":true,"title":"Joinville arquiva caso sobre falta de EPIs no início da pandemia","description":"A apuração tratava de ausência de EPIs, higiene e insumos para unidades de saúde e assistência social no início da Covid-19. O texto reconhece a escassez inicial, mas afasta omissão atual e encerra o caso.","status":"🟢 arquivado","severity":"media"},
+{"i":1976,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1977,"tipo":"mp","keep":true,"title":"Joinville arquiva caso sobre falta de pediatras no hospital infantil","description":"A apuração tratava de falta de pediatras no Hospital Infantil Dr. Jeser Amarante Faria. O texto concluiu que a situação foi pontual e transitória, sem omissão do poder público, e arquivou o caso.","status":"🟢 arquivado","severity":"media"},
+{"i":1978,"tipo":"mp","keep":true,"title":"Joinville arquiva caso sobre EPIs e insumos na rede de saúde","description":"A investigação tratava de falta de EPIs, produtos de higiene e insumos para a rede de saúde e assistência social. O texto atribui o problema ao início da pandemia e encerra o caso.","status":"🟢 arquivado","severity":"media"},
+{"i":1979,"tipo":"mp","keep":true,"title":"MP arquiva caso de supressão de árvores sem irregularidade em Joinville","description":"A notícia de fato tratava de supressão de árvores acima do limite autorizado em condomínio. O texto concluiu que não houve supressão irregular no local e o caso foi arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":1980,"tipo":"mp","keep":true,"title":"Joinville arquiva caso de bactérias multirresistentes no Hospital São José","description":"A apuração tratava de possível epidemia de bactérias super-resistentes na UTI do Hospital Municipal São José. As diligências mostraram que a irregularidade foi sanada e que não houve omissão do poder público. O caso foi arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":1981,"tipo":"mp","keep":true,"title":"Joinville arquiva caso de falta de pediatras na UPA Sul","description":"A investigação tratava de ausência de médicos pediatras na UPA Sul. O texto concluiu que a falta foi pontual e transitória e que não houve omissão do poder público. O caso foi arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":1982,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1983,"tipo":"mp","keep":true,"title":"Joinville arquiva caso de irregularidade sanitária em alvará e cigarros eletrônicos","description":"A notícia de fato tratava de controvérsia no alvará sanitário e de suposta venda de cigarros eletrônicos. O MP tratou a irregularidade como administrativa e deixou a apuração criminal para outra seara. O caso foi arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":1984,"tipo":"mp","keep":true,"title":"Joinville arquiva caso de falta de espaço no pronto-socorro","description":"A investigação tratava de falta de espaço, leitos e macas no Hospital Regional Hans Dieter Schmidt. As diligências não confirmaram as irregularidades e o caso foi arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":1985,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1986,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1987,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1988,"tipo":"mp","keep":true,"title":"Joinville arquiva caso do Auto Posto Durim","description":"A notícia de fato tratava de suposta irregularidade sanitária no Auto Posto Durim. O MP considerou o caso já solucionado em outro procedimento e arquivou a notícia.","status":"🟢 arquivado","severity":"media"},
+{"i":1989,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1990,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1991,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1992,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1993,"tipo":"mp","keep":true,"title":"Joinville arquiva caso de interrupção da medicina nuclear no Hospital São José","description":"A conclusão tratava da interrupção do serviço de medicina nuclear para tratamento oncológico. O texto informa que o prestador se descredenciou, a municipalidade contratou novo prestador e o caso foi arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":1994,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1995,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":1996,"tipo":"mp","keep":true,"title":"Joinville arquiva caso de fiscalização sanitária no Restaurante Bonassina","description":"A notícia de fato tratava de alvará sanitário para assar aves e outras carnes no Restaurante Bonassina. O MP concluiu que os fatos não configuravam lesão à saúde do consumidor e arquivou o caso.","status":"🟢 arquivado","severity":"media"},
+{"i":1997,"tipo":"mp","keep":true,"title":"MP arquiva apuração sobre ajuste de condutas na SAMA de Joinville","description":"A conclusão registrou inexistência de fundamento para ajuste de condutas ou ação civil pública na Secretaria de Agricultura e Meio Ambiente. O caso foi encerrado sem nova medida.","status":"🟢 arquivado","severity":"media"},
+{"i":1998,"tipo":"mp","keep":true,"title":"MP arquiva caso de vulnerabilidade animal já solucionado em Joinville","description":"A notícia de fato tratava de possível lesão ao meio ambiente natural. O texto concluiu pela inexistência de lesão e determinou o arquivamento.","status":"🟢 arquivado","severity":"media"},
+{"i":1999,"tipo":"mp","keep":true,"title":"MP arquiva caso sobre fila de terapias na saúde de Joinville","description":"A conclusão tratava de supostas irregularidades na mudança de posição de usuários em filas de terapia ocupacional, psicologia e fonoaudiologia. As diligências não demonstraram irregularidade e o caso foi arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":2000,"tipo":"mp","keep":true,"title":"MP arquiva caso de atendimento veterinário já resolvido em Joinville","description":"A notícia de fato tratava de demanda ambiental e veterinária. O órgão ambiental e a clínica credenciada prestaram atendimento e o MP arquivou o caso.","status":"🟢 arquivado","severity":"media"},
+{"i":2001,"tipo":"mp","keep":true,"title":"MP arquiva caso de animal acolhido pelo CBEA em Joinville","description":"A notícia de fato tratava de animal que foi acolhido pelo CBEA e passou por tratamento. O texto afirma que a situação restou solucionada e o caso foi arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":2002,"tipo":"mp","keep":true,"title":"MP arquiva caso de cão tratado e resguardado em Joinville","description":"A notícia de fato tratava de situação solucionada sem necessidade de intervenção ministerial. O animal foi acolhido pelo CBEA e recebeu tratamento, e o caso foi arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":2003,"tipo":"mp","keep":true,"title":"MP arquiva caso de cão com vacinação e microchipagem em Joinville","description":"A conclusão informou que restavam apenas medidas administrativas, como vacinação e microchipagem, a serem acompanhadas pelo órgão ambiental. O MP arquivou a notícia de fato.","status":"🟢 arquivado","severity":"media"},
+{"i":2004,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":2005,"tipo":"mp","keep":true,"title":"MP arquiva caso de alvará sanitário do Auto Posto Durim","description":"A notícia de fato tratava de controvérsia no alvará sanitário e de licença do Auto Posto Durim. A vigilância sanitária acompanhava a situação e o caso foi arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":2006,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":2007,"tipo":"mp","keep":true,"title":"MP arquiva caso de alimentos impróprios no Enio Francisco Dalanhol MEI","description":"A notícia de fato tratava de produtos impróprios ao consumo em lanchonete de Joinville. O problema foi sanado e a vigilância sanitária seguiu acompanhando a regularização. O caso foi arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":2008,"tipo":"mp","keep":true,"title":"MP arquiva caso de descumprimento de medida restritiva no Recanto Sertanejo","description":"A conclusão tratava de descumprimento de medida restritiva com potencial dano moral coletivo. O texto informa que o fato isolado não teve gravidade suficiente e que as medidas administrativas bastaram. O caso foi arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":2009,"tipo":"mp","keep":true,"title":"MP arquiva caso de Ambiental Limpeza Urbana e Saneamento em Joinville","description":"A notícia de fato tratava de suposta falha da empresa Ambiental Limpeza Urbana e Saneamento. O MP arquivou o caso sem prejuízo de reabertura após o retorno do caderno policial.","status":"🟢 arquivado","severity":"media"},
+{"i":2010,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":2011,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":2012,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":2013,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":2014,"tipo":"mp","keep":true,"title":"MP arquiva caso da Jofund S.A. em Joinville","description":"A conclusão registrou inexistência de fundamento para ajuste de condutas ou ação civil pública. O caso foi encerrado sem nova medida.","status":"🟢 arquivado","severity":"media"},
+{"i":2015,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":2016,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":2017,"tipo":"mp","keep":true,"title":"MP arquiva caso do Auto Posto Bucarein após regularização","description":"A notícia de fato tratava de irregularidades sanitárias no Auto Posto Bucarein. O texto informa que os fatos já se encontravam solucionados e que as irregularidades foram sanadas. O caso foi arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":2018,"tipo":"mp","keep":true,"title":"MP arquiva caso de transporte de pacientes em ambulâncias","description":"O inquérito tratava de irregularidades em empresa que explora transporte de pacientes em ambulâncias. A obtenção dos documentos e habilitações necessárias levou ao arquivamento.","status":"🟢 arquivado","severity":"media"},
+{"i":2019,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":2020,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":2021,"tipo":"mp","keep":true,"title":"MP firma TAC em caso de limpeza urbana em Joinville","description":"O inquérito tratava de irregularidades na limpeza urbana. Houve celebração de Termo de Ajustamento de Conduta e o caso foi arquivado.","status":"🟠 TAC firmado","severity":"media"},
+{"i":2022,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":2023,"tipo":"mp","keep":true,"title":"MP arquiva caso sem irregularidades na contratação em Joinville","description":"A conclusão tratava de possível conflito em empresa de segurança. O texto informa que não foram constatadas irregularidades e que não havia fundamento para demanda judicial. O caso foi arquivado.","status":"🟢 arquivado","severity":"media"},
+{"i":2024,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":2025,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":2026,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":2027,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":2028,"tipo":"mp","keep":false,"title":"","description":"","status":"","severity":""},
+{"i":2029,"tipo":"mp","keep":true,"title":"MP arquiva caso de Mezo Bar após solução das irregularidades","description":"A conclusão tratava de irregularidades sanitárias no Mezo Bar Lounge e Events Corporation Ltda. O texto informa que os problemas foram solucionados e o caso foi arquivado.","status":"🟢 arquivado","severity":"media"}
+]
+[0m
+Vou gravar o primeiro lote curado agora e seguir na mesma estrutura para os dois restantes.
+[0m% [0mPatch 1 file
+[0m% [0mPatch 1 file
+[0m% [0mPatch 1 file
+Os três arquivos já estão gravados. Agora vou validar o JSON e conferir os totais por lote.
+[0m
+[0m$ [0mjq '[.[] | select(.severity=="alta")] | length' pdf_template/amunesc/_lotes_curados/joinville__26.json && jq '[.[] | select(.severity=="alta")] | length' pdf_template/amunesc/_lotes_curados/joinville__27.json && jq '[.[] | select(.severity=="alta")] | length' pdf_template/amunesc/_lotes_curados/joinville__28.json
+0
+0
+0
+[0m
+[0m$ [0mjq '[.[] | select(.keep==true)] | length' pdf_template/amunesc/_lotes_curados/joinville__26.json && jq '[.[] | select(.keep==true)] | length' pdf_template/amunesc/_lotes_curados/joinville__27.json && jq '[.[] | select(.keep==true)] | length' pdf_template/amunesc/_lotes_curados/joinville__28.json
+13
+16
+36
+[0m
+[0m$ [0mjq empty pdf_template/amunesc/_lotes_curados/joinville__26.json && jq empty pdf_template/amunesc/_lotes_curados/joinville__27.json && jq empty pdf_template/amunesc/_lotes_curados/joinville__28.json
+(no output)
+[0m
+Curado e gravado em `pdf_template/amunesc/_lotes_curados/`.
+
+- `joinville__26.json`: 70 casos, 13 `keep:true`, 0 `severity: alta`
+- `joinville__27.json`: 70 casos, 16 `keep:true`, 0 `severity: alta`
+- `joinville__28.json`: 70 casos, 36 `keep:true`, 0 `severity: alta`

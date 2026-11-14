@@ -1,0 +1,96 @@
+/* Estilo dos dossiês de texto longo ("-GRAVES") no mesmo sistema visual dos
+   dossiês diagramados: mesma capa, mesmo cabeçalho de cidade, mesmas fontes e
+   a mesma contracapa. Muda só o miolo — aqui o caso é uma reportagem de meia
+   página, não um card de quatro linhas, então o card do `dossie.css` não serve.
+   O que se mantém é o vocabulário: trilho à esquerda com a posição do caso,
+   cor da cidade como fio condutor, fonte da informação em cinza no fim. */
+
+.lf{font-size:9pt;line-height:1.45;color:#222}
+.lf p{margin:0 0 2.2mm}
+.lf ul,.lf ol{margin:0 0 2.6mm;padding-left:16px}
+.lf li{margin:0 0 1.1mm;line-height:1.4}
+.lf li p{margin:0 0 1mm}
+.lf strong{font-weight:800;color:#111}
+.lf a{color:#8a8a8a;text-decoration:underline}
+.lf em{font-style:italic}
+
+/* chamada de abertura: o H1 do markdown vira linha de apoio do cabeçalho, e
+   não um segundo título — o nome da cidade já está grande logo acima. */
+.lf-kicker{font-family:'Anton';font-size:17pt;text-transform:uppercase;
+  line-height:1.02;margin:0 0 3mm;color:var(--ink)}
+.lf-kicker span{color:var(--city)}
+
+.lf-meta{font-size:8pt;line-height:1.45;color:#444;background:#faf7f7;
+  border-left:4px solid var(--city);border-radius:0 5px 5px 0;
+  padding:2.4mm 3.4mm;margin:0 0 3mm}
+.lf-meta p{margin:0 0 1mm}
+.lf-meta p:last-child{margin:0}
+.lf-meta strong{color:var(--ink)}
+
+/* o aviso de método (acusação ≠ condenação) usa o dourado da marca: é o mesmo
+   papel do box de CTA — leia isto antes de qualquer outra coisa. */
+.lf-warn{background:#fffaea;border:1px solid #efdfa9;border-left:5px solid var(--gold);
+  border-radius:0 6px 6px 0;padding:3mm 4mm;margin:0 0 5mm;
+  font-size:8.5pt;line-height:1.45;color:#4d3f10}
+.lf-warn p{margin:0 0 1.5mm}
+.lf-warn p:last-child{margin:0}
+.lf-warn strong{color:#241d02}
+
+.lf-sec{margin:0 0 5mm}
+.lf-sec>h2{font-family:'Anton';font-size:13.5pt;text-transform:uppercase;letter-spacing:.4px;
+  line-height:1.05;margin:0 0 2.6mm;padding-top:2.4mm;border-top:3px solid var(--ink);
+  break-after:avoid;page-break-after:avoid}
+
+/* caso numerado: mesmo trilho do card do dossiê diagramado, com a posição no
+   lugar da data — aqui a data vive dentro do "Onde está". */
+.lf-case{display:grid;grid-template-columns:13mm 1fr;margin:0 0 5.5mm}
+.lf-case .rail{border-right:3px solid var(--line);padding-right:9px;text-align:right}
+.lf-case .rail .n{font-family:'Anton';font-size:21pt;line-height:.92;color:var(--city)}
+.lf-case .rail .lbl{font-size:6pt;font-weight:800;letter-spacing:1px;
+  text-transform:uppercase;color:#c2c2c2;margin-top:1px}
+.lf-case .body{padding-left:13px;min-width:0}
+.lf-case h2{font-family:'Archivo';font-weight:800;font-size:12pt;line-height:1.18;
+  margin:0 0 2mm;break-after:avoid;page-break-after:avoid}
+
+.lf-lead{font-weight:800;color:var(--city);font-size:9.2pt;line-height:1.35}
+.lf-lead strong{color:inherit}
+
+.lf-quote,.lf blockquote{border-left:3px solid var(--gold);background:#fbfaf5;
+  padding:2mm 3.4mm;margin:0 0 2.6mm;font-size:8.6pt;line-height:1.42;color:#444}
+.lf-quote p:last-child,.lf blockquote p:last-child{margin:0}
+
+/* a linha de fonte fecha o caso do mesmo jeito que o `.ref` fecha o card:
+   cinza, miúda, com o número do processo e a data da edição. */
+.lf-src{font-size:7.4pt;line-height:1.45;color:#8f8f8f;letter-spacing:.2px;
+  border-top:1px dashed #dcdcdc;padding-top:1.6mm;margin:0 0 2.2mm}
+.lf-src strong{font-size:6.8pt;text-transform:uppercase;letter-spacing:1.2px;color:#6f6f6f}
+
+/* alerta de armadilha do extrator / cuidado editorial: vermelho, porque é a
+   mesma família visual do caso marcado como grave no dossiê diagramado. */
+.lf-alert{background:#fdf0ef;border-left:4px solid #b4131c;border-radius:0 5px 5px 0;
+  padding:2.2mm 3.2mm;margin:0 0 2.6mm;font-size:8.4pt;line-height:1.4;color:#5b1a1d}
+.lf-alert strong{color:#b4131c}
+
+.lf table{width:100%;border-collapse:collapse;font-size:8.4pt;margin:0 0 3mm;
+  break-inside:avoid;page-break-inside:avoid}
+.lf th{background:var(--ink);color:var(--gold);text-align:left;font-size:7.2pt;
+  font-weight:800;text-transform:uppercase;letter-spacing:1px;padding:4px 8px}
+.lf td{border-bottom:1px solid var(--line);padding:4px 8px;vertical-align:top;line-height:1.35}
+.lf tbody tr:nth-child(even) td{background:#fafafa}
+.lf table caption{caption-side:top;text-align:left;font-weight:800;font-size:8pt;
+  color:var(--muted);padding-bottom:2px}
+
+.lf code{font-family:'SF Mono','Menlo',monospace;font-size:7.8pt;background:#f2f2f2;
+  padding:1px 4px;border-radius:3px;color:#444}
+
+/* listas das seções de apoio (painel, método, como reproduzir) não se partem:
+   sem isso a última seção deixa um único item órfão numa página em branco. */
+.lf-sec>ul,.lf-sec>ol{break-inside:avoid;page-break-inside:avoid}
+.lf li{break-inside:avoid;page-break-inside:avoid}
+.lf-kicker{margin-top:1mm}
+.ccount{margin-bottom:3.5mm}
+
+.lf pre{background:#f6f6f4;border-left:3px solid var(--line);border-radius:0 4px 4px 0;
+  padding:2.2mm 3.2mm;margin:0 0 2.6mm;overflow:hidden;
+  font-family:'SF Mono','Menlo',monospace;font-size:7.6pt;line-height:1.5;color:#333}
+.lf pre code{background:none;padding:0;font-size:inherit}

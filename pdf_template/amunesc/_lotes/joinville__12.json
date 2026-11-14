@@ -1,0 +1,635 @@
+{
+ "cidade": "Joinville",
+ "casos": [
+  {
+   "i": 840,
+   "tipo": "mp",
+   "ref": "06.2021.00004603-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL PÚBLICO N. 06.2021.00004603-1",
+   "status": "🟡 em apuração",
+   "data": "16/05/2022",
+   "texto": "Rosana Zattar Picolli e Município de Joinville."
+  },
+  {
+   "i": 841,
+   "tipo": "mp",
+   "ref": "01.2022.00015543-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00015543-1",
+   "status": "🟡 em apuração",
+   "data": "18/05/2022",
+   "texto": "Município de Joinville."
+  },
+  {
+   "i": 842,
+   "tipo": "mp",
+   "ref": "06.2022.00002319-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00002319-7",
+   "status": "🟡 em apuração",
+   "data": "19/05/2022",
+   "texto": "Ministério Público de Santa Catarina e Everton Luiz Liberato."
+  },
+  {
+   "i": 843,
+   "tipo": "mp",
+   "ref": "01.2022.00015382-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00015382-2",
+   "status": "🟡 em apuração",
+   "data": "20/05/2022",
+   "texto": "Luiza Machado."
+  },
+  {
+   "i": 844,
+   "tipo": "mp",
+   "ref": "01.2022.00016258-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00016258-7",
+   "status": "🟡 em apuração",
+   "data": "24/05/2022",
+   "texto": "Liliane Freitas Lovato."
+  },
+  {
+   "i": 845,
+   "tipo": "mp",
+   "ref": "06.2022.00002394-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00002394-2",
+   "status": "🟡 em apuração",
+   "data": "26/05/2022",
+   "texto": "Ministério Público de Santa Catarina e Município de Joinville."
+  },
+  {
+   "i": 846,
+   "tipo": "mp",
+   "ref": "01.2022.00015543-1",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00015543-1",
+   "status": "🟢 arquivado",
+   "data": "30/05/2022",
+   "texto": "Município de Joinville. Conclusão: [...] Sendo assim, considerando que a municipalidade está agindo eficazmente para a proteção dos animais de rua, não restam outras medidas a serem adotadas por este órgão ministerial. Por todo o exposto, não sendo caso de instauração de Inquérito Civil ou Procedimento Preparatório, com supedâneo no art. 7º, inciso II, do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato. Membro de Ministério Público: Simone Cristina Schultz Corrêa"
+  },
+  {
+   "i": 847,
+   "tipo": "mp",
+   "ref": "01.2022.00017393-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00017393-0",
+   "status": "🟡 em apuração",
+   "data": "01/06/2022",
+   "texto": "Acácia Cordeiro."
+  },
+  {
+   "i": 848,
+   "tipo": "mp",
+   "ref": "01.2022.00018273-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00018273-9",
+   "status": "🟡 em apuração",
+   "data": "07/06/2022",
+   "texto": "Karoline Trommholz e Jennifer Caroline."
+  },
+  {
+   "i": 849,
+   "tipo": "mp",
+   "ref": "01.2022.00018658-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00018658-0",
+   "status": "🟡 em apuração",
+   "data": "10/06/2022",
+   "texto": "Frada."
+  },
+  {
+   "i": 850,
+   "tipo": "mp",
+   "ref": "06.2019.00000022-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00000022-0",
+   "status": "❔ status indef.",
+   "data": "13/06/2022",
+   "texto": "anônimo e Município de Joinville. Conclusão: limpeza do Rio Morro Alto durante o trâmite do procedimento que evitou novas inundações, resultando na solução do problema extrajudicialmente após intervenção do Ministério Público. Inexistência de fundamento para tomada de Ajuste de Condutas ou propositura de Ação Civil Pública."
+  },
+  {
+   "i": 851,
+   "tipo": "mp",
+   "ref": "06.2020.00005183-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00005183-0",
+   "status": "❔ status indef.",
+   "data": "13/06/2022",
+   "texto": "Adriana Patrícia Schmidt e Município de Joinville. Conclusão: local objeto de apuração foi isolado, limpo e sem acúmulo de vegetação. Problema solucionado durante o trâmite do procedimento pelo exercício regular do poder de polícia administrativa pelo Município. Inexistência de fundamento para tomada de Ajuste de Condutas ou propositura de Ação Civil Pública."
+  },
+  {
+   "i": 852,
+   "tipo": "mp",
+   "ref": "01.2022.00018789-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00018789-0",
+   "status": "🟡 em apuração",
+   "data": "13/06/2022",
+   "texto": "a apurar."
+  },
+  {
+   "i": 853,
+   "tipo": "mp",
+   "ref": "01.2022.00018903-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00018903-2",
+   "status": "🟡 em apuração",
+   "data": "13/06/2022",
+   "texto": "Dorizete Tamanini."
+  },
+  {
+   "i": 854,
+   "tipo": "mp",
+   "ref": "01.2022.00018702-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00018702-3",
+   "status": "🟡 em apuração",
+   "data": "14/06/2022",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 855,
+   "tipo": "mp",
+   "ref": "01.2022.00018894-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00018894-4",
+   "status": "🟡 em apuração",
+   "data": "14/06/2022",
+   "texto": "Lucineia Aparecida da Silva."
+  },
+  {
+   "i": 856,
+   "tipo": "mp",
+   "ref": "01.2022.00019202-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00019202-6",
+   "status": "🟡 em apuração",
+   "data": "17/06/2022",
+   "texto": "Cleisson Trevisani."
+  },
+  {
+   "i": 857,
+   "tipo": "mp",
+   "ref": "01.2022.00019366-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00019366-9",
+   "status": "🟡 em apuração",
+   "data": "20/06/2022",
+   "texto": "Adriana Gonçalves dos Santos."
+  },
+  {
+   "i": 858,
+   "tipo": "mp",
+   "ref": "01.2022.00019665-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00019665-5",
+   "status": "🟡 em apuração",
+   "data": "21/06/2022",
+   "texto": "anônimo."
+  },
+  {
+   "i": 859,
+   "tipo": "mp",
+   "ref": "06.2019.00002805-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00002805-1",
+   "status": "🟢 arquivado",
+   "data": "23/06/2022",
+   "texto": "Sérgio Luis Faraco Fagundes e Município de Joinville. Conclusão: edificação abandonada utilizada por usuário de drogas sofreu demolição durante o trâmite do procedimento e o respectivo terreno foi limpo após regular exercício do poder de polícia administrativa pelo Município de Joinville. Inexistência de fundamento para tomada de Ajuste de Condutas ou propositura de Ação Civil Pública. Arquivamento."
+  },
+  {
+   "i": 860,
+   "tipo": "mp",
+   "ref": "06.2021.00004876-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2021.00004876-2",
+   "status": "🟢 arquivado",
+   "data": "23/06/2022",
+   "texto": "Catarinense Engenharia Ambiental S/A e Instituto do Meio Ambiente de Santa Catarina (IMA). Conclusão: fatos investigados já foram objeto do Inquérito Civil 06.2018.00006084-7 da 21ª Promotoria de Justiça de Joinville, no qual foi entabulado Ajuste de Condutas. Inexistência de fundamento para tomada de novo Ajuste de Condutas ou propositura de Ação Civil Pública. Arquivamento."
+  },
+  {
+   "i": 861,
+   "tipo": "mp",
+   "ref": "06.2022.00002758-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00002758-2",
+   "status": "🟡 em apuração",
+   "data": "24/06/2022",
+   "texto": "Micaela Cristina Villain e Município de Joinville/SC."
+  },
+  {
+   "i": 862,
+   "tipo": "mp",
+   "ref": "01.2022.00020862-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00020862-4",
+   "status": "🟡 em apuração",
+   "data": "30/06/2022",
+   "texto": "Flávia França."
+  },
+  {
+   "i": 863,
+   "tipo": "mp",
+   "ref": "01.2022.00020966-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00020966-7",
+   "status": "🟡 em apuração",
+   "data": "30/06/2022",
+   "texto": "Judith Seteinbach."
+  },
+  {
+   "i": 864,
+   "tipo": "mp",
+   "ref": "01.2022.00020909-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00020909-0",
+   "status": "🟡 em apuração",
+   "data": "01/07/2022",
+   "texto": "Frente de Ação pelos Direitos Animais de Joinville (FRADA)."
+  },
+  {
+   "i": 865,
+   "tipo": "mp",
+   "ref": "06.2020.00002226-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00002226-8",
+   "status": "🟢 arquivado",
+   "data": "05/07/2022",
+   "texto": "Município de Joinville. Conclusão: [...] Diante do exposto, considerando a inexistência de fundamento para propositura de ação judicial (art. 48, I, do Ato n. 395/2018/PGJ), e não havendo outras medidas a serem adotadas, promovo o arquivamento do Inquérito Civil Público n. 06.2020.00002226-8."
+  },
+  {
+   "i": 866,
+   "tipo": "mp",
+   "ref": "06.2022.00000805-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00000805-2",
+   "status": "❔ status indef.",
+   "data": "07/07/2022",
+   "texto": "Município de Joinville. Conclusão: ausência de acessibilidade na Escola Agrícola Municipal Carlos Heins Funke. Obrigação de fazer abrangida por ação civil pública que concedeu prazo ao Poder Público Municipal para regularização. Prazo ainda não escoado. Instalação de plataforma elevatória que atende as demandas iniciais até integral adequação das instalações no prazo concedido pelo Juízo. Inexistência de fundamento para a propositura de ação judicial."
+  },
+  {
+   "i": 867,
+   "tipo": "mp",
+   "ref": "01.2022.00022285-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00022285-9",
+   "status": "🟡 em apuração",
+   "data": "11/07/2022",
+   "texto": "FRADA."
+  },
+  {
+   "i": 868,
+   "tipo": "mp",
+   "ref": "09.2022.00004108-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO n. 09.2022.00004108-4",
+   "status": "🟡 em apuração",
+   "data": "11/07/2022",
+   "texto": "Município de Joinville e Estado de Santa Catarina."
+  },
+  {
+   "i": 869,
+   "tipo": "mp",
+   "ref": "01.2022.00022477-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00022477-9",
+   "status": "🟡 em apuração",
+   "data": "12/07/2022",
+   "texto": "Dela Pedroso."
+  },
+  {
+   "i": 870,
+   "tipo": "mp",
+   "ref": "01.2022.00020909-0",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00020909-0",
+   "status": "❔ status indef.",
+   "data": "13/07/2022",
+   "texto": "FRADA - Frente de Ação pelos Direitos Animais de Joinville. Conclusão: falta de empenho para realização de castrações nos Município de Joinville/SC. Inocorrência. Mais de quatrocentos"
+  },
+  {
+   "i": 871,
+   "tipo": "mp",
+   "ref": "06.2020.00000107-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00000107-3",
+   "status": "🟢 arquivado",
+   "data": "13/07/2022",
+   "texto": "Município de Joinville. Conclusão: considerando que o inquérito civil em epígrafe foi instaurado para apurar a inconstitucionalidade material de dispositivos da Lei Complementar n. 551/2019 do Município de Joinville e que a aludida norma foi revogada expressamente pelo artigo 14 da Lei Complementar 601/2022, foi promovido o arquivamento do inquérito civil 06.2020.00000107-3 ante a perda do seu objeto."
+  },
+  {
+   "i": 872,
+   "tipo": "mp",
+   "ref": "06.2022.00000932-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00000932-9",
+   "status": "❔ status indef.",
+   "data": "15/07/2022",
+   "texto": "Município de Joinville."
+  },
+  {
+   "i": 873,
+   "tipo": "mp",
+   "ref": "01.2022.00023176-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00023176-9",
+   "status": "🟡 em apuração",
+   "data": "19/07/2022",
+   "texto": "Comunidade São Francisco de Assis."
+  },
+  {
+   "i": 874,
+   "tipo": "mp",
+   "ref": "01.2022.00020966-7",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00020966-7",
+   "status": "🟢 arquivado",
+   "data": "20/07/2022",
+   "texto": "Judith Seteinbach. Conclusão: suposta intervenção irregular em APP pelo Município de Joinville. Serviço de limpeza realizado às margens de curso hídrico para evitar alagamentos. Utilidade Pública. Ausência de afronta a interesse tutelado pelo Ministério Público. Indeferimento de Instauração com base no artigo 7º, inciso I, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 875,
+   "tipo": "mp",
+   "ref": "01.2022.00023345-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00023345-6",
+   "status": "🟡 em apuração",
+   "data": "20/07/2022",
+   "texto": "Pamela Paterno."
+  },
+  {
+   "i": 876,
+   "tipo": "mp",
+   "ref": "06.2022.00003144-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00003144-2",
+   "status": "🟡 em apuração",
+   "data": "22/07/2022",
+   "texto": "Altevir Gaspar e Município de Joinville."
+  },
+  {
+   "i": 877,
+   "tipo": "mp",
+   "ref": "06.2022.00003162-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00003162-0",
+   "status": "🟡 em apuração",
+   "data": "25/07/2022",
+   "texto": "Município de Joinville."
+  },
+  {
+   "i": 878,
+   "tipo": "mp",
+   "ref": "01.2022.00024465-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00024465-3",
+   "status": "🟡 em apuração",
+   "data": "27/07/2022",
+   "texto": "2º Registro de Imóveis do Município de Joinville/SC."
+  },
+  {
+   "i": 879,
+   "tipo": "mp",
+   "ref": "06.2022.00003294-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00003294-1",
+   "status": "🟡 em apuração",
+   "data": "04/08/2022",
+   "texto": "Paulo Henrique Araújo Santos Gayer."
+  },
+  {
+   "i": 880,
+   "tipo": "mp",
+   "ref": "09.2022.00004622-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00004622-4",
+   "status": "🟡 em apuração",
+   "data": "05/08/2022",
+   "texto": "4ª Promotoria de Justiça de Joinville."
+  },
+  {
+   "i": 881,
+   "tipo": "mp",
+   "ref": "01.2022.00025730-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00025730-4",
+   "status": "🟡 em apuração",
+   "data": "08/08/2022",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 882,
+   "tipo": "mp",
+   "ref": "01.2022.00025840-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00025840-3",
+   "status": "🟡 em apuração",
+   "data": "08/08/2022",
+   "texto": "Carolyne Dias."
+  },
+  {
+   "i": 883,
+   "tipo": "mp",
+   "ref": "01.2022.00025947-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00025947-9",
+   "status": "🟡 em apuração",
+   "data": "08/08/2022",
+   "texto": "Hellen Engelmann."
+  },
+  {
+   "i": 884,
+   "tipo": "mp",
+   "ref": "01.2022.00025915-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00025915-7",
+   "status": "🟡 em apuração",
+   "data": "09/08/2022",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 885,
+   "tipo": "mp",
+   "ref": "01.2022.00026040-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00026040-9",
+   "status": "🟡 em apuração",
+   "data": "09/08/2022",
+   "texto": "Nasaré Mota, Liliane Keiko Uechi Rodrigues, Valdeir Bernardo Lopes, Joceara Borges, \"Jana\", Karla Leticia de Moura, Vanessa Bem, Denise Perboni Alves, Josiane Borges, Ana Carolina Pahl e \"Miriam\"."
+  },
+  {
+   "i": 886,
+   "tipo": "mp",
+   "ref": "01.2022.00026055-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00026055-3",
+   "status": "🟡 em apuração",
+   "data": "09/08/2022",
+   "texto": "Vitória Sandrin e Patrícia Salobra."
+  },
+  {
+   "i": 887,
+   "tipo": "mp",
+   "ref": "06.2021.00001776-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00001776-9",
+   "status": "❔ status indef.",
+   "data": "11/08/2022",
+   "texto": "Jackson Fabiano Tromm e Município de Joinville. Conclusão: inexistência de fundamento para tomada de Ajuste de Condutas ou propositura de Ação Civil Pública."
+  },
+  {
+   "i": 888,
+   "tipo": "mp",
+   "ref": "06.2021.00004609-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2021.00004609-7",
+   "status": "🟡 em apuração",
+   "data": "18/08/2022",
+   "texto": ""
+  },
+  {
+   "i": 889,
+   "tipo": "mp",
+   "ref": "01.2022.00027882-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00027882-1",
+   "status": "🟡 em apuração",
+   "data": "23/08/2022",
+   "texto": "Ana Paula Cardoso. Márcio de Castro Fernandes e Regiane Fernandes."
+  },
+  {
+   "i": 890,
+   "tipo": "mp",
+   "ref": "01.2022.00028750-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00028750-9",
+   "status": "🟡 em apuração",
+   "data": "30/08/2022",
+   "texto": "Marlice Camargo dos Santos. Débora Melo. Neusa Rita Flamia."
+  },
+  {
+   "i": 891,
+   "tipo": "mp",
+   "ref": "06.2022.00003681-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00003681-5",
+   "status": "🟡 em apuração",
+   "data": "31/08/2022",
+   "texto": "Camila Thayse."
+  },
+  {
+   "i": 892,
+   "tipo": "mp",
+   "ref": "01.2022.00029241-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00029241-2",
+   "status": "🟡 em apuração",
+   "data": "01/09/2022",
+   "texto": "Marinetti Alves."
+  },
+  {
+   "i": 893,
+   "tipo": "mp",
+   "ref": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00026040- 9",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00026040- 9",
+   "status": "🟢 arquivado",
+   "data": "05/09/2022",
+   "texto": "Nasaré Mota e outros. Conclusão: suposta falta de empenhos de castração em todas as clínicas veterinárias conveniadas com o Município de Joinville. Fatos não confirmados. Realizado número maior de procedimentos do que no mesmo período do ano anterior. Encaminhados novos empenhos para clínicas de maior demanda. Serviço garantido pela Municipalidade. Indeferimento de Instauração com base no artigo 7º, inciso I, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 894,
+   "tipo": "mp",
+   "ref": "01.2022.00031386-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00031386-8",
+   "status": "🟡 em apuração",
+   "data": "16/09/2022",
+   "texto": "Samantha Angela Marques."
+  },
+  {
+   "i": 895,
+   "tipo": "mp",
+   "ref": "01.2022.00031468-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00031468-9",
+   "status": "🟡 em apuração",
+   "data": "19/09/2022",
+   "texto": "Geiziane Géssica Schubert."
+  },
+  {
+   "i": 896,
+   "tipo": "mp",
+   "ref": "06.2022.00003720-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 06.2022.00003720-3",
+   "status": "🟡 em apuração",
+   "data": "22/09/2022",
+   "texto": "Município de Joinville."
+  },
+  {
+   "i": 897,
+   "tipo": "mp",
+   "ref": "01.2022.00033313-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N.01.2022.00033313-1",
+   "status": "🟡 em apuração",
+   "data": "28/09/2022",
+   "texto": "Claudete Silveira."
+  },
+  {
+   "i": 898,
+   "tipo": "mp",
+   "ref": "06.2022.00002128-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00002128-8",
+   "status": "🟡 em apuração",
+   "data": "29/09/2022",
+   "texto": "Município de Joinville."
+  },
+  {
+   "i": 899,
+   "tipo": "mp",
+   "ref": "01.2022.00033922-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00033922-5",
+   "status": "🟡 em apuração",
+   "data": "03/10/2022",
+   "texto": "Gaby Derio."
+  },
+  {
+   "i": 900,
+   "tipo": "mp",
+   "ref": "01.2022.00034312-9",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO CRIMINAL N. 01.2022.00034312-9",
+   "status": "🟢 arquivado",
+   "data": "10/10/2022",
+   "texto": "5ª Ofício Procuradoria da República no Município de Joinville - MPF. Conclusão: suposta prática do crime previsto no artigo 32, caput, da Lei n. 9.605/1998. Requisição de instauração de termo circunstanciado. Notícia de que os fatos já estão sendo objeto de apuração em Ação Penal. Indeferimento de Instauração com base no artigo 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 901,
+   "tipo": "mp",
+   "ref": "01.2022.00031616-5",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00031616-5",
+   "status": "🟢 arquivado",
+   "data": "10/10/2022",
+   "texto": "Helena Vultuoso. Conclusão: suposto abandono de canino registrado com o Chip. 963 003000025486. Impossibilidade de leitura de chip pelo CBEA. Fatos estes anexados a procedimento próprio, instaurado para apurar ineficiência da microchipagem promovida pelo Município de Joinville. Canino com bem estar resguardado, em lar temporário. Antigo tutor que está internado em clínica para tratamento de dependência. Sem abandono. Indeferimento de Instauração com base no artigo 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 902,
+   "tipo": "mp",
+   "ref": "06.2020.00003536-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00003536-3",
+   "status": "🟢 arquivado",
+   "data": "10/10/2022",
+   "texto": "Debora Tiemi Scottini, Município de Joinville. Conclusão: arquivamento promovido devido ao êxito na solução da questão extrajudicialmente, não sendo, por conseguinte, necessária a tomada de Ajuste de Condutas ou a deflagração de Ação Civil Pública ou qualquer outra providência, com base no artigo 9º da Lei n. 7.347/85, c/c o art. 48, inciso I, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 903,
+   "tipo": "mp",
+   "ref": "06.2022.00004193-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00004193-0",
+   "status": "🟡 em apuração",
+   "data": "17/10/2022",
+   "texto": "Dorizete Tamanini."
+  },
+  {
+   "i": 904,
+   "tipo": "mp",
+   "ref": "06.2022.00004197-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00004197-3",
+   "status": "🟡 em apuração",
+   "data": "17/10/2022",
+   "texto": "a apurar."
+  },
+  {
+   "i": 905,
+   "tipo": "mp",
+   "ref": "01.2022.00036290-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00036290-4",
+   "status": "🟡 em apuração",
+   "data": "20/10/2022",
+   "texto": "Thamara Alessa Arantes. Cleber Remi."
+  },
+  {
+   "i": 906,
+   "tipo": "mp",
+   "ref": "01.2022.00029056-9",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00029056-9",
+   "status": "❔ status indef.",
+   "data": "01/11/2022",
+   "texto": "Tiago César Cordeiro dos Santos. Conclusão: [...] o órgão ambiental realizou as diligências necessárias e constatou que a tutora atendeu a todas as orientações, com melhorias no abrigo, instalação de cabo de locomoção, apresentação de comprovante de vacinação e de laudo veterinário, no qual consta a boa saúde do cão, além disso havia água e alimento à disposição. Dessa forma, não se verifica, ao menos por ora, nenhuma outra providência a ser adotada por este Órgão de Execução, já que não se constata contínua violação aos direitos do animal."
+  },
+  {
+   "i": 907,
+   "tipo": "mp",
+   "ref": "01.2022.00037652-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00037652-0",
+   "status": "🟡 em apuração",
+   "data": "01/11/2022",
+   "texto": "Valdirene Spader."
+  },
+  {
+   "i": 908,
+   "tipo": "mp",
+   "ref": "06.2022.00004335-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00004335-0",
+   "status": "🟡 em apuração",
+   "data": "01/11/2022",
+   "texto": "Liliane Lovato, Marcos Antônio Biz e Nilo Sussumu Nakatani."
+  },
+  {
+   "i": 909,
+   "tipo": "mp",
+   "ref": "06.2022.00004327-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004327-1",
+   "status": "🟡 em apuração",
+   "data": "04/11/2022",
+   "texto": "Renato José Bortoloni e Tereza Bortolini."
+  }
+ ]
+}

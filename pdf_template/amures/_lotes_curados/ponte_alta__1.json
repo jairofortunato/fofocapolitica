@@ -1,0 +1,17 @@
+[
+ {"i": 3, "tipo": "tce", "keep": true, "title": "TCE multa membros de comissão de licitação de Ponte Alta por obra de calçadas irregular", "description": "O TCE julgou irregular a Tomada de Preços 011/2022 da prefeitura de Ponte Alta, para construção e revitalização de calçadas em paver. A corte aplicou multas de R$ 5 mil por infração ao presidente da comissão de licitação, Peterson Finkler de Souza, e ao membro Cleberson Alves Waltrick, por habilitarem indevidamente a empresa vencedora sem comprovação de capacidade operacional e por aceitarem proposta de preço fora do modelo exigido, sem cronograma e sem planilha de custos.", "status": "⬛ julgado irregular + multa", "severity": "alta"},
+ {"i": 4, "tipo": "tce", "keep": true, "title": "TCE rejeita denúncia sobre vagas de estágio na prefeitura de Ponte Alta", "description": "Denúncia questionava normas municipais que ampliaram vagas de estágio e regulamentaram contratações temporárias em Ponte Alta. O TCE considerou a denúncia improcedente quanto ao aumento de vagas e reconheceu a perda de objeto quanto às contratações temporárias. Ainda assim, orientou o município a fazer estudos de impacto orçamentário antes de criar despesas. O caso foi encerrado.", "status": "🟢 julgado regular", "severity": "media"},
+ {"i": 5, "tipo": "tce", "keep": false, "title": "", "description": "", "status": "", "severity": "media"},
+ {"i": 6, "tipo": "tce", "keep": false, "title": "", "description": "", "status": "", "severity": "media"},
+ {"i": 7, "tipo": "tce", "keep": false, "title": "", "description": "", "status": "", "severity": "media"},
+ {"i": 8, "tipo": "tce", "keep": false, "title": "", "description": "", "status": "", "severity": "media"},
+ {"i": 9, "tipo": "tce", "keep": false, "title": "", "description": "", "status": "", "severity": "media"},
+ {"i": 10, "tipo": "tce", "keep": false, "title": "", "description": "", "status": "", "severity": "media"},
+ {"i": 11, "tipo": "tce", "keep": false, "title": "", "description": "", "status": "", "severity": "media"},
+ {"i": 12, "tipo": "tce", "keep": true, "title": "TCE arquiva representação do MP sobre subsídio de secretários de Ponte Alta", "description": "A Promotoria de Justiça de Correia Pinto levou ao TCE possíveis irregularidades no pagamento de subsídio aos secretários municipais de Ponte Alta. O Tribunal considerou a representação improcedente, por não ser possível afirmar má-fé dos beneficiados nem influência deles na concessão dos valores questionados. O processo foi arquivado.", "status": "🟢 julgado regular", "severity": "media"},
+ {"i": 13, "tipo": "tce", "keep": false, "title": "", "description": "", "status": "", "severity": "media"},
+ {"i": 14, "tipo": "tce", "keep": false, "title": "", "description": "", "status": "", "severity": "media"},
+ {"i": 15, "tipo": "tce", "keep": false, "title": "", "description": "", "status": "", "severity": "media"},
+ {"i": 16, "tipo": "tce", "keep": false, "title": "", "description": "", "status": "", "severity": "media"},
+ {"i": 17, "tipo": "tce", "keep": true, "title": "TCE atesta que Ponte Alta cumpre regras de liberação de atividades de baixo risco", "description": "Inspeção do TCE verificou se a prefeitura de Ponte Alta cumpria as leis federal e estadual de liberdade econômica, que dispensam exigências para liberar atividades econômicas de baixo risco. O Tribunal considerou as disposições cumpridas e arquivou o processo.", "status": "🟢 julgado regular", "severity": "media"}
+]

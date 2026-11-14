@@ -1,0 +1,635 @@
+{
+ "cidade": "Blumenau",
+ "casos": [
+  {
+   "i": 280,
+   "tipo": "mp",
+   "ref": "09.2024.00005942-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00005942-7",
+   "status": "🟡 em apuração",
+   "data": "22/07/2024",
+   "texto": "Município de Blumenau."
+  },
+  {
+   "i": 281,
+   "tipo": "mp",
+   "ref": "06.2022.00004222-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00004222-8",
+   "status": "🟢 arquivado",
+   "data": "29/07/2024",
+   "texto": "Marcos Klemz e Município de Blumenau. Conclusão: Inquérito Civil. Apurar situação da Rua Cravo, n. 40, Bairro Velha Grande, no Município de Blumenau. Arquivamento."
+  },
+  {
+   "i": 282,
+   "tipo": "mp",
+   "ref": "01.2024.00016743-5",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00016743-5",
+   "status": "❔ status indef.",
+   "data": "30/08/2024",
+   "texto": "Secretaria de Planejamento Urbano (SEPLAN). Conclusão: encaminhado o Estudo Técnico-Jurídico n. 0282/2024/CECCON pelo Centro de Apoio Operacional do Controle de Constitucionalidade (CECCON), sobreveio a informação de elaboração de inicial de ação direta de inconstitucionalidade em face do art. 19, §2°, da Lei Complementar n. 749, de 23 de março de 2010, alterados pela Lei Complementar n. 1.569, de 7 de maio de 2024, ambas do Município de Blumenau (SIG n. 08.2024.00363744-7). Desse modo, inexiste motivos para prosseguimento do presente expediente."
+  },
+  {
+   "i": 283,
+   "tipo": "mp",
+   "ref": "06.2024.00003223-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00003223-8",
+   "status": "🟡 em apuração",
+   "data": "19/09/2024",
+   "texto": "Hospital Santo Antônio, Hospital Santa Isabel, Hospital Santa Catarina e Hospital Misericórdia."
+  },
+  {
+   "i": 284,
+   "tipo": "mp",
+   "ref": "06.2022.00003522-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00003522-7",
+   "status": "🟢 arquivado",
+   "data": "26/09/2024",
+   "texto": "Secretaria Municipal de Promoção da Saúde (SEMUS) e Diretoria de Vigilância Sanitária de Blumenau. Conclusão: procedimento instaurado para apurar a conformidade do Município de Blumenau com a Deliberação n. 250/CIB/2019, da Secretaria de Estado da Saúde, em relação ao número de profissionais de vigilância sanitária, realização de busca ativa para a inspeção de estabelecimentos e utilização de roteiros para inspeção sanitária. Conformidade municipal. Inexistência de elementos suficientes para a propositura de eventual ação civil pública ou outra medida judicial na esfera dos interesses difusos e coletivos tutelados pelo Ministério Público. Promoção de arquivamento."
+  },
+  {
+   "i": 285,
+   "tipo": "mp",
+   "ref": "06.2024.00003735-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00003735-5",
+   "status": "🟡 em apuração",
+   "data": "09/10/2024",
+   "texto": "Município de Blumenau e Secretaria Municipal de Trânsito e Transportes (SMTT)."
+  },
+  {
+   "i": 286,
+   "tipo": "mp",
+   "ref": "06.2024.00005055-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00005055-8",
+   "status": "🟡 em apuração",
+   "data": "27/11/2024",
+   "texto": "Município de Blumenau."
+  },
+  {
+   "i": 287,
+   "tipo": "mp",
+   "ref": "06.2024.00005177-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00005177-9",
+   "status": "🟡 em apuração",
+   "data": "04/12/2024",
+   "texto": "Cristiane da Silva Gomes Rodrigues da Silva."
+  },
+  {
+   "i": 288,
+   "tipo": "mp",
+   "ref": "06.2024.00005210-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00005210-1",
+   "status": "🟠 TAC firmado",
+   "data": "17/01/2025",
+   "texto": "Serviço Autônomo Municipal de Água e Esgoto do Município de Blumenau (SAMAE). Conclusão: considerando as medidas ajustadas no Termo de Compromisso de Ajustamento de Conduta firmado com o compromissário Serviço Autônomo Municipal de Água e Esgoto do Município de Blumenau (SAMAE), sendo atingido o objetivo do presente feito, nos termos previstos no artigo 48, inciso II, do Ato n. 395/2018/PGJ, determino o arquivamento deste Inquérito Civil."
+  },
+  {
+   "i": 289,
+   "tipo": "mp",
+   "ref": "06.2023.00003106-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00003106-8",
+   "status": "🟢 arquivado",
+   "data": "20/03/2025",
+   "texto": "Ministério Público do Estado de Santa Catarina, Município de Blumenau e Rodrigo Marques Ferreira. Conclusão: Inquérito Civil. Verificação da implementação de medidas para segurança nas instituições de ensino de Blumenau, considerando o recente ataque à creche Cantinho Bom Pastor. Providências adotadas pela municipalidade. Inexistência de adoção de outras medidas. Objetivo alcançado. Arquivamento."
+  },
+  {
+   "i": 290,
+   "tipo": "mp",
+   "ref": "06.2023.00002940-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00002940-7",
+   "status": "❔ status indef.",
+   "data": "24/03/2025",
+   "texto": "Alessandra Hernandes Ogeda, Cooperativa de Habitação de Blumenau (Coohabit) e Município de Blumenau."
+  },
+  {
+   "i": 291,
+   "tipo": "mp",
+   "ref": "06.2025.00000865-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00000865-3",
+   "status": "🟡 em apuração",
+   "data": "24/03/2025",
+   "texto": "Astrid Prim."
+  },
+  {
+   "i": 292,
+   "tipo": "mp",
+   "ref": "06.2025.00002359-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00002359-8",
+   "status": "🟡 em apuração",
+   "data": "20/06/2025",
+   "texto": "Agnaldo Alves Garcia Júnior, Serviço Autônomo Municipal de Água e Esgoto de Blumenau (SAMAE) e Município de Blumenau."
+  },
+  {
+   "i": 293,
+   "tipo": "mp",
+   "ref": "06.2024.00005055-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00005055-8",
+   "status": "🟡 em apuração",
+   "data": "08/07/2025",
+   "texto": "Município de Blumenau."
+  },
+  {
+   "i": 294,
+   "tipo": "mp",
+   "ref": "06.2025.00002655-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00002655-1",
+   "status": "🟡 em apuração",
+   "data": "10/07/2025",
+   "texto": "Gilmar Márcio Reinert, Vagner de Moraes Ouriques e Município de Blumenau."
+  },
+  {
+   "i": 295,
+   "tipo": "mp",
+   "ref": "06.2024.00000432-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00000432-0",
+   "status": "🟢 arquivado",
+   "data": "16/07/2025",
+   "texto": "Pedro Flores Airoso Filho e Município de Blumenau. Conclusão: Inquérito Civil instaurado com o objetivo de apurar situação de risco geológico em residências localizadas na Rua Almirante Tamandaré, números 1140 e 1156, no Bairro Vila Nova, neste Município. Instado, o Município de Blumenau promoveu a desocupação dos imóveis, determinando que os proprietários somente poderão retornar às residências após a regularização das edificações, mediante a contratação de profissionais habilitados para a elaboração de projeto de recuperação. Verificado o exaurimento das obrigações atribuídas ao ente municipal. As providências de regularização remanescem sob responsabilidade dos proprietários dos imóveis. Ausência de interesse público ou de justa causa que justifique a continuidade do procedimento. Arqu…"
+  },
+  {
+   "i": 296,
+   "tipo": "mp",
+   "ref": "06.2024.00002432-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00002432-7",
+   "status": "🟢 arquivado",
+   "data": "21/07/2025",
+   "texto": "Cristiano Claumann e Município de Blumenau. Conclusão: Inquérito Civil instaurado com o objetivo de apurar possível omissão na fiscalização municipal quanto à inexistência de calçada pública na Rua das Extremosas, nas proximidades do n. 91, Bairro Itoupava Norte, nesta cidade, especificamente em relação aos imóveis cadastrados sob os números 94387 e 94376 no Município de Blumenau. Instado, o Município de Blumenau promoveu a notificação dos proprietários dos referidos imóveis para que realizassem a devida adequação. O proprietário do imóvel n. 94376 regularizou a situação conforme determinado. Quanto ao imóvel n. 94387, diante da omissão do responsável, o Município de Blumenau procedeu à execução compulsória da obra, nos termos da legislação municipal vigente, e promoverá a cobrança dos cu…"
+  },
+  {
+   "i": 297,
+   "tipo": "mp",
+   "ref": "06.2024.00001085-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00001085-5",
+   "status": "🟢 arquivado",
+   "data": "29/07/2025",
+   "texto": "Claudete da Silva do Amaral e Município de Blumenau. Conclusão: Inquérito Civil instaurado com o objetivo de apurar a notícia de ineficiência do sistema de drenagem no Loteamento Ômega, localizado na Rua José Seibt, abrangendo os lotes 43 a 58, no Bairro Velha, neste Município, em razão de denúncias de alagamentos. Constatou-se que os problemas decorrem de edificações particulares construídas sobre a Faixa Sanitária Não Edificante (FSNE), comprometendo a tubulação existente. Tais edificações foram aprovadas em 2005, ou seja, em período anterior à vigência da legislação municipal que passou a delimitar as faixas sanitárias como áreas não edificáveis. Responsabilidade do Município, nesse caso, limita-se à exigência de que os respectivos proprietários promovam a regularização dos imóveis. Di…"
+  },
+  {
+   "i": 298,
+   "tipo": "mp",
+   "ref": "06.2025.00002334-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00002334-3",
+   "status": "❔ status indef.",
+   "data": "06/08/2025",
+   "texto": "Sindicato Único dos Trabalhadores no Serviço Público Municipal de Blumenau (SINTRASEB), Município de Blumenau e"
+  },
+  {
+   "i": 299,
+   "tipo": "mp",
+   "ref": "06.2025.00003127-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00003127-6",
+   "status": "🟡 em apuração",
+   "data": "08/08/2025",
+   "texto": "Laides Gomes da Silva e Município de Blumenau."
+  },
+  {
+   "i": 300,
+   "tipo": "mp",
+   "ref": "06.2024.00005355-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00005355-5",
+   "status": "❔ status indef.",
+   "data": "11/08/2025",
+   "texto": "Município de Blumenau."
+  },
+  {
+   "i": 301,
+   "tipo": "mp",
+   "ref": "06.2025.00003149-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00003149-8",
+   "status": "🟡 em apuração",
+   "data": "15/08/2025",
+   "texto": "Terezinha Machado e Município de Blumenau."
+  },
+  {
+   "i": 302,
+   "tipo": "mp",
+   "ref": "06.2025.00003825-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00003825-8",
+   "status": "🟡 em apuração",
+   "data": "18/09/2025",
+   "texto": "Karina Henkin Amiel, Município de Blumenau e SENAI de Blumenau."
+  },
+  {
+   "i": 303,
+   "tipo": "mp",
+   "ref": "06.2024.00005177-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00005177-9",
+   "status": "🟢 arquivado",
+   "data": "23/09/2025",
+   "texto": "Cristiane da Silva Gomes Rodrigues da Silva, Residencial Guilherme Kuerten e Município de Blumenau. Conclusão: Inquérito Civil instaurado com o objetivo de apurar possível impedimento à regularização de obras no Condomínio Residencial Guilherme Kuerten. O Município de Blumenau condicionou a aprovação de obra à regularização de todas as unidades que sofreram alterações sem prévia autorização. Diligências realizadas demonstraram que o condomínio já havia sido regularmente constituído desde 2015. No âmbito do Inquérito Civil, foi promovida audiência para mediação entre os moradores/proprietários e o Município, resultando, por parte daqueles, na realização de assembleia condominial e na nomeação de síndico. Verificada a possibilidade de regularização individual das unidades e a ausência de in…"
+  },
+  {
+   "i": 304,
+   "tipo": "mp",
+   "ref": "06.2025.00004942-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00004942-2",
+   "status": "🟡 em apuração",
+   "data": "24/11/2025",
+   "texto": "SENAI Blumenau e Município de Blumenau."
+  },
+  {
+   "i": 305,
+   "tipo": "mp",
+   "ref": "06.2025.00005104-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00005104-0",
+   "status": "🟡 em apuração",
+   "data": "27/11/2025",
+   "texto": "Guilherme Silva e Município de Blumenau."
+  },
+  {
+   "i": 306,
+   "tipo": "mp",
+   "ref": "06.2024.00005055-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00005055-8",
+   "status": "🟢 arquivado",
+   "data": "09/12/2025",
+   "texto": "Município de Blumenau. Conclusão: Inquérito Civil. Apurar possível inconstitucionalidade decorrente da concessão de gratificações salariais de desempenho aos servidores públicos municipais, previstas na Lei Complementar n. 660, de 28 de novembro de 2007, do Município de Blumenau. Expedida recomendação administrativa ao Município de Blumenau, a fim de que adote as providências necessárias para que promova a adequação normativa em relação aos arts. 87, incisos VI-B, VI-C, XIII-B, XIII-D e XVII-A, 95-B, 95-C, 102-F, 102-H e 117-A, da Lei Complementar n. 660, de 28 de novembro de 2007, incluído pelas Leis Complementares n. 1.380, de 2 de dezembro de 2021, n. 1.396, de 17 de dezembro de 2021, n. 1.466, de 16 de dezembro de 2022 e n. 1.560, de 4 de abril de 2024, todas do Município de Blumenau,…"
+  },
+  {
+   "i": 307,
+   "tipo": "mp",
+   "ref": "06.2026.00000110-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2026.00000110-9",
+   "status": "🟡 em apuração",
+   "data": "19/01/2026",
+   "texto": "Adriano Pereira e Município de Blumenau."
+  },
+  {
+   "i": 308,
+   "tipo": "mp",
+   "ref": "06.2026.00000377-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO n. 06.2026.00000377-3",
+   "status": "🟡 em apuração",
+   "data": "20/02/2026",
+   "texto": "Ademar José da Silva e RJJ Administradora de Bens Ltda."
+  },
+  {
+   "i": 309,
+   "tipo": "mp",
+   "ref": "06.2025.00000258-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00000258-1",
+   "status": "🔴 ACP ajuizada",
+   "data": "11/03/2026",
+   "texto": "Bruno Aníbal Elbeks Tolzman de Oliveira e Município de Blumenau. Conclusão: inquérito civil instaurado para apurar falta de acessibilidade para pessoas com deficiência na Rua Pomerode, Bairro Salto do Norte. Comprovação, por parte do Município de Blumenau, da efetiva execução e conclusão das obras de implantação de calçadas e rebaixos de guia. Inexistência de omissão do Poder Público frente à regularização integral da via pela municipalidade, não restando justa causa para o ajuizamento de ação civil pública."
+  },
+  {
+   "i": 310,
+   "tipo": "mp",
+   "ref": "06.2026.00001026-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2026.00001026-3",
+   "status": "🟡 em apuração",
+   "data": "19/03/2026",
+   "texto": "Município de Blumenau."
+  },
+  {
+   "i": 311,
+   "tipo": "mp",
+   "ref": "06.2026.00001045-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2026.00001045-2",
+   "status": "🟡 em apuração",
+   "data": "30/03/2026",
+   "texto": "R. R. da S. B., Secretarias Municipal e Estadual da Saúde."
+  },
+  {
+   "i": 312,
+   "tipo": "mp",
+   "ref": "06.2024.00004580-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00004580-0",
+   "status": "🔴 ACP ajuizada",
+   "data": "20/04/2026",
+   "texto": "Nádia Gomes Sampaio, Marlene Ferreira de Oliveira, Ana Paula Ferreira Batista, Joel Oliveira de Medeiros e Zilma Steinheuser Pobenga, Espólio de Edvino Krepsky e Município de Blumenau. Conclusão: considerando o ajuizamento da Ação Civil Pública n. 5012802-67.2026.8.24.0008 perante o Juízo da 3ª Vara da Fazenda Pública e Juizado Especial da Fazenda Pública da Comarca de Blumenau, tendo como objeto a condenação de Nádia Gomes Sampaio, Marlene Ferreira de Oliveira, Ana Paula Ferreira Batista, Joel Oliveira de Medeiros e Zilma Steinheuser Pobenga, Espólio de Edvino Krepsky e Município de Blumenau à recuperação dos danos ambientais causados, determino o encerramento do presente procedimento."
+  },
+  {
+   "i": 313,
+   "tipo": "mp",
+   "ref": "06.2026.00000110-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2026.00000110-9",
+   "status": "🟢 arquivado",
+   "data": "23/04/2026",
+   "texto": "Adriano Pereira e Município de Blumenau. Conclusão: ordem urbanística. Procedimento Preparatório instaurado para apurar suposta omissão do Município de Blumenau na manutenção das calçadas públicas localizadas no entorno do Terminal da Velha, situado na Rua José Reuter, Bairro Velha Central. Município comprovou a adoção de providências emergenciais e a programação da solução definitiva por meio de planejamento administrativo e orçamentário. Ausência de omissão ilícita ou inércia administrativa. Inexistência de justa causa para a propositura de ação civil pública. Promoção de arquivamento que se submete ao Egrégio Conselho Superior do Ministério Público."
+  },
+  {
+   "i": 314,
+   "tipo": "mp",
+   "ref": "06.2024.00002688-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00002688-0",
+   "status": "🔴 ACP ajuizada",
+   "data": "07/05/2026",
+   "texto": "Casa de Repouso do Opa e da Oma Ltda., Município de Blumenau e CELESC. Conclusão: consumidor/ordem urbanística. Inquérito civil instaurado para apurar negativa de expansão da rede de distribuição de energia elétrica em instituição de longa permanência para idosos, localizada em via irregular (placa amarela). Esgotamento das diligências. Cumprimento de recomendação expedida pelo Ministério Público. Concessionária de energia elétrica que procedeu à execução e ampliação da rede. Particular que efetuou o pagamento da cota-parte da obra e protocolou pedido de Regularização Fundiária Urbana (REURB-E) perante o Município. Regularidade da iluminação pública atestada pelo órgão municipal. Perda do objeto e ausência de justa causa para a continuidade das investigações ou ajuizamento de ação civil p…"
+  },
+  {
+   "i": 315,
+   "tipo": "mp",
+   "ref": "06.2025.00003149-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00003149-8",
+   "status": "🟡 em apuração",
+   "data": "25/05/2026",
+   "texto": "Terezinha Machado e Município de Blumenau."
+  },
+  {
+   "i": 316,
+   "tipo": "mp",
+   "ref": "06.2017.00000354-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2017.00000354-1",
+   "status": "🔴 ACP ajuizada",
+   "data": "19/06/2026",
+   "texto": "Município de Blumenau e Maria Stanchack. Conclusão: inquérito civil. Regularização Fundiária Urbana (REURB). Loteamentos \"Horto Florestal\" e \"Celso Odeli\". Regularização Global da Gleba Concluída. Titulação Individual em Fase Final. Maioria dos Lotes Regularizados. Pendências R esiduais Justificadas (Áreas Comerciais e Atípicas). Atuação Diligente do Município. Ausência de Omissão Estatal. Satisfação do Interesse Tutelado. Ausência dos pressupostos processuais e do interesse de agir para o ajuizamento de ação civil pública. Arquivamento."
+  },
+  {
+   "i": 317,
+   "tipo": "mp",
+   "ref": "06.2022.00000764-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 06.2022.00000764-2",
+   "status": "🟡 em apuração",
+   "data": "07/03/2022",
+   "texto": "Ministério Público Federal e Havan Loja de Departamentos Ltda."
+  },
+  {
+   "i": 318,
+   "tipo": "mp",
+   "ref": "06.2022.00001516-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00001516-4",
+   "status": "🟡 em apuração",
+   "data": "02/05/2022",
+   "texto": "Agência Intermunicipal de Regulação do Médio Vale do Itajaí (AGIR) e Estação Elevatória de Esgoto EEE VN-05."
+  },
+  {
+   "i": 319,
+   "tipo": "mp",
+   "ref": "06.2022.00003864-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00003864-6",
+   "status": "🟢 arquivado",
+   "data": "20/09/2022",
+   "texto": "Conselho Regional de Educação Física de Santa Catarina e Ana Júlia Macedo dos Santos. Tarcísio Fuck. Conclusão: Consumidor. Inquérito Civil instaurado com o objetivo de apurar suposta comercialização de produto impróprio ao consumo, consistente em abobrinha contendo ingrediente não autorizado para a cultura. Informações veiculadas nos autos apontando se tratar de fato isolado. Inexistência de notícia sobre reiteração da conduta. Ausência de elementos probatórios suficientes à propositura de eventual ação civil pública. Promoção de arquivamento que se submete ao Conselho Superior do Ministério Público. Bistek Supermercados Ltda. (filial 4 de Blumenau) e Cavi Comércio de Frutas e Verduras Ltda. Conclusão: Consumidor. Inquérito Civil instaurado com o objetivo de apurar suposta comercializaçã…"
+  },
+  {
+   "i": 320,
+   "tipo": "mp",
+   "ref": "06.2021.00002948-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00002948-7",
+   "status": "🟢 arquivado",
+   "data": "06/10/2022",
+   "texto": "Valdir Theiss e Conveniência Fischer Tabacaria. Conclusão: Inquérito Civil. Poluição sonora. Não configurada. Encerramento de atividades sonoras potencialmente poluidoras. Arquivamento."
+  },
+  {
+   "i": 321,
+   "tipo": "mp",
+   "ref": "06.2023.00000735-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00000735-7",
+   "status": "🟡 em apuração",
+   "data": "06/03/2023",
+   "texto": "espólio de Teresinha Avila Brighenti."
+  },
+  {
+   "i": 322,
+   "tipo": "mp",
+   "ref": "06.2020.00004707-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00004707-0",
+   "status": "🟠 TAC firmado",
+   "data": "19/07/2023",
+   "texto": "FURB - Fundação Universidade Regional de Blumenau. Conclusão: celebrado Termo de Ajustamento de Conduta (TAC), consistente na adoção de medidas visando cessar a contratação irregular de profissionais pela FURB e realização de concurso público para suprir as vagas dos cargos públicos das funções desenvolvidas por contratados temporariamente, de forma comissionada ou por terceirização, quando as respectivas funções forem permanentes e essenciais à universidade."
+  },
+  {
+   "i": 323,
+   "tipo": "mp",
+   "ref": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE ACOMPANHAMENTO DE TAC N.",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE ACOMPANHAMENTO DE TAC N.",
+   "status": "🟡 em apuração",
+   "data": "18/08/2023",
+   "texto": "Fundação Universidade Regional de Blumenau (FURB)."
+  },
+  {
+   "i": 324,
+   "tipo": "mp",
+   "ref": "06.2023.00003672-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00003672-0",
+   "status": "🟢 arquivado",
+   "data": "16/10/2023",
+   "texto": "a apurar. Conclusão: considerando que não foi possível identificar o responsável pela possível poluição ocorrida na data de 03/11/2019 no Ribeirão da Velha, em Blumenau/SC, promovo o arquivamento do presente inquérito civil, com fundamento no art. 48, inc. I, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 325,
+   "tipo": "mp",
+   "ref": "06.2023.00004738-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00004738-2",
+   "status": "🟡 em apuração",
+   "data": "07/12/2023",
+   "texto": "Deniz dos Santos Zimmer e Alfablu LXI Blumenau Empreendimentos SPE Ltda."
+  },
+  {
+   "i": 326,
+   "tipo": "mp",
+   "ref": "06.2022.00002973-6",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00002973-6",
+   "status": "🟢 arquivado",
+   "data": "20/02/2024",
+   "texto": "Carlos César Wagner. Conclusão: considerando que todos os imóveis vistoriados nas Ruas Itajubá, Anitápolis, Navegantes e Alfredo Kaestner, Bairro Vorstadt, Blumenau, aptos a gerar poluição, estão atualmente regulares no que tange à instalação/interligação do sistema de esgoto, promovo o arquivamento do presente inquérito civil, com fundamento no art. 48, inc. I, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 327,
+   "tipo": "mp",
+   "ref": "06.2023.00003835-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00003835-0",
+   "status": "❔ status indef.",
+   "data": "23/10/2024",
+   "texto": "instauração de ofício. Conclusão: considerando que a movimentação do solo encontra-se fora da Área de Preservação Permanente (APP) do Ribeirão Garcia, bem como a descaracterização do curso d'água indicado no Relatório de Fiscalização n. 881/2024, promovo o"
+  },
+  {
+   "i": 328,
+   "tipo": "mp",
+   "ref": "06.2022.00000772-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00000772-0",
+   "status": "🟢 arquivado",
+   "data": "14/11/2024",
+   "texto": "Silmara Miguel. Conclusão: considerando que os imóveis localizados nas Rua Francisco Siebert e na Rua José Ferreira possuem tratamento de esgoto e tendo em vista que, após vistorias e notificações realizadas pela Secretária de Planejamento Urbano de Blumenau (S EPLAN) e pelo Serviço Autônomo Municipal de Água e Esgoto de Blumenau (SAMAE), todos os imóveis aptos a causar o problema de poluição relatado comprovaram a correta instalação dos sistemas individuais (fossa e filtro) e a interligação à rede de afastamento, promovo o arquivamento do presente Inquérito Civil, com fundamento no art. 48, inc. I, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 329,
+   "tipo": "mp",
+   "ref": "06.2024.00005230-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00005230-1",
+   "status": "🟡 em apuração",
+   "data": "13/12/2024",
+   "texto": "Rodrigo Tavares Rimolo."
+  },
+  {
+   "i": 330,
+   "tipo": "mp",
+   "ref": "06.2024.00005230-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00005230-1",
+   "status": "🟡 em apuração",
+   "data": "16/12/2024",
+   "texto": "Rodrigo Tavares Rimolo."
+  },
+  {
+   "i": 331,
+   "tipo": "mp",
+   "ref": "06.2025.00000365-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00000365-8",
+   "status": "🟡 em apuração",
+   "data": "10/02/2025",
+   "texto": "Daiana Ferreira Mendes e Danceteria Rivage."
+  },
+  {
+   "i": 332,
+   "tipo": "mp",
+   "ref": "06.2025.00000450-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00000450-2",
+   "status": "🟡 em apuração",
+   "data": "06/03/2025",
+   "texto": "Mansão Wayne Estúdio e Bar e Patrícia Bianca Tews de Moura."
+  },
+  {
+   "i": 333,
+   "tipo": "mp",
+   "ref": "09.2025.00002040-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE PROCEDIMENTO ADMINISTRATIVO N. 09.2025.00002040-2",
+   "status": "🟡 em apuração",
+   "data": "25/03/2025",
+   "texto": "Estado de Santa Catarina."
+  },
+  {
+   "i": 334,
+   "tipo": "mp",
+   "ref": "06.2025.00001234-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00001234-6",
+   "status": "🟡 em apuração",
+   "data": "09/04/2025",
+   "texto": "Centro de Formação de Condutores Beira Rio Ltda."
+  },
+  {
+   "i": 335,
+   "tipo": "mp",
+   "ref": "06.2025.00003695-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00003695-0",
+   "status": "🟡 em apuração",
+   "data": "12/09/2025",
+   "texto": "Lucas Constâncio Duarte e Fundação Promotora de Exposições de Blumenau (PROEB)."
+  },
+  {
+   "i": 336,
+   "tipo": "mp",
+   "ref": "06.2025.00005340-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO ELEITORAL N. 06.2025.00005340-4",
+   "status": "🟡 em apuração",
+   "data": "12/12/2025",
+   "texto": "Lucas Daniel Coelho."
+  },
+  {
+   "i": 337,
+   "tipo": "mp",
+   "ref": "06.2025.00005341-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO ELEITORAL N. 06.2025.00005341-5",
+   "status": "🟡 em apuração",
+   "data": "12/12/2025",
+   "texto": "Rafael Sidnei Cunha."
+  },
+  {
+   "i": 338,
+   "tipo": "mp",
+   "ref": "06.2026.00001588-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2026.00001588-0",
+   "status": "🟡 em apuração",
+   "data": "27/04/2026",
+   "texto": "Santa Rita Indústria de Auto Peças Ltda."
+  },
+  {
+   "i": 339,
+   "tipo": "mp",
+   "ref": "06.2026.00001956-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2026.00001956-5",
+   "status": "🟡 em apuração",
+   "data": "27/05/2026",
+   "texto": "Habitalar Empreendimentos Imobiliários Ltda."
+  },
+  {
+   "i": 340,
+   "tipo": "mp",
+   "ref": "06.2020.00005224-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00005224-0",
+   "status": "🟢 arquivado",
+   "data": "28/01/2022",
+   "texto": "Universidade Regional de Blumenau (FURB). Conclusão: procedimento instaurado para apurar irregularidades no cumprimento da jornada de trabalho de servidora lotada na Universidade Regional de Blumenau (FURB). Falta de justa causa. Arquivamento."
+  },
+  {
+   "i": 341,
+   "tipo": "mp",
+   "ref": "06.2019.00001424-6",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00001424-6",
+   "status": "🟢 arquivado",
+   "data": "03/02/2022",
+   "texto": "Universidade Regional De Blumenau (FURB), Universidade do Vale do Rio Sinos (UNISINOS), Ricardo Augusto Herzl e Joice Gracielle Nielsson. Conclusão: Inquérito Civil. Moralidade administrativa. Contrato celebrado pela Universidade Regional de Blumenau e Universidade do Vale Rio dos Sinos (UNISINOS), tendo por objeto a realização de doutorado interinstitucional para qualificação do corpo docente do Centro de Ciências Jurídicas. Vagas destinadas a pessoas estranhas ao corpo docente da contratante. Comprovação da realização de processo seletivo aberto e de contrapartida dos alunos externos. Irregularidades não comprovadas. Arquivamento. Membro Do Ministério Público: Gustavo Mereles Ruiz Diaz"
+  },
+  {
+   "i": 342,
+   "tipo": "mp",
+   "ref": "06.2022.00000959-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00000959-5",
+   "status": "🟡 em apuração",
+   "data": "16/02/2022",
+   "texto": "Sonia Maria Falk."
+  },
+  {
+   "i": 343,
+   "tipo": "mp",
+   "ref": "06.2022.00000962-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00000962-9",
+   "status": "🟡 em apuração",
+   "data": "16/02/2022",
+   "texto": "Mario Antonio Rocha Farias."
+  },
+  {
+   "i": 344,
+   "tipo": "mp",
+   "ref": "06.2022.00000963-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00000963-0",
+   "status": "🟡 em apuração",
+   "data": "16/02/2022",
+   "texto": "Murilo Rogerio Campos."
+  },
+  {
+   "i": 345,
+   "tipo": "mp",
+   "ref": "06.2022.00000964-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00000964-0",
+   "status": "🟡 em apuração",
+   "data": "16/02/2022",
+   "texto": "Adilson de Jesus."
+  },
+  {
+   "i": 346,
+   "tipo": "mp",
+   "ref": "06.2022.00000966-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00000966-2",
+   "status": "🟡 em apuração",
+   "data": "16/02/2022",
+   "texto": "Jeanderson dos Santos."
+  },
+  {
+   "i": 347,
+   "tipo": "mp",
+   "ref": "06.2022.00000967-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00000967-3",
+   "status": "🟡 em apuração",
+   "data": "16/02/2022",
+   "texto": "Airton Valmor Nunes."
+  },
+  {
+   "i": 348,
+   "tipo": "mp",
+   "ref": "06.2022.00000968-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00000968-4",
+   "status": "🟡 em apuração",
+   "data": "16/02/2022",
+   "texto": "Lucio Andre Nuss."
+  },
+  {
+   "i": 349,
+   "tipo": "mp",
+   "ref": "06.2020.00004901-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00004901-3",
+   "status": "🟢 arquivado",
+   "data": "18/02/2022",
+   "texto": "Secretaria Municipal de Desenvolvimento Social. Conclusão: procedimento instaurado para apurar irregularidades no pagamento de horas extras aos servidores da Secretaria Municipal de Desenvolvimento Social que atuam nos abrigos da cidade. Falta de conteúdo probatório e justa causa. Arquivamento."
+  }
+ ]
+}

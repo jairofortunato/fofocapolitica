@@ -1,0 +1,310 @@
+[
+ {
+  "ref": "TCE 11/00514241",
+  "keep": true,
+  "title": "TCE apura suspeita de irregularidades em contrato da Prefeitura de Içara com empresa de máquinas",
+  "description": "O Tribunal de Contas transformou uma denúncia em Tomada de Contas Especial para apurar irregularidades envolvendo a Prefeitura de Içara e a empresa I.M.T.C. Indústria de Máquinas, além dos gestores Heitor Valvassori, Dalvânia Pereira Cardoso e Fabrício Emanoel Réus. O processo ainda está em tramitação, sem julgamento definitivo até o momento.",
+  "severity": "alta"
+ },
+ {
+  "ref": "REC 24/00416154",
+  "keep": false,
+  "title": "TCE analisa recurso sobre decisão anterior envolvendo a Prefeitura de Içara",
+  "description": "O TCE julgou um recurso de reexame contra uma decisão anterior sobre a Prefeitura de Içara, mantendo o apontamento de irregularidade. Os dados disponíveis não trazem detalhes sobre o que de fato foi apurado no processo original, o que impede contar a história de forma concreta.",
+  "severity": "media"
+ },
+ {
+  "ref": "PAP 22/80094562",
+  "keep": true,
+  "title": "Prefeitura de Içara é apontada por fazer acordo judicial de quase R$2 milhões sem lei que autorizasse",
+  "description": "O TCE identificou que a Prefeitura de Içara fechou um acordo judicial sem uma norma legal que autorizasse a operação, envolvendo valores de R$ 922.500,00, R$ 594.397,02 e R$ 471.283,85. O Ministério Público de Contas participou do caso. A decisão singular já apontou a irregularidade.",
+  "severity": "alta"
+ },
+ {
+  "ref": "REP 20/00266740",
+  "keep": true,
+  "title": "Câmara de Içara é investigada por transformar cargos efetivos de forma suspeita",
+  "description": "O TCE recebeu uma representação questionando a transformação de cargos efetivos na Câmara Municipal de Içara, citando os envolvidos Itamar Oloyde da Silva e Rodrigues Mendes. O processo segue em tramitação, ainda sem decisão final sobre se houve irregularidade.",
+  "severity": "media"
+ },
+ {
+  "ref": "PAP 22/80074537",
+  "keep": true,
+  "title": "TCE aponta irregularidade em renúncia de receita da Prefeitura de Içara em programa fiscal",
+  "description": "O Tribunal de Contas apontou possíveis irregularidades na forma como a Prefeitura de Içara abriu mão de receitas por meio do Programa de Recuperação Fiscal. A decisão singular já identificou o problema, mas os dados disponíveis não trazem valores discriminados.",
+  "severity": "media"
+ },
+ {
+  "ref": "REP 22/80087434",
+  "keep": true,
+  "title": "Pregão da Prefeitura de Içara é alvo de representação por suspeita de irregularidade",
+  "description": "Uma representação no TCE questiona possíveis irregularidades no Pregão Presencial n. 060/PMI/2021, realizado pela Prefeitura de Içara. O processo segue em tramitação e ainda não tem decisão sobre o mérito.",
+  "severity": "media"
+ },
+ {
+  "ref": "REP 23/80077660",
+  "keep": true,
+  "title": "TCE investiga edital de pregão da Prefeitura de Içara por suposta irregularidade",
+  "description": "O Tribunal de Contas abriu um processo para apurar supostas irregularidades no edital do Pregão Presencial n. 082/2023, da Prefeitura de Içara. O caso ainda está em tramitação, sem definição sobre se houve falha real.",
+  "severity": "media"
+ },
+ {
+  "ref": "PAP 24/80041586",
+  "keep": true,
+  "title": "TCE suspende cautelarmente pregão de R$1 milhão da Prefeitura de Içara para transporte",
+  "description": "O Tribunal de Contas determinou uma medida cautelar suspendendo o Pregão Eletrônico n. 045/PMI/2024, da Prefeitura de Içara, sobre intermediação e agenciamento de transporte, em valor de R$ 1.056.000,00. A decisão aponta possíveis irregularidades no processo.",
+  "severity": "alta"
+ },
+ {
+  "ref": "REP 19/00552350",
+  "keep": true,
+  "title": "Prefeitura de Içara é investigada por denúncia antiga sobre contratação suspeita",
+  "description": "Uma comunicação feita à Ouvidoria em 2018 (n. 644/2018) gerou uma representação no TCE contra a Prefeitura de Içara sobre supostas irregularidades em uma contratação. O processo segue em tramitação, ainda sem decisão sobre o mérito.",
+  "severity": "media"
+ },
+ {
+  "ref": "REP 24/80048599",
+  "keep": true,
+  "title": "TCE questiona falta de dados atualizados sobre pessoal na Prefeitura de Içara",
+  "description": "O Tribunal de Contas investiga se a Prefeitura de Içara deixou de disponibilizar informações fidedignas e atualizadas, citando a gestora Dalvânia Pereira Cardoso entre os envolvidos. O processo ainda está em tramitação.",
+  "severity": "media"
+ },
+ {
+  "ref": "REP 24/00555510",
+  "keep": true,
+  "title": "TCE aponta irregularidade em caso ligado a R$11,7 milhões da Içaraprev",
+  "description": "Um processo do TCE juntou questionamentos sobre as atividades da Escola do Legislativo e sobre o ato de aposentadoria de Celma Regina Biudes, citando valores que somam R$ 11.745.033,08 relacionados à Içaraprev, o instituto de previdência de Içara. A decisão já apontou irregularidade, mas os dados disponíveis não detalham com precisão o desfecho de cada parte do caso.",
+  "severity": "alta"
+ },
+ {
+  "ref": "REP 19/00552350",
+  "keep": true,
+  "title": "TCE confirma irregularidade em processo sobre contratação antiga da Prefeitura de Içara",
+  "description": "No mesmo caso aberto a partir de uma comunicação à Ouvidoria de 2018, o TCE decidiu apontando irregularidade, citando entre os envolvidos os servidores Ana Paula Colombo Plácido, Cesar Filomeno Fontes e Dalvania Pereira Cardoso, da Diretoria de Controle de Içara. A decisão mais recente confirma o problema identificado no processo.",
+  "severity": "media"
+ },
+ {
+  "ref": "REP 25/00205481",
+  "keep": true,
+  "title": "TCE analisa pregão de quase R$4 milhões da Prefeitura de Içara por suposta irregularidade",
+  "description": "Uma representação questiona o Pregão Eletrônico n. 146/PMI/2025, de registro de preços da Prefeitura de Içara, em valor de R$ 3.976.260,00, com o envolvido Gabriel Schonfelder de Souza citado no processo. O caso segue em tramitação no TCE.",
+  "severity": "alta"
+ },
+ {
+  "ref": "LCC 23/00035914",
+  "keep": true,
+  "title": "TCE suspende cautelarmente contrato de R$4,3 milhões do Samae de Içara para lixo",
+  "description": "O Tribunal de Contas determinou a suspensão cautelar da contratação de uma empresa de engenharia para gestão e manejo de resíduos pelo Samae (Serviço Autônomo Municipal de Água e Esgoto) de Içara, em contrato de R$ 4.311.089,88.",
+  "severity": "alta"
+ },
+ {
+  "ref": "LCC 23/00035914",
+  "keep": true,
+  "title": "TCE mantém suspensão de edital do Samae de Içara para contrato de R$4,3 milhões",
+  "description": "Dando sequência ao mesmo caso, o TCE analisou o edital do Pregão Presencial n. 002/SAMAE/2023, sobre a contratação de empresa de engenharia para o Samae de Içara. A medida cautelar de suspensão seguiu em vigor.",
+  "severity": "alta"
+ },
+ {
+  "ref": "REC 20/00218002",
+  "keep": true,
+  "title": "TCE julga contas irregulares e aplica multa em caso da Prefeitura de Içara",
+  "description": "Em um recurso de reexame contra decisão anterior (Acórdão n. 12/2020), o TCE confirmou o julgamento de irregularidade e aplicou multa de R$ 1.136,52 aos responsáveis Anna Paula Medeiros Baldessar e Tiago Fogaça da Silva. O caso já está encerrado, com decisão final.",
+  "severity": "media"
+ },
+ {
+  "ref": "REP 21/00668492",
+  "keep": true,
+  "title": "TCE aponta irregularidade em contratação em massa de temporários pela Prefeitura de Içara",
+  "description": "O Tribunal de Contas apontou possíveis irregularidades na contratação desproporcional de servidores temporários pela Prefeitura de Içara logo no início da gestão. A decisão já identificou o problema.",
+  "severity": "media"
+ },
+ {
+  "ref": "PPA 22/00179990",
+  "keep": true,
+  "title": "TCE aponta irregularidade no registro de pensão paga pela Içaraprev",
+  "description": "O Tribunal de Contas apontou irregularidade no registro do ato de pensão de Rudinéia Motta e Leandro Costa Colombo, benefício administrado pela Içaraprev, o instituto de previdência de Içara. Não há valores discriminados nos dados disponíveis.",
+  "severity": "media"
+ },
+ {
+  "ref": "DEN 24/80067542",
+  "keep": true,
+  "title": "TCE apura denúncia sobre designação de servidora comissionada na Prefeitura de Içara",
+  "description": "Uma denúncia no TCE questiona a designação de uma servidora comissionada para uma função na Prefeitura de Içara. O processo ainda está em tramitação, sem decisão sobre se houve irregularidade.",
+  "severity": "media"
+ },
+ {
+  "ref": "REP 21/00668492",
+  "keep": true,
+  "title": "Caso de contratação de temporários pela Prefeitura de Içara volta a ser analisado pelo TCE",
+  "description": "O mesmo processo sobre a contratação desproporcional de servidores temporários pela Prefeitura de Içara segue em tramitação no Tribunal de Contas, ainda sem decisão final sobre o mérito.",
+  "severity": "media"
+ },
+ {
+  "ref": "TCE 20/00671688",
+  "keep": true,
+  "title": "TCE julga irregular gestão da Içaraprev, instituto de previdência de Içara",
+  "description": "O Tribunal de Contas converteu o processo em Tomada de Contas Especial e julgou irregular a gestão da Içaraprev, citando entre os responsáveis Lilian Rosane Philippi, Eliz Geane Soratto, Marcos Roberto Rossi de Jesus e a empresa AMX Consultoria de Investimentos. A decisão (Acórdão n. 6/2026) já é definitiva.",
+  "severity": "alta"
+ },
+ {
+  "ref": "TCE 21/00359279",
+  "keep": true,
+  "title": "TCE julga irregular aplicação de R$2,4 milhões pela Içaraprev",
+  "description": "Em outra Tomada de Contas Especial, o TCE julgou irregular a aplicação de recursos pela Içaraprev, envolvendo valores de R$ 2.725,21 e R$ 2.395.148,00. Os responsáveis apontados são Marcos Roberto Rossi de Jesus, Eliz Geane Soratto e a empresa AMX Consultoria de Investimentos. A decisão (Acórdão n. 9/2026) já é definitiva.",
+  "severity": "alta"
+ },
+ {
+  "ref": "REP 21/00407346",
+  "keep": true,
+  "title": "TCE aponta irregularidade em credenciamento de leiloeiros pela Prefeitura de Içara",
+  "description": "O Tribunal de Contas apontou possíveis irregularidades no Edital de Credenciamento n. 049/PMI/2021, usado pela Prefeitura de Içara para credenciar leiloeiros. A decisão já identificou o problema, mas não há valores discriminados.",
+  "severity": "media"
+ },
+ {
+  "ref": "REP 18/00589244",
+  "keep": true,
+  "title": "TCE julga irregular terceirização de cargos na Prefeitura de Içara",
+  "description": "O Tribunal de Contas julgou irregular a situação de atos de pessoal envolvendo terceirizações e cargos na Prefeitura de Içara, citando Murialdo Canto Gastaldon, Flávio Felisberto, Laudelino Calegari e Márcio Realdo Toretti como responsáveis, com valor de R$ 1.684,66. A decisão (Acórdão n. 77/2023) já é definitiva.",
+  "severity": "media"
+ },
+ {
+  "ref": "REP 23/80119761",
+  "keep": true,
+  "title": "TCE investiga contratação da Tomada de Preços n. 172/2021 pela Prefeitura de Içara",
+  "description": "Uma representação no TCE questiona a Tomada de Preços n. 172/2021, usada pela Prefeitura de Içara para contratar uma empresa especializada, citando Osmar Rech Becker entre os envolvidos. O processo segue em tramitação.",
+  "severity": "media"
+ },
+ {
+  "ref": "RLI 23/00708684",
+  "keep": true,
+  "title": "TCE decide sobre ajuste de R$27,5 milhões no balanço da Prefeitura de Içara",
+  "description": "O Tribunal de Contas concluiu uma inspeção sobre um ajuste no balanço patrimonial da Prefeitura de Içara relacionado a perdas de crédito de longo prazo, no valor de R$ 27.528.915,51, apontando os gestores Dalvânia Pereira Cardoso e Márcio Colonetti. A decisão (Acórdão n. 342/2024) já foi proferida.",
+  "severity": "alta"
+ },
+ {
+  "ref": "PAP 22/80069967",
+  "keep": true,
+  "title": "TCE apura acumulação indevida de cargos por servidora da Prefeitura de Içara",
+  "description": "O Tribunal de Contas investiga uma suposta acumulação indevida de cargos públicos envolvendo Márcia Heidmann Blasius, na Prefeitura de Içara. O processo segue em tramitação, sem decisão sobre o mérito.",
+  "severity": "media"
+ },
+ {
+  "ref": "PAP 22/80095020",
+  "keep": true,
+  "title": "Câmara de Içara é investigada por suposta irregularidade em auxílio escolar",
+  "description": "O TCE apura possíveis irregularidades na concessão de auxílio escolar pela Câmara Municipal de Içara. O processo ainda está em tramitação, sem decisão sobre se houve falha real.",
+  "severity": "media"
+ },
+ {
+  "ref": "PAP 23/80121073",
+  "keep": false,
+  "title": "Câmara de Içara tem processo genérico sobre pessoal no TCE",
+  "description": "O TCE registrou um processo classificado apenas como 'Pessoal - Outros' envolvendo a Câmara Municipal de Içara, com status de irregularidade apontada. Os dados disponíveis não detalham qual seria o fato concreto por trás da classificação, o que não permite contar uma história substancial.",
+  "severity": "media"
+ },
+ {
+  "ref": "PAP 24/80048599",
+  "keep": true,
+  "title": "TCE aponta falha da Prefeitura de Içara em divulgar dados sobre número de servidores",
+  "description": "O Tribunal de Contas apontou irregularidade na ausência de disponibilização fidedigna e atualizada de informações sobre o número de servidores da Prefeitura de Içara. Este processo é uma etapa anterior do mesmo caso que segue sendo analisado em outra representação.",
+  "severity": "media"
+ },
+ {
+  "ref": "APE 22/00587761",
+  "keep": true,
+  "title": "TCE aponta irregularidade sobre número de comissionados na Câmara de Içara",
+  "description": "Um processo do TCE juntou o registro de aposentadoria de Vanusa Luckmann de Liz e Silva, ligado a Blumenau, com uma representação sobre a quantidade de servidores comissionados na Câmara Municipal de Içara, citando Itamar Oloyde da Silva, Luiz Fernando Freitas e Rodrigues Mendes. A decisão já apontou irregularidade na parte referente a Içara.",
+  "severity": "media"
+ },
+ {
+  "ref": "REP 20/00654830",
+  "keep": true,
+  "title": "TCE aponta aplicação de recursos potencialmente lesiva pela Içaraprev",
+  "description": "O Tribunal de Contas apontou irregularidade na aplicação de recursos pela Içaraprev, instituto de previdência de Içara, classificada como potencialmente lesiva. Os dados disponíveis não trazem o valor exato envolvido.",
+  "severity": "alta"
+ },
+ {
+  "ref": "REC 24/00576194",
+  "keep": true,
+  "title": "TCE mantém irregularidade em recurso sobre balanço de R$27,5 milhões da Prefeitura de Içara",
+  "description": "Em um recurso contra a decisão sobre o ajuste de R$ 27,5 milhões no balanço patrimonial da Prefeitura de Içara, o TCE manteve o apontamento de irregularidade, com valor de R$ 3.000,00 relacionado ao caso.",
+  "severity": "media"
+ },
+ {
+  "ref": "APE 19/00673069",
+  "keep": true,
+  "title": "TCE aponta irregularidade em aposentadoria pela Içaraprev",
+  "description": "O Tribunal de Contas apontou irregularidade no ato de aposentadoria de Cleuza Rodrigues Berto, benefício administrado pela Içaraprev. Não há valores ou mais detalhes disponíveis sobre a natureza da falha.",
+  "severity": "media"
+ },
+ {
+  "ref": "PAP 23/80119761",
+  "keep": true,
+  "title": "TCE aponta irregularidade em contratação da Tomada de Preços n. 172/2021 em Içara",
+  "description": "Em etapa anterior do mesmo caso, o TCE já havia apontado supostas irregularidades na Tomada de Preços n. 172/2021, usada pela Prefeitura de Içara para contratar empresa especializada. O processo seguiu sendo analisado depois em outra representação.",
+  "severity": "media"
+ },
+ {
+  "ref": "RCO 24/00277286",
+  "keep": true,
+  "title": "TCE mantém irregularidade em recurso sobre terceirização de cargos em Içara",
+  "description": "Em um recurso contra a decisão do caso de terceirizações e cargos na Prefeitura de Içara (Acórdão n. 77/2023), o TCE manteve o apontamento de irregularidade, com valor de R$ 1.684,66 envolvido.",
+  "severity": "media"
+ },
+ {
+  "ref": "PAP 24/80067542",
+  "keep": false,
+  "title": "Prefeitura de Içara tem processo genérico sobre pessoal no TCE",
+  "description": "O TCE registrou um processo classificado apenas como 'Pessoal - Outros' envolvendo a Prefeitura de Içara, com status de irregularidade apontada. Os dados disponíveis não detalham qual seria o fato concreto por trás da classificação, o que não permite contar uma história substancial.",
+  "severity": "media"
+ },
+ {
+  "ref": "REC 22/00680621",
+  "keep": true,
+  "title": "TCE suspende cautelarmente pregão da Prefeitura de Içara em agravo",
+  "description": "Um agravo contra decisão singular anterior sobre o Pregão Presencial n. 060/PMI/2021 da Prefeitura de Içara resultou em nova medida cautelar de suspensão no TCE.",
+  "severity": "media"
+ },
+ {
+  "ref": "APE 19/00503813",
+  "keep": true,
+  "title": "TCE aponta irregularidade em aposentadoria concedida pela Içaraprev",
+  "description": "O Tribunal de Contas apontou irregularidade no registro do ato de aposentadoria de Jucilane Dagostin, benefício administrado pela Içaraprev. A Prefeitura de Içara também é citada no processo, sem valores discriminados.",
+  "severity": "media"
+ },
+ {
+  "ref": "APE 19/00751205",
+  "keep": true,
+  "title": "TCE aplica multa em caso de aposentadoria da Içaraprev",
+  "description": "O Tribunal de Contas aplicou multa no processo sobre o ato de aposentadoria de Valquíria Silvano Doro, benefício administrado pela Içaraprev. Não há valores discriminados nos dados disponíveis.",
+  "severity": "media"
+ },
+ {
+  "ref": "APE 21/00548241",
+  "keep": true,
+  "title": "TCE aponta irregularidade em três aposentadorias pagas pela Içaraprev",
+  "description": "O Tribunal de Contas apontou irregularidade nos atos de aposentadoria de Leci Brogni Bada, Mario Geraldo Dagostin e Valério Raichaski, benefícios administrados pela Içaraprev, com valores de R$ 2.739,95, R$ 231,14, R$ 288,91 e R$ 304,35. A Prefeitura de Içara apresentou justificativas após a determinação do tribunal.",
+  "severity": "media"
+ },
+ {
+  "ref": "APE 21/00758564",
+  "keep": true,
+  "title": "TCE aponta irregularidade em aposentadoria da Içaraprev",
+  "description": "O Tribunal de Contas apontou irregularidade no registro do ato de aposentadoria de Wanderléia Aparecida Pizzetti Nunes, benefício administrado pela Içaraprev. A Prefeitura de Içara é citada no processo, sem valores discriminados.",
+  "severity": "media"
+ },
+ {
+  "ref": "APE 20/00205440",
+  "keep": true,
+  "title": "TCE aplica multa em caso de aposentadoria da Içaraprev",
+  "description": "O Tribunal de Contas aplicou multa no processo sobre o ato de aposentadoria de Sirlene Maria Freitas da Silva, benefício administrado pela Içaraprev. Não há valores discriminados nos dados disponíveis.",
+  "severity": "media"
+ },
+ {
+  "ref": "REC 22/00555053",
+  "keep": true,
+  "title": "Içaraprev recorre de multa aplicada pelo TCE em caso de aposentadoria",
+  "description": "A Içaraprev entrou com recurso contra a decisão que aplicou multa no caso do ato de aposentadoria de Sirlene Maria Freitas da Silva. O TCE determinou uma medida cautelar de suspensão enquanto o recurso é analisado.",
+  "severity": "media"
+ }
+]

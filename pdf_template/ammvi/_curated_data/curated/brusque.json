@@ -1,0 +1,4497 @@
+{
+ "mp": [
+  {
+   "i": 0,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura aposentadoria de pai do prefeito de Brusque e arquiva por legalidade",
+   "description": "O inquérito civil apurou suposta irregularidade e prática de atos de improbidade administrativa relacionados à aposentadoria do servidor municipal Norberto Vechi, pai do atual Prefeito de Brusque, com alegação de direcionamento ilícito por vínculo de parentesco. No curso da apuração, verificou-se que os atos questionados foram praticados em procedimentos administrativos e legislativos regulares, sem identificação de ilegalidade, dolo, má-fé ou desvio de finalidade. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 1,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura desvio de função na FESPORTE de Brusque e arquiva após prescrição",
+   "description": "O inquérito civil apurou possíveis irregularidades relacionadas a eventual desvio de função por parte dos servidores terceirizados da Fundação Catarinense de Esporte (FESPORTE), com delimitação de diversos objetos ao longo da investigação. As irregularidades foram cessadas, mas a investigação durou tanto que houve prescrição de eventual improbidade por longo decurso de prazo. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 2,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 3,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura manipulação de pregão em Gaspar e arquiva por ausência de irregularidade",
+   "description": "O inquérito civil apurou suposta manipulação do Pregão Presencial n. 202/2015, do Município de Gaspar, com a participação de Jaime Flávio da Silva Cesari, que era processado em Brusque pela mesma prática. Verificou-se ausência de ilegalidade e sem indicativos de direcionamento, com empresas participando diretamente da licitação sem influência do investigado. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 4,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 5,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 6,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma ACNP com tabelionato de Brusque por não lançamento de receitas",
+   "description": "O inquérito civil apurou a prática de ato de improbidade administrativa consistente no não lançamento de receitas do 2º Tabelionato de Notas da Comarca de Brusque nos livros da serventia. Foi confirmada a prática do ato e firmado acordo de não persecução civil para pagamento de multa civil, com a restituição do prejuízo já sendo providenciada pela Corregedoria. O caso foi arquivado com a homologação do acordo.",
+   "status": "🟠 ACNP firmado",
+   "severity": "media"
+  },
+  {
+   "i": 7,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 8,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura fraude em processo seletivo em Brusque e arquiva por falta de comprovação",
+   "description": "O inquérito civil apurou a suposta fraude no Processo Seletivo n. 05/2022, promovido pela Secretaria de Obras do Município de Brusque para o preenchimento do cargo de agente de obras (asfalto). Embora áudios apresentados pelo representante sugerissem que um candidato poderia ter sido beneficiado, finalizada a instrução não foi confirmado o alegado beneficiamento. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 9,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 10,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura irregularidades em pregões de Brusque e arquiva após comprovação",
+   "description": "O inquérito civil apurou supostas irregularidades em pregões realizados pelo Município de Brusque. Finalizada a instrução, não foi confirmada a ocorrência de fraudes às licitações em questão. Também foi apurada situação relativa à empresa Cremer S.A. quanto ao tratamento de efluentes, que cumpriu o cronograma de melhorias. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 11,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura via pública irregular em Brusque e arquiva após regularização",
+   "description": "O inquérito civil apurou possível abertura de via pública em Área de Preservação Permanente no Bairro Paquetá, em Brusque. O licenciamento ambiental foi regularizado e as demais irregularidades não foram comprovadas. O caso foi arquivado por perda do objeto.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 12,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 13,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 14,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura irregularidades no SAMAE de Brusque e arquiva após providências",
+   "description": "O inquérito civil apurou supostas irregularidades no SAMAE de Brusque, envolvendo favorecimento em processo seletivo, pagamento indiscriminado de gratificações, utilização de bens públicos em propriedade particular e fraude na prestação de serviços por empresas contratadas. Não foi possível confirmar a maioria dos fatos, com exceção do pagamento de gratificações, que já havia sido objeto de providências pela nova Direção da autarquia. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 15,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura obrigatoriedade de vacinação contra Covid em Brusque e arquiva",
+   "description": "O inquérito civil apurou a existência de suposta obrigatoriedade de vacinação contra a Covid-19 para servidores da educação lotados no Município de Brusque. Não foi encontrado decreto municipal sobre o tema. Expedida recomendação, acatada em parte pela municipalidade, que passou a permitir testagem alternativa. Não foi constatada punição aos servidores. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 16,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura concurso público irregular em Brusque e arquiva após anulação",
+   "description": "O inquérito civil apurou supostas irregularidades no Concurso Público n. 01/2022, do Município de Brusque, promovido pelo Centro de Estudos Uniase. Expedida recomendação ao Município para que o concurso fosse anulado. A recomendação foi acatada pelo Município e não houve prejuízo ao erário. O caso foi arquivado.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 17,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 18,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura uso de veículo público para serviço particular em Brusque e firma acordo",
+   "description": "O inquérito civil apurou que servidor do Município de Brusque usou seu horário de trabalho e veículo público para a prestação de serviço particular. A irregularidade foi confirmada e firmado acordo para restituição do dano causado ao erário e aplicação de multa. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "alta"
+  },
+  {
+   "i": 19,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 20,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 21,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura contratações temporárias indevidas em Brusque e arquiva após regularização",
+   "description": "O inquérito civil apurou supostas contratações temporárias indevidas de assistentes sociais pelo Município de Brusque, em detrimento dos aprovados no último concurso público. O Município demonstrou ter solucionado as irregularidades apontadas pelo Ministério Público, com exceção de uma que será enviada para análise do TCE. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 22,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura contratação temporária de fisioterapeutas em Brusque e arquiva",
+   "description": "O inquérito civil apurou que o Município de Brusque estaria contratando fisioterapeutas por prazo determinado em detrimento dos aprovados no último concurso público. O município corrigiu as irregularidades apontadas e preencheu o quadro de fisioterapeutas com os profissionais aprovados no certame. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 23,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 24,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP ajuiza ACP contra Brusque por nomeações irregulares em escolas cívico-militares",
+   "description": "O Ministério Público propôs Ação Civil Pública visando à nulidade de nomeações para cargos comissionados vinculados ao Programa Municipal de Escolas Cívico-Militares de Brusque, por alegada violação ao princípio do concurso público. Foi requerida tutela de urgência para suspensão de nomeações e exoneração dos ocupantes dos cargos.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 25,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura esgoto a céu aberto em Brusque e arquiva após recomendação acatada",
+   "description": "O inquérito civil apurou irregularidade em obras de tubulação de esgoto nas ruas Guilherme Hort e Francisco Thives, em Brusque, que desembocavam no terreno da Rua Davi Hort gerando esgoto a céu aberto. Realizada vistoria pela Polícia Militar Ambiental e pela FUNDEMA, não foi constatado dano ambiental. Expedida recomendação ao Município, que a acatou. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 26,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura prejuízo urbanístico em Brusque e arquiva por ausência de irregularidade",
+   "description": "O inquérito civil apurou suposto prejuízo à ordem urbanística em razão do descumprimento de contrato público firmado pelo Município de Brusque com a Terraplanagem Azza Eireli para pavimentação asfáltica na Rua Maria André Freitas. Após diligências, verificou-se que o contrato era apenas de credenciamento, enquanto o serviço de pavimentação foi contratado particularmente pelo representante. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 27,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 28,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 29,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 30,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP ajuiza Ação de Improbidade em Brusque contra quatro investigados",
+   "description": "O inquérito civil apurou supostas irregularidades envolvendo Silvio Bartolini, Valter Teixeira, Marcos Antonio Baptistoti e Teodorico Manoel da Silva, em Brusque. Ao final da instrução, foi ajuizada Ação de Improbidade n. 5001798-24.2026.8.24.0011.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 31,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura construção em APP em Brusque e arquiva por inexistência de APP",
+   "description": "O inquérito civil apurou suposta construção de residência na Área de Preservação Permanente do Conjunto Habitacional Limoeiro, em Brusque. Diligências comprovaram não ser a área caracterizada como de preservação permanente, sendo desnecessárias medidas extrajudiciais ou judiciais. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 32,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 33,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 34,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura poluição de empresa têxtil em Brusque e arquiva por falta de comprovação",
+   "description": "O inquérito civil apurou suposta poluição atmosférica e sonora decorrente das atividades da empresa Renaux, localizada na Rua Centenário, em Brusque. Concluiu-se que não se confirmaram as informações iniciais, inexistindo fundamento para a propositura de ação judicial. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 35,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 36,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 37,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 38,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 39,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 40,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 41,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 42,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 43,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 44,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 45,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de concurso para psicólogo em Brusque e arquiva após regularização",
+   "description": "O inquérito civil apurou que o Município de Brusque estaria há mais de 7 anos sem realizar concurso público para o cargo de psicólogo, ocupando as vagas com profissionais contratados por tempo determinado. O município promoveu novo concurso, nomeou vários aprovados e encerrou contratos temporários. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 46,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura contratação temporária de professores de ensino religioso em Brusque",
+   "description": "O inquérito civil apurou que, apesar de haver aprovados no Concurso Público n. 001/2023 para o cargo de professor de ensino religioso, o Município de Brusque mantinha apenas contratados por tempo determinado. O município comprovou ter convocado todos os professores aprovados no concurso. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 47,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura contratação temporária de cozinheiros em Brusque e arquiva",
+   "description": "O inquérito civil apurou que o Município de Brusque contratou profissionais por tempo determinado para o cargo de cozinheiro com base em processos seletivos, apesar de haver aprovados no Concurso Público n. 001/2024. Verificou-se que o município nomeou mais aprovados no início do corrente ano e mantinha apenas contratos temporários autorizados pela legislação municipal. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 48,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 49,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 50,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 51,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 52,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 53,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura construção irregular em Brusque e ajuíza ação para demolição",
+   "description": "O inquérito civil apurou construção irregular no Município de Brusque. Foram constatadas irregularidades na edificação do imóvel e ajuizada ação judicial visando à demolição da construção pela municipalidade. Houve perda superveniente do objeto e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 54,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 55,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura trânsito de veículos pesados em Brusque e arquiva por perda de objeto",
+   "description": "O inquérito civil apurou eventual irregularidade na concessão de autorização pelo Município de Brusque para trânsito de veículos pesados nas Ruas Jose Ramiro Dias e Eduardo Wiederkehr, situadas no Setor de Risco 024. O objeto investigado estava contemplado em demandas judiciais em tramitação, havendo perda de interesse processual para propositura de Ação Civil Pública. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 56,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 57,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 58,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 59,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 60,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura irregularidades em escola de Brusque e arquiva após regularização",
+   "description": "O inquérito civil apurou irregularidades na Escola de Ensino Fundamental Paquetá, no Município de Brusque. O município sanou as irregularidades identificadas, não havendo fundamento para propositura de ação civil pública. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 61,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 62,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura loteamento em Brusque e arquiva por ausência de irregularidade",
+   "description": "O inquérito civil apurou a implantação do Loteamento Jardim Maluche, no Município de Brusque. Não foram constatadas irregularidades na implantação do loteamento, inexistindo fundamento para a propositura de ação civil pública. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 63,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura condomínio horizontal em Brusque e arquiva por ausência de irregularidade",
+   "description": "O inquérito civil apurou a implantação do Condomínio Horizontal Jardim das Acácias III, no Município de Brusque. Não foram constatadas irregularidades na implantação do condomínio, inexistindo fundamento para a propositura de ação civil pública. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 64,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura licença ambiental em Brusque e arquiva por regularidade",
+   "description": "O inquérito civil apurou a expedição da licença ambiental para terraplanagem n. 199/2020, emitida pela Fundação Municipal do Meio Ambiente (FUNDEMA) de Brusque. A investigação constatou que não há irregularidades na expedição da referida licença, inexistindo fundamento para a propositura de ação civil pública. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 65,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura irregularidades em residencial em Brusque e arquiva após regularização",
+   "description": "O inquérito civil apurou irregularidades nas unidades habitacionais do Residencial B&B, localizado na Rua Raulino Bozio, Bairro Bateas, no Município de Brusque. As irregularidades constatadas foram sanadas. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 66,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC com empresa de resíduos em Brusque por irregularidade ambiental",
+   "description": "O inquérito civil apurou possíveis irregularidades ambientais na instalação da Arga Processadora de Resíduos Sólidos Ltda., em imóvel doado pelo Município de Brusque. Foi firmado Termo de Ajustamento de Conduta visando a desativação dos reatores de formação de biogás e geração de energia elétrica por biodigestão de resíduos orgânicos, com estipulação de multa em caso de descumprimento. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 67,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 68,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura proteção do patrimônio histórico em Brusque e arquiva",
+   "description": "O inquérito civil apurou possíveis irregularidades na proteção do patrimônio histórico e cultural de Brusque. As questões apontadas foram sanadas e eventuais outras questões pendentes eram objeto de ação judicial ajuizada pelo Ministério Público em trâmite na Vara da Fazenda Pública de Brusque. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 69,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC com Brusque por irregularidades sanitárias em UBS",
+   "description": "O inquérito civil constatou a existência de diversas irregularidades sanitárias na Unidade Básica de Saúde (UBS) do Bairro Centro do Município de Brusque. Foi formalizado Termo de Compromisso de Ajustamento de Conduta para o saneamento das irregularidades e/ou realocação dos serviços prestados, com o intuito de assegurar a continuidade dos serviços de saúde ofertados. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 70,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura tubulação irregular de curso d'água em Brusque e arquiva",
+   "description": "O inquérito civil apurou eventual tubulação irregular de curso d'água na Rua Guilherme Ristow, Bairro Águas Claras, no Município de Brusque. Não foram constatadas irregularidades que desafiem a atuação do Ministério Público no que concerne ao objeto do procedimento. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 71,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura irregularidades em CREAS de Brusque e arquiva após regularização",
+   "description": "O inquérito civil apurou irregularidades nas inspeções realizadas nos dias 4 e 5 de maio de 2022 e em 27 de abril de 2023, na entidade de execução de medida socioeducativa CREAS Brusque. Todas as irregularidades foram solucionadas, de modo que a entidade encontra-se em conformidade com a Lei 12.594/2012 (SINASE). O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 72,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 73,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 74,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 75,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura escolas cívico-militares em Brusque e arquiva por ausência de irregularidade",
+   "description": "O inquérito civil apurou questão envolvendo a criação do programa de escolas cívico-militares em Brusque. Não foi identificada irregularidade quanto à realização de processo seletivo distinto para mulheres. Foi ajuizada Ação Direta de Inconstitucionalidade visando combater a contratação indevida de pessoal por tempo determinado. A regularidade desse tipo de escola depende de amadurecimento da questão em ações que tramitam no STF. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 76,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 77,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 78,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 79,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 80,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 81,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura falhas estruturais em creche de Brusque e arquiva após correção",
+   "description": "O inquérito civil apurou falhas estruturais no Centro de Educação Infantil Clara Maria Furtado, no Município de Brusque. As falhas foram corrigidas pela municipalidade, não havendo fundamento para propositura de ação civil pública. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 82,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 83,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 84,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 85,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 86,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura segurança em creche de Brusque e arquiva após providências",
+   "description": "O inquérito civil apurou a segurança dos alunos do pré 2 do Centro de Educação Infantil Alberto Pretti, no Município de Brusque. O município tomou todas as medidas para resguardar a segurança dos alunos, não havendo mais razão para o prosseguimento do feito. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 87,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 88,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura cobrança de vacinação contra Covid em escolas de Brusque e arquiva",
+   "description": "O inquérito civil apurou a exigência de comprovante de vacinação contra a Covid-19 para matrícula e rematrícula escolar em Brusque. Verificou-se que, por força de decisão do STF, o Decreto n. 9.735 não está em vigor e as escolas públicas e privadas de Brusque estavam cobrando dos pais a apresentação do comprovante de vacinação, o que era legal. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 89,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura irregularidades em concurso do SAMAE de Brusque e firma ações",
+   "description": "O inquérito civil apurou diversas irregularidades em concurso público promovido pela ACESSE Concursos para o SAMAE de Brusque. Parte das irregularidades não foi confirmada e parte foi comprovada, justificando o ajuizamento de algumas ações. Restou concluir o procedimento em tramitação do SAMAE para apuração e responsabilização no âmbito administrativo. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 90,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 91,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 92,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 93,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 94,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura construção irregular em Brusque e arquiva por perda de objeto",
+   "description": "O inquérito civil apurou irregularidades na construção realizada por João Hach, em imóvel situado na Rua Florêncio Day, n. 219, Bairro Azambuja, em Brusque, em área de risco. Ação judicial com objeto idêntico já estava em trâmite, havendo perda superveniente do interesse de agir. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 95,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 96,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 97,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 98,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura excesso de animais em residência em Brusque e arquiva",
+   "description": "O inquérito civil apurou eventual excesso de animais na residência de Dulcemar Paza Ristow, causando mau cheiro e eventuais irregularidades sanitárias, em Brusque. Inexistência de situação que justifique a atuação do Ministério Público, seja com o prosseguimento do procedimento ou com a deflagração de medida judicial. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 99,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 100,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura talude em Brusque e arquiza por ausência de intervenção pendente",
+   "description": "O inquérito civil apurou a situação de um talude no Município de Brusque. Verificou-se que não há qualquer intervenção pendente de realização no local investigado, pois o talude está estável e não requer nenhuma ação de proteção no presente momento. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 101,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 102,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura parcelamento clandestino em Brusque e arquiva após regularização",
+   "description": "O inquérito civil apurou possível implantação de parcelamento irregular ou clandestino do solo, ao final da via SC-043, Bairro Souza Cruz, no Município de Brusque. A implantação do empreendimento clandestino foi confirmada. O Programa Lar Legal está em andamento e o Município de Brusque iniciou REURB em relação ao núcleo urbano informal. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 103,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração em Brusque após município acatar recomendação",
+   "description": "O inquérito civil apurou supostas irregularidades no Município de Brusque. O município acatou as disposições contidas na Recomendação n. 0001/2022/01PJ/BRU, não havendo fundamento para propositura de ação civil pública. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 104,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 105,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP ajuiza ACP para revisão do Inventário do Patrimônio de Brusque",
+   "description": "O inquérito civil apurou a necessidade de o Município de Brusque adotar providências para cumprimento das etapas previstas no Decreto n. 8.685/2020, visando à realização de processo participativo de elaboração de Diagnóstico e à execução de Plano de Ação objetivando a Revisão do Inventário do Patrimônio Arquitetônico Urbanístico de Brusque. Foi proposta Ação Civil Pública para condenação do município na obrigação de fazer.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 106,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 107,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 108,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 109,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 110,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração em Brusque após município acatar recomendação",
+   "description": "O inquérito civil apurou supostas irregularidades no Município de Brusque. O município acatou as disposições contidas na Recomendação n. 0008/2022/01PJ/BRU, não havendo fundamento para propositura de ação civil pública. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 111,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 112,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 113,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 114,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 115,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 116,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura gestão democrática em Brusque e arquiva após implementação",
+   "description": "O inquérito civil apurou a gestão democrática na escolha de diretor escolar no Município de Brusque. O município concretizou a gestão democrática por meio da Lei Municipal n. 4.512/2022, não havendo mais razão para o prosseguimento do feito. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 117,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura problemas em localidade de Brusque e arquiva por providências gradativas",
+   "description": "O inquérito civil apurou a situação de uma localidade no Município de Brusque. Verificou-se que as medidas estão sendo gradativamente tomadas e que a aplicação de recursos na solução do problema está abrangida pelo poder discricionário do administrador público, não havendo fundamento para o ajuizamento do procedimento. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 118,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 119,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração em Brusque após município acatar recomendação",
+   "description": "O inquérito civil apurou supostas irregularidades no Município de Brusque. O município acatou as disposições contidas na Recomendação n. 0010/2023/01PJ/BRU, não havendo fundamento para propositura de ação civil pública. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 120,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura falta de profissionais de saúde em escola de Brusque e arquiva",
+   "description": "O inquérito civil apurou a suposta falta de psiquiatras e de psicólogo para atender aos estudantes com quadro de autolesão da E.E.B. Padre Lux, em Brusque. O problema foi resolvido e o Estado de Santa Catarina anunciou a contratação de policiais da reserva para fazer a segurança das escolas, afastando a necessidade de contratação de vigilante presencial. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 121,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 122,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 123,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura encravamento de lote em Brusque e arquiva após regularização",
+   "description": "O inquérito civil apurou o que se apontava como encravamento do lote n. 14 do Loteamento Condomínio Residencial Bela Vista, no Município de Brusque. A situação foi resolvida durante o trâmite do procedimento, entre 2016 e 2023, com o lote passando a fazer frente para a Rua Michel Píer Paza, a qual tem infraestrutura totalmente implantada. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 124,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 125,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 126,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura transporte escolar em Brusque e arquiva após recomendação acatada",
+   "description": "O inquérito civil apurou supostas irregularidades no Município de Brusque. O município acatou as disposições contidas na Recomendação expedida pelo Ministério Público e forneceu transporte escolar à criança. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 127,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 128,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 129,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura irregularidades em Brusque e arquiva por falta de elementos",
+   "description": "O inquérito civil apurou supostas irregularidades envolvendo Marcelo Alves dos Santos, o Município de Brusque e DDWC Administração e Participações Ltda. As informações apresentadas no curso do procedimento foram conclusivas, não havendo elementos que embasem ou justifiquem o ajuizamento de ação civil competente. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 130,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura irregularidades em Brusque e arquiva por falta de elementos",
+   "description": "O inquérito civil apurou supostas irregularidades envolvendo Gerson Bueno, Empreendimentos Isaias Hort Ltda. e o Município de Brusque. As informações apresentadas no curso do procedimento foram conclusivas, não havendo elementos que embasem ou justifiquem o ajuizamento de ação civil competente. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 131,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 132,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura irregularidades em Brusque e arquiva após sindicância",
+   "description": "O inquérito civil apurou supostas irregularidades no Município de Brusque. O município instaurou e concluiu o Processo Administrativo de Sindicância n. 004/2023 sobre os fatos denunciados, não havendo fundamento para propositura de ação civil pública. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 133,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 134,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura família acolhedora em Brusque e arquiva após designação de coordenador",
+   "description": "O inquérito civil apurou a necessidade de o Município de Brusque designar profissional Coordenador para compor a equipe do Serviço de Família Acolhedora, atendendo ao artigo 16 da Lei Municipal n. 3.350/2012. O município atendeu à exigência e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 135,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 136,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 137,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 138,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 139,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura vistoria sanitária e ambiental em Brusque e arquiva por ausência de irregularidade",
+   "description": "O inquérito civil apurou supostas irregularidades envolvendo Lucelia Correia Branco e Fischer Indústria e Comércio de Resíduos de Papel Ltda., no Município de Brusque. Não foram constatadas irregularidades na vistoria realizada, tanto do ponto de vista sanitário quanto ambiental, não havendo elementos que embasem ou justifiquem o ajuizamento de ação civil competente. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 140,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 141,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 142,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP encerra TAC com Brusque e AGIR após cumprimento de metas",
+   "description": "O inquérito civil resultou em Termo de Ajustamento de Conduta (TAC) firmado com o Município de Brusque e a Agência Intermunicipal de Regulação do Médio Vale do Itajaí (AGIR). Após o aditamento do TAC e o atingimento dos objetivos, o caso foi arquivado.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 143,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração contra tabacaria e Luiz Filipe Ramos em Brusque",
+   "description": "O Ministério Público concluiu inquérito civil contra Luiz Filipe Ramos, a Tabacaria Tennessee e o Município de Brusque. O caso foi arquivado por falta de elementos para o ajuizamento de ação civil.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 144,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 145,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 146,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 147,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 148,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 149,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 150,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 151,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 152,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 153,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 154,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 155,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 156,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 157,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração após Brusque implementar protocolo de proteção a crianças vítimas de violência",
+   "description": "O Ministério Público investigou se o Município de Brusque havia instituído o Comitê de Gestão Colegiada e o Protocolo de Escuta Especializada para crianças e adolescentes vítimas de violência. Com a implementação do protocolo pelo município, o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 158,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 159,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração contra Hélio Caviquioli e servidores de Brusque",
+   "description": "O Ministério Público concluiu inquérito civil contra Hélio Caviquioli, o Município de Brusque e servidores da IBPLAN/SEPLAN. O caso foi arquivado por falta de elementos para o ajuizamento de ação civil.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 160,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração contra lavação automotiva e Município de Brusque",
+   "description": "O Ministério Público concluiu inquérito civil contra o Município de Brusque, Rafaela C. E. Gullich e a Lavação Automotiva Danilo Batista da Silva. O caso foi arquivado por falta de elementos para o ajuizamento de ação civil.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 161,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 162,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 163,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP encerra apuração após Brusque manter inscrições abertas na rede municipal de ensino infantil",
+   "description": "O Ministério Público investigou a interrupção das inscrições para a fila única da rede municipal de ensino infantil de Brusque. O município acatou a recomendação do MP e as inscrições permanecem permanentemente abertas. O caso foi arquivado.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 164,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 165,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 166,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 167,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração contra servidora e Secretaria de Obras de Brusque",
+   "description": "O Ministério Público concluiu inquérito civil contra Luana Maria Ribeiro de Deus, o Município de Brusque e a Secretaria de Obras e Serviços Urbanos. O caso foi arquivado por falta de elementos para o ajuizamento de ação civil.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 168,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura descumprimento de contrapartidas por empresas beneficiadas com incentivos fiscais em Brusque",
+   "description": "O Ministério Público investigou quatro empresas que receberam incentivos fiscais e econômicos para se instalar em Brusque mas não estariam cumprindo as contrapartidas assumidas. Durante a apuração, a prefeitura alterou a lei municipal, permitindo a regularização das empresas e a gradação de penalidades. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 169,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 170,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 171,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração contra Arnoldo Nicoletti e Município de Brusque",
+   "description": "O Ministério Público concluiu inquérito civil contra Arnoldo Nicoletti, Giovana Tainá Amaral e o Município de Brusque. O caso foi arquivado por falta de elementos para o ajuizamento de ação civil.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 172,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração após CRESI de Brusque ter equipe completa",
+   "description": "O Ministério Público investigou a situação do Centro de Reabilitação Especializado em Saúde Mental (CRESI) de Brusque. Com a equipe técnica completa e o protocolo de acesso sendo observado, o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 173,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 174,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 175,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 176,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 177,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre supostas irregularidades no Município de Brusque",
+   "description": "O Ministério Público concluiu inquérito civil sobre supostas irregularidades no Município de Brusque, a partir de denúncia anônima. O caso foi arquivado por falta de elementos para ação civil ou ação direta de inconstitucionalidade.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 178,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 179,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 180,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 181,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração de poluição sonora após encerramento de casa noturna em Brusque",
+   "description": "O Ministério Público investigou poluição sonora causada pelo estabelecimento República 41, no Bairro Águas Claras em Brusque. Como a atividade que provocava o desconforto foi encerrada, o caso foi arquivado por perda de objeto.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 182,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 183,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 184,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 185,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 186,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração após correção de irregularidades em centro educacional de Brusque",
+   "description": "O Ministério Público investigou irregularidades no Centro Educacional Infantil e Contraturno Ateliê do Saber, em Brusque, e constatou que foram corrigidas. O caso foi arquivado por falta de fundamento para ação civil pública.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 187,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 188,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 189,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 190,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC com empresa de resíduos para desativar biodigestores em Brusque",
+   "description": "O Ministério Público investigou poluição atmosférica causada pela Arga Processadora de Resíduos Ltda. em Brusque. Foi celebrado Termo de Ajustamento de Conduta para desativação dos reatores de biogás, com multa em caso de descumprimento. O caso foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 191,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 192,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 193,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP e Arga Processadora de Resíduos firmam aditivo a TAC em Brusque",
+   "description": "O Ministério Público celebrou aditamento ao Termo de Ajustamento de Conduta com a Arga Processadora de Resíduos Ltda. para regularização de questões ambientais. O caso foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 194,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 195,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração após conserto de ar-condicionado em escola de Brusque",
+   "description": "O Ministério Público investigou a falta de ar-condicionado funcionando nas salas da Escola de Educação Básica Monsenhor Gregório Locks. Com os aparelhos funcionando adequadamente, o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 196,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 197,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 198,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 199,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 200,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 201,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 202,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 203,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 204,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 205,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 206,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC para reparação ambiental de APP e canalização de rio em Brusque",
+   "description": "O Ministério Público investigou invasão parcial de área de preservação permanente e canalização de rio em Brusque. Foi assinado Termo de Compromisso de Ajustamento de Conduta com Ricardo Klabunde para reparação ambiental. O caso foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 207,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração contra optometrista em Brusque por regularidade profissional",
+   "description": "O Ministério Público investigou suposto exercício irregular da profissão de optometrista por Aline Crisleine da Silva, mas concluiu que ela possuía a graduação necessária. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 208,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração contra instituto óptico de Brusque por venda casada não configurada",
+   "description": "O Ministério Público investigou possível venda casada e exercício irregular da profissão pelo Instituto Optométrico dos Olhos de Brusque. A venda casada não foi configurada e os optometristas possuíam graduação necessária. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 209,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 210,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre uso de verba da COSIP para iluminação natalina em Brusque",
+   "description": "O Ministério Público investigou suposta violação na utilização dos recursos da COSIP (Contribuição para Custeio da Iluminação Pública) para compra de iluminação natalina em Brusque. Concluiu que não houve irregularidade, respeitada a desvinculação das receitas municipais. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 211,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração após regularização de obra de terraplanagem em Brusque",
+   "description": "O Ministério Público investigou irregularidades ambientais em obra de terraplanagem e aterro no Bairro São Luis em Brusque. As irregularidades foram sanadas e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 212,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração ambiental contra igreja em Brusque após cumprimento de exigências",
+   "description": "O Ministério Público investigou questões ambientais envolvendo a Igreja Pentecostal Assembleia de Deus em Brusque. Com o cumprimento das solicitações dos pareceres técnicos da Fundação Municipal do Meio Ambiente, o caso foi arquivado por perda de objeto.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 213,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração contra tinturaria em Brusque após correção de irregularidades",
+   "description": "O Ministério Público investigou irregularidades na execução de obras pela Tinturaria Florisa S/A em Brusque. As irregularidades foram sanadas e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 214,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre desmembramento de imóvel em Brusque sem irregularidades",
+   "description": "O Ministério Público investigou o projeto de desmembramento de imóvel de Silvio Adriano Eduardo e Marcia Krueger Eduardo em Brusque. Não foram encontrados elementos que indicassem irregularidade. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 215,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 216,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 217,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva notícia de fato contra Life Treinamento por abrangência regional",
+   "description": "O Ministério Público recebeu notícia de fato sobre suposta conduta abusiva na prestação de serviços pela empresa Life Treinamento. As investigações foram indeferidas por o objeto ser tratado em inquérito civil de abrangência regional. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 218,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 219,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração ambiental contra posto de combustíveis em Brusque",
+   "description": "O Ministério Público investigou questões ambientais envolvendo o Instituto do Meio Ambiente de Santa Catarina e a GDA Combustíveis Ltda. Não foram encontrados indicativos suficientes de questões ambientais pendentes. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 220,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração ambiental contra FUNDEMA em Brusque",
+   "description": "O Ministério Público investigou questões ambientais envolvendo Daniele Aparecida Wietcovsky Hodecker e a Fundação Municipal do Meio Ambiente (FUNDEMA) de Brusque. Não foram encontrados indicativos suficientes. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 221,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 222,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP ajuíza ação contra loteamento irregular em Brusque após inviabilidade de acordo",
+   "description": "O Ministério Público investigou irregularidades envolvendo Luiz Carlos da Silva, a Polícia Militar Ambiental e Valdoni Anacleto em Brusque. Como a solução extrajudicial foi inviável, o MP ajuizou ação civil pública para buscar a regularização judicialmente.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 223,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 224,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 225,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 226,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 227,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração ambiental contra FUNDEMA de Brusque",
+   "description": "O Ministério Público concluiu inquérito civil contra a Fundação Municipal do Meio Ambiente (FUNDEMA) de Brusque. O caso foi arquivado por falta de elementos para o ajuizamento de ação civil.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 228,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 229,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração ambiental envolvendo Botuverá",
+   "description": "O Ministério Público concluiu inquérito civil contra a Secretaria do Meio Ambiente de Botuverá. O caso foi arquivado por falta de elementos para o ajuizamento de ação civil.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 230,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 231,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração envolvendo servidores da Secretaria do Meio Ambiente de Botuverá",
+   "description": "O Ministério Público concluiu inquérito civil contra a Secretaria do Meio Ambiente de Botuverá e servidores. O caso foi arquivado por falta de elementos para o ajuizamento de ação civil.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 232,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 233,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 234,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP acompanha regularização ambiental de posto de combustíveis em Brusque",
+   "description": "O Ministério Público investigou questões ambientais envolvendo o Instituto do Meio Ambiente e o Comércio de Combustíveis Schaefer Ltda. em Brusque. Concluiu que há procedimento administrativo em trâmite no órgão ambiental estadual visando à regularização. O desfecho do caso não está claro.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 235,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP acompanha regularização ambiental em Brusque",
+   "description": "O Ministério Público investigou questões ambientais envolvendo Erico Luiz Legal e Joarez Favretto. O órgão ambiental municipal está tomando providências para regularização. O desfecho do caso não está claro.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 236,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 237,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 238,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 239,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 240,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 241,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva notícia de fato sobre violação de direitos de presos em Brusque",
+   "description": "O Ministério Público apurou possível violação de direitos dos presos do Presídio Regional de Brusque. Concluiu pela ausência de justa causa e arquivou o caso.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 242,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 243,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 244,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração ambiental em Botuverá",
+   "description": "O Ministério Público concluiu inquérito civil ambiental contra a Secretaria Municipal do Meio Ambiente de Botuverá e Osmar José Schutz. O caso foi arquivado por falta de elementos para ação civil.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 245,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 246,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 247,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 248,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre inconsistências em cadastros escolares em Brusque e região",
+   "description": "O Ministério Público investigou inconsistências nos cadastros do sistema APOIA on-line nas secretarias de educação de Brusque, Botuverá e Guabiruba. As inconsistências foram regularizadas e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 249,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração após Estado matricular aluno em escola de Brusque",
+   "description": "O Ministério Público investigou a negativa de matrícula escolar a criança. A Secretaria de Educação do Estado realizou a matrícula na Escola de Educação Básica João XXIII e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 250,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 251,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 252,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração após Estado contratar vigilantes para escola em Brusque",
+   "description": "O Ministério Público investigou a falta de segurança na Escola de Educação Básica Santa Terezinha em Brusque. O Estado de Santa Catarina contratou dois vigilantes para atuar durante todo o funcionamento da escola e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 253,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre acessibilidade em escola de Brusque",
+   "description": "O Ministério Público investigou a acessibilidade na Escola Osvaldo Reis em Brusque. Concluiu que as salas de aula e banheiros têm acessibilidade e não há alunos com deficiência de locomoção na escola. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 254,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 255,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 256,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração contra ótica em Brusque",
+   "description": "O Ministério Público investigou a Relojoaria e Ótica Kohler em Brusque por possível irregularidade. Concluiu pela inexistência de fundamento para ação civil pública e arquivou o caso.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 257,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração contra ótica em Brusque",
+   "description": "O Ministério Público investigou o Centro de Saúde Visual e Óticas Raul em Brusque. Ausência de fundamento para ação civil pública. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 258,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 259,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 260,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 261,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração contra ótica em Brusque",
+   "description": "O Ministério Público investigou a Associação Catarinense de Oftalmologia e profissionais de ótica em Brusque. Inexistência de fundamento para ação civil pública. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 262,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 263,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 264,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 265,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 266,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 267,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 268,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC para regularização de reserva legal em Brusque",
+   "description": "O Ministério Público investigou a falta de reserva legal em imóvel de Nelson Pretti em Brusque. Foi assinado Termo de Compromisso de Ajustamento de Conduta para averbação da área. O caso foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 269,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 270,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração e ajuíza ação contra profissional de ótica em Brusque",
+   "description": "O Ministério Público investigou a Ótica Brusquense e Alex Woicikoski. Expediu recomendação acatada pela ótica e propôs ação civil pública contra o profissional. O inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 271,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 272,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração contra óticas em Brusque por venda casada não configurada",
+   "description": "O Ministério Público investigou possível venda casada pelas Óticas Ferri em Brusque. A prática não foi configurada, pois o consumidor tinha livre escolha. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 273,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração contra Adriano de Oliveira em Brusque",
+   "description": "O Ministério Público investigou Adriano de Oliveira em Brusque a partir de denúncia anônima. O caso foi arquivado por falta de justa causa.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 274,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração contra estabelecimento comercial encerrado em Brusque",
+   "description": "O Ministério Público investigou estabelecimento comercial de Artur Klann em Brusque. Como o estabelecimento encerrou suas atividades, o caso foi arquivado por perda de objeto.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 275,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração e ajuíza ação contra óticas em Brusque",
+   "description": "O Ministério Público investigou Ariele de Souza Ferreira, Edna Milena Cuervo Delgado e Mercadão dos Óculos em Brusque. Foi proposta Ação Civil Pública contra os representados e o inquérito foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 276,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração contra ótica em Brusque com recomendação",
+   "description": "O Ministério Público investigou a Ótica Boa Visão em Brusque. Venda casada não caracterizada. Recomendação expedida e acatada. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 277,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração após implantação de projeto social nos municípios da Comarca de Brusque",
+   "description": "O Ministério Público acompanhou a implantação do projeto 'Trabalhando Juntos' nos municípios da Comarca de Brusque. Com o projeto implantado, o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 278,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 279,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 280,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração contra policiais militares em Brusque sem comprovação de dolo",
+   "description": "O Ministério Público apurou a conduta de policiais militares em Brusque, envolvendo Christian Mathias Munchen e outros. Como não ficou comprovada a prova do dolo na ação dos policiais, o inquérito civil foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 281,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre aplicação da Lei da Mata Atlântica em Brusque após município acatar recomendação",
+   "description": "O Ministério Público apurou a aplicação da Lei n. 11.428/2006 pelo Município de Brusque. Expedida recomendação, o município passou a aplicar integralmente a lei, operando-se a perda superveniente do interesse de agir e o arquivamento do procedimento.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 282,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 283,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 284,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 285,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 286,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre Conselho Tutelar de Guabiruba após CMDCA regularizar reuniões",
+   "description": "O Ministério Público apurou irregularidades envolvendo o Conselho Tutelar de Guabiruba e o CMDCA de Guabiruba. O CMDCA elaborou cronograma de reuniões e notificou o Conselho Tutelar das datas, não havendo fundamento para ação civil pública. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 287,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 288,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre parcelamento irregular de solo em Brusque após regularização",
+   "description": "O inquérito civil apurou possível parcelamento irregular de solo urbano em terras da família Gevaerd, na Rua Luiz Alves Gevaerd, Bairro São Luiz, Brusque, envolvendo Sabrina Silveira Baumgartner e Ticiano Patermann. As problemáticas foram devidamente sanadas e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 289,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre Sérgio Martins de Souza Queiroz em Brusque sem ajuizar ação",
+   "description": "O Ministério Público apurou a atuação de Sérgio Martins de Souza Queiroz. Considerando que as medidas estavam sendo tomadas e que a aplicação de recursos está abrangida pelo poder discricionário do administrador, o MP concluiu inexistir fundamento para ação civil pública e arquivou o caso.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 290,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura questões ambientais envolvendo Ilsi Hubner em Brusque e arquiva",
+   "description": "O Ministério Público apurou questões ambientais envolvendo Ilsi Hubner em Brusque. A instrução concluiu não haver indicativos de questões ambientais pendentes e o caso foi arquivado por inexistência de fundamento para ação judicial.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 291,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 292,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura questões ambientais envolvendo Marivone Fagundes Vossgrau e Ademir Wossgrau em Brusque e arquiva",
+   "description": "O Ministério Público apurou questões ambientais envolvendo Marivone Fagundes Vossgrau e Ademir Wossgrau em Brusque. Concluiu não haver indicativos de questões ambientais pendentes e o caso foi arquivado por inexistência de fundamento para ação judicial.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 293,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura questões ambientais envolvendo Sebastião Rita e Souza Filho em Brusque e arquiva",
+   "description": "O Ministério Público apurou questões ambientais envolvendo Sebastião Rita e Souza Filho empreendimentos Ltda. em Brusque. Concluiu não haver indicativos de questões ambientais pendentes e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 294,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 295,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura questões ambientais envolvendo Vilson Maestri em Brusque e arquiva",
+   "description": "O Ministério Público apurou questões ambientais envolvendo Vilson Maestri em Brusque. Concluiu não haver questões ambientais pendentes e o caso foi arquivado por inexistência de fundamento para ação judicial.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 296,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 297,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 298,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 299,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 300,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 301,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 302,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura questões ambientais envolvendo Luiz de Oliveira e Maicon Comandoli em Brusque e arquiva",
+   "description": "O Ministério Público apurou questões ambientais envolvendo Luiz de Oliveira e Maicon Comandoli em Brusque. Concluiu não haver indicativos de questões ambientais pendentes e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 303,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura questões ambientais no SAMAE de Brusque envolvendo João Silowski Suter e arquiva",
+   "description": "O Ministério Público apurou questões ambientais envolvendo o SAMAE de Brusque e João Silowski Suter. Concluiu não haver indicativos de questões ambientais pendentes e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 304,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre cartório e imóveis em Brusque após perda do objeto",
+   "description": "O Ministério Público apurou situação envolvendo o Cartório da Vara da Fazenda de Brusque, Rogério de Souza e Terezinha Celoni de Souza e Silva. Com a perda do objeto, o caso foi arquivado por inexistência de fundamento para ação judicial.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 305,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura questões ambientais envolvendo João Batista Sbardelatti e outros em Brusque e arquiva",
+   "description": "O Ministério Público apurou questões ambientais envolvendo João Batista Sbardelatti, Luciana Reis Sbardelatti, João Luiz Alves e Maique Popper Cassaniga Limas. Concluiu não haver indicativos suficientes de questões ambientais pendentes e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 306,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura questões ambientais envolvendo Rubia Siegel e outros em Brusque e arquiva",
+   "description": "O Ministério Público apurou questões ambientais envolvendo Rubia Siegel e outros em Brusque. Concluiu não haver indicativos suficientes de questões ambientais pendentes e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 307,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração ambiental contra Fischer Participações em Brusque após regularização",
+   "description": "O Ministério Público apurou questões ambientais envolvendo Fischer Participações Ltda. em Brusque. As questões ambientais foram devidamente sanadas e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 308,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração ambiental contra Indústria Heinig em Brusque após regularização",
+   "description": "O Ministério Público apurou questões ambientais envolvendo a Indústria de Vinagres e Plásticos Heinig Ltda. em Brusque. As questões ambientais foram devidamente sanadas e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 309,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC com Industrial Irmãos Hort para recuperação de área degradada em Brusque",
+   "description": "O Ministério Público apurou a supressão de vegetação nativa e introdução de eucalipto em área de proteção permanente na Fazenda Nova Itália, Serra do Moura, Brusque, pela Industrial Irmãos Hort Ltda. Foi assinado Termo de Compromisso de Ajustamento de Conduta para recuperação da área degradada de 1,08 hectare.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 310,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 311,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 312,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 313,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 314,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração contra Danyella Werner, Adalberto Gomez e Golden Soccer Bar em Brusque",
+   "description": "O Ministério Público apurou irregularidades envolvendo Danyella Werner, Adalberto Gomez e Golden Soccer Bar e Futebol Society. Considerando as informações da Vigilância Sanitária e os esclarecimentos do Procurador-Geral do Município, as questões foram resolvidas e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 315,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração ambiental envolvendo Lauzinho Borgonha em Brusque após regularização",
+   "description": "O Ministério Público apurou questões ambientais envolvendo Lauzinho Natal Borgonha, Goretti Maria Borgonha e o Ofício de Registro de Imóveis de Brusque. As questões ambientais foram devidamente sanadas e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 316,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 317,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração contra médica veterinária Milene Pugliese Zapala em Brusque",
+   "description": "O Ministério Público apurou a atuação da médica veterinária Milene Pugliese Zapala. Ficou demonstrado que os animais sob seus cuidados estavam bem amparados e não houve conduta irregular. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 318,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre reserva legal em imóvel de Vanderlei Limas em Brusque",
+   "description": "O Ministério Público apurou questão ambiental envolvendo Vanderlei Rogério de Limas e Heliete Silvia Gamba de Limas. A reserva legal referente ao imóvel foi devidamente averbada junto ao Registro de Imóveis de Brusque e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 319,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 320,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 321,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 322,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 323,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 324,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 325,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 326,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 327,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 328,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 329,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 330,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 331,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 332,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 333,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 334,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 335,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 336,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre estações de rádio base em Brusque após regularização",
+   "description": "O Ministério Público apurou questões ambientais envolvendo Fatma, FUNDEMA, T4U Brasil Ltda., América Tower, SBA Torres e GDA Combustíveis. Todas as estações de rádio base (ERBs) foram consideradas regulares e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 337,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração ambiental envolvendo Clóvis Bette e Beatriz Bette em Brusque",
+   "description": "O Ministério Público apurou questões ambientais envolvendo Clóvis Bette e Beatriz Julieta Trainotti Bette. Concluiu não haver indicativos suficientes de questões ambientais pendentes e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 338,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre PRAD em Brusque após execução do plano de recuperação",
+   "description": "O Ministério Público apurou questões ambientais envolvendo Ofício de Registro de Imóveis de Brusque, Izaltino Regis, Luiza Dalbosco Regis, Altair Garcia Júnior e Lírio Carvalho. O PRAD (Plano de Recuperação de Área Degradada) estava sendo devidamente executado e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 339,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP ajuíza ação civil pública contra associação de moradores e SAMAE em Brusque",
+   "description": "O Ministério Público concluiu o inquérito civil contra a Associação dos Moradores do Bairro Nova Brasília (AMONBRA) e o SAMAE de Brusque e decidiu pela propositura de Ação Civil Pública.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 340,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🔴 ACP ajuizada",
+   "severity": "media"
+  },
+  {
+   "i": 341,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva procedimento contra Ricardo Klabunde em Brusque após cumprimento de TAC",
+   "description": "O Ministério Público apurou a conduta de Ricardo Klabunde. Constatado o integral cumprimento do Termo de Ajustamento de Conduta, o procedimento administrativo foi arquivado.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 342,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração envolvendo Rosália Wal, Vitor Renaux Hering e COMUPA em Brusque",
+   "description": "O Ministério Público apurou questões envolvendo Rosália Wal, Vitor Renaux Hering e o Conselho Municipal de Patrimônio Histórico (COMUPA) de Brusque. As informações apresentadas foram conclusivas e o caso foi arquivado por inexistência de fundamento para ação judicial.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 343,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 344,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 345,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 346,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração contra Mauro Maffezzolli e Terraplanagem Beneterra em Brusque",
+   "description": "O Ministério Público apurou questões envolvendo Mauro Maffezzolli, Fernando Heil e Terraplanagem Beneterra. As informações apresentadas foram conclusivas e o caso foi arquivado por inexistência de fundamento para ação judicial.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 347,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 348,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre imóveis de Diedlind Shlei e Claudina Lassolli em Brusque por perda de objeto",
+   "description": "O Ministério Público apurou situação envolvendo Diedlind Shlei e Claudina Lassolli. Como a questão já estava judicializada em ação demolitória, o procedimento perdeu o objeto e foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 349,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 350,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 351,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 352,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 353,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 354,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 355,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 356,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 357,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Hospital Renaux não apurou queixa de paciente; após recomendação do MP, caso foi arquivado",
+   "description": "O Ministério Público constatou que o Hospital Arquidiocesano Cônsul Carlos Renaux, em Brusque, não abriu nenhum procedimento para apurar os fatos que uma cidadã levou à ouvidoria do hospital. O MP expediu recomendação para que a instituição instaure processo administrativo disciplinar sempre que houver fatos a apurar em suas dependências, garantindo a quem reclama o direito de resposta e de acesso à Justiça. O hospital acatou a recomendação e, em fevereiro de 2024, o inquérito foi arquivado.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 358,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 359,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 360,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 361,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 362,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 363,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 364,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 365,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 366,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 367,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 368,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 369,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 370,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 371,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 372,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 373,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 374,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Escola estadual Padre Lux acatou recomendação do MP e o caso foi encerrado",
+   "description": "O Ministério Público expediu uma recomendação à direção da E.E.B. Padre Lux, em Brusque, e acompanhou o cumprimento por meio de inquérito civil. A escola acatou integralmente a recomendação n. 0003/2024. Em junho de 2024, o MP arquivou o caso por não haver mais fundamento para ação judicial. O extrato publicado no Diário Oficial não detalha o conteúdo da recomendação.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 375,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 376,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 377,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 378,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 379,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 380,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 381,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 382,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 383,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 384,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 385,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 386,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 387,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 388,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 389,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 390,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 391,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 392,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 393,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 394,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 395,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 396,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 397,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 398,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 399,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 400,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 401,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 402,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 403,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 404,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 405,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 406,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 407,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 408,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 409,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 410,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 411,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 412,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 413,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura se obra da prefeitura de Brusque provocou rachaduras em terreno no bairro Ponta Russa",
+   "description": "O Ministério Público abriu inquérito civil para apurar se uma obra municipal causou infiltrações e rachaduras em um terreno na Rua das Primaveras, no bairro Ponta Russa, em Brusque, criando situação de perigo. O procedimento envolve os moradores Arnoldo Nicoletti e Giovana Taina Amaral. A apuração foi instaurada em dezembro de 2025 e segue em andamento.",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 414,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 415,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 416,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 417,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 418,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 419,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 420,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 421,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 422,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 423,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 424,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 425,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP conclui inquérito sobre servidor de planejamento urbano de Brusque e arquiva",
+   "description": "O inquérito civil apurou a conduta de Bruno Correa em relação à Secretaria Municipal de Planejamento Urbano de Brusque. O Ministério Público concluiu que não havia elementos para ajuizamento de ação civil e arquivou o caso.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 426,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP conclui inquérito sobre empreendimento imobiliário de Brusque e arquiva",
+   "description": "O inquérito civil apurou a conduta de Z&Z Empreendimentos Imobiliários Ltda., Joares Ferrari e Rosilene Bonfante Ferrari no Município de Brusque. O Ministério Público concluiu que não havia elementos para ajuizamento de ação civil e arquivou o caso.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 427,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP conclui inquérito sobre PRAD de Brusque e acompanha cumprimento no inquérito policial",
+   "description": "O inquérito civil apurou a conduta de Ivo Molinari e Wanderleia Dória no Município de Brusque. O Ministério Público concluiu que o PRAD apresentado estava sendo acompanhado e cumprido no âmbito de inquérito policial sobre o mesmo objeto (SIG n. 08.2023.00355377-9). O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 428,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 429,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 430,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 431,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 432,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP conclui inquérito sobre família Scharf em Brusque e arquiva por ausência de fundamentos",
+   "description": "O inquérito civil apurou a conduta de Rita Scharf e outros membros da família Scharf no Município de Brusque. O Ministério Público concluiu que não havia elementos para ajuizamento de ação civil e arquivou o caso.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 433,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  }
+ ],
+ "tce": [
+  {
+   "i": 0,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 1,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multa ex-prefeito de Brusque por despesas com pessoal acima do limite prudencial",
+   "description": "O TCE julgou parcialmente procedente a representação decorrente de comunicação à Ouvidoria, considerando irregulares as despesas com pessoal no Município de Brusque em 2017, quando o Poder Executivo se encontrava acima do limite prudencial da Lei de Responsabilidade Fiscal. O ex-prefeito Jonas Oscar Paegle foi multado em R$ 1.684,66.",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta"
+  },
+  {
+   "i": 2,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 3,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE recomenda correções no planejamento da concessão de saneamento de Brusque",
+   "description": "O TCE analisou o planejamento da concessão dos serviços públicos de esgotamento sanitário e abastecimento de água do Município de Brusque (LCC 25/00078609). O Tribunal recomendou a adoção de diversas providências relativas ao projeto básico, plano de negócios e fluxo de caixa, incluindo a verificação da ausência de Value for Money e de demonstração de avaliação comparativa com outras modalidades de contratação.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 4,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 5,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE considera improcedente representação sobre concorrência de saneamento de Brusque",
+   "description": "O TCE julgou improcedente a representação de Renan Fontana Ferraz sobre supostas irregularidades na Concorrência Presencial n. 11/2025, que prevê a concessão dos serviços de esgotamento sanitário e abastecimento de água do Município de Brusque. O pedido de sustação cautelar foi indeferido e a representação foi arquivada.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 6,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE considera improcedente segunda representação sobre concorrência de saneamento de Brusque",
+   "description": "O TCE julgou improcedente a representação de Infrainvest Participações Ltda. sobre supostas irregularidades na Concorrência Pública n. 11/2025 para concessão dos serviços de saneamento do Município de Brusque. O pedido de sustação cautelar foi indeferido e a representação foi arquivada.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 7,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE apura irregularidades em pregão de material escolar de Brusque",
+   "description": "O TCE converteu procedimento apuratório preliminar em representação sobre supostas irregularidades no Pregão Eletrônico n. 130/2022, promovido pela Prefeitura de Brusque para aquisição de material escolar. A medida cautelar de suspensão não foi concedida por ausência de fumus boni iuris e foi determinada audiência da Secretária de Educação para apresentar justificativas.",
+   "status": "🟡 em instrução (citação/audiência)",
+   "severity": "media"
+  },
+  {
+   "i": 8,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva apuração sobre pregão de pneus em Brusque após retificação do Termo de Referência",
+   "description": "O TCE converteu procedimento apuratório preliminar em representação sobre supostas irregularidades no Pregão Eletrônico n. 035/2023, promovido pela Prefeitura de Brusque para aquisição de pneus. O objeto foi considerado prejudicado em vista das retificações promovidas tempestivamente no Termo de Referência pela municipalidade. O caso foi arquivado.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 9,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta irregularidade em cômputo de período de estágio probatório em Brusque",
+   "description": "O TCE considerou irregular o cômputo de período de exercício de cargo de agente político de Secretário Municipal de Trânsito para fins de conclusão de estágio probatório do servidor Paulo Rodrigo Sestrem no Município de Brusque. Foi determinada a reavaliação do servidor no prazo de 180 dias.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "alta"
+  },
+  {
+   "i": 10,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE apura irregularidades em pregão de limpeza de Brusque e concede cautelar",
+   "description": "O TCE conheceu a representação da empresa Sanitary Serviços sobre supostas irregularidades no Pregão Eletrônico n. 007/2025, para contratação de serviços de limpeza em Brusque. Porém, julgou improcedente a representação, concluindo que as irregularidades suscitadas não comprometeram o caráter competitivo da licitação. O caso foi arquivado.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 11,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE concede cautelar e suspende contratação de paisagismo de Brusque",
+   "description": "O TCE conheceu a representação da empresa Camila Venturin Zappelline Paiva Ltda. sobre supostas irregularidades no Pregão Eletrônico n. 007/2025 para serviços de paisagismo e roçada em Brusque, incluindo possível dano ao erário de R$ 389.563,20 por desclassificação por motivos sanáveis. Foi concedida medida cautelar para suspender a execução do contrato e determinada audiência dos responsáveis.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "alta"
+  },
+  {
+   "i": 12,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 13,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE condena ex-diretor da Fundesporte de Brusque por irregularidades no Programa Bolsa-Atleta",
+   "description": "O TCE julgou irregulares, com imputação de débito, as contas da Tomada de Contas Especial referentes a irregularidades na concessão de benefícios do Programa Bolsa-Atleta pela Fundação Municipal de Esportes de Brusque no exercício de 2021. O ex-diretor-geral Edson Garcia foi condenado ao recolhimento de R$ 19.300,00 e multado em R$ 7.200,00 por pagamento de parcelas excedentes às previstas no Edital.",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta"
+  },
+  {
+   "i": 14,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE não conhece representação sobre dispensa emergencial de Brusque por ausência de indícios",
+   "description": "O TCE não conheceu a representação sobre supostas irregularidades na dispensa de licitação emergencial para tratamento e saúde no Município de Brusque, por inexistência de indícios de irregularidades e ausência de comprovação de adoção dos meios administrativos prévios. O caso foi arquivado.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 15,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 16,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE sobresta tomada de contas sobre obras de pavimentação de Brusque para reparação voluntária",
+   "description": "O TCE conheceu Tomada de Contas Especial instaurada pelo Município de Brusque sobre irregularidades na execução de pavimentação em CBUQ (valor de R$ 315.301,13) e passeios pela empresa Empreiteira de Mão de Obra Adrimar Ltda. O prosseguimento foi sobrestado por 90 dias para oportunizar reparação voluntária dos danos pela empresa contratada.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "alta"
+  },
+  {
+   "i": 17,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 18,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 19,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 20,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 21,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE prescreve pretensões sobre doação de imóvel público em Brusque e faz recomendações",
+   "description": "O TCE reconheceu a incidência da prescrição das pretensões punitiva e ressarcitória em relação a irregularidades imputadas no processo de Tomada de Contas Especial de Brusque envolvendo doação de imóvel público. O Tribunal fez diversas recomendações ao município sobre a observância de requisitos legais para doação de imóveis públicos.",
+   "status": "⚫ prescrito",
+   "severity": "media"
+  },
+  {
+   "i": 22,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 23,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta irregularidade em aposentadoria de servidora de saúde de Brusque por acúmulo de cargos",
+   "description": "O TCE denegou o registro de aposentadoria da servidora Maria de Lourdes Correia, da Secretaria de Estado da Saúde, por ter exercido cargo de Técnico em Enfermagem em acumulação com proventos de cargo federal de Auxiliar Operacional de Serviços Diversos, em afronta à Constituição Federal. O ato de aposentadoria foi considerado irregular e foi determinada a sua anulação.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "alta"
+  },
+  {
+   "i": 24,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta irregularidade no uso de recursos da COSIP para decoração natalina em Brusque",
+   "description": "O TCE considerou procedente a representação e irregulares os atos do Executivo do Município de Brusque quanto à utilização de recursos da COSIP para pagamentos de despesas com decoração natalina nos exercícios de 2017 e 2018, na ausência de permissivo na legislação local. O Tribunal recomendou a estrita observância à legislação municipal sobre desvinculação de recursos da COSIP.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "alta"
+  },
+  {
+   "i": 25,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE considera improcedente representação sobre pregão de material escolar de Brusque",
+   "description": "O TCE julgou improcedente a representação da empresa Futura Comércio de Materiais Educacionais Ltda. sobre supostas irregularidades no Pregão Eletrônico n. 130/2022, para aquisição de material escolar pelo Município de Brusque, no valor previsto de R$ 3.820.913,70. A representação foi arquivada.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 26,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE sobresta tomada de contas sobre obras de pavimentação de Brusque para reparação voluntária",
+   "description": "O TCE conheceu Tomada de Contas Especial sobre irregularidades na execução de pavimentação em CBUQ e passeios pela empresa Empreiteira de Mão de Obra Adrimar Ltda. no Município de Brusque, com indícios de danos ao erário de R$ 315.301,13. O prosseguimento foi sobrestado por 90 dias para oportunizar reparação voluntária dos danos pela empresa contratada.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "alta"
+  },
+  {
+   "i": 27,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aprova plano de ação de Brusque sobre metas de educação e monitora implementação",
+   "description": "O TCE conheceu o Plano de Ação apresentado pela Prefeitura Municipal de Brusque sobre o cumprimento da Meta 18 da Lei municipal n. 3887/2015 e o aprovou, nos termos e prazos propostos. Foi alertada a prefeitura sobre a tempestividade na apresentação do Relatório de Acompanhamento, sob pena de multa.",
+   "status": "🟡 em instrução (citação/audiência)",
+   "severity": "media"
+  },
+  {
+   "i": 28,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 29,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aplica multas por atrasos na remessa de dados ao e-Sfinge em Brusque e Rio Rufino",
+   "description": "O TCE considerou irregulares as omissões e atrasos na remessa de informações ao Sistema e-Sfinge pela Câmara Municipal de Rio Rufino. Foram aplicadas multas aos responsáveis pelo atraso no envio de dados relativos aos módulos de Execução Orçamentária e Atos de Pessoal, nos exercícios de 2021, 2022 e 2023.",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta"
+  },
+  {
+   "i": 30,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE concede cautelar e suspende contratação de paisagismo de Brusque",
+   "description": "O TCE conheceu a representação da empresa Camila Venturin Zappelline Paiva Ltda. sobre supostas irregularidades no Pregão Eletrônico n. 007/2025 para serviços de paisagismo e roçada em Brusque, incluindo possível dano ao erário de R$ 389.563,20 por desclassificação por motivos sanáveis. Foi concedida medida cautelar para suspender a execução do contrato e determinada audiência dos responsáveis.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "alta"
+  },
+  {
+   "i": 31,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE monitora implementação de plano de ação de Brusque sobre nomeações no magistério",
+   "description": "O TCE aprovou o novo Plano de Ação apresentado pela Prefeitura Municipal de Brusque, sobre nomeações de candidatos aprovados em concurso para o magistério. Foi determinado relatório de acompanhamento em 180 dias, com alerta sobre multa em caso de descumprimento.",
+   "status": "🟡 em instrução (citação/audiência)",
+   "severity": "media"
+  },
+  {
+   "i": 32,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE apura descumprimento de jornada em Brusque e arquiva por ausência de condição prévia",
+   "description": "O TCE determinou o arquivamento do Procedimento Apuratório Preliminar sobre possível descumprimento de jornada no Município de Brusque, por ausência da condição prévia exigida na legislação do Tribunal. O caso foi arquivado sem análise do mérito.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 33,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE mantém irregularidade em Tomada de Contas Especial sobre aquisição de toras de eucalipto em Brusque",
+   "description": "O TCE deu parcial provimento ao Recurso de Reconsideração de César Morilo Roza, cancelando um item da deliberação original e adequando outro, mas mantendo a irregularidade apontada nas contas referentes a ilegalidades nos procedimentos de aquisição de toras de eucalipto para obras municipais nos anos de 2007 e 2008.",
+   "status": "⬛ julgado irregular",
+   "severity": "alta"
+  },
+  {
+   "i": 34,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta irregularidades na documentação de aposentadoria e levantamento de despesas em Brusque",
+   "description": "O TCE ordenou o registro de pensão por morte em favor de Francisco Ramos, em decorrência do óbito de Otilia Ramos, servidora da Prefeitura de Blumenau. Em seguida, verificou a regularidade de despesas de Brusque com aquisição de gêneros alimentícios para refeições escolares junto à empresa Mini Mercado Tete Ltda., sem encontrar evidências de irregularidades na execução contratual.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 35,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE recomenda correções em programa de desenvolvimento urbano de Brusque financiado pelo FONPLATA",
+   "description": "O TCE analisou os resultados do Relatório de Auditoria Financeira do Programa de Desenvolvimento Urbano e Sustentável de Brusque/SC – Brusque 2030, financiado pelo FONPLATA, relativo aos exercícios de 2023 e 2024. O Tribunal recomendou diversas providências ao município sobre formalização de substituições de membros da equipe técnica, qualificação profissional e preenchimento de requisitos contratuais.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 36,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva inspeção sobre pregão de EPIs de Brusque após atendimento de diligência",
+   "description": "O TCE determinou o arquivamento dos autos relativos ao Pregão Presencial n. 02/2020, para aquisição de equipamentos de proteção individual para enfrentamento da pandemia de COVID-19 pelo Município de Brusque, em razão do atendimento à diligência pela municipalidade.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 37,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE dá parcial provimento a recurso e mantém contas regulares com ressalva em Brusque",
+   "description": "O TCE deu parcial provimento ao Recurso de Reconsideração interposto por Ciro Marcial Roza e outros contra Acórdão anterior, modificando a deliberação para julgar regulares com ressalva as contas pertinentes à Tomada de Contas Especial referente a depósitos judiciais no Município de Brusque, recomendando a observância estrita da legislação sobre depósitos judiciais.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 38,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta irregularidade em aposentadoria de servidor de Brusque por cálculo de benefício",
+   "description": "O TCE fixou prazo final de 30 dias para o Instituto Brusquense de Previdência sanar irregularidades na aposentadoria de Agostinho Lombardi, incluindo ausência de memória de cálculo com exclusão de vantagens indevidas e concessão irregular de anuênio no percentual de 40%, quando o apurado foi de 34%.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "alta"
+  },
+  {
+   "i": 39,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE nega recurso de reexame de prefeito de Brusque e mantém irregularidade em contratos",
+   "description": "O TCE negou provimento ao Recurso de Reexame interposto pelo ex-prefeito Jonas Oscar Paegle contra Acórdão que considerou irregular a Tomada de Contas Especial referente a contratos de aquisição de toras de eucalipto no Município de Brusque, mantendo a deliberação recorrida na íntegra.",
+   "status": "⬛ julgado irregular",
+   "severity": "alta"
+  },
+  {
+   "i": 40,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE dá provimento a embargos de declaração e cancela item de acórdão sobre Brusque",
+   "description": "O TCE deu provimento ao Recurso de Embargos de Declaração para cancelar o item 6.3 do Acórdão n. 382/2019, estendendo os efeitos da deliberação ao Sr. César Morilo Roza, nos termos do Código de Processo Penal aplicado por analogia. O conteúdo do item cancelado não consta do dispositivo, portanto o desfecho final do caso não pode ser afirmado.",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 41,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE cancela multa em recurso de reconsideração sobre Brusque",
+   "description": "O TCE deu parcial provimento ao Recurso de Reconsideração contra o Acórdão n. 0469/2019, tão somente para cancelar a multa inscrita no item 6.2 da deliberação recorrida, mantendo os demais termos da decisão original sobre o Município de Brusque.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 42,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "⬛ decisão singular",
+   "severity": "media"
+  },
+  {
+   "i": 43,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta irregularidades na documentação de pensão de Brusque",
+   "description": "O TCE fixou prazo de 30 dias para o Instituto Brusquense de Previdência sanar irregularidades na concessão de pensão e auxílio especial em nome de Maria Geovani, incluindo ausência de comprovante de pagamento do mês anterior ao óbito e necessidade de retificação do ato de concessão para constar embasamento legal correto.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "alta"
+  },
+  {
+   "i": 44,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva auditoria sobre programa de desenvolvimento urbano de Brusque",
+   "description": "O TCE determinou o arquivamento dos autos da auditoria sobre o Programa de Desenvolvimento Urbano e Sustentável em Brusque/SC, sem prejuízo de futura autuação para fiscalização do programa em sua integralidade.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 45,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta irregularidade em aposentadoria de servidora de Brusque",
+   "description": "O TCE apontou irregularidades na aposentadoria de Beatriz Brigitte Borchardt Grisa no Instituto Brusquense de Previdência e determinou providências para regularização do ato, com base em restrições detectadas na documentação apresentada.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "alta"
+  },
+  {
+   "i": 46,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE determina registro de aposentadoria de servidora de Brusque considerada legal",
+   "description": "O TCE ordenou o registro do ato de aposentadoria da servidora Dorian Willrich, da Prefeitura Municipal de Brusque, considerando-o legal conforme análise realizada pelo órgão instrutivo.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 47,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta irregularidade em aposentadoria especial de professora de Brusque",
+   "description": "O TCE fixou prazo de 30 dias para o Instituto Brusquense de Previdência sanar restrição na aposentadoria voluntária de Maristela Kunescki, por ausência de comprovação de exercício de funções de magistério na educação infantil, fundamental ou médio pelo período de 25 anos, conforme exigido para aposentadoria especial de professor.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "alta"
+  },
+  {
+   "i": 48,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE responde consulta sobre contratação de remanescente de Brusque",
+   "description": "O TCE respondeu Consulta da Prefeitura de Brusque sobre a regra de transição da Lei n. 14.133/2021, esclarecendo que o gestor público tem discricionariedade para promover novo certame ou adotar a contratação de remanescente de obra, serviço ou fornecimento, desde que atendidos os requisitos legais aplicáveis.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 49,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE prescreve pretensão ressarcitória sobre Parque das Esculturas de Brusque",
+   "description": "O TCE reconheceu de ofício a prescrição da pretensão ressarcitória em favor dos responsáveis pelo recebimento de recursos antecipados para a realização do projeto Parque das Esculturas no Município de Brusque, por meio de Termo de Convênio no valor total de R$ 3.700.000,00.",
+   "status": "⚫ prescrito",
+   "severity": "media"
+  },
+  {
+   "i": 50,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE responde consulta sobre acumulação de cargos em Brusque e reforma prejulgados",
+   "description": "O TCE respondeu Consulta da Prefeitura de Brusque sobre acumulação de cargos e funções, reformando os Prejulgados ns. 1690 e 903 e revogando item do Prejulgado n. 653, estabelecendo novas orientações sobre a matéria.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 51,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aplica multas por irregularidades na liquidação da CODEB em Brusque",
+   "description": "O TCE considerou irregulares os atos administrativos e gerenciais praticados na Companhia de Desenvolvimento e Urbanização de Brusque (CODEB) nos anos de 2018 e 2019, e aplicou multas ao liquidante José Delamar de Oliveira e ao ex-prefeito Jonas Oscar Paegle por deixarem de adotar providências necessárias para a liquidação da empresa, incluindo regularização do controle patrimonial e localização de documentos.",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta"
+  },
+  {
+   "i": 52,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "⬛ acórdão (decisão)",
+   "severity": "media"
+  },
+  {
+   "i": 53,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE nega recurso de reexame sobre irregularidades em contratos de Brusque",
+   "description": "O TCE negou provimento ao Recurso de Reexame interposto pelo Contador do Município de Brusque, Cristiano Bittencourt, contra Acórdão que considerou irregular a Tomada de Contas Especial referente a contratos no Município de Brusque, mantendo a deliberação recorrida na íntegra.",
+   "status": "⬛ julgado irregular",
+   "severity": "alta"
+  },
+  {
+   "i": 54,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "⬛ acórdão (decisão)",
+   "severity": "media"
+  },
+  {
+   "i": 55,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "⬛ acórdão (decisão)",
+   "severity": "media"
+  },
+  {
+   "i": 56,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE ordena registro de aposentadoria de servidor de Brusque e aponta falha formal",
+   "description": "O TCE ordenou o registro do ato de aposentadoria do servidor Carlos Roberto Pruner, Auditor Fiscal Tributário da Prefeitura Municipal de Brusque, considerando-o legal. Foi registrada a regularidade do ato pelo órgão instrutivo.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 57,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE não conhece consulta sobre assinatura eletrônica de Brusque por não preencher requisitos",
+   "description": "O TCE não conheceu a Consulta da Prefeitura de Brusque sobre a exigência de assinatura eletrônica, diante do não preenchimento de todos os requisitos de admissibilidade. O Tribunal orientou o consulente a utilizar os canais administrativos disponibilizados para solucionar a questão.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 58,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aplica multa a liquidante da CODEB de Brusque por descumprimento de determinações",
+   "description": "O TCE aplicou multa no valor de R$ 1.990,60 ao Sr. José Delamar de Oliveira, liquidante da Companhia de Desenvolvimento e Urbanização de Brusque (CODEB) em 2021, por ter deixado de cumprir determinações do Acórdão n. 78/2021, que incluíam efetuar ações para baixa de bens, demonstrar ingresso de valores na contabilidade da CODEB e identificar ingresso de recurso financeiro.",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta"
+  },
+  {
+   "i": 59,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE ordena registro de aposentadoria de servidora de Brusque com recomendação de regularização",
+   "description": "O TCE ordenou o registro do ato de aposentadoria da servidora Lucia Da Costa Germano, professora da Prefeitura Municipal de Brusque, considerando-o legal. O Tribunal recomendou ao Instituto Brusquense de Previdência a adoção de providências para regularizar falha formal detectada no ato retificatório.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 60,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE ordena registro de aposentadoria de agente de obras de Brusque",
+   "description": "O TCE ordenou o registro do ato de aposentadoria do servidor Lorival Pereira, Agente de Obras da Prefeitura Municipal de Brusque, consubstanciado no Ato nº 024/2020, retificado pelo Ato nº 007/2022, considerando-o legal conforme análise realizada pelo órgão instrutivo.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 61,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE ordena registro de aposentadoria de agente de serviços especiais de Brusque",
+   "description": "O TCE ordenou o registro do ato de aposentadoria do servidor Helio Eisenhut, Agente de Serviços Especiais da Prefeitura de Brusque, considerando-o legal. O Tribunal recomendou ao Instituto de Previdência a regularização de falha formal detectada no ato retificatório quanto à data correta da Emenda Constitucional nº 41/2003.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 62,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE ordena registro de aposentadoria e pensão de servidores de Blumenau e Brusque",
+   "description": "O TCE ordenou o registro do ato de aposentadoria de Deise Regina dos Santos Hasse, Educadora da Prefeitura Municipal de Blumenau, considerando-o legal. Em relação à servidora Viviane da Silva Sartori, da Prefeitura de Brusque, foi ordenado o registro da aposentadoria e determinada recomendação ao IBPREV para providências de regularização.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 63,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE ordena registro de aposentadoria e pensão de servidores de Blumenau e Brusque",
+   "description": "O TCE ordenou o registro do ato de aposentadoria de Marilda Matiola, professora da Prefeitura Municipal de Blumenau, considerando-o legal. Em relação ao ato de pensão por morte de Ângela Aparecida Rodrigues de Oliveira e Heloisa Aparecida de Oliveira Narciso, beneficiárias de servidor da Prefeitura de Brusque, foi ordenado o registro por regularidade.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 64,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE ordena registro de aposentadoria e pensão de servidores e aponta possível acumulação de benefícios",
+   "description": "O TCE ordenou o registro do ato de aposentadoria de Elza Hitomi Sakai, médica da Prefeitura Municipal de Blumenau, considerando-o legal. Em relação ao ato de pensão de Suzana Marcia Machado Mafra, beneficiária de servidor da Prefeitura de Brusque, foi ordenado o registro e recomendada a verificação de possível acumulação de benefícios previdenciários.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  }
+ ]
+}

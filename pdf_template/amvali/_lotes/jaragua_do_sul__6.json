@@ -1,0 +1,635 @@
+{
+ "cidade": "Jaraguá do Sul",
+ "casos": [
+  {
+   "i": 420,
+   "tipo": "mp",
+   "ref": "06.2023.00002049-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00002049-3",
+   "status": "🟡 em apuração",
+   "data": "21/06/2023",
+   "texto": "Ademir Engelmann e Silvia Schneider Engelmann."
+  },
+  {
+   "i": 421,
+   "tipo": "mp",
+   "ref": "06.2016.00000483-6",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2016.00000483-6",
+   "status": "🟢 arquivado",
+   "data": "06/07/2023",
+   "texto": "Cartório de Registro Civil de Guaramirim e Crematório Catarinense. Conclusão: arquivamento Integral de Inquérito Civil."
+  },
+  {
+   "i": 422,
+   "tipo": "mp",
+   "ref": "06.2015.00004583-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2015.00004583-4",
+   "status": "🟢 arquivado",
+   "data": "17/07/2023",
+   "texto": "Ministério Público, Edio Nei Dolzan e Vanderlei Olívio Rosso. Conclusão: arquivamento, com fulcro no art. 48, inciso I, do Ato n. 395/2018/PGJ (ante a inexistência de fundamentos para a propositura de uma ação civil pública), do Inquérito Civil destinado a apurar \"Suposta ilegalidade no credenciamento de Edio Nei Dolzan como despachante de trânsito em Jaraguá do Sul, haja vista o não preenchimento de todos os requisitos para o desempenho da referida atividade.\""
+  },
+  {
+   "i": 423,
+   "tipo": "mp",
+   "ref": "06.2023.00002692-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00002692-1",
+   "status": "🟡 em apuração",
+   "data": "18/07/2023",
+   "texto": "representante sigiloso."
+  },
+  {
+   "i": 424,
+   "tipo": "mp",
+   "ref": "06.2023.00002834-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00002834-1",
+   "status": "🟡 em apuração",
+   "data": "26/07/2023",
+   "texto": "Adolpho Schmidt, Ingelore Schmidt, Hannelore Blume e Lauro Blume."
+  },
+  {
+   "i": 425,
+   "tipo": "mp",
+   "ref": "06.2019.00005406-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00005406-0",
+   "status": "🟢 arquivado",
+   "data": "13/10/2023",
+   "texto": "sigiloso. Conclusão: arquivamento, com fulcro no art. 48, inciso II, do Ato n. 395/2018/PGJ (em virtude da celebração de ANPC junto aos respectivos investigados)."
+  },
+  {
+   "i": 426,
+   "tipo": "mp",
+   "ref": "06.2023.00004084-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00004084-5",
+   "status": "🟡 em apuração",
+   "data": "19/10/2023",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 427,
+   "tipo": "mp",
+   "ref": "06.2023.00004086-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00004086-7",
+   "status": "🟡 em apuração",
+   "data": "19/10/2023",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 428,
+   "tipo": "mp",
+   "ref": "06.2023.00004342-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00004342-0",
+   "status": "🟡 em apuração",
+   "data": "07/11/2023",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 429,
+   "tipo": "mp",
+   "ref": "06.2023.00004622-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00004622-8",
+   "status": "🟡 em apuração",
+   "data": "01/12/2023",
+   "texto": "Florentina Berns Forlim e Leonardo Forlim."
+  },
+  {
+   "i": 430,
+   "tipo": "mp",
+   "ref": "06.2023.00002365-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00002365-7",
+   "status": "🟡 em apuração",
+   "data": "07/12/2023",
+   "texto": "Ministério Público e Gilmar Bressani."
+  },
+  {
+   "i": 431,
+   "tipo": "mp",
+   "ref": "06.2023.00002051-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00002051-6 (PORTARIA DE ADITAMENTO)",
+   "status": "🟡 em apuração",
+   "data": "08/02/2024",
+   "texto": "Mário Schwarz e Anita Krutsch Schwarz."
+  },
+  {
+   "i": 432,
+   "tipo": "mp",
+   "ref": "06.2020.00000613-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00000613-5",
+   "status": "🟢 arquivado",
+   "data": "15/02/2024",
+   "texto": "Ministério Público e Genésio Tomaseli Júnior. Conclusão: arquivamento, com fulcro no art. 48, inciso I, do Ato n. 395/2018/PGJ, do Inquérito Civil destinado a apurar \"Suposta prática de atos ilícitos por parte de servidor público dentro do ambiente de trabalho.\""
+  },
+  {
+   "i": 433,
+   "tipo": "mp",
+   "ref": "06.2018.00003076-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2018.00003076-4",
+   "status": "🟢 arquivado",
+   "data": "19/02/2024",
+   "texto": "sigiloso; Forma e Forma Indústria Metalúrgica Ltda. Conclusão: diante do exposto, considerando: 1) que a empresa investigada encerrou suas atividades no local mencionado na representação; 2) que a investigada, ainda que tardiamente, regularizou suas atividades no novo endereço; 3) que as questões apuradas no AIA n. 10801-D são de cunho administrativo, de atribuição do IMA; concluo que não há fundamento para a propositura de ação judicial, tampouco necessidade de adoção de outras medidas pelo Ministério Público, razão pela qual promovo o arquivamento do presente Inquérito Civil."
+  },
+  {
+   "i": 434,
+   "tipo": "mp",
+   "ref": "06.2024.00001192-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00001192-1",
+   "status": "🟡 em apuração",
+   "data": "02/04/2024",
+   "texto": "sigiloso; Dacyra Modro Silvano, José Jair Silva, Nelson Modro, Anélia Alcemira Todt Moro, Adolfo Arnoldo Todt, Darci Modro Todt, Valdir Modro, Ivonete Nunes Modro, Hélio Mário Wolf, Alzira Modro Wolf e Lili Modro."
+  },
+  {
+   "i": 435,
+   "tipo": "mp",
+   "ref": "06.2024.00001193-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00001193-2",
+   "status": "🟡 em apuração",
+   "data": "02/04/2024",
+   "texto": "sigiloso, Dacyra Modro Silvano, José Jair Silva, Nelson Modro, Anélia Alcemira Todt Moro, Adolfo Arnoldo Todt, Darci Modro Todt, Valdir Modro, Ivonete Nunes Modro, Hélio Mário Wolf, Alzira Modro Wolf e Lili Modro."
+  },
+  {
+   "i": 436,
+   "tipo": "mp",
+   "ref": "06.2023.00004342-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00004342-0",
+   "status": "🟢 arquivado",
+   "data": "12/04/2024",
+   "texto": "Ministério Público e Onésimo José Sell. Conclusão: arquivamento, com fulcro no art. 48, inciso I, do Ato n. 395/2018/PGJ, ante a inexistência de fundamentos para a propositura de uma ação civil pública, do Procedimento Preparatório destinado a \"Apurar, sob o viés da Lei n. 8.429/92, suposta promoção pessoal indevida de Onésimo José Sell.\""
+  },
+  {
+   "i": 437,
+   "tipo": "mp",
+   "ref": "06.2024.00002884-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00002884-5",
+   "status": "🟡 em apuração",
+   "data": "28/06/2024",
+   "texto": "Ministério Público e a apurar."
+  },
+  {
+   "i": 438,
+   "tipo": "mp",
+   "ref": "06.2023.00002365-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00002365-7",
+   "status": "🟢 arquivado",
+   "data": "08/07/2024",
+   "texto": "Ministério Público e Gilmar Bressani. Conclusão: arquivamento, com fulcro no art. 48, inciso I, do Ato n. 395/2018/PGJ, ante a inexistência de fundamentos para a propositura de uma ação civil pública, do Inquérito Civil destinado a \"Apurar a suposta prática de ato ímprobo decorrente da utilização de imóvel público para a construção de um espaço de lazer privado por parte do Diretor de Obras e Serviços Públicos Gilmar Bressani.\""
+  },
+  {
+   "i": 439,
+   "tipo": "mp",
+   "ref": "06.2024.00003434-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00003434-7",
+   "status": "🟡 em apuração",
+   "data": "06/08/2024",
+   "texto": "Ministério Público e Jaraguá Artefatos de Cimento Ltda."
+  },
+  {
+   "i": 440,
+   "tipo": "mp",
+   "ref": "06.2024.00003455-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00003455-8",
+   "status": "🟡 em apuração",
+   "data": "07/08/2024",
+   "texto": "Ministério Público e a apurar."
+  },
+  {
+   "i": 441,
+   "tipo": "mp",
+   "ref": "06.2021.00002596-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00002596-9",
+   "status": "❔ status indef.",
+   "data": "14/10/2024",
+   "texto": "Ministério Público e Fundação Beneficente de Corupá."
+  },
+  {
+   "i": 442,
+   "tipo": "mp",
+   "ref": "06.2024.00004245-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00004245-8",
+   "status": "🟡 em apuração",
+   "data": "14/10/2024",
+   "texto": "a apurar."
+  },
+  {
+   "i": 443,
+   "tipo": "mp",
+   "ref": "06.2019.00004630-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00004630-5",
+   "status": "🟢 arquivado",
+   "data": "23/10/2024",
+   "texto": "Anderson Dionei Dutra. Conclusão: considerando que, durante a tramitação do presente procedimento, constatou-se que a área degradada foi recuperada, mediante a implantação de Plano de Recuperação de Áreas Degradadas (PRAD), devidamente elaborado e monitorado por profissional técnico habilitado, concluo que não há fundamento para o ajuizamento de ação, nem necessidade de adoção de outras providências pelo Ministério Público, motivo pelo qual promovo o arquivamento do presente Inquérito Civil."
+  },
+  {
+   "i": 444,
+   "tipo": "mp",
+   "ref": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE ACOMPANHAMENTO DE TAC N.",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE ACOMPANHAMENTO DE TAC N.",
+   "status": "🟡 em apuração",
+   "data": "05/11/2024",
+   "texto": "Posto Nossa Senhora do Rosário."
+  },
+  {
+   "i": 445,
+   "tipo": "mp",
+   "ref": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE ACOMPANHAMENTO DE TAC n.",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE ACOMPANHAMENTO DE TAC n.",
+   "status": "🟡 em apuração",
+   "data": "22/11/2024",
+   "texto": "Supermercado JK Ltda."
+  },
+  {
+   "i": 446,
+   "tipo": "mp",
+   "ref": "06.2024.00005123-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00005123-5",
+   "status": "🟡 em apuração",
+   "data": "29/11/2024",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 447,
+   "tipo": "mp",
+   "ref": "06.2024.00005224-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00005224-5",
+   "status": "🟡 em apuração",
+   "data": "09/12/2024",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 448,
+   "tipo": "mp",
+   "ref": "09.2024.00010127-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00010127-5",
+   "status": "🟡 em apuração",
+   "data": "07/01/2025",
+   "texto": "3ª Promotoria de Justiça da Comarca de Jaraguá do Sul e Polícia Científica de Santa Catarina."
+  },
+  {
+   "i": 449,
+   "tipo": "mp",
+   "ref": "06.2024.00001192-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00001192-1 (PORTARIA DE ADITAMENTO)",
+   "status": "🟡 em apuração",
+   "data": "12/02/2025",
+   "texto": "Autor Sigiloso X Dacyra Modro Silvano, José Jair Silva, Nelson Modro, Anélia Alcemira Todt Moro, Adolfo Arnoldo Todt, Darci Modro Todt, Valdir Modro, Ivonete Nunes Modro, Hélio Mário Wolf, Alzira Modro Wolf, Lili Modro, Cristiane Modro, Diana Modro e Viviane Modro."
+  },
+  {
+   "i": 450,
+   "tipo": "mp",
+   "ref": "06.2024.00001193-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00001193-2 (PORTARIA DE ADITAMENTO)",
+   "status": "🟡 em apuração",
+   "data": "12/02/2025",
+   "texto": "Autor Sigiloso X Luiz Borges, Antônio Jair Borges, João Batista de Oliveira, Lauri Borges e Mauro José Jacques"
+  },
+  {
+   "i": 451,
+   "tipo": "mp",
+   "ref": "06.2024.00002884-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00002884-5",
+   "status": "🟡 em apuração",
+   "data": "27/02/2025",
+   "texto": "Ministério Público e a apurar."
+  },
+  {
+   "i": 452,
+   "tipo": "mp",
+   "ref": "06.2024.00003455-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00003455-8",
+   "status": "🟡 em apuração",
+   "data": "28/03/2025",
+   "texto": "Ministério Público, Coluna S/A Distribuidora de Títulos e Valores Mobiliários, Sérgio Gutnik e Sérgio Miranda."
+  },
+  {
+   "i": 453,
+   "tipo": "mp",
+   "ref": "06.2025.00000524-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00000524-5",
+   "status": "🟡 em apuração",
+   "data": "10/04/2025",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 454,
+   "tipo": "mp",
+   "ref": "06.2025.00000957-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00000957-4",
+   "status": "🟡 em apuração",
+   "data": "28/04/2025",
+   "texto": "Inês Cláudia Sadzinski."
+  },
+  {
+   "i": 455,
+   "tipo": "mp",
+   "ref": "06.2025.00000961-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00000961-9",
+   "status": "🟡 em apuração",
+   "data": "28/04/2025",
+   "texto": "Adriel Gomes de Moraes."
+  },
+  {
+   "i": 456,
+   "tipo": "mp",
+   "ref": "06.2025.00000965-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00000965-2",
+   "status": "🟡 em apuração",
+   "data": "28/04/2025",
+   "texto": "Luciano Inácio."
+  },
+  {
+   "i": 457,
+   "tipo": "mp",
+   "ref": "06.2025.00001113-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00001113-6",
+   "status": "🟡 em apuração",
+   "data": "28/04/2025",
+   "texto": "Victor Douglas Rumanski e Delison Rubens Rumanski."
+  },
+  {
+   "i": 458,
+   "tipo": "mp",
+   "ref": "06.2024.00000950-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00000950-4",
+   "status": "🟢 arquivado",
+   "data": "20/05/2025",
+   "texto": "Ministério Público, Azeplast Indústria e Comércio Ltda. e BMI Prosper. Conclusão: arquivamento, com fulcro no art. 48, inciso I, do Ato n. 395/2018/PGJ, ante a inexistência de fundamentos para a propositura de uma ação civil pública, do Procedimento Preparatório destinado à \"Apuração de supostos atos lesivos à Administração Pública, em tese cometidos no enredo do Pregão Presencial nº 22/2023 do SAMAE de Jaraguá do Sul.\""
+  },
+  {
+   "i": 459,
+   "tipo": "mp",
+   "ref": "01.2025.00001556-5",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00001556-5",
+   "status": "🟢 arquivado",
+   "data": "30/05/2025",
+   "texto": "Conselho Tutelar. Conclusão: apurar possível tratamento diferencial e ausência de orientação aos alunos da rede particular de ensino. Perda do objeto. Reunião realizada com a escolas privadas. Indeferimento"
+  },
+  {
+   "i": 460,
+   "tipo": "mp",
+   "ref": "06.2025.00001980-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00001980-6",
+   "status": "🟡 em apuração",
+   "data": "30/05/2025",
+   "texto": "Ministério Público e \"a apurar\"."
+  },
+  {
+   "i": 461,
+   "tipo": "mp",
+   "ref": "06.2025.00001981-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00001981-7",
+   "status": "🟡 em apuração",
+   "data": "30/05/2025",
+   "texto": "Ministério Público, Onésimo José Sell e Leandro Simon."
+  },
+  {
+   "i": 462,
+   "tipo": "mp",
+   "ref": "06.2025.00001977-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00001977-2",
+   "status": "🟡 em apuração",
+   "data": "30/05/2025",
+   "texto": "Ministério Público, Nilton Fazolo Junior e Onésimo José Sell."
+  },
+  {
+   "i": 463,
+   "tipo": "mp",
+   "ref": "06.2025.00002137-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00002137-8",
+   "status": "🟡 em apuração",
+   "data": "11/06/2025",
+   "texto": "Laércio Enke e Nelson Gaedke."
+  },
+  {
+   "i": 464,
+   "tipo": "mp",
+   "ref": "06.2025.00002098-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00002098-0",
+   "status": "🟡 em apuração",
+   "data": "13/06/2025",
+   "texto": "Maria Ledir Rodrigues."
+  },
+  {
+   "i": 465,
+   "tipo": "mp",
+   "ref": "06.2025.00001520-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00001520-0",
+   "status": "🟡 em apuração",
+   "data": "26/06/2025",
+   "texto": "SAMAE e Vigilância Sanitária de Jaraguá do Sul."
+  },
+  {
+   "i": 466,
+   "tipo": "mp",
+   "ref": "06.2025.00001522-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00001522-1",
+   "status": "🟡 em apuração",
+   "data": "27/06/2025",
+   "texto": "Tamanini & Tamanini Negócios Ltda."
+  },
+  {
+   "i": 467,
+   "tipo": "mp",
+   "ref": "06.2025.00000691-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00000691-1",
+   "status": "🟡 em apuração",
+   "data": "30/06/2025",
+   "texto": "FUJAMA e Luzia Fernandes dos Santos."
+  },
+  {
+   "i": 468,
+   "tipo": "mp",
+   "ref": "06.2025.00002676-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00002676-2",
+   "status": "🟡 em apuração",
+   "data": "11/07/2025",
+   "texto": "Croceta Beer Ltda."
+  },
+  {
+   "i": 469,
+   "tipo": "mp",
+   "ref": "06.2025.00001946-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00001946-1",
+   "status": "🟡 em apuração",
+   "data": "16/09/2025",
+   "texto": "Comércio de Sucatas Mader Ltda."
+  },
+  {
+   "i": 470,
+   "tipo": "mp",
+   "ref": "06.2025.00003304-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00003304-1",
+   "status": "🟡 em apuração",
+   "data": "23/09/2025",
+   "texto": "Sinésio Miranda."
+  },
+  {
+   "i": 471,
+   "tipo": "mp",
+   "ref": "06.2025.00000164-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00000164-9",
+   "status": "🟢 arquivado",
+   "data": "24/09/2025",
+   "texto": "Rony Michel Schroeder e Ferro Velho Online. Conclusão: diante das ações de fiscalização promovidas pelo Município, a pedido do Ministério Público, a empresa investigada encerrou definitivamente suas atividades, cessando, por conseguinte, os fatos geradores das poluições atmosférica e sonora noticiados, concluo que não há outras providências a serem adotadas pelo Ministério Público, motivo pelo qual promovo o arquivamento do presente procedimento, nos termos do disposto no artigo 9º da Lei n. 7.347/85 e artigo 48, I, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 472,
+   "tipo": "mp",
+   "ref": "06.2024.00002884-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00002884-5",
+   "status": "🟢 arquivado",
+   "data": "26/09/2025",
+   "texto": "Ministério Público e a apurar. Conclusão: arquivamento, com fulcro no art. 48, inciso I, do Ato n. 395/2018/PGJ, ante a inexistência de fundamentos para a propositura de uma ação civil pública, do Inquérito Civil destinado a \"Apurar a suposta ocorrência de direcionamento de licitações do SAMAE de Jaraguá do Sul para o Laboratório LABB.\"."
+  },
+  {
+   "i": 473,
+   "tipo": "mp",
+   "ref": "06.2025.00001977-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00001977-2",
+   "status": "🟢 arquivado",
+   "data": "09/10/2025",
+   "texto": "Ministério Público, Nilton Fazollo Júnior e Onésimo José Sell. Conclusão: arquivamento, com fulcro no art. 48, inciso I, do Ato n. 395/2018/PGJ, ante a inexistência de fundamentos para a propositura de uma ação civil pública, do Procedimento Preparatório destinado a \"Apurar eventual majoração ímproba de orçamentos destinados a servir como referência em licitações de serviços de horas máquina no SAMAE de Jaraguá do Sul\"."
+  },
+  {
+   "i": 474,
+   "tipo": "mp",
+   "ref": "06.2025.00000524-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00000524-5",
+   "status": "🟡 em apuração",
+   "data": "09/10/2025",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 475,
+   "tipo": "mp",
+   "ref": "01.2025.00040943-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00040943-0",
+   "status": "🟢 arquivado",
+   "data": "14/10/2025",
+   "texto": "G. M. M. Conclusão: em contato com a genitora e curadora, M. M;, verificou-se que G. M. M. não se encontra mais internado e agora reside em São Paulo/SP. Situação já se encontra solucionada. Indeferimento."
+  },
+  {
+   "i": 476,
+   "tipo": "mp",
+   "ref": "01.2025.00056303-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2025.00056303-1",
+   "status": "🟡 em apuração",
+   "data": "20/10/2025",
+   "texto": "Vanderléia de Fátima Andrade Santos."
+  },
+  {
+   "i": 477,
+   "tipo": "mp",
+   "ref": "06.2025.00004493-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2025.00004493-8",
+   "status": "🟡 em apuração",
+   "data": "22/10/2025",
+   "texto": "Associação do Hospital Jaraguá."
+  },
+  {
+   "i": 478,
+   "tipo": "mp",
+   "ref": "06.2025.00004222-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00004222-9",
+   "status": "🟡 em apuração",
+   "data": "29/10/2025",
+   "texto": "Galvanização Batisti Ltda."
+  },
+  {
+   "i": 479,
+   "tipo": "mp",
+   "ref": "06.2025.00004493-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00004493-8",
+   "status": "🟢 arquivado",
+   "data": "26/11/2025",
+   "texto": "Aryelle da Silva Barros e Associação do Hospital Jaraguá. Conclusão: trata-se de Inquérito Civil instaurado a partir de denúncia recebida pela Ouvidoria do MPSC envolvendo possível ato lesivo praticado pela Associação do Hospital Jaraguá em razão da cobrança pela aplicação de medicamento. Realizadas diligências e juntadas documentações, verificou-se a entrada na Clínica Pediátrica (que originou a denúncia) que atua de forma particular na vacinação da benzetacil. Evidenciada a regularidade da atuação do Hospital, o arquivamento é medida que se impõe."
+  },
+  {
+   "i": 480,
+   "tipo": "mp",
+   "ref": "06.2025.00001412-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00001412-2",
+   "status": "🟢 arquivado",
+   "data": "28/11/2025",
+   "texto": "Conselho Tutelar de Corupá e Recanto Infantil Carinho de Mãe. Conclusão: trata-se de Inquérito Civil instaurado para apurar a regularização do empreendimento denominado \"Recanto Infantil Carinho de Mãe\". Durante o procedimento, após a adoção de diligências, a responsável pelo empreendimento demonstrou a regularização. Não havendo novas medidas a adotar, impõe-se o arquivamento."
+  },
+  {
+   "i": 481,
+   "tipo": "mp",
+   "ref": "01.2025.00050055-7",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00050055-7",
+   "status": "🟢 arquivado",
+   "data": "02/12/2025",
+   "texto": "Ana Karoline Cerqueira Cirilo e Secretaria Municipal de Saúde de Jaraguá do Sul. Conclusão: a situação que motivou a representação encontra-se superada, uma vez que o procedimento agendado para a paciente Ana Karoline Cerqueira Cirilo foi efetivamente realizado em 26/9/2025. Situação já se encontra solucionada. Indeferimento."
+  },
+  {
+   "i": 482,
+   "tipo": "mp",
+   "ref": "01.2025.00055048-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00055048-0",
+   "status": "🟢 arquivado",
+   "data": "02/12/2025",
+   "texto": "Jarde Adelino Pesttol e Secretaria Municipal de Saúde de Jaraguá do Sul. Conclusão: a situação que motivou a representação encontra-se superada, uma vez que já foi agendado o procedimento cirúrgico do paciente Jarde Adelino Pesttol. Indeferimento."
+  },
+  {
+   "i": 483,
+   "tipo": "mp",
+   "ref": "06.2025.00000568-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00000568-9",
+   "status": "🟢 arquivado",
+   "data": "08/01/2026",
+   "texto": "Claudete Reichert e Via Green In Bar. Conclusão: considerando que o estabelecimento investigado regularizou suas atividades e implantou, de forma gradativa, melhorias visando ao controle das emissões sonoras, adequando suas emissões aos limites permitidos pela legislação e que a autora da representação não apresentou novas reclamações, concluo que não há fundamento para a propositura de ação judicial, motivo pelo qual promovo o arquivamento do presente inquérito civil, nos termos do disposto no art. 9º da Lei n. 7.347/1985 e no art. 48, inciso I, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 484,
+   "tipo": "mp",
+   "ref": "06.2023.00003225-6",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00003225-6",
+   "status": "🟢 arquivado",
+   "data": "09/01/2026",
+   "texto": "Alessandra Luize Müller Schmidt e Centro Imóveis Ltda. Conclusão: conclui-se que foram adotadas as providências necessárias à eliminação do risco geológico, inexistindo outras providências a serem adotadas pelo Ministério Público, motivo pelo qual promovo o arquivamento do presente procedimento."
+  },
+  {
+   "i": 485,
+   "tipo": "mp",
+   "ref": "01.2026.00005107-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2026.00005107-6",
+   "status": "🟡 em apuração",
+   "data": "04/02/2026",
+   "texto": "Hospital São José, Estado de Santa Catarina e Frederico Augusto Felisberto Rangel."
+  },
+  {
+   "i": 486,
+   "tipo": "mp",
+   "ref": "06.2020.00000896-6",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00000896-6",
+   "status": "⚫ prescrito",
+   "data": "10/02/2026",
+   "texto": "Ministério Público e a apurar. Conclusão: arquivamento, pelo advento da prescrição, do inquérito civil destinado a \"Apurar a aglutinação de serviços de naturezas distintas na Concorrrência Pública n. 001/19 da autarquia Águas de Corupá.\""
+  },
+  {
+   "i": 487,
+   "tipo": "mp",
+   "ref": "01.2026.00006485-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2026.00006485-0",
+   "status": "🟡 em apuração",
+   "data": "13/02/2026",
+   "texto": "William Henrique Fritzke, Polícia Militar de Santa Catarina e Hotel Fazenda Casarão do Vale."
+  },
+  {
+   "i": 488,
+   "tipo": "mp",
+   "ref": "06.2026.00000237-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2026.00000237-4",
+   "status": "🟡 em apuração",
+   "data": "18/02/2026",
+   "texto": "Rozeli Bossy."
+  },
+  {
+   "i": 489,
+   "tipo": "mp",
+   "ref": "06.2026.00000524-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2026.00000524-9",
+   "status": "🟡 em apuração",
+   "data": "19/02/2026",
+   "texto": "Ministério Público e CIGAMVALI."
+  }
+ ]
+}

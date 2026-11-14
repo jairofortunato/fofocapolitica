@@ -1,0 +1,51 @@
+[0m
+> build · gpt-5.4-mini
+[0m
+Vou ler o critério editorial e mapear os três lotes para julgar caso a caso, verificando as fontes antes de escrever qualquer saída.
+[0m# [0mTodos
+[•] Ler `pdf_template/CURADORIA.md` e extrair critérios obrigatórios
+[ ] Inspecionar `joinville__37.json` e fontes de cada caso
+[ ] Inspecionar `joinville__38.json` e fontes de cada caso
+[ ] Inspecionar `joinville__39.json` e fontes de cada caso
+[ ] Gravar lotes curados em `pdf_template/amunesc/_lotes_curados/`
+[ ] Conferir contagens finais por lote
+[0m
+[0m→ [0mRead pdf_template/CURADORIA.md
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__39.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__38.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__37.json
+Já identifiquei os critérios e estou fechando a triagem com foco em manter só o que tem substância conferível. Agora vou consolidar a saída e gravar cada lote.
+[0m✱ [0mGlob "pdf_template/amunesc/_lotes_curados/*.json"[90m in . · 68 matches[0m
+[0m✱ [0mGlob "pdf_template/amunesc/_lotes_curados"[90m in . · 0 matches[0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/joinville__30.json
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/joinville__31.json
+Vou gravar o primeiro lote agora, já com a triagem fechada. Em seguida sigo para os outros dois na mesma ordem.
+[0m% [0mPatch 1 file
+[0m% [0mPatch 1 file
+[0m% [0mPatch 1 file
+Os três lotes já foram escritos. Agora vou validar a estrutura JSON e fechar as contagens de `keep:true` e `severity: alta`.
+[0m
+[0m$ [0mjq 'length, ([.[] | select(.keep==true)] | length), ([.[] | select(.severity=="alta")] | length)' "pdf_template/amunesc/_lotes_curados/joinville__37.json" && jq 'length, ([.[] | select(.keep==true)] | length), ([.[] | select(.severity=="alta")] | length)' "pdf_template/amunesc/_lotes_curados/joinville__38.json" && jq 'length, ([.[] | select(.keep==true)] | length), ([.[] | select(.severity=="alta")] | length)' "pdf_template/amunesc/_lotes_curados/joinville__39.json"
+70
+15
+0
+70
+31
+0
+70
+29
+1
+[0m
+[0m# [0mTodos
+[✓] Ler `pdf_template/CURADORIA.md` e extrair critérios obrigatórios
+[✓] Inspecionar `joinville__37.json` e fontes de cada caso
+[✓] Inspecionar `joinville__38.json` e fontes de cada caso
+[✓] Inspecionar `joinville__39.json` e fontes de cada caso
+[✓] Gravar lotes curados em `pdf_template/amunesc/_lotes_curados/`
+[✓] Conferir contagens finais por lote
+[0m
+Lotes gravados em `pdf_template/amunesc/_lotes_curados/`.
+
+- `joinville__37.json`: 70 casos, 15 `keep:true`, 0 `severity: alta`
+- `joinville__38.json`: 70 casos, 31 `keep:true`, 0 `severity: alta`
+- `joinville__39.json`: 70 casos, 29 `keep:true`, 1 `severity: alta`

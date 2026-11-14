@@ -1,0 +1,591 @@
+{
+ "mp": [
+  {
+   "i": 0,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 1,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura enriquecimento ilícito em associação e grupo folclórico em Ascurra e arquiva",
+   "description": "O inquérito civil investigou eventual enriquecimento ilícito pelo Grupo Folklorístico Primo Ballo e pela Associação de Moradores de São Virgílio, bem como violação dos princípios que regem a administração pública. Não foram encontrados fundamento para a continuidade das investigações e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 2,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 3,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 4,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 5,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura loteamento irregular em Ascurra e arquiva por ausência de fundamento",
+   "description": "O inquérito civil investigou loteamento irregular localizado na Rua Indaial, n. 1860, Bairro Estação, no Município de Ascurra, de propriedade de Pascoal Floriano. Não foram encontrados fundamento para a continuidade das investigações e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 6,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura loteamento irregular em Ascurra e firma TAC com empresas envolvidas",
+   "description": "O inquérito civil investigou loteamento irregular na Rua Indaial, n. 1860, Bairro Estação, em Ascurra, de propriedade de Pascoal Floriano. Foi firmado Termo de Ajustamento de Conduta com as demais empresas envolvidas e o caso foi arquivado por ausência do interesse de agir.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 7,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura loteamento clandestino em Rodeio e regularização é concluída por REURB",
+   "description": "O inquérito civil investigou loteamento clandestino no final da Rua Pietro Pegoretti, Bairro Gávea, em Rodeio, com comercialização de lotes sem aprovação do poder público. Ilícitos penais apurados na esfera própria e o município adotou regularização fundiária por meio de REURB. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 8,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura processos seletivos irregulares em Ascurra e firma TAC para realização de concurso",
+   "description": "O inquérito civil apurou a realização indiscriminada de processos seletivos pelo Município de Ascurra. Foi firmado Termo de Ajustamento de Conduta visando a realização de concurso público e o caso foi arquivado por ausência do interesse de agir.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 9,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura autorização de exames médicos na rede pública em Ascurra e arquiva",
+   "description": "O inquérito civil apurou a autorização para a realização de exames na rede pública requisitados por médicos particulares em Ascurra. Não restaram comprovadas irregularidades e o caso foi arquivado por ausência de fundamento para ação judicial.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 10,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 11,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura dano ambiental por agrotóxicos em Ascurra e arquiva por ausência de irregularidade",
+   "description": "O inquérito civil apurou dano ambiental decorrente da aplicação supostamente ilícita de agrotóxicos em Ascurra. Irregularidades não foram constatadas e o caso foi arquivado por inexistência de fundamento para ação judicial.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 12,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 13,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura pregão em Ascurra e arquiva por ausência de fundamento para ação judicial",
+   "description": "O inquérito civil apurou supostas irregularidades no Pregão Presencial n. 14/2021 do Município de Ascurra. Não foram encontrados fundamento para a continuidade das investigações e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 14,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 15,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura poluição sonora causada por restaurante em Ascurra e arquiva",
+   "description": "O inquérito civil apurou poluição sonora causada pelo Restaurante Italiana Gastrobar em Ascurra. O estabelecimento encerrou suas atividades e os ruídos excessivos eram provenientes da rodovia federal localizada à frente. Caso arquivado por ausência de fundamento para ação judicial.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 16,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 17,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 18,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 19,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 20,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 21,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 22,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 23,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 24,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 25,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC com Ascurra e AGIR após cumprimento de metas e arquiva caso",
+   "description": "O inquérito civil resultou em Termo de Ajustamento de Conduta (TAC) firmado com o Município de Ascurra e a Agência Intermunicipal de Regulação do Médio Vale do Itajaí (AGIR). Após o atingimento do objetivo, o caso foi arquivado.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 26,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura revisão do plano diretor de Ascurra e arquiva após atingimento do objetivo",
+   "description": "O inquérito civil apurou a necessidade de revisão do plano diretor do Município de Ascurra. O procedimento alcançou seu objetivo e o caso foi arquivado por ausência de fundamento para ação judicial.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 27,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 28,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP acompanha cumprimento de obrigações do SINASE em Ascurra e arquiva sem irregularidade",
+   "description": "O inquérito civil diagnosticou e acompanhou as ações dos Municípios de Ascurra, Apiúna e Rodeio para cumprimento de obrigações do SINASE (Lei n. 12.594/2012). Não foram encontradas violações de direitos de adolescentes, omissão deliberada do poder público ou deficiência grave a justificar intervenção ministerial. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 29,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 30,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura uso de veículo do Conselho Tutelar para fins particulares em Apiúna e arquiva",
+   "description": "O inquérito civil apurou o uso de veículo do Conselho Tutelar de Apiúna para fins particulares pela conselheira Janete Tereza Steinheuser. Com a entrada em vigor da Lei n. 14.230/2021, restou ausente o dolo da investigada. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 31,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 32,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 33,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura irregularidades sanitárias em estabelecimentos de Ascurra e firma TAC",
+   "description": "O inquérito civil apurou o descumprimento de normas jurídico-sanitárias por estabelecimentos fiscalizados pela ação do Programa de Proteção Jurídico-Sanitária dos Consumidores de Produtos de Origem Animal (POA) no ano de 2021 em Ascurra. Foi firmado Termo de Ajustamento de Conduta com as empresas irregulares e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 34,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 35,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 36,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 37,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 38,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 39,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 40,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura atuação ilegal de optometrista em loja de Ascurra e arquiva",
+   "description": "O inquérito civil apurou a ilegalidade da atuação do optometrista Sandro Luiz Pieritz na Relojoaria e Ótica Tita em Ascurra. Inexistindo fundamento para a propositura de ação judicial, o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 41,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 42,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 43,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 44,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 45,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 46,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 47,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 48,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 49,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 50,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP acompanha resposta a enchentes em Ascurra, Apiúna e Rodeio e arquiva",
+   "description": "O procedimento administrativo acompanhou providências adotadas pelos entes municipais e pelo Corpo de Bombeiros Voluntários em decorrência das chuvas que assolaram os Municípios de Apiúna, Ascurra e Rodeio. Atingida sua finalidade, o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 51,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura comercialização irregular de alimentos em Ascurra e empresa firma ANPP",
+   "description": "O inquérito civil apurou a comercialização de produtos alimentícios em desacordo com normas regulamentares pela empresa Alimentos Ascurra Ltda. Foi realizado Acordo de Não Persecução Penal em processo judicial, culminando na extinção da punibilidade. Caso arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 52,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura vinculação comercial entre optometrista e ótica em Ascurra e arquiva",
+   "description": "O inquérito civil apurou vinculação comercial entre a optometrista Mariana Gerusa Duarte e a Ótica Multilens para prática de venda casada de prescrição de grau e comercialização de lentes e óculos. Inexistindo fundamento para ação civil pública, o caso foi arquivado.",
+   "status": "⚫ prescrito",
+   "severity": "media"
+  }
+ ],
+ "tce": [
+  {
+   "i": 0,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta possível sobrepreço na inexigibilidade de licitação em Ascurra",
+   "description": "O TCE apurou supostas irregularidades referentes à Inexigibilidade de Licitação n. 05/2025 para contratação de serviços no Município de Ascurra. O tribunal recomendou ao Controle Interno que avalie a necessidade de providências em virtude de possível sobrepreço na contratação decorrente do processo.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "alta"
+  },
+  {
+   "i": 1,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 2,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 parecer pela aprovação",
+   "severity": "media"
+  },
+  {
+   "i": 3,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE não conhece denúncia sobre subsídios de secretários em Ascurra por falta de admissibilidade",
+   "description": "O TCE não conheceu a denúncia apresentada sobre majoração dos subsídios dos Secretários Municipais de Ascurra, por não atender aos pressupostos de admissibilidade. O pedido cautelar para sustação da Emenda n. 08/2025, que alterou a Lei Orgânica Municipal, foi considerado prejudicado. Caso arquivado.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 4,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE não conhece denúncia sobre isonomia salarial em Ascurra e arquiva",
+   "description": "O TCE não conheceu a denúncia sobre ausência de isonomia salarial formulada em face da Prefeitura Municipal de Ascurra, por não atender aos pressupostos de admissibilidade. Caso arquivado.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 5,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE considera parcialmente procedente representação sobre pregão de pneus em Ascurra",
+   "description": "O TCE considerou parcialmente procedente a Representação formulada sobre o Edital de Pregão Presencial n. 57/2021, promovido pela Secretaria de Administração e Planejamento do Município de Ascurra para registro de preços de pneus. O processo foi arquivado.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "alta"
+  },
+  {
+   "i": 6,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 parecer pela aprovação",
+   "severity": "media"
+  },
+  {
+   "i": 7,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 parecer pela aprovação",
+   "severity": "media"
+  },
+  {
+   "i": 8,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE considera regular atraso na remessa de contas de Ascurra por regularização superveniente",
+   "description": "O TCE considerou regular o atraso na remessa da Prestação de Contas do Prefeito de Ascurra referente ao exercício de 2018, tendo em vista a regularização das remessas dos exercícios subsequentes. Caso arquivado.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 9,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE apura pagamento indevido em credenciamento de serviços em Ascurra e convoca responsáveis",
+   "description": "O TCE converteu a Representação em exame de licitações e contratos para investigar possível dano ao erário referente a pagamentos indevidos para empresas contratadas no Credenciamento n. 66/2022, por valores referentes à remoção de veículos até oficinas, em desrespeito ao edital. Os responsáveis foram convocados para apresentar defesa.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "alta"
+  },
+  {
+   "i": 10,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 11,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE recomenda melhorias em licitação de serviços mecânicos em Ascurra e arquiva",
+   "description": "O TCE recomendou à Prefeitura Municipal de Ascurra que, em futuros certames com objeto similar, se abstenha de limitar geograficamente a localização de interessados, atente para clareza dos editais e amplie fontes de pesquisa de preços, com base em orientações sobre o Credenciamento n. 66/2022 para serviços de mão de obra mecânica e elétrica. Caso arquivado.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+[0m
+> build · gpt-5.4-mini
+[0m
+Vou ler o critério editorial e mapear os lotes/fontes antes de julgar cada caso.
+[0m→ [0mRead pdf_template/CURADORIA.md
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__40.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__41.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__42.json
+Estou separando os casos por relevância editorial. A maior parte destes lotes é instauração sem fato descrito, então vou cortar esses e manter só os que trazem apuração concluída ou objeto narrado com substância.
+[0m
+[0m# [0mTodos
+[•] Curar lote joinville__40 caso a caso e gravar JSON curado
+[ ] Curar lote joinville__41 caso a caso e gravar JSON curado
+[ ] Curar lote joinville__42 caso a caso e gravar JSON curado
+[ ] Verificar totais finais de keep:true e severity alta por lote
+[0m
+Vou usar um agente para acelerar a leitura lote a lote, porque há muita repetição e várias republicações do mesmo processo.
+[0m• [0mCurar lote 40[90m General Agent[0m
+[0m• [0mCurar lote 41[90m General Agent[0m
+[0m• [0mCurar lote 42[90m General Agent[0m
+[0m✓ [0mCurar lote 40[90m General Agent[0m
+[0m✓ [0mCurar lote 42[90m General Agent[0m
+[0m✓ [0mCurar lote 41[90m General Agent[0m
+Vou gravar os curados agora. Antes, verifico se o diretório de saída já existe para não criar nada fora do lugar.
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados
+[0m→ [0mRead pdf_template/amunesc/_lotes
+Estou gravando os lotes curados na ordem pedida. Primeiro vou salvar `joinville__40.json`, depois os seguintes.
+[0m% [0mPatch 1 file
+`joinville__40.json` já foi salvo. Agora gravo `joinville__41.json` e `joinville__42.json` com a mesma estrutura posicional.
+[0m% [0mPatch 1 file
+[0m% [0mPatch 1 file
+Vou validar os três JSONs e fechar os totais reais antes de responder.
+[0m
+[0m$ [0mpython3 - <<'PY'
+import json, pathlib
+base = pathlib.Path('/Users/jairofortunato/mp/pdf_template/amunesc/_lotes_curados')
+for name in ['joinville__40.json','joinville__41.json','joinville__42.json']:
+    data = json.loads((base / name).read_text())
+    total = len(data)
+    keep = sum(1 for x in data if x.get('keep'))
+    alta = sum(1 for x in data if x.get('severity') == 'alta')
+    print(name, total, keep, alta)
+PY
+joinville__40.json 70 45 0
+joinville__41.json 70 38 0
+joinville__42.json 70 39 0
+[0m
+[0m# [0mTodos
+[✓] Curar lote joinville__40 caso a caso e gravar JSON curado
+[✓] Curar lote joinville__41 caso a caso e gravar JSON curado
+[✓] Curar lote joinville__42 caso a caso e gravar JSON curado
+[✓] Verificar totais finais de keep:true e severity alta por lote
+[0m
+Gravei os três lotes em `pdf_template/amunesc/_lotes_curados/`.
+
+- `joinville__40.json`: 70 casos, 45 `keep:true`, 0 `severity: alta`
+- `joinville__41.json`: 70 casos, 38 `keep:true`, 0 `severity: alta`
+- `joinville__42.json`: 70 casos, 39 `keep:true`, 0 `severity: alta`

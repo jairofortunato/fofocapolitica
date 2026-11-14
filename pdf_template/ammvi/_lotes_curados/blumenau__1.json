@@ -1,0 +1,632 @@
+[
+  {
+    "i": 70,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP ajuíza ação de improbidade contra empresas por licitações irregulares em Blumenau",
+    "description": "O Ministério Público ajuizou Ação Civil Pública por improbidade administrativa contra a MTG Hidro e Elétrica Ltda., Betonserv Serviços Ltda., Raga Construções Ltda. e treze pessoas físicas, entre elas Eduardo Schmitt Roste e José Augusto Reinert, por irregularidades em licitações e contratos públicos. A ação tramita na Justiça.",
+    "status": "🔴 ACP ajuizada",
+    "severity": "alta"
+  },
+  {
+    "i": 71,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva investigação sobre ocultação de bens por falta de ato de agente público em Blumenau",
+    "description": "O Ministério Público investigou Paulo Córdova dos Santos por suposta ocultação de bens no contexto de uma ação civil pública. A conduta não foi praticada por agente público, não caracterizando improbidade administrativa. O caso foi arquivado e remetido ao Conselho Superior do Ministério Público.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 72,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva investigação sobre irregularidades em 41 licitações em Blumenau sem prejuízo constatado",
+    "description": "O Ministério Público investigou possíveis irregularidades em 41 procedimentos licitatórios e dispensas de licitação do Município de Blumenau, envolvendo obras conveniadas com a Agência de Fomento de Santa Catarina. Não foi constatado prejuízo ao erário e o caso foi arquivado, com necessidade de apuração em separado sobre as obras dos corredores de ônibus.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 73,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva investigação sobre horas extras a agentes de trânsito em Blumenau",
+    "description": "O Ministério Público investigou possíveis ilegalidades na concessão de horas extras a agentes de trânsito da Secretaria Municipal de Trânsito e Transportes de Blumenau. Não foram encontrados indícios de dolo ou improbidade, e os serviços foram considerados essenciais durante a pandemia de Covid-19. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 74,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "🟡 em apuração",
+    "severity": "media"
+  },
+  {
+    "i": 75,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma acordo com tabeliã interina de Blumenau por irregularidades em cartório",
+    "description": "O Ministério Público investigou a atuação de Rafaela Coutinho Margarida como tabeliã interina do 1º Tabelionato de Notas e Protestos de Blumenau entre 2015 e 2018. Foi celebrado Acordo de Não Persecução Cível com a investigada, prevendo ressarcimento de dano, multa civil e suspensão de direitos políticos. O inquérito foi arquivado.",
+    "status": "🟠 ACNP firmado",
+    "severity": "media"
+  },
+  {
+    "i": 76,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "🟡 em apuração",
+    "severity": "media"
+  },
+  {
+    "i": 77,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "🟡 em apuração",
+    "severity": "media"
+  },
+  {
+    "i": 78,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "🟡 em apuração",
+    "severity": "media"
+  },
+  {
+    "i": 79,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC com Prefeitura e Câmara de Blumenau por cessão ilegal de servidores",
+    "description": "O Ministério Público apurou a cessão ilegal de servidores da Prefeitura de Blumenau para a Câmara de Vereadores. Foi celebrado Termo de Compromisso de Ajustamento de Conduta para a realização de concurso público para suprir as vagas dos cargos cedidos. O caso foi arquivado.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 80,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP apura publicidade da Câmara de Blumenau e arquiva após recomendação acatada",
+    "description": "O Ministério Público investigou possíveis irregularidades nas publicidades realizadas por meio de mídia digital pela Câmara de Vereadores de Blumenau. A recomendação ministerial foi expedida e acatada, com as irregularidades sanadas. O caso foi arquivado.",
+    "status": "🟢 recomendação cumprida",
+    "severity": "media"
+  },
+  {
+    "i": 81,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "🟡 em apuração",
+    "severity": "media"
+  },
+  {
+    "i": 82,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP apura leis municipais inconstitucionais sobre trânsito em Blumenau e arquiva após revogação",
+    "description": "O Ministério Público investigou a inconstitucionalidade das Leis Municipais n. 8.436/2017 e 8.437/2017, que tratavam de trânsito e transporte, matéria de competência privativa da União. As recomendações foram acatadas e as leis foram revogadas. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 83,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC com Prefeitura de Blumenau e empreiteira por irregularidades em obra de escola",
+    "description": "O Ministério Público investigou irregularidades na fiscalização da execução do contrato de obra na EBM Patrícia H.F. Pegorim, em Blumenau. Foi celebrado Termo de Ajustamento de Conduta com o Município de Blumenau e a Empreiteira KJ Ltda. para correção das irregularidades. O caso foi arquivado.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 84,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva investigação sobre subcontratação integral em licitação de Blumenau",
+    "description": "O Ministério Público investigou irregularidades no Processo Licitatório n. 2/2020, com subcontratação integral do objeto licitado. Não foi constatado ato de improbidade e o caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 85,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva investigação sobre doação de computadores Apple ao Município de Blumenau",
+    "description": "O Ministério Público investigou a doação de três computadores Apple ao Município de Blumenau pela empresa Cuka Filmes Ltda., com suspeita de acordo subreptício entre a empresa e gestores públicos. Ilegalidades não foram constatadas e o caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 86,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma acordo com prefeito e vice de Blumenau por uso da máquina pública para promoção pessoal",
+    "description": "O Ministério Público investigou o prefeito Mário Hildebrandt e a vice-prefeita Maria Regina de Souza Soar por uso da estrutura oficial de comunicação para promoção pessoal. Foi constatado ato ilegal e celebrado Acordo de Não Persecução Cível. Para os demais investigados, não foram encontrados elementos de dolo. O caso foi arquivado.",
+    "status": "🟠 ACNP firmado",
+    "severity": "media"
+  },
+  {
+    "i": 87,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "🟡 em apuração",
+    "severity": "media"
+  },
+  {
+    "i": 88,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "🟡 em apuração",
+    "severity": "media"
+  },
+  {
+    "i": 89,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "🟡 em apuração",
+    "severity": "media"
+  },
+  {
+    "i": 90,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "🟡 em apuração",
+    "severity": "media"
+  },
+  {
+    "i": 91,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva investigação sobre drenagem pluvial em Blumenau por inviabilidade de intervenção judicial",
+    "description": "O Ministério Público investigou supostas irregularidades no sistema de drenagem pluvial das ruas Pedro Álvares Cabral e Maceió, em Blumenau. A municipalidade reconheceu a necessidade de obras complexas de macrodrenagem, incluídas no planejamento municipal. O caso foi arquivado por inviabilidade de intervenção judicial imediata.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 92,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva investigação sobre poluição sonora de academia em Blumenau",
+    "description": "O Ministério Público investigou possível poluição sonora na U Fit Academia Blumenau. Laudo técnico atestou níveis de pressão sonora dentro dos limites legais. Irregularidades documentais de alvará já estavam sendo tratadas pelo município. O caso foi arquivado por ausência de dano ambiental comprovado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 93,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva investigação sobre ocupação irregular de área pública em Blumenau após regularização",
+    "description": "O Ministério Público investigou a ocupação irregular de área pública municipal por José Vilmar dos Santos em Blumenau. O município realizou a regularização pela via administrativa, com edição do Decreto Municipal n. 16.506/2025, incluindo o particular em programa de alienação condicionada ao ressarcimento do erário. O caso foi arquivado por ausência de interesse de agir.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 94,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva investigação contra fiscal de obras de Blumenau por falta de provas",
+    "description": "O Ministério Público investigou possível ato de improbidade praticado pelo fiscal de obras e posturas Airton Valmor Nunes, de Blumenau. O caso foi arquivado por falta de conteúdo probatório.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 95,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "🟡 em apuração",
+    "severity": "media"
+  },
+  {
+    "i": 96,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva investigação sobre nepotismo na Secretaria de Trânsito de Blumenau",
+    "description": "O Ministério Público investigou suposto nepotismo na Secretaria Municipal de Trânsito e Transportes de Blumenau, envolvendo Sérgio Antônio Martinez Júnior e seu filho Fabiano Schmidt Martinez. Não foi evidenciada relação de subordinação entre os dois nem influência na nomeação. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 97,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "⚫ prescrito",
+    "severity": "media"
+  },
+  {
+    "i": 98,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP constata fraude em licitação de Blumenau, mas caso prescreve",
+    "description": "O Ministério Público investigou irregularidades no Pregão Presencial n. 06-015/2015, em que empresas Âncora Serviços, Samil Terraplanagem e BigPrint teriam utilizado pessoas jurídicas diversas para fraudar contratações com a administração pública, causando prejuízo ao erário. A fraude foi constatada, mas o caso foi atingido pela prescrição de cinco anos.",
+    "status": "⚫ prescrito",
+    "severity": "alta"
+  },
+  {
+    "i": 99,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "🟡 em apuração",
+    "severity": "media"
+  },
+  {
+    "i": 100,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva investigação sobre desvio de função no SAMAE de Blumenau",
+    "description": "O Ministério Público investigou possível desvio de função praticado por servidores do Serviço Autônomo de Água e Esgoto de Blumenau e irregularidades de empresas terceirizadas. O caso foi arquivado por falta de justa causa.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 101,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "❔ status indef.",
+    "severity": "media"
+  },
+  {
+    "i": 102,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva investigação sobre dano ambiental em Blumenau após regeneração natural",
+    "description": "O Ministério Público investigou possível dano ambiental em imóvel de André Luciano Heerdt e RR Incorporadora em Blumenau. A compensação ambiental foi cumprida, não houve interferência em APP e a vegetação está em regeneração natural. O lançamento irregular de esgoto segue sendo apurado em ação civil pública. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 103,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva investigação sobre licitação da Sincroslog em Blumenau",
+    "description": "O Ministério Público investigou possíveis irregularidades no Pregão Presencial n. 06-124/2013 e Contrato n. 181/2013 entre o Município de Blumenau e a Sincroslog. Direcionamento de licitação não foi comprovado e a fiscalização do contrato foi considerada adequada. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 104,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "🟡 em apuração",
+    "severity": "media"
+  },
+  {
+    "i": 105,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva investigação sobre horas extras a servidor em Blumenau",
+    "description": "O Ministério Público investigou irregularidades no pagamento de horas extraordinárias a Manoel Wilson Schneider, em Blumenau. Não foi constatado enriquecimento ilícito ou dolo específico em eventual dano ao erário. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 106,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 107,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP apura irregularidades em licitações de Blumenau e expede recomendação",
+    "description": "O Ministério Público investigou possíveis irregularidades nos Pregões Presenciais n. 198/2015 e n. 129/2017 e no Contrato n. 176/15 com a FEESC, em Blumenau. Foi expedida recomendação administrativa ao município para correção das irregularidades. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 108,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva investigação sobre cobrança de taxa de esgoto em Blumenau",
+    "description": "O Ministério Público investigou suposta ilegalidade na cobrança da taxa de esgoto pelo Loteamento Piske, em Blumenau, pela BRK Ambiental. Não foram encontrados elementos suficientes para propositura de ação civil pública. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 109,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "🟡 em apuração",
+    "severity": "media"
+  },
+  {
+    "i": 110,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva investigação sobre poluição sonora em obras em Blumenau",
+    "description": "O Ministério Público investigou suposta poluição sonora decorrente de obras de construção civil em Blumenau. Perícia técnica oficial atestou que as atividades não ultrapassavam os limites legais, e não foi constatada omissão do poder público. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 111,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva investigação sobre uso de sopradores na limpeza urbana de Blumenau",
+    "description": "O Ministério Público investigou possível poluição sonora decorrente do uso de sopradores e roçadeiras na limpeza urbana de Blumenau. O município adotou medidas mitigatórias e não foi constatada exposição habitual da população a níveis elevados de ruído. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 112,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "🟡 em apuração",
+    "severity": "media"
+  },
+  {
+    "i": 113,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva investigação sobre concurso público de Botuverá após constatar regularidade",
+    "description": "O Ministério Público investigou a necessidade de anulação de concurso público do Município de Botuverá, realizado pela Unifebe, por problema de impressão de provas. O problema atingiu todos os candidatos do mesmo cargo e foi resolvido a tempo, sem quebra de isonomia. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 114,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "🟡 em apuração",
+    "severity": "media"
+  },
+  {
+    "i": 115,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC com empreiteira por irregularidades em obra de pavimentação em Blumenau",
+    "description": "O Ministério Público investigou irregularidades na obra de pavimentação do acesso norte de Blumenau, contratada pela Secretaria de Infraestrutura do Estado. As sanções por improbidade estavam prescritas, mas foi celebrado Termo de Ajustamento de Conduta para devolução de valores. O caso foi arquivado.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 116,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva investigação contra fiscal de obras de Blumenau após mudança na lei",
+    "description": "O Ministério Público investigou possível ilegalidade cometida pelo fiscal de obras e posturas Murilo Rogério Campos, em Blumenau. A irregularidade não configurou ato de improbidade após a alteração da Lei de Improbidade em 2021. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 117,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "🟡 em apuração",
+    "severity": "media"
+  },
+  {
+    "i": 118,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva investigação sobre drenagem em condomínio de Blumenau após evento climático extremo",
+    "description": "O Ministério Público investigou supostas irregularidades no sistema de drenagem do empreendimento Ponta da Vila Parque, em Blumenau. Vistorias atestaram a regularidade das medidas e o licenciamento ambiental estava vigente. O dano foi atribuído a evento climático extremo caracterizado como força maior. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 119,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC para corrigir irregularidades em obra de escola em Blumenau",
+    "description": "O Ministério Público investigou irregularidades na execução do contrato de reforma e ampliação da E.B.M. Bilíngue Professor Oscar Unbehaun, em Blumenau, celebrado entre o município e a Empreiteira KJ Ltda. Foi celebrado Termo de Ajustamento de Conduta para correção das irregularidades. O caso foi arquivado.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 120,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC para corrigir irregularidades em obra de pavimentação de escola em Blumenau",
+    "description": "O Ministério Público investigou irregularidades na execução do contrato de pavimentação e ampliação da EBM Prof. Friedrich K. Kemmelmeier, em Blumenau. Foi celebrado Termo de Ajustamento de Conduta com o município e a Empreiteira KJ Ltda. para correção das irregularidades. O caso foi arquivado.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 121,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC para corrigir irregularidades em obra de quadra escolar em Blumenau",
+    "description": "O Ministério Público investigou irregularidades na fiscalização do contrato de construção de quadra coberta na EBM Bilíngue Prof. Rodolfo Hollenweger, em Blumenau. Foi celebrado Termo de Ajustamento de Conduta com o município e a Empreiteira KJ Ltda. O caso foi arquivado.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 122,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "🟡 em apuração",
+    "severity": "media"
+  },
+  {
+    "i": 123,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva investigação sobre estabelecimento comercial em Blumenau após encerramento das atividades",
+    "description": "O Ministério Público investigou perturbação do sossego e irregularidades urbanísticas em estabelecimento na Rua Alice Ferreira dos Santos, em Blumenau. As atividades comerciais foram encerradas e não foi constatado dano ambiental ou urbanístico. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 124,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "🟡 em apuração",
+    "severity": "media"
+  },
+  {
+    "i": 125,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva inquérito sobre esgoto irregular em Blumenau após ACPs contra proprietários",
+    "description": "O Ministério Público investigou irregularidade sanitária na Rua São Rafael, em Blumenau, com residências sem fossa e filtro. O problema foi sanado em parte das residências e foram ajuizadas Ações Civis Públicas contra os proprietários dos imóveis remanescentes. O inquérito civil foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 126,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP ajuíza ação para recuperação de dano ambiental por corte de vegetação em Blumenau",
+    "description": "O Ministério Público investigou corte de vegetação nativa e construção em área de preservação permanente em Blumenau. A recuperação ambiental foi realizada extrajudicialmente e foi ajuizada Ação Civil Pública para garantir a reparação do dano. O inquérito civil foi arquivado.",
+    "status": "🔴 ACP ajuizada",
+    "severity": "media"
+  },
+  {
+    "i": 127,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva investigação sobre licitação do transporte coletivo de Blumenau",
+    "description": "O Ministério Público investigou possíveis irregularidades nos processos licitatórios do sistema de transporte coletivo de Blumenau. Direcionamento de licitação não foi comprovado e não foram constatadas irregularidades nas exigências de frota nova e nos aditivos contratuais. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 128,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "🟡 em apuração",
+    "severity": "media"
+  },
+  {
+    "i": 129,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "🟡 em apuração",
+    "severity": "media"
+  },
+  {
+    "i": 130,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "❔ status indef.",
+    "severity": "media"
+  },
+  {
+    "i": 131,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "🟡 em apuração",
+    "severity": "media"
+  },
+  {
+    "i": 132,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva investigação sobre contrato de decoração natalina em Blumenau",
+    "description": "O Ministério Público investigou possíveis irregularidades no contrato de gestão entre o Município de Blumenau e a ABLUTEC para a decoração de Natal do evento Magia de Natal, em 2019. A minuta do contrato não chegou a ser firmada e não houve prejuízo ao erário. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 133,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "🟡 em apuração",
+    "severity": "media"
+  },
+  {
+    "i": 134,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP apura loteamento irregular em Gaspar e ação demolitória é ajuizada",
+    "description": "O Ministério Público investigou possível loteamento irregular na Rua Augusto Groh, em Gaspar. A recomendação ministerial foi acatada pela SAMAE e CELESC de Blumenau, e foi ajuizada ação demolitória. O inquérito civil foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 135,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "🟡 em apuração",
+    "severity": "media"
+  },
+  {
+    "i": 136,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "🟡 em apuração",
+    "severity": "media"
+  },
+  {
+    "i": 137,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "🟡 em apuração",
+    "severity": "media"
+  },
+  {
+    "i": 138,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva investigação sobre drenagem na Rua Júlio Michels em Blumenau",
+    "description": "O Ministério Público investigou supostas irregularidades na manutenção do sistema de drenagem pluvial da Rua Júlio Michels, em Blumenau. O município implementou medidas mitigadoras e não foi constatada omissão. O caso foi arquivado por ausência de pressupostos para ação civil pública.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 139,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva investigação sobre ruídos de oficina em Blumenau após laudo técnico",
+    "description": "O Ministério Público investigou emissão de ruídos pelo estabelecimento Vagner Racing Preparações, em Blumenau. Laudo sonométrico constatou níveis dentro dos limites permitidos. A perturbação do sossego já havia sido objeto de ação penal com condenação do responsável. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  }
+]

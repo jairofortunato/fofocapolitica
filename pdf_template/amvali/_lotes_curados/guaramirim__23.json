@@ -1,0 +1,407 @@
+[
+ {
+  "i": 1610,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 1611,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 1612,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP cobra e Guaramirim contrata apoio para aluna com síndrome de Down",
+  "description": "O Ministério Público apurou a falta de profissional de apoio, o chamado segundo professor, na turma de uma criança com síndrome de Down matriculada em Guaramirim. Durante o procedimento o município contratou o profissional e a situação foi superada. O MP arquivou o caso em junho de 2026.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 1613,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou demora na entrega de fraldas geriátricas em Guaramirim",
+  "description": "O Ministério Público instaurou Notícia de Fato para apurar a suposta ausência ou morosidade na disponibilização de fraldas geriátricas. O extrato publicado no Diário Oficial está truncado e não informa o resultado da apuração nem quem seria o responsável pelo fornecimento. O desfecho, portanto, não pode ser afirmado.",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 1614,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Guaramirim designou apoio a aluno com autismo e TDAH após apuração do MP",
+  "description": "O Ministério Público apurou a ausência de profissional de apoio ou segundo professor na turma de uma criança diagnosticada com transtorno do espectro autista e TDAH em Guaramirim. Segundo o extrato, o município regularizou a situação depois, designando um profissional para acompanhar o aluno. O procedimento foi concluído em junho de 2026.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 1615,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 1616,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 1617,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 1618,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 0,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 1,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 2,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE condena ex-prefeito de Guaramirim a devolver R$ 2,1 mil por férias pagas em dobro",
+  "description": "O Tribunal de Contas julgou irregular a Tomada de Contas Especial sobre a não concessão de férias no prazo legal ao servidor José Safanelli, no período 2011/2012, o que obrigou o município a pagar as férias em dobro. Nilson Bylaardt, prefeito de Guaramirim entre 2009 e 2012, foi condenado a devolver R$ 2.116,11 aos cofres municipais. As sanções relativas a períodos anteriores, que envolviam também Mário Sérgio Peixer, foram consideradas prescritas. O TCE ainda recomendou à Prefeitura planejar melhor as férias dos servidores. Cabia recurso da decisão.",
+  "status": "⬛ julgado irregular",
+  "severity": "media"
+ },
+ {
+  "i": 3,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE multa ex-prefeito de Guaramirim por descumprir ordens sobre bens públicos sumidos",
+  "description": "O Tribunal de Contas aplicou multa de R$ 3.500 ao ex-prefeito Luís Antônio Chiodini por reincidir no descumprimento de determinação da Corte, feita desde 2017 e repetida em 2019 e 2022. A ordem era identificar, localizar e apurar responsabilidades pelos bens públicos móveis que equipavam o Parque Municipal de Eventos Pedro Manoel de Aguiar e por bens cedidos a duas entidades locais. O TCE deu 60 dias ao então prefeito Osvaldo Devigili para cumprir a determinação, sob pena de multa diária. Chiodini recorreu e os efeitos da multa foram depois suspensos até o julgamento do recurso.",
+  "status": "🔴 multa aplicada",
+  "severity": "alta"
+ },
+ {
+  "i": 4,
+  "tipo": "tce",
+  "keep": true,
+  "title": "Ex-prefeito recorre e cobrança das férias pagas em dobro fica suspensa no TCE",
+  "description": "Nilson Bylaardt entrou com Recurso de Reconsideração contra o acórdão que o condenou a devolver R$ 2.116,11 pelo pagamento em dobro de férias de um servidor. O recurso foi conhecido pelo Tribunal de Contas e, por ter efeito suspensivo, travou a cobrança em relação ao ex-prefeito. O mérito do recurso ainda não havia sido julgado.",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 5,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 6,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE cobra explicações do prefeito de Guaramirim sobre licitação da água e do esgoto",
+  "description": "A empresa EBS representou ao Tribunal de Contas contra a Concorrência 071/2023, que contrataria serviços de engenharia para operar e ampliar o sistema de água e esgoto de Guaramirim. O TCE converteu a apuração em representação e determinou oitiva e audiência do prefeito Osvaldo Devigili, que assinou o edital, por suposto descumprimento do prazo mínimo de 25 dias úteis entre a publicação e a entrega das propostas, irregularidade que pode gerar multa. A decisão sobre suspender a licitação foi adiada para depois da defesa.",
+  "status": "🟡 em instrução (citação/audiência)",
+  "severity": "media"
+ },
+ {
+  "i": 7,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE julga improcedente contestação à licitação da água em Guaramirim",
+  "description": "No mérito, o Tribunal de Contas considerou improcedente a representação da empresa EBS contra a Concorrência 071/2023, de operação do sistema de água e esgoto, e indeferiu o pedido de suspensão do certame. Ainda assim, recomendou à Prefeitura que, em licitações futuras do mesmo tipo, não exija motivação prévia para recorrer e verifique se os preços contratados são compatíveis com o mercado. O TCE também determinou que o município mantenha o Portal da Transparência atualizado, com todas as licitações e os dados da Concorrência 071/2023.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 8,
+  "tipo": "tce",
+  "keep": true,
+  "title": "Guaramirim anula concorrência de concessão de serviços e TCE encerra a apuração",
+  "description": "O Tribunal de Contas apurava possíveis irregularidades na Concorrência Pública 196/2022, que trataria da concessão de serviços públicos do município. Como a Prefeitura anulou o certame, o processo perdeu o objeto e foi arquivado, sem análise de mérito. Os autos foram vinculados ao processo que acompanha a concessão de água e esgoto de Guaramirim.",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 9,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 10,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE manda Guaramirim checar contrato sem licitação para mosaico em muro de rua",
+  "description": "O Tribunal de Contas examinou a Inexigibilidade de Licitação 51/2022, que contratou serviço de revestimento de mosaico no muro da Rua Athanásio Rosa. O caso foi arquivado por não atingir a pontuação mínima de seletividade, mas o TCE notificou o prefeito e o controle interno para apurar se realmente havia carta de exclusividade no processo e para avaliar a suspensão do contrato, diante da possível falta da composição dos custos unitários.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 11,
+  "tipo": "tce",
+  "keep": true,
+  "title": "Denúncia sobre dispensa de licitação no Hospital de Guaramirim é repassada ao controle interno",
+  "description": "Uma comunicação à Ouvidoria do Tribunal de Contas apontava supostas irregularidades em dispensa de licitação envolvendo a Prefeitura de Guaramirim e o Hospital Municipal Santo Antônio. O caso somou apenas 2 pontos na matriz de seletividade e foi arquivado sem análise de mérito. O TCE recomendou que os controles internos dos dois órgãos apurem o que foi noticiado e lembrou que a Lei Orgânica do município proíbe contratar com servidores públicos.",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 12,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 13,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 14,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE julga improcedente representação da CPI da Câmara sobre obra de rua em Guaramirim",
+  "description": "A Câmara de Vereadores enviou ao Tribunal de Contas o relatório da CPI 001/2020, que apontava supostas irregularidades nas obras de ligação entre a BR-280 e a Rua 28 de Agosto, conhecida como a rua ao lado do supermercado Koch. O TCE analisou o caso e considerou a representação improcedente no mérito, arquivando os autos em 2022. Ninguém foi responsabilizado.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 15,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 16,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE multa prefeito de Guaramirim por contrato sem licitação com fundação da Unisul",
+  "description": "Inspeção do Tribunal de Contas considerou irregular a contratação da Faepesul, fundação ligada à Unisul, por dispensa de licitação (Dispensa 134/2018, Contrato 41/2018), porque os serviços de estudo e diagnóstico de despesas de pessoal não se enquadram no conceito de desenvolvimento institucional que autoriza dispensar a licitação. O TCE também considerou irregulares a ausência de orçamento detalhado dos custos e o pagamento à fundação sem comprovação da efetiva execução dos serviços. O prefeito Luís Antônio Chiodini foi multado em R$ 2.786,84.",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta"
+ },
+ {
+  "i": 17,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 18,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE orienta Guaramirim a corrigir o planejamento da concessão de água e esgoto",
+  "description": "O Tribunal de Contas analisou a fase interna e o planejamento da concessão comum dos serviços de abastecimento de água e esgotamento sanitário do município. O relator recomendou ao prefeito Luís Antônio Chiodini que adote providências para atender às orientações técnicas da Corte, e o Ministério Público de Contas defendeu determinação no mesmo sentido. É um acompanhamento prévio, sem julgamento de irregularidade até aqui.",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 19,
+  "tipo": "tce",
+  "keep": true,
+  "title": "Multa de R$ 3,5 mil a ex-prefeito de Guaramirim fica suspensa enquanto TCE julga recurso",
+  "description": "Luís Antônio Chiodini apresentou Recurso de Reexame contra o Acórdão 313/2023, que lhe aplicou multa por descumprir determinações do Tribunal de Contas. O relator conheceu o recurso e, como esse tipo de recurso tem efeito suspensivo, suspendeu os efeitos da multa em relação ao ex-prefeito. Os autos voltaram à diretoria de recursos para análise do mérito, ainda sem decisão final.",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 20,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 21,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 22,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 23,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 24,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 25,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta pagamentos irregulares de gratificação a servidor da Educação de Guaramirim",
+  "description": "A partir de denúncia, o Tribunal de Contas considerou irregulares dois pagamentos feitos pela Prefeitura ao servidor Rennan Neves Souza Santos: a gratificação de regência de classe (30%), porque ele não atuava em sala de aula, e o auxílio-transporte (5%), porque não trabalhava em escolas municipais. Ambos contrariam o Estatuto do Magistério municipal. O TCE alertou a Prefeitura e a Secretaria de Educação a não repetirem pagamentos desse tipo, sob pena de responsabilidade, e arquivou o processo em fevereiro de 2026, sem multa nem ordem de devolução.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 26,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 27,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE rejeita denúncia de obra duplicada em escola de Guaramirim",
+  "description": "Uma denúncia anônima à Ouvidoria acusava a Concorrência Eletrônica 92/2025 de repetir serviços em uma escola recém-inaugurada. A análise técnica concluiu que o objeto da licitação é a ampliação da unidade escolar, sem sobreposição de objetos, duplicidade de despesas ou conserto de falhas da obra anterior, e o Tribunal julgou a denúncia improcedente. Mesmo assim, recomendou à Prefeitura uma série de melhorias no recebimento e na fiscalização de obras públicas, e arquivou os autos.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 28,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE cancela multa a prefeito de Guaramirim, mas segue cobrando bens do Parque de Eventos",
+  "description": "O Tribunal de Contas deu provimento ao recurso de Luís Antônio Chiodini e cancelou a multa que havia sido aplicada no Acórdão 626/2020. Ao mesmo tempo, reiterou o prazo de 60 dias para que a Prefeitura identifique, localize e apure responsabilidades pelos bens públicos móveis que equipavam o Parque Municipal de Eventos Pedro Manoel de Aguiar, além de bens cedidos a uma sociedade esportiva e a uma associação de moradores. A cobrança sobre esses bens continuou em aberto.",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 29,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 30,
+  "tipo": "tce",
+  "keep": true,
+  "title": "Obra de pavimentação com verba federal em Guaramirim é apurada pelo controle interno",
+  "description": "Uma comunicação à Ouvidoria do Tribunal de Contas apontou supostas irregularidades na execução do Contrato 089/2021, de pavimentação das ruas Carlos Dencker, Luciano João Dias, Rosa Xavier e Wilhelmine Hardt, obra com recursos federais repassados pela Caixa Econômica Federal. O TCE não selecionou o caso para análise própria e arquivou os autos, mas enviou cópia ao controle interno do município para acompanhar o processo administrativo que a própria Prefeitura já havia instaurado sobre a obra.",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 31,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE cobra Guaramirim por metas não cumpridas do Plano Municipal de Educação",
+  "description": "No primeiro monitoramento da auditoria sobre o Plano Municipal de Educação, o Tribunal de Contas reconheceu como cumpridas várias determinações, como compatibilizar o orçamento com o plano, divulgar as avaliações e garantir vagas para crianças de 4 e 5 anos. Ficaram como não cumpridas a oferta de vagas em creche para pelo menos metade das crianças de 0 a 3 anos, a garantia de vagas no ensino fundamental para toda a população de 6 a 14 anos, a busca ativa de quem está fora da escola e a adequação da lei municipal para a gestão democrática do ensino.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 32,
+  "tipo": "tce",
+  "keep": true,
+  "title": "Guaramirim ainda não garante vagas em creche, conclui monitoramento final do TCE",
+  "description": "No segundo e último monitoramento da auditoria sobre o Plano Municipal de Educação, o Tribunal de Contas considerou cumpridas quase todas as determinações feitas em 2019, incluindo busca ativa de alunos, concurso para o magistério e vagas no ensino fundamental. Continuou não cumprida a oferta de vagas na educação infantil para ao menos 50% das crianças de 0 a 3 anos, e apenas parcialmente atendida a ampliação da jornada escolar. O prefeito à época era Osvaldo Devigili.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 33,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 34,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 35,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ }
+]

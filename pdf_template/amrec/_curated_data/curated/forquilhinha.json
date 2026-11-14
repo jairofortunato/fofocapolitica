@@ -1,0 +1,419 @@
+{
+ "mp": [
+  {
+   "ref": "06.2023.00003987-1",
+   "cidade": "Forquilhinha",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou denúncia de concurso suspenso por motivo político na Câmara de Forquilhinha",
+   "description": "O Ministério Público investigou suspeita de que um concurso público na Câmara de Vereadores de Forquilhinha teria sido suspenso por motivação política, além de cargos ocupados fora das regras constitucionais. A apuração concluiu que o concurso foi realizado normalmente, com servidores efetivos, sem indícios de irregularidade. Caso arquivado por falta de provas.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2024.00001712-6",
+   "cidade": "Forquilhinha",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou uso de verba pública por associação em Forquilhinha, mas caso prescreveu",
+   "description": "O Ministério Público investigou possíveis irregularidades na aplicação de recursos públicos pela Associação de Clubes de Mães de Forquilhinha, na gestão de 2011 a 2017. A apuração não encontrou indícios de dolo ou intenção de lesar o patrimônio público, e o caso foi arquivado porque o prazo para punição já havia prescrito.",
+   "severity": "media",
+   "status": "⚫ prescrito"
+  },
+  {
+   "ref": "06.2020.00001420-2",
+   "cidade": "Forquilhinha",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP checou se servidora da fundação ambiental de Forquilhinha entrou sem concurso",
+   "description": "O Ministério Público apurou denúncia de que uma servidora da Fundação Ambiental Municipal de Forquilhinha não teria feito concurso público, apesar de constar como efetiva no Portal da Transparência. As diligências confirmaram que ela foi aprovada em concurso regular para engenheira sanitarista. Caso arquivado.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2020.00002780-8",
+   "cidade": "Forquilhinha",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou desmatamento e uso de máquinas públicas em obras particulares em Forquilhinha",
+   "description": "O Ministério Público apurou denúncia de desmatamento de vegetação nativa, alteração do curso de um rio e possível uso de máquinas e funcionários da prefeitura em obras particulares. A Polícia Militar Ambiental não encontrou área de preservação afetada nem comprovou o uso irregular de recursos públicos. Caso arquivado.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2019.00003655-1",
+   "cidade": "Forquilhinha",
+   "tipo": "mp",
+   "keep": true,
+   "title": "Doação de terreno feita pelo ex-prefeito de Forquilhinha é investigada e arquivada",
+   "description": "O Ministério Público apurou um termo de doação assinado em 2012 pelo então prefeito de Forquilhinha, Vanderlei Alexandre, que obrigava o município a construir cinco ruas até 2013 sob pena de indenizar o doador. A Justiça julgou improcedente o pedido de indenização e anulou a doação, sem prejuízo aos cofres públicos. Caso arquivado por prescrição.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2021.00001291-9",
+   "cidade": "Forquilhinha",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou acúmulo indevido de cargos por motoristas do SAMU em Forquilhinha",
+   "description": "O Ministério Público investigou se motoristas do SAMU em Forquilhinha acumulavam cargos públicos de forma irregular. Os servidores foram exonerados durante a apuração, encerrando a situação. Caso arquivado.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2023.00003886-1",
+   "cidade": "Forquilhinha",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investiga se licitação de saúde foi direcionada para favorecer empresa em Forquilhinha",
+   "description": "O Ministério Público apura se a Prefeitura de Forquilhinha e o consórcio CIM-AMREC exigiram critérios técnicos exagerados em um pregão de 2022 para direcionar a contratação ao Instituto Harmone. O caso ainda está em apuração.",
+   "severity": "alta"
+  },
+  {
+   "ref": "06.2020.00002521-0",
+   "cidade": "Forquilhinha",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou suspeita de nepotismo na prefeitura de Forquilhinha envolvendo parentes do prefeito",
+   "description": "O Ministério Público investigou a contratação de um filho como estagiário e do cônjuge da sobrinha do então prefeito Dimas Kammer para chefia de uma oficina municipal. A apuração não encontrou dolo nem prejuízo ao erário, e as irregularidades foram corrigidas pela prefeitura. Caso arquivado.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2019.00002528-7",
+   "cidade": "Forquilhinha",
+   "tipo": "mp",
+   "keep": false,
+   "title": "MP mediou reclamação sobre barulho de igreja evangélica em Forquilhinha",
+   "description": "O Ministério Público atuou para que uma igreja evangélica em Forquilhinha se adequasse aos limites de ruído previstos em lei, além de corrigir uma lei municipal que contrariava a norma federal sobre poluição sonora. A igreja se ajustou e a lei foi alterada. Caso arquivado.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2020.00000272-8",
+   "cidade": "Forquilhinha",
+   "tipo": "mp",
+   "keep": false,
+   "title": "MP verificou pavimentação pendente em loteamento de Forquilhinha",
+   "description": "O Ministério Público apurou se um loteamento em Forquilhinha deveria ter pavimentado uma rua antes de ser aprovado, mas concluiu que pavimentar vias é decisão discricionária da prefeitura e não houve irregularidade. Caso arquivado.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2021.00001296-3",
+   "cidade": "Forquilhinha",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura possível desvio de função de servidor em Forquilhinha",
+   "description": "O Ministério Público investiga uma denúncia anônima sobre suposto desvio de função de um servidor público da Prefeitura de Forquilhinha. O registro disponível está incompleto e não informa a conclusão do caso.",
+   "severity": "media"
+  },
+  {
+   "ref": "01.2023.00048356-6",
+   "cidade": "Forquilhinha",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP pressiona Forquilhinha por agentes sanitários contratados sem concurso",
+   "description": "O Ministério Público apura irregularidades no aumento da carga horária dos Agentes Sanitários de Forquilhinha e na contratação da maioria deles sem concurso público, situação apontada como recorrente no município. Uma recomendação já foi enviada à prefeitura, que ainda não respondeu, e o MP pode entrar com ação civil pública se a situação não for corrigida.",
+   "severity": "alta",
+   "status": "🟡 em apuração"
+  },
+  {
+   "ref": "06.2015.00004624-4",
+   "cidade": "Forquilhinha",
+   "tipo": "mp",
+   "keep": false,
+   "title": "MP move ações sobre catadores de recicláveis em situação irregular em Forquilhinha",
+   "description": "O Ministério Público apurou o descarte irregular de resíduos por catadores de materiais recicláveis em Forquilhinha, com impacto ambiental e sanitário. Identificados catadores em situação irregular, o caso foi encerrado com o ajuizamento de duas ações civis públicas.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2024.00002153-0",
+   "cidade": "Forquilhinha",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP confirma plágio de provas em concurso público de Forquilhinha e pede anulação",
+   "description": "O Ministério Público comprovou que a banca organizadora IPPEC repetiu questões de conhecimento específico para o cargo de Engenheiro Civil no Concurso Público 001/2024 de Forquilhinha. O MP pediu à Justiça a suspensão imediata das etapas do concurso para esse cargo e a anulação da prova, com nova data a ser marcada.",
+   "severity": "alta"
+  },
+  {
+   "ref": "06.2019.00004063-3",
+   "cidade": "Forquilhinha",
+   "tipo": "mp",
+   "keep": false,
+   "title": "MP verificou reserva legal de imóvel particular em Forquilhinha",
+   "description": "O Ministério Público apurou por que a reserva legal de um imóvel particular em Forquilhinha não havia sido registrada. Concluiu que a área já estava sem vegetação nativa antes da lei ambiental atual, sendo válido o registro de reserva legal zero. Caso arquivado.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2020.00002897-3",
+   "cidade": "Forquilhinha",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou irregularidades na prestação de contas de Forquilhinha de 2017",
+   "description": "O Ministério Público investigou irregularidades na prestação de contas da Prefeitura de Forquilhinha referente a 2017. A prefeitura corrigiu os problemas apontados e não houve prejuízo aos cofres públicos. Caso arquivado.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2019.00005741-3",
+   "cidade": "Forquilhinha",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP flagrou uso de ponto automático para driblar carga horária na Secretaria de Agricultura",
+   "description": "O Ministério Público apurou que servidores da Secretaria de Agricultura de Forquilhinha se aproveitavam do registro de ponto automático para não cumprir a carga horária integral. A prefeitura corrigiu a situação e não houve prejuízo ao erário. Caso arquivado.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2019.00004041-1",
+   "cidade": "Forquilhinha",
+   "tipo": "mp",
+   "keep": false,
+   "title": "MP verificou reserva legal de outro imóvel particular em Forquilhinha",
+   "description": "O Ministério Público apurou por que a reserva legal de um imóvel particular em Forquilhinha não havia sido registrada, concluindo que já estava sem vegetação nativa antes da lei ambiental vigente. Caso arquivado sem irregularidade.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2019.00004066-6",
+   "cidade": "Forquilhinha",
+   "tipo": "mp",
+   "keep": false,
+   "title": "MP verificou reserva legal de imóvel de empresa em Forquilhinha",
+   "description": "O Ministério Público apurou a ausência de registro de reserva legal em imóvel de uma empresa em Forquilhinha, concluindo que a área já estava sem vegetação nativa antes da lei ambiental vigente. Caso arquivado sem irregularidade.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2019.00004284-2",
+   "cidade": "Forquilhinha",
+   "tipo": "mp",
+   "keep": false,
+   "title": "MP verificou reserva legal de mais um imóvel particular em Forquilhinha",
+   "description": "O Ministério Público apurou a ausência de registro de reserva legal em outro imóvel particular em Forquilhinha, concluindo que já estava sem vegetação nativa antes da lei ambiental vigente. Caso arquivado sem irregularidade.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2022.00001656-3",
+   "cidade": "Forquilhinha",
+   "tipo": "mp",
+   "keep": true,
+   "title": "Justiça obriga Forquilhinha a licitar linhas de ônibus após falta de horários",
+   "description": "O Ministério Público apurou a insuficiência de horários de ônibus em Forquilhinha e constatou que já havia uma ação civil pública obrigando a prefeitura a licitar a concessão das linhas de transporte coletivo. A Justiça julgou o pedido procedente e agora corre um processo para garantir o cumprimento da decisão. Caso do MP arquivado por já estar resolvido na esfera judicial.",
+   "severity": "media",
+   "status": "🔴 ACP ajuizada"
+  },
+  {
+   "ref": "06.2020.00004616-0",
+   "cidade": "Forquilhinha",
+   "tipo": "mp",
+   "keep": false,
+   "title": "MP verificou licenciamento ambiental de cooperativas de energia em Forquilhinha",
+   "description": "O Ministério Público checou se as cooperativas de energia elétrica Coopera e Cersul tinham licenciamento ambiental em dia em Forquilhinha e constatou que as licenças estavam regulares. Caso arquivado sem irregularidade.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2020.00002689-7",
+   "cidade": "Forquilhinha",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP aponta inconstitucionalidade na criação de cargos de procurador em Forquilhinha",
+   "description": "O Ministério Público apurou a criação, por lei municipal, dos cargos comissionados de Procurador Geral e Procurador Adjunto em Forquilhinha e constatou que a lei era inconstitucional. Uma ação direta de inconstitucionalidade chegou a ser ajuizada por outra entidade, mas o caso perdeu o objeto e foi encerrado.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2022.00001158-0",
+   "cidade": "Forquilhinha",
+   "tipo": "mp",
+   "keep": false,
+   "title": "MP verificou suposto dano ambiental de empresa de materiais de construção em Forquilhinha",
+   "description": "O Ministério Público apurou denúncia de dano ambiental causado por uma empresa de materiais de construção em Forquilhinha, mas concluiu que não houve dano após as medidas adotadas pela empresa. Caso arquivado.",
+   "severity": "media"
+  },
+  {
+   "ref": "01.2024.00012751-0",
+   "cidade": "Forquilhinha",
+   "tipo": "mp",
+   "keep": false,
+   "title": "MP arquiva notícia sem fato concreto contra a prefeitura de Forquilhinha",
+   "description": "O Ministério Público recebeu uma notícia de fato contra a Prefeitura de Forquilhinha, mas encerrou o caso por falta de fato concreto que justificasse abrir uma investigação.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2020.00002941-7",
+   "cidade": "Forquilhinha",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou alteração de lei entre publicação e republicação em Forquilhinha",
+   "description": "O Ministério Público investigou por que uma lei municipal de Forquilhinha teve seu texto alterado entre a publicação e uma republicação posterior, envolvendo o então prefeito Dimas Kammer. A apuração não encontrou provas de má-fé, apenas uma irregularidade sem dolo comprovado. Caso arquivado.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2024.00001272-0",
+   "cidade": "Forquilhinha",
+   "tipo": "mp",
+   "keep": true,
+   "title": "Empresa é flagrada derrubando mata atlântica em loteamentos de Forquilhinha e fecha acordo",
+   "description": "O Ministério Público apurou o corte ilegal de vegetação da Mata Atlântica por uma imobiliária durante a implantação de loteamentos em Forquilhinha, em áreas de quase 3.600 m² e 2.000 m². Órgãos ambientais já haviam autuado e embargado as obras. A empresa fechou um acordo de reparação do dano, vinculado a um acordo firmado também na esfera criminal.",
+   "severity": "alta"
+  }
+ ],
+ "tce": [
+  {
+   "ref": "REC 24/00582240",
+   "cidade": "Forquilhinha",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE susta contrato de advocacia por royalties em Forquilhinha e ouve o prefeito",
+   "description": "O Tribunal de Contas determinou cautelarmente a sustação de todos os atos do Contrato n. 140/PMF/2022, inclusive os pagamentos, firmado sem licitação pela Prefeitura de Forquilhinha com o escritório Cordeiro, Laranjeiras e Maia Advogados para tentar aumentar o repasse de royalties da ANP. O TCE apontou três problemas: falta de singularidade no objeto, remuneração fixada como percentual sobre o que o município ganhasse (cláusula quota litis) e ausência de justificativa de preço. Foram chamados a se explicar o prefeito José Cláudio Gonçalves e o advogado Luiz Otávio Laranjeiras Lins.",
+   "severity": "media",
+   "status": "🟠 cautelar / sustação"
+  },
+  {
+   "ref": "LCC 23/00053300",
+   "cidade": "Forquilhinha",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE susta compra de livros de robótica em Forquilhinha e ouve o prefeito",
+   "description": "O Tribunal de Contas determinou cautelarmente ao prefeito de Forquilhinha, José Cláudio Gonçalves, a sustação do Pregão Presencial n. 07/PMF/2023, que registraria preços para a compra de livros de robótica educacional para a rede municipal. Segundo a decisão, a especificação técnica no termo de referência não correspondia aos modelos pesquisados e faltava memória de cálculo para as quantidades a adquirir. O prefeito, que assinou o edital e o termo de referência, foi chamado a apresentar justificativas em 30 dias.",
+   "severity": "media",
+   "status": "🟠 cautelar / sustação"
+  },
+  {
+   "ref": "REP 21/00102235",
+   "cidade": "Forquilhinha",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multa prefeito de Forquilhinha por cláusula restritiva em pregão de pneus",
+   "description": "O Tribunal de Contas considerou procedente a representação contra o Pregão Presencial n. 013/PMF/2021 e declarou o edital ilegal: exigir que o produto tivesse prazo de fabricação de no máximo seis meses, sem justificativa, restringia a participação de licitantes. O TCE aplicou ao prefeito José Cláudio Gonçalves, subscritor do edital, duas multas: R$ 1.684,66 pela cláusula restritiva e R$ 2.000,00 por ter descumprido determinação anterior do próprio tribunal. A prefeitura também foi proibida de repetir a exigência em futuras compras de pneus.",
+   "severity": "alta",
+   "status": "🔴 multa aplicada"
+  },
+  {
+   "ref": "LCC 23/00053300",
+   "cidade": "Forquilhinha",
+   "tipo": "tce",
+   "keep": true,
+   "title": "Nova decisão do TCE mantém sustação da compra de livros em Forquilhinha",
+   "description": "Em nova etapa do mesmo caso, o Tribunal de Contas manteve a sustação cautelar do Pregão Presencial n. 07/PMF/2023 da Prefeitura de Forquilhinha, para compra de livros de robótica educacional, pelas mesmas falhas: especificação técnica descolada dos modelos pesquisados e ausência de memória de cálculo das quantidades. O prefeito José Cláudio Gonçalves foi chamado a apresentar justificativas; também aparecem no registro Ander Luiz Warmling e Jadna Colombo Pereira.",
+   "severity": "media",
+   "status": "🟠 cautelar / sustação"
+  },
+  {
+   "ref": "RLI 23/00297528",
+   "cidade": "Forquilhinha",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva caso de concorrência em Forquilhinha após prefeitura anular licitação",
+   "description": "A representação sobre supostas irregularidades na Concorrência Pública n. 91/PMF/2023 da Prefeitura de Forquilhinha, de R$ 1.587.132,14, perdeu o objeto: a prefeitura fez o distrato do contrato antes de qualquer execução e depois anulou a própria licitação. O Tribunal de Contas reconheceu a perda do objeto e determinou o arquivamento. Ninguém foi responsabilizado nem multado.",
+   "severity": "media",
+   "status": "🟢 julgado regular"
+  },
+  {
+   "ref": "RLI 23/00297447",
+   "cidade": "Forquilhinha",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE apura exigência de certidão do CREA em licitações de obras em Forquilhinha",
+   "description": "O Tribunal de Contas apura a Tomada de Preços n. 134/PMF/2023 e a Concorrência n. 133/PMF/2023 da Prefeitura de Forquilhinha, que somam cerca de R$ 1,5 milhão. O ponto questionado é a inabilitação de vários licitantes por não apresentarem certidão de quitação junto ao conselho profissional, exigência que a área técnica considera extrapolar a Lei 8.666/93. O material disponível traz apenas a sugestão dos auditores, não a decisão do relator — o desfecho não está publicado.",
+   "severity": "media",
+   "status": "❔ em tramitação"
+  },
+  {
+   "ref": "PAP 23/80037609",
+   "cidade": "Forquilhinha",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE julga improcedente denúncia contra pregão da Prefeitura de Forquilhinha",
+   "description": "A empresa Regis Comercial representou ao Tribunal de Contas contra o Pregão Presencial n. 53/PMF/2023 da Prefeitura de Forquilhinha. A prefeitura corrigiu a tempo as questões sobre cotas para microempresas e critério de julgamento, e o TCE julgou improcedente o ponto que restava — a ocultação do orçamento estimado até a fase de lances —, por estar de acordo com a Lei 14.133/2021. O pedido de medida cautelar foi declarado prejudicado e o processo, arquivado, com recomendação de maior transparência nos preços de referência.",
+   "severity": "media",
+   "status": "🟢 julgado regular"
+  },
+  {
+   "ref": "REP 25/00047711",
+   "cidade": "Forquilhinha",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE nega cautelar e julga improcedente denúncia sobre licitação da saúde em Forquilhinha",
+   "description": "O Tribunal de Contas conheceu a representação sobre o Edital de Concorrência Eletrônica n. 01/FMS/2025, do Fundo Municipal de Saúde de Forquilhinha, e, no mérito, julgou-a improcedente. O pedido de medida cautelar foi negado por não estarem presentes os requisitos exigidos. O processo foi arquivado sem responsabilizar ninguém.",
+   "severity": "media",
+   "status": "🟢 julgado regular"
+  },
+  {
+   "ref": "PAP 23/80012290",
+   "cidade": "Forquilhinha",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva sem análise apuração sobre pregão de R$ 1 milhão em Forquilhinha",
+   "description": "O Tribunal de Contas arquivou o procedimento apuratório preliminar sobre supostas irregularidades no Pregão Presencial n. 227/PMF/2022 da Prefeitura de Forquilhinha, de R$ 1.000.000,00, por não atender às condições prévias de seletividade — ou seja, o caso não chegou a ser examinado no mérito. Nenhuma irregularidade foi confirmada e ninguém foi responsabilizado.",
+   "severity": "media",
+   "status": "🟢 julgado regular"
+  },
+  {
+   "ref": "REP 23/80122045",
+   "cidade": "Forquilhinha",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva caso de licitações de obras em Forquilhinha após revogação dos editais",
+   "description": "O Tribunal de Contas reconheceu a perda do objeto da representação sobre a Tomada de Preços n. 134/PMF/2023 e a Concorrência n. 133/PMF/2023 da Prefeitura de Forquilhinha, porque os dois certames foram revogados. O processo foi arquivado, com duas recomendações: que a prefeitura anule, em vez de revogar, editais com irregularidades, e que não volte a exigir quitação de anuidade no CREA como condição de habilitação. Ninguém foi responsabilizado.",
+   "severity": "media",
+   "status": "🟢 julgado regular"
+  },
+  {
+   "ref": "PAP 23/80083473",
+   "cidade": "Forquilhinha",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE apura suspeita de irregularidade em concorrência de R$ 1,5 mi em Forquilhinha",
+   "description": "O Tribunal de Contas apura possíveis irregularidades na Concorrência Pública n. 91/PMF/2023, aberta pela Prefeitura de Forquilhinha, no valor de R$ 1.587.132,14. O relator é o conselheiro Aderson Flores. Não há decisão publicada neste registro: nada foi confirmado nem afastado.",
+   "severity": "media",
+   "status": "❔ em tramitação"
+  },
+  {
+   "ref": "APE 21/00047110",
+   "cidade": "Forquilhinha",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE rejeita recurso de construtora sobre concorrência já anulada em Forquilhinha",
+   "description": "O Tribunal de Contas não conheceu os embargos de declaração apresentados pela Prosud Construtora contra decisão no caso da Concorrência Pública n. 91/PMF/2023, de Forquilhinha, por entender que a empresa que representa não tem legitimidade para recorrer. Além disso, o recurso perdeu sentido: a prefeitura já havia anulado o certame e feito o distrato do contrato. O processo foi arquivado sem que ninguém fosse responsabilizado.",
+   "severity": "media",
+   "status": "🟢 julgado regular"
+  },
+  {
+   "ref": "CON 22/00365190",
+   "cidade": "Forquilhinha",
+   "tipo": "tce",
+   "keep": false,
+   "title": "TCE responde consulta de Forquilhinha sobre prioridade a empresas locais em licitações",
+   "description": "A Prefeitura de Forquilhinha fez uma consulta ao Tribunal de Contas sobre como aplicar a prioridade de contratação de empresas locais e regionais prevista em lei federal. Não há indicação de irregularidade, apenas orientação técnica.",
+   "severity": "media"
+  },
+  {
+   "ref": "REP 25/00202113",
+   "cidade": "Forquilhinha",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE não vê indício de irregularidade em reforma de R$ 12,8 mi da saúde de Forquilhinha",
+   "description": "O Tribunal de Contas decidiu não conhecer a representação sobre a Concorrência Eletrônica n. 20/FMS/2025, do Fundo Municipal de Saúde de Forquilhinha, referente a uma reforma de R$ 12.792.495,58. A decisão aponta inexistência de indícios de irregularidades e ausência de comprovação de que a empresa tenha procurado antes a própria administração. O processo foi arquivado.",
+   "severity": "media",
+   "status": "🟢 julgado regular"
+  },
+  {
+   "ref": "APE 21/00349206",
+   "cidade": "Forquilhinha",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE analisa obra do Anel Viário Sul de R$ 7 milhões que liga Forquilhinha a Garopaba",
+   "description": "O Tribunal de Contas tem em análise a construção da etapa II do Anel Viário Sul, com 2.440 metros, ligando Forquilhinha a Garopaba, com valores que somam mais de R$ 7 milhões. O registro do TCE mistura este objeto com um ato de aposentadoria e um recurso de outro processo, e a decisão publicada junto ao caso trata de uma tomada de contas do município de Garopaba, sem relação com a obra. Não é possível afirmar qual foi o desfecho para Forquilhinha.",
+   "severity": "media",
+   "status": "❔ em tramitação"
+  },
+  {
+   "ref": "APE 22/00594032",
+   "cidade": "Forquilhinha",
+   "tipo": "tce",
+   "keep": false,
+   "title": "TCE aponta irregularidade em registro de aposentadoria em Forquilhinha",
+   "description": "O Tribunal de Contas apontou irregularidade no registro de aposentadoria de uma servidora ligada ao Fundo Municipal de Previdência Social de Forquilhinha. Trata-se de uma questão técnica de registro previdenciário.",
+   "severity": "media"
+  },
+  {
+   "ref": "APE 19/00825772",
+   "cidade": "Forquilhinha",
+   "tipo": "tce",
+   "keep": false,
+   "title": "TCE analisa registros de aposentadoria ligados a Forquilhinha e Florianópolis",
+   "description": "O Tribunal de Contas apontou irregularidade em registros de aposentadoria envolvendo institutos de previdência de Forquilhinha e Florianópolis. Trata-se de uma análise técnica de registros previdenciários.",
+   "severity": "media"
+  }
+ ]
+}

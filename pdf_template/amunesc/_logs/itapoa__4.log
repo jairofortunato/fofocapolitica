@@ -1,0 +1,107 @@
+[0m
+> build · gpt-5.4-mini
+[0m
+Vou ler o critério e os três lotes, identificar as fontes de cada caso e então curar lote por lote, gravando cada JSON antes de seguir para o próximo.
+[0m→ [0mRead pdf_template/CURADORIA.md
+[0m→ [0mRead pdf_template/amunesc/_lotes/itapoa__4.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/rio_negrinho__0.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/rio_negrinho__1.json
+Encontrei que os lotes têm muitos casos e alguns textos truncados, então vou mapear os processos completos primeiro para não perder alinhamento posicional.
+[0m
+[0m$ [0mjq '.casos | length' "pdf_template/amunesc/_lotes/itapoa__4.json"
+17
+[0m
+[0m$ [0mjq '.casos | length' "pdf_template/amunesc/_lotes/rio_negrinho__0.json"
+70
+[0m
+[0m$ [0mjq '.casos | length' "pdf_template/amunesc/_lotes/rio_negrinho__1.json"
+70
+[0m
+[0m→ [0mRead pdf_template/amunesc/_lotes/rio_negrinho__1.json[90m [offset=220, limit=500][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes/rio_negrinho__1.json[90m [offset=449, limit=500][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes/rio_negrinho__1.json[90m [offset=699, limit=400][0m
+[0m
+[0m# [0mTodos
+[•] Curar e gravar o lote itapoa__4.json
+[ ] Curar e gravar o lote rio_negrinho__0.json
+[ ] Curar e gravar o lote rio_negrinho__1.json
+[ ] Verificar contagens finais de keep:true e severity alta por lote
+[0m
+Vou escrever primeiro o lote de Itapoá, que ficou todo fora do dossiê, e depois sigo para os dois lotes de Rio Negrinho com os casos relevantes.
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados
+[0m→ [0mRead pdf_template/amunesc/_lotes
+[0m% [0mPatch 1 file
+Estou gravando o lote de Rio Negrinho com os casos substantivos marcados e os duplicados/instaurações vazias cortados. Depois vou passar para o segundo lote de Rio Negrinho e conferir os totais.
+[0m% [0mPatch 1 file
+Agora estou fechando o segundo lote de Rio Negrinho. Ele tem vários itens espelhados e fases duplicadas, então estou preservando só a fase mais avançada em cada número e cortando as entradas sem substância.
+[0m% [0mPatch 1 file
+Vou validar os três JSONs gerados e conferir os totais de `keep:true` e `severity:"alta"` antes de fechar.
+[0m
+[0m$ [0mjq '. | length, map(select(.keep==true)) | length, map(select(.severity=="alta")) | length' "pdf_template/amunesc/_lotes_curados/itapoa__4.json"
+17
+jq: error (at pdf_template/amunesc/_lotes_curados/itapoa__4.json:19): Cannot iterate over number (17)
+[0m
+[0m$ [0mjq '. | length, map(select(.keep==true)) | length, map(select(.severity=="alta")) | length' "pdf_template/amunesc/_lotes_curados/rio_negrinho__0.json"
+70
+jq: error (at pdf_template/amunesc/_lotes_curados/rio_negrinho__0.json:72): Cannot iterate over number (70)
+[0m
+[0m$ [0mjq '. | length, map(select(.keep==true)) | length, map(select(.severity=="alta")) | length' "pdf_template/amunesc/_lotes_curados/rio_negrinho__1.json"
+70
+jq: error (at pdf_template/amunesc/_lotes_curados/rio_negrinho__1.json:72): Cannot iterate over number (70)
+[0m
+[0m$ [0mjq '[length, (map(select(.keep==true))|length), (map(select(.severity=="alta"))|length)]' "pdf_template/amunesc/_lotes_curados/itapoa__4.json"
+[
+  17,
+  0,
+  0
+]
+[0m
+[0m$ [0mjq '[length, (map(select(.keep==true))|length), (map(select(.severity=="alta"))|length)]' "pdf_template/amunesc/_lotes_curados/rio_negrinho__0.json"
+[
+  70,
+  25,
+  2
+]
+[0m
+[0m$ [0mjq '[length, (map(select(.keep==true))|length), (map(select(.severity=="alta"))|length)]' "pdf_template/amunesc/_lotes_curados/rio_negrinho__1.json"
+[
+  70,
+  18,
+  3
+]
+[0m
+Encontrei um duplicado de fase no lote 1 da avenida Klaus Schumacher. Vou cortar a fase mais antiga para manter a regra posicional e evitar publicar a republicação.
+[0m% [0mPatch 1 file
+[0m
+[0m$ [0mjq '[length, (map(select(.keep==true))|length), (map(select(.severity=="alta"))|length)]' "pdf_template/amunesc/_lotes_curados/rio_negrinho__1.json"
+[
+  70,
+  17,
+  3
+]
+[0m
+[0m$ [0mjq '[length, (map(select(.keep==true))|length), (map(select(.severity=="alta"))|length)]' "pdf_template/amunesc/_lotes_curados/itapoa__4.json"
+[
+  17,
+  0,
+  0
+]
+[0m
+[0m$ [0mjq '[length, (map(select(.keep==true))|length), (map(select(.severity=="alta"))|length)]' "pdf_template/amunesc/_lotes_curados/rio_negrinho__0.json"
+[
+  70,
+  25,
+  2
+]
+[0m
+[0m# [0mTodos
+[✓] Curar e gravar o lote itapoa__4.json
+[✓] Curar e gravar o lote rio_negrinho__0.json
+[✓] Curar e gravar o lote rio_negrinho__1.json
+[✓] Verificar contagens finais de keep:true e severity alta por lote
+[0m
+Gravado em `pdf_template/amunesc/_lotes_curados/`.
+
+- `itapoa__4.json`: 17 casos, `keep:true` 0, `severity alta` 0
+- `rio_negrinho__0.json`: 70 casos, `keep:true` 25, `severity alta` 2
+- `rio_negrinho__1.json`: 70 casos, `keep:true` 17, `severity alta` 3

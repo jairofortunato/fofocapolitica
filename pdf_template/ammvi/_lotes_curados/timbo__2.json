@@ -1,0 +1,497 @@
+[
+ {
+  "i": 25,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE orienta SAMAE de Timbó sobre planejamento de concessão de água e esgoto",
+  "description": "O TCE analisou a fase de planejamento da concessão comum dos serviços de abastecimento de água e esgotamento sanitário de Timbó. O Tribunal fez recomendações ao diretor do SAMAE, Waldir Girardi, e ao gerente do projeto sobre o termo de referência, planos de negócios, fluxo de caixa e aspectos ambientais e financeiros.",
+  "status": "🟡 em instrução (citação/audiência)",
+  "severity": "media"
+ },
+ {
+  "i": 26,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta irregularidades em contrato de iluminação pública de Timbó",
+  "description": "O TCE realizou auditoria sobre o Contrato Administrativo n. 40/2020, de concessão administrativa para prestação de serviços de iluminação pública em Timbó. Foram identificadas restrições relacionadas à análise periódica de despesas de PPPs, avaliação de riscos e previsão contratual de seguro all risk. O Tribunal fixou prazo de 120 dias para a Prefeitura adotar providências corretivas.",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 27,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE suspende licitação de base do SAMU em Timbó por irregularidade na escolha do local",
+  "description": "O TCE concedeu medida cautelar determinando a sustação do edital de Tomada de Preços 07/2023, lançado pela Prefeitura de Timbó para contratação de empresa especializada em obras e serviços de engenharia para construção da base descentralizada do SAMU e heliponto, no valor de R$ 1.132.121,84. A irregularidade apontada foi a escolha inadequada do local de implantação, contrariando o art. 12 da Lei 8.666/1993. O secretário municipal de saúde Alfredo João Berri foi notificado para apresentar justificativas.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "alta"
+ },
+ {
+  "i": 28,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ julgado irregular",
+  "severity": "alta"
+ },
+ {
+  "i": 29,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE não conhece de representação sobre pregão de Timbó",
+  "description": "O TCE não conheceu da representação sobre supostas irregularidades no Pregão Presencial n. 65/2022 da Prefeitura de Timbó, por não preencher os pressupostos de admissibilidade previstos na Lei Orgânica do TCE. O processo foi arquivado sem análise do mérito.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 30,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva representação sobre base do SAMU em Timbó após revogação de edital",
+  "description": "Representação sobre irregularidades na Tomada de Preços 07/2023 para construção da base do SAMU em Timbó foi arquivada pelo TCE diante da perda do objeto, uma vez que o edital foi revogado pela administração municipal. O mérito não foi analisado.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 31,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ julgado irregular",
+  "severity": "alta"
+ },
+ {
+  "i": 32,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE nega recurso e mantém irregularidades em contrato de monitoramento de Timbó",
+  "description": "O TCE negou provimento ao recurso de reexame interposto pelo ex-prefeito Jorge Augusto Krüger contra o Acórdão n. 332/2022, que considerou irregulares os atos e procedimentos na auditoria sobre os contratos de locação e manutenção de equipamentos de monitoramento fotoeletrônico de trânsito de Timbó (RLA 18/00707034). A decisão original foi mantida.",
+  "status": "⬛ julgado irregular",
+  "severity": "alta"
+ },
+ {
+  "i": 33,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE suspende efeitos de decisão sobre monitoramento eletrônico para reexame",
+  "description": "O TCE conheceu do recurso de reexame interposto por Fabiano Martins Adriano contra o Acórdão n. 332/2022, referente à auditoria nos contratos de monitoramento eletrônico de Timbó, e atribuiu efeito suspensivo ao item 2.3 da decisão recorrida. Os autos foram devolvidos para reexame de mérito.",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 34,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 35,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 36,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE reafirma irregularidades em contrato de monitoramento eletrônico de Timbó",
+  "description": "O TCE reafirmou a decisão que considerou irregulares os contratos de locação e manutenção de equipamentos de geração de imagens e monitoramento fotoeletrônico de trânsito firmados entre o Município de Timbó e a empresa Focalle Engenharia Viária Ltda. As irregularidades incluíram estudo técnico inadequado, ausência de demonstração de medidas de engenharia e falhas nos estudos periódicos de eficácia dos equipamentos.",
+  "status": "⬛ julgado irregular",
+  "severity": "alta"
+ },
+ {
+  "i": 37,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ decisão singular",
+  "severity": "media"
+ },
+ {
+  "i": 38,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ decisão singular",
+  "severity": "media"
+ },
+ {
+  "i": 39,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE considera regulares metas de educação da Prefeitura de Timbó",
+  "description": "O TCE realizou inspeção na Prefeitura de Timbó para verificar o cumprimento das Metas 18 e 19 do Plano Nacional de Educação, relativas à valorização dos profissionais do magistério e à gestão democrática do ensino. Os atos foram considerados regulares e o processo foi arquivado.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 40,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta irregularidades em contratações temporárias e horas extras na Prefeitura de Timbó",
+  "description": "O TCE considerou irregulares atos de pessoal na Prefeitura de Timbó, incluindo pagamento habitual de horas extras sem caráter excepcional, contratação de servidores temporários sem processo seletivo, número excessivo de temporários em cargos efetivos e servidor comissionado desempenhando funções meramente técnicas.",
+  "status": "⬛ julgado irregular",
+  "severity": "alta"
+ },
+ {
+  "i": 41,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE afasta multa de secretária de Timbó após recurso",
+  "description": "O TCE deu provimento parcial ao recurso de reexame interposto contra o Acórdão n. 292/2024 para afastar a pena de multa aplicada à secretária Maria Angélica Faggiani por irregularidades no Edital de Credenciamento n. 54/2021. O julgamento de irregularidade foi mantido.",
+  "status": "⬛ julgado irregular",
+  "severity": "media"
+ },
+ {
+  "i": 42,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 43,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 44,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE declara ilegais credenciamentos de R$ 75 milhões da Prefeitura de Timbó",
+  "description": "O TCE analisou quatro editais de credenciamento da Prefeitura de Timbó (ns. 252, 343, 363 e 434/2024), no valor estimado total de R$ 75.764.502,93. Declarou a ilegalidade dos Editais de Credenciamento n. 343/2024 (locação de máquinas pesadas) e n. 434/2024 (serviços de manutenção predial), por fuga ao dever de licitar, caracterizando afronta ao art. 37, XXI, da Constituição Federal. Também declarou perda de objeto do Edital n. 363/2024.",
+  "status": "⬛ julgado irregular",
+  "severity": "alta"
+ },
+ {
+  "i": 45,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ decisão singular",
+  "severity": "media"
+ },
+ {
+  "i": 46,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ decisão singular",
+  "severity": "media"
+ },
+ {
+  "i": 47,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ decisão singular",
+  "severity": "media"
+ },
+ {
+  "i": 48,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ decisão singular",
+  "severity": "media"
+ },
+ {
+  "i": 49,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ decisão singular",
+  "severity": "media"
+ },
+ {
+  "i": 50,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ acórdão (decisão)",
+  "severity": "media"
+ },
+ {
+  "i": 51,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 52,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE devolve para reexame decisão sobre atos de pessoal de Timbó",
+  "description": "O TCE conheceu do recurso de reexame interposto por Jorge Augusto Kruger e Maria Angélica Faggiani contra o Acórdão n. 121/2022 (RLA 18/00393501), suspendendo os efeitos dos itens 1 e 2 da decisão que considerou irregulares atos de pessoal da Prefeitura de Timbó. Os autos foram devolvidos para reexame de mérito.",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 53,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 54,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ decisão singular",
+  "severity": "media"
+ },
+ {
+  "i": 55,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ decisão singular",
+  "severity": "media"
+ },
+ {
+  "i": 56,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ decisão singular",
+  "severity": "media"
+ },
+ {
+  "i": 57,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ decisão singular",
+  "severity": "media"
+ },
+ {
+  "i": 58,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 59,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ decisão singular",
+  "severity": "media"
+ },
+ {
+  "i": 60,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 61,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 62,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 63,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 64,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ decisão singular",
+  "severity": "media"
+ },
+ {
+  "i": 65,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ decisão singular",
+  "severity": "media"
+ },
+ {
+  "i": 66,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 67,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 68,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ decisão singular",
+  "severity": "media"
+ },
+ {
+  "i": 69,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ decisão singular",
+  "severity": "media"
+ },
+ {
+  "i": 70,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ decisão singular",
+  "severity": "media"
+ },
+ {
+  "i": 71,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ decisão singular",
+  "severity": "media"
+ },
+ {
+  "i": 72,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ decisão singular",
+  "severity": "media"
+ },
+ {
+  "i": 73,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ decisão singular",
+  "severity": "media"
+ },
+ {
+  "i": 74,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ decisão singular",
+  "severity": "media"
+ },
+ {
+  "i": 75,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ decisão singular",
+  "severity": "media"
+ },
+ {
+  "i": 76,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ decisão singular",
+  "severity": "media"
+ },
+ {
+  "i": 77,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ decisão singular",
+  "severity": "media"
+ },
+ {
+  "i": 78,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ decisão singular",
+  "severity": "media"
+ },
+ {
+  "i": 79,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ decisão singular",
+  "severity": "media"
+ }
+]

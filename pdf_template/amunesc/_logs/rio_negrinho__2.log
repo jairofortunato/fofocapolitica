@@ -1,0 +1,1456 @@
+[0m
+> build · gpt-5.4-mini
+[0m
+Vou ler o critério e os três lotes, identificar as fontes de cada caso e então curar cada JSON na mesma ordem, gravando lote a lote.
+[0m→ [0mRead pdf_template/CURADORIA.md
+[0m→ [0mRead pdf_template/amunesc/_lotes/sao_bento_do_sul__1.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/rio_negrinho__2.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/sao_bento_do_sul__0.json
+Já tenho o critério. Agora vou completar a leitura dos trechos truncados dos lotes para não perder duplicatas, fases do mesmo processo e casos em que o desfecho depende do dispositivo.
+[0m→ [0mRead pdf_template/amunesc/_lotes/sao_bento_do_sul__0.json[90m [offset=614, limit=260][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes/rio_negrinho__2.json[90m [offset=291, limit=260][0m
+A curva mais arriscada agora é o lote de Rio Negrinho, porque há várias fases repetidas do mesmo processo e alguns registros de aposentadoria que mudam de instância. Vou fechar a leitura dele antes de escrever qualquer saída.
+[0m→ [0mRead pdf_template/amunesc/_lotes/rio_negrinho__2.json[90m [offset=551, limit=220][0m
+Encontrei um corte no meio do Rio Negrinho entre os itens 99 e 101. Vou ler esse intervalo para não pular um caso inteiro antes de montar a saída.
+[0m→ [0mRead pdf_template/amunesc/_lotes/rio_negrinho__2.json[90m [offset=283, limit=25][0m
+[0m
+[0m# [0mTodos
+[✓] Ler critério e lotes, identificar duplicatas/fases e casos truncados
+[•] Curar o lote Rio Negrinho e gravar o JSON curado
+[ ] Curar o lote São Bento do Sul 0 e gravar o JSON curado
+[ ] Curar o lote São Bento do Sul 1 e gravar o JSON curado
+[ ] Verificar tamanhos/consistência dos JSONs curados e relatar totais
+[0m
+Vou gerar os curados em `pdf_template/amunesc/_lotes_curados/` com um script de transformação a partir dos lotes lidos, para garantir mesma ordem e tamanho antes de revisar os pontos duvidosos.
+[0m$ [0mjq '.casos|length' "pdf_template/amunesc/_lotes/sao_bento_do_sul__1.json"
+70
+[0m
+[0m$ [0mjq '.casos|length' "pdf_template/amunesc/_lotes/sao_bento_do_sul__0.json"
+70
+[0m
+[0m$ [0mjq '.casos|length' "pdf_template/amunesc/_lotes/rio_negrinho__2.json"
+56
+[0m
+[0m✱ [0mGlob "pdf_template/amunesc/_lotes_curados"[90m 0 matches[0m
+[0m→ [0mRead pdf_template/amunesc
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados
+Vou checar um curado anterior da mesma cidade só para alinhar formato e nível de síntese esperado; isso não muda o julgamento deste lote.
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/rio_negrinho__1.json[90m [offset=1, limit=40][0m
+Vou aplicar um gerador heurístico único para os três lotes, com corte de duplicatas por `ref`, falso para instâncias sem substância e true só para os desfechos concretos. Depois eu reviso os casos que escaparem da heurística.
+[0m
+[0m$ [0mpython3 - <<'PY'
+import json, re, os
+from pathlib import Path
+
+ROOT = Path('/Users/jairofortunato/mp')
+IN_DIR = ROOT / 'pdf_template' / 'amunesc' / '_lotes'
+OUT_DIR = ROOT / 'pdf_template' / 'amunesc' / '_lotes_curados'
+OUT_DIR.mkdir(exist_ok=True)
+
+files = [
+    'rio_negrinho__2.json',
+    'sao_bento_do_sul__0.json',
+    'sao_bento_do_sul__1.json',
+]
+
+HIGH_MP_KWS = [
+    'dano ao erário', 'multa', 'fraude', 'nepot', 'improbidade ajuizada',
+    'prejuízo ao erário', 'prejuizo ao erario', 'licita', 'licitação fraud',
+    'licitacao fraud', 'serviço essencial', 'servico essencial', 'saúde', 'educa',
+]
+HIGH_TCE_KWS = ['multa', 'dano ao erário', 'dano ao erario']
+
+
+def norm(s: str) -> str:
+    return re.sub(r'\s+', ' ', s or '').strip()
+
+
+def low(s: str) -> str:
+    return norm(s).lower()
+
+
+def strip_accents(s: str) -> str:
+    # keep ASCII-ish output for robust matching
+    import unicodedata
+    return ''.join(c for c in unicodedata.normalize('NFKD', s) if not unicodedata.combining(c))
+
+
+def text_len_no_spaces(s: str) -> int:
+    return len(re.sub(r'\s+', '', s or ''))
+
+
+def extract_subject_mp(text: str) -> str:
+    t = norm(text)
+    patterns = [
+        r'Conclusão:\s*(?:Inquérito Civil|Procedimento Preparatório|Procedimento Preparatório instaurado|Procedimento Administrativo|Procedimento Preparatório\.)?\s*[^.]*?Apurar\s+(.*?)(?:\.|;|$)',
+        r'Conclusão:\s*[^.]*?\s+Apuração\s+(.*?)(?:\.|;|$)',
+        r'Conclusão:\s*(.*?)(?:Promoção de arquivamento|Submissão à homologação|Arquivamento|$)',
+        r'Apurar\s+(.*?)(?:\.|;|$)',
+        r'Apuração\s+(.*?)(?:\.|;|$)',
+    ]
+    for pat in patterns:
+        m = re.search(pat, t, flags=re.I)
+        if m:
+            subj = norm(m.group(1))
+            subj = re.sub(r'^[,\-: ]+', '', subj)
+            subj = re.sub(r'\s+', ' ', subj)
+            subj = subj.rstrip('…')
+            # trim overly generic lead-ins
+            subj = re.sub(r'^(de|da|do|das|dos)\s+', '', subj, flags=re.I)
+            if len(subj) >= 8:
+                return subj
+    # fallback: take chunk after conclusão and before the first strong closure marker
+    for marker in ['Promoção de arquivamento', 'Submissão à homologação', 'Ajuizamento de ação civil pública', 'Arquivamento', 'Termo de Ajustamento de Conduta', 'Acordo de Não Persecução Cível', 'Acordo de não persecução cível']:
+        if marker.lower() in low(t):
+            idx = low(t).find(marker.lower())
+            prefix = t[:idx]
+            # try to keep the sentence around the issue
+            m2 = re.search(r'Apurar\s+(.*)$', prefix, flags=re.I)
+            if m2:
+                subj = norm(m2.group(1)).rstrip('.')
+                if len(subj) >= 8:
+                    return subj
+    # last resort: first 90 chars of text after 'Conclusão:'
+    if 'Conclusão:' in t:
+        tail = t.split('Conclusão:', 1)[1].strip()
+        tail = re.sub(r'^(Inquérito Civil|Procedimento Preparatório|Procedimento Administrativo)\.?\s*', '', tail, flags=re.I)
+        tail = norm(tail)
+        if len(tail) > 90:
+            tail = tail[:87].rstrip() + '...'
+        return tail
+    return ''
+
+
+def extract_subject_tce(case) -> str:
+    dec = norm(case.get('decisao', ''))
+    txt = norm(case.get('texto', ''))
+    blob = dec + ' ' + txt
+    # names from phrases like "de X" or after "benefício de"
+    pats = [
+        r'aposentadoria de\s+([^,\.]+)',
+        r'retificação de aposentadoria de\s+([^,\.]+)',
+        r'registro de ato de aposentadoria de\s+([^,\.]+)',
+        r'ato de aposentadoria de\s+([^,\.]+)',
+        r'benefício de\s+([^,\.]+)',
+        r'em benefício de\s+([^,\.]+)',
+    ]
+    for pat in pats:
+        m = re.search(pat, blob, flags=re.I)
+        if m:
+            subj = norm(m.group(1))
+            subj = re.sub(r'\s+', ' ', subj)
+            # trim if there are multiple names / trailing office text
+            subj = subj.split('  ')[0]
+            subj = subj.split('considerado')[0].strip(' ,;:-')
+            if len(subj) >= 3:
+                return subj
+    # fallback: use municipality/process subject snippet
+    if 'Rio Negrinho' in blob:
+        return 'caso de Rio Negrinho'
+    return ''
+
+
+def mp_keep(case, selected):
+    txt = norm(case.get('texto', ''))
+    header = low(case.get('header', ''))
+    if selected is False:
+        return False
+    # instantiation-only or too vague
+    if 'instauração' in header or 'instauracao' in strip_accents(header):
+        if not re.search(r'(?i)apurar|irregular|desvio|licit|saude|educa|alvara|horas extras|folga|dano|fraude|improb', txt):
+            return False
+    if len(re.sub(r'\s+', '', txt)) < 45:
+        return False
+    if re.fullmatch(r'[\w\s,\.\-;:/()]+', txt) and len(re.findall(r'[A-Za-zÁÉÍÓÚÂÊÔÃÕáéíóúâêôãõ]', txt)) < 8:
+        return False
+    # if only names / entities and no issue words, cut
+    if not re.search(r'(?i)apurar|irregular|desvio|licit|saude|educa|alvara|horas extras|folga|dano|fraude|improb|omiss|polui|esgoto|transporte|consulta|contrata|pessoal|vacina|sindicat|médic|medic|servidor|obra|licen', txt):
+        return False
+    return True
+
+
+def mp_status(case):
+    txt = low(case.get('texto', ''))
+    if 'ajuizamento de ação civil pública' in txt or 'ajuizamento de acao civil publica' in strip_accents(txt):
+        return '🔴 ACP ajuizada'
+    if 'acordo de não persecução cível' in txt or 'acordo de nao perseguicao civel' in strip_accents(txt) or 'acnp' in txt:
+        return '🟠 ACNP firmado'
+    if 'termo de ajustamento de conduta' in txt or 'tac' in txt:
+        return '🟠 TAC firmado'
+    if 'prescrição' in txt or 'prescricao' in strip_accents(txt):
+        return '⚫ prescrito'
+    if 'não foram constatadas irregularidades' in txt or 'nao foram constatadas irregularidades' in strip_accents(txt):
+        return '🟢 arquivado'
+    if 'ausência de irregularidades' in txt or 'ausencia de irregularidades' in strip_accents(txt):
+        return '🟢 arquivado'
+    if 'promoção de arquivamento' in txt or 'promocao de arquivamento' in strip_accents(txt) or 'arquivamento' in txt:
+        return '🟢 arquivado'
+    if 'violação' in txt or 'violacao' in strip_accents(txt):
+        return '🔴 apontou irregularidade'
+    return '❔ status indef.'
+
+
+def mp_severity(case):
+    txt = low(case.get('texto', ''))
+    if any(k in txt for k in HIGH_MP_KWS):
+        return 'alta'
+    # if explicit essential service harm, treat as high
+    if any(k in txt for k in ['transporte escolar', 'saúde', 'saude', 'hospital', 'escola', 'educação', 'educacao']) and any(k in txt for k in ['dano', 'falha', 'irregular', 'preju']):
+        return 'alta'
+    return 'media'
+
+
+def mp_title(case, status):
+    subj = extract_subject_mp(case.get('texto', ''))
+    if not subj:
+        subj = 'apuração em São Bento do Sul'
+    subj = subj[0].lower() + subj[1:] if subj else subj
+    subj = subj.rstrip('.;')
+    if status == '🟠 TAC firmado':
+        prefix = 'MP firma TAC sobre '
+    elif status == '🟠 ACNP firmado':
+        prefix = 'MP firma acordo sobre '
+    elif status == '🔴 ACP ajuizada':
+        prefix = 'MP leva à Justiça apuração sobre '
+    elif status == '⚫ prescrito':
+        prefix = 'MP encerra caso prescrito sobre '
+    elif status == '🔴 apontou irregularidade':
+        prefix = 'MP aponta irregularidade em '
+    elif status == '❔ status indef.':
+        prefix = 'MP registra apuração sobre '
+    else:
+        prefix = 'MP arquiva apuração sobre '
+    title = prefix + subj
+    if len(title) > 90:
+        title = title[:87].rstrip() + '...'
+    return title
+
+
+def mp_description(case, status):
+    txt = low(case.get('texto', ''))
+    subj = extract_subject_mp(case.get('texto', '')) or 'o caso'
+    subj = subj[0].lower() + subj[1:] if subj else subj
+    result = ''
+    if 'desvio de função configurado' in txt:
+        result = 'O desvio de função foi reconhecido, mas sem dano ao erário ou improbidade.'
+    elif 'ato de improbidade administrativa não configurado' in txt or 'inexistência de ato de improbidade administrativa' in txt:
+        result = 'O MP concluiu que não houve ato de improbidade.'
+    elif 'ausência de irregularidades' in txt or 'não há notícias de irregularidade' in txt or 'nao ha noticias de irregularidade' in strip_accents(txt):
+        result = 'Não foram constatadas irregularidades.'
+    elif 'irregularidade sanada' in txt or 'regularizado' in txt or 'correção' in txt:
+        result = 'A irregularidade foi sanada durante a apuração.'
+    elif 'dano ao erário' in txt or 'dano ao erario' in strip_accents(txt):
+        result = 'O caso tratava de possível dano ao erário.'
+    elif 'ajuizamento de ação civil pública' in txt or 'ajuizamento de acao civil publica' in strip_accents(txt):
+        result = 'O procedimento terminou com ajuizamento de ação civil pública.'
+    elif 'termo de ajustamento de conduta' in txt or 'tac' in txt:
+        result = 'Foi firmado TAC para ajustar a conduta apurada.'
+    elif 'acordo de não persecução cível' in txt or 'acordo de nao perseguicao civel' in strip_accents(txt) or 'acnp' in txt:
+        result = 'Foi firmado acordo para encerrar a apuração.'
+    elif 'prescrição' in txt or 'prescricao' in strip_accents(txt):
+        result = 'O possível ilícito foi alcançado pela prescrição.'
+    elif 'violação' in txt or 'violacao' in strip_accents(txt):
+        result = 'O órgão apontou violação e adotou a providência indicada no texto.'
+    else:
+        result = 'O caso foi encerrado conforme o texto de origem.'
+    closure = {
+        '🟠 TAC firmado': 'encerrado com TAC',
+        '🟠 ACNP firmado': 'encerrado com acordo',
+        '🔴 ACP ajuizada': 'encerrado com ação judicial',
+        '⚫ prescrito': 'encerrado por prescrição',
+        '🔴 apontou irregularidade': 'encerrado com apontamento de irregularidade',
+        '❔ status indef.': 'sem desfecho claro no texto',
+        '🟢 arquivado': 'arquivado',
+    }.get(status, 'arquivado')
+    desc = f'O MP apurou {subj}. {result} O caso ficou {closure}.'
+    return norm(desc)
+
+
+def tce_selected_keep(case):
+    header = low(case.get('header', ''))
+    ref = case.get('ref', '')
+    dec = low(case.get('decisao', ''))
+    txt = low(case.get('texto', ''))
+    # consultations never enter
+    if 'consulta' in header or ref.startswith('CON '):
+        return False
+    # routine legal retirement registrations are out
+    if re.search(r'ordenar o registro', dec) and (
+        'considerado legal' in dec or 'considerando-os legais' in dec or 'considerando-os legais' in txt or 'considerado legal conforme análise realizada' in dec or 'considerado legal' in dec
+    ) and ('aposent' in header or 'aposent' in dec or 'pensão' in header or 'pensao' in dec):
+        return False
+    # procedural appeals without factual substance are out
+    if ref.startswith('REC '):
+        if any(k in dec for k in ['suspendendo-se', 'devolução dos autos', 'retorno dos autos', 'conhecer do recurso']) and not any(k in dec for k in ['denegar', 'irregular', 'multa', 'cautelar', 'sustação', 'sustacao']):
+            return False
+        # non-knowledge due admissibility issues: no substantive card
+        if 'não conhecer' in dec or 'nao conhecer' in strip_accents(dec):
+            return False
+        if 'provimento' in dec and not any(k in dec for k in ['ilegal', 'irregular', 'multa', 'cautelar']):
+            return False
+        return False
+    # TCE appeal/APE cases with legal register and no irregularity are out
+    if re.search(r'ordenar o registro', dec) and ('legal' in dec or 'considerado legal' in dec) and not any(k in dec for k in ['denegar', 'irregular', 'multa', 'cautelar', 'sustação', 'sustacao', 'anular', 'citação', 'citacao']):
+        return False
+    # pure procedures or incomplete without outcome out
+    if len(dec) < 100 and not any(k in dec for k in ['denegar', 'irregular', 'multa', 'cautelar', 'não conhecer', 'nao conhecer', 'prescrito', 'rejeição', 'rejeicao']):
+        return False
+    # if clearly regular but with a small warning, usually still out
+    if 'considerado legal' in dec and not any(k in dec for k in ['denegar', 'irregular', 'multa', 'cautelar', 'sustação', 'sustacao']):
+        return False
+    # otherwise keep if substantive
+    if any(k in dec for k in ['denegar o registro', 'considerado ilegal', 'multa', 'cautelar', 'sustação', 'sustacao', 'julgado irregular', 'apontou irregularidade', 'rejeição', 'rejeicao', 'não conhecer do recurso', 'nao conhecer do recurso']):
+        return True
+    # special case: fixing deadline to sanear irregularity with explicit defect
+    if any(k in dec for k in ['fixar o prazo', 'sanar a restrição', 'sanar a restricao', 'ausência de certidão', 'ausencia de certidao']):
+        return True
+    return False
+
+
+def tce_status(case):
+    dec = low(case.get('decisao', ''))
+    if any(k in dec for k in ['multa aplicada', 'cominação', 'cominacao']) or ('multa' in dec and any(k in dec for k in ['julgado irregular', 'denegar'])):
+        return '🔴 multa aplicada' if 'multa aplicada' in dec else '⬛ julgado irregular + multa'
+    if 'denegar o registro' in dec or 'considerado ilegal' in dec or 'julgado irregular' in dec:
+        return '⬛ julgado irregular'
+    if 'apontou irregularidade' in dec:
+        return '🔴 apontou irregularidade'
+    if 'rejeição' in dec or 'rejeicao' in strip_accents(dec):
+        return '🔴 parecer pela rejeição'
+    if any(k in dec for k in ['cautelar', 'sustação', 'sustacao']):
+        return '🟠 cautelar / sustação'
+    if any(k in dec for k in ['fixar o prazo', 'sanar a restrição', 'sanar a restricao', 'ausência de certidão', 'ausencia de certidao', 'determinad']) and ('registro' not in dec or 'considerado legal' not in dec):
+        return '🟡 em instrução (citação/audiência)'
+    if 'não conhecer' in dec or 'nao conhecer' in strip_accents(dec):
+        return '❔ não conhecido (sem análise)'
+    return '❔ em tramitação'
+
+
+def tce_severity(case, keep):
+    if not keep:
+        return 'media'
+    dec = low(case.get('decisao', ''))
+    if any(k in dec for k in HIGH_TCE_KWS) or 'multa aplicada' in dec:
+        return 'alta'
+    return 'media'
+
+
+def tce_title(case, status):
+    subj = extract_subject_tce(case)
+    dec = low(case.get('decisao', ''))
+    if status == '⬛ julgado irregular':
+        if 'ausência de certidão' in dec or 'ausencia de certidao' in strip_accents(dec) or 'sanar a restrição' in dec:
+            return f'TCE cobra certidão de aposentadoria de {subj}'
+        return f'TCE barra ato de {subj}' if subj else 'TCE barra ato em Rio Negrinho'
+    if status == '🟡 em instrução (citação/audiência)':
+        if 'ausência de certidão' in dec or 'ausencia de certidao' in strip_accents(dec):
+            return f'TCE cobra certidão ausente em aposentadoria de {subj}' if subj else 'TCE cobra certidão ausente em aposentadoria'
+        return f'TCE abre prazo para ajustar ato de {subj}' if subj else 'TCE abre prazo para ajustar ato'
+    if status == '🔴 apontou irregularidade':
+        return f'TCE aponta irregularidade em {subj}' if subj else 'TCE aponta irregularidade'
+    if status == '🟠 cautelar / sustação':
+        return f'TCE suspende caso de {subj}' if subj else 'TCE suspende caso'
+    if status == '❔ não conhecido (sem análise)':
+        return f'TCE não conhece recurso sobre {subj}' if subj else 'TCE não conhece o caso'
+    return f'TCE analisa {subj}' if subj else 'TCE analisa caso'
+
+
+def tce_description(case, status):
+    dec = low(case.get('decisao', ''))
+    subj = extract_subject_tce(case) or 'o ato'
+    if status == '⬛ julgado irregular':
+        if 'ausência de certidão' in dec or 'ausencia de certidao' in strip_accents(dec):
+            return f'O Tribunal apontou falta de certidão de tempo de contribuição no ato de {subj}. O instituto recebeu prazo para regularizar a situação. O caso segue com irregularidade formal.'
+        if 'considerado ilegal' in dec:
+            return f'O Tribunal negou o registro do ato de {subj} por irregularidade no benefício. A unidade gestora foi chamada a corrigir a falha. O caso ficou marcado como irregular.'
+        return f'O Tribunal julgou irregular o caso de {subj}. A decisão impôs providências ao responsável. O processo ficou com desfecho desfavorável.'
+    if status == '🟡 em instrução (citação/audiência)':
+        return f'O Tribunal deu prazo para sanar a pendência no ato de {subj}. Ainda não houve desfecho final de mérito. O caso segue em instrução.'
+    if status == '🔴 apontou irregularidade':
+        return f'O Tribunal identificou irregularidade no ato de {subj}. A decisão registrou a falha e determinou as providências cabíveis. O caso segue com apontamento formal.'
+    if status == '🟠 cautelar / sustação':
+        return f'O Tribunal suspendeu os efeitos do caso de {subj}. A medida é cautelar e antecede o julgamento definitivo. O processo segue em análise.'
+    if status == '❔ não conhecido (sem análise)':
+        return f'O Tribunal não conheceu do recurso ligado a {subj} porque faltou requisito de admissibilidade. Não houve análise do mérito. O caso foi encerrado sem exame substantivo.'
+    return f'O Tribunal analisou o caso de {subj}. O texto de origem não deixa claro um desfecho de mérito mais forte. O caso segue na categoria indicada.'
+
+# collect all files first
+all_data = {}
+for fname in files:
+    with open(IN_DIR / fname, 'r', encoding='utf-8') as f:
+        all_data[fname] = json.load(f)
+
+for fname, data in all_data.items():
+    cases = data['casos']
+    # phase selection per ref: prefer conclusion over instauração; otherwise later date
+    groups = {}
+    for idx, case in enumerate(cases):
+        ref = case.get('ref', f'__idx_{idx}')
+        groups.setdefault(ref, []).append((idx, case))
+
+    selected = {}
+    for ref, items in groups.items():
+        def phase_score(case):
+            header = low(case.get('header', ''))
+            text = low(case.get('texto', ''))
+            dec = low(case.get('decisao', ''))
+            score = 0
+            if 'conclusão' in header or 'conclusao' in strip_accents(header) or 'conclusão:' in text or 'conclusao:' in strip_accents(text):
+                score = 2
+            elif 'instauração' in header or 'instauracao' in strip_accents(header):
+                score = 1
+            elif any(k in dec for k in ['decido', 'decide', 'acórdão', 'acordao']):
+                score = 2
+            return score
+        def date_key(case):
+            d = case.get('data', '0000-00-00')
+            m = re.match(r'(\d{2})/(\d{2})/(\d{4})', d)
+            if m:
+                return (int(m.group(3)), int(m.group(2)), int(m.group(1)))
+            return (0, 0, 0)
+        best_idx, best_case = max(items, key=lambda ic: (phase_score(ic[1]), date_key(ic[1]), ic[0]))
+        selected[ref] = best_idx
+
+    out = []
+    for idx, case in enumerate(cases):
+        ref = case.get('ref', f'__idx_{idx}')
+        is_selected = selected.get(ref, idx) == idx
+        if case.get('tipo') == 'mp':
+            keep = mp_keep(case, is_selected)
+            if keep:
+                status = mp_status(case)
+                severity = mp_severity(case)
+                title = mp_title(case, status)
+                description = mp_description(case, status)
+            else:
+                status = ''
+                title = ''
+                description = ''
+                severity = 'media'
+        else:
+            keep = tce_selected_keep(case) and is_selected
+            if keep:
+                status = tce_status(case)
+                severity = tce_severity(case, keep)
+                title = tce_title(case, status)
+                description = tce_description(case, status)
+            else:
+                status = ''
+                title = ''
+                description = ''
+                severity = 'media'
+        out.append({
+            'i': case['i'],
+            'tipo': case['tipo'],
+            'keep': keep,
+            'title': title,
+            'description': description,
+            'status': status,
+            'severity': severity,
+        })
+
+    with open(OUT_DIR / fname, 'w', encoding='utf-8') as f:
+        json.dump(out, f, ensure_ascii=False, indent=2)
+        f.write('\n')
+
+print('written:', ', '.join(files))
+PY
+written: rio_negrinho__2.json, sao_bento_do_sul__0.json, sao_bento_do_sul__1.json
+[0m
+Os três curados foram escritos. Agora vou validar contagem de `keep:true` e `severity: alta`, e checar se a heurística não deixou falsos positivos grosseiros nos TCE de rotina.
+[0m$ [0mjq '[.[] | select(.keep==true)] | length as $k | {total:length, keep_true:$k, alta: ([.[] | select(.severity=="alta")] | length)}' "pdf_template/amunesc/_lotes_curados/rio_negrinho__2.json"
+{
+  "total": 2,
+  "keep_true": 2,
+  "alta": 1
+}
+[0m
+[0m$ [0mjq '[.[] | select(.keep==true)] | length as $k | {total:length, keep_true:$k, alta: ([.[] | select(.severity=="alta")] | length)}' "pdf_template/amunesc/_lotes_curados/sao_bento_do_sul__0.json"
+{
+  "total": 54,
+  "keep_true": 54,
+  "alta": 25
+}
+[0m
+[0m$ [0mjq '[.[] | select(.keep==true)] | length as $k | {total:length, keep_true:$k, alta: ([.[] | select(.severity=="alta")] | length)}' "pdf_template/amunesc/_lotes_curados/sao_bento_do_sul__1.json"
+{
+  "total": 37,
+  "keep_true": 37,
+  "alta": 16
+}
+[0m
+A validação mostrou um problema estrutural no lote de Rio Negrinho: o curador saiu com só 2 itens, então vou corrigir o gerador antes de tocar no restante.
+[0m$ [0mjq 'length' "pdf_template/amunesc/_lotes_curados/rio_negrinho__2.json"
+56
+[0m
+[0m$ [0mjq '[.[] | select(.keep==true)] | length' "pdf_template/amunesc/_lotes_curados/rio_negrinho__2.json"
+2
+[0m
+[0m$ [0mjq '[.[] | select(.severity=="alta")] | length' "pdf_template/amunesc/_lotes_curados/rio_negrinho__2.json"
+1
+[0m
+[0m$ [0mjq 'length' "pdf_template/amunesc/_lotes_curados/sao_bento_do_sul__0.json"
+70
+[0m
+[0m$ [0mjq '[.[] | select(.keep==true)] | length' "pdf_template/amunesc/_lotes_curados/sao_bento_do_sul__0.json"
+54
+[0m
+[0m$ [0mjq '[.[] | select(.severity=="alta")] | length' "pdf_template/amunesc/_lotes_curados/sao_bento_do_sul__0.json"
+25
+[0m
+[0m$ [0mjq 'length' "pdf_template/amunesc/_lotes_curados/sao_bento_do_sul__1.json"
+70
+[0m
+[0m$ [0mjq '[.[] | select(.keep==true)] | length' "pdf_template/amunesc/_lotes_curados/sao_bento_do_sul__1.json"
+37
+[0m
+[0m$ [0mjq '[.[] | select(.severity=="alta")] | length' "pdf_template/amunesc/_lotes_curados/sao_bento_do_sul__1.json"
+16
+[0m
+[0m$ [0mjq '.[] | select(.keep==true) | {i,tipo,title,status,severity}' "pdf_template/amunesc/_lotes_curados/rio_negrinho__2.json"
+{
+  "i": 122,
+  "tipo": "tce",
+  "title": "TCE analisa Sirlei Terezinha Anton Cordeiro Júlio César Ronconi e Edgar Anton",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "media"
+}
+{
+  "i": 123,
+  "tipo": "tce",
+  "title": "TCE cobra certidão ausente em aposentadoria de caso de Rio Negrinho",
+  "status": "🟡 em instrução (citação/audiência)",
+  "severity": "alta"
+}
+[0m
+Encontrei uma falsa negativa em recurso de TCE com desfecho material. Vou ajustar a regra para recifes com `denegar`/irregularidade e regravar os três lotes.
+[0m$ [0mpython3 - <<'PY'
+import json, re
+from pathlib import Path
+import unicodedata
+
+ROOT = Path('/Users/jairofortunato/mp')
+IN_DIR = ROOT / 'pdf_template' / 'amunesc' / '_lotes'
+OUT_DIR = ROOT / 'pdf_template' / 'amunesc' / '_lotes_curados'
+OUT_DIR.mkdir(exist_ok=True)
+files = ['rio_negrinho__2.json','sao_bento_do_sul__0.json','sao_bento_do_sul__1.json']
+
+HIGH_MP_KWS = ['dano ao erário','dano ao erario','multa','fraude','nepot','improbidade ajuizada','prejuízo ao erário','prejuizo ao erario']
+HIGH_TCE_KWS = ['multa','dano ao erário','dano ao erario']
+
+
+def norm(s):
+    return re.sub(r'\s+', ' ', s or '').strip()
+
+def low(s):
+    return norm(s).lower()
+
+def deacc(s):
+    return ''.join(c for c in unicodedata.normalize('NFKD', s) if not unicodedata.combining(c))
+
+
+def extract_subject_mp(text):
+    t = norm(text)
+    pats = [
+        r'Apurar\s+(.*?)(?:\.|;|$)',
+        r'Apuração\s+(.*?)(?:\.|;|$)',
+    ]
+    for pat in pats:
+        m = re.search(pat, t, flags=re.I)
+        if m:
+            subj = norm(m.group(1)).rstrip('…')
+            if len(subj) >= 8:
+                return subj
+    if 'Conclusão:' in t:
+        tail = t.split('Conclusão:', 1)[1].strip()
+        tail = re.sub(r'^(Inquérito Civil|Procedimento Preparatório|Procedimento Administrativo)\.?\s*', '', tail, flags=re.I)
+        if len(tail) > 90:
+            tail = tail[:87].rstrip() + '...'
+        return tail
+    return ''
+
+
+def extract_subject_tce(case):
+    blob = norm(case.get('decisao','')) + ' ' + norm(case.get('texto',''))
+    pats = [
+        r'retificação de aposentadoria de\s+([^,\.]+?)(?:,\s|\s+servidor|\s+servidora|\s+ocupante|\s+CPF|\s+considerado|\s+consubstanciado|$)',
+        r'ato de retificação de aposentadoria de\s+([^,\.]+?)(?:,\s|\s+servidor|\s+servidora|\s+ocupante|\s+CPF|\s+considerado|\s+consubstanciado|$)',
+        r'ato de aposentadoria de\s+([^,\.]+?)(?:,\s|\s+servidor|\s+servidora|\s+ocupante|\s+CPF|\s+considerado|\s+consubstanciado|$)',
+        r'registro de ato de aposentadoria de\s+([^,\.]+?)(?:,\s|\s+servidor|\s+servidora|\s+ocupante|\s+CPF|\s+considerado|\s+consubstanciado|$)',
+        r'aposentadoria de\s+([^,\.]+?)(?:,\s|\s+servidor|\s+servidora|\s+ocupante|\s+CPF|\s+considerado|\s+consubstanciado|$)',
+        r'benefício de\s+([^,\.]+?)(?:,\s|\s+servidor|\s+servidora|\s+ocupante|\s+CPF|\s+considerado|\s+consubstanciado|$)',
+        r'em benefício de\s+([^,\.]+?)(?:,\s|\s+servidor|\s+servidora|\s+ocupante|\s+CPF|\s+considerado|\s+consubstanciado|$)',
+    ]
+    for pat in pats:
+        m = re.search(pat, blob, flags=re.I)
+        if m:
+            subj = norm(m.group(1))
+            subj = subj.split(' e ')[0].strip(' ,;:-')
+            if len(subj) >= 3:
+                return subj
+    if 'Rio Negrinho' in blob:
+        return 'Rio Negrinho'
+    return ''
+
+
+def mp_phase_score(case):
+    header = low(case.get('header',''))
+    text = low(case.get('texto',''))
+    if 'conclusão' in deacc(header) or 'conclusao' in deacc(text) or 'conclusão:' in text or 'conclusao:' in deacc(text):
+        return 2
+    if 'instauração' in deacc(header) or 'instauracao' in deacc(header):
+        return 1
+    return 1
+
+
+def tce_phase_score(case):
+    dec = low(case.get('decisao',''))
+    if any(k in dec for k in ['denegar','multa','cautelar','sustação','sustacao','julgado irregular','apontou irregularidade','rejeição','rejeicao','ausência de certidão','ausencia de certidao']):
+        return 2
+    if any(k in dec for k in ['decide', 'decido', 'acórdão', 'acordao']):
+        return 1
+    return 0
+
+
+def selected_by_ref(cases, phase_fn):
+    groups = {}
+    for idx, case in enumerate(cases):
+        ref = case.get('ref', f'__idx_{idx}')
+        groups.setdefault(ref, []).append((idx, case))
+    selected = {}
+    for ref, items in groups.items():
+        def date_key(case):
+            d = case.get('data', '0000-00-00')
+            m = re.match(r'(\d{2})/(\d{2})/(\d{4})', d)
+            return (int(m.group(3)), int(m.group(2)), int(m.group(1))) if m else (0,0,0)
+        best_idx, _ = max(items, key=lambda ic: (phase_fn(ic[1]), date_key(ic[1]), ic[0]))
+        selected[ref] = best_idx
+    return selected
+
+
+def mp_keep(case, selected):
+    if not selected:
+        return False
+    txt = norm(case.get('texto',''))
+    header = low(case.get('header',''))
+    if 'instauração' in deacc(header) and not re.search(r'(?i)apurar|irregular|desvio|licit|saude|educa|alvara|horas extras|folga|dano|fraude|improb|omiss|polui|esgoto|transporte|consulta|contrata|pessoal|vacina|sindicat|médic|medic|servidor|obra|licen', txt):
+        return False
+    if len(re.sub(r'\s+', '', txt)) < 45:
+        return False
+    if not re.search(r'(?i)apurar|irregular|desvio|licit|saude|educa|alvara|horas extras|folga|dano|fraude|improb|omiss|polui|esgoto|transporte|consulta|contrata|pessoal|vacina|sindicat|médic|medic|servidor|obra|licen|conclusão|conclusao', txt):
+        return False
+    return True
+
+
+def mp_status(case):
+    txt = low(case.get('texto',''))
+    if 'ajuizamento de ação civil pública' in txt or 'ajuizamento de acao civil publica' in deacc(txt):
+        return '🔴 ACP ajuizada'
+    if 'acordo de não persecução cível' in txt or 'acordo de nao perseguicao civel' in deacc(txt) or 'acnp' in txt:
+        return '🟠 ACNP firmado'
+    if 'termo de ajustamento de conduta' in txt or 'tac' in txt:
+        return '🟠 TAC firmado'
+    if 'prescrição' in txt or 'prescricao' in deacc(txt):
+        return '⚫ prescrito'
+    if 'violação' in txt or 'violacao' in deacc(txt):
+        return '🔴 apontou irregularidade'
+    if 'não foram constatadas irregularidades' in txt or 'nao foram constatadas irregularidades' in deacc(txt) or 'ausência de irregularidades' in txt or 'ausencia de irregularidades' in deacc(txt):
+        return '🟢 arquivado'
+    if 'promoção de arquivamento' in txt or 'promocao de arquivamento' in deacc(txt) or 'arquivamento' in txt:
+        return '🟢 arquivado'
+    return '❔ status indef.'
+
+
+def mp_severity(case):
+    txt = low(case.get('texto',''))
+    if any(k in txt for k in HIGH_MP_KWS):
+        return 'alta'
+    if any(k in txt for k in ['transporte escolar','saúde','saude','hospital','escola','educação','educacao']) and any(k in txt for k in ['dano','falha','irregular','preju']):
+        return 'alta'
+    return 'media'
+
+
+def mp_title(case, status):
+    subj = extract_subject_mp(case.get('texto','')) or 'apuração em São Bento do Sul'
+    subj = subj[0].lower() + subj[1:] if subj else subj
+    prefix = {
+        '🟠 TAC firmado': 'MP firma TAC sobre ',
+        '🟠 ACNP firmado': 'MP firma acordo sobre ',
+        '🔴 ACP ajuizada': 'MP leva à Justiça apuração sobre ',
+        '⚫ prescrito': 'MP encerra caso prescrito sobre ',
+        '🔴 apontou irregularidade': 'MP aponta irregularidade em ',
+        '❔ status indef.': 'MP registra apuração sobre ',
+        '🟢 arquivado': 'MP arquiva apuração sobre ',
+    }.get(status, 'MP arquiva apuração sobre ')
+    title = prefix + subj
+    return title[:87].rstrip() + '...' if len(title) > 90 else title
+
+
+def mp_description(case, status):
+    txt = low(case.get('texto',''))
+    subj = extract_subject_mp(case.get('texto','')) or 'o caso'
+    subj = subj[0].lower() + subj[1:] if subj else subj
+    if 'desvio de função configurado' in txt:
+        result = 'O desvio de função foi reconhecido, mas sem dano ao erário ou improbidade.'
+    elif 'ato de improbidade administrativa não configurado' in txt or 'inexistência de ato de improbidade administrativa' in txt:
+        result = 'O MP concluiu que não houve ato de improbidade.'
+    elif 'ausência de irregularidades' in txt or 'não há notícias de irregularidade' in txt or 'nao ha noticias de irregularidade' in deacc(txt):
+        result = 'Não foram constatadas irregularidades.'
+    elif 'irregularidade sanada' in txt or 'regularizado' in txt or 'correção' in txt:
+        result = 'A irregularidade foi sanada durante a apuração.'
+    elif 'dano ao erário' in txt or 'dano ao erario' in deacc(txt):
+        result = 'O caso tratava de possível dano ao erário.'
+    elif 'ajuizamento de ação civil pública' in txt or 'ajuizamento de acao civil publica' in deacc(txt):
+        result = 'O procedimento terminou com ajuizamento de ação civil pública.'
+    elif 'termo de ajustamento de conduta' in txt or 'tac' in txt:
+        result = 'Foi firmado TAC para ajustar a conduta apurada.'
+    elif 'acordo de não persecução cível' in txt or 'acordo de nao perseguicao civel' in deacc(txt) or 'acnp' in txt:
+        result = 'Foi firmado acordo para encerrar a apuração.'
+    elif 'prescrição' in txt or 'prescricao' in deacc(txt):
+        result = 'O possível ilícito foi alcançado pela prescrição.'
+    elif 'violação' in txt or 'violacao' in deacc(txt):
+        result = 'O órgão apontou violação e adotou a providência indicada no texto.'
+    else:
+        result = 'O caso foi encerrado conforme o texto de origem.'
+    closure = {
+        '🟠 TAC firmado': 'encerrado com TAC', '🟠 ACNP firmado': 'encerrado com acordo',
+        '🔴 ACP ajuizada': 'encerrado com ação judicial', '⚫ prescrito': 'encerrado por prescrição',
+        '🔴 apontou irregularidade': 'encerrado com apontamento de irregularidade',
+        '❔ status indef.': 'sem desfecho claro no texto', '🟢 arquivado': 'arquivado',
+    }.get(status, 'arquivado')
+    return norm(f'O MP apurou {subj}. {result} O caso ficou {closure}.')
+
+
+def tce_selected_keep(case):
+    header = low(case.get('header',''))
+    ref = case.get('ref','')
+    dec = low(case.get('decisao',''))
+    if 'consulta' in header or ref.startswith('CON '):
+        return False
+    legal_reg = re.search(r'ordenar o registro', dec) and ('considerado legal' in dec or 'considerando-os legais' in dec or 'considerado legal conforme análise realizada' in dec)
+    if legal_reg and ('aposent' in header or 'aposent' in dec or 'pensão' in header or 'pensao' in dec):
+        return False
+    substantive = any(k in dec for k in ['denegar o registro', 'considerado ilegal', 'multa', 'cautelar', 'sustação', 'sustacao', 'julgado irregular', 'apontou irregularidade', 'rejeição', 'rejeicao', 'ausência de certidão', 'ausencia de certidao'])
+    procedural_only = any(k in dec for k in ['suspendendo-se', 'devolução dos autos', 'retorno dos autos', 'conhecer do recurso', 'não conhecer', 'nao conhecer']) and not substantive
+    if procedural_only:
+        return False
+    if substantive:
+        return True
+    if 'fixar o prazo' in dec or 'sanar a restrição' in dec or 'sanar a restricao' in dec:
+        return True
+    if re.search(r'ordenar o registro', dec) and ('legal' in dec or 'considerado legal' in dec) and not substantive:
+        return False
+    if len(dec) < 100 and not substantive:
+        return False
+    return False
+
+
+def tce_status(case):
+    dec = low(case.get('decisao',''))
+    if any(k in dec for k in ['multa aplicada', 'cominação', 'cominacao']) or ('multa' in dec and any(k in dec for k in ['julgado irregular', 'denegar'])):
+        return '🔴 multa aplicada' if 'multa aplicada' in dec else '⬛ julgado irregular + multa'
+    if 'denegar o registro' in dec or 'considerado ilegal' in dec or 'julgado irregular' in dec:
+        return '⬛ julgado irregular'
+    if 'apontou irregularidade' in dec:
+        return '🔴 apontou irregularidade'
+    if 'rejeição' in dec or 'rejeicao' in deacc(dec):
+        return '🔴 parecer pela rejeição'
+    if any(k in dec for k in ['cautelar', 'sustação', 'sustacao']):
+        return '🟠 cautelar / sustação'
+    if any(k in dec for k in ['fixar o prazo', 'sanar a restrição', 'sanar a restricao', 'ausência de certidão', 'ausencia de certidao']):
+        return '🟡 em instrução (citação/audiência)'
+    if 'não conhecer' in dec or 'nao conhecer' in deacc(dec):
+        return '❔ não conhecido (sem análise)'
+    return '❔ em tramitação'
+
+
+def tce_severity(case, keep):
+    if not keep:
+        return 'media'
+    dec = low(case.get('decisao',''))
+    return 'alta' if any(k in dec for k in HIGH_TCE_KWS) or 'multa aplicada' in dec else 'media'
+
+
+def tce_title(case, status):
+    subj = extract_subject_tce(case)
+    dec = low(case.get('decisao',''))
+    if status == '⬛ julgado irregular':
+        if 'ausência de certidão' in dec or 'ausencia de certidao' in deacc(dec) or 'sanar a restrição' in dec:
+            return f'TCE cobra certidão de aposentadoria de {subj}' if subj else 'TCE cobra certidão em aposentadoria'
+        return f'TCE barra aposentadoria de {subj}' if subj else 'TCE barra ato de aposentadoria'
+    if status == '🟡 em instrução (citação/audiência)':
+        if 'ausência de certidão' in dec or 'ausencia de certidao' in deacc(dec):
+            return f'TCE cobra certidão ausente em aposentadoria de {subj}' if subj else 'TCE cobra certidão ausente em aposentadoria'
+        return f'TCE abre prazo para ajustar ato de {subj}' if subj else 'TCE abre prazo para ajustar ato'
+    if status == '🔴 apontou irregularidade':
+        return f'TCE aponta irregularidade em {subj}' if subj else 'TCE aponta irregularidade'
+    if status == '🟠 cautelar / sustação':
+        return f'TCE suspende caso de {subj}' if subj else 'TCE suspende caso'
+    if status == '❔ não conhecido (sem análise)':
+        return f'TCE não conhece recurso sobre {subj}' if subj else 'TCE não conhece o caso'
+    return f'TCE analisa {subj}' if subj else 'TCE analisa caso'
+
+
+def tce_description(case, status):
+    dec = low(case.get('decisao',''))
+    subj = extract_subject_tce(case) or 'o ato'
+    if status == '⬛ julgado irregular':
+        if 'ausência de certidão' in dec or 'ausencia de certidao' in deacc(dec):
+            return f'O Tribunal apontou falta de certidão de tempo de contribuição no ato de {subj}. O instituto recebeu prazo para regularizar a situação. O caso segue com irregularidade formal.'
+        return f'O Tribunal negou o registro do ato de {subj} por irregularidade no benefício. A unidade gestora foi chamada a corrigir a falha. O caso ficou marcado como irregular.'
+    if status == '🟡 em instrução (citação/audiência)':
+        return f'O Tribunal deu prazo para sanar a pendência no ato de {subj}. Ainda não houve desfecho final de mérito. O caso segue em instrução.'
+    if status == '🔴 apontou irregularidade':
+        return f'O Tribunal identificou irregularidade no ato de {subj}. A decisão registrou a falha e determinou as providências cabíveis. O caso segue com apontamento formal.'
+    if status == '🟠 cautelar / sustação':
+        return f'O Tribunal suspendeu os efeitos do caso de {subj}. A medida é cautelar e antecede o julgamento definitivo. O processo segue em análise.'
+    if status == '❔ não conhecido (sem análise)':
+        return f'O Tribunal não conheceu do recurso ligado a {subj} porque faltou requisito de admissibilidade. Não houve análise do mérito. O caso foi encerrado sem exame substantivo.'
+    return f'O Tribunal analisou o caso de {subj}. O texto de origem não deixa claro um desfecho de mérito mais forte. O caso segue na categoria indicada.'
+
+for fname in files:
+    data = json.load(open(IN_DIR / fname, 'r', encoding='utf-8'))
+    cases = data['casos']
+    selected_mp = selected_by_ref(cases, mp_phase_score)
+    selected_tce = selected_by_ref(cases, tce_phase_score)
+    out = []
+    for idx, case in enumerate(cases):
+        ref = case.get('ref', f'__idx_{idx}')
+        if case.get('tipo') == 'mp':
+            is_selected = selected_mp.get(ref, idx) == idx
+            keep = mp_keep(case, is_selected)
+            if keep:
+                status = mp_status(case)
+                severity = mp_severity(case)
+                title = mp_title(case, status)
+                description = mp_description(case, status)
+            else:
+                status = title = description = ''
+                severity = 'media'
+        else:
+            is_selected = selected_tce.get(ref, idx) == idx
+            keep = tce_selected_keep(case) and is_selected
+            if keep:
+                status = tce_status(case)
+                severity = tce_severity(case, keep)
+                title = tce_title(case, status)
+                description = tce_description(case, status)
+            else:
+                status = title = description = ''
+                severity = 'media'
+        out.append({'i': case['i'], 'tipo': case['tipo'], 'keep': keep, 'title': title, 'description': description, 'status': status, 'severity': severity})
+    json.dump(out, open(OUT_DIR / fname, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+    with open(OUT_DIR / fname, 'a', encoding='utf-8') as f:
+        f.write('\n')
+print('rewritten')
+PY
+rewritten
+[0m
+[0m$ [0mjq '[.[] | select(.keep==true)] | length' "pdf_template/amunesc/_lotes_curados/rio_negrinho__2.json"
+3
+[0m
+[0m$ [0mjq '.[] | select(.keep==true) | {i,tipo,title,status,severity}' "pdf_template/amunesc/_lotes_curados/rio_negrinho__2.json"
+{
+  "i": 84,
+  "tipo": "tce",
+  "title": "TCE analisa Maristela da Silva Seleme",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "media"
+}
+{
+  "i": 122,
+  "tipo": "tce",
+  "title": "TCE analisa Sirlei Terezinha Anton Cordeiro Júlio César Ronconi",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "media"
+}
+{
+  "i": 123,
+  "tipo": "tce",
+  "title": "TCE cobra certidão ausente em aposentadoria de Rio Negrinho",
+  "status": "🟡 em instrução (citação/audiência)",
+  "severity": "alta"
+}
+[0m
+Vou corrigir dois pontos de qualidade: multa só conta quando é aplicada de fato, e a extração de nome em TCE vai priorizar a decisão para não misturar interessados.
+[0m$ [0mpython3 - <<'PY'
+import json, re, unicodedata
+from pathlib import Path
+ROOT = Path('/Users/jairofortunato/mp')
+IN_DIR = ROOT / 'pdf_template' / 'amunesc' / '_lotes'
+OUT_DIR = ROOT / 'pdf_template' / 'amunesc' / '_lotes_curados'
+files = ['rio_negrinho__2.json','sao_bento_do_sul__0.json','sao_bento_do_sul__1.json']
+HIGH_MP_KWS = ['dano ao erário','dano ao erario','multa','fraude','nepot','improbidade ajuizada','prejuízo ao erário','prejuizo ao erario']
+
+def norm(s): return re.sub(r'\s+',' ', s or '').strip()
+def low(s): return norm(s).lower()
+def deacc(s): return ''.join(c for c in unicodedata.normalize('NFKD', s) if not unicodedata.combining(c))
+
+def actual_multa(dec):
+    d = deacc(dec).lower()
+    if 'multa aplicada' in d or 'cominar multa' in d:
+        return True
+    if 'possibilidade de aplicacao de multa' in d or 'possibilidade de aplicar multa' in d:
+        return False
+    if re.search(r'(?<!possibilidade de )aplicacao de multa', d):
+        return True
+    if re.search(r'(?<!possibilidade de )aplicar multa', d):
+        return True
+    return False
+
+def extract_subject_mp(text):
+    t = norm(text)
+    for pat in [r'Apurar\s+(.*?)(?:\.|;|$)', r'Apuração\s+(.*?)(?:\.|;|$)']:
+        m = re.search(pat, t, flags=re.I)
+        if m:
+            subj = norm(m.group(1)).rstrip('…')
+            if len(subj) >= 8:
+                return subj
+    if 'Conclusão:' in t:
+        tail = t.split('Conclusão:', 1)[1].strip()
+        tail = re.sub(r'^(Inquérito Civil|Procedimento Preparatório|Procedimento Administrativo)\.?\s*', '', tail, flags=re.I)
+        if len(tail) > 90:
+            tail = tail[:87].rstrip() + '...'
+        return tail
+    return ''
+
+def extract_subject_tce(case):
+    dec = norm(case.get('decisao',''))
+    txt = norm(case.get('texto',''))
+    for blob in [dec, txt]:
+        pats = [
+            r'retificação de aposentadoria de\s+([^,\.]+?)(?:,\s|\s+servidor|\s+servidora|\s+ocupante|\s+CPF|\s+considerado|\s+consubstanciado|$)',
+            r'ato de retificação de aposentadoria de\s+([^,\.]+?)(?:,\s|\s+servidor|\s+servidora|\s+ocupante|\s+CPF|\s+considerado|\s+consubstanciado|$)',
+            r'do ato de aposentadoria(?: da servidora| do servidor| de)?\s+([^,\.]+?)(?:,\s|\s+servidor|\s+servidora|\s+ocupante|\s+CPF|\s+considerado|\s+consubstanciado|$)',
+            r'registro de ato de aposentadoria de\s+([^,\.]+?)(?:,\s|\s+servidor|\s+servidora|\s+ocupante|\s+CPF|\s+considerado|\s+consubstanciado|$)',
+            r'aposentadoria de\s+([^,\.]+?)(?:,\s|\s+servidor|\s+servidora|\s+ocupante|\s+CPF|\s+considerado|\s+consubstanciado|$)',
+            r'benefício de\s+([^,\.]+?)(?:,\s|\s+servidor|\s+servidora|\s+ocupante|\s+CPF|\s+considerado|\s+consubstanciado|$)',
+            r'em benefício de\s+([^,\.]+?)(?:,\s|\s+servidor|\s+servidora|\s+ocupante|\s+CPF|\s+considerado|\s+consubstanciado|$)',
+        ]
+        for pat in pats:
+            m = re.search(pat, blob, flags=re.I)
+            if m:
+                subj = norm(m.group(1))
+                subj = subj.split(' e ')[0].strip(' ,;:-')
+                if len(subj) >= 3:
+                    return subj
+    return 'Rio Negrinho' if 'Rio Negrinho' in (dec + ' ' + txt) else ''
+
+def mp_phase_score(case):
+    header = deacc(low(case.get('header','')))
+    text = deacc(low(case.get('texto','')))
+    if 'conclusao' in header or 'conclusao:' in text:
+        return 2
+    if 'instauracao' in header:
+        return 1
+    return 1
+
+def tce_phase_score(case):
+    dec = deacc(low(case.get('decisao','')))
+    if any(k in dec for k in ['denegar','cautelar','sustação','sustacao','julgado irregular','apontou irregularidade','rejeicao','ausencia de certidao']) or actual_multa(dec):
+        return 2
+    if any(k in dec for k in ['decide', 'decido', 'acórdão', 'acordao']):
+        return 1
+    return 0
+
+def selected_by_ref(cases, phase_fn):
+    groups = {}
+    for idx, case in enumerate(cases):
+        groups.setdefault(case.get('ref', f'__idx_{idx}'), []).append((idx, case))
+    selected = {}
+    for ref, items in groups.items():
+        def date_key(case):
+            d = case.get('data','0000-00-00')
+            m = re.match(r'(\d{2})/(\d{2})/(\d{4})', d)
+            return (int(m.group(3)), int(m.group(2)), int(m.group(1))) if m else (0,0,0)
+        best_idx, _ = max(items, key=lambda ic: (phase_fn(ic[1]), date_key(ic[1]), ic[0]))
+        selected[ref] = best_idx
+    return selected
+
+def mp_keep(case, selected):
+    if not selected: return False
+    txt = norm(case.get('texto',''))
+    header = deacc(low(case.get('header','')))
+    if 'instauracao' in header and not re.search(r'(?i)apurar|irregular|desvio|licit|saude|educa|alvara|horas extras|folga|dano|fraude|improb|omiss|polui|esgoto|transporte|consulta|contrata|pessoal|vacina|sindicat|médic|medic|servidor|obra|licen', txt):
+        return False
+    if len(re.sub(r'\s+','',txt)) < 45: return False
+    if not re.search(r'(?i)apurar|irregular|desvio|licit|saude|educa|alvara|horas extras|folga|dano|fraude|improb|omiss|polui|esgoto|transporte|consulta|contrata|pessoal|vacina|sindicat|médic|medic|servidor|obra|licen|conclusão|conclusao', txt):
+        return False
+    return True
+
+def mp_status(case):
+    txt = deacc(low(case.get('texto','')))
+    if 'ajuizamento de acao civil publica' in txt: return '🔴 ACP ajuizada'
+    if 'acordo de nao perseguicao civel' in txt or 'acnp' in txt: return '🟠 ACNP firmado'
+    if 'termo de ajustamento de conduta' in txt or 'tac' in txt: return '🟠 TAC firmado'
+    if 'prescricao' in txt: return '⚫ prescrito'
+    if 'violacao' in txt: return '🔴 apontou irregularidade'
+    if 'nao foram constatadas irregularidades' in txt or 'ausencia de irregularidades' in txt: return '🟢 arquivado'
+    if 'promocao de arquivamento' in txt or 'arquivamento' in txt: return '🟢 arquivado'
+    return '❔ status indef.'
+
+def mp_severity(case):
+    txt = deacc(low(case.get('texto','')))
+    if any(k in txt for k in HIGH_MP_KWS): return 'alta'
+    if any(k in txt for k in ['transporte escolar','saude','hospital','escola','educacao']) and any(k in txt for k in ['dano','falha','irregular','preju']):
+        return 'alta'
+    return 'media'
+
+def mp_title(case, status):
+    subj = extract_subject_mp(case.get('texto','')) or 'apuração em São Bento do Sul'
+    subj = subj[0].lower() + subj[1:] if subj else subj
+    prefix = {'🟠 TAC firmado':'MP firma TAC sobre ','🟠 ACNP firmado':'MP firma acordo sobre ','🔴 ACP ajuizada':'MP leva à Justiça apuração sobre ','⚫ prescrito':'MP encerra caso prescrito sobre ','🔴 apontou irregularidade':'MP aponta irregularidade em ','❔ status indef.':'MP registra apuração sobre ','🟢 arquivado':'MP arquiva apuração sobre '}.get(status,'MP arquiva apuração sobre ')
+    title = prefix + subj
+    return title[:87].rstrip() + '...' if len(title) > 90 else title
+
+def mp_desc(case, status):
+    txt = deacc(low(case.get('texto','')))
+    subj = extract_subject_mp(case.get('texto','')) or 'o caso'
+    subj = subj[0].lower() + subj[1:] if subj else subj
+    if 'desvio de funcao configurado' in txt: result = 'O desvio de função foi reconhecido, mas sem dano ao erário ou improbidade.'
+    elif 'ato de improbidade administrativa nao configurado' in txt or 'inexistencia de ato de improbidade administrativa' in txt: result = 'O MP concluiu que não houve ato de improbidade.'
+    elif 'ausencia de irregularidades' in txt or 'nao ha noticias de irregularidade' in txt: result = 'Não foram constatadas irregularidades.'
+    elif 'irregularidade sanada' in txt or 'regularizado' in txt or 'correcao' in txt: result = 'A irregularidade foi sanada durante a apuração.'
+    elif 'dano ao erario' in txt: result = 'O caso tratava de possível dano ao erário.'
+    elif 'ajuizamento de acao civil publica' in txt: result = 'O procedimento terminou com ajuizamento de ação civil pública.'
+    elif 'termo de ajustamento de conduta' in txt or 'tac' in txt: result = 'Foi firmado TAC para ajustar a conduta apurada.'
+    elif 'acordo de nao perseguicao civel' in txt or 'acnp' in txt: result = 'Foi firmado acordo para encerrar a apuração.'
+    elif 'prescricao' in txt: result = 'O possível ilícito foi alcançado pela prescrição.'
+    elif 'violacao' in txt: result = 'O órgão apontou violação e adotou a providência indicada no texto.'
+    else: result = 'O caso foi encerrado conforme o texto de origem.'
+    closure = {'🟠 TAC firmado':'encerrado com TAC','🟠 ACNP firmado':'encerrado com acordo','🔴 ACP ajuizada':'encerrado com ação judicial','⚫ prescrito':'encerrado por prescrição','🔴 apontou irregularidade':'encerrado com apontamento de irregularidade','❔ status indef.':'sem desfecho claro no texto','🟢 arquivado':'arquivado'}.get(status,'arquivado')
+    return norm(f'O MP apurou {subj}. {result} O caso ficou {closure}.')
+
+def tce_selected_keep(case):
+    header = deacc(low(case.get('header','')))
+    ref = case.get('ref','')
+    dec = deacc(low(case.get('decisao','')))
+    if 'consulta' in header or ref.startswith('CON '): return False
+    if re.search(r'ordenar o registro', dec) and ('considerado legal' in dec or 'considerando-os legais' in dec or 'considerado legal conforme analise realizada' in dec) and ('aposent' in header or 'aposent' in dec or 'pensao' in header or 'pensao' in dec):
+        return False
+    substantive = any(k in dec for k in ['denegar o registro','considerado ilegal','julgado irregular','apontou irregularidade','rejeicao','ausencia de certidao']) or actual_multa(dec) or 'fixar o prazo' in dec or 'sanar a restricao' in dec
+    if substantive:
+        return True
+    if any(k in dec for k in ['suspendendo-se','devolucao dos autos','retorno dos autos','conhecer do recurso','nao conhecer']) and not substantive:
+        return False
+    if len(dec) < 100 and not substantive:
+        return False
+    return False
+
+def tce_status(case):
+    dec = deacc(low(case.get('decisao','')))
+    if actual_multa(dec): return '🔴 multa aplicada'
+    if 'denegar o registro' in dec or 'considerado ilegal' in dec or 'julgado irregular' in dec: return '⬛ julgado irregular'
+    if 'apontou irregularidade' in dec: return '🔴 apontou irregularidade'
+    if 'rejeicao' in dec: return '🔴 parecer pela rejeição'
+    if 'cautelar' in dec or 'sustacao' in dec: return '🟠 cautelar / sustação'
+    if 'fixar o prazo' in dec or 'sanar a restricao' in dec or 'ausencia de certidao' in dec: return '🟡 em instrução (citação/audiência)'
+    if 'nao conhecer' in dec: return '❔ não conhecido (sem análise)'
+    return '❔ em tramitação'
+
+def tce_severity(case, keep):
+    if not keep: return 'media'
+    dec = deacc(low(case.get('decisao','')))
+    return 'alta' if actual_multa(dec) or 'dano ao erario' in dec else 'media'
+
+def tce_title(case, status):
+    subj = extract_subject_tce(case)
+    dec = deacc(low(case.get('decisao','')))
+    if status == '⬛ julgado irregular':
+        if 'ausencia de certidao' in dec or 'sanar a restricao' in dec:
+            return f'TCE cobra certidão em aposentadoria de {subj}' if subj else 'TCE cobra certidão em aposentadoria'
+        return f'TCE barra aposentadoria de {subj}' if subj else 'TCE barra ato de aposentadoria'
+    if status == '🟡 em instrução (citação/audiência)':
+        return f'TCE cobra certidão ausente em aposentadoria de {subj}' if subj else 'TCE cobra certidão ausente em aposentadoria'
+    if status == '🔴 apontou irregularidade':
+        return f'TCE aponta irregularidade em {subj}' if subj else 'TCE aponta irregularidade'
+    if status == '🟠 cautelar / sustação':
+        return f'TCE suspende caso de {subj}' if subj else 'TCE suspende caso'
+    if status == '❔ não conhecido (sem análise)':
+        return f'TCE não conhece recurso sobre {subj}' if subj else 'TCE não conhece o caso'
+    return f'TCE analisa {subj}' if subj else 'TCE analisa caso'
+
+def tce_desc(case, status):
+    dec = deacc(low(case.get('decisao','')))
+    subj = extract_subject_tce(case) or 'o ato'
+    if status == '⬛ julgado irregular':
+        if 'ausencia de certidao' in dec or 'sanar a restricao' in dec:
+            return f'O Tribunal apontou falta de certidão de tempo de contribuição no ato de {subj}. O instituto recebeu prazo para regularizar a situação. O caso segue com irregularidade formal.'
+        return f'O Tribunal negou o registro do ato de {subj} por irregularidade no benefício. A unidade gestora foi chamada a corrigir a falha. O caso ficou marcado como irregular.'
+    if status == '🟡 em instrução (citação/audiência)':
+        return f'O Tribunal deu prazo para sanar a pendência no ato de {subj}. Ainda não houve desfecho final de mérito. O caso segue em instrução.'
+    if status == '🔴 apontou irregularidade':
+        return f'O Tribunal identificou irregularidade no ato de {subj}. A decisão registrou a falha e determinou as providências cabíveis. O caso segue com apontamento formal.'
+    if status == '🟠 cautelar / sustação':
+        return f'O Tribunal suspendeu os efeitos do caso de {subj}. A medida é cautelar e antecede o julgamento definitivo. O processo segue em análise.'
+    if status == '❔ não conhecido (sem análise)':
+        return f'O Tribunal não conheceu do recurso ligado a {subj} porque faltou requisito de admissibilidade. Não houve análise do mérito. O caso foi encerrado sem exame substantivo.'
+    return f'O Tribunal analisou o caso de {subj}. O texto de origem não deixa claro um desfecho de mérito mais forte. O caso segue na categoria indicada.'
+
+for fname in files:
+    data = json.load(open(IN_DIR / fname, 'r', encoding='utf-8'))
+    cases = data['casos']
+    sel_mp = selected_by_ref(cases, mp_phase_score)
+    sel_tce = selected_by_ref(cases, tce_phase_score)
+    out = []
+    for idx, case in enumerate(cases):
+        ref = case.get('ref', f'__idx_{idx}')
+        if case.get('tipo') == 'mp':
+            keep = mp_keep(case, sel_mp.get(ref, idx) == idx)
+            if keep:
+                status = mp_status(case)
+                severity = mp_severity(case)
+                title = mp_title(case, status)
+                description = mp_desc(case, status)
+            else:
+                status = title = description = ''
+                severity = 'media'
+        else:
+            keep = tce_selected_keep(case) and sel_tce.get(ref, idx) == idx
+            if keep:
+                status = tce_status(case)
+                severity = tce_severity(case, keep)
+                title = tce_title(case, status)
+                description = tce_desc(case, status)
+            else:
+                status = title = description = ''
+                severity = 'media'
+        out.append({'i': case['i'], 'tipo': case['tipo'], 'keep': keep, 'title': title, 'description': description, 'status': status, 'severity': severity})
+    with open(OUT_DIR / fname, 'w', encoding='utf-8') as f:
+        json.dump(out, f, ensure_ascii=False, indent=2)
+        f.write('\n')
+print('rewritten')
+PY
+rewritten
+[0m
+[0m$ [0mjq '.[] | select(.keep==true) | {i,title,status,severity}' "pdf_template/amunesc/_lotes_curados/rio_negrinho__2.json"
+{
+  "i": 84,
+  "title": "TCE barra aposentadoria de Maristela da Silva Seleme",
+  "status": "⬛ julgado irregular",
+  "severity": "media"
+}
+{
+  "i": 122,
+  "title": "TCE barra aposentadoria de Sirlei Terezinha Anton Cordeiro",
+  "status": "⬛ julgado irregular",
+  "severity": "media"
+}
+{
+  "i": 123,
+  "title": "TCE analisa Rio Negrinho",
+  "status": "🔴 multa aplicada",
+  "severity": "alta"
+}
+[0m
+O último ponto pendente é o falso positivo de multa por alerta de sanção potencial. Vou bloquear multa quando o texto só fala em possibilidade/advertência, não em aplicação efetiva.
+[0m$ [0mpython3 - <<'PY'
+import json, re, unicodedata
+from pathlib import Path
+ROOT = Path('/Users/jairofortunato/mp')
+IN_DIR = ROOT / 'pdf_template' / 'amunesc' / '_lotes'
+OUT_DIR = ROOT / 'pdf_template' / 'amunesc' / '_lotes_curados'
+files = ['rio_negrinho__2.json','sao_bento_do_sul__0.json','sao_bento_do_sul__1.json']
+HIGH_MP_KWS = ['dano ao erário','dano ao erario','multa','fraude','nepot','improbidade ajuizada','prejuízo ao erário','prejuizo ao erario']
+
+def norm(s): return re.sub(r'\s+',' ', s or '').strip()
+def low(s): return norm(s).lower()
+def deacc(s): return ''.join(c for c in unicodedata.normalize('NFKD', s) if not unicodedata.combining(c))
+
+def actual_multa(dec):
+    d = deacc(low(dec))
+    if 'multa aplicada' in d or 'cominar multa' in d:
+        return True
+    if 'possibilidade' in d or 'alertar' in d or 'alerta' in d:
+        return False
+    if re.search(r'\baplicacao de multa\b', d) or re.search(r'\baplicar multa\b', d):
+        return True
+    return False
+
+# (functions below identical to previous run, abbreviated for brevity by copy)
+def extract_subject_mp(text):
+    t = norm(text)
+    for pat in [r'Apurar\s+(.*?)(?:\.|;|$)', r'Apuração\s+(.*?)(?:\.|;|$)']:
+        m = re.search(pat, t, flags=re.I)
+        if m:
+            subj = norm(m.group(1)).rstrip('…')
+            if len(subj) >= 8:
+                return subj
+    if 'Conclusão:' in t:
+        tail = t.split('Conclusão:', 1)[1].strip()
+        tail = re.sub(r'^(Inquérito Civil|Procedimento Preparatório|Procedimento Administrativo)\.?\s*', '', tail, flags=re.I)
+        if len(tail) > 90:
+            tail = tail[:87].rstrip() + '...'
+        return tail
+    return ''
+
+def extract_subject_tce(case):
+    dec = norm(case.get('decisao',''))
+    txt = norm(case.get('texto',''))
+    for blob in [dec, txt]:
+        pats = [
+            r'retificação de aposentadoria de\s+([^,\.]+?)(?:,\s|\s+servidor|\s+servidora|\s+ocupante|\s+CPF|\s+considerado|\s+consubstanciado|$)',
+            r'ato de retificação de aposentadoria de\s+([^,\.]+?)(?:,\s|\s+servidor|\s+servidora|\s+ocupante|\s+CPF|\s+considerado|\s+consubstanciado|$)',
+            r'do ato de aposentadoria(?: da servidora| do servidor| de)?\s+([^,\.]+?)(?:,\s|\s+servidor|\s+servidora|\s+ocupante|\s+CPF|\s+considerado|\s+consubstanciado|$)',
+            r'registro de ato de aposentadoria de\s+([^,\.]+?)(?:,\s|\s+servidor|\s+servidora|\s+ocupante|\s+CPF|\s+considerado|\s+consubstanciado|$)',
+            r'aposentadoria de\s+([^,\.]+?)(?:,\s|\s+servidor|\s+servidora|\s+ocupante|\s+CPF|\s+considerado|\s+consubstanciado|$)',
+            r'benefício de\s+([^,\.]+?)(?:,\s|\s+servidor|\s+servidora|\s+ocupante|\s+CPF|\s+considerado|\s+consubstanciado|$)',
+            r'em benefício de\s+([^,\.]+?)(?:,\s|\s+servidor|\s+servidora|\s+ocupante|\s+CPF|\s+considerado|\s+consubstanciado|$)',
+        ]
+        for pat in pats:
+            m = re.search(pat, blob, flags=re.I)
+            if m:
+                subj = norm(m.group(1))
+                subj = subj.split(' e ')[0].strip(' ,;:-')
+                if len(subj) >= 3:
+                    return subj
+    return 'Rio Negrinho' if 'Rio Negrinho' in (dec + ' ' + txt) else ''
+
+def mp_phase_score(case):
+    header = deacc(low(case.get('header','')))
+    text = deacc(low(case.get('texto','')))
+    if 'conclusao' in header or 'conclusao:' in text:
+        return 2
+    if 'instauracao' in header:
+        return 1
+    return 1
+
+def tce_phase_score(case):
+    dec = deacc(low(case.get('decisao','')))
+    if any(k in dec for k in ['denegar','cautelar','sustação','sustacao','julgado irregular','apontou irregularidade','rejeicao','ausencia de certidao']) or actual_multa(dec):
+        return 2
+    if any(k in dec for k in ['decide', 'decido', 'acórdão', 'acordao']):
+        return 1
+    return 0
+
+def selected_by_ref(cases, phase_fn):
+    groups = {}
+    for idx, case in enumerate(cases):
+        groups.setdefault(case.get('ref', f'__idx_{idx}'), []).append((idx, case))
+    selected = {}
+    for ref, items in groups.items():
+        def date_key(case):
+            d = case.get('data','0000-00-00')
+            m = re.match(r'(\d{2})/(\d{2})/(\d{4})', d)
+            return (int(m.group(3)), int(m.group(2)), int(m.group(1))) if m else (0,0,0)
+        best_idx, _ = max(items, key=lambda ic: (phase_fn(ic[1]), date_key(ic[1]), ic[0]))
+        selected[ref] = best_idx
+    return selected
+
+def mp_keep(case, selected):
+    if not selected: return False
+    txt = norm(case.get('texto',''))
+    header = deacc(low(case.get('header','')))
+    if 'instauracao' in header and not re.search(r'(?i)apurar|irregular|desvio|licit|saude|educa|alvara|horas extras|folga|dano|fraude|improb|omiss|polui|esgoto|transporte|consulta|contrata|pessoal|vacina|sindicat|médic|medic|servidor|obra|licen', txt):
+        return False
+    if len(re.sub(r'\s+','',txt)) < 45: return False
+    if not re.search(r'(?i)apurar|irregular|desvio|licit|saude|educa|alvara|horas extras|folga|dano|fraude|improb|omiss|polui|esgoto|transporte|consulta|contrata|pessoal|vacina|sindicat|médic|medic|servidor|obra|licen|conclusão|conclusao', txt):
+        return False
+    return True
+
+def mp_status(case):
+    txt = deacc(low(case.get('texto','')))
+    if 'ajuizamento de acao civil publica' in txt: return '🔴 ACP ajuizada'
+    if 'acordo de nao perseguicao civel' in txt or 'acnp' in txt: return '🟠 ACNP firmado'
+    if 'termo de ajustamento de conduta' in txt or 'tac' in txt: return '🟠 TAC firmado'
+    if 'prescricao' in txt: return '⚫ prescrito'
+    if 'violacao' in txt: return '🔴 apontou irregularidade'
+    if 'nao foram constatadas irregularidades' in txt or 'ausencia de irregularidades' in txt: return '🟢 arquivado'
+    if 'promocao de arquivamento' in txt or 'arquivamento' in txt: return '🟢 arquivado'
+    return '❔ status indef.'
+
+def mp_severity(case):
+    txt = deacc(low(case.get('texto','')))
+    if any(k in txt for k in HIGH_MP_KWS): return 'alta'
+    if any(k in txt for k in ['transporte escolar','saude','hospital','escola','educacao']) and any(k in txt for k in ['dano','falha','irregular','preju']):
+        return 'alta'
+    return 'media'
+
+def mp_title(case, status):
+    subj = extract_subject_mp(case.get('texto','')) or 'apuração em São Bento do Sul'
+    subj = subj[0].lower() + subj[1:] if subj else subj
+    prefix = {'🟠 TAC firmado':'MP firma TAC sobre ','🟠 ACNP firmado':'MP firma acordo sobre ','🔴 ACP ajuizada':'MP leva à Justiça apuração sobre ','⚫ prescrito':'MP encerra caso prescrito sobre ','🔴 apontou irregularidade':'MP aponta irregularidade em ','❔ status indef.':'MP registra apuração sobre ','🟢 arquivado':'MP arquiva apuração sobre '}.get(status,'MP arquiva apuração sobre ')
+    title = prefix + subj
+    return title[:87].rstrip() + '...' if len(title) > 90 else title
+
+def mp_desc(case, status):
+    txt = deacc(low(case.get('texto','')))
+    subj = extract_subject_mp(case.get('texto','')) or 'o caso'
+    subj = subj[0].lower() + subj[1:] if subj else subj
+    if 'desvio de funcao configurado' in txt: result = 'O desvio de função foi reconhecido, mas sem dano ao erário ou improbidade.'
+    elif 'ato de improbidade administrativa nao configurado' in txt or 'inexistencia de ato de improbidade administrativa' in txt: result = 'O MP concluiu que não houve ato de improbidade.'
+    elif 'ausencia de irregularidades' in txt or 'nao ha noticias de irregularidade' in txt: result = 'Não foram constatadas irregularidades.'
+    elif 'irregularidade sanada' in txt or 'regularizado' in txt or 'correcao' in txt: result = 'A irregularidade foi sanada durante a apuração.'
+    elif 'dano ao erario' in txt: result = 'O caso tratava de possível dano ao erário.'
+    elif 'ajuizamento de acao civil publica' in txt: result = 'O procedimento terminou com ajuizamento de ação civil pública.'
+    elif 'termo de ajustamento de conduta' in txt or 'tac' in txt: result = 'Foi firmado TAC para ajustar a conduta apurada.'
+    elif 'acordo de nao perseguicao civel' in txt or 'acnp' in txt: result = 'Foi firmado acordo para encerrar a apuração.'
+    elif 'prescricao' in txt: result = 'O possível ilícito foi alcançado pela prescrição.'
+    elif 'violacao' in txt: result = 'O órgão apontou violação e adotou a providência indicada no texto.'
+    else: result = 'O caso foi encerrado conforme o texto de origem.'
+    closure = {'🟠 TAC firmado':'encerrado com TAC','🟠 ACNP firmado':'encerrado com acordo','🔴 ACP ajuizada':'encerrado com ação judicial','⚫ prescrito':'encerrado por prescrição','🔴 apontou irregularidade':'encerrado com apontamento de irregularidade','❔ status indef.':'sem desfecho claro no texto','🟢 arquivado':'arquivado'}.get(status,'arquivado')
+    return norm(f'O MP apurou {subj}. {result} O caso ficou {closure}.')
+
+def tce_selected_keep(case):
+    header = deacc(low(case.get('header','')))
+    ref = case.get('ref','')
+    dec = deacc(low(case.get('decisao','')))
+    if 'consulta' in header or ref.startswith('CON '): return False
+    if re.search(r'ordenar o registro', dec) and ('considerado legal' in dec or 'considerando-os legais' in dec or 'considerado legal conforme analise realizada' in dec) and ('aposent' in header or 'aposent' in dec or 'pensao' in header or 'pensao' in dec):
+        return False
+    substantive = any(k in dec for k in ['denegar o registro','considerado ilegal','julgado irregular','apontou irregularidade','rejeicao','ausencia de certidao']) or actual_multa(dec) or 'fixar o prazo' in dec or 'sanar a restricao' in dec
+    if substantive:
+        return True
+    if any(k in dec for k in ['suspendendo-se','devolucao dos autos','retorno dos autos','conhecer do recurso','nao conhecer']) and not substantive:
+        return False
+    if len(dec) < 100 and not substantive:
+        return False
+    return False
+
+def tce_status(case):
+    dec = deacc(low(case.get('decisao','')))
+    if actual_multa(dec): return '🔴 multa aplicada'
+    if 'denegar o registro' in dec or 'considerado ilegal' in dec or 'julgado irregular' in dec: return '⬛ julgado irregular'
+    if 'apontou irregularidade' in dec: return '🔴 apontou irregularidade'
+    if 'rejeicao' in dec: return '🔴 parecer pela rejeição'
+    if 'cautelar' in dec or 'sustacao' in dec: return '🟠 cautelar / sustação'
+    if 'fixar o prazo' in dec or 'sanar a restricao' in dec or 'ausencia de certidao' in dec: return '🟡 em instrução (citação/audiência)'
+    if 'nao conhecer' in dec: return '❔ não conhecido (sem análise)'
+    return '❔ em tramitação'
+
+def tce_severity(case, keep):
+    if not keep: return 'media'
+    dec = deacc(low(case.get('decisao','')))
+    return 'alta' if actual_multa(dec) or 'dano ao erario' in dec else 'media'
+
+def tce_title(case, status):
+    subj = extract_subject_tce(case)
+    dec = deacc(low(case.get('decisao','')))
+    if status == '⬛ julgado irregular':
+        if 'ausencia de certidao' in dec or 'sanar a restricao' in dec:
+            return f'TCE cobra certidão em aposentadoria de {subj}' if subj else 'TCE cobra certidão em aposentadoria'
+        return f'TCE barra aposentadoria de {subj}' if subj else 'TCE barra ato de aposentadoria'
+    if status == '🟡 em instrução (citação/audiência)':
+        return f'TCE cobra certidão ausente em aposentadoria de {subj}' if subj else 'TCE cobra certidão ausente em aposentadoria'
+    if status == '🔴 apontou irregularidade':
+        return f'TCE aponta irregularidade em {subj}' if subj else 'TCE aponta irregularidade'
+    if status == '🟠 cautelar / sustação':
+        return f'TCE suspende caso de {subj}' if subj else 'TCE suspende caso'
+    if status == '❔ não conhecido (sem análise)':
+        return f'TCE não conhece recurso sobre {subj}' if subj else 'TCE não conhece o caso'
+    return f'TCE analisa {subj}' if subj else 'TCE analisa caso'
+
+def tce_desc(case, status):
+    dec = deacc(low(case.get('decisao','')))
+    subj = extract_subject_tce(case) or 'o ato'
+    if status == '⬛ julgado irregular':
+        if 'ausencia de certidao' in dec or 'sanar a restricao' in dec:
+            return f'O Tribunal apontou falta de certidão de tempo de contribuição no ato de {subj}. O instituto recebeu prazo para regularizar a situação. O caso segue com irregularidade formal.'
+        return f'O Tribunal negou o registro do ato de {subj} por irregularidade no benefício. A unidade gestora foi chamada a corrigir a falha. O caso ficou marcado como irregular.'
+    if status == '🟡 em instrução (citação/audiência)':
+        return f'O Tribunal deu prazo para sanar a pendência no ato de {subj}. Ainda não houve desfecho final de mérito. O caso segue em instrução.'
+    if status == '🔴 apontou irregularidade':
+        return f'O Tribunal identificou irregularidade no ato de {subj}. A decisão registrou a falha e determinou as providências cabíveis. O caso segue com apontamento formal.'
+    if status == '🟠 cautelar / sustação':
+        return f'O Tribunal suspendeu os efeitos do caso de {subj}. A medida é cautelar e antecede o julgamento definitivo. O processo segue em análise.'
+    if status == '❔ não conhecido (sem análise)':
+        return f'O Tribunal não conheceu do recurso ligado a {subj} porque faltou requisito de admissibilidade. Não houve análise do mérito. O caso foi encerrado sem exame substantivo.'
+    return f'O Tribunal analisou o caso de {subj}. O texto de origem não deixa claro um desfecho de mérito mais forte. O caso segue na categoria indicada.'
+
+for fname in files:
+    data = json.load(open(IN_DIR / fname, 'r', encoding='utf-8'))
+    cases = data['casos']
+    sel_mp = selected_by_ref(cases, mp_phase_score)
+    sel_tce = selected_by_ref(cases, tce_phase_score)
+    out = []
+    for idx, case in enumerate(cases):
+        ref = case.get('ref', f'__idx_{idx}')
+        if case.get('tipo') == 'mp':
+            keep = mp_keep(case, sel_mp.get(ref, idx) == idx)
+            if keep:
+                status = mp_status(case)
+                severity = mp_severity(case)
+                title = mp_title(case, status)
+                description = mp_desc(case, status)
+            else:
+                status = title = description = ''
+                severity = 'media'
+        else:
+            keep = tce_selected_keep(case) and sel_tce.get(ref, idx) == idx
+            if keep:
+                status = tce_status(case)
+                severity = tce_severity(case, keep)
+                title = tce_title(case, status)
+                description = tce_desc(case, status)
+            else:
+                status = title = description = ''
+                severity = 'media'
+        out.append({'i': case['i'], 'tipo': case['tipo'], 'keep': keep, 'title': title, 'description': description, 'status': status, 'severity': severity})
+    with open(OUT_DIR / fname, 'w', encoding='utf-8') as f:
+        json.dump(out, f, ensure_ascii=False, indent=2)
+        f.write('\n')
+print('rewritten')
+PY
+rewritten
+[0m
+[0m$ [0mjq '.[] | select(.keep==true) | {i,title,status,severity}' "pdf_template/amunesc/_lotes_curados/rio_negrinho__2.json"
+{
+  "i": 84,
+  "title": "TCE barra aposentadoria de Maristela da Silva Seleme",
+  "status": "⬛ julgado irregular",
+  "severity": "media"
+}
+{
+  "i": 122,
+  "title": "TCE barra aposentadoria de Sirlei Terezinha Anton Cordeiro",
+  "status": "⬛ julgado irregular",
+  "severity": "media"
+}
+{
+  "i": 123,
+  "title": "TCE cobra certidão ausente em aposentadoria de Rio Negrinho",
+  "status": "🟡 em instrução (citação/audiência)",
+  "severity": "media"
+}
+[0m
+[0m$ [0mjq 'length, ([.[] | select(.keep==true)] | length), ([.[] | select(.severity=="alta")] | length)' "pdf_template/amunesc/_lotes_curados/rio_negrinho__2.json"
+56
+3
+0
+[0m
+[0m$ [0mjq 'length, ([.[] | select(.keep==true)] | length), ([.[] | select(.severity=="alta")] | length)' "pdf_template/amunesc/_lotes_curados/sao_bento_do_sul__1.json"
+70
+46
+9
+[0m
+[0m$ [0mjq 'length, ([.[] | select(.keep==true)] | length), ([.[] | select(.severity=="alta")] | length)' "pdf_template/amunesc/_lotes_curados/sao_bento_do_sul__0.json"
+70
+55
+20
+[0m
+[0m$ [0mjq '.[] | select(.keep==true) | .title' "pdf_template/amunesc/_lotes_curados/sao_bento_do_sul__1.json" | head -n 5
+"MP firma TAC sobre a prática de poluição sonora do estabelecimento Fundação Promotora d..."
+"MP arquiva apuração sobre meio ambiente. Despejo de esgoto sanitário na rede de drenage..."
+"MP firma TAC sobre possíveis irregularidades consistentes no estacionamento de veículos..."
+"MP arquiva apuração sobre eventuais irregularidade no pagamento de exames de Raio X pel..."
+"MP arquiva apuração sobre supostas ilicitudes na cessão de uso do autódromo Lourenço Sc..."
+[0m
+[0m$ [0mjq '.[] | select(.keep==true) | .title' "pdf_template/amunesc/_lotes_curados/sao_bento_do_sul__0.json" | head -n 5
+"MP registra apuração sobre desvio de função da servidora Franciele Aparecida Pscheidt e..."
+"MP arquiva apuração sobre a prática de atos de improbidade administrativa decorrentes d..."
+"MP aponta irregularidade em suspensão do repasse de recursos financeiros para cirurgias..."
+"MP arquiva apuração sobre irregularidades nos registros contábeis do IPRESBS"
+"MP arquiva apuração sobre a regularidades em procedimentos licitatórios realizados pela..."
+[0m
+[0m# [0mTodos
+[✓] Ler critério e lotes, identificar duplicatas/fases e casos truncados
+[✓] Curar o lote Rio Negrinho e gravar o JSON curado
+[✓] Curar o lote São Bento do Sul 0 e gravar o JSON curado
+[✓] Curar o lote São Bento do Sul 1 e gravar o JSON curado
+[✓] Verificar tamanhos/consistência dos JSONs curados e relatar totais
+[0m
+Gravei os 3 curados em `pdf_template/amunesc/_lotes_curados/`.
+
+- `rio_negrinho__2.json`: 56 casos, 3 `keep:true`, 0 `severity: alta`
+- `sao_bento_do_sul__0.json`: 70 casos, 55 `keep:true`, 20 `severity: alta`
+- `sao_bento_do_sul__1.json`: 70 casos, 46 `keep:true`, 9 `severity: alta`

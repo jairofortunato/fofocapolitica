@@ -1,0 +1,78 @@
+[0m
+> build · gpt-5.4-mini
+[0m
+Vou ler o critério editorial e mapear os três lotes antes de julgar caso a caso.
+[0m# [0mTodos
+[•] Ler `pdf_template/CURADORIA.md` e entender os critérios obrigatórios
+[ ] Analisar os lotes `joinville__49.json`, `joinville__50.json`, `joinville__51.json` caso a caso com a fonte
+[ ] Gravar as curadorias em `pdf_template/amunesc/_lotes_curados/` na mesma ordem
+[ ] Reportar resumo por lote com totais de casos, `keep:true` e `severity` alta
+[0m
+[0m→ [0mRead pdf_template/CURADORIA.md
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__49.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__50.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__51.json
+Vou checar o diretório de saída para manter o formato consistente antes de gravar os lotes.
+[0m✱ [0mGlob "pdf_template/amunesc/_lotes_curados"[90m in . · 0 matches[0m
+[0m✱ [0mGlob "pdf_template/amunesc/_lotes_curados/*"[90m in . · 80 matches[0m
+[0m✗ [0mRead pdf_template/amunesc/_lotes_curados/joinville__48.json failed[90m [offset=1, limit=40][0m
+[91m[1mError: [0mFile not found: /Users/jairofortunato/mp/pdf_template/amunesc/_lotes_curados/joinville__48.json
+[0m✱ [0mGlob "pdf_template/amunesc/_lotes_curados/joinville__47.json"[90m in . · 0 matches[0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/joinville__42.json[90m [offset=1, limit=30][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/joinville__40.json[90m [offset=1, limit=30][0m
+Vou gravar o primeiro lote agora, já com os cortes por falta de detalhe e pelas duplicações de fase.
+[0m% [0mPatch 1 file
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/joinville__49.json[90m [offset=1, limit=120][0m
+Achei um erro de aspas em um item do lote 49 e vou corrigir antes de seguir.
+[0m% [0mPatch 1 file
+[0m
+[0m$ [0mnode -e 'const fs=require("fs"); const j=JSON.parse(fs.readFileSync("pdf_template/amunesc/_lotes/joinville__49.json","utf8")); console.log(j.casos.length)'
+70
+[0m
+[0m$ [0mnode -e 'JSON.parse(require("fs").readFileSync("pdf_template/amunesc/_lotes_curados/joinville__49.json","utf8")); console.log("ok")'
+ok
+[0m
+O primeiro lote ficou válido. Agora vou preencher os dois seguintes, mantendo os cortes de duplicação e os casos truncados fora do dossiê.
+[0m$ [0mnode -e 'const fs=require("fs"); const j=JSON.parse(fs.readFileSync("pdf_template/amunesc/_lotes/joinville__51.json","utf8")); console.log(j.casos.length)'
+70
+[0m
+[0m$ [0mnode -e 'const fs=require("fs"); const j=JSON.parse(fs.readFileSync("pdf_template/amunesc/_lotes/joinville__50.json","utf8")); console.log(j.casos.length)'
+70
+[0m
+[0m% [0mPatch 1 file
+[0m
+[0m$ [0mnode -e 'const fs=require("fs"); const j=JSON.parse(fs.readFileSync("pdf_template/amunesc/_lotes_curados/joinville__50.json","utf8")); console.log(j.length)'
+70
+[0m
+[0m$ [0mnode -e 'JSON.parse(require("fs").readFileSync("pdf_template/amunesc/_lotes_curados/joinville__50.json","utf8")); console.log("ok")'
+ok
+[0m
+[0m% [0mPatch 1 file
+[0m
+[0m$ [0mnode -e 'JSON.parse(require("fs").readFileSync("pdf_template/amunesc/_lotes_curados/joinville__51.json","utf8")); console.log("ok")'
+ok
+[0m
+[0m$ [0mnode -e 'const fs=require("fs"); const j=JSON.parse(fs.readFileSync("pdf_template/amunesc/_lotes_curados/joinville__51.json","utf8")); console.log(j.length)'
+70
+[0m
+Os três arquivos já estão gravados. Vou conferir os totais por lote para fechar o resumo final com números exatos.
+[0m$ [0mnode -e 'const fs=require("fs"); const j=JSON.parse(fs.readFileSync("pdf_template/amunesc/_lotes_curados/joinville__51.json","utf8")); console.log(j.filter(x=>x.keep).length, j.filter(x=>x.severity==="alta").length)'
+24 1
+[0m
+[0m$ [0mnode -e 'const fs=require("fs"); const j=JSON.parse(fs.readFileSync("pdf_template/amunesc/_lotes_curados/joinville__50.json","utf8")); console.log(j.filter(x=>x.keep).length, j.filter(x=>x.severity==="alta").length)'
+25 0
+[0m
+[0m$ [0mnode -e 'const fs=require("fs"); const j=JSON.parse(fs.readFileSync("pdf_template/amunesc/_lotes_curados/joinville__49.json","utf8")); console.log(j.filter(x=>x.keep).length, j.filter(x=>x.severity==="alta").length)'
+38 0
+[0m
+[0m# [0mTodos
+[✓] Ler `pdf_template/CURADORIA.md` e entender os critérios obrigatórios
+[✓] Analisar os lotes `joinville__49.json`, `joinville__50.json`, `joinville__51.json` caso a caso com a fonte
+[✓] Gravar as curadorias em `pdf_template/amunesc/_lotes_curados/` na mesma ordem
+[✓] Reportar resumo por lote com totais de casos, `keep:true` e `severity` alta
+[0m
+Gravei as curadorias em `pdf_template/amunesc/_lotes_curados/`.
+
+- `joinville__49.json`: 70 casos, `keep:true` 38, `severity` alta 0
+- `joinville__50.json`: 70 casos, `keep:true` 25, `severity` alta 0
+- `joinville__51.json`: 70 casos, `keep:true` 24, `severity` alta 1

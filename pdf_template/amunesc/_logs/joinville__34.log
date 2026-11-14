@@ -1,0 +1,563 @@
+[0m
+> build · gpt-5.4-mini
+[0m
+Vou ler o critério e os três lotes, identificar a fonte de cada caso e então curar e gravar cada JSON na ordem pedida.
+[0m→ [0mRead pdf_template/CURADORIA.md
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__34.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__35.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__36.json
+Já tenho o critério e os três lotes. Agora vou marcar os casos substantivos, cortar as instaurações vagas e as duplicatas de fase, e só então escrever cada JSON curado.
+[0m
+[0m# [0mTodos
+[•] Curar joinville__34.json e gravar em _lotes_curados
+[ ] Curar joinville__35.json e gravar em _lotes_curados
+[ ] Curar joinville__36.json e gravar em _lotes_curados
+[ ] Verificar contagens finais por lote e resumo
+[0m
+Os lotes têm muitos arquivamentos substantivos e várias instaurações sem fato descrito. Vou gravar o primeiro curado agora, depois sigo lote a lote.
+[0m✱ [0mGlob "pdf_template/amunesc/_lotes_curados"[90m in . · 0 matches[0m
+[0m✱ [0mGlob "pdf_template/amunesc/_lotes/*.json"[90m in . · 100 matches[0m
+[0m
+[0m$ [0mls "pdf_template/amunesc"
+_build
+_curated_data
+_logs
+_lotes
+_lotes_curados
+assets
+cores.json
+financas.json
+[0m
+Vou automatizar a escrita dos três JSONs para preservar a ordem exata e evitar desalinhamento entre casos.
+[0m$ [0mpython - <<'PY'
+import json
+from pathlib import Path
+root = Path('/Users/jairofortunato/mp/pdf_template/amunesc')
+inputs = {
+    'joinville__34.json': root / '_lotes' / 'joinville__34.json',
+    'joinville__35.json': root / '_lotes' / 'joinville__35.json',
+    'joinville__36.json': root / '_lotes' / 'joinville__36.json',
+}
+outdir = root / '_lotes_curados'
+outdir.mkdir(exist_ok=True)
+
+curations = {
+'joinville__34.json': {
+  2380: {"keep": True, "title": "MP arquiva denúncia sobre canina em vulnerabilidade", "description": "A Promotoria apurou possível abandono de uma canina em Joinville, mas constatou que o animal foi doado e não havia situação atual de vulnerabilidade. O caso foi arquivado após atuação do órgão ambiental.", "status": "🟢 arquivado", "severity": "media"},
+  2381: {"keep": False},
+  2382: {"keep": False},
+  2383: {"keep": True, "title": "MP arquiva apuração sobre cão em Joinville", "description": "A investigação foi sobre possível vulnerabilidade de um cão em imóvel da Vila Nova. A diligência constatou atendimento integral do tutor e bem-estar resguardado, com arquivamento.", "status": "🟢 arquivado", "severity": "media"},
+  2384: {"keep": True, "title": "MP arquiva suspeita de contaminação na Praia da Vigorelli", "description": "O caso tratava de possíveis fontes de contaminação em ponto da Praia da Vigorelli. A SAMA acionou a concessionária e as medições finais indicaram própria condição para banho, com arquivamento.", "status": "🟢 arquivado", "severity": "media"},
+  2385: {"keep": True, "title": "MP arquiva apuração sobre canina em Joinville", "description": "A notícia tratava de possível abandono de uma canina no Bairro Bom Retiro. O órgão ambiental constatou vacinação, água, alimentação e abrigo adequados, e arquivou o caso.", "status": "🟢 arquivado", "severity": "media"},
+  2386: {"keep": True, "title": "MP arquiva apuração sobre canino vacinado e microchipado", "description": "O procedimento verificou suposta vulnerabilidade de um canino em residência da Vila Nova. A diligência encontrou o animal vacinado, microchipado e com bem-estar resguardado, com arquivamento.", "status": "🟢 arquivado", "severity": "media"},
+  2387: {"keep": True, "title": "MP arquiva inquérito sobre leitos de UTI pediátrica", "description": "O inquérito concluiu que não havia indícios de superlotação nem de insuficiência de leitos de UTI pediátrica na Região Nordeste. A Promotoria entendeu que não havia novas medidas a adotar e arquivou o caso.", "status": "🟢 arquivado", "severity": "media"},
+  2388: {"keep": True, "title": "MP arquiva risco em estádio após correções de segurança", "description": "A apuração envolvia risco ao consumidor no Estádio Dr. Sadalla Amin Ghanem para jogos do Joinville. Os laudos apontados foram sanados e os órgãos responsáveis atuaram, levando ao arquivamento.", "status": "🟢 arquivado", "severity": "media"},
+  2389: {"keep": True, "title": "MP arquiva caso sobre contrato do Hospital São José", "description": "O caso tratava de moralidade administrativa e descumprimento contratual já submetido ao Judiciário. A Promotoria afirmou que a matéria era cível e administrativa, sem irregularidade típica, e arquivou.", "status": "🟢 arquivado", "severity": "media"},
+  2390: {"keep": True, "title": "MP barra nova investigação sobre abandono recorrente de animais", "description": "A notícia foi sobre abandono recorrente de animais na região indicada. O órgão municipal acompanhou a situação, acolheu os filhotes e o MP indeferiu nova apuração por falta de elementos atuais.", "status": "❔ status indef.", "severity": "media"},
+  2391: {"keep": True, "title": "MP arquiva apuração sobre proteção veicular", "description": "A investigação examinou oferta de seguros por associação que atuava como proteção veicular. O MP concluiu que não houve publicidade enganosa nem irregularidade e arquivou o inquérito.", "status": "🟢 arquivado", "severity": "media"},
+  2392: {"keep": False},
+  2393: {"keep": True, "title": "MP arquiva apuração sobre pitbull sem localização", "description": "A notícia tratava de vulnerabilidade de um canino na Paranaguamirim. O animal não foi localizado e o órgão ambiental indeferiu a instauração, sem novas medidas.", "status": "🟢 arquivado", "severity": "media"},
+  2394: {"keep": True, "title": "MP arquiva caso sobre canina atendida pela SAMA", "description": "A apuração foi sobre possível vulnerabilidade de uma canina em Joinville. O órgão ambiental informou atendimento às determinações e o bem-estar do animal foi resguardado.", "status": "🟢 arquivado", "severity": "media"},
+  2395: {"keep": False},
+  2396: {"keep": True, "title": "MP arquiva apuração sobre abandono de canina", "description": "A notícia tratava de possível abandono de uma canina que acabou adotada. Houve requisição de inquérito policial, mas o MP indeferiu a instauração na esfera cível.", "status": "🟢 arquivado", "severity": "media"},
+  2397: {"keep": False},
+  2398: {"keep": False},
+  2399: {"keep": True, "title": "MP arquiva suspeita de omissão no presídio regional", "description": "A apuração tratou de suposta omissão de agentes na contenção de ameaças entre internos. A administração prisional disse ter tomado as medidas cabíveis, e o MP arquivou o caso.", "status": "🟢 arquivado", "severity": "media"},
+  2400: {"keep": True, "title": "MP arquiva caso de duas caninas acolhidas", "description": "A notícia envolvia risco a duas caninas em rua de Joinville. As animais foram acolhidas e encaminhadas para tratamento, ficando em lar temporário.", "status": "🟢 arquivado", "severity": "media"},
+  2401: {"keep": True, "title": "MP arquiva denúncia sobre cães em condomínio", "description": "A apuração era sobre cães de grande porte soltos em condomínio. A tutora instalou cerca e atendeu integralmente às determinações, com arquivamento.", "status": "🟢 arquivado", "severity": "media"},
+  2402: {"keep": True, "title": "MP arquiva caso de canina resguardada no Jardim Iririú", "description": "A notícia tratava de possível vulnerabilidade de um canino em Joinville. O tutor cumpriu as determinações da SAMA e o animal ficou em segurança.", "status": "🟢 arquivado", "severity": "media"},
+  2403: {"keep": True, "title": "MP arquiva apuração sobre canina e filhotes", "description": "A investigação tratou de situação de vulnerabilidade de uma canina com filhotes. Os tutores atenderam às determinações e os animais foram doados ou castrados, com bem-estar resguardado.", "status": "🟢 arquivado", "severity": "media"},
+  2404: {"keep": False},
+  2405: {"keep": True, "title": "MP arquiva denúncia sobre água e comida no presídio", "description": "A notícia questionava restrição ao porte de água no pátio e a alimentação no Presídio Regional de Joinville. A unidade justificou as regras de segurança e o MP não viu indícios mínimos de irregularidade.", "status": "🟢 arquivado", "severity": "media"},
+  2406: {"keep": True, "title": "MP arquiva caso de tuberculose no presídio", "description": "A apuração tratou de casos de tuberculose no Presídio Regional de Joinville. Secretaria de Saúde e unidade prisional relataram medidas de controle adequadas e o MP indeferiu a investigação.", "status": "🟢 arquivado", "severity": "media"},
+  2407: {"keep": True, "title": "MP arquiva apuração sobre pitbull acolhido", "description": "A notícia tratava de canino da raça pitbull abandonado em Joinville. O órgão ambiental acolheu o animal e resguardou seu bem-estar.", "status": "🟢 arquivado", "severity": "media"},
+  2408: {"keep": True, "title": "MP arquiva apuração sobre canina em paradeiro incerto", "description": "A investigação envolvia possível abandono de canina na região de Petrópolis. O animal não foi localizado e o MP arquivou por falta de informações sobre o paradeiro.", "status": "🟢 arquivado", "severity": "media"},
+  2409: {"keep": True, "title": "MP arquiva fiscalização de TAC com paróquia", "description": "O procedimento fiscalizou o cumprimento de TAC firmado pela paróquia. Como o termo foi cumprido, o caso foi arquivado.", "status": "🟢 TAC firmado", "severity": "media"},
+  2410: {"keep": True, "title": "MP arquiva fiscalização de TAC da Mitra Diocesana", "description": "O procedimento acompanhou o cumprimento de termo de ajustamento de conduta firmado com a Mitra Diocesana de Joinville. O MP registrou cumprimento e arquivou os autos.", "status": "🟢 TAC firmado", "severity": "media"},
+  2411: {"keep": False},
+  2412: {"keep": True, "title": "MP arquiva caso de rotulagem de bebidas da INCASA", "description": "A apuração tratou de possível descumprimento das normas de rotulagem de bebidas alcoólicas. A rotulagem foi adequada e não houve evidência de produto irregular, com arquivamento.", "status": "🟢 arquivado", "severity": "media"},
+  2413: {"keep": True, "title": "MP arquiva apuração sobre canino em Joinville", "description": "A notícia tratava de possível vulnerabilidade de um canino. O órgão ambiental adotou medidas administrativas e o bem-estar do animal ficou resguardado.", "status": "🟢 arquivado", "severity": "media"},
+  2414: {"keep": True, "title": "MP arquiva caso de husky com bem-estar resguardado", "description": "A apuração verificou possível vulnerabilidade de um husky siberiano. O local estava adequado, com vacinação e microchipagem regulares, e o caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2415: {"keep": True, "title": "MP arquiva apuração sobre canina atropelada", "description": "A notícia envolvia possível necessidade de atendimento veterinário urgente a uma canina atropelada. O atendimento foi prestado e o animal ficou resguardado.", "status": "🟢 arquivado", "severity": "media"},
+  2416: {"keep": True, "title": "MP arquiva apuração sobre caninos em imóvel do Iririú", "description": "A notícia tratava de suposta persistência de vulnerabilidade de caninos em imóvel de Joinville. O MP indeferiu a instauração após constatar que os animais estavam no interior do imóvel e a noticiante permaneceu inerte.", "status": "🟢 arquivado", "severity": "media"},
+  2417: {"keep": True, "title": "MP arquiva caso de assistência social em Joinville", "description": "A apuração concluiu que a rede socioassistencial municipal acolheu e orientou adequadamente a pessoa atendida. Não houve irregularidade na prestação do serviço público.", "status": "🟢 arquivado", "severity": "media"},
+  2418: {"keep": True, "title": "MP arquiva caso de quatro caninos com acesso à rua", "description": "A notícia tratava de quatro cães com acesso à via pública. O órgão ambiental adotou medidas administrativas e o MP arquivou após resguardar o bem-estar dos animais.", "status": "🟢 arquivado", "severity": "media"},
+  2419: {"keep": False},
+  2420: {"keep": True, "title": "MP arquiva denúncia sobre spray de pimenta no presídio feminino", "description": "A apuração examinou o uso de bomba de efeito moral e spray de pimenta no Presídio Feminino de Joinville. As informações colhidas não confirmaram as alegações e o caso foi indeferido.", "status": "🟢 arquivado", "severity": "media"},
+  2421: {"keep": True, "title": "MP arquiva caso de canino vacinado e microchipado", "description": "A notícia tratava de suposta vulnerabilidade e maus-tratos a um canino. O órgão ambiental constatou vacinação, castração, microchipagem e bem-estar resguardado.", "status": "🟢 arquivado", "severity": "media"},
+  2422: {"keep": False},
+  2423: {"keep": True, "title": "MP arquiva caso de animal em evento no Timbé", "description": "A apuração tratou de possível vulnerabilidade de um animal perto do Centro de Eventos Timbé. O órgão ambiental constatou vacinação, microchipagem e abrigo adequado, com arquivamento.", "status": "🟢 arquivado", "severity": "media"},
+  2424: {"keep": True, "title": "MP arquiva caso de drenagem pluvial em Petrópolis", "description": "A apuração tratou de irregularidades no sistema de drenagem pluvial da Rua São Domingos. Após obras e monitoramento, o problema de alagamento foi resolvido e o caso arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2425: {"keep": False},
+  2426: {"keep": True, "title": "MP arquiva apuração sobre conferência municipal da cidade", "description": "O procedimento verificou supostas irregularidades na organização da Conferência Municipal da Cidade de Joinville. Os elementos não apontaram transgressão e o MP arquivou o caso.", "status": "🟢 arquivado", "severity": "media"},
+  2427: {"keep": False},
+  2428: {"keep": False},
+  2429: {"keep": True, "title": "MP arquiva caso de cães soltos em condomínio", "description": "A notícia tratava de cães de grande porte soltos em condomínio em Joinville. A tutora instalou cerca e atendeu às determinações, resguardando os animais.", "status": "🟢 arquivado", "severity": "media"},
+  2430: {"keep": True, "title": "MP arquiva apoio à vacinação de cães resgatados", "description": "A apuração tratou de auxílio na vacinação de cães resgatados e mantidos como lar temporário. As vacinações foram realizadas e o caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2431: {"keep": True, "title": "MP arquiva denúncia sobre prontuário de canino", "description": "A notícia alegava omissão do CBEA na entrega de prontuário e exames de um canino resgatado. O órgão apresentou documentação comprobatória e o MP indeferiu a investigação.", "status": "🟢 arquivado", "severity": "media"},
+  2432: {"keep": True, "title": "MP arquiva caso de animais no Parc de France", "description": "A apuração verificou possível vulnerabilidade de animais no Parc de France. A associação de moradores informou ausência de irregularidades e o caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2433: {"keep": False},
+  2434: {"keep": True, "title": "MP arquiva disputa sobre vícios em imóvel entregue", "description": "A investigação tratou de problemas estruturais e vícios ocultos em empreendimento imobiliário. O MP concluiu que se tratava de direito individual disponível e arquivou o caso.", "status": "🟢 arquivado", "severity": "media"},
+  2435: {"keep": False},
+  2436: {"keep": True, "title": "MP arquiva apuração sobre mobilidade e drenagem em Petrópolis", "description": "A investigação tratava de mobilidade urbana, ordem urbanística e saneamento em ruas do bairro Petrópolis. Os problemas passaram a ser mantidos por zeladoria mensal e o caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2437: {"keep": False},
+  2438: {"keep": False},
+  2439: {"keep": False},
+  2440: {"keep": False},
+  2441: {"keep": True, "title": "MP arquiva apuração sobre atendimento a canina resgatada", "description": "A notícia tratava de atendimento médico-veterinário a animal resgatado. O encaminhamento particular foi feito e não houve indício de omissão do órgão ambiental.", "status": "🟢 arquivado", "severity": "media"},
+  2442: {"keep": True, "title": "MP arquiva caso de corte autorizado de árvore centenária", "description": "A apuração verificou o corte de uma árvore centenária em Joinville. A supressão havia sido autorizada e a compensação ambiental foi cumprida.", "status": "🟢 arquivado", "severity": "media"},
+  2443: {"keep": True, "title": "MP arquiva caso de regularização ambiental da Plasinco Sul", "description": "A investigação tratou de suposto descumprimento de condicionantes ambientais. Houve regularização, entrega de laudos e confirmação das informações, com arquivamento.", "status": "🟢 arquivado", "severity": "media"},
+  2444: {"keep": True, "title": "MP firma TAC com Bistek em caso de alimento com agrotóxico", "description": "A apuração envolveu risco à saúde do consumidor por alimento com ingrediente ativo de agrotóxico não autorizado. O MP registrou TAC e concluiu que não houve lesão coletiva comprovada no encerramento do feito.", "status": "🟠 TAC firmado", "severity": "media"},
+  2445: {"keep": True, "title": "MP arquiva apuração sobre agrotóxico em produto da Cantu", "description": "A investigação apurou possível risco à saúde do consumidor em alimento comercializado pela empresa. Não foram encontrados indícios de reiteração ou falhas internas e o caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2446: {"keep": True, "title": "MP arquiva apuração sobre agrotóxico em produto da Giassi", "description": "A apuração tratou de possível risco à saúde do consumidor por produto com ingrediente ativo de agrotóxico. Não houve irregularidades nem fundamento para ação judicial, com arquivamento.", "status": "🟢 arquivado", "severity": "media"},
+  2447: {"keep": True, "title": "MP arquiva suspeita de demora no atendimento de canina idosa", "description": "A notícia tratava de possível demora em atendimento veterinário urgente a uma canina idosa. O animal morreu antes do atendimento, sem omissão ou irregularidade atribuída à SAMA.", "status": "🟢 arquivado", "severity": "media"},
+  2448: {"keep": False},
+  2449: {"keep": False},
+},
+'joinville__35.json': {
+  2450: {"keep": False},
+  2451: {"keep": False},
+  2452: {"keep": True, "title": "MP arquiva caso sobre exercício irregular de educação física", "description": "A notícia tratava de exercício irregular da profissão de educador físico. Houve termo circunstanciado e o MP arquivou a parte cível por falta de dano coletivo concreto atual.", "status": "🟢 arquivado", "severity": "media"},
+  2453: {"keep": False},
+  2454: {"keep": False},
+  2455: {"keep": True, "title": "MP firma TAC com academia por oferta irregular de serviços", "description": "A investigação apurou risco à saúde do consumidor por serviços de educação física prestados por pessoas não habilitadas. O caso terminou com TAC, multa compensatória e arquivamento.", "status": "🟠 TAC firmado", "severity": "media"},
+  2456: {"keep": False},
+  2457: {"keep": True, "title": "MP arquiva caso sobre pitbulls no CBEA de Joinville", "description": "A apuração tratou da omissão do CBEA no acolhimento de pitbulls acionados pela Polícia Militar. O órgão adotou providências e os animais passaram a ser acompanhados, com arquivamento.", "status": "🟢 arquivado", "severity": "media"},
+  2458: {"keep": False},
+  2459: {"keep": True, "title": "MP arquiva caso de acessibilidade e Libras na educação", "description": "A notícia tratava da obrigação de intérprete de Libras em ambiente educacional. O MP concluiu que a exigência se limita à educação básica e superior regulares e arquivou.", "status": "🟢 arquivado", "severity": "media"},
+  2460: {"keep": False},
+  2461: {"keep": True, "title": "MP arquiva pedido de segundo professor para aluno com autismo", "description": "A apuração tratou de concessão de segundo professor para aluno com autismo. A Promotoria concluiu pela ausência de interesse de agir e arquivou.", "status": "🟢 arquivado", "severity": "media"},
+  2462: {"keep": True, "title": "MP arquiva novo pedido de segundo professor para aluno com autismo", "description": "O caso repetia a discussão sobre segundo professor para aluno com autismo. O parecer técnico e a ausência de interesse de agir levaram ao arquivamento.", "status": "🟢 arquivado", "severity": "media"},
+  2463: {"keep": True, "title": "MP arquiva caso de falta de professores em escola de Joinville", "description": "A notícia tratava de ausência de professor de Educação Física e Ciências em escola municipal. A situação foi resolvida administrativamente e o procedimento perdeu objeto.", "status": "🟢 arquivado", "severity": "media"},
+  2464: {"keep": False},
+  2465: {"keep": False},
+  2466: {"keep": False},
+  2467: {"keep": False},
+  2468: {"keep": False},
+  2469: {"keep": False},
+  2470: {"keep": True, "title": "MP arquiva demora em cirurgia no Hospital São José", "description": "A apuração sobre demora na fila de cirurgia no Hospital Municipal São José concluiu que não houve demora injustificada. O MP arquivou o inquérito.", "status": "🟢 arquivado", "severity": "media"},
+  2471: {"keep": True, "title": "MP arquiva caso de sanitárias em bar de Joinville", "description": "O caso tratava de suposto desrespeito às normas sanitárias por um bar. A atividade foi regularizada e o MP não viu necessidade de medidas judiciais ou extrajudiciais.", "status": "🟢 arquivado", "severity": "media"},
+  2472: {"keep": True, "title": "MP arquiva caso de água de piscinas regularizada", "description": "A notícia tratava de desrespeito a normas sanitárias sobre água usada em piscinas e para consumo. As atividades foram regularizadas e o caso arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2473: {"keep": True, "title": "MP arquiva caso sobre canina com direitos resguardados", "description": "A conclusão informou que o animal tinha seus direitos resguardados e que não havia mais medidas administrativas a adotar. O caso foi encerrado sem prosseguimento.", "status": "❔ status indef.", "severity": "media"},
+  2474: {"keep": False},
+  2475: {"keep": True, "title": "MP arquiva inquérito após TAC com agn serviços", "description": "A apuração terminou com celebração de termo de ajustamento de conduta, e o procedimento foi arquivado para acompanhamento. O ajuste resolveu a controvérsia.", "status": "🟠 TAC firmado", "severity": "media"},
+  2476: {"keep": False},
+  2477: {"keep": True, "title": "MP arquiva caso sobre reserva legal em imóvel", "description": "A notícia tratou da não obrigatoriedade de averbação de reserva legal no imóvel analisado. Sem outra medida a adotar, o MP arquivou.", "status": "🟢 arquivado", "severity": "media"},
+  2478: {"keep": True, "title": "MP arquiva caso sobre direitos de pessoas em situação de rua", "description": "A Promotoria registrou que já havia adotado as medidas cabíveis sobre os direitos das pessoas em situação de rua. O caso foi arquivado por exaurimento da atuação ministerial.", "status": "🟢 arquivado", "severity": "media"},
+  2479: {"keep": True, "title": "MP arquiva caso sobre especialistas do Hospital São José", "description": "A apuração tratava da quantidade de médicos hepatologistas para atendimento de pacientes. O texto indica arquivamento após diligências, sem demora injustificada.", "status": "🟢 arquivado", "severity": "media"},
+  2480: {"keep": True, "title": "MP arquiva fila de cirurgia oncológica no Hospital Hans Dieter Schmidt", "description": "A investigação apurou fila de espera para nefrectomia parcial e falta de materiais. As diligências afastaram a inércia do poder público e o caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2481: {"keep": True, "title": "MP arquiva denúncia sobre falsa vaga de emprego", "description": "A notícia apontava falsa divulgação de vagas de emprego para induzir compra de curso. A noticiante não esclareceu os fatos e o MP indeferiu a investigação.", "status": "🟢 arquivado", "severity": "media"},
+  2482: {"keep": True, "title": "MP arquiva vacinação de adolescentes no NSJ", "description": "A apuração tratou da vacinação de adolescentes no Núcleo Socioterapêutico de Joinville sem anuência dos responsáveis. O MP concluiu que a atuação seguiu a lei e arquivou.", "status": "🟢 arquivado", "severity": "media"},
+  2483: {"keep": False},
+  2484: {"keep": True, "title": "MP arquiva caso de normas sanitárias em tabacaria", "description": "A notícia tratava de desrespeito às normas sanitárias por uma tabacaria. O estabelecimento se regularizou e o MP arquivou o caso.", "status": "🟢 arquivado", "severity": "media"},
+  2485: {"keep": True, "title": "MP firma TAC com Hiago Bebidas em caso sanitário", "description": "A apuração terminou com TAC e acompanhamento por procedimento administrativo. O ajuste resolveu a controvérsia sobre a atividade fiscalizada.", "status": "🟠 TAC firmado", "severity": "media"},
+  2486: {"keep": False},
+  2487: {"keep": False},
+  2488: {"keep": False},
+  2489: {"keep": False},
+  2490: {"keep": True, "title": "MP arquiva caso de cães acolhidos por terceiros", "description": "A notícia tratava de abandono de cães, com animais acolhidos por terceiros e investigação policial em andamento. O MP entendeu que não havia mais medidas administrativas a adotar.", "status": "🟢 arquivado", "severity": "media"},
+  2491: {"keep": True, "title": "MP arquiva caso de canina em lar temporário", "description": "A apuração confirmou que a canina permanece em lar temporário com acompanhamento do CBEA. O MP arquivou por ausência de medidas adicionais.", "status": "🟢 arquivado", "severity": "media"},
+  2492: {"keep": True, "title": "MP arquiva caso de acessibilidade em restaurante", "description": "A investigação sobre ausência de alvará sanitário e normas de acessibilidade terminou com regularização da atividade. O MP arquivou o inquérito.", "status": "🟢 arquivado", "severity": "media"},
+  2493: {"keep": False},
+  2494: {"keep": False},
+  2495: {"keep": True, "title": "MP arquiva caso sobre averbação de reserva legal", "description": "A apuração concluiu que não havia obrigatoriedade de averbação de reserva legal no imóvel. Sem outra medida, o MP arquivou.", "status": "🟢 arquivado", "severity": "media"},
+  2496: {"keep": False},
+  2497: {"keep": True, "title": "MP arquiva apuração sobre maus-tratos no Lar Abdon Batista", "description": "A investigação apurou maus-tratos e violência no Lar Abdon Batista, mas as diligências e a apuração policial não confirmaram os fatos. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2498: {"keep": True, "title": "MP arquiva obra aprovada e concluída", "description": "O procedimento administrativo foi encerrado porque o projeto já estava aprovado, executado e concluído. Não havia mais diligências a realizar.", "status": "🟢 arquivado", "severity": "media"},
+  2499: {"keep": False},
+  2500: {"keep": True, "title": "MP arquiva caso de medida adotada pela Defesa Civil", "description": "A conclusão apontou que a medida foi devidamente tratada e que não havia mais providências a tomar. O caso foi arquivado por ato ministerial.", "status": "🟢 arquivado", "severity": "media"},
+  2501: {"keep": True, "title": "MP arquiva demora em cirurgia no Hospital São José", "description": "A apuração sobre fila de cirurgia reparadora concluiu que não houve demora injustificada no procedimento. O inquérito foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2502: {"keep": True, "title": "MP arquiva obra aprovada e concluída", "description": "O procedimento administrativo foi encerrado após constar que o projeto foi aprovado, executado e concluído. Não restavam diligências a serem feitas.", "status": "🟢 arquivado", "severity": "media"},
+  2503: {"keep": False},
+  2504: {"keep": False},
+  2505: {"keep": True, "title": "MP arquiva caso de farmácia sem responsável técnico", "description": "A apuração tratou de farmácia sem responsável técnico, com infração sanitária regularizada após intervenção do MP. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2506: {"keep": False},
+  2507: {"keep": False},
+  2508: {"keep": False},
+  2509: {"keep": True, "title": "MP arquiva caso de acessibilidade em bar e lanchonete", "description": "A notícia informou adequação do estabelecimento às normas de acessibilidade. Sem fundamento para ação judicial, o procedimento foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2510: {"keep": False},
+  2511: {"keep": True, "title": "MP arquiva caso sobre exigência de vacina em hospital", "description": "A apuração tratou da exigência de comprovante de vacinação para entrar no Hospital Unimed de Joinville. O MP entendeu que não houve lesão a direitos tutelados e indeferiu a investigação.", "status": "🟢 arquivado", "severity": "media"},
+  2512: {"keep": True, "title": "MP arquiva falta de materiais em cirurgia no Hans Dieter Schmidt", "description": "A investigação apurou falta de materiais para nefrolitotomia percutânea. Os equipamentos foram consertados e os procedimentos retornaram, afastando inércia do Estado.", "status": "🟢 arquivado", "severity": "media"},
+  2513: {"keep": True, "title": "MP arquiva caso de colonoscopia e endoscopia no HMSJ", "description": "A apuração tratou da ausência de aparelho para colonoscopia e endoscopia. Houve manutenção, empréstimos e mutirão, sem prova de omissão injustificada.", "status": "🟢 arquivado", "severity": "media"},
+  2514: {"keep": True, "title": "MP firma TAC com Hiago Bebidas Ltda.", "description": "A apuração terminou com celebração de termo de ajustamento de conduta, com acompanhamento em procedimento administrativo. O caso foi encerrado com TAC.", "status": "🟠 TAC firmado", "severity": "media"},
+  2515: {"keep": True, "title": "MP arquiva fila de consultas no SUS de Joinville", "description": "A investigação tratava de demora em consultas de especialidades no SUS, mas não se comprovou inércia do poder público. O contexto da pandemia também foi considerado.", "status": "🟢 arquivado", "severity": "media"},
+  2516: {"keep": False},
+  2517: {"keep": True, "title": "MP arquiva caso sobre Gert Roland Fischer", "description": "A notícia foi arquivada após medidas adotadas e conclusão de que não cabia inquérito civil ou procedimento preparatório. O texto não aponta irregularidade remanescente.", "status": "🟢 arquivado", "severity": "media"},
+  2518: {"keep": True, "title": "MP arquiva fila de ortopedia adulto no SUS", "description": "A apuração verificou suposta demora na primeira consulta de ortopedia geral adulta. Como o noticiante buscou atendimento particular e a fila deixou de existir, o caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2519: {"keep": True, "title": "MP arquiva acessibilidade em estabelecimento de Joinville", "description": "A notícia tratou de adequação do estabelecimento às normas de acessibilidade. O MP concluiu que não havia fundamento para ação e arquivou.", "status": "🟢 arquivado", "severity": "media"},
+},
+'joinville__36.json': {
+  2520: {"keep": True, "title": "MP arquiva caso de caninos com bem-estar resguardado", "description": "A conclusão registrou que o bem-estar dos caninos estava resguardado. Não havia mais providências a adotar e o caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2521: {"keep": False},
+  2522: {"keep": True, "title": "MP arquiva acessibilidade em estacionamento de Joinville", "description": "A apuração tratou da adequação do estabelecimento às normas de acessibilidade. Como não havia fundamento para ação judicial, o procedimento foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2523: {"keep": True, "title": "MP firma TAC com bar por irregularidade sanitária", "description": "A apuração terminou com termo de ajustamento de conduta e acompanhamento por procedimento administrativo. O TAC encerrou o caso.", "status": "🟠 TAC firmado", "severity": "media"},
+  2524: {"keep": False},
+  2525: {"keep": False},
+  2526: {"keep": False},
+  2527: {"keep": True, "title": "MP arquiva apuração sobre festas na pandemia", "description": "A investigação buscou apurar dano moral coletivo por descumprimento das regras da Covid-19. Não foi possível identificar o local dos eventos e as vigilâncias não confirmaram irregularidade, levando ao arquivamento.", "status": "🟢 arquivado", "severity": "media"},
+  2528: {"keep": False},
+  2529: {"keep": False},
+  2530: {"keep": False},
+  2531: {"keep": False},
+  2532: {"keep": False},
+  2533: {"keep": True, "title": "MP arquiva falha em atendimento do Hospital Hans Dieter Schmidt", "description": "A investigação sobre quebra de hemodinâmica concluiu que o equipamento foi consertado e os procedimentos retomados. O poder público não esteve inerte e o caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2534: {"keep": False},
+  2535: {"keep": False},
+  2536: {"keep": False},
+  2537: {"keep": True, "title": "MP arquiva apuração sobre cão acolhido após abandono", "description": "A notícia tratava de um canino abandonado que acabou em local incerto ou acolhido por terceiros. Como os fatos já estavam na esfera policial, a Promotoria arquivou.", "status": "🟢 arquivado", "severity": "media"},
+  2538: {"keep": True, "title": "MP arquiva caso de conduta ajustada em academia", "description": "A investigação terminou com tomada de ajuste de condutas e arquivamento do procedimento. O acordo resolveu a questão fiscalizada.", "status": "🟢 arquivado", "severity": "media"},
+  2539: {"keep": False},
+  2540: {"keep": True, "title": "MP arquiva falta de clínicos no Hospital São José", "description": "A apuração concluiu que a deficiência nos plantões foi pontual e não persistia. O hospital e a secretaria não ficaram inertes e o caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2541: {"keep": False},
+  2542: {"keep": True, "title": "MP arquiva golpe da lista telefônica", "description": "A investigação apurou suposta publicidade enganosa no chamado golpe da lista telefônica. As reclamações foram solucionadas e não houve interesse de agir atual.", "status": "🟢 arquivado", "severity": "media"},
+  2543: {"keep": False},
+  2544: {"keep": True, "title": "MP arquiva fila de cirurgia plástica no SUS", "description": "A apuração tratou da fila para cirurgia de redução de mamas no SUS. Não houve comprovação de inércia do poder público e a pandemia foi considerada no desfecho.", "status": "🟢 arquivado", "severity": "media"},
+  2545: {"keep": False},
+  2546: {"keep": True, "title": "MP arquiva caso de maus-tratos a animais sem indícios", "description": "A notícia investigava maus-tratos e situação de risco aos animais, mas os elementos não indicaram irregularidade. O MP arquivou.", "status": "🟢 arquivado", "severity": "media"},
+  2547: {"keep": True, "title": "MP firma TAC com pavilhão hortifrutigranjeiro", "description": "A apuração terminou com celebração de TAC e arquivamento do inquérito. O ajuste resolveu a controvérsia ambiental/administrativa.", "status": "🟠 TAC firmado", "severity": "media"},
+  2548: {"keep": True, "title": "MP arquiva apuração sem lesão a direito tutelado", "description": "O procedimento preparatório foi arquivado porque não havia lesão ou ameaça a interesse tutelado pelo MP. O texto não traz outro fato material além desse encerramento.", "status": "🟢 arquivado", "severity": "media"},
+  2549: {"keep": False},
+  2550: {"keep": False},
+  2551: {"keep": True, "title": "MP arquiva disciplina do sistema socioeducativo em Joinville", "description": "A investigação concluiu que a matéria sobre procedimentos disciplinares no CASE e CASEP foi disciplinada por portaria. Sem pendências, o inquérito foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2552: {"keep": True, "title": "MP arquiva projeto de fortalecimento do Procon", "description": "A apuração tratou da estruturação do Procon de Joinville. As deficiências foram resolvidas de forma voluntária e extrajudicial, com arquivamento.", "status": "🟢 arquivado", "severity": "media"},
+  2553: {"keep": False},
+  2554: {"keep": True, "title": "MP arquiva falha de rádio do SAMU em Joinville", "description": "A investigação apurou possível ineficiência da comunicação por rádio do SAMU na região norte e nordeste. Não houve comprovação de inércia e os serviços estavam sendo prestados.", "status": "🟢 arquivado", "severity": "media"},
+  2555: {"keep": False},
+  2556: {"keep": True, "title": "MP arquiva acessibilidade no Hotel Alven", "description": "A conclusão apontou adequação das instalações às normas de acessibilidade. Como não havia fundamento para ação judicial, o status ficou indefinido no extrato, mas o caso foi encerrado.", "status": "❔ status indef.", "severity": "media"},
+  2557: {"keep": False},
+  2558: {"keep": False},
+  2559: {"keep": False},
+  2560: {"keep": True, "title": "MP arquiva demora em cirurgia de prostatectomia", "description": "A apuração tratou de demora na cirurgia de prostatectomia suprapúbica no SUS. Não se comprovou inércia do poder público e a pandemia foi considerada no arquivamento.", "status": "🟢 arquivado", "severity": "media"},
+  2561: {"keep": False},
+  2562: {"keep": False},
+  2563: {"keep": True, "title": "MP firma TAC com Companhia Águas de Joinville", "description": "A apuração terminou com termo de ajustamento de conduta firmado com a companhia. O caso foi arquivado em razão do TAC.", "status": "🟠 TAC firmado", "severity": "media"},
+  2564: {"keep": False},
+  2565: {"keep": False},
+  2566: {"keep": False},
+  2567: {"keep": False},
+  2568: {"keep": False},
+  2569: {"keep": False},
+  2570: {"keep": True, "title": "MP arquiva caso de canino que morreu durante tratamento", "description": "O órgão de bem-estar animal acolheu o cão e o internou em hospital veterinário, mas o animal não resistiu ao tratamento. Não houve motivo para seguir com a notícia de fato.", "status": "🟢 arquivado", "severity": "media"},
+  2571: {"keep": False},
+  2572: {"keep": False},
+  2573: {"keep": True, "title": "MP arquiva demora no atendimento do Hospital Hans Dieter Schmidt", "description": "A investigação tratou de possível demora em urgência e emergência e omissão no atendimento de pessoa idosa. Os documentos não mostraram erro ou omissão, e o caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2574: {"keep": False},
+  2575: {"keep": True, "title": "MP arquiva caso de canina tratada e adotada", "description": "A apuração concluiu que as lesões da canina foram tratadas e que ela foi encaminhada para lar definitivo. Sem mais razões para prosseguir, o caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2576: {"keep": False},
+  2577: {"keep": True, "title": "MP arquiva caso de gatos resgatados pela FRADA", "description": "A notícia verificou que os gatos foram adquiridos pela FRADA e receberam cuidados veterinários. O MP concluiu que não havia mais situação de maus-tratos ou negligência.", "status": "🟢 arquivado", "severity": "media"},
+  2578: {"keep": True, "title": "MP arquiva demora em cirurgia de colo uterino no SUS", "description": "A apuração sobre a fila de cirurgia de excisão do colo uterino concluiu que não houve inércia do poder público. A pandemia também pesou no desfecho e o caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2579: {"keep": False},
+  2580: {"keep": True, "title": "MP arquiva disputa sobre ótica e optometrista", "description": "A representação sobre venda casada e publicidade enganosa foi julgada improcedente. O MP entendeu que a atuação do optometrista estava dentro dos limites legais e arquivou.", "status": "🟢 arquivado", "severity": "media"},
+  2581: {"keep": True, "title": "MP arquiva caso de cães após abandono", "description": "A notícia tratava de abandono de cães, com acolhimento por terceiros e investigação policial em curso. Não havia mais medida administrativa a adotar e o caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2582: {"keep": True, "title": "MP arquiva adequação da Unidade de Tuberculose", "description": "A apuração terminou com adequação do estabelecimento às normas de acessibilidade. O MP concluiu que não havia fundamento para ação judicial.", "status": "🟢 arquivado", "severity": "media"},
+  2583: {"keep": False},
+  2584: {"keep": True, "title": "MP arquiva procedimento sobre obra ambiental da Aviário Vilcemar", "description": "O procedimento administrativo foi encerrado porque as obrigações foram cumpridas e não restavam diligências de fiscalização. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2585: {"keep": False},
+  2586: {"keep": False},
+  2587: {"keep": True, "title": "MP arquiva evento cancelado no St. Patrick's Day", "description": "A notícia tratava do evento público cancelado voluntariamente. Sem interesse de agir, o MP indeferiu a instauração e arquivou.", "status": "🟢 arquivado", "severity": "media"},
+  2588: {"keep": False},
+  2589: {"keep": False},
+},
+}
+
+for name, path in inputs.items():
+    data = json.loads(path.read_text())
+    cases = data['casos']
+    c = curations[name]
+    out = []
+    for case in cases:
+        cur = c.get(case['i'], {"keep": False})
+        item = {
+            'i': case['i'],
+            'tipo': case['tipo'],
+            'keep': bool(cur.get('keep', False)),
+            'title': cur.get('title', ''),
+            'description': cur.get('description', ''),
+            'status': cur.get('status', ''),
+            'severity': cur.get('severity', 'media'),
+        }
+        out.append(item)
+    (outdir / name).write_text(json.dumps(out, ensure_ascii=False, indent=2) + '\n')
+PY
+zsh:1: command not found: python
+[0m
+O ambiente não tem `python`; vou refazer com `python3` e depois conferir os arquivos gerados.
+[0m$ [0mpython3 - <<'PY'
+import json
+from pathlib import Path
+root = Path('/Users/jairofortunato/mp/pdf_template/amunesc')
+inputs = {
+    'joinville__34.json': root / '_lotes' / 'joinville__34.json',
+    'joinville__35.json': root / '_lotes' / 'joinville__35.json',
+    'joinville__36.json': root / '_lotes' / 'joinville__36.json',
+}
+outdir = root / '_lotes_curados'
+outdir.mkdir(exist_ok=True)
+
+curations = {
+'joinville__34.json': {
+  2380: {"keep": True, "title": "MP arquiva denúncia sobre canina em vulnerabilidade", "description": "A Promotoria apurou possível abandono de uma canina em Joinville, mas constatou que o animal foi doado e não havia situação atual de vulnerabilidade. O caso foi arquivado após atuação do órgão ambiental.", "status": "🟢 arquivado", "severity": "media"},
+  2381: {"keep": False},
+  2382: {"keep": False},
+  2383: {"keep": True, "title": "MP arquiva apuração sobre cão em Joinville", "description": "A investigação foi sobre possível vulnerabilidade de um cão em imóvel da Vila Nova. A diligência constatou atendimento integral do tutor e bem-estar resguardado, com arquivamento.", "status": "🟢 arquivado", "severity": "media"},
+  2384: {"keep": True, "title": "MP arquiva suspeita de contaminação na Praia da Vigorelli", "description": "O caso tratava de possíveis fontes de contaminação em ponto da Praia da Vigorelli. A SAMA acionou a concessionária e as medições finais indicaram própria condição para banho, com arquivamento.", "status": "🟢 arquivado", "severity": "media"},
+  2385: {"keep": True, "title": "MP arquiva apuração sobre canina em Joinville", "description": "A notícia tratava de possível abandono de uma canina no Bairro Bom Retiro. O órgão ambiental constatou vacinação, água, alimentação e abrigo adequados, e arquivou o caso.", "status": "🟢 arquivado", "severity": "media"},
+  2386: {"keep": True, "title": "MP arquiva apuração sobre canino vacinado e microchipado", "description": "O procedimento verificou suposta vulnerabilidade de um canino em residência da Vila Nova. A diligência encontrou o animal vacinado, microchipado e com bem-estar resguardado, com arquivamento.", "status": "🟢 arquivado", "severity": "media"},
+  2387: {"keep": True, "title": "MP arquiva inquérito sobre leitos de UTI pediátrica", "description": "O inquérito concluiu que não havia indícios de superlotação nem de insuficiência de leitos de UTI pediátrica na Região Nordeste. A Promotoria entendeu que não havia novas medidas a adotar e arquivou o caso.", "status": "🟢 arquivado", "severity": "media"},
+  2388: {"keep": True, "title": "MP arquiva risco em estádio após correções de segurança", "description": "A apuração envolvia risco ao consumidor no Estádio Dr. Sadalla Amin Ghanem para jogos do Joinville. Os laudos apontados foram sanados e os órgãos responsáveis atuaram, levando ao arquivamento.", "status": "🟢 arquivado", "severity": "media"},
+  2389: {"keep": True, "title": "MP arquiva caso sobre contrato do Hospital São José", "description": "O caso tratava de moralidade administrativa e descumprimento contratual já submetido ao Judiciário. A Promotoria afirmou que a matéria era cível e administrativa, sem irregularidade típica, e arquivou.", "status": "🟢 arquivado", "severity": "media"},
+  2390: {"keep": True, "title": "MP barra nova investigação sobre abandono recorrente de animais", "description": "A notícia foi sobre abandono recorrente de animais na região indicada. O órgão municipal acompanhou a situação, acolheu os filhotes e o MP indeferiu nova apuração por falta de elementos atuais.", "status": "❔ status indef.", "severity": "media"},
+  2391: {"keep": True, "title": "MP arquiva apuração sobre proteção veicular", "description": "A investigação examinou oferta de seguros por associação que atuava como proteção veicular. O MP concluiu que não houve publicidade enganosa nem irregularidade e arquivou o inquérito.", "status": "🟢 arquivado", "severity": "media"},
+  2392: {"keep": False},
+  2393: {"keep": True, "title": "MP arquiva apuração sobre pitbull sem localização", "description": "A notícia tratava de vulnerabilidade de um canino na Paranaguamirim. O animal não foi localizado e o órgão ambiental indeferiu a instauração, sem novas medidas.", "status": "🟢 arquivado", "severity": "media"},
+  2394: {"keep": True, "title": "MP arquiva caso sobre canina atendida pela SAMA", "description": "A apuração foi sobre possível vulnerabilidade de uma canina em Joinville. O órgão ambiental informou atendimento às determinações e o bem-estar do animal foi resguardado.", "status": "🟢 arquivado", "severity": "media"},
+  2395: {"keep": False},
+  2396: {"keep": True, "title": "MP arquiva apuração sobre abandono de canina", "description": "A notícia tratava de possível abandono de uma canina que acabou adotada. Houve requisição de inquérito policial, mas o MP indeferiu a instauração na esfera cível.", "status": "🟢 arquivado", "severity": "media"},
+  2397: {"keep": False},
+  2398: {"keep": False},
+  2399: {"keep": True, "title": "MP arquiva suspeita de omissão no presídio regional", "description": "A apuração tratou de suposta omissão de agentes na contenção de ameaças entre internos. A administração prisional disse ter tomado as medidas cabíveis, e o MP arquivou o caso.", "status": "🟢 arquivado", "severity": "media"},
+  2400: {"keep": True, "title": "MP arquiva caso de duas caninas acolhidas", "description": "A notícia envolvia risco a duas caninas em rua de Joinville. As animais foram acolhidas e encaminhadas para tratamento, ficando em lar temporário.", "status": "🟢 arquivado", "severity": "media"},
+  2401: {"keep": True, "title": "MP arquiva denúncia sobre cães em condomínio", "description": "A apuração era sobre cães de grande porte soltos em condomínio. A tutora instalou cerca e atendeu integralmente às determinações, com arquivamento.", "status": "🟢 arquivado", "severity": "media"},
+  2402: {"keep": True, "title": "MP arquiva caso de canina resguardada no Jardim Iririú", "description": "A notícia tratava de possível vulnerabilidade de um canino em Joinville. O tutor cumpriu as determinações da SAMA e o animal ficou em segurança.", "status": "🟢 arquivado", "severity": "media"},
+  2403: {"keep": True, "title": "MP arquiva apuração sobre canina e filhotes", "description": "A investigação tratou de situação de vulnerabilidade de uma canina com filhotes. Os tutores atenderam às determinações e os animais foram doados ou castrados, com bem-estar resguardado.", "status": "🟢 arquivado", "severity": "media"},
+  2404: {"keep": False},
+  2405: {"keep": True, "title": "MP arquiva denúncia sobre água e comida no presídio", "description": "A notícia questionava restrição ao porte de água no pátio e a alimentação no Presídio Regional de Joinville. A unidade justificou as regras de segurança e o MP não viu indícios mínimos de irregularidade.", "status": "🟢 arquivado", "severity": "media"},
+  2406: {"keep": True, "title": "MP arquiva caso de tuberculose no presídio", "description": "A apuração tratou de casos de tuberculose no Presídio Regional de Joinville. Secretaria de Saúde e unidade prisional relataram medidas de controle adequadas e o MP indeferiu a investigação.", "status": "🟢 arquivado", "severity": "media"},
+  2407: {"keep": True, "title": "MP arquiva apuração sobre pitbull acolhido", "description": "A notícia tratava de canino da raça pitbull abandonado em Joinville. O órgão ambiental acolheu o animal e resguardou seu bem-estar.", "status": "🟢 arquivado", "severity": "media"},
+  2408: {"keep": True, "title": "MP arquiva apuração sobre canina em paradeiro incerto", "description": "A investigação envolvia possível abandono de canina na região de Petrópolis. O animal não foi localizado e o MP arquivou por falta de informações sobre o paradeiro.", "status": "🟢 arquivado", "severity": "media"},
+  2409: {"keep": True, "title": "MP arquiva fiscalização de TAC com paróquia", "description": "O procedimento fiscalizou o cumprimento de TAC firmado pela paróquia. Como o termo foi cumprido, o caso foi arquivado.", "status": "🟢 TAC firmado", "severity": "media"},
+  2410: {"keep": True, "title": "MP arquiva fiscalização de TAC da Mitra Diocesana", "description": "O procedimento acompanhou o cumprimento de termo de ajustamento de conduta firmado com a Mitra Diocesana de Joinville. O MP registrou cumprimento e arquivou os autos.", "status": "🟢 TAC firmado", "severity": "media"},
+  2411: {"keep": False},
+  2412: {"keep": True, "title": "MP arquiva caso de rotulagem de bebidas da INCASA", "description": "A apuração tratou de possível descumprimento das normas de rotulagem de bebidas alcoólicas. A rotulagem foi adequada e não houve evidência de produto irregular, com arquivamento.", "status": "🟢 arquivado", "severity": "media"},
+  2413: {"keep": True, "title": "MP arquiva apuração sobre canino em Joinville", "description": "A notícia tratava de possível vulnerabilidade de um canino. O órgão ambiental adotou medidas administrativas e o bem-estar do animal ficou resguardado.", "status": "🟢 arquivado", "severity": "media"},
+  2414: {"keep": True, "title": "MP arquiva caso de husky com bem-estar resguardado", "description": "A apuração verificou possível vulnerabilidade de um husky siberiano. O local estava adequado, com vacinação e microchipagem regulares, e o caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2415: {"keep": True, "title": "MP arquiva apuração sobre canina atropelada", "description": "A notícia envolvia possível necessidade de atendimento veterinário urgente a uma canina atropelada. O atendimento foi prestado e o animal ficou resguardado.", "status": "🟢 arquivado", "severity": "media"},
+  2416: {"keep": True, "title": "MP arquiva apuração sobre caninos em imóvel do Iririú", "description": "A notícia tratava de suposta persistência de vulnerabilidade de caninos em imóvel de Joinville. O MP indeferiu a instauração após constatar que os animais estavam no interior do imóvel e a noticiante permaneceu inerte.", "status": "🟢 arquivado", "severity": "media"},
+  2417: {"keep": True, "title": "MP arquiva caso de assistência social em Joinville", "description": "A apuração concluiu que a rede socioassistencial municipal acolheu e orientou adequadamente a pessoa atendida. Não houve irregularidade na prestação do serviço público.", "status": "🟢 arquivado", "severity": "media"},
+  2418: {"keep": True, "title": "MP arquiva caso de quatro caninos com acesso à rua", "description": "A notícia tratava de quatro cães com acesso à via pública. O órgão ambiental adotou medidas administrativas e o MP arquivou após resguardar o bem-estar dos animais.", "status": "🟢 arquivado", "severity": "media"},
+  2419: {"keep": False},
+  2420: {"keep": True, "title": "MP arquiva denúncia sobre spray de pimenta no presídio feminino", "description": "A apuração examinou o uso de bomba de efeito moral e spray de pimenta no Presídio Feminino de Joinville. As informações colhidas não confirmaram as alegações e o caso foi indeferido.", "status": "🟢 arquivado", "severity": "media"},
+  2421: {"keep": True, "title": "MP arquiva caso de canino vacinado e microchipado", "description": "A notícia tratava de suposta vulnerabilidade e maus-tratos a um canino. O órgão ambiental constatou vacinação, castração, microchipagem e bem-estar resguardado.", "status": "🟢 arquivado", "severity": "media"},
+  2422: {"keep": False},
+  2423: {"keep": True, "title": "MP arquiva caso de animal em evento no Timbé", "description": "A apuração tratou de possível vulnerabilidade de um animal perto do Centro de Eventos Timbé. O órgão ambiental constatou vacinação, microchipagem e abrigo adequado, com arquivamento.", "status": "🟢 arquivado", "severity": "media"},
+  2424: {"keep": True, "title": "MP arquiva caso de drenagem pluvial em Petrópolis", "description": "A apuração tratou de irregularidades no sistema de drenagem pluvial da Rua São Domingos. Após obras e monitoramento, o problema de alagamento foi resolvido e o caso arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2425: {"keep": False},
+  2426: {"keep": True, "title": "MP arquiva apuração sobre conferência municipal da cidade", "description": "O procedimento verificou supostas irregularidades na organização da Conferência Municipal da Cidade de Joinville. Os elementos não apontaram transgressão e o MP arquivou o caso.", "status": "🟢 arquivado", "severity": "media"},
+  2427: {"keep": False},
+  2428: {"keep": False},
+  2429: {"keep": True, "title": "MP arquiva caso de cães soltos em condomínio", "description": "A notícia tratava de cães de grande porte soltos em condomínio em Joinville. A tutora instalou cerca e atendeu às determinações, resguardando os animais.", "status": "🟢 arquivado", "severity": "media"},
+  2430: {"keep": True, "title": "MP arquiva apoio à vacinação de cães resgatados", "description": "A apuração tratou de auxílio na vacinação de cães resgatados e mantidos como lar temporário. As vacinações foram realizadas e o caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2431: {"keep": True, "title": "MP arquiva denúncia sobre prontuário de canino", "description": "A notícia alegava omissão do CBEA na entrega de prontuário e exames de um canino resgatado. O órgão apresentou documentação comprobatória e o MP indeferiu a investigação.", "status": "🟢 arquivado", "severity": "media"},
+  2432: {"keep": True, "title": "MP arquiva caso de animais no Parc de France", "description": "A apuração verificou possível vulnerabilidade de animais no Parc de France. A associação de moradores informou ausência de irregularidades e o caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2433: {"keep": False},
+  2434: {"keep": True, "title": "MP arquiva disputa sobre vícios em imóvel entregue", "description": "A investigação tratou de problemas estruturais e vícios ocultos em empreendimento imobiliário. O MP concluiu que se tratava de direito individual disponível e arquivou o caso.", "status": "🟢 arquivado", "severity": "media"},
+  2435: {"keep": False},
+  2436: {"keep": True, "title": "MP arquiva apuração sobre mobilidade e drenagem em Petrópolis", "description": "A investigação tratava de mobilidade urbana, ordem urbanística e saneamento em ruas do bairro Petrópolis. Os problemas passaram a ser mantidos por zeladoria mensal e o caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2437: {"keep": False},
+  2438: {"keep": False},
+  2439: {"keep": False},
+  2440: {"keep": False},
+  2441: {"keep": True, "title": "MP arquiva apuração sobre atendimento a canina resgatada", "description": "A notícia tratava de atendimento médico-veterinário a animal resgatado. O encaminhamento particular foi feito e não houve indício de omissão do órgão ambiental.", "status": "🟢 arquivado", "severity": "media"},
+  2442: {"keep": True, "title": "MP arquiva caso de corte autorizado de árvore centenária", "description": "A apuração verificou o corte de uma árvore centenária em Joinville. A supressão havia sido autorizada e a compensação ambiental foi cumprida.", "status": "🟢 arquivado", "severity": "media"},
+  2443: {"keep": True, "title": "MP arquiva caso de regularização ambiental da Plasinco Sul", "description": "A investigação tratou de suposto descumprimento de condicionantes ambientais. Houve regularização, entrega de laudos e confirmação das informações, com arquivamento.", "status": "🟢 arquivado", "severity": "media"},
+  2444: {"keep": True, "title": "MP firma TAC com Bistek em caso de alimento com agrotóxico", "description": "A apuração envolveu risco à saúde do consumidor por alimento com ingrediente ativo de agrotóxico não autorizado. O MP registrou TAC e concluiu que não houve lesão coletiva comprovada no encerramento do feito.", "status": "🟠 TAC firmado", "severity": "media"},
+  2445: {"keep": True, "title": "MP arquiva apuração sobre agrotóxico em produto da Cantu", "description": "A investigação apurou possível risco à saúde do consumidor em alimento comercializado pela empresa. Não foram encontrados indícios de reiteração ou falhas internas e o caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2446: {"keep": True, "title": "MP arquiva apuração sobre agrotóxico em produto da Giassi", "description": "A apuração tratou de possível risco à saúde do consumidor por produto com ingrediente ativo de agrotóxico. Não houve irregularidades nem fundamento para ação judicial, com arquivamento.", "status": "🟢 arquivado", "severity": "media"},
+  2447: {"keep": True, "title": "MP arquiva suspeita de demora no atendimento de canina idosa", "description": "A notícia tratava de possível demora em atendimento veterinário urgente a uma canina idosa. O animal morreu antes do atendimento, sem omissão ou irregularidade atribuída à SAMA.", "status": "🟢 arquivado", "severity": "media"},
+  2448: {"keep": False},
+  2449: {"keep": False},
+},
+'joinville__35.json': {
+  2450: {"keep": False},
+  2451: {"keep": False},
+  2452: {"keep": True, "title": "MP arquiva caso sobre exercício irregular de educação física", "description": "A notícia tratava de exercício irregular da profissão de educador físico. Houve termo circunstanciado e o MP arquivou a parte cível por falta de dano coletivo concreto atual.", "status": "🟢 arquivado", "severity": "media"},
+  2453: {"keep": False},
+  2454: {"keep": False},
+  2455: {"keep": True, "title": "MP firma TAC com academia por oferta irregular de serviços", "description": "A investigação apurou risco à saúde do consumidor por serviços de educação física prestados por pessoas não habilitadas. O caso terminou com TAC, multa compensatória e arquivamento.", "status": "🟠 TAC firmado", "severity": "media"},
+  2456: {"keep": False},
+  2457: {"keep": True, "title": "MP arquiva caso sobre pitbulls no CBEA de Joinville", "description": "A apuração tratou da omissão do CBEA no acolhimento de pitbulls acionados pela Polícia Militar. O órgão adotou providências e os animais passaram a ser acompanhados, com arquivamento.", "status": "🟢 arquivado", "severity": "media"},
+  2458: {"keep": False},
+  2459: {"keep": True, "title": "MP arquiva caso de acessibilidade e Libras na educação", "description": "A notícia tratava da obrigação de intérprete de Libras em ambiente educacional. O MP concluiu que a exigência se limita à educação básica e superior regulares e arquivou.", "status": "🟢 arquivado", "severity": "media"},
+  2460: {"keep": False},
+  2461: {"keep": True, "title": "MP arquiva pedido de segundo professor para aluno com autismo", "description": "A apuração tratou de concessão de segundo professor para aluno com autismo. A Promotoria concluiu pela ausência de interesse de agir e arquivou.", "status": "🟢 arquivado", "severity": "media"},
+  2462: {"keep": True, "title": "MP arquiva novo pedido de segundo professor para aluno com autismo", "description": "O caso repetia a discussão sobre segundo professor para aluno com autismo. O parecer técnico e a ausência de interesse de agir levaram ao arquivamento.", "status": "🟢 arquivado", "severity": "media"},
+  2463: {"keep": True, "title": "MP arquiva caso de falta de professores em escola de Joinville", "description": "A notícia tratava de ausência de professor de Educação Física e Ciências em escola municipal. A situação foi resolvida administrativamente e o procedimento perdeu objeto.", "status": "🟢 arquivado", "severity": "media"},
+  2464: {"keep": False},
+  2465: {"keep": False},
+  2466: {"keep": False},
+  2467: {"keep": False},
+  2468: {"keep": False},
+  2469: {"keep": False},
+  2470: {"keep": True, "title": "MP arquiva demora em cirurgia no Hospital São José", "description": "A apuração sobre demora na fila de cirurgia no Hospital Municipal São José concluiu que não houve demora injustificada. O MP arquivou o inquérito.", "status": "🟢 arquivado", "severity": "media"},
+  2471: {"keep": True, "title": "MP arquiva caso de sanitárias em bar de Joinville", "description": "O caso tratava de suposto desrespeito às normas sanitárias por um bar. A atividade foi regularizada e o MP não viu necessidade de medidas judiciais ou extrajudiciais.", "status": "🟢 arquivado", "severity": "media"},
+  2472: {"keep": True, "title": "MP arquiva caso de água de piscinas regularizada", "description": "A notícia tratava de desrespeito a normas sanitárias sobre água usada em piscinas e para consumo. As atividades foram regularizadas e o caso arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2473: {"keep": True, "title": "MP arquiva caso sobre canina com direitos resguardados", "description": "A conclusão informou que o animal tinha seus direitos resguardados e que não havia mais medidas administrativas a adotar. O caso foi encerrado sem prosseguimento.", "status": "❔ status indef.", "severity": "media"},
+  2474: {"keep": False},
+  2475: {"keep": True, "title": "MP arquiva inquérito após TAC com agn serviços", "description": "A apuração terminou com celebração de termo de ajustamento de conduta, e o procedimento foi arquivado para acompanhamento. O ajuste resolveu a controvérsia.", "status": "🟠 TAC firmado", "severity": "media"},
+  2476: {"keep": False},
+  2477: {"keep": True, "title": "MP arquiva caso sobre reserva legal em imóvel", "description": "A notícia tratou da não obrigatoriedade de averbação de reserva legal no imóvel analisado. Sem outra medida a adotar, o MP arquivou.", "status": "🟢 arquivado", "severity": "media"},
+  2478: {"keep": True, "title": "MP arquiva caso sobre direitos de pessoas em situação de rua", "description": "A Promotoria registrou que já havia adotado as medidas cabíveis sobre os direitos das pessoas em situação de rua. O caso foi arquivado por exaurimento da atuação ministerial.", "status": "🟢 arquivado", "severity": "media"},
+  2479: {"keep": True, "title": "MP arquiva caso sobre especialistas do Hospital São José", "description": "A apuração tratava da quantidade de médicos hepatologistas para atendimento de pacientes. O texto indica arquivamento após diligências, sem demora injustificada.", "status": "🟢 arquivado", "severity": "media"},
+  2480: {"keep": True, "title": "MP arquiva fila de cirurgia oncológica no Hospital Hans Dieter Schmidt", "description": "A investigação apurou fila de espera para nefrectomia parcial e falta de materiais. As diligências afastaram a inércia do poder público e o caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2481: {"keep": True, "title": "MP arquiva denúncia sobre falsa vaga de emprego", "description": "A notícia apontava falsa divulgação de vagas de emprego para induzir compra de curso. A noticiante não esclareceu os fatos e o MP indeferiu a investigação.", "status": "🟢 arquivado", "severity": "media"},
+  2482: {"keep": True, "title": "MP arquiva vacinação de adolescentes no NSJ", "description": "A apuração tratou da vacinação de adolescentes no Núcleo Socioterapêutico de Joinville sem anuência dos responsáveis. O MP concluiu que a atuação seguiu a lei e arquivou.", "status": "🟢 arquivado", "severity": "media"},
+  2483: {"keep": False},
+  2484: {"keep": True, "title": "MP arquiva caso de normas sanitárias em tabacaria", "description": "A notícia tratava de desrespeito às normas sanitárias por uma tabacaria. O estabelecimento se regularizou e o MP arquivou o caso.", "status": "🟢 arquivado", "severity": "media"},
+  2485: {"keep": True, "title": "MP firma TAC com Hiago Bebidas em caso sanitário", "description": "A apuração terminou com TAC e acompanhamento por procedimento administrativo. O ajuste resolveu a questão fiscalizada.", "status": "🟠 TAC firmado", "severity": "media"},
+  2486: {"keep": False},
+  2487: {"keep": False},
+  2488: {"keep": False},
+  2489: {"keep": False},
+  2490: {"keep": True, "title": "MP arquiva caso de cães acolhidos por terceiros", "description": "A notícia tratava de abandono de cães, com animais acolhidos por terceiros e investigação policial em andamento. O MP entendeu que não havia mais medidas administrativas a adotar.", "status": "🟢 arquivado", "severity": "media"},
+  2491: {"keep": True, "title": "MP arquiva caso de canina em lar temporário", "description": "A apuração confirmou que a canina permanece em lar temporário com acompanhamento do CBEA. O MP arquivou por ausência de medidas adicionais.", "status": "🟢 arquivado", "severity": "media"},
+  2492: {"keep": True, "title": "MP arquiva caso de acessibilidade em restaurante", "description": "A investigação sobre ausência de alvará sanitário e normas de acessibilidade terminou com regularização da atividade. O MP arquivou o inquérito.", "status": "🟢 arquivado", "severity": "media"},
+  2493: {"keep": False},
+  2494: {"keep": False},
+  2495: {"keep": True, "title": "MP arquiva caso sobre averbação de reserva legal", "description": "A apuração concluiu que não havia obrigatoriedade de averbação de reserva legal no imóvel. Sem outra medida, o MP arquivou.", "status": "🟢 arquivado", "severity": "media"},
+  2496: {"keep": False},
+  2497: {"keep": True, "title": "MP arquiva apuração sobre maus-tratos no Lar Abdon Batista", "description": "A investigação apurou maus-tratos e violência no Lar Abdon Batista, mas as diligências e a apuração policial não confirmaram os fatos. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2498: {"keep": True, "title": "MP arquiva obra aprovada e concluída", "description": "O procedimento administrativo foi encerrado porque o projeto já estava aprovado, executado e concluído. Não havia mais diligências a realizar.", "status": "🟢 arquivado", "severity": "media"},
+  2499: {"keep": False},
+  2500: {"keep": True, "title": "MP arquiva caso de medida adotada pela Defesa Civil", "description": "A conclusão apontou que a medida foi devidamente tratada e que não havia mais providências a tomar. O caso foi arquivado por ato ministerial.", "status": "🟢 arquivado", "severity": "media"},
+  2501: {"keep": True, "title": "MP arquiva demora em cirurgia no Hospital São José", "description": "A apuração sobre fila de cirurgia reparadora concluiu que não houve demora injustificada no procedimento. O inquérito foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2502: {"keep": True, "title": "MP arquiva obra aprovada e concluída", "description": "O procedimento administrativo foi encerrado após constar que o projeto foi aprovado, executado e concluído. Não restavam diligências a serem feitas.", "status": "🟢 arquivado", "severity": "media"},
+  2503: {"keep": False},
+  2504: {"keep": False},
+  2505: {"keep": True, "title": "MP arquiva caso de farmácia sem responsável técnico", "description": "A apuração tratou de farmácia sem responsável técnico, com infração sanitária regularizada após intervenção do MP. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2506: {"keep": False},
+  2507: {"keep": False},
+  2508: {"keep": False},
+  2509: {"keep": True, "title": "MP arquiva caso de acessibilidade em bar e lanchonete", "description": "A notícia informou adequação do estabelecimento às normas de acessibilidade. Sem fundamento para ação judicial, o procedimento foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2510: {"keep": False},
+  2511: {"keep": True, "title": "MP arquiva caso sobre exigência de vacina em hospital", "description": "A apuração tratou da exigência de comprovante de vacinação para entrar no Hospital Unimed de Joinville. O MP entendeu que não houve lesão a direitos tutelados e indeferiu a investigação.", "status": "🟢 arquivado", "severity": "media"},
+  2512: {"keep": True, "title": "MP arquiva falta de materiais em cirurgia no Hans Dieter Schmidt", "description": "A investigação apurou falta de materiais para nefrolitotomia percutânea. Os equipamentos foram consertados e os procedimentos retornaram, afastando inércia do Estado.", "status": "🟢 arquivado", "severity": "media"},
+  2513: {"keep": True, "title": "MP arquiva caso de colonoscopia e endoscopia no HMSJ", "description": "A apuração tratou da ausência de aparelho para colonoscopia e endoscopia. Houve manutenção, empréstimos e mutirão, sem prova de omissão injustificada.", "status": "🟢 arquivado", "severity": "media"},
+  2514: {"keep": True, "title": "MP firma TAC com Hiago Bebidas Ltda.", "description": "A apuração terminou com celebração de termo de ajustamento de conduta, com acompanhamento em procedimento administrativo. O caso foi encerrado com TAC.", "status": "🟠 TAC firmado", "severity": "media"},
+  2515: {"keep": True, "title": "MP arquiva fila de consultas no SUS de Joinville", "description": "A investigação tratava de demora em consultas de especialidades no SUS, mas não se comprovou inércia do poder público. O contexto da pandemia também foi considerado.", "status": "🟢 arquivado", "severity": "media"},
+  2516: {"keep": False},
+  2517: {"keep": True, "title": "MP arquiva caso sobre Gert Roland Fischer", "description": "A notícia foi arquivada após medidas adotadas e conclusão de que não cabia inquérito civil ou procedimento preparatório. O texto não aponta irregularidade remanescente.", "status": "🟢 arquivado", "severity": "media"},
+  2518: {"keep": True, "title": "MP arquiva fila de ortopedia adulto no SUS", "description": "A apuração verificou suposta demora na primeira consulta de ortopedia geral adulta. Como o noticiante buscou atendimento particular e a fila deixou de existir, o caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2519: {"keep": True, "title": "MP arquiva acessibilidade em estabelecimento de Joinville", "description": "A notícia tratou de adequação do estabelecimento às normas de acessibilidade. O MP concluiu que não havia fundamento para ação e arquivou.", "status": "🟢 arquivado", "severity": "media"},
+},
+'joinville__36.json': {
+  2520: {"keep": True, "title": "MP arquiva caso de caninos com bem-estar resguardado", "description": "A conclusão registrou que o bem-estar dos caninos estava resguardado. Não havia mais providências a adotar e o caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2521: {"keep": False},
+  2522: {"keep": True, "title": "MP arquiva acessibilidade em estacionamento de Joinville", "description": "A apuração tratou da adequação do estabelecimento às normas de acessibilidade. Como não havia fundamento para ação judicial, o procedimento foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2523: {"keep": True, "title": "MP firma TAC com bar por irregularidade sanitária", "description": "A apuração terminou com termo de ajustamento de conduta e acompanhamento por procedimento administrativo. O TAC encerrou o caso.", "status": "🟠 TAC firmado", "severity": "media"},
+  2524: {"keep": False},
+  2525: {"keep": False},
+  2526: {"keep": False},
+  2527: {"keep": True, "title": "MP arquiva apuração sobre festas na pandemia", "description": "A investigação buscou apurar dano moral coletivo por descumprimento das regras da Covid-19. Não foi possível identificar o local dos eventos e as vigilâncias não confirmaram irregularidade, levando ao arquivamento.", "status": "🟢 arquivado", "severity": "media"},
+  2528: {"keep": False},
+  2529: {"keep": False},
+  2530: {"keep": False},
+  2531: {"keep": False},
+  2532: {"keep": False},
+  2533: {"keep": True, "title": "MP arquiva falha em atendimento do Hospital Hans Dieter Schmidt", "description": "A investigação sobre quebra de hemodinâmica concluiu que o equipamento foi consertado e os procedimentos retomados. O poder público não esteve inerte e o caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2534: {"keep": False},
+  2535: {"keep": False},
+  2536: {"keep": False},
+  2537: {"keep": True, "title": "MP arquiva apuração sobre cão acolhido após abandono", "description": "A notícia tratava de um canino abandonado que acabou em local incerto ou acolhido por terceiros. Como os fatos já estavam na esfera policial, a Promotoria arquivou.", "status": "🟢 arquivado", "severity": "media"},
+  2538: {"keep": True, "title": "MP arquiva caso de conduta ajustada em academia", "description": "A investigação terminou com tomada de ajuste de condutas e arquivamento do procedimento. O acordo resolveu a questão fiscalizada.", "status": "🟢 arquivado", "severity": "media"},
+  2539: {"keep": False},
+  2540: {"keep": True, "title": "MP arquiva falta de clínicos no Hospital São José", "description": "A apuração concluiu que a deficiência nos plantões foi pontual e não persistia. O hospital e a secretaria não ficaram inertes e o caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2541: {"keep": False},
+  2542: {"keep": True, "title": "MP arquiva golpe da lista telefônica", "description": "A investigação apurou suposta publicidade enganosa no chamado golpe da lista telefônica. As reclamações foram solucionadas e não houve interesse de agir atual.", "status": "🟢 arquivado", "severity": "media"},
+  2543: {"keep": False},
+  2544: {"keep": True, "title": "MP arquiva fila de cirurgia plástica no SUS", "description": "A apuração tratou da fila para cirurgia de redução de mamas no SUS. Não houve comprovação de inércia do poder público e a pandemia foi considerada no desfecho.", "status": "🟢 arquivado", "severity": "media"},
+  2545: {"keep": False},
+  2546: {"keep": True, "title": "MP arquiva caso de maus-tratos a animais sem indícios", "description": "A notícia investigava maus-tratos e situação de risco aos animais, mas os elementos não indicaram irregularidade. O MP arquivou.", "status": "🟢 arquivado", "severity": "media"},
+  2547: {"keep": True, "title": "MP firma TAC com pavilhão hortifrutigranjeiro", "description": "A apuração terminou com celebração de TAC e arquivamento do inquérito. O ajuste resolveu a controvérsia ambiental/administrativa.", "status": "🟠 TAC firmado", "severity": "media"},
+  2548: {"keep": True, "title": "MP arquiva apuração sem lesão a direito tutelado", "description": "O procedimento preparatório foi arquivado porque não havia lesão ou ameaça a interesse tutelado pelo MP. O texto não traz outro fato material além desse encerramento.", "status": "🟢 arquivado", "severity": "media"},
+  2549: {"keep": False},
+  2550: {"keep": False},
+  2551: {"keep": True, "title": "MP arquiva disciplina do sistema socioeducativo em Joinville", "description": "A investigação concluiu que a matéria sobre procedimentos disciplinares no CASE e CASEP foi disciplinada por portaria. Sem pendências, o inquérito foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2552: {"keep": True, "title": "MP arquiva projeto de fortalecimento do Procon", "description": "A apuração tratou da estruturação do Procon de Joinville. As deficiências foram resolvidas de forma voluntária e extrajudicial, com arquivamento.", "status": "🟢 arquivado", "severity": "media"},
+  2553: {"keep": False},
+  2554: {"keep": True, "title": "MP arquiva falha de rádio do SAMU em Joinville", "description": "A investigação apurou possível ineficiência da comunicação por rádio do SAMU na região norte e nordeste. Não houve comprovação de inércia e os serviços estavam sendo prestados.", "status": "🟢 arquivado", "severity": "media"},
+  2555: {"keep": False},
+  2556: {"keep": True, "title": "MP arquiva acessibilidade no Hotel Alven", "description": "A conclusão apontou adequação das instalações às normas de acessibilidade. Como não havia fundamento para ação judicial, o status ficou indefinido no extrato, mas o caso foi encerrado.", "status": "❔ status indef.", "severity": "media"},
+  2557: {"keep": False},
+  2558: {"keep": False},
+  2559: {"keep": False},
+  2560: {"keep": True, "title": "MP arquiva demora em cirurgia de prostatectomia", "description": "A apuração tratou de demora na cirurgia de prostatectomia suprapúbica no SUS. Não se comprovou inércia do poder público e a pandemia foi considerada no arquivamento.", "status": "🟢 arquivado", "severity": "media"},
+  2561: {"keep": False},
+  2562: {"keep": False},
+  2563: {"keep": True, "title": "MP firma TAC com Companhia Águas de Joinville", "description": "A apuração terminou com termo de ajustamento de conduta firmado com a companhia. O caso foi arquivado em razão do TAC.", "status": "🟠 TAC firmado", "severity": "media"},
+  2564: {"keep": False},
+  2565: {"keep": False},
+  2566: {"keep": False},
+  2567: {"keep": False},
+  2568: {"keep": False},
+  2569: {"keep": False},
+  2570: {"keep": True, "title": "MP arquiva caso de canino que morreu durante tratamento", "description": "O órgão de bem-estar animal acolheu o cão e o internou em hospital veterinário, mas o animal não resistiu ao tratamento. Não houve motivo para seguir com a notícia de fato.", "status": "🟢 arquivado", "severity": "media"},
+  2571: {"keep": False},
+  2572: {"keep": False},
+  2573: {"keep": True, "title": "MP arquiva demora no atendimento do Hospital Hans Dieter Schmidt", "description": "A investigação tratou de possível demora em urgência e emergência e omissão no atendimento de pessoa idosa. Os documentos não mostraram erro ou omissão, e o caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2574: {"keep": False},
+  2575: {"keep": True, "title": "MP arquiva caso de canina tratada e adotada", "description": "A apuração concluiu que as lesões da canina foram tratadas e que ela foi encaminhada para lar definitivo. Sem mais razões para prosseguir, o caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2576: {"keep": False},
+  2577: {"keep": True, "title": "MP arquiva caso de gatos resgatados pela FRADA", "description": "A notícia verificou que os gatos foram adquiridos pela FRADA e receberam cuidados veterinários. O MP concluiu que não havia mais situação de maus-tratos ou negligência.", "status": "🟢 arquivado", "severity": "media"},
+  2578: {"keep": True, "title": "MP arquiva demora em cirurgia de colo uterino no SUS", "description": "A apuração sobre a fila de cirurgia de excisão do colo uterino concluiu que não houve inércia do poder público. A pandemia também pesou no desfecho e o caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2579: {"keep": False},
+  2580: {"keep": True, "title": "MP arquiva disputa sobre ótica e optometrista", "description": "A representação sobre venda casada e publicidade enganosa foi julgada improcedente. O MP entendeu que a atuação do optometrista estava dentro dos limites legais e arquivou.", "status": "🟢 arquivado", "severity": "media"},
+  2581: {"keep": True, "title": "MP arquiva caso de cães após abandono", "description": "A notícia tratava de abandono de cães, com acolhimento por terceiros e investigação policial em curso. Não havia mais medida administrativa a adotar e o caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2582: {"keep": True, "title": "MP arquiva adequação da Unidade de Tuberculose", "description": "A apuração terminou com adequação do estabelecimento às normas de acessibilidade. O MP concluiu que não havia fundamento para ação judicial.", "status": "🟢 arquivado", "severity": "media"},
+  2583: {"keep": False},
+  2584: {"keep": True, "title": "MP arquiva procedimento sobre obra ambiental da Aviário Vilcemar", "description": "O procedimento administrativo foi encerrado porque as obrigações foram cumpridas e não restavam diligências de fiscalização. O caso foi arquivado.", "status": "🟢 arquivado", "severity": "media"},
+  2585: {"keep": False},
+  2586: {"keep": False},
+  2587: {"keep": True, "title": "MP arquiva evento cancelado no St. Patrick's Day", "description": "A notícia tratava do evento público cancelado voluntariamente. Sem interesse de agir, o MP indeferiu a instauração e arquivou.", "status": "🟢 arquivado", "severity": "media"},
+  2588: {"keep": False},
+  2589: {"keep": False},
+},
+}
+
+for name, path in inputs.items():
+    data = json.loads(path.read_text())
+    cases = data['casos']
+    c = curations[name]
+    out = []
+    for case in cases:
+        cur = c.get(case['i'], {"keep": False})
+        item = {
+            'i': case['i'],
+            'tipo': case['tipo'],
+            'keep': bool(cur.get('keep', False)),
+            'title': cur.get('title', ''),
+            'description': cur.get('description', ''),
+            'status': cur.get('status', ''),
+            'severity': cur.get('severity', 'media'),
+        }
+        out.append(item)
+    (outdir / name).write_text(json.dumps(out, ensure_ascii=False, indent=2) + '\n')
+PY
+(no output)
+[0m
+Os arquivos foram escritos. Agora vou validar os três JSONs e checar as contagens de `keep:true` e `severity alta`.
+[0m$ [0mpython3 - <<'PY'
+import json
+from pathlib import Path
+root = Path('/Users/jairofortunato/mp/pdf_template/amunesc/_lotes_curados')
+for name in ['joinville__34.json','joinville__35.json','joinville__36.json']:
+    data = json.loads((root / name).read_text())
+    keep = sum(1 for x in data if x['keep'])
+    alta = sum(1 for x in data if x.get('severity') == 'alta')
+    print(name, len(data), keep, alta)
+PY
+joinville__34.json 70 49 0
+joinville__35.json 70 39 0
+joinville__36.json 70 29 0
+[0m
+Os três lotes passaram na validação estrutural. Vou fechar o último passo com o resumo por lote e marcar o trabalho como concluído.
+[0m# [0mTodos
+[✓] Curar joinville__34.json e gravar em _lotes_curados
+[✓] Curar joinville__35.json e gravar em _lotes_curados
+[✓] Curar joinville__36.json e gravar em _lotes_curados
+[✓] Verificar contagens finais por lote e resumo
+[0m
+Arquivos gravados em `pdf_template/amunesc/_lotes_curados/`.
+
+- `joinville__34.json`: 70 casos, 49 `keep:true`, 0 `severity: alta`
+- `joinville__35.json`: 70 casos, 39 `keep:true`, 0 `severity: alta`
+- `joinville__36.json`: 70 casos, 29 `keep:true`, 0 `severity: alta`

@@ -1,0 +1,632 @@
+[
+ {
+  "i": 560,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 561,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva desidia de delegado em Sao Francisco do Sul",
+  "description": "O inquerito apurava eventual desidia do delegado Marcel Araujo de Oliveira na delegacia da comarca. O texto informa que os fatos ja haviam sido investigados e punidos pela Secretaria de Estado da Seguranca Publica.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 562,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva omissao no traslado de adolescentes",
+  "description": "A noticia de fato apurava eventual omissao da Policia Civil no traslado de adolescentes privados de liberdade para a DPCAMI de Joinville. O MP concluiu pela ausencia de omissao e indeferiu a instauracao.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 563,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva acusacao falsa de atropelamento policial",
+  "description": "A noticia de fato dizia haver suposto atropelamento policial para viabilizar uma prisao. O MP considerou os fatos inveridicos, registrou prisao regular e arquivou.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 564,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 565,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 566,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 567,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva suposta violencia no presidio regional",
+  "description": "A apuracao tratava de suposto incidente de violencia sofrido por recluso no Presidio Regional de Sao Francisco do Sul. O MP disse nao haver provas dos fatos e arquivou o caso.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 568,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 569,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva queixas contra a Celesc",
+  "description": "O inquerito apurava ausencia de qualidade e retorno no atendimento prestado pela Celesc. A melhora foi comprovada durante o trâmite e o MP arquivou.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 570,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 571,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 572,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 573,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 574,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva risco a adolescente gestante",
+  "description": "A noticia de fato buscava apurar a suposta situacao de risco enfrentada pela adolescente gestante. A rede de protecao foi considerada suficiente e o caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 575,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 576,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 577,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 578,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 579,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 580,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 581,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva vulnerabilidade de idosa institucionalizada",
+  "description": "O caso tratava da necessidade de institucionalizacao de pessoa idosa em vaga publica. O MP considerou os fatos solucionados com intervencao ministerial e arquivou.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 582,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 583,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva suposta agressao por policiais militares",
+  "description": "A noticia de fato apurava agressao praticada por policiais militares do 27º BPM/SFS contra um homem durante diligencia. Testemunha negou a agressao e o MP indeferiu a investigacao.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 584,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva demora no agendamento de procedimento",
+  "description": "A representacao apontava morosidade no agendamento de procedimento para a paciente. O MP informou que os fatos foram solucionados e arquivou.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 585,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva consulta dermatologica sem lastro",
+  "description": "O caso questionava a demora no agendamento de consulta com dermatologista para avaliar eventual cirurgia. O MP afirmou que nao havia lastro probatorio para prosseguir e arquivou.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 586,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva risco a infante acompanhado pela rede de protecao",
+  "description": "A noticia de fato buscava apurar eventual situacao de risco enfrentada pela infante. O MP concluiu pela inexistencia de risco e arquivou.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 587,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva vulnerabilidade de pessoa com deficiencia",
+  "description": "A noticia de fato apurava a suposta vulnerabilidade de uma pessoa com deficiencia. Os esclarecimentos apresentados afastaram a suspeita e o MP arquivou.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 588,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 589,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 590,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva negativa de abrigo feminino",
+  "description": "A representacao apurava suposta vulnerabilidade de Terezinha de Fatima Less e a alegada negativa do CREAS em fornecer abrigo feminino. O MP concluiu pela ausencia de risco e arquivou.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 591,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 592,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 593,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 594,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva necessidade de internacao compulsoria",
+  "description": "A noticia de fato examinava a necessidade de internacao compulsoria de pessoa representada por familiar. O MP concluiu que nao era o caso e arquivou.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 595,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva suposto abuso sexual contra infante",
+  "description": "A representacao buscava apurar as circunstancias de suposto abuso sexual ou estupro contra a infante. O caso foi indeferido e arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 596,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva morosidade em procedimento de tireoidectomia",
+  "description": "A noticia de fato tratava de suposta morosidade no agendamento de tireoidectomia parcial para paciente adolescente. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 597,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva risco a adolescente",
+  "description": "A representacao buscava apurar possivel situacao de risco enfrentada pela adolescente. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 598,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva risco a crianca pequena",
+  "description": "A noticia de fato tratava de situacao de risco enfrentada por crianca nascida em 2021. O MP indeferiu e arquivou.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 599,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva suposta negativa de atendimento hospitalar",
+  "description": "A representacao apurava suposta negativa de atendimento medico hospitalar ao idoso. O MP indeferiu e arquivou.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 600,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva pedido de internacao",
+  "description": "O procedimento tinha objeto de internacao e foi indeferido. O MP arquivou o caso.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 601,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 602,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva negativa de curativo em hospital municipal",
+  "description": "A noticia de fato apurava suposta negativa do Hospital e Maternidade Municipal Nossa Senhora da Graca em proceder curativo. O MP disse que nao havia justa causa e arquivou.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 603,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva risco de pessoa com deficiencia",
+  "description": "A representacao tratava da suposta situacao de risco enfrentada por pessoa com deficiencia. O MP arquivou o caso.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 604,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva demora no endocrinologista",
+  "description": "A apuracao era sobre morosidade no agendamento de consulta com endocrinologista. O caso foi indeferido e arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 605,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva demora em cirurgia de quadril",
+  "description": "A representacao apurava demora na fila para consulta e cirurgia de quadril. O MP concluiu que nao havia urgencia e arquivou.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 606,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva cobranca na balsa Vila da Gloria",
+  "description": "A denuncia dizia que pessoas acima de 65 anos estariam sendo cobradas na travessia da Balsa Vila da Gloria. O MP entendeu que nao havia ameaca ou lesao de direito e arquivou.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 607,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 608,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 609,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva busca e apreensao sem objeto",
+  "description": "A noticia de fato analisava a necessidade de requerer autorizacao judicial para busca e apreensao nas residencias de dois individuos com mandados de prisao ativos. Como ambos estavam presos, o objeto foi perdido.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 610,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva risco de infante acompanhado pela rede",
+  "description": "O caso apurava eventual situacao de risco enfrentada por infante. A rede de protecao atuou de forma eficaz e o MP arquivou.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 611,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva denuncia de maus-tratos sem risco atual",
+  "description": "A noticia de fato tratava de alegacoes de negligencia e maus-tratos. O MP concluiu que nao havia situacao de risco e arquivou.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 612,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva risco por suposta violencia sexual",
+  "description": "A apuracao examinava risco vivenciado por infante em contexto de suposta violencia sexual. Medidas protetivas foram efetivadas e o MP arquivou.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 613,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva relato de adolescente sobre padrasto",
+  "description": "A noticia de fato foi instaurada para apurar relato de adolescente sobre conduta de padrasto. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 614,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva acolhimento de idosa em lar",
+  "description": "A representacao tratava de situacao de risco de pessoa idosa e sua alocacao em lar de idosos. O MP concluiu pela ausencia de risco e arquivou.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 615,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva vulnerabilidade de pessoa com deficiencia",
+  "description": "A noticia de fato apurava possivel vulnerabilidade de pessoa com deficiencia. O MP afirmou que o encaminhamento para a rede de apoio social foi adequado e arquivou.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 616,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva suposto abuso sexual com protecao efetivada",
+  "description": "O procedimento tratava de suposto abuso sexual contra adolescente. Como as medidas protetivas e o acompanhamento social foram garantidos, o caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 617,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 618,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 619,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva tarifa TCL de Sao Francisco do Sul",
+  "description": "A noticia de fato tratava de consideracoes finais sobre a tarifa TCL no municipio. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 620,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 621,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 622,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 623,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva demora na fila para exame de idoso",
+  "description": "A representacao apurava suposta demora na fila para a realizacao de procedimento a idoso. O MP entendeu que nao havia urgencia e arquivou.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 624,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva demora na fila para procedimento",
+  "description": "A noticia de fato tratava de suposta demora na fila para a realizacao de procedimento. O MP concluiu pela impossibilidade de furar a lista do SUS e arquivou.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 625,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 626,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva arteriografia cerebral sem urgencia",
+  "description": "A representacao buscava apurar a demora no agendamento de arteriografia cerebral. O MP concluiu que nao havia urgencia nem motivo para furar a fila e arquivou.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 627,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva risco de infante sem situacao atual",
+  "description": "A noticia de fato tratava de possivel situacao de risco vivenciada pela infante. O MP concluiu que nao havia situacao de risco e arquivou.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 628,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 629,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ }
+]

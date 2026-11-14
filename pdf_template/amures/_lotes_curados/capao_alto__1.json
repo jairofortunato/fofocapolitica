@@ -1,0 +1,110 @@
+[
+ {
+  "i": 9,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE abre representação sobre pregão do Turismo de Capão Alto após denúncia de empresa",
+  "description": "A empresa LR Produções denunciou ao TCE supostas irregularidades no Pregão Eletrônico 001/2024 da Prefeitura de Capão Alto, ligado à Secretaria de Turismo. O Tribunal conheceu a denúncia, converteu a apuração preliminar em representação e determinou que o secretário de Turismo, Aldo Amorim Silveira Júnior, apresentasse em 10 dias justificativas e cópia integral da licitação e do contrato. O caso segue em instrução, sem julgamento de mérito.",
+  "status": "🟡 em instrução (citação/audiência)",
+  "severity": "media"
+ },
+ {
+  "i": 10,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 11,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva inspeção em Capão Alto após prefeitura corrigir falha apontada",
+  "description": "O TCE inspecionou a Prefeitura de Capão Alto para verificar o cumprimento das leis federal e estadual da liberdade econômica. A irregularidade apontada pela área técnica foi corrigida pelo município, que demonstrou adequação à legislação. Com isso, o relator determinou o arquivamento do processo em novembro de 2023.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 12,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE abre inspeção por descumprimento de decisões pela Prefeitura de Capão Alto",
+  "description": "O Tribunal de Contas instaurou relatório de inspeção apontando descumprimento injustificado, pela Prefeitura de Capão Alto, de decisões proferidas pela Corte. O texto publicado no Diário não detalha quais decisões teriam sido descumpridas. O processo está em tramitação, sem julgamento até aqui.",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 13,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 14,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 15,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 16,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE multa ex-prefeito de Capão Alto por não cobrar taxa de coleta de lixo",
+  "description": "O Tribunal de Contas julgou irregular a ausência de arrecadação da Taxa de Serviços Urbanos, referente à coleta domiciliar de lixo, criada por lei municipal de 2009 e nunca efetivamente cobrada, em desacordo com o marco legal do saneamento. O ex-prefeito Tito Pereira Freitas foi multado em R$ 2.293,37, e o gestor atual recebeu prazo de 90 dias para comprovar a cobrança efetiva da taxa. A decisão é de maio de 2025 e cabia recurso.",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta"
+ },
+ {
+  "i": 17,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aprova estrutura dos conselhos municipais de Capão Alto e arquiva inspeção",
+  "description": "O Tribunal de Contas inspecionou a criação e o funcionamento dos conselhos municipais obrigatórios de Capão Alto no exercício avaliado. Diante da comprovação documental enviada pela prefeitura, os atos foram considerados regulares. O processo foi arquivado em março de 2026.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 18,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE considera regular o controle interno da Prefeitura de Capão Alto",
+  "description": "Inspeção do Tribunal de Contas avaliou a estrutura e o funcionamento do órgão central de controle interno da Prefeitura de Capão Alto no exercício de 2024. Com a comprovação documental apresentada, os atos foram julgados regulares. O processo foi arquivado em março de 2026.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 19,
+  "tipo": "tce",
+  "keep": true,
+  "title": "Prescrição livra ex-gestores de Capão Alto de devolver dinheiro cobrado pelo TCE",
+  "description": "Luiz Carlos Alves de Freitas e Antônio Coelho Lopes Júnior haviam sido condenados pelo TCE, no Acórdão 15/2021, a devolver valores aos cofres públicos. Em recurso julgado em fevereiro de 2024, o Tribunal reconheceu a prescrição da pretensão de ressarcimento e cancelou os débitos imputados aos dois. Na prática, o mérito da cobrança não foi revisto: o caso terminou pelo decurso do tempo, sem devolução dos valores.",
+  "status": "⚫ prescrito",
+  "severity": "alta"
+ },
+ {
+  "i": 20,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ }
+]

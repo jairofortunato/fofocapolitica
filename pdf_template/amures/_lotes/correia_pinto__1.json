@@ -1,0 +1,368 @@
+{
+ "cidade": "Correia Pinto",
+ "casos": [
+  {
+   "i": 70,
+   "tipo": "mp",
+   "ref": "06.2022.00000891-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00000891-9",
+   "status": "🟠 TAC firmado",
+   "data": "27/02/2023",
+   "texto": "Ministério Público; Aires Rafaeli e Guilherme Sebastião Passaúra. Conclusão: danificação de vegatação nativa. Corte seletiva de árvores de pinheiro-brasileiro. Dano ambiental caracterizado. Formalização Termo de Ajustamento de Conduta celebrado com atual proprietário da área. Arquivamento."
+  },
+  {
+   "i": 71,
+   "tipo": "mp",
+   "ref": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE TUTELA DE INTERESSES INDIVIDUAIS",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE TUTELA DE INTERESSES INDIVIDUAIS",
+   "status": "🟡 em apuração",
+   "data": "30/11/2022",
+   "texto": "Alessandre Fogaça Antunes."
+  },
+  {
+   "i": 72,
+   "tipo": "mp",
+   "ref": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE ACOMPANHAMENTO DE INSTITUIÇÕES N.",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE ACOMPANHAMENTO DE INSTITUIÇÕES N.",
+   "status": "🟡 em apuração",
+   "data": "15/12/2022",
+   "texto": "Fundação Médico Social Rural de Ponte Alta."
+  },
+  {
+   "i": 73,
+   "tipo": "mp",
+   "ref": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE TUTELA DE INTERESSES INDIVIDUAIS",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE TUTELA DE INTERESSES INDIVIDUAIS",
+   "status": "🟡 em apuração",
+   "data": "23/01/2023",
+   "texto": "Ministério Público, A. M. C. e I. da S. C."
+  },
+  {
+   "i": 74,
+   "tipo": "mp",
+   "ref": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE ACOMPANHAMENTO DE TAC N. 0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE ACOMPANHAMENTO DE TAC N. 0",
+   "status": "🟡 em apuração",
+   "data": "30/01/2023",
+   "texto": "Ministério Público e Klabin S.A."
+  },
+  {
+   "i": 75,
+   "tipo": "mp",
+   "ref": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE ACOMPANHAMENTO DE TAC N.",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE ACOMPANHAMENTO DE TAC N.",
+   "status": "🟡 em apuração",
+   "data": "27/02/2023",
+   "texto": "Guilherme Sebastião Passaúra."
+  },
+  {
+   "i": 76,
+   "tipo": "mp",
+   "ref": "06.2022.00004379-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00004379-3",
+   "status": "🟠 TAC firmado",
+   "data": "27/03/2023",
+   "texto": "Ministério Público e Klabin S.A. Conclusão: infração do art. 60 da Lei n. 9.605/98. Celebrado Termo de Compromisso de Ajustamento de Conduta. Arquivamento não homologado. Aditamento do termo de compromisso. Arquivamento."
+  },
+  {
+   "i": 77,
+   "tipo": "mp",
+   "ref": "06.2019.00005061-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00005061-0",
+   "status": "🟢 arquivado",
+   "data": "10/04/2023",
+   "texto": "Edélcio Augusto Maziero. Conclusão: Instabilidade Barragem 22 - Maziero, após rompimento de muro de contenção. Risco de danos agrave à população. Barragem desativada e demolida. Cessação do risco. Arquivamento."
+  },
+  {
+   "i": 78,
+   "tipo": "mp",
+   "ref": "09.2026.00000035-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2026.00000035-4",
+   "status": "🟡 em apuração",
+   "data": "09/01/2026",
+   "texto": "Sebastião Juares Boilt e Secretaria de Estado de Saúde."
+  },
+  {
+   "i": 79,
+   "tipo": "mp",
+   "ref": "09.2026.00002165-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2026.00002165-0",
+   "status": "🟡 em apuração",
+   "data": "20/03/2026",
+   "texto": "Hospital Santa Clara e familiares do idoso A. M."
+  },
+  {
+   "i": 80,
+   "tipo": "mp",
+   "ref": "09.2026.00002724-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2026.00002724-3",
+   "status": "🟡 em apuração",
+   "data": "22/04/2026",
+   "texto": "Estado de Santa Catarina e Municípios de Ponte Alta e Correia Pinto."
+  },
+  {
+   "i": 81,
+   "tipo": "mp",
+   "ref": "06.2025.00002768-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00002768-3",
+   "status": "🔴 ACP ajuizada",
+   "data": "20/05/2026",
+   "texto": "Ministério Público de Santa Catarina e \"Casa de Apoio Mais Aconchego\". Conclusão: apuração de suposta situação de risco e/ou vulnerabilidade vivenciada por C.T., I. da S. P. e L. R. da C., munícipes correiapintenses acolhidos pelo Município na \"Casa de Apoio Mais Aconchego\", localizada em Curitiba/PR, a qual não se trata de Residência Inclusiva, Residência Terapêutica ou serviço de acolhimento socioassistencial, pois não cumprem os requisitos do SUAS, NOB/SUAS e Lei 13.146/2015, e, consequentemente, e da eventual necessidade de adoção de providências judiciais. Realização de diligências e visitas técnicas na instituição. Ausência de situação de risco e/ou vulnerabilidade social. Acompanhamento da informalidade da instituição pela Promotoria de Justiça da Comarca da Região Metropolitana de…"
+  },
+  {
+   "i": 82,
+   "tipo": "mp",
+   "ref": "09.2026.00004348-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO n. 09.2026.00004348-7",
+   "status": "🟡 em apuração",
+   "data": "20/05/2026",
+   "texto": "Promotoria de Justiça da Comarca de Correia Pinto e Promotoria de Justiça da Comarca da Região Metropolitana de Curitiba de Defesa dos Direitos da Pessoa com Deficiência."
+  },
+  {
+   "i": 0,
+   "tipo": "tce",
+   "ref": "REP 19/00885163",
+   "header": "⭐ REP 19/00885163 — Representação",
+   "status": "🔴 multa aplicada",
+   "data": "07/05/2025",
+   "texto": "Prefeitura Municipal de Correia Pinto Representação - Comunicação à Ouvidoria n. 890/2019 - acerca de supostas irregularidades referentes à contratação Celso Rogério Alves Ribeiro e Edilson Germiniani dos Santos",
+   "decisao": "ACORDAM os Conselheiros do Tribunal de Contas do Estado de Santa Catarina, reunidos em Sessão Plenária, diante das razões apresentadas pelo Relator e com fulcro nos arts. 59 e 113 da Constituição Estadual e 1º da Lei Complementar (estadual) n. 202/2000: 1. Conhecer do Relatório DAP/CAPE-I/Div.1 n. 1185/2023, da lavra da Diretoria de Atos de Pessoal (DAP) e do Parecer MPC/DRR n. 1405/2023, do Ministério Público junto a este Tribunal de Contas, e, no mérito, considerar procedente a Representação, em face de irregularidade concernente à contratação de servidora terceirizada pela Prefeitura Municipal de Correia Pinto para desempenho de funções específicas de servidores efetivos. 2. Aplicar ao Sr. Celso Rogério Alves Ribeiro, Prefeito Municipal de Correia Pinto de 1º/01/2017a 31/12/2020,as multas adiante elencadas, fixando-lhe o prazo de 30 (trinta) dias para comprovar a este Tribunal o recolhimento aos cofres do Município das sanções pecuniárias cominadas, ou interpor recurso na forma lei, sem o quê, fica desde logo autorizado o encaminhamento da dívida para cobrança judicial, observado o disposto nos arts. 43, I e II, e 71 da Lei Complementar (estadual) n. 202/2000. 2.1. com fundamento no art. 70, III, da Lei Complementar (estadual) n. 202/2000 c/c o art. 109, III, do Regimento Interno desta Casa,a multano valor de R$ 1.500,00 (mil e quinhentos reais), em face do não atendimento a diligências empreendidas pelo Tribunal por meio de Ofícios; 2.2. com fundamento no art. 70, II, da Lei Complementar (estadual) n. 202/2000 c/c o art. 109, II, do Regimento Interno desta Corte de Contas,as seguintes multas: 2.2.1. R$ 1.990,59 (mil novecentos e noventa reais e cinquenta e nove centavos), em razão da contratação temporária irregular da Sra. Aline Rossoni de Melo para desempenho de funções específicas de servidores efetivos, em afronta ao previsto nos arts. 37, IX, da Constituição Federal e 1°, 2° e 4° da Lei Complementar (municipal) n. 1010/2001; 2.2.2. R$ 1.990,59 (mil novecentos e noventa reais e cinquenta e nove centavos), devido à ausência de registro das atividades desempenhadas pela Sra. Aline Rossoni de Melo, contratada por meio do Contrato n. 267/201, condição necessária para a verificação da correta liquidação da despesa nos termos do art. 63, §§ 1º e 2º, da Lei n. 4.320/64. 3. Determinar ao atual Prefeito Municipal de Correia Pinto, Sr. Edilson Germiniani dos Santos, com fundamento no 3º da Instrução Normativa n. TC-13/2012, que tome as providências administrativas cabíveis, inclusive a instauração de Tomada de Contas Especial, se for o caso, visando ao ressarcimento aos cofres públicos do dano decorrente do pagamento de valores equivalentes a R$ 10.800,00 à Sra. Aline Rossoni de Melo, em face da não comprovação da prestação de serviços contratados. 4. Dar ciência deste Acórdão, do Relatório e Voto do Relator que a fundamentam, bem como do Relatório DAP/CAPE-I/Div.1 n. 1185/2023, ao Responsável retronominado, à Ouvidoria desta Corte de Contas, à Pre"
+  },
+  {
+   "i": 1,
+   "tipo": "tce",
+   "ref": "TCE 20/00182059",
+   "header": "⭐ TCE 20/00182059 — Processo do TCE",
+   "status": "⬛ julgado irregular + multa",
+   "data": "17/10/2022",
+   "texto": "Prefeitura Municipal de Correia Pinto Tomada de Contas - Conversão do Processo n. @REP-20/00182059 - acerca de supostas irregularidades no Robson Aurélio da Costa, Celso Rogério Alves Ribeiro e Rafael Athayde",
+   "decisao": "ACORDAM os Conselheiros do Tribunal de Contas do Estado de Santa Catarina, reunidos em Sessão Plenária, diante das razões apresentadas pelo Relator e com fulcro nos arts. 59 e 113 da Constituição Estadual e 1º da Lei Complementar (estadual) n. 202/2000: 1. Julgar irregulares com imputação de débito, na forma do art. 18, III, “b” e “c”, c/c o art. 21, caput, da Lei Complementar (estadual) n. 202/2000, as contas referentes à presente Tomada de Contas Especial, e condenar o Sr. ROBSON AURÉLIO DA COSTA, Coordenador-Geral de Esportes da Fundação de Esporte e Cultura do Município de Correia Pinto à época, inscrito no CPF sob o n. 044.897.839-30, ao pagamento da quantia de R$ 9.450,80 (nove mil, quatrocentos e cinquenta reais e oitenta centavos), relativa ao dano ao erário municipal causado pela ausência de recolhimento de taxas oriundas da utilização do Ginásio Municipal Ademar Garrincha, indevidamente recebidas dos usuários do ginásio pelo Responsável, em contrariedade ao disposto no §1º do art. 2º da Lei Complementar (municipal) n. 139/2014, fixando-lhe o prazo de 30 (trinta) dias, a contar da publicação deste Acórdão no Diário Oficial Eletrônico do TCE - DOTC-e -, para comprovar a este Tribunal o recolhimento do valor do débito aos cofres do Município de Correia Pinto, atualizado monetariamente e acrescido de juros legais, a partir da data das reservas do Ginásio, conforme Apêndice “A” do Relatório DGE/Coord.1/Div.2 n. 703/2022, ou interpor recurso na forma da lei, sem o quê, fica desde logo autorizado o encaminhamento da dívida para cobrança judicial (art. 43, II, do mesmo diploma legal). 2. Aplicar aos Responsáveis a seguir nominados, com fundamento no art. 70, II, da Lei Complementar (estadual) n. 202/2000 c/c o art. 109, II, da Resolução n. TC-06/2001, as multas abaixo especificadas, em face da omissão no dever de adotar providências para apurar a efetiva responsabilidade de servidor da Prefeitura pela prática de ato ilegal e causador de prejuízo aos cofres do Município, em descumprimento ao disposto nos arts. 3º e 7º da Instrução Normativa n. TC-13/2012 (item 2.2 do Relatório DGE), fixando-lhes o prazo de 30 (trinta) dias, a contar da publicação deste Acórdão no Diário Oficial Eletrônico desta Corte de Contas, para comprovarem ao Tribunal o recolhimento ao Tesouro do Estado das multas cominadas, ou interporem recurso na forma da lei,sem o quê, fica desde logo autorizado o encaminhamento da dívida para cobrança judicial, observado o disposto nos arts. 43, II, e 71 do referido diploma legal: 2.1. ao Sr. CELSO ROGÉRIO ALVES RIBEIRO, ex-Prefeito Municipal de Correia, portador do CPF n. 217.068.839-00, multa no valor de R$ 1.684,66 (mil, seiscentos e oitenta e quatro reais e sessenta e seis centavos); 2.2. ao Sr. RAFAEL ATHAYDE, Diretor da Fundação Municipal de Esportes e Cultura à época, inscrito no sob o n. CPF 028.419.999-04, multa no valor de R$ 1.684,66 (mil, seiscentos e oitenta e quatro reais e sessenta e seis centavos). 3. Dar ciência des"
+  },
+  {
+   "i": 2,
+   "tipo": "tce",
+   "ref": "REP 19/00885163",
+   "header": "⭐ REP 19/00885163 — Representação",
+   "status": "⬛ julgado irregular + multa",
+   "data": "10/01/2024",
+   "texto": "Prefeitura Municipal de Correia Pinto Representação - Comunicação à Ouvidoria n. 890/2019 - acerca de supostas irregularidades referentes à contratação ",
+   "decisao": "ACORDAM os Conselheiros do Tribunal de Contas do Estado de Santa Catarina, reunidos em Sessão Plenária, diante das razões apresentadas pelo Relator e com fulcro nos arts. 59 e 113 da Constituição Estadual e 1º da Lei Complementar (estadual) n. 202/2000: 1. Conhecer do Relatório DAP/CAPE-I/Div.1 n. 1185/2023, da lavra da Diretoria de Atos de Pessoal (DAP) e do Parecer MPC/DRR n. 1405/2023, do Ministério Público junto a este Tribunal de Contas, e, no mérito, considerar procedente a Representação, em face de irregularidade concernente à contratação de servidora terceirizada pela Prefeitura Municipal de Correia Pinto para desempenho de funções específicas de servidores efetivos. 2. Aplicar ao Sr. Celso Rogério Alves Ribeiro, Prefeito Municipal de Correia Pinto de 1º/01/2017a 31/12/2020,as multas adiante elencadas, fixando-lhe o prazo de 30 (trinta) dias para comprovar a este Tribunal o recolhimento aos cofres do Município das sanções pecuniárias cominadas, ou interpor recurso na forma lei, sem o quê, fica desde logo autorizado o encaminhamento da dívida para cobrança judicial, observado o disposto nos arts. 43, I e II, e 71 da Lei Complementar (estadual) n. 202/2000. 2.1. com fundamento no art. 70, III, da Lei Complementar (estadual) n. 202/2000 c/c o art. 109, III, do Regimento Interno desta Casa,a multano valor de R$ 1.500,00 (mil e quinhentos reais), em face do não atendimento a diligências empreendidas pelo Tribunal por meio de Ofícios; 2.2. com fundamento no art. 70, II, da Lei Complementar (estadual) n. 202/2000 c/c o art. 109, II, do Regimento Interno desta Corte de Contas,as seguintes multas: 2.2.1. R$ 1.990,59 (mil novecentos e noventa reais e cinquenta e nove centavos), em razão da contratação temporária irregular da Sra. Aline Rossoni de Melo para desempenho de funções específicas de servidores efetivos, em afronta ao previsto nos arts. 37, IX, da Constituição Federal e 1°, 2° e 4° da Lei Complementar (municipal) n. 1010/2001; 2.2.2. R$ 1.990,59 (mil novecentos e noventa reais e cinquenta e nove centavos), devido à ausência de registro das atividades desempenhadas pela Sra. Aline Rossoni de Melo, contratada por meio do Contrato n. 267/201, condição necessária para a verificação da correta liquidação da despesa nos termos do art. 63, §§ 1º e 2º, da Lei n. 4.320/64. 3. Determinar ao atual Prefeito Municipal de Correia Pinto, Sr. Edilson Germiniani dos Santos, com fundamento no 3º da Instrução Normativa n. TC-13/2012, que tome as providências administrativas cabíveis, inclusive a instauração de Tomada de Contas Especial, se for o caso, visando ao ressarcimento aos cofres públicos do dano decorrente do pagamento de valores equivalentes a R$ 10.800,00 à Sra. Aline Rossoni de Melo, em face da não comprovação da prestação de serviços contratados. 4. Dar ciência deste Acórdão, do Relatório e Voto do Relator que a fundamentam, bem como do Relatório DAP/CAPE-I/Div.1 n. 1185/2023, ao Responsável retronominado, à Ouvidoria desta Corte de Contas, à Pre"
+  },
+  {
+   "i": 3,
+   "tipo": "tce",
+   "ref": "REP 19/00885163",
+   "header": "⭐ REP 19/00885163 — Representação",
+   "status": "🔴 apontou irregularidade",
+   "data": "30/11/2022",
+   "texto": "Prefeitura Municipal de Correia Pinto Comunicação à Ouvidoria nº 890/2019 - Possíveis irregularidades decorrentes da contratação de profissional por ",
+   "decisao": "ACORDAM os Conselheiros do Tribunal de Contas do Estado de Santa Catarina, reunidos em Sessão Plenária, diante das razões apresentadas pelo Relator e com fulcro nos arts. 59 e 113 da Constituição Estadual e 1º da Lei Complementar (estadual) n. 202/2000: 1. Conhecer do Relatório DAP/CAPE-I/Div.1 n. 1185/2023, da lavra da Diretoria de Atos de Pessoal (DAP) e do Parecer MPC/DRR n. 1405/2023, do Ministério Público junto a este Tribunal de Contas, e, no mérito, considerar procedente a Representação, em face de irregularidade concernente à contratação de servidora terceirizada pela Prefeitura Municipal de Correia Pinto para desempenho de funções específicas de servidores efetivos. 2. Aplicar ao Sr. Celso Rogério Alves Ribeiro, Prefeito Municipal de Correia Pinto de 1º/01/2017a 31/12/2020,as multas adiante elencadas, fixando-lhe o prazo de 30 (trinta) dias para comprovar a este Tribunal o recolhimento aos cofres do Município das sanções pecuniárias cominadas, ou interpor recurso na forma lei, sem o quê, fica desde logo autorizado o encaminhamento da dívida para cobrança judicial, observado o disposto nos arts. 43, I e II, e 71 da Lei Complementar (estadual) n. 202/2000. 2.1. com fundamento no art. 70, III, da Lei Complementar (estadual) n. 202/2000 c/c o art. 109, III, do Regimento Interno desta Casa,a multano valor de R$ 1.500,00 (mil e quinhentos reais), em face do não atendimento a diligências empreendidas pelo Tribunal por meio de Ofícios; 2.2. com fundamento no art. 70, II, da Lei Complementar (estadual) n. 202/2000 c/c o art. 109, II, do Regimento Interno desta Corte de Contas,as seguintes multas: 2.2.1. R$ 1.990,59 (mil novecentos e noventa reais e cinquenta e nove centavos), em razão da contratação temporária irregular da Sra. Aline Rossoni de Melo para desempenho de funções específicas de servidores efetivos, em afronta ao previsto nos arts. 37, IX, da Constituição Federal e 1°, 2° e 4° da Lei Complementar (municipal) n. 1010/2001; 2.2.2. R$ 1.990,59 (mil novecentos e noventa reais e cinquenta e nove centavos), devido à ausência de registro das atividades desempenhadas pela Sra. Aline Rossoni de Melo, contratada por meio do Contrato n. 267/201, condição necessária para a verificação da correta liquidação da despesa nos termos do art. 63, §§ 1º e 2º, da Lei n. 4.320/64. 3. Determinar ao atual Prefeito Municipal de Correia Pinto, Sr. Edilson Germiniani dos Santos, com fundamento no 3º da Instrução Normativa n. TC-13/2012, que tome as providências administrativas cabíveis, inclusive a instauração de Tomada de Contas Especial, se for o caso, visando ao ressarcimento aos cofres públicos do dano decorrente do pagamento de valores equivalentes a R$ 10.800,00 à Sra. Aline Rossoni de Melo, em face da não comprovação da prestação de serviços contratados. 4. Dar ciência deste Acórdão, do Relatório e Voto do Relator que a fundamentam, bem como do Relatório DAP/CAPE-I/Div.1 n. 1185/2023, ao Responsável retronominado, à Ouvidoria desta Corte de Contas, à Pre"
+  },
+  {
+   "i": 4,
+   "tipo": "tce",
+   "ref": "REC 22/00633895",
+   "header": "⭐ REC 22/00633895 — Recurso",
+   "status": "🟠 cautelar / sustação",
+   "data": "14/12/2022",
+   "texto": "Prefeitura Municipal de Correia Pinto Recurso de Reconsideração da deliberação exarada no processo @TCE 2000182059 Prefeitura Municipal de Correia Pinto e Celso Rogério Alves Ribeiro, ex-Prefeito Municipal de Correia Pinto",
+   "decisao": "ACORDAM os Conselheiros do Tribunal de Contas do Estado de Santa Catarina, reunidos em Sessão Plenária, diante das razões apresentadas pelo Relator e com fulcro no art. 59 e 113 da Constituição Estadual e 1° da Lei Complementar (estadual) n. 202/2000, em: 1. Negar provimento ao Recurso de Reconsideração interposto por Celso Rogério Alves Ribeiro, nos termos do art. 77 da Lei Complementar (estadual) n. 202/2000, em face do Acórdão n. 369/2022, proferida na sessão ordinária de 05/10/2022, nos autos do Processo n. @TCE-20/00182059, para ratificar os termos da deliberação recorrida. 2. Dar ciência deste Acórdão ao Recorrente e à Prefeitura Municipal de Correia Pinto. 3. Determinar o arquivamento dos autos. Ata n.: 17/2023 Data da Sessão: 17/05/2023 - Ordinária - Virtual Especificação do quórum: Herneus João De Nadal, José Nei Alberton Ascari, Adircélio de Moraes Ferreira Júnior, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Luiz Eduardo Cherem e Aderson Flores Representante do Ministério Público de Contas/SC: Diogo Roberto Ringenberg Conselheiros-Substitutos presentes: Gerson dos Santos Sicca, Cleber Muniz Gavi e Sabrina Nunes Iocken HERNEUS JOÃO DE NADAL Presidente LUIZ ROBERTO HERBST Relator Fui presente: DIOGO ROBERTO RINGENBERG Procurador-Geral do Ministério Público de Contas/SC Criciúma"
+  },
+  {
+   "i": 5,
+   "tipo": "tce",
+   "ref": "REP 23/80014072",
+   "header": "⭐ REP 23/80014072 — Representação",
+   "status": "❔ em tramitação",
+   "data": "08/11/2024",
+   "texto": "Prefeitura Municipal de Correia Pinto Representação acerca de supostas irregularidades referentes ao edital do Pregão Eletrônico n. 02/2023 - Registro de Andreia Costa de Souza e Edilson Germiniani dos Santos",
+   "decisao": "decide: 1. Julgar procedente, com fundamento no art. 36, § 2º, “a”, da Lei Complementar (estadual) n. 202/2000, a Representação formulada pela empresa Centro Médico Manborê Ltda., acerca de supostas irregularidades no edital do Pregão Eletrônico n. 02/2023, promovido pela Prefeitura Municipal de Correia Pinto, cujo objeto é o registro de preços para contratação de laboratório especializado em coleta e análise de exames laboratoriais constantes na tabela SAI/SUS, para fins de diagnósticos de pacientes do Sistema Único de Saúde do Município, em razão da seguinte irregularidade: 1.1. Exigência, na fase de habilitação, de alvará de localização e funcionamento no Município de Correia Pinto (item 6.5.4 do edital) e de que o laboratório esteja instalado e localizado no Município (item 6.5.2 do edital), sem informações no edital a respeito do prazo de implantação do laboratório quando a empresa que vencer a licitação se localizar fora do Município de Correia Pinto, em desacordo com o art. 3º, caput e § 1º, I, da Lei n. 8.666/93. 2. Determinar ao Prefeito Municipal de Correia Pinto, Sr. Edilson Germiniani dos Santos, ou a quem venha a lhe suceder, que adote as seguintes providências, comprovando-as a este Tribunal no prazo de 60 (sessenta) dias: 2.1. Promova a anulação do edital do Pregão Eletrônico n. 02/2023, com fundamento nos arts. 49, caput, da Lei n. 8.666/93 e 71, III, da Lei n. 14.1333/2021 c/c o art. 8º, II, da Instrução Normativa n. TC-21/2015, encaminhando a esta Corte de Contas cópia do ato de anulação e de sua publicação, em face das irregularidades mencionadas; 2.2. Adote, de imediato, providências para realização de novo procedimento de credenciamento de empresas para prestação de serviço de exames laboratoriais de análises clínicas para atendimento da demanda dos usuários do Sistema Único de Saúde do Município, a fim de manter, permanentemente, aberta a possibilidade de empresas interessadas se credenciarem ou renovarem o credenciamento e eventuais outras contratações. 3. Alertar ao Município de Correia Pinto que previna, nos futuros editais de credenciamento de laboratório para prestação de serviço de exames laboratoriais de análises clínicas para atendimento da demanda dos usuários do Sistema Único de Saúde local, a restrição relacionada à exigência de prévia localização no Município sem a fixação de prazo razoável para instalação de empresas interessadas na prestação do serviço. 4. Determinar à Secretaria-Geral deste Tribunal que proceda ao acompanhamento do prazo fixado nesta deliberação. 5. Dar ciência desta Decisão, bem como do Relatório e Voto do Relator que a fundamentam, à Sra. Andreia Costa de Souza, à empresa Centro Médico Manborê Ltda. e à Prefeitura Municipal de Correia Pinto. Ata n.: 40/2024 Data da Sessão: 25/10/2024 - Ordinária - Virtual Especificação do quórum: Herneus João De Nadal, José Nei Alberton Ascari, Adircélio de Moraes Ferreira Júnior, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Luiz Eduardo Cherem e Aderson Fl"
+  },
+  {
+   "i": 6,
+   "tipo": "tce",
+   "ref": "REP 20/00182210",
+   "header": "⭐ REP 20/00182210 — Representação",
+   "status": "❔ em tramitação",
+   "data": "24/01/2022",
+   "texto": "Prefeitura Municipal de Correia Pinto Representação acerca de supostas irregularidades referentes ao edital de Pregão Presencial n. 02/2020 - Contratação de licença de Celso Rogério Alves Ribeiro e Casimiro Reuter de Liz",
+   "decisao": "decide: 1. Considerar procedente a Representação formulada pela empresa IPM Sistemas Ltda., nos termos do art. 113, § 1°, da Lei n. 8.666, de 21 de junho de 1993, com fundamento no art. 36, § 2º, “a”, da Lei Complementar (estadual) n. 202/00, contra o Pregão Presencial n. 02/2020, promovido pela Prefeitura Municipal de Correia Pinto, visando ao licenciamento do uso de serviços de informática para gestão pública. 2. Determinar à Prefeitura Municipal de Correia Pinto, na pessoa do Prefeito Municipal – Sr. Edilson Germiniani dos Santos, a não prorrogação do Contrato e a realização de nova licitação. 3. Dar ciência desta Decisão à Representante, aos procuradores constituídos nos autos, aos Responsáveis supranominados e à Prefeitura Municipal de Correia Pinto. Ata n.: 44/2021 Data da Sessão: 24/11/2021 - Ordinária - Virtual Especificação do quórum: Adircélio de Moraes Ferreira Júnior, Herneus João De Nadal, José Nei Alberton Ascari, Luiz Roberto Herbst, Cesar Filomeno Fontes, Luiz Eduardo Cherem e Gerson dos Santos Sicca (art. 86, caput, da LC n. 202/2000) Representante do Ministério Público de Contas/SC: Cibelly Farias Conselheiros-Substitutos presentes: Cleber Muniz Gavi, Sabrina Nunes Iocken ADIRCÉLIO DE MORAES FERREIRA JÚNIOR Presidente LUIZ EDUARDO CHEREM Relator Fui presente: CIBELLY FARIAS Procuradora-Geral do Ministério Público de Contas/SC Criciúma"
+  },
+  {
+   "i": 7,
+   "tipo": "tce",
+   "ref": "PCP 24/00182811",
+   "header": "⭐ PCP 24/00182811 — Prestação de Contas do Prefeito",
+   "status": "🟢 parecer pela aprovação",
+   "data": "29/08/2024",
+   "texto": "Prefeitura Municipal de Correia Pinto Prestação de Contas do Prefeito referente ao exercício de 2023 "
+  },
+  {
+   "i": 8,
+   "tipo": "tce",
+   "ref": "PCP 25/00037325",
+   "header": "⭐ PCP 25/00037325 — Prestação de Contas do Prefeito",
+   "status": "🟢 parecer pela aprovação",
+   "data": "05/11/2025",
+   "texto": "Prefeitura Municipal de Correia Pinto Prestação de Contas do Prefeito referente ao exercício de 2024 "
+  },
+  {
+   "i": 9,
+   "tipo": "tce",
+   "ref": "REP 23/80014072",
+   "header": "⭐ REP 23/80014072 — Representação",
+   "status": "⬛ julgado irregular + multa",
+   "data": "25/05/2026",
+   "texto": "Prefeitura Municipal de Correia Pinto Representação acerca de supostas irregularidades referentes ao Pregão Eletrônico n. 002/2023 - Registro de preços ",
+   "decisao": "decide: 1. Julgar procedente, com fundamento no art. 36, § 2º, “a”, da Lei Complementar (estadual) n. 202/2000, a Representação formulada pela empresa Centro Médico Manborê Ltda., acerca de supostas irregularidades no edital do Pregão Eletrônico n. 02/2023, promovido pela Prefeitura Municipal de Correia Pinto, cujo objeto é o registro de preços para contratação de laboratório especializado em coleta e análise de exames laboratoriais constantes na tabela SAI/SUS, para fins de diagnósticos de pacientes do Sistema Único de Saúde do Município, em razão da seguinte irregularidade: 1.1. Exigência, na fase de habilitação, de alvará de localização e funcionamento no Município de Correia Pinto (item 6.5.4 do edital) e de que o laboratório esteja instalado e localizado no Município (item 6.5.2 do edital), sem informações no edital a respeito do prazo de implantação do laboratório quando a empresa que vencer a licitação se localizar fora do Município de Correia Pinto, em desacordo com o art. 3º, caput e § 1º, I, da Lei n. 8.666/93. 2. Determinar ao Prefeito Municipal de Correia Pinto, Sr. Edilson Germiniani dos Santos, ou a quem venha a lhe suceder, que adote as seguintes providências, comprovando-as a este Tribunal no prazo de 60 (sessenta) dias: 2.1. Promova a anulação do edital do Pregão Eletrônico n. 02/2023, com fundamento nos arts. 49, caput, da Lei n. 8.666/93 e 71, III, da Lei n. 14.1333/2021 c/c o art. 8º, II, da Instrução Normativa n. TC-21/2015, encaminhando a esta Corte de Contas cópia do ato de anulação e de sua publicação, em face das irregularidades mencionadas; 2.2. Adote, de imediato, providências para realização de novo procedimento de credenciamento de empresas para prestação de serviço de exames laboratoriais de análises clínicas para atendimento da demanda dos usuários do Sistema Único de Saúde do Município, a fim de manter, permanentemente, aberta a possibilidade de empresas interessadas se credenciarem ou renovarem o credenciamento e eventuais outras contratações. 3. Alertar ao Município de Correia Pinto que previna, nos futuros editais de credenciamento de laboratório para prestação de serviço de exames laboratoriais de análises clínicas para atendimento da demanda dos usuários do Sistema Único de Saúde local, a restrição relacionada à exigência de prévia localização no Município sem a fixação de prazo razoável para instalação de empresas interessadas na prestação do serviço. 4. Determinar à Secretaria-Geral deste Tribunal que proceda ao acompanhamento do prazo fixado nesta deliberação. 5. Dar ciência desta Decisão, bem como do Relatório e Voto do Relator que a fundamentam, à Sra. Andreia Costa de Souza, à empresa Centro Médico Manborê Ltda. e à Prefeitura Municipal de Correia Pinto. Ata n.: 40/2024 Data da Sessão: 25/10/2024 - Ordinária - Virtual Especificação do quórum: Herneus João De Nadal, José Nei Alberton Ascari, Adircélio de Moraes Ferreira Júnior, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Luiz Eduardo Cherem e Aderson Fl"
+  },
+  {
+   "i": 10,
+   "tipo": "tce",
+   "ref": "REP 23/80014072",
+   "header": "⭐ REP 23/80014072 — Representação",
+   "status": "⬛ julgado irregular + multa",
+   "data": "26/05/2026",
+   "texto": "Prefeitura Municipal de Correia Pinto Representação acerca de supostas irregularidades referentes ao Pregão Eletrônico n. 002/2023 - Registro de preços ",
+   "decisao": "decide: 1. Julgar procedente, com fundamento no art. 36, § 2º, “a”, da Lei Complementar (estadual) n. 202/2000, a Representação formulada pela empresa Centro Médico Manborê Ltda., acerca de supostas irregularidades no edital do Pregão Eletrônico n. 02/2023, promovido pela Prefeitura Municipal de Correia Pinto, cujo objeto é o registro de preços para contratação de laboratório especializado em coleta e análise de exames laboratoriais constantes na tabela SAI/SUS, para fins de diagnósticos de pacientes do Sistema Único de Saúde do Município, em razão da seguinte irregularidade: 1.1. Exigência, na fase de habilitação, de alvará de localização e funcionamento no Município de Correia Pinto (item 6.5.4 do edital) e de que o laboratório esteja instalado e localizado no Município (item 6.5.2 do edital), sem informações no edital a respeito do prazo de implantação do laboratório quando a empresa que vencer a licitação se localizar fora do Município de Correia Pinto, em desacordo com o art. 3º, caput e § 1º, I, da Lei n. 8.666/93. 2. Determinar ao Prefeito Municipal de Correia Pinto, Sr. Edilson Germiniani dos Santos, ou a quem venha a lhe suceder, que adote as seguintes providências, comprovando-as a este Tribunal no prazo de 60 (sessenta) dias: 2.1. Promova a anulação do edital do Pregão Eletrônico n. 02/2023, com fundamento nos arts. 49, caput, da Lei n. 8.666/93 e 71, III, da Lei n. 14.1333/2021 c/c o art. 8º, II, da Instrução Normativa n. TC-21/2015, encaminhando a esta Corte de Contas cópia do ato de anulação e de sua publicação, em face das irregularidades mencionadas; 2.2. Adote, de imediato, providências para realização de novo procedimento de credenciamento de empresas para prestação de serviço de exames laboratoriais de análises clínicas para atendimento da demanda dos usuários do Sistema Único de Saúde do Município, a fim de manter, permanentemente, aberta a possibilidade de empresas interessadas se credenciarem ou renovarem o credenciamento e eventuais outras contratações. 3. Alertar ao Município de Correia Pinto que previna, nos futuros editais de credenciamento de laboratório para prestação de serviço de exames laboratoriais de análises clínicas para atendimento da demanda dos usuários do Sistema Único de Saúde local, a restrição relacionada à exigência de prévia localização no Município sem a fixação de prazo razoável para instalação de empresas interessadas na prestação do serviço. 4. Determinar à Secretaria-Geral deste Tribunal que proceda ao acompanhamento do prazo fixado nesta deliberação. 5. Dar ciência desta Decisão, bem como do Relatório e Voto do Relator que a fundamentam, à Sra. Andreia Costa de Souza, à empresa Centro Médico Manborê Ltda. e à Prefeitura Municipal de Correia Pinto. Ata n.: 40/2024 Data da Sessão: 25/10/2024 - Ordinária - Virtual Especificação do quórum: Herneus João De Nadal, José Nei Alberton Ascari, Adircélio de Moraes Ferreira Júnior, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Luiz Eduardo Cherem e Aderson Fl"
+  },
+  {
+   "i": 11,
+   "tipo": "tce",
+   "ref": "REP 21/00804930",
+   "header": "⭐ REP 21/00804930 — Representação",
+   "status": "🔴 apontou irregularidade",
+   "data": "07/03/2022",
+   "texto": "Prefeitura Municipal de Correia Pinto Possíveis irregularidades no edital de Pregão Eletrônico 11/2021 FHMCP, visando o registro de preços para serviços de vigilância Defense Vigilância Ltda., Prefeitura Municipal de Correia Pinto",
+   "decisao": "Diante do exposto, DECIDO: 1. Determinar o arquivamento da representação formulada pela empresa DEFENSE VIGILÂNCIA LTDA, contra o Edital do Pregão Eletrônico, n. 11/2021, promovido pela Prefeitura Municipal de Correia Pinto, nos termos do artigo 9º da Resolução TC 0165/2020 c/c o art. 5º da IN nº TC- 29/2021 e art. 7 da Portaria nº156/2021. 2. Determinar ao Controle Interno da Unidade que verifique se no procedimento licitatório consta o orçamento detalhado em cumprimento ao disposto no inciso II do §2º do artigo 7º da Lei Federal nº 8.666/93 c/c o inciso III do artigo 3º da Lei Federal nº 10.520/02. 3. Dar ciência ao representante, à Unidade e ao responsável pelo Controle Interno da Unidade Gestora. Florianópolis, 02 de março de 2022. WILSON ROGÉRIO WAN-DALL CONSELHEIRO RELATOR Florianópolis"
+  },
+  {
+   "i": 12,
+   "tipo": "tce",
+   "ref": "PCP 22/00147109",
+   "header": "⭐ PCP 22/00147109 — Prestação de Contas do Prefeito",
+   "status": "🟢 parecer pela aprovação",
+   "data": "07/12/2022",
+   "texto": "Prefeitura Municipal de Correia Pinto Prestação de Contas do Prefeito referente ao exercício de 2021 ",
+   "decisao": "4. Determinar à Câmara de Vereadores de Correia Pinto que comunique ao Tribunal de Contas o resultado do julgamento das Contas Anuais em questão, do Prefeito Municipal, conforme prescreve o art. 59 da Lei Complementar (estadual) n. 202/2000, inclusive com a remessa do ato respectivo e da ata da sessão de julgamento da Câmara. 5. Determina a ciência deste Parecer Prévio: 5.1. à Câmara Municipal de Correia Pinto; 5.2. bem como do Relatório e Voto do Relator, do Relatório DGO n. 353/2022 e do Parecer MPC n. 1971/2022 que o fundamentam, à Prefeitura Municipal de Correia Pinto e ao controle interno daquele Município. Ata n.: 44/2022 Data da Sessão: 23/11/2022 - Ordinária - Virtual Especificação do quórum: Adircélio de Moraes Ferreira Júnior, Herneus João De Nadal, José Nei Alberton Ascari, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Cesar Filomeno Fontes e Luiz Eduardo Cherem Representante do Ministério Público de Contas/SC: Diogo Roberto Ringenberg Conselheiros-Substitutos presentes: Gerson dos Santos Sicca, Cleber Muniz Gavi e Sabrina Nunes Iocken ADIRCÉLIO DE MORAES FERREIRA JÚNIOR Presidente WILSON ROGÉRIO WAN-DALL Relator Fui presente: DIOGO ROBERTO RINGENBERG Procurador-Geral do Ministério Público de Contas/SC Florianópolis"
+  },
+  {
+   "i": 13,
+   "tipo": "tce",
+   "ref": "PCP 23/00106447",
+   "header": "⭐ PCP 23/00106447 — Prestação de Contas do Prefeito",
+   "status": "🟢 parecer pela aprovação",
+   "data": "11/10/2023",
+   "texto": "Prefeitura Municipal de Correia Pinto Prestação de Contas do Prefeito referente ao exercício de 2022 "
+  },
+  {
+   "i": 14,
+   "tipo": "tce",
+   "ref": "RLI 20/00523905",
+   "header": "⭐ RLI 20/00523905 — Relatório de Inspeção",
+   "status": "❔ em tramitação",
+   "data": "29/04/2022",
+   "texto": "Prefeitura Municipal de Correia Pinto Inspeção envolvendo o monitoramento do cumprimento das Metas 17 e 18 da Lei (municipal) n. 1.980/2015 (Plano Municipal de ",
+   "decisao": "decide:1. Conhecer do Relatório DAP/CAPE-I/Div.1 n. 6592/2021, para considerar irregular, com fundamento no art. 36, § 2º, alínea “a”, da Lei Complementar (estadual) n. 202/2000, a ausência de critérios específicos na legislação municipal quanto à participação da comunidade escolar na escolha dos Diretores das unidades educacionais do Município de Correia Pinto, princípio básico para a efetiva Gestão Democrática Escolar, em desacordo com o que preceituam o Plano Nacional de Educação (Lei n. 13.005/2014) e o Plano Municipal de Educação (Lei municipal n. 1.980/2015). 2. Determinar à Prefeitura Municipal de Correia Pinto, na pessoa do seu represente legal, que no prazo de 180 (cento e oitenta) dias, a contar da publicação desta deliberação no Diário Oficial Eletrônico do TCE – DOTC-e -, comprove a este Tribunal de Contas as providências adotadas para a inclusão na legislação municipal de diretrizes que assegurem a gestão democrática da educação na escolha de diretores, os quais devem ser nomeados pelo gestor, nos termos já pacificados pelo Supremo Tribunal Federal, garantidos critérios específicos quanto à participação da comunidade escolar neste processo, em consonância com o disposto no Plano Nacional de Educação (Lei n. 13.005/2014) e no Plano Municipal de Educação (Lei municipal n. 1.980/2015). 3. Recomendar à Prefeitura Municipal de Correia Pinto que o cargo de Diretor das unidades de ensino seja ocupado por servidor efetivo da administração municipal. 4. Alertar à Prefeitura Municipal de Correia Pinto, na pessoa do Prefeito Municipal, assim como à Secretária Municipal de Educação, da imprescindível tempestividade e diligência no cumprimento da determinação exarada por este Tribunal, sob pena de aplicação das sanções previstas no art. 70, III e § 1º, da Lei Complementar (estadual) n. 202/2000. 5. Determinar à Diretoria de Atos de Pessoal – DAP - que monitore o cumprimento das determinações expedidas nesta Decisão, mediante diligências e/ou inspeções in loco, e, ao final do prazo nela fixado, se manifeste pelo arquivamento dos autos quando cumprida a Decisão, ou pela adoção das providências necessárias, se for o caso, quando verificado o não cumprimento da deliberação, submetendo os autos ao Relator para que decida quanto às medidas a serem adotadas. 6. Dar ciência deste Acórdão, do Relatório e Voto do Relator que o fundamentam, bem como do Relatório DAP/CAPE-I/Div.1 n. 6592/2021, ao Responsável retronominado, à Prefeitura Municipal de Correia Pinto e à Secretaria de Educação e ao Controle Interno daquele Município. Os responsáveis foram devidamente notificados, conforme verifica-se às fls. 833 a 840 dos autos. A unidade gestora juntou, intempestivamente, os documentos e informações atinentes a determinação imposta na Decisão nº 258/2022, às fls. 842 a 851. A Diretoria de Atos de Pessoal – DAP, ao analisar a documentação trazida aos autos, confeccionou o Relatório nº 20/2023, por meio do qual constatou o atendimento da determinação constante no"
+  },
+  {
+   "i": 15,
+   "tipo": "tce",
+   "ref": "RLI 26/00004186",
+   "header": "⭐ RLI 26/00004186 — Relatório de Inspeção",
+   "status": "⬛ decisão singular",
+   "data": "03/03/2026",
+   "texto": "Prefeitura Municipal de Correia Pinto Apartados do TCE 25/00100469 - apuração do item 5 da Decisão Singular GCS/SNI 15/2026 Prefeitura Municipal de Correia Pinto",
+   "decisao": "DECIDO: 1. CONVERTER o processo em Tomada de Contas Especial, nos termos do artigo 34, §1º da Resolução N. TC 06/2001. 2. DETERMINAR que se proceda à CITAÇÃO da responsável abaixo elencada para que, no prazo de 30 (trinta) dias, apresentar alegações de defesa quanto à irregularidade relacionada, passível de imputação de débito e cominação de multa, nos termos do art. 68 da Lei Complementar n.º 202/2000, conforme segue: 2.1. Flávia Helena Gomes Mesquita – CPF: ***.873.879-** - Secretária Municipal de Saúde de Correia Pinto, exercício de 2024 subscritora do Termo de Cessão de Uso Bens e Equipamento, firmado com o CIS-AMURES em 21/10/2024 em face de dano ao erário no valor de R$ 17.000,00, decorrente do desaparecimento de 01 (uma) cadeira de roda motorizada cedida pelo Consórcio Interfederativo de Saúde da Região da AMURES-CIS-AMURES ao Município de Correia Pinto, em afronta aos arts. 37 e 70 parágrafo único da Constituição Federal, bem como às Cláusulas Quinta e Décima do Termo de Cessão de Uso de Bens e Equipamentos firmado com a Instituição (item 2.1.1, do relatório DGE – 100/2026). 3. Dar ciência ao Consórcio Interfederativo de Saúde da Região da AMURES – CISAMURES, ao município de Correia Pinto, ao controle interno municipal e à responsável. Florianópolis, data da assinatura digital. Sabrina Nunes Iocken Relatora Itajaí"
+  },
+  {
+   "i": 16,
+   "tipo": "tce",
+   "ref": "TCE 26/00004186",
+   "header": "⭐ TCE 26/00004186 — Processo do TCE",
+   "status": "❔ em tramitação",
+   "data": "19/05/2026",
+   "texto": "Prefeitura Municipal de Correia Pinto Apartados do TCE 25/00100469 - apuração do item 5 da Decisão Singular GCS/SNI 15/2026 "
+  },
+  {
+   "i": 17,
+   "tipo": "tce",
+   "ref": "RLI 20/00523905",
+   "header": "• RLI 20/00523905 — Relatório de Inspeção",
+   "status": "🔴 apontou irregularidade",
+   "data": "23/05/2023",
+   "texto": "Prefeitura Municipal de Correia Pinto Inspeção sobre monitoramento do cumprimento das Metas 17 e 18 da Lei (municipal) n. 1980/2015 (Plano Municipal Cleomara Fiamoncini Rodrigues, Diretoria de Controle de Atos de Pessoal (DAP), Edilson Germiniani dos",
+   "decisao": "decide:1. Conhecer do Relatório DAP/CAPE-I/Div.1 n. 6592/2021, para considerar irregular, com fundamento no art. 36, § 2º, alínea “a”, da Lei Complementar (estadual) n. 202/2000, a ausência de critérios específicos na legislação municipal quanto à participação da comunidade escolar na escolha dos Diretores das unidades educacionais do Município de Correia Pinto, princípio básico para a efetiva Gestão Democrática Escolar, em desacordo com o que preceituam o Plano Nacional de Educação (Lei n. 13.005/2014) e o Plano Municipal de Educação (Lei municipal n. 1.980/2015). 2. Determinar à Prefeitura Municipal de Correia Pinto, na pessoa do seu represente legal, que no prazo de 180 (cento e oitenta) dias, a contar da publicação desta deliberação no Diário Oficial Eletrônico do TCE – DOTC-e -, comprove a este Tribunal de Contas as providências adotadas para a inclusão na legislação municipal de diretrizes que assegurem a gestão democrática da educação na escolha de diretores, os quais devem ser nomeados pelo gestor, nos termos já pacificados pelo Supremo Tribunal Federal, garantidos critérios específicos quanto à participação da comunidade escolar neste processo, em consonância com o disposto no Plano Nacional de Educação (Lei n. 13.005/2014) e no Plano Municipal de Educação (Lei municipal n. 1.980/2015). 3. Recomendar à Prefeitura Municipal de Correia Pinto que o cargo de Diretor das unidades de ensino seja ocupado por servidor efetivo da administração municipal. 4. Alertar à Prefeitura Municipal de Correia Pinto, na pessoa do Prefeito Municipal, assim como à Secretária Municipal de Educação, da imprescindível tempestividade e diligência no cumprimento da determinação exarada por este Tribunal, sob pena de aplicação das sanções previstas no art. 70, III e § 1º, da Lei Complementar (estadual) n. 202/2000. 5. Determinar à Diretoria de Atos de Pessoal – DAP - que monitore o cumprimento das determinações expedidas nesta Decisão, mediante diligências e/ou inspeções in loco, e, ao final do prazo nela fixado, se manifeste pelo arquivamento dos autos quando cumprida a Decisão, ou pela adoção das providências necessárias, se for o caso, quando verificado o não cumprimento da deliberação, submetendo os autos ao Relator para que decida quanto às medidas a serem adotadas. 6. Dar ciência deste Acórdão, do Relatório e Voto do Relator que o fundamentam, bem como do Relatório DAP/CAPE-I/Div.1 n. 6592/2021, ao Responsável retronominado, à Prefeitura Municipal de Correia Pinto e à Secretaria de Educação e ao Controle Interno daquele Município. Os responsáveis foram devidamente notificados, conforme verifica-se às fls. 833 a 840 dos autos. A unidade gestora juntou, intempestivamente, os documentos e informações atinentes a determinação imposta na Decisão nº 258/2022, às fls. 842 a 851. A Diretoria de Atos de Pessoal – DAP, ao analisar a documentação trazida aos autos, confeccionou o Relatório nº 20/2023, por meio do qual constatou o atendimento da determinação constante no"
+  },
+  {
+   "i": 18,
+   "tipo": "tce",
+   "ref": "REC 26/00113805",
+   "header": "• REC 26/00113805 — Recurso",
+   "status": "⬛ decisão singular",
+   "data": "03/07/2026",
+   "texto": "Prefeitura Municipal de Correia Pinto Recurso interposto em face de decisão singular exarada no Processo REP 23/80014072 ",
+   "decisao": "decido: 1. Conhecer do Recurso de Reexame interposto por Lúcia Raquel Rodrigues Ortiz, com fundamento no art. 80 da Lei Complementar Estadual n. 202/2000, suspendendo os efeitos dos itens 1 e 2 do Acórdão n. 4/2026 - Segunda Câmara, proferido na Sessão Ordinária Virtual de 08/05/2026 a 15/05/2026, no processo REP 23/80014072. 2. Determinar a remessa dos autos à Diretoria de Recursos e Revisões -DRR para exame de mérito. 3. Dar ciência da Decisão à Recorrente, ao Procurador e à Prefeitura Municipal de Correia Pinto. Florianópolis, data da assinatura digital. LUIZ ROBERTO HERBST CONSELHEIRO RELATOR Cunhataí"
+  },
+  {
+   "i": 19,
+   "tipo": "tce",
+   "ref": "REC 19/00721055",
+   "header": "· REC 19/00721055 — Recurso",
+   "status": "⬛ acórdão (decisão)",
+   "data": "26/07/2022",
+   "texto": "Prefeitura Municipal de Correia Pinto Recurso de Reexame interposto contra o Acórdão n. 128/2019, exarado no Processo n. @REP-17/00475980 Celso Rogério Alves Ribeiro",
+   "decisao": "ACORDAM os Conselheiros do Tribunal de Contas do Estado de Santa Catarina, reunidos em Sessão Plenária, diante das razões apresentadas pelo Relator e com fulcro nos arts. 59 e 113da Constituição Estadual e 1° da Lei Complementar (estadual) n. 202/2000, em: 1. Conhecer do Recurso interposto pelo Sr. Celso Rogério Alves Ribeiro, com fundamento nos arts. 79 e 80 da Lei Complementar (estadual) n. 202, de 15 de dezembro de 2000, em face do Acórdão n. 128/2019, proferido na Sessão Ordinária do dia 15/04/2019, nos autos n. @REP-17/00475980, e, no mérito, negar-lhe provimento, ratificando na íntegra a deliberação recorrida. 2. Dar ciência deste Acórdão ao Recorrente e à Prefeitura Municipal de Correia Pinto. 3. Determinar o arquivamento deste processo. Ata n.: 23/2022 Data da Sessão: 29/06/2022 - Ordinária - Virtual Especificação do quórum: Adircélio de Moraes Ferreira Júnior, Herneus João De Nadal, José Nei Alberton Ascari, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Cesar Filomeno Fontes e Luiz Eduardo Cherem Representante do Ministério Público de Contas/SC: Cibelly Farias Conselheiros-Substitutos presentes: Gerson dos Santos Sicca, Cleber Muniz Gavi e Sabrina Nunes Iocken ADIRCÉLIO DE MORAES FERREIRA JÚNIOR Presidente HERNEUS JOÃO DE NADAL Relator Fui presente: CIBELLY FARIAS Procuradora-Geral do Ministério Público de Contas/SC Florianópolis"
+  },
+  {
+   "i": 20,
+   "tipo": "tce",
+   "ref": "REC 22/00633895",
+   "header": "· REC 22/00633895 — Recurso",
+   "status": "⬛ acórdão (decisão)",
+   "data": "01/06/2023",
+   "texto": "Prefeitura Municipal de Correia Pinto Recurso de Reconsideração interposto contra o Acórdão n. 369/2022, exarado no Processo n. @TCE-20/00182059 Celso Rogério Alves Ribeiro",
+   "decisao": "ACORDAM os Conselheiros do Tribunal de Contas do Estado de Santa Catarina, reunidos em Sessão Plenária, diante das razões apresentadas pelo Relator e com fulcro no art. 59 e 113 da Constituição Estadual e 1° da Lei Complementar (estadual) n. 202/2000, em: 1. Negar provimento ao Recurso de Reconsideração interposto por Celso Rogério Alves Ribeiro, nos termos do art. 77 da Lei Complementar (estadual) n. 202/2000, em face do Acórdão n. 369/2022, proferida na sessão ordinária de 05/10/2022, nos autos do Processo n. @TCE-20/00182059, para ratificar os termos da deliberação recorrida. 2. Dar ciência deste Acórdão ao Recorrente e à Prefeitura Municipal de Correia Pinto. 3. Determinar o arquivamento dos autos. Ata n.: 17/2023 Data da Sessão: 17/05/2023 - Ordinária - Virtual Especificação do quórum: Herneus João De Nadal, José Nei Alberton Ascari, Adircélio de Moraes Ferreira Júnior, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Luiz Eduardo Cherem e Aderson Flores Representante do Ministério Público de Contas/SC: Diogo Roberto Ringenberg Conselheiros-Substitutos presentes: Gerson dos Santos Sicca, Cleber Muniz Gavi e Sabrina Nunes Iocken HERNEUS JOÃO DE NADAL Presidente LUIZ ROBERTO HERBST Relator Fui presente: DIOGO ROBERTO RINGENBERG Procurador-Geral do Ministério Público de Contas/SC Criciúma"
+  },
+  {
+   "i": 21,
+   "tipo": "tce",
+   "ref": "REC 21/00471192",
+   "header": "· REC 21/00471192 — Recurso",
+   "status": "⬛ acórdão (decisão)",
+   "data": "04/08/2023",
+   "texto": "Prefeitura Municipal de Correia Pinto Recurso de Reconsideração contra o Acórdão n. 145/2021, exarado no Processo n. @TCE-17/00474828 Celso Rogério Alves Ribeiro",
+   "decisao": "ACORDAM os Conselheiros do Tribunal de Contas do Estado de Santa Catarina, reunidos em Sessão Plenária, diante das razões apresentadas pelo Relator e com fulcro nos arts. 59 e 113 da Constituição Estadual e 1º da Lei Complementar (estadual) n. 202/2000: 1. Negar provimento ao Recurso de Reconsideração, interposto pelo Sr. Celso Rogério Alves Ribeiro, com fundamento no art. 80 da Lei Complementar (estadual) n. 202/2000, em face do Acórdão n. 145/2021, exarado no Processo n. @TCE-17/00474828, mantendo, na íntegra, a deliberação recorrida. 2. Dar ciência deste Acórdão ao Recorrente e à Prefeitura Municipal de Correia Pinto. Ata n.: 26/2023 Data da Sessão: 19/07/2023 - Ordinária - Virtual Especificação do quórum: Herneus João De Nadal, José Nei Alberton Ascari, Adircélio de Moraes Ferreira Júnior, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Aderson Flores e Cleber Muniz Gavi (art. 86, caput, da LC n. 202/2000) Representante do Ministério Público de Contas/SC: Diogo Roberto Ringenberg Conselheiros-Substitutos presentes: Gerson dos Santos Sicca e Sabrina Nunes Iocken HERNEUS JOÃO DE NADAL Presidente JOSÉ NEI ALBERTON ASCARI Relator Fui presente: DIOGO ROBERTO RINGENBERG Procurador-Geral do Ministério Público de Contas/SC Criciúma"
+  },
+  {
+   "i": 22,
+   "tipo": "tce",
+   "ref": "REC 21/00513294",
+   "header": "· REC 21/00513294 — Recurso",
+   "status": "⬛ acórdão (decisão)",
+   "data": "11/10/2023",
+   "texto": "Prefeitura Municipal de Correia Pinto Recurso de Reconsideração contra o Acórdão n. 145/2021, exarado no Processo n. @TCE-17/00474828 Édio Dias Medeiros",
+   "decisao": "ACORDAM os Conselheiros do Tribunal de Contas do Estado de Santa Catarina, reunidos em Sessão Plenária, diante das razões apresentadas pelo Relator e com fulcro nos arts. 59 e 113 da Constituição Estadual e 1º da Lei Complementar (estadual) n. 202/2000: 1. Negar provimento ao Recurso de Reconsideração, interposto pelo Sr. Édio Dias Medeiros, servidor da Prefeitura Municipal de Correia Pinto, com fundamento no art. 77 da Lei Complementar (estadual) n. 202/2000, em face do Acórdão n. 145/2021, nos autos do Processo n. @TCE-17/00474828, mantendo-se na íntegra a deliberação recorrida. 2. Dar ciência deste Acórdão, bem como do Relatório e Voto do Relator que o fundamentam, ao Interessado retronominado e a Prefeitura Municipal de Correia Pinto. Ata n.: 37/2023 Data da Sessão: 27/09/2023 - Ordinária - Virtual Especificação do quórum: Herneus João De Nadal, José Nei Alberton Ascari, Adircélio de Moraes Ferreira Júnior, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Luiz Eduardo Cherem e Aderson Flores Representante do Ministério Público junto ao Tribunal de Contas/SC: Cibelly Farias Conselheiros-Substitutos presentes: Gerson dos Santos Sicca, Cleber Muniz Gavi e Sabrina Nunes Iocken HERNEUS JOÃO DE NADAL Presidente JOSÉ NEI ALBERTON ASCARI Relator Fui presente: CIBELLY FARIAS Procuradora-Geral do Ministério Público junto ao Tribunal de Contas/SC em exercício Criciúma Edital de Notificação TCE/SC 15/2023"
+  },
+  {
+   "i": 23,
+   "tipo": "tce",
+   "ref": "RLI 23/00297366",
+   "header": "· RLI 23/00297366 — Relatório de Inspeção",
+   "status": "⬛ decisão singular",
+   "data": "01/11/2023",
+   "texto": " Verificação do cumprimento das normas da Lei federal 13.784/2019 e da Lei estadual 18.091/2021 acerca de Prefeitura Municipal de Correia Pinto",
+   "decisao": "decido: 1. Conhecer do Relatório DGE n. 647/2023, que verificou a adequação pelo Município de Correia Pinto à Lei Federal n. 13.874/2019 – Lei de Liberdade Econômica e à Lei estadual n. 18.091/2021, objeto de análise que desencadeou o acompanhamento iniciado por esta Casa, por meio dos processos @LEV 22/80012345 e @ACO 22/80041280. 2. Determinar o arquivamento do presente processo, com fundamento no art. 46, IV, da Resolução n. TC 09/2002. 3. Dar ciência desta Decisão à Prefeitura Municipal de Correia Pinto. Gabinete, em 20 de outubro de 2023. Cleber Muniz Gavi Conselheiro Substituto Relator Florianópolis"
+  },
+  {
+   "i": 24,
+   "tipo": "tce",
+   "ref": "PMO 25/00138431",
+   "header": "· PMO 25/00138431 — Processo de Monitoramento",
+   "status": "❔ em tramitação",
+   "data": "09/02/2026",
+   "texto": "Prefeitura Municipal de Correia Pinto Primeiro Monitoramento da Auditoria Operacional (RLA 22/80032451) que verificou a adequação do Plano Diretor do ",
+   "decisao": "decide: 1. Conhecer do Relatório DAE/CAOP-II/Div. 2 n. 113/2025 (fs. 17-21 dos autos), que trata do Primeiro Monitoramento da Auditoria Operacional que avaliou a implementação da revisão do Plano Diretor pelo Município de Correia Pinto, decorrente do"
+  }
+ ]
+}

@@ -328,10 +328,50 @@ AMAVI = Regiao(
 )
 
 
+AMERIOS = Regiao(
+    sigla="amerios", nome="Entre Rios", label="Entre Rios · AMERIOS",
+    ordem=["Bom Jesus do Oeste", "Caibi", "Campo Erê", "Cunha Porã", "Cunhataí",
+           "Flor do Sertão", "Iraceminha", "Maravilha", "Modelo", "Palmitos",
+           "Riqueza", "Romelândia", "Saltinho", "Santa Terezinha do Progresso",
+           "São Miguel da Boa Vista", "Saudades", "Tigrinhos"],
+    cores=_load_json("amerios", "cores.json", {}),
+    financas=_load_json("amerios", "financas.json", {}),
+)
+
+AMAUC = Regiao(
+    sigla="amauc", nome="Alto Uruguai Catarinense", label="Alto Uruguai Catarinense · AMAUC",
+    ordem=["Alto Bela Vista", "Arabutã", "Concórdia", "Ipira", "Ipumirim", "Irani",
+           "Itá", "Jaborá", "Lindóia do Sul", "Peritiba", "Piratuba",
+           "Presidente Castello Branco", "Seara", "Xavantina"],
+    cores=_load_json("amauc", "cores.json", {}), financas=_load_json("amauc", "financas.json", {}),
+)
+
+AMAI = Regiao(
+    sigla="amai", nome="Alto Irani", label="Alto Irani · AMAI",
+    ordem=["Xanxerê", "Abelardo Luz", "Faxinal dos Guedes", "Vargeão", "Bom Jesus",
+           "Ponte Serrada", "Entre Rios", "Ipuaçu", "Lajeado Grande", "Marema",
+           "Ouro Verde", "Passos Maia", "São Domingos", "Vargeão"],
+    cores=_load_json("amai", "cores.json", {}), financas=_load_json("amai", "financas.json", {}),
+)
+
+AMNOROESTE = Regiao(
+    sigla="amnoroeste", nome="Noroeste Catarinense", label="Noroeste Catarinense · AMNOROESTE",
+    ordem=["São Lourenço do Oeste", "Campo Erê", "Coronel Martins", "Galvão", "Jupiá",
+           "Novo Horizonte", "São Bernardino", "Saltinho", "São Domingos", "Santiago do Sul"],
+    cores=_load_json("amnoroeste", "cores.json", {}), financas=_load_json("amnoroeste", "financas.json", {}),
+)
+
+AMMOC = Regiao(
+    sigla="ammoc", nome="Meio-Oeste Catarinense", label="Meio-Oeste Catarinense · AMMOC",
+    ordem=["Joaçaba", "Herval d'Oeste", "Capinzal", "Concórdia", "Água Doce", "Treze Tílias",
+           "Catanduvas", "Ouro", "Tangará", "Lacerdópolis", "Erval Velho", "Vargem Bonita"],
+    cores=_load_json("ammoc", "cores.json", {}), financas=_load_json("ammoc", "financas.json", {}),
+)
+
 REGIOES = dict(_REGIOES_BASE,
                 amurc=AMURC, amplasc=AMPLASC, granfpolis=GRANFPOLIS,
                 amosc=AMOSC, amplanorte=AMPLANORTE, ameosc=AMEOSC,
-                amarp=AMARP, amfri=AMFRI, amavi=AMAVI)
+                amarp=AMARP, amfri=AMFRI, amavi=AMAVI, amerios=AMERIOS, amauc=AMAUC, amai=AMAI, amnoroeste=AMNOROESTE, ammoc=AMMOC)
 
 
 def get(sigla):

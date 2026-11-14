@@ -1,0 +1,647 @@
+{
+ "cidade": "Garuva",
+ "casos": [
+  {
+   "i": 70,
+   "tipo": "mp",
+   "ref": "06.2026.00000287-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2026.00000287-4",
+   "status": "🟡 em apuração",
+   "data": "03/03/2026",
+   "texto": "Abecker Empreendimentos Imobiliários Ltda."
+  },
+  {
+   "i": 71,
+   "tipo": "mp",
+   "ref": "06.2026.00000615-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2026.00000615-9",
+   "status": "🟡 em apuração",
+   "data": "04/03/2026",
+   "texto": "Sidnei Lourenço Borges."
+  },
+  {
+   "i": 72,
+   "tipo": "mp",
+   "ref": "01.2025.00058607-9",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2025.00058607-9",
+   "status": "❔ status indef.",
+   "data": "05/05/2026",
+   "texto": "Garuva Shooting Club e Município de Garuva."
+  },
+  {
+   "i": 73,
+   "tipo": "mp",
+   "ref": "01.2026.00022603-8",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO n. 01.2026.00022603-8",
+   "status": "❔ status indef.",
+   "data": "21/05/2026",
+   "texto": "Município de Garuva."
+  },
+  {
+   "i": 74,
+   "tipo": "mp",
+   "ref": "06.2026.00002288-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2026.00002288-1",
+   "status": "🟡 em apuração",
+   "data": "16/06/2026",
+   "texto": "Município de Garuva."
+  },
+  {
+   "i": 75,
+   "tipo": "mp",
+   "ref": "06.2026.00002168-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2026.00002168-2",
+   "status": "🟡 em apuração",
+   "data": "17/06/2026",
+   "texto": "Fábio dos Santos e Município de Garuva."
+  },
+  {
+   "i": 76,
+   "tipo": "mp",
+   "ref": "06.2022.00003235-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00003235-2",
+   "status": "🟡 em apuração",
+   "data": "16/12/2022",
+   "texto": "Secretaria Municipal de Saúde de Garuva e Minipreço Mercado e Açougue EIRELI ME."
+  },
+  {
+   "i": 77,
+   "tipo": "mp",
+   "ref": "06.2023.00002423-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00002423-4",
+   "status": "🟡 em apuração",
+   "data": "28/06/2023",
+   "texto": "Alutec Indústria de Fundição Ltda."
+  },
+  {
+   "i": 78,
+   "tipo": "mp",
+   "ref": "06.2023.00002744-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00002744-2",
+   "status": "🟡 em apuração",
+   "data": "23/08/2023",
+   "texto": "Valdair Pnkoski."
+  },
+  {
+   "i": 79,
+   "tipo": "mp",
+   "ref": "06.2023.00003651-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00003651-9",
+   "status": "🟡 em apuração",
+   "data": "20/09/2023",
+   "texto": "Secretaria Municipal de Desenvolvimento Social e Habitação de Garuva."
+  },
+  {
+   "i": 80,
+   "tipo": "mp",
+   "ref": "06.2023.00004549-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00004549-5",
+   "status": "🟡 em apuração",
+   "data": "23/11/2023",
+   "texto": "Márcio Vilmar Ulmann."
+  },
+  {
+   "i": 81,
+   "tipo": "mp",
+   "ref": "06.2024.00000301-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00000301-0",
+   "status": "🟡 em apuração",
+   "data": "09/02/2024",
+   "texto": "Associação Comunitária e Recreativa de Garuva (Concessionária)."
+  },
+  {
+   "i": 82,
+   "tipo": "mp",
+   "ref": "06.2022.00002641-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00002641-7",
+   "status": "❔ status indef.",
+   "data": "22/05/2024",
+   "texto": "Clínica Ceccatto e Márcio Luis Ceccato. Conclusão: considerando que não houve deficiência no serviço prestado pelo investigado e que não há outras irregularidades a serem sanadas, constata-se a ausência de argumentos para propositura de medida judicial."
+  },
+  {
+   "i": 83,
+   "tipo": "mp",
+   "ref": "06.2024.00002324-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00002324-0",
+   "status": "🟡 em apuração",
+   "data": "29/07/2024",
+   "texto": "São Gabriel Mineração."
+  },
+  {
+   "i": 84,
+   "tipo": "mp",
+   "ref": "06.2024.00002324-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00002324-0",
+   "status": "❔ status indef.",
+   "data": "31/07/2024",
+   "texto": "São Gabriel Mineração Ltda. Conclusão: considerando que houve a recuperação dos danos ambientais constatados por meio do AIA n. 14-717-D e pelo processo SEI 48066.00232/2021-62, e que não há outras irregularidades a serem sanadas, constata-se a inexistência de fundamento para adoção de medidas judiciais."
+  },
+  {
+   "i": 85,
+   "tipo": "mp",
+   "ref": "06.2024.00005380-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00005380-0",
+   "status": "🟡 em apuração",
+   "data": "14/01/2025",
+   "texto": "Supermercado Lennertz Ltda."
+  },
+  {
+   "i": 86,
+   "tipo": "mp",
+   "ref": "06.2024.00005381-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00005381-1",
+   "status": "🟡 em apuração",
+   "data": "14/01/2025",
+   "texto": "Luana Machado de Freitas Ltda."
+  },
+  {
+   "i": 87,
+   "tipo": "mp",
+   "ref": "06.2025.00003223-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00003223-1",
+   "status": "🟡 em apuração",
+   "data": "14/08/2025",
+   "texto": "Clínica Bem Estar Saúde e Medicina do Trabalho."
+  },
+  {
+   "i": 88,
+   "tipo": "mp",
+   "ref": "01.2025.00019123-9",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2025.00019123-9",
+   "status": "❔ status indef.",
+   "data": "07/10/2025",
+   "texto": "Klaus Eduardo Lennertz, Sheyla Cristina Chaves e Reginaldo Mews Rosa."
+  },
+  {
+   "i": 89,
+   "tipo": "mp",
+   "ref": "06.2025.00002056-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00002056-8",
+   "status": "🟡 em apuração",
+   "data": "11/11/2025",
+   "texto": "Moradores da Rua Durval Piske e Associação Comunitária e Recreativa de Garuva."
+  },
+  {
+   "i": 90,
+   "tipo": "mp",
+   "ref": "01.2025.00064775-0",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2025.00064775-0",
+   "status": "❔ status indef.",
+   "data": "11/12/2025",
+   "texto": "Evandro Lopes."
+  },
+  {
+   "i": 91,
+   "tipo": "mp",
+   "ref": "01.2025.00050611-8",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2025.00050611-8",
+   "status": "❔ status indef.",
+   "data": "19/12/2025",
+   "texto": "Agência Nacional de Vigilância Sanitária e Medix do Brasil."
+  },
+  {
+   "i": 92,
+   "tipo": "mp",
+   "ref": "01.2025.00064920-4",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2025.00064920-4",
+   "status": "❔ status indef.",
+   "data": "19/02/2026",
+   "texto": "José Osmario Massaneiro."
+  },
+  {
+   "i": 93,
+   "tipo": "mp",
+   "ref": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2025.00065019- 9",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2025.00065019- 9",
+   "status": "❔ status indef.",
+   "data": "19/02/2026",
+   "texto": "Rohlf Buttke e Regina Buttke."
+  },
+  {
+   "i": 94,
+   "tipo": "mp",
+   "ref": "06.2026.00000473-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2026.00000473-9",
+   "status": "🟡 em apuração",
+   "data": "26/02/2026",
+   "texto": "Márcio Antônio Araújo."
+  },
+  {
+   "i": 95,
+   "tipo": "mp",
+   "ref": "01.2025.00065071-1",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2025.00065071-1",
+   "status": "❔ status indef.",
+   "data": "20/03/2026",
+   "texto": "Leonilda Weiss Zietz, Rolf Zietz, Anelia Weiss, Mário Weiss, Maria Leni Weiss, Vilmar Weiss, Glauce da Silva Siuta, Samuel Siuta, Willy da Silva Júnior, Andreia Cataneo Mazon e Glauco da Silva."
+  },
+  {
+   "i": 96,
+   "tipo": "mp",
+   "ref": "01.2025.00064682-9",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO n. 01.2025.00064682-9",
+   "status": "❔ status indef.",
+   "data": "25/03/2026",
+   "texto": "Construtora Fortunato Ltda."
+  },
+  {
+   "i": 97,
+   "tipo": "mp",
+   "ref": "01.2025.00064517-4",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2025.00064517-4",
+   "status": "❔ status indef.",
+   "data": "13/04/2026",
+   "texto": "Amilton Vicente e Osnilda de Souza Vicente."
+  },
+  {
+   "i": 98,
+   "tipo": "mp",
+   "ref": "01.2025.00064883-8",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2025.00064883-8",
+   "status": "❔ status indef.",
+   "data": "22/04/2026",
+   "texto": "Adolar Umlauf e Mariana Umlauf."
+  },
+  {
+   "i": 99,
+   "tipo": "mp",
+   "ref": "01.2026.00009589-7",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2026.00009589-7",
+   "status": "❔ status indef.",
+   "data": "18/05/2026",
+   "texto": "Delegacia de Polícia Civil de Garuva."
+  },
+  {
+   "i": 100,
+   "tipo": "mp",
+   "ref": "06.2026.00001259-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2026.00001259-4",
+   "status": "🟡 em apuração",
+   "data": "17/06/2026",
+   "texto": "Fabiano Campos."
+  },
+  {
+   "i": 101,
+   "tipo": "mp",
+   "ref": "06.2026.00001260-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2026.00001260-6",
+   "status": "🟡 em apuração",
+   "data": "17/06/2026",
+   "texto": "José Vieira."
+  },
+  {
+   "i": 102,
+   "tipo": "mp",
+   "ref": "06.2022.00002227-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00002227-6",
+   "status": "🟡 em apuração",
+   "data": "07/06/2022",
+   "texto": "Mazilda Bucci e Dejalmo de tal."
+  },
+  {
+   "i": 103,
+   "tipo": "mp",
+   "ref": "06.2022.00002231-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00002231-0",
+   "status": "🟡 em apuração",
+   "data": "07/06/2022",
+   "texto": "a apurar."
+  },
+  {
+   "i": 104,
+   "tipo": "mp",
+   "ref": "06.2021.00003693-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00003693-3",
+   "status": "❔ status indef.",
+   "data": "21/09/2022",
+   "texto": ""
+  },
+  {
+   "i": 105,
+   "tipo": "mp",
+   "ref": "06.2022.00003235-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00003235-2",
+   "status": "🟠 TAC firmado",
+   "data": "26/05/2023",
+   "texto": "Minipreço Mercado e Açougue Ltda. Conclusão: firmado termo de ajustamento de conduta."
+  },
+  {
+   "i": 106,
+   "tipo": "mp",
+   "ref": "06.2023.00003463-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00003463-2",
+   "status": "🟡 em apuração",
+   "data": "01/09/2023",
+   "texto": "Supermercado Floriani Eireli."
+  },
+  {
+   "i": 107,
+   "tipo": "mp",
+   "ref": "06.2023.00003464-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00003464-3",
+   "status": "🟡 em apuração",
+   "data": "01/09/2023",
+   "texto": "Mix Minimercado e Sorveteria Eireli."
+  },
+  {
+   "i": 108,
+   "tipo": "mp",
+   "ref": "06.2023.00003465-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00003465-4",
+   "status": "🟡 em apuração",
+   "data": "01/09/2023",
+   "texto": "Supermercado Farias Ltda."
+  },
+  {
+   "i": 109,
+   "tipo": "mp",
+   "ref": "06.2022.00003625-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00003625-9",
+   "status": "🟠 TAC firmado",
+   "data": "06/09/2023",
+   "texto": "Jocelino Schenekemberg. Conclusão: firmado Termo de Ajustamento de Conduta."
+  },
+  {
+   "i": 110,
+   "tipo": "mp",
+   "ref": "06.2023.00003463-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00003463-2",
+   "status": "🟠 TAC firmado",
+   "data": "27/09/2023",
+   "texto": "Supermercado Floriani Eireli. Conclusão: firmado termo de Ajustamento de Conduta."
+  },
+  {
+   "i": 111,
+   "tipo": "mp",
+   "ref": "06.2023.00003464-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00003464-3",
+   "status": "🟠 TAC firmado",
+   "data": "27/09/2023",
+   "texto": "Mix Minimercado e Sorveteria Eireli. Conclusão: firmado Termo de Ajustamento de Conduta."
+  },
+  {
+   "i": 112,
+   "tipo": "mp",
+   "ref": "06.2023.00003465-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00003465-4",
+   "status": "🟠 TAC firmado",
+   "data": "11/10/2023",
+   "texto": "Supermercado Farias Ltda. Conclusão: firmado termo de Ajustamento de Conduta."
+  },
+  {
+   "i": 113,
+   "tipo": "mp",
+   "ref": "06.2024.00000822-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00000822-7",
+   "status": "🟡 em apuração",
+   "data": "01/03/2024",
+   "texto": "Daiane Rosana Demarch, Promotoria de Justiça da Comarca de Garuva e Secretaria de Estado da Saúde de Santa Catarina."
+  },
+  {
+   "i": 114,
+   "tipo": "mp",
+   "ref": "06.2019.00003961-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00003961-5",
+   "status": "🟢 arquivado",
+   "data": "24/10/2024",
+   "texto": "Ivonei da Silva Polsin. Conclusão: diante da inexistência de fundamento para a propositura de ação judicial (artigo 48, I, do Ato n. 395/2018/PGJ), determino o arquivamento parcial do presente Inquérito Civil, apenas em relação ao investigado Ivonei da Silva Polsin."
+  },
+  {
+   "i": 115,
+   "tipo": "mp",
+   "ref": "06.2024.00005380-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00005380-0",
+   "status": "🟠 TAC firmado",
+   "data": "24/02/2025",
+   "texto": "Supermercado Lennertz Ltda. Conclusão: firmado termo de ajustamento de conduta."
+  },
+  {
+   "i": 116,
+   "tipo": "mp",
+   "ref": "06.2024.00005378-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00005378-8",
+   "status": "🟠 TAC firmado",
+   "data": "11/04/2025",
+   "texto": "Dona Bê Mercado e Açougue. Conclusão: firmado termo de ajustamento de conduta."
+  },
+  {
+   "i": 117,
+   "tipo": "mp",
+   "ref": "06.2024.00005381-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00005381-1",
+   "status": "🟠 TAC firmado",
+   "data": "14/04/2025",
+   "texto": "Luana Machado de Freitas Ltda. Conclusão: firmado termo de ajustamento de conduta."
+  },
+  {
+   "i": 118,
+   "tipo": "mp",
+   "ref": "06.2025.00001438-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00001438-8",
+   "status": "🟡 em apuração",
+   "data": "24/04/2025",
+   "texto": "Marcelo Carvalho do Nascimento e Promotoria de Justiça da Comarca de Garuva."
+  },
+  {
+   "i": 119,
+   "tipo": "mp",
+   "ref": "06.2025.00001751-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00001751-9",
+   "status": "🟡 em apuração",
+   "data": "16/05/2025",
+   "texto": "Centrais Elétricas de Santa Catarina (CELESC)."
+  },
+  {
+   "i": 120,
+   "tipo": "mp",
+   "ref": "01.2025.00034861-4",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2025.00034861-4",
+   "status": "❔ status indef.",
+   "data": "29/10/2025",
+   "texto": "Ailton Cardoso e Cizer."
+  },
+  {
+   "i": 121,
+   "tipo": "mp",
+   "ref": "06.2025.00002511-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00002511-9",
+   "status": "🟡 em apuração",
+   "data": "24/11/2025",
+   "texto": "Residencial Garuva SPE Ltda. e Cartório de Registro de Imóveis de Garuva."
+  },
+  {
+   "i": 122,
+   "tipo": "mp",
+   "ref": "01.2025.00054937-3",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2025.00054937-3",
+   "status": "❔ status indef.",
+   "data": "02/02/2026",
+   "texto": "Jair Alves de Quevedo, João Batista de Bona, Gesiele Monteiro Coelho e Cleonice Caitano."
+  },
+  {
+   "i": 123,
+   "tipo": "mp",
+   "ref": "01.2025.00065861-4",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2025.00065861-4",
+   "status": "❔ status indef.",
+   "data": "24/02/2026",
+   "texto": "CRG Assessoria Contábil/MH Assessoria Contábil Ltda."
+  },
+  {
+   "i": 124,
+   "tipo": "mp",
+   "ref": "06.2026.00001261-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2026.00001261-7",
+   "status": "🟡 em apuração",
+   "data": "31/03/2026",
+   "texto": "Conselho Regional de Nutrição da 10ª Região - CRN-10 e Bruna Lúcia da Rosa."
+  },
+  {
+   "i": 125,
+   "tipo": "mp",
+   "ref": "01.2025.00062922-0",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2025.00062922-0",
+   "status": "❔ status indef.",
+   "data": "09/04/2026",
+   "texto": "Juliane Alves da Costa e Erivaldo Francisco da Silva e Ênio Cardoso de Melo."
+  },
+  {
+   "i": 126,
+   "tipo": "mp",
+   "ref": "09.2026.00003490-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2026.00003490-0",
+   "status": "🟡 em apuração",
+   "data": "05/05/2026",
+   "texto": "Estado de Santa Catarina."
+  },
+  {
+   "i": 0,
+   "tipo": "tce",
+   "ref": "LCC 24/00578995",
+   "header": "⭐ LCC 24/00578995 — Licitações e Contratos",
+   "status": "🟠 cautelar / sustação",
+   "data": "27/11/2024",
+   "texto": "Prefeitura Municipal de Garuva Inexigibilidade n. 052/2022 – Contrato n. 039/2022 – Contratação de serviços advocatícios – Royalties pela Rodrigo Adriany David, Marcio Ricardo Herpich",
+   "decisao": "Diante do exposto, DECIDO: 3.1. Conhecer do presente Processo de Fiscalização (LCC) que trata de análise da Inexigibilidade de Licitação PMG n. 052/2022 e do Contrato PMG n. 039/2022, realizado pela Prefeitura Municipal de Garuva com o escritório Bornholdt Advogados, tendo como objeto o ajuizamento e o acompanhamento de ações judiciais e/ou de processos administrativos visando ao reenquadramento do contratante perante os órgãos da administração federal, para efeitos do recebimento de royalties de petróleo e de gás natural, no valor estimado de R$ 24.000.000,00 (vinte e quatro milhões de reais), já tendo sido pago o valor de R$ 2.557.821,70 (dois milhões quinhentos e cinquenta e sete mil oitocentos e vinte e um reais e setenta centavos). 3.2. Conceder a medida cautelar de sustação de todos os atos administrativos vinculados à execução do Contrato PMG n. 039/2022, inclusive os atos de pagamento, até decisão posterior que revogue a medida ou até a decisão definitiva, nos termos do art. 114-A do Regimento Interno desta Casa (Resolução n. TC-06/2001). 3.3. Determinar a audiência do Senhor Márcio Ricardo Herpich, Secretário de Administração, Planejamento e Finanças, do Senhor Rodrigo Adriany David, Prefeito, e do Senhor Rodrigo Meyer Bornholdt, sócio do escritório Bornholdt Advogados, nos termos do art. 29, § 1º, da Lei Complementar (estadual) n. 202, de 15 de dezembro de 2000, para, no prazo de 30 (trinta) dias, a contar do recebimento da deliberação, com fulcro no art. 46, inciso I, alínea ‘b’, do mesmo diploma legal combinado com o art. 124 do Regimento Interno do Tribunal de Contas do Estado (Resolução n. TC-06, de 28 de dezembro de 2001), apresentarem justificativas e para adotarem as medidas corretivas necessárias ao exato cumprimento da lei, em razão das seguintes irregularidades: 3.3.1. Ausência de Requisitos para a Contratação por Inexigibilidade do Objeto, não se enquadrando no art. 25, inciso II, da Lei (federal) n. 8.666/1993, contrariando os Prejulgados n. 475, 923 e 2472 deste Tribunal; 3.3.2. Estabelecimento de cláusula “quota litis” no Contrato PMG n. 039/2022, em desacordo com os Prejulgados 2472, e 1427 e 1199 desta Corte de Contas; 3.3.3. Ausência de justificativa de preço do serviço contratado, em desacordo com o art. 26, parágrafo único, da Lei n. 8.666/1993; e 3.3.4. Possibilidade de pagamentos sem o trânsito em julgado, em afronta a jurisprudência acerca da matéria. 3.3.5. Ausência de comprovação da inadequação da prestação do serviço pelos próprios servidores do Poder Público. 3.4. Determinar a realização de diligência, com fulcro no art. 123, § 3º, do Regimento Interno deste Tribunal, ao Senhor Rodrigo Adriany David, Prefeito, para que apresente: 3.4.1 Informações e comprovantes sobre pagamento de honorários de êxito sobre o incremento na receita decorrentes do repasse de royalties feito pela Agência Nacional de Petróleo, Gás Natural e Biocombustíveis (ANP), ou seja, a execução dos serviços jurídicos, objeto do Contrato PMG n"
+  },
+  {
+   "i": 1,
+   "tipo": "tce",
+   "ref": "LCC 24/00578995",
+   "header": "⭐ LCC 24/00578995 — Licitações e Contratos",
+   "status": "🟠 cautelar / sustação",
+   "data": "28/11/2024",
+   "texto": "Prefeitura Municipal de Garuva Inexigibilidade n. 052/2022 – Contrato n. 039/2022 – Contratação de serviços advocatícios – Royalties pela Rodrigo Adriany David, Marcio Ricardo Herpich",
+   "decisao": "Diante do exposto, DECIDO: 3.1. Conhecer do presente Processo de Fiscalização (LCC) que trata de análise da Inexigibilidade de Licitação PMG n. 052/2022 e do Contrato PMG n. 039/2022, realizado pela Prefeitura Municipal de Garuva com o escritório Bornholdt Advogados, tendo como objeto o ajuizamento e o acompanhamento de ações judiciais e/ou de processos administrativos visando ao reenquadramento do contratante perante os órgãos da administração federal, para efeitos do recebimento de royalties de petróleo e de gás natural, no valor estimado de R$ 24.000.000,00 (vinte e quatro milhões de reais), já tendo sido pago o valor de R$ 2.557.821,70 (dois milhões quinhentos e cinquenta e sete mil oitocentos e vinte e um reais e setenta centavos). 3.2. Conceder a medida cautelar de sustação de todos os atos administrativos vinculados à execução do Contrato PMG n. 039/2022, inclusive os atos de pagamento, até decisão posterior que revogue a medida ou até a decisão definitiva, nos termos do art. 114-A do Regimento Interno desta Casa (Resolução n. TC-06/2001). 3.3. Determinar a audiência do Senhor Márcio Ricardo Herpich, Secretário de Administração, Planejamento e Finanças, do Senhor Rodrigo Adriany David, Prefeito, e do Senhor Rodrigo Meyer Bornholdt, sócio do escritório Bornholdt Advogados, nos termos do art. 29, § 1º, da Lei Complementar (estadual) n. 202, de 15 de dezembro de 2000, para, no prazo de 30 (trinta) dias, a contar do recebimento da deliberação, com fulcro no art. 46, inciso I, alínea ‘b’, do mesmo diploma legal combinado com o art. 124 do Regimento Interno do Tribunal de Contas do Estado (Resolução n. TC-06, de 28 de dezembro de 2001), apresentarem justificativas e para adotarem as medidas corretivas necessárias ao exato cumprimento da lei, em razão das seguintes irregularidades: 3.3.1. Ausência de Requisitos para a Contratação por Inexigibilidade do Objeto, não se enquadrando no art. 25, inciso II, da Lei (federal) n. 8.666/1993, contrariando os Prejulgados n. 475, 923 e 2472 deste Tribunal; 3.3.2. Estabelecimento de cláusula “quota litis” no Contrato PMG n. 039/2022, em desacordo com os Prejulgados 2472, e 1427 e 1199 desta Corte de Contas; 3.3.3. Ausência de justificativa de preço do serviço contratado, em desacordo com o art. 26, parágrafo único, da Lei n. 8.666/1993; e 3.3.4. Possibilidade de pagamentos sem o trânsito em julgado, em afronta a jurisprudência acerca da matéria. 3.3.5. Ausência de comprovação da inadequação da prestação do serviço pelos próprios servidores do Poder Público. 3.4. Determinar a realização de diligência, com fulcro no art. 123, § 3º, do Regimento Interno deste Tribunal, ao Senhor Rodrigo Adriany David, Prefeito, para que apresente: 3.4.1 Informações e comprovantes sobre pagamento de honorários de êxito sobre o incremento na receita decorrentes do repasse de royalties feito pela Agência Nacional de Petróleo, Gás Natural e Biocombustíveis (ANP), ou seja, a execução dos serviços jurídicos, objeto do Contrato PMG n"
+  },
+  {
+   "i": 2,
+   "tipo": "tce",
+   "ref": "REC 25/00006950",
+   "header": "⭐ REC 25/00006950 — Recurso",
+   "status": "🟠 cautelar / sustação",
+   "data": "25/02/2025",
+   "texto": "Prefeitura Municipal de Garuva Recurso interposto em face de decisão singular exarada no Processo @LCC 24/00578995 Prefeitura Municipal de Garuva e Rodrigo Meyer Bornholdt",
+   "decisao": "decide: 1. Negar provimento ao Recurso de Embargos de Declaração oposto, nos termos do art. 78 da Lei Complementar (estadual) n. 202/2000, contra a Decisão Singular GAC/AMF n. 1150/2024 (fs. 221/236 do processo n. @LCC 24/00578995), ratificando na íntegra a deliberação embargada, tendo em vista a inexistência de omissões e de obscuridades em sua fundamentação. 2. Dar ciência desta Decisão ao Embargante (por meio do procurador supranominado) e à Prefeitura Municipal de Garuva. Ata n.: 35/2025 Data da Sessão: 26/09/2025 - Ordinária - Virtual Especificação do quórum: Herneus João De Nadal, José Nei Alberton Ascari, Adircélio de Moraes Ferreira Júnior, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Luiz Eduardo Cherem e Aderson Flores Representante do Ministério Público junto ao Tribunal de Contas/SC: Cibelly Farias Conselheiros-Substitutos presentes: Gerson dos Santos Sicca, Cleber Muniz Gavi e Sabrina Nunes Iocken HERNEUS JOÃO DE NADAL Presidente ADIRCÉLIO DE MORAES FERREIRA JÚNIOR Relator Fui presente: CIBELLY FARIAS Procuradora-Geral do Ministério Público junto ao Tribunal de Contas/SC Imbituba"
+  },
+  {
+   "i": 3,
+   "tipo": "tce",
+   "ref": "REP 23/80088432",
+   "header": "⭐ REP 23/80088432 — Representação",
+   "status": "❔ em tramitação",
+   "data": "01/11/2024",
+   "texto": "Prefeitura Municipal de Garuva | Ata n.: 39/2024 Representação acerca de supostas Irregularidades referentes à Dispensa de Licitação n. 29/2023 e ao Contrato n. ",
+   "decisao": "decide: 1. Julgar parcialmente procedente a Representação formulada por Raphael Jia Juen Hwang, em face da Dispensa de Licitação n. 29/2023 e do Contrato n. 14/2023, para a contração de empresa para prestação de serviços de apoio ao concurso público no Município de Garuva, diante da seguinte irregularidade: 1.1. Elaboração de documentos que fundamentem a contratação de serviços sem justificativas para os quantitativos a serem adquiridos. 2. Recomendar à Prefeitura Municipal de Garuva que: 2.1. ao realizar as próximas contratações relacionadas ao objeto em análise, estime a quantidade de inscritos conforme as realidades de cada cargo, considerando, ainda, as exigências dispostas na Lei n. 14.133/2021, relacionadas à elaboração de Estudos Técnicos Preliminares; e 2.2. em futuros certames, avalie a possibilidade de realizar o concurso em dois turnos, permitindo a participação de um maior número de interessados. 3. Dar ciência desta Decisão ao Representante, à Prefeitura Municipal de Garuva e ao responsável pelo Controle Interno daquela Unidade Gestora. Ata n.: 39/2024 Data da Sessão: 18/10/2024 - Ordinária - Virtual Especificação do quórum: Herneus João De Nadal, José Nei Alberton Ascari, Adircélio de Moraes Ferreira Júnior, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Aderson Flores e Gerson dos Santos Sicca (art. 86, caput, da LC n. 202/2000) Representante do Ministério Público junto ao Tribunal de Contas/SC: Cibelly Farias Conselheiros-Substitutos presentes: Cleber Muniz Gavi e Sabrina Nunes Iocken HERNEUS JOÃO DE NADAL Presidente ADIRCÉLIO DE MORAES FERREIRA JÚNIOR Relator Fui presente: CIBELLY FARIAS Procuradora-Geral do Ministério Público junto ao Tribunal de Contas/SC Gaspar"
+  },
+  {
+   "i": 4,
+   "tipo": "tce",
+   "ref": "PCP 22/00122025",
+   "header": "⭐ PCP 22/00122025 — Prestação de Contas do Prefeito",
+   "status": "🟢 parecer pela aprovação",
+   "data": "28/11/2022",
+   "texto": "Prefeitura Municipal de Garuva Prestação de Contas do Prefeito referente ao exercício de 2021 "
+  },
+  {
+   "i": 5,
+   "tipo": "tce",
+   "ref": "PCP 25/00025319",
+   "header": "⭐ PCP 25/00025319 — Prestação de Contas do Prefeito",
+   "status": "🟢 parecer pela aprovação",
+   "data": "03/11/2025",
+   "texto": "Prefeitura Municipal de Garuva Prestação de Contas do Prefeito referente ao exercício de 2024 ",
+   "decisao": "6. Determinar a ciência deste Parecer Prévio: 6.1. à Câmara de Vereadores de Garuva; 6.2. do Relatório e Voto do Relator e do Relatório DGO n. 290/2025 que o fundamentam: 6.2.1. ao Conselho Municipal de Educação de Garuva, para fins de acompanhamento do cumprimento dos limites constitucionais e legais em educação, da atuação do Conselho do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (FUNDEB) e do monitoramento das metas do PNE; 6.2.2. bem como do Parecer MPC/SRF n. 687/2025, ao Sr. Rodrigo Adriany David, à Prefeitura Municipal de Garuva e aos responsáveis pela Contabilidade e pelo órgão central do sistema de Controle Interno daquela Prefeitura. Ata n.: 38/2025 Data da Sessão: 17/10/2025 - Ordinária - Virtual Especificação do quórum: Herneus João De Nadal, José Nei Alberton Ascari, Adircélio de Moraes Ferreira Júnior, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Luiz Eduardo Cherem e Aderson Flores Representante do Ministério Público junto ao Tribunal de Contas/SC: Sérgio Ramos Filho Conselheiros-Substitutos presentes: Gerson dos Santos Sicca, Cleber Muniz Gavi e Sabrina Nunes Iocken HERNEUS JOÃO DE NADAL Presidente ADIRCÉLIO DE MORAES FERREIRA JÚNIOR Relator Fui presente: SÉRGIO RAMOS FILHO Procurador-Geral do Ministério Público junto ao Tribunal de Contas/SC em exercício Joinville"
+  },
+  {
+   "i": 6,
+   "tipo": "tce",
+   "ref": "PCP 23/00107095",
+   "header": "⭐ PCP 23/00107095 — Prestação de Contas do Prefeito",
+   "status": "🟢 parecer pela aprovação",
+   "data": "19/12/2023",
+   "texto": "Prefeitura Municipal de Garuva | Instituto de Previdência dos Servidores Públicos do Município de Içara - IÇARAPREV Prestação de Contas do Prefeito referente ao exercício de 2022 | Registro do Ato de Pensão de Albani Francisco Rodrigues Laurindo e Rodrigo Rodrigues Laurindo Prefeitura de Içara",
+   "decisao": "DECIDO: 1. Ordenar o registro, nos termos do artigo 34, inciso II, combinado com o artigo 36, § 2º, letra 'b', da Lei Complementar Estadual nº 202/2000, do ato de concessão de pensão por morte a ALBANI FRANCISCO RODRIGUES LAURINDO e RODRIGO RODRIGUES LAURINDO, em decorrência do óbito de NELZÍ LUCAS LAURINDO, servidor ativo, no cargo de OPERADOR DE MÁQUINA, da Prefeitura Municipal de Içara, matrícula nº 2924, CPF nº 528.747.299-49, consubstanciado no Ato nº 240/2022, de 14-9-2022, com vigência a partir de 8-8-2022, considerado legal conforme análise realizada. 2. Dar ciência da Decisão ao Instituto de Previdência dos Servidores Públicos do Município de Içara - IÇARAPREV. Florianópolis, 22 de novembro de 2023. Cleber Muniz Gavi Conselheiro Substituto Relator (Art. 86 da LCE nº 202/2000 e Portaria nº TC-832/2023) Ilhota"
+  },
+  {
+   "i": 7,
+   "tipo": "tce",
+   "ref": "REC 24/00600400",
+   "header": "⭐ REC 24/00600400 — Recurso",
+   "status": "🟠 cautelar / sustação",
+   "data": "10/07/2025",
+   "texto": "Prefeitura Municipal de Garuva Recurso de Agravo contra a Decisão GAC/AMF n. 1150/2024, exarada no Processo n. @LCC-24/00578995 Rodrigo Adriany David, Diogo Hinsching e Márcio Ricardo Herpich",
+   "decisao": "decide: 1. Conhecer, em razão do atendimento aos requisitos de admissibilidade previstos nos art. 82. da Lei Complementar (estadual) n. 202/2000 e no § 6º do art. 141 do Regimento Interno deste Tribunal e, no mérito, negar provimento ao Recurso de Agravo interposto pelos Srs. Rodrigo Adriany David, ex-Prefeito Municipal de Garuva, e Márcio Ricardo Herpich, Secretário de Administração e Finanças daquele Município, em face Decisão Singular GAC/AMF n. 1150/2024 -, exarada no Processo n. @LCC-24/00578995, vinculado a este Processo, que concedeu medida cautelar de sustação de todos os atos administrativos vinculados à execução do Contrato PMG n. 039/2022, inclusive os atos de pagamento, até decisão posterior que revogasse a medida ou até a decisão definitiva. 2. Dar ciência desta Decisão, do Relatório e Voto do Relator que a fundamentam, bem como do Parecer MPC/SRF n. 31/2025, ao Sr. Rodrigo Adriany David, à Prefeitura Municipal de Garuva, ao Controle Interno e à Assessoria Jurídica daquela Unidade Gestora e à Procuradoria-Geral do Município de Garuva. Ata n.: 22/2025 Data da Sessão: 27/06/2025 - Ordinária - Virtual Especificação do quórum: Herneus João De Nadal, José Nei Alberton Ascari, Adircélio de Moraes Ferreira Júnior, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Luiz Eduardo Cherem e Aderson Flores Representante do Ministério Público junto ao Tribunal de Contas/SC: Cibelly Farias Conselheiros-Substitutos presentes: Gerson dos Santos Sicca, Cleber Muniz Gavi e Sabrina Nunes Iocken HERNEUS JOÃO DE NADAL Presidente ADIRCÉLIO DE MORAES FERREIRA JÚNIOR Relator Fui presente: CIBELLY FARIAS Procuradora-Geral do Ministério Público junto ao Tribunal de Contas/SC Itaiópolis"
+  },
+  {
+   "i": 8,
+   "tipo": "tce",
+   "ref": "CON 21/00562902",
+   "header": "⭐ CON 21/00562902 — Consulta",
+   "status": "❔ em tramitação",
+   "data": "10/01/2022",
+   "texto": "Prefeitura Municipal de Garuva | Associação dos Municipios do Alto Irani – AMAI Consulta - Contratação com Poder Público, por meio de licitação, de empresa com sócios proprietários eleitos com mandato de | Consulta - Conflito entre a Lei do FUNDEB n. 14113/2020 e a Lei Complementar n. 173/2020 Rodrigo Adriany David | Gilberto Ângelo Lazzari e Márcio Luiz Bigolin Grosbelli",
+   "decisao": "decide: 1. Conhecer da presente Consulta, com base no disposto no art. 104, §2º, do Regimento Interno do Tribunal de Contas de Santa Catarina (Resolução n. TC-06/2001), com redação dada pela Resolução n TC-158/2020, tendo em vista a relevância jurídica da matéria. 2. Com fundamento no art. 105, § 3ª, do Regimento Interno (Resolução n. TC-06/2001), remeter por meio eletrônico os Prejulgados ns. 99, 170, 403 e 510, também disponíveis no seguinte endereço: Erro! A referência de hiperlink não é válida.. 3. Modificar a redação dos Prejulgados n. 759, 771, 1024 e 1296, que tratam do tema ora em exame: 3.1. O Prejulgado n. 759 (Origem: Câmara Municipal de Ibiam) passa a ter a seguinte redação: Não poderão firmar ou manter contrato com o Município de Ibiam, o Prefeito, o Vice-Prefeito, os Vereadores, os Secretários Municipais ou autoridades equivalentes, e os Servidores Municipais, bem como as pessoas ligadas a qualquer deles por matrimônio ou parentesco, afim ou consanguíneo, até 2° grau, ou por adoção, salvo, se o contrato obedecer a cláusulas uniformes, nos termos dos arts. 24, caput, 54, I, \"a\", e 91 da Lei Orgânica Municipal c/c os arts. 29, IX, e 54, I, \"a\", da Constituição Federal. O servidor ou dirigente de órgão ou entidade contratante ou responsável pela licitação não poderá participar direta ou indiretamente, da licitação ou da execução da obra ou serviço ou do fornecimento de bens a eles necessários, nos termos do art. 9°, III, da Lei n. 8.666/93. O contrato administrativo é consensual, formal, oneroso, comutativo e realizado intuitu personae, e de adesão, podendo este último ser considerado contrato de cláusulas uniformes. 3.2. O Prejulgado n. 771 (Origem: Câmara Municipal de Pouso Redondo) passa a ter a seguinte redação: O Prefeito, o Vice-Prefeito, os Vereadores e os Servidores municipais, que exerçam cargos de Chefia, bem como as pessoas ligadas a qualquer deles por matrimônio ou parentesco, afim ou consanguíneo até o segundo grau, ou por adoção, não poderão contratar com o Município subsistindo a proibição até seis meses após findas as respectivas funções, nos termos do art. 99, caput, da Lei Orgânica do Município de Pouso Redondo. O servidor ou dirigente de órgão ou entidade contratante ou responsável pela licitação, não poderá participar direta ou indiretamente, da licitação ou da execução de obra ou serviço e do fornecimento de bens a eles necessários, nos termos do art. 9°, III, da Lei n. 8.666/1993. O contrato administrativo é consensual, formal, oneroso, comutativo e realizado intuitu personae, e de adesão, podendo este último ser considerado contrato de cláusulas uniformes. Mesmo mediante prévio processo licitatório o Município não poderá contratar com empresas com as quais tenha incompatibilidade negocial, porquanto os vereadores estão impedidos de serem proprietários, controladores ou diretores de empresas que gozem de favor decorrente de contrato com pessoa jurídica de direito público ou nela exercer função remunerada. 3.3. O P"
+  },
+  {
+   "i": 9,
+   "tipo": "tce",
+   "ref": "REP 20/00158697",
+   "header": "⭐ REP 20/00158697 — Representação",
+   "status": "⬛ julgado irregular + multa",
+   "data": "17/04/2023",
+   "texto": "Prefeitura Municipal de Garuva Representação acerca de supostas irregularidades referentes ao Chamamento Público - Qualificação n. 001/2020 - Rodrigo Adriany David, Roland Ristow Júnior e Diogo Hinsching",
+   "decisao": "ACORDAM os Conselheiros do Tribunal de Contas do Estado de Santa Catarina, reunidos em Sessão Plenária, diante das razões apresentadas pelo Relator e com fulcro nos arts. 59 e 113 da Constituição Estadual e 1º da Lei Complementar (estadual) n. 202/2000: 1. Reiterar a determinação para realização de diligência, nos termos do art. 14 da Lei Complementar (estadual) n. 202/2000 c/c o art. 25, parágrafo único, da Instrução Normativa n. TC-21/2015, à Prefeitura Municipal de Garuva para que encaminhe documentos referentes ao Chamamento Público n. 003/2020, em especial a relação das Organizações Sociais habilitadas e respectivos contratos de gestão firmados, preferencialmente de forma digitalizada, no prazo de 05 (cinco) dias, a contar do recebimento desta deliberação. 2. Aplicar ao Sr. Rodrigo Adriany David - Prefeito Municipal de Garuva, com fundamento no art. 70, III, da Lei Complementar (estadual) n. 202/2000 c/c o art. 109, III, da Resolução n. TC-06/2001, multa no valor de R$ 1.684,66 (mil, seiscentos e oitenta e quatro reais e sessenta e seis centavos), em virtude do não atendimento ao Acórdão n. 164/2021 e ao Despacho GAC/WWD n. 1112/2022, fixando-lhe o prazo de 30 (trinta) dias, a contar da publicação deste Acórdão no Diário Oficial Eletrônico desta Corte de Contas, para comprovar ao Tribunal o recolhimento da multa cominada aos cofres do Município, ou interpor recurso na forma da lei, sem o quê, fica desde logo autorizado o encaminhamento da dívida para cobrança judicial, observado o disposto nos arts. 43, II, e 71 do referido diploma legal. 3. Alertar ao Prefeito Municipal de Garuva sobre a possibilidade de aplicação da penalidade com base no art. 70, VI, da Lei Complementar (estadual) n. 202/2000. 4. Dar ciência deste Acórdão à Interessada supranominada, ao procurador constituído nos autos, à Prefeitura Municipal de Garuva e ao Controle Interno e à Assessoria Jurídica daquela Unidade Gestora. Ata n.: 11/2023 Data da Sessão: 05/04/2023 - Ordinária - Virtual Especificação do quórum: Herneus João De Nadal, José Nei Alberton Ascari, Adircélio de Moraes Ferreira Júnior, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Luiz Eduardo Cherem e Gerson dos Santos Sicca (art. 86, §4º, da LC n. 202/2000) Representante do Ministério Público de Contas/SC: Diogo Roberto Ringenberg Conselheiros-Substitutos presentes: Cleber Muniz Gavi e Sabrina Nunes Iocken HERNEUS JOÃO DE NADAL Presidente Relator Fui presente: DIOGO ROBERTO RINGENBERG Procurador-Geral do Ministério Público de Contas/SC Guabiruba"
+  },
+  {
+   "i": 10,
+   "tipo": "tce",
+   "ref": "PAP 23/80088432",
+   "header": "⭐ PAP 23/80088432 — Processo de Apuração",
+   "status": "❔ em tramitação",
+   "data": "22/03/2024",
+   "texto": "Prefeitura Municipal de Garuva Possíveis irregularidades na contratação de empresa para prestação de serviços de apoio ao concurso público no Prefeitura Municipal de Garuva, Rodrigo Adriany David",
+   "decisao": "Diante do exposto, a Diretoria de Licitações e Contratações sugere ao Exmo. Sr. Relator: 4.1. CONSIDERAR não atendidos os critérios de seletividade pelo procedimento apuratório preliminar, nos termos do art. 9º da Resolução nº TC-0165/2020 (item 2.2 do presente relatório). 4.2. DETERMINAR o arquivamento do procedimento apuratório preliminar, nos termos do artigo 9º da Resolução TC nº 0165/2020, em relação aos pontos 1 e 2 da introdução. 4.3. RECOMENDAR ao Município de Garuva a Revisão do Contrato nº 14/2023, principalmente no que tange ao conflito de questões existentes entre o item 7.7 do Contrato (Fl.6) e o item “ix” do memorial descritivo (Fl. 12), conforme item 3 desse relatório. 4.4. RECOMENDAR ao Município de Garuva que dê maior transparência a fase interna e externa de seus processos licitatórios, conforme item 3 deste relatório. 4.5. ENCAMINHAR este Procedimento Apuratório Preliminar para análise da Diretoria de Atos de Pessoal quanto aos pontos 3, 4 e 5 da denúncia. 4.6. DAR CIÊNCIA ao Controle Interno do Município de Garopaba e aos demais interessados desse procedimento apuratório preliminar. (grifos no original). Após, os autos vieram conclusos. É o relatório. Passa-se à análise e à deliberação. A Resolução TC n. 165/2020 instituiu o procedimento de seletividade, o qual se destina a priorizar as ações de controle externo do Tribunal de Contas do Estado de Santa Catarina (TCE/SC) que estejam alinhadas ao Planejamento Estratégico, às Diretrizes de Atuação do Controle Externo e aos recursos disponíveis. Segundo art. 6º da Resolução, são condições prévias para a análise da seletividade: (i) competência do TCE/SC para apreciar a matéria; (ii) referência a um objeto determinado e a uma situação-problema específica; e (iii) existência de elementos de convicção razoáveis quanto à presença de possíveis irregularidades para o início da atividade fiscalizatória. Conforme relatado, os presentes autos tratam de possível irregularidade na contratação de empresa para prestação de serviços de apoio ao concurso público no ano de 2023 no âmbito do Município de Garuva (Dispensa de Licitação n. 29/2023 e Contrato n. 14/2023), notadamente quanto à: 1) divergência entre o memorial descritivo e o instrumento contratual, no que tange à quantidade de alternativas para cada questão; 2) ausência de critérios e de parâmetros para estabelecimento do número estimativo de inscritos para realização do concurso; 3) inexistência de diferenciações e de variações nos cadernos de questões teóricas, prejudicando a lisura do certame quanto à ocorrência de possíveis fraudes; 4) horário e tempo máximo para a realização das provas; e 5) cargos alocados por período (vespertino e matutino). No caso em tela, observa-se que a DLC apenas examinou os itens 1 e 2 da peça inicial, visto que os itens 3, 4 e 5 estariam mais relacionados à área de atribuição da Diretoria de Atos de Pessoal (DAP). Nesse sentido, consoante apurado pela DLC, as condições prévias para o exame da seletivid"
+  },
+  {
+   "i": 11,
+   "tipo": "tce",
+   "ref": "REP 20/00158697",
+   "header": "⭐ REP 20/00158697 — Representação",
+   "status": "🔴 multa aplicada",
+   "data": "05/07/2024",
+   "texto": "Prefeitura Municipal de Garuva Representação acerca de supostas irregularidades referentes ao Chamamento Público - Qualificação n. 001/2020 - Roland Ristow Júnior e Diogo Hinsching",
+   "decisao": "ACORDAM os Conselheiros do Tribunal de Contas do Estado de Santa Catarina, reunidos em Sessão Plenária, diante das razões apresentadas pelo Relator e com fulcro nos arts. 59 e 113 da Constituição Estadual e 1º da Lei Complementar (estadual) n. 202/2000: 1. Reiterar a determinação para realização de diligência, nos termos do art. 14 da Lei Complementar (estadual) n. 202/2000 c/c o art. 25, parágrafo único, da Instrução Normativa n. TC-21/2015, à Prefeitura Municipal de Garuva para que encaminhe documentos referentes ao Chamamento Público n. 003/2020, em especial a relação das Organizações Sociais habilitadas e respectivos contratos de gestão firmados, preferencialmente de forma digitalizada, no prazo de 05 (cinco) dias, a contar do recebimento desta deliberação. 2. Aplicar ao Sr. Rodrigo Adriany David - Prefeito Municipal de Garuva, com fundamento no art. 70, III, da Lei Complementar (estadual) n. 202/2000 c/c o art. 109, III, da Resolução n. TC-06/2001, multa no valor de R$ 1.684,66 (mil, seiscentos e oitenta e quatro reais e sessenta e seis centavos), em virtude do não atendimento ao Acórdão n. 164/2021 e ao Despacho GAC/WWD n. 1112/2022, fixando-lhe o prazo de 30 (trinta) dias, a contar da publicação deste Acórdão no Diário Oficial Eletrônico desta Corte de Contas, para comprovar ao Tribunal o recolhimento da multa cominada aos cofres do Município, ou interpor recurso na forma da lei, sem o quê, fica desde logo autorizado o encaminhamento da dívida para cobrança judicial, observado o disposto nos arts. 43, II, e 71 do referido diploma legal. 3. Alertar ao Prefeito Municipal de Garuva sobre a possibilidade de aplicação da penalidade com base no art. 70, VI, da Lei Complementar (estadual) n. 202/2000. 4. Dar ciência deste Acórdão à Interessada supranominada, ao procurador constituído nos autos, à Prefeitura Municipal de Garuva e ao Controle Interno e à Assessoria Jurídica daquela Unidade Gestora. Ata n.: 11/2023 Data da Sessão: 05/04/2023 - Ordinária - Virtual Especificação do quórum: Herneus João De Nadal, José Nei Alberton Ascari, Adircélio de Moraes Ferreira Júnior, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Luiz Eduardo Cherem e Gerson dos Santos Sicca (art. 86, §4º, da LC n. 202/2000) Representante do Ministério Público de Contas/SC: Diogo Roberto Ringenberg Conselheiros-Substitutos presentes: Cleber Muniz Gavi e Sabrina Nunes Iocken HERNEUS JOÃO DE NADAL Presidente Relator Fui presente: DIOGO ROBERTO RINGENBERG Procurador-Geral do Ministério Público de Contas/SC Guabiruba"
+  },
+  {
+   "i": 12,
+   "tipo": "tce",
+   "ref": "REP 21/00783836",
+   "header": "⭐ REP 21/00783836 — Representação",
+   "status": "🟠 cautelar / sustação",
+   "data": "26/05/2022",
+   "texto": "Prefeitura Municipal de Garuva Representação acerca de supostas irregularidades referentes ao Edital de Tomada de Preços n. 53/2021 ",
+   "decisao": "decide: 1. Indeferir a medida cautelar pleiteada, em vista do não preenchimento dos pressupostos legais para sua concessão. 2. Determinar o arquivamento, sem análise de mérito, da presente Representação, por meio da qual a empresa H2SA Engenharia Ltda. relata a ocorrência de suposta irregularidade na condução do Edital de Tomada de Preços n. 53/2021, da Prefeitura Municipal de Garuva, por conta do não atingimento da pontuação mínima na análise da seletividade, com fundamento no art. 9º da Resolução n. TC-165/2020. 3. Dar ciência desta Decisão, do Relatório e Voto do Relator que a fundamentam, bem como do Relatório DLC/COSE/Div.3 n. 1362/2021, à empresa Representante, à Prefeitura Municipal de Garuva e ao Controle Interno daquele Município. Ata n.: 15/2022 Data da Sessão: 04/05/2022 - Ordinária - Virtual Especificação do quórum: Adircélio de Moraes Ferreira Júnior, Herneus João De Nadal, José Nei Alberton Ascari, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Cesar Filomeno Fontes e Luiz Eduardo Cherem Representante do Ministério Público de Contas/SC: Cibelly Farias Conselheiros-Substitutos presentes: Gerson dos Santos Sicca, Cleber Muniz Gavi e Sabrina Nunes Iocken ADIRCÉLIO DE MORAES FERREIRA JÚNIOR PresidenteJOSÉ NEI ALBERTON ASCARI Relator Fui presente: CIBELLY FARIAS Procuradora-Geral do Ministério Público de Contas/SC Içara"
+  }
+ ]
+}

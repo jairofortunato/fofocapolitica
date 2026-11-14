@@ -1,0 +1,9 @@
+{
+ "_fonte": "pop: IBGE Censo 2022 (agregado 4714/var 93). rec/desp: Siconfi/Tesouro, RREO 2025 6º bimestre, Anexo 01 — rec=TotalReceitas 'Até o Bimestre (c)', desp=TotalDespesas 'DESPESAS EMPENHADAS ATÉ O BIMESTRE (f)'. Mesma fonte e definição usadas nas demais regiões. Arquivo aberto com as cidades já publicadas da região.",
+ "Santa Cecília": {
+  "pop": 15546,
+  "rec": null,
+  "desp": null
+ },
+ "_lacunas": "Santa Cecília não tem nenhum RREO publicado no Siconfi: a consulta bimestre a bimestre de 2023, 2024 e 2025 (18 bimestres) não retorna um único demonstrativo, o que descumpre a LRF. Fica com rec/desp nulos e o PDF mostra '—'. Não foi preenchido com a receita bruta do DCA porque ela não é comparável à receita líquida do RREO usada nas demais cidades."
+}

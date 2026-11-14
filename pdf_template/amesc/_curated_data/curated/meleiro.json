@@ -1,0 +1,428 @@
+{
+ "mp": [
+  {
+   "i": 0,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 1,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou superfaturamento em contrato de transporte de Meleiro e nada encontrou",
+   "description": "O Ministério Público investigou se houve superfaturamento no Contrato n. 004/2019 firmado entre a Prefeitura de Meleiro e a empresa Transporte Meltur Ltda. ME. A apuração concluiu que o serviço foi de fato prestado e que não houve superfaturamento nem prejuízo aos cofres públicos. Sem indícios de improbidade, o MP arquivou o inquérito em junho de 2024.",
+   "severity": "media"
+  },
+  {
+   "i": 2,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Secretário de Meleiro aprovou loteamento que ele mesmo projetou; MP arquivou",
+   "description": "O MP investigou José Arilton Demétrio, que elaborou como profissional autônomo o projeto do loteamento Carminati V e depois o aprovou na condição de Secretário de Obras e Desenvolvimento Urbano de Meleiro. As diligências confirmaram o acúmulo dos dois papéis, mas o MP entendeu que não era possível atestar dolo na conduta e a classificou como mera irregularidade, já cessada. Sem justa causa para ação civil pública, o caso foi arquivado em agosto de 2022.",
+   "severity": "media"
+  },
+  {
+   "i": 3,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 4,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 5,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 6,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP processa Prefeitura de Meleiro por desvio de função de enfermeira desde 2017",
+   "description": "O Ministério Público apurou que Viviani Martins dos Santos, aprovada em concurso para o cargo de enfermeira, exercia funções na Vigilância Sanitária de Meleiro desde 2017. A irregularidade foi comprovada na investigação. Como o desvio de função não foi corrigido administrativamente, o MP ajuizou Ação Civil Pública contra o Município de Meleiro em fevereiro de 2024.",
+   "severity": "alta",
+   "status": "🔴 ACP ajuizada"
+  },
+  {
+   "i": 7,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Prefeito de Meleiro foi acusado de promoção pessoal, mas MP não viu irregularidade",
+   "description": "Uma denúncia sigilosa apontou suposta promoção pessoal do prefeito Eder Mattos em matéria publicada na página \"Meleiro em Destaque\", que contava sua trajetória de vida. O MP verificou que não houve uso de dinheiro público na publicação e que não havia indícios de conduta dolosa no compartilhamento da notícia. Concluiu que não se configurou ato de improbidade e indeferiu a apuração em abril de 2024.",
+   "severity": "media"
+  },
+  {
+   "i": 8,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 9,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou contratos de Meleiro com empresas de dois secretários e arquivou",
+   "description": "O inquérito apurou a contratação, pela Prefeitura de Meleiro entre 2017 e 2020, da empresa DS Representação Comercial, pertencente ao então Secretário Municipal de Agricultura Daniel Benedet Buzanello e à servidora comissionada Simone de Oliveira Mota, além de contratações da empresa de Tiago Teodoro Longaretti, filho do Secretário de Educação. O MP concluiu que faltaram elementos probatórios suficientes para demonstrar favorecimento pessoal. O caso foi arquivado em abril de 2024.",
+   "severity": "media"
+  },
+  {
+   "i": 10,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 11,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou loteamento clandestino em Boca do Pique, em Meleiro, e não confirmou a denúncia",
+   "description": "O Ministério Público instaurou inquérito para verificar a existência de um loteamento clandestino na comunidade rural de Boca do Pique, em Meleiro. As diligências mostraram tratar-se de propriedade em condomínio, sem indícios de venda de frações do imóvel ou de parcelamento irregular do solo. Sem elementos para ação civil pública, o caso foi arquivado em março de 2022.",
+   "severity": "media"
+  },
+  {
+   "i": 12,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP viu suspeita de fraude em pregão de Meleiro e concluiu que licitação seguiu a lei",
+   "description": "O Ministério Público apurou suposta fraude no Pregão n. 021/2023 da Prefeitura de Meleiro, a partir de questionamento envolvendo a Metalúrgica Perpétuo Socorro. A análise apontou que o procedimento observou o artigo 17 da nova Lei de Licitações e que a reabertura da fase de propostas estava dentro da margem de decisão da administração. Não houve impugnação formal do resultado e o MP indeferiu o caso em fevereiro de 2024.",
+   "severity": "media"
+  },
+  {
+   "i": 13,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 14,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP checou transporte sem licitação em Meleiro e achou contrato regular",
+   "description": "O inquérito apurou a suposta falta de licitação para o transporte público municipal de Meleiro, usado em passeios da terceira idade, jogos intermunicipais e na linha escolar de Sapiranga. O MP verificou que o serviço estava amparado na licitação n. 086/2018, com aditivo firmado dentro do prazo legal e que sequer chegou a ser executado por falta de demanda. Sem indícios de dolo ou má-fé, o caso foi arquivado em julho de 2022.",
+   "severity": "media"
+  },
+  {
+   "i": 15,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 16,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Motorista do SAMU acumulava cargos em Meleiro e Turvo e acabou exonerado",
+   "description": "O MP apurou denúncia de que o servidor Luis Felipe Costa atuava como motorista do SAMU nos municípios de Meleiro e Turvo ao mesmo tempo. Turvo abriu processo administrativo disciplinar e o servidor acabou exonerado pela Portaria n. 264/2024, encerrando a acumulação. Resolvido o acúmulo, o MP indeferiu o procedimento em julho de 2024, mas determinou a instauração de inquérito policial para apurar possível crime de falsidade ideológica.",
+   "severity": "media"
+  },
+  {
+   "i": 17,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Servidor de Meleiro foi investigado por acúmulo de cargos, mas MP não viu prejuízo",
+   "description": "O Ministério Público investigou se o servidor Emerson Antunes acumulava indevidamente vínculos com o Estado de Santa Catarina e com o Município de Meleiro. A análise das folhas de ponto mostrou horários compatíveis, cumprimento integral das cargas horárias em regime de plantão e nenhum prejuízo ao serviço público, sem indícios de má-fé. O servidor ainda pediu demissão do cargo estadual após ser comunicado, e o inquérito foi arquivado.",
+   "severity": "media"
+  },
+  {
+   "i": 18,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 19,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 20,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cobrou controle de poluição do ar da Safra Alimentos e empresa se regularizou",
+   "description": "O inquérito apurou denúncia de poluição atmosférica causada pela empresa Safra Alimentos Ltda. As diligências constataram que os níveis de poluição passaram a estar controlados, com as melhorias exigidas na licença ambiental LAO n. 1602/2018 já executadas. Regularizada a atividade, o MP arquivou o caso em agosto de 2022.",
+   "severity": "media"
+  },
+  {
+   "i": 21,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 22,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou famílias em prédios públicos abandonados de Meleiro e não viu omissão",
+   "description": "O Ministério Público investigou se o Município de Meleiro foi omisso ao permitir a moradia de três famílias em imóveis públicos abandonados: os antigos colégios de Sanga Grande e do Bairro Boa Vista e o posto de saúde do Bairro Boa Vista. A apuração não constatou omissão do poder público municipal. O inquérito foi arquivado em maio de 2023.",
+   "severity": "media"
+  },
+  {
+   "i": 23,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 24,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Denúncia sobre doação de imóvel público em Meleiro fez prefeitura corrigir a venda",
+   "description": "Uma representação anônima levou o MP a apurar a suposta doação de um imóvel público de Meleiro a uma empresa privada. A prefeitura esclareceu que nenhum processo de alienação havia sido aberto e se comprometeu a usar a modalidade leilão, prevista na Lei n. 14.133/2021, além de enviar à Câmara proposta de alteração da lei local para evitar questionamentos. Considerando a ilegalidade potencial já corrigida, o MP indeferiu o caso em maio de 2024.",
+   "severity": "media"
+  },
+  {
+   "i": 25,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cobrou acessibilidade em salão comunitário de Sanga Grande e rampa foi refeita",
+   "description": "O Ministério Público apurou as condições de acessibilidade do Salão Paroquial de Sanga Grande, no interior de Meleiro, após denúncia de violação aos direitos das pessoas com deficiência. O fiscal de obras e o engenheiro civil do município constataram que a rampa existente estava fora das normas, e o local foi notificado. A rampa foi refeita conforme a NBR 9050 e o MP encerrou o caso em junho de 2024.",
+   "severity": "media"
+  },
+  {
+   "i": 26,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 27,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 28,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cobrou fim de luz e água em loteamentos irregulares na região de Meleiro",
+   "description": "O inquérito apurou o fornecimento de energia elétrica e água a construções situadas em loteamentos e desmembramentos irregulares ou clandestinos na comarca de Meleiro, inclusive em área de preservação permanente e sem autorização do poder público. O MP expediu recomendação, acatada pelo SAMAE e pela cooperativa CERSUL, o que encerrou a situação. Sem elementos para ação civil pública, o caso foi arquivado em agosto de 2022.",
+   "severity": "media"
+  },
+  {
+   "i": 29,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou falta de leite especial para criança em Meleiro; desfecho não consta",
+   "description": "O Ministério Público instaurou inquérito civil para apurar omissão do Município de Meleiro e da Secretaria de Saúde no fornecimento de leite especial a uma criança da comarca. O extrato publicado no Diário Oficial está truncado e não informa qual foi a decisão final do caso. Pelo que consta, a apuração envolveu a prefeitura e a pasta da Saúde, mas o desfecho não está claro.",
+   "severity": "media"
+  },
+  {
+   "i": 30,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 31,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 32,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 33,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 34,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 35,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou dano ambiental no Loteamento Colibri e vistoria não achou curso d'água suprimido",
+   "description": "O inquérito investigou a suposta supressão de um curso d'água para a implantação do Loteamento Colibri, com possível dano ambiental. A vistoria da Polícia Militar Ambiental atestou que não havia curso d'água no local, contrariando parecer técnico inicial do próprio MP. Sem justa causa para atuação, o caso foi arquivado em março de 2022 e enviado ao Conselho Superior do MP para homologação.",
+   "severity": "media"
+  },
+  {
+   "i": 36,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 37,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 38,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Linguiça com sódio fora do padrão tirou produto do mercado após apuração do MP em Meleiro",
+   "description": "O Ministério Público apurou irregularidades na comercialização de linguiça toscana pela empresa A Outra Linguiças Gourmet Ltda., que estaria em desconformidade com os índices de sódio, em procedimento envolvendo a Vigilância Sanitária de Meleiro. A empresa interrompeu a produção e a venda do produto durante a apuração. Considerada a situação solucionada, o MP arquivou o procedimento em fevereiro de 2025.",
+   "severity": "media"
+  },
+  {
+   "i": 39,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 40,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou maus-tratos e superlotação em escolas de Meleiro após denúncia anônima",
+   "description": "Uma denúncia anônima levou o MP a verificar suposta situação de maus-tratos na Escola Municipal de Educação Infantil Escadinha do Tempo, além de superlotação de salas, falta de segundo professor e ausência de monitoras no transporte escolar na Escola Pato Donald. O MP realizou vistoria extraordinária nas salas da escola infantil e apontou que o município segue as diretrizes do atendimento educacional especializado e que a lei não exige monitor no transporte. A superlotação já era tratada em outro inquérito civil; o extrato não detalha o desfecho final.",
+   "severity": "media"
+  },
+  {
+   "i": 41,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 42,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 43,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 44,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 45,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 46,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  }
+ ],
+ "tce": [
+  {
+   "i": 0,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE recomendou aprovação das contas de 2022 da Prefeitura de Meleiro",
+   "description": "O Tribunal de Contas de Santa Catarina analisou a prestação de contas do prefeito de Meleiro referente ao exercício de 2022. Em novembro de 2023, o TCE emitiu parecer pela aprovação das contas. O parecer é enviado à Câmara de Vereadores, que dá a palavra final sobre o julgamento.",
+   "severity": "media",
+   "status": "🟢 parecer pela aprovação"
+  },
+  {
+   "i": 1,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE recomendou aprovação das contas de 2023 da Prefeitura de Meleiro",
+   "description": "O Tribunal de Contas de Santa Catarina examinou a prestação de contas do prefeito de Meleiro relativa ao exercício de 2023. Em setembro de 2024, o TCE emitiu parecer pela aprovação. Cabe à Câmara de Vereadores o julgamento final das contas.",
+   "severity": "media",
+   "status": "🟢 parecer pela aprovação"
+  },
+  {
+   "i": 2,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE recomendou aprovação das contas de 2024 da Prefeitura de Meleiro",
+   "description": "O Tribunal de Contas de Santa Catarina analisou a prestação de contas do prefeito de Meleiro referente ao exercício de 2024. O parecer, emitido em novembro de 2025, foi pela aprovação das contas. A decisão definitiva cabe à Câmara de Vereadores.",
+   "severity": "media",
+   "status": "🟢 parecer pela aprovação"
+  },
+  {
+   "i": 3,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE rejeita denúncia contra pregão de caçamba em Meleiro e arquiva o caso",
+   "description": "Flávio Pauletti representou ao Tribunal de Contas contra o Pregão Eletrônico 65/2025 da Prefeitura de Meleiro, para a compra de uma caçamba basculante de 12m³ orçada em R$ 360 mil, e pediu medida cautelar. Em janeiro de 2026, o TCE decidiu não conhecer da representação por não atender aos requisitos de admissibilidade, considerou prejudicado o pedido de cautelar e mandou arquivar. A licitação não foi suspensa e nenhum gestor foi responsabilizado.",
+   "severity": "media",
+   "status": "🟢 julgado regular"
+  },
+  {
+   "i": 4,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE recomendou aprovação das contas de 2021 da Prefeitura de Meleiro",
+   "description": "O Tribunal de Contas de Santa Catarina avaliou a prestação de contas do prefeito de Meleiro referente ao exercício de 2021. Em novembro de 2022, emitiu parecer pela aprovação. O julgamento final das contas cabe à Câmara de Vereadores.",
+   "severity": "media",
+   "status": "🟢 parecer pela aprovação"
+  }
+ ]
+}

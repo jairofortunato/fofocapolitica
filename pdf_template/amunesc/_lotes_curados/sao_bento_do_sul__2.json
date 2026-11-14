@@ -1,0 +1,632 @@
+[
+  {
+    "i": 140,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 141,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 142,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 143,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 144,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 145,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 146,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 147,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC com transporte coletivo sobre acessibilidade",
+    "description": "O inquérito apurava o cumprimento das normas de acessibilidade pela Empresa e Transporte Coletivo Rainha. O TAC foi aditado e o caso foi arquivado.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 148,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso sobre chefe de divisão sem qualificação técnica",
+    "description": "O MP apurou a ocupação do cargo por Jairo Elói Muller e concluiu que havia exercício efetivo das atividades, omissão na lei municipal e exoneração superveniente. O arquivamento foi proposto.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 149,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 150,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre atraso em PADs de médicos municipais",
+    "description": "O procedimento tratou das providências do município para concluir PADs ligados ao descumprimento de carga horária por médicos. O objeto perdeu o sentido e o caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 151,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso sobre acessibilidade na escola Coronel Osny Vasconcelos",
+    "description": "A fiscalização constatou que a reforma total da escola regularizou as falhas de acessibilidade. O objeto se esgotou e o caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 152,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre dano ambiental em Campo Alegre",
+    "description": "O MP apurou dano ambiental em propriedade privada e registrou a implementação do PRAD após autuação da Polícia Ambiental. As medidas administrativas foram consideradas suficientes.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 153,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 154,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP ajuíza ação sobre demora em consultas de fonoaudiologia",
+    "description": "O inquérito apurou demora excessiva no atendimento de fonoaudiologia para crianças e adolescentes. Houve ajuizamento de ação civil pública para regularizar os atendimentos.",
+    "status": "🔴 ACP ajuizada",
+    "severity": "alta"
+  },
+  {
+    "i": 155,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP cobra atendimento prioritário a crianças e adolescentes na saúde",
+    "description": "O procedimento tratou da precedência de atendimento nos serviços públicos de saúde e a recomendação não foi acatada. O MP ajuizou ação civil pública para garantir o atendimento.",
+    "status": "🔴 ACP ajuizada",
+    "severity": "alta"
+  },
+  {
+    "i": 156,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP homologa TAC para proteção de crianças autistas",
+    "description": "O aditamento ao TAC ampliou a proteção dos direitos de crianças e adolescentes com TEA. O problema foi solucionado e o caso foi arquivado.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 157,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso sobre desmembramento de imóvel rural",
+    "description": "O inquérito concluiu que o imóvel se adequava à Lei Complementar 11/2023. Sem fundamento para ação, o caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 158,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 159,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 160,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 161,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 162,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 163,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 164,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre acessibilidade do Colégio Global",
+    "description": "As inspeções e adequações pontuais mostraram que não havia lesão aos direitos dos alunos com deficiência. O objeto se esgotou e o caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 165,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 166,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 167,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso sobre ausências de professora e rotatividade em sala",
+    "description": "O inquérito apurava ausências da docente e a rotatividade excessiva de professores. A profissional foi readaptada e o caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 168,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 169,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 170,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 171,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva reclamação sobre qualidade da TIM em São Bento do Sul",
+    "description": "O MP concluiu que os fatos não foram confirmados e que a operadora atendia aos parâmetros da ANATEL. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 172,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso sobre plantão do Hospital Sagrada Família",
+    "description": "O inquérito tratou de supostas irregularidades no pronto atendimento do hospital. As questões restantes foram vistas como isoladas ou já solucionadas, e o caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 173,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre deslizamento e atuação da Defesa Civil",
+    "description": "O inquérito examinou a liberação de residências após deslizamento e a classificação de risco. Como o objeto se perdeu, o caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 174,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso sobre ILPI Maria Luiza após adequações",
+    "description": "A entidade providenciou as adequações exigidas e o estudo social não apontou violações de direitos dos idosos. O MP arquivou o procedimento.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 175,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 176,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 177,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre o pronto atendimento do Sagrada Família",
+    "description": "O procedimento reuniu informação criminal e extrajudicial sobre atendimento e prontuário de paciente. O objeto foi esgotado e o caso acabou arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 178,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso sobre desmembramento de imóvel rural em área urbana",
+    "description": "O MP entendeu que a transformação do imóvel se enquadrava na exceção do Código Florestal. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 179,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 180,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 181,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre adicional de periculosidade no SAMAE",
+    "description": "O inquérito apurou suposto pagamento ilegal de adicional de periculosidade, mas o erro no cadastro não confirmou a irregularidade inicial. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 182,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 183,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 184,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC sobre intervenção em APP em São Bento do Sul",
+    "description": "O investigado celebrou TAC e o MP entendeu não haver fundamento para ação judicial. O inquérito foi arquivado.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 185,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC sobre movimentação irregular de terra para obra da Havan",
+    "description": "O TAC foi firmado com os investigados e o MP encerrou o caso sem ação judicial. O inquérito foi arquivado.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 186,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 187,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 188,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP ajuíza ação sobre irregularidades em ILPI de São Bento do Sul",
+    "description": "O MP apurou irregularidades no funcionamento da ILPI Cuidar Bem e encerrou o inquérito com ação civil pública para fechar a entidade e afastar o responsável técnico.",
+    "status": "🔴 ACP ajuizada",
+    "severity": "alta"
+  },
+  {
+    "i": 189,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso sobre ILPI sem autorização em São Bento do Sul",
+    "description": "O procedimento tratou da instituição de longa permanência e da mudança do estabelecimento para outro município. O MP concluiu que não havia necessidade de seguir com a investigação.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 190,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 191,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 192,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 193,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC com casa noturna sem alvará em São Bento do Sul",
+    "description": "A ausência de licença para funcionamento foi confirmada e o estabelecimento firmou TAC para cessar a atividade até a regularização. O caso foi arquivado.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 194,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso sobre ruídos do Deck Lanches",
+    "description": "O ente municipal adotou providências para resolver a questão dos ruídos e o MP concluiu pela ausência de interesse de agir. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 195,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC sobre supressão de vegetação no imóvel rural",
+    "description": "Os investigados firmaram TAC para a supressão de vegetação nativa em Campo Alegre. O caso foi arquivado após a composição.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 196,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 197,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC com Plaza Bier por funcionar sem licença",
+    "description": "O MP confirmou a ausência de alvará para casa noturna e firmou TAC para cessar a atividade sem licença. O caso foi arquivado.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 198,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 199,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre medicamentos oncológicos no hospital",
+    "description": "O procedimento discutia o custeio de medicamentos oncológicos prescritos no Hospital e Maternidade Sagrada Família. O texto aponta a responsabilidade do hospital habilitado e o caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "alta"
+  },
+  {
+    "i": 200,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 201,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 202,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 203,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 204,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 205,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso sobre ILPI após correções sugeridas",
+    "description": "A entidade de longa permanência adotou todas as providências sugeridas e a problemática foi considerada resolvida. O MP arquivou o caso.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 206,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva caso sobre contratação da Dalltor pelo Consórcio Quiriri",
+    "description": "O MP não viu indícios de burla à licitação e registrou que o serviço foi efetivamente prestado. O caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 207,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 208,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 209,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  }
+]

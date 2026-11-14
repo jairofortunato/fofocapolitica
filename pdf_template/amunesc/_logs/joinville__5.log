@@ -1,0 +1,54 @@
+[0m
+> build · gpt-5.4-mini
+[0m
+Vou ler o critério e mapear os três lotes para julgar cada caso pela fonte, mantendo a ordem posicional e gravando cada saída antes de seguir para o próximo lote.
+[0m→ [0mRead pdf_template/CURADORIA.md[90m [offset=1, limit=400][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__6.json[90m [offset=1, limit=400][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__7.json[90m [offset=1, limit=400][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__5.json[90m [offset=1, limit=400][0m
+Encontrei que quase todos os casos de MP já trazem o desfecho no próprio `texto`, mas ainda preciso ler os trechos finais dos lotes e confirmar os casos truncados ou sigilosos antes de gravar qualquer JSON.
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__5.json[90m [offset=401, limit=260][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__6.json[90m [offset=401, limit=260][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__7.json[90m [offset=401, limit=260][0m
+Vou escrever o primeiro lote curado agora. Antes, verifico a pasta de destino para não criar o arquivo no lugar errado.
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados
+Vou gravar o lote `joinville__5.json` com os casos já julgados, marcando como `keep:false` as instâncias sem fato descrito ou repetições cortadas, e deixando os conclusivos/substantivos como `keep:true`.
+[0m% [0mPatch 1 file
+Vou gravar o segundo lote agora. Aqui há vários casos repetidos ou truncados que ficam fora, e os substantivos seguem com selo/descrição ajustados ao texto.
+[0m% [0mPatch 1 file
+Vou gravar o terceiro lote e então validar rapidamente a contagem e a ordem dos três arquivos curados.
+[0m% [0mPatch 1 file
+Agora vou validar sintaxe e contagem dos três arquivos curados antes de fechar.
+[0m
+[0m$ [0mjq 'length' "pdf_template/amunesc/_lotes_curados/joinville__7.json"
+70
+[0m
+[0m$ [0mjq 'length' "pdf_template/amunesc/_lotes_curados/joinville__5.json"
+70
+[0m
+[0m$ [0mjq 'length' "pdf_template/amunesc/_lotes_curados/joinville__6.json"
+70
+[0m
+[0m$ [0mjq '[.[] | select(.keep==true)] | length' "pdf_template/amunesc/_lotes_curados/joinville__6.json"
+24
+[0m
+[0m$ [0mjq '[.[] | select(.keep==true)] | length' "pdf_template/amunesc/_lotes_curados/joinville__5.json"
+19
+[0m
+[0m$ [0mjq '[.[] | select(.severity=="alta")] | length' "pdf_template/amunesc/_lotes_curados/joinville__5.json"
+0
+[0m
+[0m$ [0mjq '[.[] | select(.severity=="alta")] | length' "pdf_template/amunesc/_lotes_curados/joinville__6.json"
+0
+[0m
+[0m$ [0mjq '[.[] | select(.keep==true)] | length' "pdf_template/amunesc/_lotes_curados/joinville__7.json"
+23
+[0m
+[0m$ [0mjq '[.[] | select(.severity=="alta")] | length' "pdf_template/amunesc/_lotes_curados/joinville__7.json"
+0
+[0m
+Arquivos gravados e validados (`70` itens cada).
+
+- `joinville__5.json`: 70 casos, 19 `keep:true`, 0 `severity: alta`
+- `joinville__6.json`: 70 casos, 24 `keep:true`, 0 `severity: alta`
+- `joinville__7.json`: 70 casos, 23 `keep:true`, 0 `severity: alta`

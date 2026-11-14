@@ -1,0 +1,632 @@
+[
+ {
+  "i": 70,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 71,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 72,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração sobre poluição sonora da Reciclatrans em Timbó",
+  "description": "O Ministério Público apurou representação sobre perturbação do sossego por barulho e poluição sonora gerados pelas atividades da empresa Reciclatrans Comércio e Transporte de Resíduos Industriais Ltda. A situação não foi confirmada — os ruídos estavam dentro dos padrões da norma técnica NBR 10151:2019. O inquérito foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 73,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 74,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração sobre poluição sonora da Jorani do Brasil Plásticos em Timbó",
+  "description": "O Ministério Público apurou representação sobre perturbação do sossego por barulho e poluição sonora gerados pelas atividades da empresa Jorani do Brasil Plásticos Ltda. A situação não foi confirmada — os ruídos estavam dentro dos padrões da norma técnica NBR 10151:2019. O inquérito foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 75,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva investigação contra optometrista Sabrina dos Santos em Timbó",
+  "description": "O Ministério Público investigou Sabrina dos Santos por suposto exercício ilegal da medicina ao praticar atividades exclusivas de médico oftalmologista. A investigada comprovou ser bacharel em optometria pela Universidade do Contestado. Com base na modulação dos efeitos da ADPF n. 131, que firmou que as vedações não se aplicam a profissionais qualificados por instituição de ensino superior, o caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 76,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva investigação contra optometrista Moacir Neitzel em Timbó",
+  "description": "O Ministério Público investigou Moacir Neitzel por suposto exercício ilegal da medicina como optometrista. O investigado comprovou ser bacharel em optometria pela Universidade do Contestado. Com base na modulação da ADPF n. 131, o caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 77,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva investigação contra optometrista Sandro Luiz Pieritz em Timbó",
+  "description": "O Ministério Público investigou Sandro Luiz Pieritz por suposto exercício ilegal da medicina como optometrista. O investigado comprovou ser bacharel em optometria pela Universidade do Contestado. Com base na modulação da ADPF n. 131, o caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 78,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 79,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 80,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP firma TAC com Supermercado Campestrini por irregularidades sanitárias em Timbó",
+  "description": "O Ministério Público investigou irregularidades na comercialização de produtos de origem animal pelo Supermercado Campestrini Ltda. em Timbó. Foi firmado Termo de Ajustamento de Conduta (TAC) com compromisso de atender as normas sanitárias de fabricação, distribuição, manipulação, comercialização e acondicionamento dos alimentos, além de medida de compensação. O caso foi arquivado.",
+  "status": "🟠 TAC firmado",
+  "severity": "media"
+ },
+ {
+  "i": 81,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 82,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 83,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 84,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 85,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 86,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 87,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP firma TAC com Supermercado Schutze por irregularidades sanitárias em Timbó",
+  "description": "O Ministério Público investigou irregularidades sanitárias no Supermercado Schutze Ltda. em Timbó, constatadas em inspeção da Vigilância Sanitária. Foi firmado Termo de Ajustamento de Conduta (TAC). O caso foi arquivado.",
+  "status": "🟠 TAC firmado",
+  "severity": "media"
+ },
+ {
+  "i": 88,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 89,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 90,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP firma TAC com Supermercado Felippi e Simplão Atacadista por irregularidades sanitárias em Timbó",
+  "description": "O Ministério Público investigou irregularidades sanitárias no Supermercado Felippi Ltda. e no Simplão Atacadista Ltda. em Timbó, constatadas em inspeção da Vigilância Sanitária. Foram firmados Termos de Ajustamento de Conduta (TAC). O caso foi arquivado.",
+  "status": "🟠 TAC firmado",
+  "severity": "media"
+ },
+ {
+  "i": 91,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 92,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 93,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 94,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 95,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 96,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração sobre integração de sistemas em Timbó",
+  "description": "O Ministério Público apurou entraves na integração de sistemas entre instituições, envolvendo Raphael Souza Werling de Oliveira e Arnaldo da Costa. Concluiu que havia outro procedimento administrativo tratando do tema de forma mais ampla (SIG n. 09.2023.00003423-2) e que não existiam elementos para justificar a continuidade ou judicialização do caso. O procedimento foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 97,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 98,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 99,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 100,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 101,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 102,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 103,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 104,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 105,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 106,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 107,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 108,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 109,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 110,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 111,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 112,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 113,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 114,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 0,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ julgado irregular",
+  "severity": "media"
+ },
+ {
+  "i": 1,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE considera irregular licitação de usina fotovoltaica de Timbó e determina anulação",
+  "description": "O TCE analisou o edital do Pregão Eletrônico n. 542/2024 da Prefeitura de Timbó para contratação de empresa especializada na instalação de usina fotovoltaica. O Tribunal considerou o edital irregular devido a incompatibilidade no regime de execução do objeto, ausência de matriz de alocação de riscos e formação de preço baseada exclusivamente em cotação. Determinou ao prefeito Flávio Germano Buzzi a anulação do procedimento licitatório no prazo de 30 dias.",
+  "status": "⬛ julgado irregular",
+  "severity": "alta"
+ },
+ {
+  "i": 2,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ julgado irregular",
+  "severity": "media"
+ },
+ {
+  "i": 3,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE apura suposta irregularidade na contratação de estagiário em Timbó",
+  "description": "O TCE recebeu denúncia sobre possível irregularidade na contratação de estagiário pela Prefeitura de Timbó. O procedimento foi convertido em inspeção (RLI), com determinação de diligência junto ao prefeito Flávio Germano Buzzi para apuração dos fatos.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 4,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE declara ilegais credenciamentos de R$ 75 milhões da Prefeitura de Timbó",
+  "description": "O TCE analisou quatro editais de credenciamento da Prefeitura de Timbó (ns. 252, 343, 363 e 434/2024), no valor estimado total de R$ 75.764.502,93. Declarou a ilegalidade dos Editais de Credenciamento n. 343/2024 (locação de máquinas pesadas com operadores) e n. 434/2024 (serviços de manutenção predial), por fuga ao dever de licitar, caracterizando afronta ao art. 37, XXI, da Constituição Federal. Também declarou perda de objeto do Edital n. 363/2024, já revogado.",
+  "status": "⬛ julgado irregular",
+  "severity": "alta"
+ },
+ {
+  "i": 5,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 6,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 7,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 parecer pela aprovação",
+  "severity": "media"
+ },
+ {
+  "i": 8,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE considera irregular contratação de sobrinho do vice-prefeito de Timbó como estagiário",
+  "description": "O TCE realizou inspeção e considerou irregular a contratação e manutenção de Henrique Bonatti Bitelbrun, sobrinho do vice-prefeito de Timbó, como estagiário, sem aprovação em processo seletivo, em afronta aos princípios da moralidade e impessoalidade. A irregularidade foi sanada no curso do processo com a rescisão do contrato. O TCE determinou o arquivamento dos autos.",
+  "status": "⬛ julgado irregular",
+  "severity": "alta"
+ },
+ {
+  "i": 9,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 parecer pela aprovação",
+  "severity": "media"
+ },
+ {
+  "i": 10,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta"
+ },
+ {
+  "i": 11,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva representação sobre concessão de água em Timbó sem analisar mérito",
+  "description": "Representação sobre possíveis irregularidades na Concorrência Pública n. 87/2025 para concessão dos serviços públicos de abastecimento de água de Timbó foi arquivada pelo TCE diante da perda do objeto, uma vez que o edital foi revogado pela administração municipal. Não houve julgamento do mérito.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 12,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva segunda representação sobre concessão de água de Timbó",
+  "description": "Segunda representação sobre a Concorrência Pública n. 87/2025 para concessão dos serviços de água de Timbó foi arquivada pelo TCE por perda do objeto, após a revogação do edital. Não houve análise de mérito.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 13,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva terceira representação sobre concessão de água de Timbó",
+  "description": "Terceira representação sobre a Concorrência Pública n. 87/2025 para concessão dos serviços de água de Timbó foi arquivada pelo TCE por perda do objeto, após a revogação do edital. Não houve análise de mérito.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 14,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE multa secretária de Timbó por irregularidades em credenciamento",
+  "description": "O TCE julgou parcialmente procedente representação sobre irregularidades no Edital de Credenciamento n. 54/2021 da Prefeitura de Timbó. Foram constatadas contratação de empresas em desacordo com a ordem cronológica dos credenciamentos e falta de transparência no critério de rodízio. A secretária Maria Angélica Faggiani foi multada em R$ 2.293,37.",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta"
+ },
+ {
+  "i": 15,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva apuração sobre pregão de Timbó sem analisar o mérito",
+  "description": "O TCE analisou Procedimento Apuratório Preliminar sobre supostas irregularidades no Pregão Eletrônico n. 22/2023 da Prefeitura de Timbó. Os critérios de seletividade não foram atendidos (54,60 pontos no índice RROMa, 1 ponto na matriz GUT). O PAP não foi convertido em representação, o pedido cautelar foi prejudicado e o processo foi arquivado sem análise do mérito.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 16,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE faz recomendações sobre concessão de água e esgoto de Timbó",
+  "description": "O TCE analisou a fase de planejamento da concessão comum dos serviços de abastecimento de água e esgotamento sanitário de Timbó. O Tribunal fez recomendações ao SAMAE sobre o termo de referência, plano de negócios, fluxo de caixa e aspectos ambientais, sem aplicar sanções.",
+  "status": "🟡 em instrução (citação/audiência)",
+  "severity": "media"
+ },
+ {
+  "i": 17,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE julga improcedente representação sobre pregão de van em Timbó",
+  "description": "Representação da empresa Belabru Comércio e Representações Ltda. sobre supostas irregularidades no Pregão Presencial n. 13/2021, do Fundo Municipal de Educação de Timbó, para aquisição de van, foi julgada improcedente pelo TCE. O processo foi arquivado.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 18,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE afasta multa aplicada a secretária de Timbó",
+  "description": "Em recurso de reexame contra o Acórdão n. 292/2024, que havia multado a secretária Maria Angélica Faggiani em R$ 2.293,37 por irregularidades no Edital de Credenciamento n. 54/2021, o TCE deu provimento parcial para afastar a pena de multa. O julgamento de irregularidade foi mantido.",
+  "status": "⬛ julgado irregular",
+  "severity": "media"
+ },
+ {
+  "i": 19,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE suspende cautelarmente credenciamento de R$ 7,4 milhões para pavimentação em Timbó",
+  "description": "O TCE determinou a sustação cautelar da celebração de novos contratos no âmbito do Edital de Credenciamento n. 516/2024, no valor estimado de R$ 7.492.206,16, para manutenção de pavimentos intertravados em Timbó. A medida cautelar atinge os secretários municipais signatários do termo de homologação.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "alta"
+ },
+ {
+  "i": 20,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 21,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 22,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 parecer pela aprovação",
+  "severity": "media"
+ },
+ {
+  "i": 23,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta irregularidades em contrato de monitoramento eletrônico de Timbó",
+  "description": "O TCE considerou irregulares atos e procedimentos nos contratos de locação e manutenção de equipamentos de geração de imagens e monitoramento fotoeletrônico de trânsito firmados entre o Município de Timbó e a empresa Focalle Engenharia Viária Ltda. As irregularidades incluíram estudo técnico inadequado, ausência de demonstração de medidas de engenharia e falhas nos estudos periódicos de eficácia dos equipamentos.",
+  "status": "⬛ julgado irregular",
+  "severity": "alta"
+ },
+ {
+  "i": 24,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 parecer pela aprovação",
+  "severity": "media"
+ }
+]

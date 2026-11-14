@@ -1,0 +1,632 @@
+[
+ {
+  "i": 0,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 1,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou vale-alimentação sem lei e terceirização em Massaranduba e arquivou",
+  "description": "A denúncia anônima apontava possível improbidade administrativa em Massaranduba: servidores públicos recebendo vale-alimentação não aprovado por lei e uma licitação para contratar empresa terceirizada em serviços semelhantes aos de cargos previstos no concurso público vigente. O Ministério Público não confirmou os fatos e arquivou a notícia de fato.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 2,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 3,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 4,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva denúncia sobre contratação de escavadeira em Massaranduba",
+  "description": "Uma denúncia anônima apontava possível ato de improbidade no Pregão Presencial n. 86/2022 de Massaranduba, que contratou serviços de escavadeira hidráulica embora o município já tivesse servidores concursados nos cargos de operador de retroescavadeira. O Ministério Público indeferiu a apuração e encerrou o caso, sem reconhecer improbidade.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 5,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 6,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 7,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva caso de concursos em Massaranduba e manda suspeita de cartel à polícia",
+  "description": "A notícia de fato apurava supostos atos de improbidade em Massaranduba: ilicitude na contratação da empresa Rhema Concursos Públicos para o Concurso Público n. 01/2022, uso de artifícios para burlar a exigência constitucional de concurso e a não anulação do Concurso n. 001/2020, apesar de determinação nesse sentido. O Ministério Público arquivou o procedimento. A parte que tratava de possível formação de cartel entre postos de combustíveis do município foi remetida à Delegacia de Polícia, para apurar eventual crime contra a ordem econômica.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 8,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 9,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 10,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 11,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP não confirma irregularidades em pregão de Massaranduba e arquiva o caso",
+  "description": "A notícia de fato, aberta a partir de denúncia anônima, apurava possível ato de improbidade administrativa em irregularidades no Processo Licitatório n. 141/2022 (Pregão Presencial n. 141/2022) do Município de Massaranduba. O Ministério Público não confirmou as irregularidades e concluiu não haver interesse em prosseguir com a investigação, indeferindo o pedido e encerrando o caso.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 12,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP investigou uso de carro oficial por secretário de Massaranduba e arquivou",
+  "description": "O inquérito civil apurou possível ato de improbidade administrativa do secretário de Agricultura de Massaranduba, Valdir Zapellini, que teria usado veículo oficial para atender interesses particulares. O Ministério Público concluiu que não houve ato doloso e arquivou o inquérito, sem responsabilizá-lo.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 13,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP checou metas da vigilância sanitária de Massaranduba e arquivou o caso",
+  "description": "O inquérito civil apurou se o Município de Massaranduba vinha cumprindo as diretrizes pactuadas no Plano de Ação de Vigilância Sanitária do programa Fortalece VISA (2020-2023). O Ministério Público concluiu que não houve ato de improbidade administrativa e arquivou o procedimento.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 14,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou doação de caminhão aos bombeiros em Massaranduba e não viu ilegalidade",
+  "description": "A apuração, iniciada a partir de denúncia anônima, tratava de possível ato de improbidade administrativa na doação de um caminhão pelo Município de Massaranduba ao Corpo de Bombeiros, supostamente em desconformidade com a lei. A possível ilegalidade não foi confirmada e o caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 15,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 16,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 17,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 18,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 19,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou uso da verba federal da Covid em Massaranduba e arquivou o caso",
+  "description": "O Ministério Público apurou eventual desvio de finalidade na aplicação dos recursos repassados pelo Governo Federal ao Município de Massaranduba para o enfrentamento da pandemia de Covid-19, no contexto da Lei Complementar n. 173/2020. O procedimento foi arquivado. O extrato publicado não detalha os motivos do arquivamento.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 20,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 21,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 22,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 23,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 24,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou indicação de orientadores pedagógicos sem concurso em Massaranduba",
+  "description": "O inquérito civil investigou a indicação e a contratação de servidores para o cargo de orientador pedagógico em Massaranduba: professores efetivos eram indicados em vez de o município abrir concurso ou contratação temporária, e exerciam a função de orientação sem receber contraprestação. O Ministério Público considerou o caso mera irregularidade administrativa, já sanada pela Lei Complementar municipal n. 171/2022, e entendeu que a possível acumulação de cargos identificada se enquadrava em exceção legal. O inquérito foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 25,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP diz que Massaranduba podia nomear mais aprovados do que as vagas do edital",
+  "description": "Uma cidadã questionou o chamamento de aprovados para o cargo de Auxiliar de Sala (40h) do Concurso Público n. 001/2023 de Massaranduba, porque a prefeitura nomeou mais candidatos do que as vagas previstas. O Ministério Público considerou as alegações improcedentes, registrando que convocar aprovados além do número inicial de vagas não é ilegal, e arquivou a notícia de fato de plano.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 26,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 27,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP checou apoio pedagógico a criança com TDAH em Massaranduba e arquivou",
+  "description": "O procedimento apurava suposta irregularidade na disponibilização de professor auxiliar pelo Município de Massaranduba a uma criança diagnosticada com Transtorno de Déficit de Atenção e Hiperatividade (TDAH). O Ministério Público constatou que o apoio pedagógico estava sendo prestado e que não havia violação de direitos, arquivando o caso.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 28,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 29,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 30,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 31,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP vai à Justiça cobrar ressarcimento por contrato de consultoria em Massaranduba",
+  "description": "O inquérito civil apurou irregularidades na contratação da empresa PublicabR Consultoria e Assessoria pelo Município de Massaranduba, apuração que envolveu também Mário Fernando Reink e Círio Martíni. O Ministério Público ajuizou ação para ressarcimento dos danos causados ao erário e, com o processo na Justiça, arquivou o inquérito civil. A cobrança dos valores passou a correr judicialmente.",
+  "status": "🔴 ACP ajuizada",
+  "severity": "alta"
+ },
+ {
+  "i": 32,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Massaranduba corrigiu edital de processo seletivo após recomendação do MP",
+  "description": "O procedimento buscava adequar o edital do Processo Seletivo n. 11/2020 de Massaranduba, que permitia romper o vínculo com servidor já regularmente admitido, antes do fim do contrato, para que ele assumisse outra vaga em que também havia sido aprovado. O município acatou a recomendação do Ministério Público e corrigiu os itens apontados. Sem interesse de agir, o caso foi arquivado.",
+  "status": "🟢 recomendação cumprida",
+  "severity": "media"
+ },
+ {
+  "i": 33,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 34,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 35,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 36,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 37,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou demora em consulta de neurologia para adolescente em Massaranduba",
+  "description": "O procedimento administrativo apurava eventual violação de direitos de uma adolescente, por demora ou omissão da Secretaria de Saúde de Massaranduba no encaminhamento dela a consulta com especialista em neurologia. O caso foi arquivado. O extrato publicado não detalha os motivos do arquivamento.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 38,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou falta de segundo professor para alunos com deficiência em Massaranduba",
+  "description": "A notícia de fato apurava eventual irregularidade na disponibilização de segundo professor de turma a crianças com deficiência na rede de ensino de Massaranduba. O Ministério Público arquivou o caso. O extrato publicado não informa os motivos do arquivamento.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 39,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva queixa sobre escolaridade exigida para auxiliar de sala em Massaranduba",
+  "description": "A partir de denúncia anônima, o Ministério Público apurou possível irregularidade no nível de escolaridade exigido para o cargo de Auxiliar de Sala no Município de Massaranduba. O procedimento foi arquivado, sem que o extrato publicado detalhasse os motivos.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 40,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP questionou lei de Massaranduba e encerrou o caso depois das correções",
+  "description": "O inquérito civil averiguava irregularidades na Lei Complementar municipal n. 165/2021 de Massaranduba. O dispositivo questionado acabou revogado por lei posterior, e a falta de atendimento aos requisitos da Lei estadual n. 17.492/18 foi sanada pela Lei Complementar municipal n. 180/2022. Sem justificativa para continuar atuando, o Ministério Público encerrou o procedimento.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 41,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 42,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Após recomendação do MP, Massaranduba interdita ponte com risco de desabamento",
+  "description": "O inquérito civil apurou o uso de uma ponte com risco de desabamento em Massaranduba, que já havia sido previamente interditada pela prefeitura. O Ministério Público expediu recomendação e obteve a comprovação da interdição total do local, além do cronograma de obras para a construção de uma nova ponte. Com o problema resolvido, o inquérito foi arquivado, sem necessidade de ação judicial.",
+  "status": "🟢 recomendação cumprida",
+  "severity": "media"
+ },
+ {
+  "i": 43,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou demora em exame para paciente com epilepsia em Massaranduba",
+  "description": "O procedimento apurava suposta morosidade das Secretarias de Saúde de Massaranduba e do Estado de Santa Catarina na disponibilização de exame para mapeamento de crises epilépticas a uma pessoa diagnosticada com epilepsia do lobo temporal. O Ministério Público não constatou violação de direitos e arquivou o caso.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 44,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 45,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 46,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 47,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP acompanhou metas do Plano Municipal de Educação em Massaranduba e arquivou",
+  "description": "O procedimento administrativo acompanhava e fiscalizava as ações do Município de Massaranduba para cumprir as metas do Plano Municipal de Educação no ciclo previsto na lei que o instituiu. O Ministério Público registrou que a prefeitura empenhou as providências necessárias e arquivou o caso, por não ver necessidade de continuar o acompanhamento.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 48,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 49,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP analisou lei de autonomia financeira das escolas de Massaranduba e arquivou",
+  "description": "O procedimento apurava eventual inconstitucionalidade da Lei municipal n. 2.335/2022 de Massaranduba, que instituiu a autonomia de gestão financeira nas unidades escolares de ensino fundamental, pré-escolas e centros de educação infantil da rede pública municipal. O Ministério Público arquivou o caso, sem propor ação. O extrato publicado não detalha os fundamentos.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 50,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 51,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 52,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP cobrou serviço de inspeção de alimentos em Massaranduba e encerrou o caso",
+  "description": "O procedimento foi instaurado para que Massaranduba implantasse o Serviço de Inspeção Municipal, responsável pela inspeção industrial e sanitária de produtos de origem animal. O Ministério Público verificou que o serviço já havia sido instituído pela Lei municipal n. 1.210/2010 e arquivou o caso por ausência de interesse de agir.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 53,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 54,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 55,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP analisou lei do auxílio-alimentação dos servidores de Massaranduba e arquivou",
+  "description": "A notícia de fato apurava a suposta inconstitucionalidade da Lei municipal n. 2.285/2022 de Massaranduba, que alterou a norma sobre o auxílio-alimentação de caráter indenizatório pago aos servidores do município. O Ministério Público arquivou o caso, sem questionar a lei na Justiça. O extrato publicado não detalha os fundamentos.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 56,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP examinou empréstimo do FINISA pedido por Massaranduba e arquivou o caso",
+  "description": "A notícia de fato apurava a suposta inconstitucionalidade do Projeto de Lei n. 051/2022 de Massaranduba, que autorizava o Executivo a contratar operação de crédito na Caixa Econômica Federal pelo Programa de Financiamento à Infraestrutura e ao Saneamento (FINISA) e a oferecer garantias. O Ministério Público arquivou o procedimento, sem apontar ilegalidade.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 57,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 58,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 59,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP verificou política de resíduos sólidos em Massaranduba e não achou falha",
+  "description": "O inquérito civil verificou o cumprimento da Política Nacional de Resíduos Sólidos pelo Município de Massaranduba, a partir de apuração iniciada no Ministério Público Federal. Embora as primeiras respostas não fossem conclusivas, o município demonstrou atender aos preceitos da política e promover palestras e campanhas sobre logística reversa de embalagens. O procedimento foi encerrado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 60,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 61,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP vai à Justiça contra cargo comissionado de assessor jurídico em Massaranduba",
+  "description": "A notícia de fato apurou a suposta inconstitucionalidade da Lei Complementar municipal n. 172/2022, que criou o cargo de Assessor Jurídico e alterou a estrutura administrativa de Massaranduba. O Ministério Público não viu inconstitucionalidade em parte dos pontos questionados, mas ajuizou Ação Direta de Inconstitucionalidade contra a criação do cargo comissionado de Assessor Jurídico. O extrato publicado é cortado e não traz o desfecho da ação.",
+  "status": "🔴 ACP ajuizada",
+  "severity": "media"
+ },
+ {
+  "i": 62,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 63,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 64,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP processa Massaranduba por demora em cirurgia urgente nos olhos de criança",
+  "description": "O procedimento apurou a ausência ou a demora do Município de Massaranduba em disponibilizar uma cirurgia oftalmológica urgente a uma criança. O Ministério Público ajuizou ação civil pública sobre os fatos e encerrou o procedimento administrativo por evolução. A cobrança do atendimento passou a correr na Justiça.",
+  "status": "🔴 ACP ajuizada",
+  "severity": "alta"
+ },
+ {
+  "i": 65,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 66,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou carro precário do Conselho Tutelar de Massaranduba e arquivou",
+  "description": "O Ministério Público apurou a potencial precariedade do veículo automotor utilizado pelo Conselho Tutelar de Massaranduba. O caso foi arquivado, sem que o extrato publicado informasse o que motivou o encerramento.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 67,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 68,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 69,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP analisou deficiências da saúde em Massaranduba e encerrou o acompanhamento",
+  "description": "O procedimento administrativo analisava relatório sobre as principais deficiências das políticas públicas de saúde no Município de Massaranduba. O Ministério Público registrou que a prefeitura empenhou as providências necessárias e considerou desnecessário continuar o acompanhamento, arquivando o caso.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ }
+]

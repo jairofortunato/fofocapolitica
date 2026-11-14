@@ -1,0 +1,635 @@
+{
+ "cidade": "Joinville",
+ "casos": [
+  {
+   "i": 4200,
+   "tipo": "mp",
+   "ref": "01.2025.00065390-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00065390-8",
+   "status": "🟡 em apuração",
+   "data": "10/12/2025",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 4201,
+   "tipo": "mp",
+   "ref": "01.2025.00065614-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00065614-9",
+   "status": "🟡 em apuração",
+   "data": "10/12/2025",
+   "texto": "Marli Piekarski."
+  },
+  {
+   "i": 4202,
+   "tipo": "mp",
+   "ref": "06.2025.00005280-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00005280-5",
+   "status": "🟡 em apuração",
+   "data": "10/12/2025",
+   "texto": "Liliane Freitas Lovato e Tatieli S. Gonçalves."
+  },
+  {
+   "i": 4203,
+   "tipo": "mp",
+   "ref": "01.2025.00060415-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00060415-0",
+   "status": "🟢 arquivado",
+   "data": "11/12/2025",
+   "texto": "Dayene Nogueira. Conclusão: apurar suposta situação de vulnerabilidade de um canino na Rua Frederico Bilbow Júnior, n. 180, Bairro Costa e Silva, em Joinville. Atuação do órgão de proteção animal. Canino que permanece na residência. Vacinação e microchipagem. Bem-estar do animal resguardado. Arquivamento com base no art. 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4204,
+   "tipo": "mp",
+   "ref": "01.2025.00064161-2",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2025.00064161-2",
+   "status": "🟢 arquivado",
+   "data": "11/12/2025",
+   "texto": "Agatha Cristine Rosa. Conclusão: apurar possível situação de vulnerabilidade e risco envolvendo uma canina e seus filhotes, abandonados na Rua Eugênio Belinsk, no final da via, Bairro João Costa, em Joinville. Atuação do órgão de proteção animal. Canina e seus filhotes microchipados e sob cuidados veterinários. Saúde e bem-estar resguardados. Arquivamento com base no art. 7º, inciso II, do Ato n.395/2018/PGJ."
+  },
+  {
+   "i": 4205,
+   "tipo": "mp",
+   "ref": "01.2025.00065560-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00065560-6",
+   "status": "🟡 em apuração",
+   "data": "11/12/2025",
+   "texto": "sigiloso. objeto: apurar suposta situação de vulnerabilidade de um canino, no imóvel situado em frente ao Centro de Eventos Timbé, n. 850, em Joinville. Membro de Ministério Público: Simone Cristina Schultz"
+  },
+  {
+   "i": 4206,
+   "tipo": "mp",
+   "ref": "01.2025.00044309-3",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2025.00044309-3",
+   "status": "🟢 arquivado",
+   "data": "16/12/2025",
+   "texto": "sigilosa. Conclusão: apurar suposta situação envolvendo cão da raça pit bull, solto na Rua Carlos Stamm, n. 397, Joinville. Atuação da SAMA. Medidas administrativas solicitadas. Melhorias realizadas no abrigo. Caninos vacinados, microchipados e castrados. Arquivamento com base no art. 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4207,
+   "tipo": "mp",
+   "ref": "01.2025.00050038-0",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2025.00050038-0",
+   "status": "🟢 arquivado",
+   "data": "16/12/2025",
+   "texto": "Biih Erdmann Heringer. Conclusão: apurar suposta situação de vulnerabilidade de animais em imóvel situado na Avenida Paulo Schroeder, n. 2174, B airro Petrópolis, em Joinville. Atuação da SAMA. Caninas vacinadas e microchipadas. Melhorias realizadas no quintal. Segurança, saúde e bem-estar resguardados. Arquivamento com base no art. 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4208,
+   "tipo": "mp",
+   "ref": "01.2025.00065145-4",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2025.00065145-4",
+   "status": "❔ status indef.",
+   "data": "16/12/2025",
+   "texto": ""
+  },
+  {
+   "i": 4209,
+   "tipo": "mp",
+   "ref": "01.2025.00066336-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00066336-1",
+   "status": "🟡 em apuração",
+   "data": "16/12/2025",
+   "texto": "Verônica Aparecida Fardim."
+  },
+  {
+   "i": 4210,
+   "tipo": "mp",
+   "ref": "01.2025.00058312-7",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00058312-7",
+   "status": "🟢 arquivado",
+   "data": "18/12/2025",
+   "texto": "E. G. D. Conclusão: pessoa idosa. Ausência de situação de risco. Arquivamento."
+  },
+  {
+   "i": 4211,
+   "tipo": "mp",
+   "ref": "06.2024.00002982-2",
+   "header": "· EXTRATO DE CONCLUSÃO DE INQUÉRITO CIVIL N. 06.2024.00002982-2",
+   "status": "🟢 arquivado",
+   "data": "18/12/2025",
+   "texto": "Carlos Correa. Conclusão: apuração de suposta situação de vulnerabilidade de cães e gatos tutelados por Alessandra Neves, na Rua Quinze de Novembro, n. 5378, Bairro Vila Nova, nesta cidade de Joinville, ao lado da Borracharia do Alemão, cujos fatos já foram abordados no Protocolo n. 24.0.054266-4, registrado perante a Ouvidoria da Prefeitura de Joinville. Atuação do órgão de proteção animal. Animais com o bem-estar resguardado. Ausência de relato de maus-tratos ou vulnerabilidade. Arquivamento com supedâneo no art. 48, inciso I, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4212,
+   "tipo": "mp",
+   "ref": "01.2025.00066737-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00066737-9",
+   "status": "🟡 em apuração",
+   "data": "18/12/2025",
+   "texto": "Suzana Lais Fonseca."
+  },
+  {
+   "i": 4213,
+   "tipo": "mp",
+   "ref": "06.2025.00005486-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00005486-9",
+   "status": "🟡 em apuração",
+   "data": "18/12/2025",
+   "texto": "Britânia Eletrodomésticos S/A."
+  },
+  {
+   "i": 4214,
+   "tipo": "mp",
+   "ref": "01.2025.00066785-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00066785-7",
+   "status": "🟡 em apuração",
+   "data": "19/12/2025",
+   "texto": "Márcia Malagoni Faria Santos."
+  },
+  {
+   "i": 4215,
+   "tipo": "mp",
+   "ref": "01.2025.00067448-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00067448-0",
+   "status": "🟡 em apuração",
+   "data": "19/12/2025",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 4216,
+   "tipo": "mp",
+   "ref": "01.2025.00035783-5",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00035783-5",
+   "status": "🟢 arquivado",
+   "data": "07/01/2026",
+   "texto": "União Nacional LGBT de Joinville. Conclusão: possível omissão do Poder Executivo Municipal quanto à realização da 4ª Conferência Municipal LGBTQIA+. Adoção de medidas administrativas e inclusão do Município em instância regional de discussão. Arquivamento."
+  },
+  {
+   "i": 4217,
+   "tipo": "mp",
+   "ref": "01.2025.00047641-8",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00047641-8",
+   "status": "🟢 arquivado",
+   "data": "07/01/2026",
+   "texto": "N. S. C. Conclusão: situação de risco. Idosa acompanhada pela filha. Cessação dos fatores de risco. Arquivamento."
+  },
+  {
+   "i": 4218,
+   "tipo": "mp",
+   "ref": "01.2025.00058308-2",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00058308-2",
+   "status": "🟢 arquivado",
+   "data": "07/01/2026",
+   "texto": "L. D. Conclusão: ausência de situação de risco. Família presta o devido amparo. Núcleo familiar em acompanhamento pela rede socioassistencial. Arquivamento."
+  },
+  {
+   "i": 4219,
+   "tipo": "mp",
+   "ref": "01.2025.00059035-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00059035-0",
+   "status": "🟢 arquivado",
+   "data": "07/01/2026",
+   "texto": "Z. A. J. S. Conclusão: situação de risco. Superação da condição. Arquivamento."
+  },
+  {
+   "i": 4220,
+   "tipo": "mp",
+   "ref": "01.2025.00065213-1",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00065213-1",
+   "status": "🟢 arquivado",
+   "data": "07/01/2026",
+   "texto": "Carlos Correa. Conclusão: apurar possível situação de vulnerabilidade de um cão objeto dos Protocolos n. 25.0.296630-7 e 25.0.296631-5, registrados na Ouvidoria da Prefeitura de Joinville. Intimação do noticiante para informar o endereço completo dos fatos e breve relato da situação. Noticiante não atendeu à intimação. Arquivamento com base no art. 7º, inciso III, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4221,
+   "tipo": "mp",
+   "ref": "01.2026.00000206-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00000206-3",
+   "status": "🟡 em apuração",
+   "data": "09/01/2026",
+   "texto": "sigilosa."
+  },
+  {
+   "i": 4222,
+   "tipo": "mp",
+   "ref": "09.2021.00002182-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO ADMINISTRATIVO N.09.2021.00002182-9",
+   "status": "🟠 TAC firmado",
+   "data": "12/01/2026",
+   "texto": "Tenda de Umbanda Magia Cigana e Maria Aparecida de Souza Coelho Fernandes. Conclusão: atendimento das cláusulas do Termo de Ajustamento de Conduta celebrado no Inquérito Civil n. 06.2020.00004347- 4. Arquivamento."
+  },
+  {
+   "i": 4223,
+   "tipo": "mp",
+   "ref": "01.2026.00000257-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00000257-4",
+   "status": "🟡 em apuração",
+   "data": "12/01/2026",
+   "texto": "Vitória Schneider."
+  },
+  {
+   "i": 4224,
+   "tipo": "mp",
+   "ref": "01.2025.00054080-5",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00054080-5",
+   "status": "🟢 arquivado",
+   "data": "13/01/2026",
+   "texto": "Maria Alves Rodrigues. Conclusão: apurar atual situação de uma canina, de pelagem creme, tutelada por Maria Alves Rodrigues em imóvel localizado na Rua Martin Carlos Frederico Ehrat, n. 221, Bairro Rio Bonito em Joinville. Atuação da SAMA. Medidas administrativas integralmente cumpridas pelos tutores dos animais (adequação do ambiente, microchipagem e vacinação de todos os caninos). Saúde e bem-estar resguardados. Arquivamento com base no art. 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4225,
+   "tipo": "mp",
+   "ref": "01.2026.00000627-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00000627-0",
+   "status": "🟡 em apuração",
+   "data": "13/01/2026",
+   "texto": "Schirley Matos Pereira e SAMA."
+  },
+  {
+   "i": 4226,
+   "tipo": "mp",
+   "ref": "01.2026.00000753-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00000753-6",
+   "status": "🟡 em apuração",
+   "data": "13/01/2026",
+   "texto": "de Ofício."
+  },
+  {
+   "i": 4227,
+   "tipo": "mp",
+   "ref": "01.2026.00000902-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00000902-3",
+   "status": "🟡 em apuração",
+   "data": "13/01/2026",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 4228,
+   "tipo": "mp",
+   "ref": "06.2025.00005584-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00005584-6",
+   "status": "🟡 em apuração",
+   "data": "13/01/2026",
+   "texto": "A. M. M. de S. e Hospital Infantil Doutor Jeser Amarante Faria."
+  },
+  {
+   "i": 4229,
+   "tipo": "mp",
+   "ref": "06.2026.00000028-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2026.00000028-7",
+   "status": "🟡 em apuração",
+   "data": "13/01/2026",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 4230,
+   "tipo": "mp",
+   "ref": "01.2026.00001070-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00001070-8",
+   "status": "🟡 em apuração",
+   "data": "14/01/2026",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 4231,
+   "tipo": "mp",
+   "ref": "06.2025.00002579-6",
+   "header": "· EXTRATO DE CONCLUSÃO DE PROCEDIMENTO PREPARATÓRIO N. 06.2025.00002579-6",
+   "status": "❔ status indef.",
+   "data": "15/01/2026",
+   "texto": "Maria Orli da Silva. Conclusão: apurar possível situação de vulnerabilidade de dois cães, tutelados pela pessoa em situação de rua com o apelido de Baco, próximo ao imóvel localizado na Rua Witmarsum, n. 1088, Bairro Comasa, Joinville. Atuação da SAMA e Assistência Social. Atendimento médico-veterinário recebido. Caninos castrados e microchipados, atualmente em lar temporário. Saúde e"
+  },
+  {
+   "i": 4232,
+   "tipo": "mp",
+   "ref": "01.2026.00001626-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00001626-8",
+   "status": "🟡 em apuração",
+   "data": "15/01/2026",
+   "texto": "Restaurante Panela de Barro."
+  },
+  {
+   "i": 4233,
+   "tipo": "mp",
+   "ref": "01.2025.00058744-5",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00058744-5",
+   "status": "❔ status indef.",
+   "data": "16/01/2026",
+   "texto": "Tatiana Heiderscheidt Ostroske."
+  },
+  {
+   "i": 4234,
+   "tipo": "mp",
+   "ref": "06.2025.00002886-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00002886-0",
+   "status": "❔ status indef.",
+   "data": "16/01/2026",
+   "texto": ""
+  },
+  {
+   "i": 4235,
+   "tipo": "mp",
+   "ref": "06.2026.00000012-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2026.00000012-1",
+   "status": "🟡 em apuração",
+   "data": "20/01/2026",
+   "texto": "Eloisa Corrente."
+  },
+  {
+   "i": 4236,
+   "tipo": "mp",
+   "ref": "01.2026.00002397-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00002397-0",
+   "status": "🟡 em apuração",
+   "data": "21/01/2026",
+   "texto": "Mari Barbosa."
+  },
+  {
+   "i": 4237,
+   "tipo": "mp",
+   "ref": "01.2026.00001070-8",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2026.00001070-8",
+   "status": "❔ status indef.",
+   "data": "22/01/2026",
+   "texto": "sigiloso. Conclusão: suposta situação de vulnerabilidade e abandono de cinco cães no imóvel localizado na Rua Guaíra, n. 364, Bairro"
+  },
+  {
+   "i": 4238,
+   "tipo": "mp",
+   "ref": "01.2026.00002646-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00002646-6",
+   "status": "🟡 em apuração",
+   "data": "22/01/2026",
+   "texto": "sigilosa."
+  },
+  {
+   "i": 4239,
+   "tipo": "mp",
+   "ref": "06.2023.00002189-2",
+   "header": "· EXTRATO DE CONCLUSÃO DE INQUÉRITO CIVIL N. 06.2023.00002189-2",
+   "status": "❔ status indef.",
+   "data": "23/01/2026",
+   "texto": "Undr Bar e Gabriel Ferreira da Rosa. Conclusão: propositura de ação civil pública."
+  },
+  {
+   "i": 4240,
+   "tipo": "mp",
+   "ref": "06.2026.00000193-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2026.00000193-1",
+   "status": "🟡 em apuração",
+   "data": "26/01/2026",
+   "texto": "Boeing Incorporadora e Construção Ltda."
+  },
+  {
+   "i": 4241,
+   "tipo": "mp",
+   "ref": "01.2025.00060923-4",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00060923-4",
+   "status": "🟢 arquivado",
+   "data": "27/01/2026",
+   "texto": "M. T. B. Conclusão: arquivamento. Ausência de situação de risco ou vulnerabilidade. Continuidade do acompanhamento pela equipe da Secretaria de Assistência Social."
+  },
+  {
+   "i": 4242,
+   "tipo": "mp",
+   "ref": "01.2026.00003376-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00003376-7",
+   "status": "🟡 em apuração",
+   "data": "27/01/2026",
+   "texto": "Laura Cordeiro Pasqualotto."
+  },
+  {
+   "i": 4243,
+   "tipo": "mp",
+   "ref": "01.2026.00003618-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00003618-6",
+   "status": "🟡 em apuração",
+   "data": "27/01/2026",
+   "texto": "Flavia Vonvossen."
+  },
+  {
+   "i": 4244,
+   "tipo": "mp",
+   "ref": "01.2026.00003949-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00003949-4",
+   "status": "🟡 em apuração",
+   "data": "28/01/2026",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 4245,
+   "tipo": "mp",
+   "ref": "01.2025.00049753-5",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00049753-5",
+   "status": "🟢 arquivado",
+   "data": "29/01/2026",
+   "texto": "Rayane Barba da Fonseca. Conclusão: arquivamento. Ausência de elementos que indiquem a configuração de discriminação."
+  },
+  {
+   "i": 4246,
+   "tipo": "mp",
+   "ref": "01.2025.00050650-7",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00050650-7",
+   "status": "🟢 arquivado",
+   "data": "29/01/2026",
+   "texto": "ILPI Amigos da IDade. Conclusão: arquivamento. Instituição de longa permanência para idosos se adequou às exigências da Vigilância Sanitária Municipal. Recente concessão de alvará sanitário."
+  },
+  {
+   "i": 4247,
+   "tipo": "mp",
+   "ref": "01.2026.00000902-3",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2026.00000902-3",
+   "status": "🟢 arquivado",
+   "data": "29/01/2026",
+   "texto": "sigiloso. Conclusão: apurar possível situação de vulnerabilidade de dois caninos abandonados na Rua Boehmerwald, n. 498, em Joinville. Diligências da SAMA constataram que os caninos estão sendo cuidados temporariamente e sem situação atual de vulnerabilidade. Cadastramento dos animais na feira virtual de adoção do Município. Envio de cópia à Autoridade Policial para apuração de possível abandono pelo tutor. Arquivamento com base no art. 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4248,
+   "tipo": "mp",
+   "ref": "01.2026.00001626-8",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2026.00001626-8",
+   "status": "🟢 arquivado",
+   "data": "29/01/2026",
+   "texto": "Restaurante Panela de Barro. Conclusão: suposta situação de vulnerabilidade e abandono de três caninos, na Rua Dorothovio do Nascimento, n. 2172, Bairro Jardim Sofia, em Joinville. Atuação do CBEA. Tutor dos caninos localizado. Posterior encaminhamento dos animais para a residência do tutor em Guaramirim. Arquivamento com fundamento no art. 7º, inciso II, do Ato n. 395/2018/PGJ, com remessa de cópia dos autos à Delegacia de Polícia de Proteção Animal de Joinville para eventual apuração do abandono."
+  },
+  {
+   "i": 4249,
+   "tipo": "mp",
+   "ref": "01.2026.00000627-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2026.00000627-0",
+   "status": "🟢 arquivado",
+   "data": "29/01/2026",
+   "texto": "Schirley Matos Pereira. Conclusão: apurar possível omissão do Centro de Bem-Estar Animal no atendimento a uma canina com cinomose. Ausência de omissão ou ineficiência do CBEA. Comprovada a atuação adequada do órgão de proteção animal. Canina passou por exames e recebeu atendimento médico-veterinário. Arquivamento com base no art. 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4250,
+   "tipo": "mp",
+   "ref": "01.2025.00048068-8",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00048068-8",
+   "status": "🟢 arquivado",
+   "data": "30/01/2026",
+   "texto": "V. L. Conclusão: arquivamento. Vaga em ILPI. Falecimento da pessoa idosa. Perda de objeto."
+  },
+  {
+   "i": 4251,
+   "tipo": "mp",
+   "ref": "01.2025.00058306-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00058306-0",
+   "status": "🟢 arquivado",
+   "data": "30/01/2026",
+   "texto": "I. M. de S. Conclusão: arquivamento. Óbito da pessoa idosa. Intransmissibilidade do direito em discussão."
+  },
+  {
+   "i": 4252,
+   "tipo": "mp",
+   "ref": "01.2025.00065246-4",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00065246-4",
+   "status": "🟢 arquivado",
+   "data": "30/01/2026",
+   "texto": "M. J. G. R. Conclusão: arquivamento. Ausência de preenchimento dos requisitos legais para vaga pública em ILPI. Idosa com retaguarda familiar e condições financeiras mínimas."
+  },
+  {
+   "i": 4253,
+   "tipo": "mp",
+   "ref": "01.2026.00003194-7",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2026.00003194-7",
+   "status": "🟢 arquivado",
+   "data": "30/01/2026",
+   "texto": "V. P. S. Conclusão: arquivamento. Ausência dos requisitos para vaga pública em ILPI."
+  },
+  {
+   "i": 4254,
+   "tipo": "mp",
+   "ref": "06.2025.00002610-7",
+   "header": "· EXTRATO DE CONCLUSÃO DE PROCEDIMENTO PREPARATÓRIO N. 06.2025.00002610-7",
+   "status": "❔ status indef.",
+   "data": "30/01/2026",
+   "texto": "Daxo Empreendimentos."
+  },
+  {
+   "i": 4255,
+   "tipo": "mp",
+   "ref": "01.2026.00003654-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00003654-2",
+   "status": "🟡 em apuração",
+   "data": "30/01/2026",
+   "texto": "Grasiele Wandersee Philippe."
+  },
+  {
+   "i": 4256,
+   "tipo": "mp",
+   "ref": "01.2026.00003825-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00003825-1",
+   "status": "🟡 em apuração",
+   "data": "30/01/2026",
+   "texto": "Amanda Motta de Souza."
+  },
+  {
+   "i": 4257,
+   "tipo": "mp",
+   "ref": "01.2026.00003862-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00003862-9",
+   "status": "🟡 em apuração",
+   "data": "30/01/2026",
+   "texto": "Diogo Tadeu Bernardes de Sousa."
+  },
+  {
+   "i": 4258,
+   "tipo": "mp",
+   "ref": "01.2026.00004353-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00004353-2",
+   "status": "🟡 em apuração",
+   "data": "30/01/2026",
+   "texto": "sigiloso e SAMA."
+  },
+  {
+   "i": 4259,
+   "tipo": "mp",
+   "ref": "01.2025.00061372-7",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00061372-7",
+   "status": "🟢 arquivado",
+   "data": "02/02/2026",
+   "texto": "Gilberto Ferrarez. Conclusão: arquivamento. Iluminação pública. Situação solucionada administrativamente."
+  },
+  {
+   "i": 4260,
+   "tipo": "mp",
+   "ref": "01.2026.00004712-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00004712-8",
+   "status": "🟡 em apuração",
+   "data": "03/02/2026",
+   "texto": "Alessandra Martins."
+  },
+  {
+   "i": 4261,
+   "tipo": "mp",
+   "ref": "01.2026.00004773-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00004773-9",
+   "status": "🟡 em apuração",
+   "data": "03/02/2026",
+   "texto": "Lliliane Lovato e SAMA."
+  },
+  {
+   "i": 4262,
+   "tipo": "mp",
+   "ref": "01.2026.00004837-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00004837-1",
+   "status": "🟡 em apuração",
+   "data": "03/02/2026",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 4263,
+   "tipo": "mp",
+   "ref": "01.2026.00004841-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00004841-6",
+   "status": "🟡 em apuração",
+   "data": "03/02/2026",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 4264,
+   "tipo": "mp",
+   "ref": "01.2026.00003603-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00003603-1",
+   "status": "🟡 em apuração",
+   "data": "04/02/2026",
+   "texto": "Leonel Antonio Xavier."
+  },
+  {
+   "i": 4265,
+   "tipo": "mp",
+   "ref": "01.2026.00003667-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00003667-5",
+   "status": "🟡 em apuração",
+   "data": "04/02/2026",
+   "texto": "Alan Luiz Gonçalves e Vanderleia Simas Ciriaco."
+  },
+  {
+   "i": 4266,
+   "tipo": "mp",
+   "ref": "01.2026.00003715-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00003715-2",
+   "status": "🟡 em apuração",
+   "data": "04/02/2026",
+   "texto": "Fabio Odilon Duarte."
+  },
+  {
+   "i": 4267,
+   "tipo": "mp",
+   "ref": "01.2026.00003941-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00003941-7",
+   "status": "🟡 em apuração",
+   "data": "04/02/2026",
+   "texto": "Norberto Cubas da Silva."
+  },
+  {
+   "i": 4268,
+   "tipo": "mp",
+   "ref": "01.2026.00003947-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00003947-2",
+   "status": "🟡 em apuração",
+   "data": "04/02/2026",
+   "texto": "Elton Polini."
+  },
+  {
+   "i": 4269,
+   "tipo": "mp",
+   "ref": "01.2026.00003954-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00003954-0",
+   "status": "🟡 em apuração",
+   "data": "04/02/2026",
+   "texto": "Michael Angelo Capistrano Melo."
+  }
+ ]
+}

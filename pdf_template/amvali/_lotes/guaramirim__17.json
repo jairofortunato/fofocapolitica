@@ -1,0 +1,635 @@
+{
+ "cidade": "Guaramirim",
+ "casos": [
+  {
+   "i": 1190,
+   "tipo": "mp",
+   "ref": "09.2024.00007947-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00007947-8",
+   "status": "🟡 em apuração",
+   "data": "07/10/2024",
+   "texto": "sigilosa."
+  },
+  {
+   "i": 1191,
+   "tipo": "mp",
+   "ref": "01.2024.00037782-7",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00037782-7",
+   "status": "🟢 arquivado",
+   "data": "09/10/2024",
+   "texto": "Sistema APOIA on-line. Conclusão: apurar suposta evasão/infrequência escolar de adolescente. Frequência regularizada. Arquivamento."
+  },
+  {
+   "i": 1192,
+   "tipo": "mp",
+   "ref": "01.2024.00036918-2",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N.01.2024.00036918-2",
+   "status": "🟢 arquivado",
+   "data": "11/10/2024",
+   "texto": "sigiloso. Conclusão: Notícia de Fato autuada para apurar a suposta negativa de disponibilização de aparelho para realização de oxigenoterapia domiciliar à paciente residente em Guaramirim. Negativa justificada nas diretrizes que definem os critérios clínicos específicos para a elegibilidade de oxigenoterapia. Desnecessidade de continuidade ou evolução do feito. Arquivamento."
+  },
+  {
+   "i": 1193,
+   "tipo": "mp",
+   "ref": "09.2024.00008008-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00008008-5",
+   "status": "🟡 em apuração",
+   "data": "11/10/2024",
+   "texto": "sigilosa."
+  },
+  {
+   "i": 1194,
+   "tipo": "mp",
+   "ref": "09.2024.00008068-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00008068-5",
+   "status": "🟡 em apuração",
+   "data": "11/10/2024",
+   "texto": "sigilosa."
+  },
+  {
+   "i": 1195,
+   "tipo": "mp",
+   "ref": "09.2024.00008112-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00008112-9",
+   "status": "🟡 em apuração",
+   "data": "14/10/2024",
+   "texto": "Serviço de Acolhimento Institucional para Crianças e Adolescentes (SAICA) e do Serviço de Acolhimento em Família Acolhedora (SFA), ambos de Guaramirim."
+  },
+  {
+   "i": 1196,
+   "tipo": "mp",
+   "ref": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO ADMINISTRATIVO DE ACOMPANHAMENTO DE INSTITUIÇÕES N.",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO ADMINISTRATIVO DE ACOMPANHAMENTO DE INSTITUIÇÕES N.",
+   "status": "🟢 arquivado",
+   "data": "17/10/2024",
+   "texto": "CRAS de Guaramirim. Conclusão: procedimento instaurado para acompanhar e fiscalizar o cumprimento de orientações técnicas pelo Centro de Referência de Assistência Social (CRAS) de Guaramirim, especialmente em relação ao seu adequado funcionamento e estruturação. Arquivamento."
+  },
+  {
+   "i": 1197,
+   "tipo": "mp",
+   "ref": "01.2024.00036354-4",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00036354-4",
+   "status": "🟢 arquivado",
+   "data": "21/10/2024",
+   "texto": "Sistema APOIA on-line. Conclusão: apurar suposta evasão/infrequência escolar de adolescente. Arquivamento."
+  },
+  {
+   "i": 1198,
+   "tipo": "mp",
+   "ref": "01.2024.00047377-2",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00047377-2",
+   "status": "🟢 arquivado",
+   "data": "21/10/2024",
+   "texto": "Sistema APOIA on-line. Conclusão: apurar suposta evasão/infrequência escolar de adolescente Arquivamento. Mudança de estado."
+  },
+  {
+   "i": 1199,
+   "tipo": "mp",
+   "ref": "09.2024.00008304-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00008304-9",
+   "status": "🟡 em apuração",
+   "data": "21/10/2024",
+   "texto": "sigilosa."
+  },
+  {
+   "i": 1200,
+   "tipo": "mp",
+   "ref": "01.2024.00036173-5",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00036173-5",
+   "status": "🟢 arquivado",
+   "data": "31/10/2024",
+   "texto": "Sistema APOIA on-line. Conclusão¿: apurar suposta evasão/infrequência escolar de adolescente. Frequência regularizada. Arquivamento."
+  },
+  {
+   "i": 1201,
+   "tipo": "mp",
+   "ref": "01.2024.00037253-2",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00037253-2",
+   "status": "🟢 arquivado",
+   "data": "31/10/2024",
+   "texto": "sigiloso. Conclusão: apurar a suposta infrequência/evasão escolar de adolescente. Adolescente possui um irmão com outro procedimento de APOIA nesta Promotoria de Justiça. Determinado o arquivamento desta notícia de fato e a inclusão do APOIA do adolescente na notícia de fato criada para apurar a evasão escolar de seu irmão, objetivando à apuração conjunta dos fatos que ocasionaram a infrequência escolar dos irmãos."
+  },
+  {
+   "i": 1202,
+   "tipo": "mp",
+   "ref": "01.2024.00048829-8",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00048829-8",
+   "status": "🟢 arquivado",
+   "data": "31/10/2024",
+   "texto": "Sistema APOIA on-line. Conclusão: apurar suposta evasão/infrequência escolar de adolescente. Frequência regularizada. Arquivamento."
+  },
+  {
+   "i": 1203,
+   "tipo": "mp",
+   "ref": "09.2024.00008677-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00008677-9",
+   "status": "🟡 em apuração",
+   "data": "31/10/2024",
+   "texto": "sigilosa."
+  },
+  {
+   "i": 1204,
+   "tipo": "mp",
+   "ref": "01.2024.00038812-4",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00038812-4",
+   "status": "🟢 arquivado",
+   "data": "01/11/2024",
+   "texto": "Sistema APOIA on-line. Conclusão: apurar suposta evasão/infrequência escolar de adolescente. Frequência regularizada. Arquivamento."
+  },
+  {
+   "i": 1205,
+   "tipo": "mp",
+   "ref": "01.2024.00047940-0",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00047940-0",
+   "status": "🟢 arquivado",
+   "data": "01/11/2024",
+   "texto": "Sistema APOIA on-line. Conclusão: apurar suposta evasão/infrequência escolar de adolescente. Frequência regularizada. Arquivamento."
+  },
+  {
+   "i": 1206,
+   "tipo": "mp",
+   "ref": "01.2024.00043996-3",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00043996-3",
+   "status": "🟢 arquivado",
+   "data": "04/11/2024",
+   "texto": "Sistema APOIA on-line. Conclusão: apurar suposta evasão/infrequência escolar de adolescente. Frequência regularizada. Arquivamento."
+  },
+  {
+   "i": 1207,
+   "tipo": "mp",
+   "ref": "01.2024.00046119-8",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00046119-8",
+   "status": "🟢 arquivado",
+   "data": "04/11/2024",
+   "texto": "Sistema APOIA on-line. Conclusão: apurar suposta evasão/infrequência escolar de adolescente. Frequência regularizada. Arquivamento."
+  },
+  {
+   "i": 1208,
+   "tipo": "mp",
+   "ref": "01.2024.00024479-4",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00024479-4",
+   "status": "🟢 arquivado",
+   "data": "05/11/2024",
+   "texto": "sigilosas. Conclusão: Notícia de Fato autuada apurar suposta conduta irregular praticada pela E.E.B. Professora Elisa Claudio de Aguiar, localizada em Schroeder, na avaliação escolar de aluno, que culminou na sua reprovação, bem como verificar a possibilidade de revisão da referida avaliação, para que o adolescente possa cursar o 1º ano do Ensino Médio no ano de 2024. Superação de conflitos. Desnecessidade de continuidade ou evolução do feito. Arquivamento."
+  },
+  {
+   "i": 1209,
+   "tipo": "mp",
+   "ref": "01.2024.00037249-8",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00037249-8",
+   "status": "🟢 arquivado",
+   "data": "05/11/2024",
+   "texto": "Sistema APOIA on-line. Conclusão: apurar suposta evasão/infrequência escolar de irmãos. Frequência regularizada. Arquivamento."
+  },
+  {
+   "i": 1210,
+   "tipo": "mp",
+   "ref": "01.2024.00038793-6",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00038793-6",
+   "status": "🟢 arquivado",
+   "data": "06/11/2024",
+   "texto": "Sistema APOIA on-line. Conclusão: apurar suposta evasão/infrequência escolar de adolescente. Frequência regularizada. Arquivamento."
+  },
+  {
+   "i": 1211,
+   "tipo": "mp",
+   "ref": "06.2024.00004728-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00004728-6",
+   "status": "🟡 em apuração",
+   "data": "06/11/2024",
+   "texto": "sigilosa."
+  },
+  {
+   "i": 1212,
+   "tipo": "mp",
+   "ref": "01.2024.00049997-3",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00049997-3",
+   "status": "🟢 arquivado",
+   "data": "07/11/2024",
+   "texto": "Sistema APOIA on-line. Conclusão: apurar suposta evasão/infrequência escolar de adolescente. Frequência regularizada. Arquivamento."
+  },
+  {
+   "i": 1213,
+   "tipo": "mp",
+   "ref": "01.2024.00043177-1",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00043177-1",
+   "status": "🟢 arquivado",
+   "data": "08/11/2024",
+   "texto": "Sistema APOIA on-line. Conclusão: apurar suposta evasão/infrequência escolar de adolescente. Frequência regularizada. Arquivamento."
+  },
+  {
+   "i": 1214,
+   "tipo": "mp",
+   "ref": "09.2024.00008991-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00008991-0",
+   "status": "🟡 em apuração",
+   "data": "08/11/2024",
+   "texto": "sigilosa."
+  },
+  {
+   "i": 1215,
+   "tipo": "mp",
+   "ref": "01.2024.00048265-0",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00048265-0",
+   "status": "🟢 arquivado",
+   "data": "14/11/2024",
+   "texto": "sigilosas. Conclusão: Notícia de Fato autuada apurar suposta ameaça ou lesão de crianças residentes em Schroder. Superação de conflitos. Desnecessidade de continuidade ou evolução do feito. Arquivamento."
+  },
+  {
+   "i": 1216,
+   "tipo": "mp",
+   "ref": "01.2024.00048922-0",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00048922-0",
+   "status": "🟢 arquivado",
+   "data": "14/11/2024",
+   "texto": "Sistema APOIA on-line. Conclusão: apurar suposta evasão/infrequência escolar de adolescente. Frequência regularizada. Arquivamento."
+  },
+  {
+   "i": 1217,
+   "tipo": "mp",
+   "ref": "01.2024.00050486-0",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00050486-0",
+   "status": "🟢 arquivado",
+   "data": "14/11/2024",
+   "texto": "Sistema APOIA on-line. Conclusão: apurar suposta evasão/infrequência escolar de adolescente. Frequência regularizada. Arquivamento."
+  },
+  {
+   "i": 1218,
+   "tipo": "mp",
+   "ref": "01.2024.00045746-1",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00045746-1",
+   "status": "🟢 arquivado",
+   "data": "25/11/2024",
+   "texto": "Sistema APOIA on-line. Conclusão: apurar suposta evasão/infrequência escolar de adolescente. Aluno atingiu a maioridade civil. Arquivamento."
+  },
+  {
+   "i": 1219,
+   "tipo": "mp",
+   "ref": "09.2024.00006653-9",
+   "header": "· EXTRATO DE CONCLUSÃO DE PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00006653-9",
+   "status": "🟢 arquivado",
+   "data": "27/11/2024",
+   "texto": "sigilosas. Conclusão: Procedimento Administrativo instaurado para apurar suposta ameaça ou lesão de criança residente em Massaranduba. Criança com seus direitos resguardados. Desnecessidade de continuidade ou evolução do feito. Arquivamento."
+  },
+  {
+   "i": 1220,
+   "tipo": "mp",
+   "ref": "09.2024.00009216-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00009216-0",
+   "status": "🟡 em apuração",
+   "data": "27/11/2024",
+   "texto": "sigilosa."
+  },
+  {
+   "i": 1221,
+   "tipo": "mp",
+   "ref": "01.2024.00049218-0",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00049218-0",
+   "status": "❔ status indef.",
+   "data": "29/11/2024",
+   "texto": "sigilosas."
+  },
+  {
+   "i": 1222,
+   "tipo": "mp",
+   "ref": "01.2024.00049618-7",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00049618-7",
+   "status": "🟢 arquivado",
+   "data": "29/11/2024",
+   "texto": "Sistema APOIA on-line. Conclusão: apurar suposta evasão/infrequência escolar de adolescente. Frequência regularizada. Arquivamento."
+  },
+  {
+   "i": 1223,
+   "tipo": "mp",
+   "ref": "01.2024.00054773-8",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00054773-8",
+   "status": "🟢 arquivado",
+   "data": "29/11/2024",
+   "texto": "sigiloso. Conclusão: Notícia de Fato autuada para apurar eventual situação de risco e/ou vulnerabilidade de crianças residentes em Guaramirim/SC. Não relatada situação de risco e/ou vulnerabilidade. Questões de guarda e visitas que podem ser discutidas em processo judicial próprio, a ser ajuizado pelas partes interessadas. Desnecessidade de continuidade do procedimento. Arquivamento."
+  },
+  {
+   "i": 1224,
+   "tipo": "mp",
+   "ref": "09.2024.00009432-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00009432-4",
+   "status": "🟡 em apuração",
+   "data": "29/11/2024",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 1225,
+   "tipo": "mp",
+   "ref": "09.2024.00009449-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00009449-0",
+   "status": "🟡 em apuração",
+   "data": "29/11/2024",
+   "texto": "sigilosa."
+  },
+  {
+   "i": 1226,
+   "tipo": "mp",
+   "ref": "01.2024.00050008-6",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00050008-6",
+   "status": "❔ status indef.",
+   "data": "04/12/2024",
+   "texto": "sigiloso. Conclusão: apurar infrequência/evasão escolar de adolescente. Procedimento finalizado por evolução."
+  },
+  {
+   "i": 1227,
+   "tipo": "mp",
+   "ref": "01.2024.00036730-7",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N.01.2024.00036730-7",
+   "status": "❔ status indef.",
+   "data": "04/12/2024",
+   "texto": "sigiloso. Conclusão: apurar infrequência/evasão escolar de adolescente. Procedimento finalizado por evolução."
+  },
+  {
+   "i": 1228,
+   "tipo": "mp",
+   "ref": "09.2024.00008112-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00008112-9",
+   "status": "🟢 arquivado",
+   "data": "04/12/2024",
+   "texto": "Serviço de Acolhimento Institucional para Crianças e Adolescentes (SAICA) e do Serviço de Acolhimento em Família Acolhedora (SFA), ambos de Guaramirim. Conclusão: acompanhamento e fiscalização do Serviço de Acolhimento Institucional para Crianças e Adolescentes (SAICA) e do Serviço de Acolhimento em Família Acolhedora (SFA), ambos de Guaramirim, no tocante às inspeções semestrais destes no ano de 2024, ressalvada a necessidade de comparecimento em período inferior, nos termos da Resolução CNMP n. 293/2024. Finalidade atingida. Instauração de novo procedimento em 2025. Arquivamento."
+  },
+  {
+   "i": 1229,
+   "tipo": "mp",
+   "ref": "01.2024.00050523-7",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00050523-7",
+   "status": "❔ status indef.",
+   "data": "05/12/2024",
+   "texto": "A.P.L."
+  },
+  {
+   "i": 1230,
+   "tipo": "mp",
+   "ref": "01.2024.00051266-0",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00051266-0",
+   "status": "❔ status indef.",
+   "data": "05/12/2024",
+   "texto": "R.S."
+  },
+  {
+   "i": 1231,
+   "tipo": "mp",
+   "ref": "01.2024.00055700-3",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00055700-3",
+   "status": "❔ status indef.",
+   "data": "05/12/2024",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 1232,
+   "tipo": "mp",
+   "ref": "01.2024.00051218-2",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N.01.2024.00051218-2",
+   "status": "🟢 arquivado",
+   "data": "05/12/2024",
+   "texto": "Sigiloso. Conclusão: Notícia de Fato autuada para apurar a suposta situação de risco e/ou vulnerabilidade de criança residente em Guaramirim. Núcleo familiar acompanhado pela rede de proteção. Desnecessidade de continuidade do feito. Arquivamento."
+  },
+  {
+   "i": 1233,
+   "tipo": "mp",
+   "ref": "01.2024.00051534-6",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00051534-6",
+   "status": "❔ status indef.",
+   "data": "06/12/2024",
+   "texto": "Sistema APOIA on-line."
+  },
+  {
+   "i": 1234,
+   "tipo": "mp",
+   "ref": "01.2024.00056760-1",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00056760-1",
+   "status": "🟢 arquivado",
+   "data": "09/12/2024",
+   "texto": "Sistema APOIA on-line. Conclusão: apurar suposta evasão/infrequência escolar de adolescente. Arquivamento."
+  },
+  {
+   "i": 1235,
+   "tipo": "mp",
+   "ref": "01.2024.00040580-7",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00040580-7",
+   "status": "🟢 arquivado",
+   "data": "09/12/2024",
+   "texto": "C.Z. Conclusão: apurar a suposta ausência de disponibilização de tomografia por emissão de pósitrons (PET-CT) em favor de C. Z., diagnosticado com mieloma em região sacral, pela Secretaria de Saúde de Santa Catarina. Desnecessidade de continuidade ou evolução do feito. Arquivamento."
+  },
+  {
+   "i": 1236,
+   "tipo": "mp",
+   "ref": "09.2024.00007581-6",
+   "header": "· EXTRATO DE CONCLUSÃO DE PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00007581-6",
+   "status": "🟢 arquivado",
+   "data": "09/12/2024",
+   "texto": "sigilosas. Conclusão: Procedimento Administrativo instaurado para apurar suposta ameaça ou lesão de criança residente em Guaramirim. Criança com seus direitos resguardados. Desnecessidade de continuidade ou evolução do feito. Arquivamento."
+  },
+  {
+   "i": 1237,
+   "tipo": "mp",
+   "ref": "09.2024.00009631-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00009631-1",
+   "status": "🟡 em apuração",
+   "data": "09/12/2024",
+   "texto": "sigilosa."
+  },
+  {
+   "i": 1238,
+   "tipo": "mp",
+   "ref": "09.2024.00009632-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00009632-2",
+   "status": "🟡 em apuração",
+   "data": "09/12/2024",
+   "texto": "sigilosa."
+  },
+  {
+   "i": 1239,
+   "tipo": "mp",
+   "ref": "09.2024.00009432-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00009432-4",
+   "status": "🟢 arquivado",
+   "data": "11/12/2024",
+   "texto": "sigilosas. Conclusão: apurar a suposta morosidade na disponibilização do medicamento Glicazida 60mg, pela Secretaria de Saúde de Guaramirim. O fornecimento do medicamento foi restabelecido. Arquivamento."
+  },
+  {
+   "i": 1240,
+   "tipo": "mp",
+   "ref": "09.2024.00007947-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO ADMINISTRATIVO N.09.2024.00007947-8",
+   "status": "❔ status indef.",
+   "data": "11/12/2024",
+   "texto": "sigilosa. Conclusão: apurar a suposta necessidade de alteração do local de tratamento fornecido pelo Sistema Único de Saúde (SUS),"
+  },
+  {
+   "i": 1241,
+   "tipo": "mp",
+   "ref": "09.2024.00008008-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO ADMINISTRATIVO N.09.2024.00008008-5",
+   "status": "🟢 arquivado",
+   "data": "11/12/2024",
+   "texto": "sigilosa. Conclusão: procedimento administrativo instaurado para apurar a suposta ausência ou demora no agendamento de consulta médica na especialidade neurologia em favor de pessoa com Transtorno do Espectro Autista (TEA) e epilepsia, residente em Schroeder/SC. Encaminhamento médico não urgente. Aguardo em fila de espera de acordo com a classificação de risco. Consulta agendada para janeiro de 2025. Desnecessidade de continuidade ou evolução do feito. Arquivamento."
+  },
+  {
+   "i": 1242,
+   "tipo": "mp",
+   "ref": "01.2024.00037389-7",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00037389-7",
+   "status": "🟢 arquivado",
+   "data": "13/12/2024",
+   "texto": "sigilosas. Conclusão: Notícia de Fato autuada para apurar a possibilidade de colocação de enxerto ou de realização de cirurgia plástica em favor de pessoa acometida por paraplegia, com uma escara de pressão, residente em Guaramirim. Inserção em lista de espera. Paciente aguardando de acordo com a classificação do médico regulador. Desnecessidade de continuidade ou evolução do feito. Arquivamento."
+  },
+  {
+   "i": 1243,
+   "tipo": "mp",
+   "ref": "01.2024.00053935-0",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00053935-0",
+   "status": "🟢 arquivado",
+   "data": "13/12/2024",
+   "texto": "Sistema APOIA on-line. Conclusão: apurar suposta evasão/infrequência escolar de adolescente. Arquivamento."
+  },
+  {
+   "i": 1244,
+   "tipo": "mp",
+   "ref": "01.2024.00048297-1",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00048297-1",
+   "status": "🟢 arquivado",
+   "data": "16/12/2024",
+   "texto": "Sistema APOIA on-line. Conclusão: apurar suposta evasão/infrequência escolar de criança. Arquivamento. Mudança de estado."
+  },
+  {
+   "i": 1245,
+   "tipo": "mp",
+   "ref": "01.2024.00054811-5",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N.01.2024.00054811-5",
+   "status": "🟢 arquivado",
+   "data": "16/12/2024",
+   "texto": "sigiloso. Conclusão: Notícia de Fato autuada para apurar a suposta situação de risco e/ou vulnerabilidade de criança residente em Guaramirim/SC. Ajuizada Ação Judicial para aplicação de medidas de proteção em favor da criança. Procedimento finalizado por evolução. Arquivamento."
+  },
+  {
+   "i": 1246,
+   "tipo": "mp",
+   "ref": "01.2024.00035078-2",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00035078-2",
+   "status": "🟢 arquivado",
+   "data": "17/12/2024",
+   "texto": "sigiloso. Conclusão: averiguar a possibilidade de inclusão de criança residente em Schroeder, diagnosticado com Transtorno do Espectro Autista - nível 3 de suporte - e Transtorno de Déficit de Atenção e Hiperatividade - subtipo combinado, nível grave -, na Associação de Amigos do Autista (AMA). Arquivamento."
+  },
+  {
+   "i": 1247,
+   "tipo": "mp",
+   "ref": "01.2024.00058651-0",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00058651-0",
+   "status": "🟢 arquivado",
+   "data": "17/12/2024",
+   "texto": "sigiloso. Conclusão: apurar a suposta necessidade de adoção das medidas pertinentes objetivando evitar a alteração irregular da guarda fática de criança. Questões de guarda, visitas e suposta alienação parental que podem ser discutidas em processo judicial próprio. Supostos delitos apurados no âmbito criminal. Desnecessidade de continuidade do procedimento. Arquivamento."
+  },
+  {
+   "i": 1248,
+   "tipo": "mp",
+   "ref": "01.2024.00052047-1",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00052047-1",
+   "status": "❔ status indef.",
+   "data": "07/01/2025",
+   "texto": "Sistema APOIA on-line."
+  },
+  {
+   "i": 1249,
+   "tipo": "mp",
+   "ref": "01.2024.00055157-5",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00055157-5",
+   "status": "🟢 arquivado",
+   "data": "07/01/2025",
+   "texto": "Sistema APOIA on-line. Conclusão: apurar suposta evasão/infrequência escolar de adolescente. Frequência regularizada. Arquivamento."
+  },
+  {
+   "i": 1250,
+   "tipo": "mp",
+   "ref": "01.2024.00054739-3",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00054739-3",
+   "status": "🟢 arquivado",
+   "data": "07/01/2025",
+   "texto": "sigilosas Conclusão: Notícia de Fato autuada para apurar eventual situação de risco e/ou vulnerabilidade de crianças residentes em Guaramirim/SC. Situação de risco e/ou vulnerabilidade não confirmada. Desnecessidade de continuidade do procedimento. Arquivamento."
+  },
+  {
+   "i": 1251,
+   "tipo": "mp",
+   "ref": "09.2024.00007685-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2024.00007685-9",
+   "status": "🟢 arquivado",
+   "data": "08/01/2025",
+   "texto": "sigilosa. Conclusão: apurar suposta infrequência ou evasão escolar de adolescente. Arquivamento."
+  },
+  {
+   "i": 1252,
+   "tipo": "mp",
+   "ref": "01.2024.00037897-0",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00037897-0",
+   "status": "🟢 arquivado",
+   "data": "10/01/2025",
+   "texto": "sigiloso. Conclusão: apurar a suposta morosidade da Secretaria de Saúde de Guaramirim na disponibilização de consultas médicas com especialistas em Psiquiatria, Fonoaudiologia e Neurologia, em favor de infante diagnosticado com Transtorno do Espectro Autista, Transtorno de Déficit de Atenção e Hiperatividade (TDAH) e cardiopatia, e a possibilidade de disponibilização de professor para auxiliar a criança nas atividades em sala de aula. Arquivamento."
+  },
+  {
+   "i": 1253,
+   "tipo": "mp",
+   "ref": "01.2024.00051266-0",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00051266-0",
+   "status": "❔ status indef.",
+   "data": "14/01/2025",
+   "texto": "R.S."
+  },
+  {
+   "i": 1254,
+   "tipo": "mp",
+   "ref": "01.2024.00041683-7",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00041683-7",
+   "status": "🟢 arquivado",
+   "data": "17/01/2025",
+   "texto": "sigiloso. Conclusão: Notícia de Fato autuada para apurar a suposta morosidade pelas Secretarias de Saúde de Guaramirim e do Estado de Santa Catarina na disponibilização de procedimento cirúrgico ocular em favor de pessoa idosa, diagnosticada com glaucoma e catarata. Encaminhamentos médicos urgentes superados. Ausência de procedimentos com indicação de urgência pendentes. Aguardo em fila de espera de acordo com a classificação de risco. Desnecessidade de continuidade ou evolução do feito. Arquivamento."
+  },
+  {
+   "i": 1255,
+   "tipo": "mp",
+   "ref": "01.2024.00047407-1",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00047407-1",
+   "status": "❔ status indef.",
+   "data": "17/01/2025",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 1256,
+   "tipo": "mp",
+   "ref": "01.2024.00039838-8",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N.01.2024.00039838-8.",
+   "status": "❔ status indef.",
+   "data": "20/01/2025",
+   "texto": "sigiloso. Conclusão: apurar infrequência/evasão escolar de adolescente. Procedimento finalizado por evolução."
+  },
+  {
+   "i": 1257,
+   "tipo": "mp",
+   "ref": "01.2024.00041526-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N.01.2024.00041526-0",
+   "status": "❔ status indef.",
+   "data": "20/01/2025",
+   "texto": "sigiloso. Conclusão: apurar infrequência/evasão escolar de adolescente. Procedimento finalizado por evolução."
+  },
+  {
+   "i": 1258,
+   "tipo": "mp",
+   "ref": "01.2024.00043951-9",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00043951-9",
+   "status": "🟢 arquivado",
+   "data": "20/01/2025",
+   "texto": "sigiloso Conclusão: Notícia de Fato autuada para apurar a suposta morosidade da Secretaria de Saúde de Schroeder na disponibilização de consultas com especialistas em Psicologia e Terapia Ocupacional em favor de criança diagnosticada com Transtorno do Espectro Autista, nível 1. Ausência de encaminhamento médico com indicação de urgência. Aguardo em fila de espera de acordo com a classificação de risco. Desnecessidade de continuidade ou evolução do feito. Arquivamento."
+  },
+  {
+   "i": 1259,
+   "tipo": "mp",
+   "ref": "01.2024.00053324-4",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00053324-4",
+   "status": "🟢 arquivado",
+   "data": "20/01/2025",
+   "texto": "Sistema APOIA on-line. Conclusão: apurar suposta evasão/infrequência escolar de adolescente. Arquivamento."
+  }
+ ]
+}

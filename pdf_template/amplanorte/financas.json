@@ -1,0 +1,13 @@
+{
+ "_fonte": "pop: IBGE Censo 2022 (agregado 4714/var 93). rec/desp: Siconfi/Tesouro, RREO 2025 6º bimestre, Anexo 01 — rec=TotalReceitas 'Até o Bimestre (c)', desp=TotalDespesas 'DESPESAS EMPENHADAS ATÉ O BIMESTRE (f)'. Mesma fonte e definição usadas nas demais regiões. Arquivo aberto com as cidades já publicadas da região.",
+ "Mafra": {
+  "pop": 55286,
+  "rec": 389152664,
+  "desp": 362101864
+ },
+ "Itaiópolis": {
+  "pop": 22051,
+  "rec": 171974860,
+  "desp": 147877580
+ }
+}

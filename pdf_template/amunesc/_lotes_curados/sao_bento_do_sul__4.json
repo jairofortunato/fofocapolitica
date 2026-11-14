@@ -1,0 +1,632 @@
+[
+  {
+    "i": 42,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 43,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 44,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE pede documentos sobre assessores jurídicos comissionados",
+    "description": "O procedimento apura a nomeação de assessores jurídicos comissionados na Procuradoria Jurídica. O Tribunal determinou diligência e a instrução continua.",
+    "status": "🟡 em instrução (citação/audiência)",
+    "severity": "media"
+  },
+  {
+    "i": 45,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE apura horas extras de assistente social em Presidente Getúlio",
+    "description": "O processo discutiu pagamento de horas extras e possível acumulação com função de confiança. O Tribunal postergou a cautelar e abriu oitiva.",
+    "status": "🟡 em instrução (citação/audiência)",
+    "severity": "media"
+  },
+  {
+    "i": 46,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE arquiva análise do transporte coletivo e recomenda ajustes",
+    "description": "O relatório sobre o planejamento da concessão do transporte público concluiu com recomendações técnicas. O processo foi arquivado.",
+    "status": "🟢 julgado regular",
+    "severity": "media"
+  },
+  {
+    "i": 47,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE abre diligência sobre rádio e possíveis despesas fictas",
+    "description": "A representação apontou contratação de emissora sem regularidade e possíveis pagamentos fictos. O Tribunal conheceu o caso e determinou diligência.",
+    "status": "🟡 em instrução (citação/audiência)",
+    "severity": "media"
+  },
+  {
+    "i": 48,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE abre diligência sobre manutenção de equipamentos de saúde",
+    "description": "A representação questiona o pregão de manutenção de equipamentos médicos e odontológicos. O Tribunal conheceu o caso e determinou diligência sobre a empresa e a ata.",
+    "status": "🟡 em instrução (citação/audiência)",
+    "severity": "media"
+  },
+  {
+    "i": 49,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE pune assessores jurídicos comissionados em São Bento do Sul",
+    "description": "O Tribunal considerou irregular a emissão de pareceres por assessores comissionados em área reservada à advocacia pública. O processo foi arquivado após a decisão.",
+    "status": "⬛ julgado irregular",
+    "severity": "media"
+  },
+  {
+    "i": 50,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 51,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE arquiva monitoramento da meta de educação e cobra continuidade",
+    "description": "O relatório de inspeção tratou do monitoramento da estratégia 17.5 da educação. O Tribunal aprovou o plano de ação e arquivou o processo.",
+    "status": "🟢 julgado regular",
+    "severity": "media"
+  },
+  {
+    "i": 52,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 53,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 54,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 55,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 56,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE não conhece representação sobre pregão de auxílio-alimentação",
+    "description": "A representação foi rejeitada por falha de admissibilidade e o processo foi arquivado.",
+    "status": "❔ não conhecido (sem análise)",
+    "severity": "media"
+  },
+  {
+    "i": 57,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE multa Magno Bollmann por omissão na verificação de médico",
+    "description": "A denúncia foi julgada irregular e o Tribunal aplicou multa ao ex-prefeito pela falta de fiscalização da carga horária do servidor médico.",
+    "status": "⬛ julgado irregular + multa",
+    "severity": "alta"
+  },
+  {
+    "i": 58,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE arquiva auditoria da iluminação pública",
+    "description": "O relatório constatou cumprimento da decisão anterior e apenas fez recomendações técnicas. O processo foi arquivado.",
+    "status": "🟢 julgado regular",
+    "severity": "media"
+  },
+  {
+    "i": 59,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE arquiva chamamento público de peça teatral por falta de seletividade",
+    "description": "O PAP foi arquivado sem análise de mérito porque não passou na seletividade. O Tribunal apenas recomendou cuidados para futuras parcerias.",
+    "status": "❔ não conhecido (sem análise)",
+    "severity": "media"
+  },
+  {
+    "i": 60,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE arquiva denúncia sobre exercício de função pública",
+    "description": "A denúncia foi rejeitada por ausência de indícios de irregularidade. O processo foi arquivado.",
+    "status": "❔ não conhecido (sem análise)",
+    "severity": "media"
+  },
+  {
+    "i": 61,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE arquiva denúncia sobre cargos em confiança",
+    "description": "O Tribunal não conheceu a denúncia por falhas de admissibilidade e arquivou os autos.",
+    "status": "❔ não conhecido (sem análise)",
+    "severity": "media"
+  },
+  {
+    "i": 62,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE arquiva representação sobre dispensa eletrônica no IPRESBS",
+    "description": "A representação não passou na etapa de seletividade e foi arquivada.",
+    "status": "❔ não conhecido (sem análise)",
+    "severity": "media"
+  },
+  {
+    "i": 63,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE arquiva PAP sobre contratação temporária de auxiliares de educador",
+    "description": "O procedimento foi arquivado por não atender à seletividade, embora tenha rendido alerta ao controle interno.",
+    "status": "❔ não conhecido (sem análise)",
+    "severity": "media"
+  },
+  {
+    "i": 64,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 65,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE confirma irregularidade em tomada de preços da escola",
+    "description": "A representação sobre a tomada de preços 332/2021 foi julgada procedente e a irregularidade apontada foi confirmada.",
+    "status": "⬛ julgado irregular",
+    "severity": "media"
+  },
+  {
+    "i": 66,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE arquiva PAP sobre suspensão de processo seletivo e contratação de médicos",
+    "description": "O procedimento foi arquivado por falta de seletividade. O Tribunal recomendou convocar os aprovados do concurso.",
+    "status": "❔ não conhecido (sem análise)",
+    "severity": "media"
+  },
+  {
+    "i": 67,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 68,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 69,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 70,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE arquiva denúncia sobre cargos comissionados declarados",
+    "description": "A representação não foi conhecida por falta de seletividade e os autos foram arquivados.",
+    "status": "❔ não conhecido (sem análise)",
+    "severity": "media"
+  },
+  {
+    "i": 71,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 72,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 73,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE arquiva representação sobre gestão da EMHAB",
+    "description": "A representação foi rejeitada por ausência de documentos e indícios mínimos. O processo foi arquivado.",
+    "status": "❔ não conhecido (sem análise)",
+    "severity": "media"
+  },
+  {
+    "i": 74,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE abre diligência sobre emissora de rádio contratada pelo SAMAE",
+    "description": "A representação foi conhecida e o Tribunal pediu documentos sobre contrato, execução e regularidade da empresa. A instrução segue aberta.",
+    "status": "🟡 em instrução (citação/audiência)",
+    "severity": "media"
+  },
+  {
+    "i": 75,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 76,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE arquiva PAP sobre concorrência pública de esgoto",
+    "description": "O PAP não passou na seletividade e foi arquivado, com recomendações ao controle interno.",
+    "status": "❔ não conhecido (sem análise)",
+    "severity": "media"
+  },
+  {
+    "i": 77,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 78,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE arquiva denúncia sobre convocação de professor de violão",
+    "description": "O Tribunal arquivou o procedimento por falta de elementos de convicção sobre irregularidade na nomeação.",
+    "status": "🟢 julgado regular",
+    "severity": "media"
+  },
+  {
+    "i": 79,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 80,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE reconhece prescrição em incentivo a empresas e mantém irregularidades",
+    "description": "O recurso revisou as despesas com incentivo para instalação de empresas em São Bento do Sul. O Tribunal reconheceu a irregularidade e também a prescrição da pretensão ressarcitória.",
+    "status": "⚫ prescrito",
+    "severity": "alta"
+  },
+  {
+    "i": 81,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 82,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 83,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE analisa pedido de revisão sobre incentivo a empresas",
+    "description": "O pedido de revisão discute o acórdão que tratou dos incentivos econômicos pagos pelo município. O texto mostrado é ainda de admissibilidade e redistribuição.",
+    "status": "❔ em tramitação",
+    "severity": "media"
+  },
+  {
+    "i": 84,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 85,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 86,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 87,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE considera regular processo seletivo da educação em São Bento do Sul",
+    "description": "A inspeção considerou legal o processo seletivo e apenas recomendou providências para reduzir contratações temporárias no futuro.",
+    "status": "🟢 julgado regular",
+    "severity": "media"
+  },
+  {
+    "i": 88,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 89,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 90,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 91,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 92,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE dá prazo para corrigir progressão funcional em aposentadoria",
+    "description": "O Tribunal apontou irregularidade na progressão funcional usada no cálculo da aposentadoria e deu prazo para correção. O caso segue em instrução.",
+    "status": "🟡 em instrução (citação/audiência)",
+    "severity": "media"
+  },
+  {
+    "i": 93,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE arquiva PAP sobre programa de pavimentação comunitária",
+    "description": "O procedimento foi arquivado por não atender à seletividade e o Tribunal apenas enviou cópia ao controle interno.",
+    "status": "❔ não conhecido (sem análise)",
+    "severity": "media"
+  },
+  {
+    "i": 94,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 95,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE confirma enquadramento ilegal em aposentadoria de servidora",
+    "description": "O Tribunal negou o registro da aposentadoria de Maurian Grohskopf Sadowski por enquadramento irregular em cargo efetivo. O caso foi considerado ilegal.",
+    "status": "⬛ julgado irregular",
+    "severity": "media"
+  },
+  {
+    "i": 96,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE mantém negativa de registro da aposentadoria de José Ervino Zimmer",
+    "description": "A decisão reiterou que o enquadramento do servidor foi irregular e manteve a negativa de registro do ato. O caso foi considerado ilegal.",
+    "status": "⬛ julgado irregular",
+    "severity": "media"
+  },
+  {
+    "i": 97,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE julga irregular falta de envio de dados da liberdade econômica",
+    "description": "O Tribunal considerou irregular a ausência de envio das informações sobre a adequação municipal à lei da liberdade econômica. O processo foi arquivado após a decisão.",
+    "status": "⬛ julgado irregular",
+    "severity": "media"
+  },
+  {
+    "i": 98,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 99,
+    "tipo": "tce",
+    "keep": true,
+    "title": "TCE dá prazo para corrigir progressão funcional em aposentadoria",
+    "description": "O Tribunal apontou irregularidade na progressão funcional usada no cálculo da aposentadoria e deu prazo para a adequação. O caso segue em instrução.",
+    "status": "🟡 em instrução (citação/audiência)",
+    "severity": "media"
+  },
+  {
+    "i": 100,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 101,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 102,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 103,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 104,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 105,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 106,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 107,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 108,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 109,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 110,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 111,
+    "tipo": "tce",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  }
+]

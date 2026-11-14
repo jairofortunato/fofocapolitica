@@ -1,0 +1,635 @@
+{
+ "cidade": "Joinville",
+ "casos": [
+  {
+   "i": 280,
+   "tipo": "mp",
+   "ref": "01.2023.00024315-8",
+   "header": "• EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00024315-8",
+   "status": "🟡 em apuração",
+   "data": "16/06/2023",
+   "texto": "Carlos Correa, Município de Joinville e pessoa a ser identificada."
+  },
+  {
+   "i": 281,
+   "tipo": "mp",
+   "ref": "01.2023.00024770-0",
+   "header": "• EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00024770-0",
+   "status": "🟡 em apuração",
+   "data": "21/06/2023",
+   "texto": "Leonardo dos Santos Silva e Município de Joinville."
+  },
+  {
+   "i": 282,
+   "tipo": "mp",
+   "ref": "01.2023.00026930-4",
+   "header": "• EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00026930-4",
+   "status": "🟡 em apuração",
+   "data": "03/07/2023",
+   "texto": "Liliane Lovato e Município de Joinville."
+  },
+  {
+   "i": 283,
+   "tipo": "mp",
+   "ref": "01.2023.00027580-6",
+   "header": "• EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00027580-6",
+   "status": "🟡 em apuração",
+   "data": "06/07/2023",
+   "texto": "Ana Lima e Município de Joinville."
+  },
+  {
+   "i": 284,
+   "tipo": "mp",
+   "ref": "01.2023.00029081-8",
+   "header": "• EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00029081-8",
+   "status": "🟡 em apuração",
+   "data": "14/07/2023",
+   "texto": "Dirce Sampaio, Sandra e Município de Joinville."
+  },
+  {
+   "i": 285,
+   "tipo": "mp",
+   "ref": "01.2023.00031096-4",
+   "header": "• EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00031096-4",
+   "status": "🟡 em apuração",
+   "data": "26/07/2023",
+   "texto": "Larissa Laysla Monteiro Pizzetti."
+  },
+  {
+   "i": 286,
+   "tipo": "mp",
+   "ref": "06.2022.00003189-7",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00003189-7",
+   "status": "🟢 arquivado",
+   "data": "01/08/2023",
+   "texto": "Andreia Betina Legatzky Klitzke, Efitrans Transportes Ltda, Sorato Cimentos (Jandir Sorato Eirelli) e Município de Joinville. Conclusão: Inquérito Civil instaurado para apurar possíveis irregularidades na utilização de ruas do Loteamento Parque da Cidade pelas empresas Efitrans e Sorato Cimentos. Instalação de placas de sinalização de trânsito no local dos fatos durante o trâmite do procedimento. Solução dos problemas narradas na representação. Inexistência de fundamento para tomada de Ajuste de Condutas ou propositura de Ação Civil Pública. Arquivamento ante a inexistência de dano ou ameaça aos interesses tutelados pela Promotoria de Justiça do Meio Ambiente Urbano."
+  },
+  {
+   "i": 287,
+   "tipo": "mp",
+   "ref": "06.2023.00003312-2",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00003312-2",
+   "status": "🟡 em apuração",
+   "data": "28/08/2023",
+   "texto": "Ambiental Limpeza Urbana e Saneamento Ltda. e Município de Joinville."
+  },
+  {
+   "i": 288,
+   "tipo": "mp",
+   "ref": "06.2023.00003360-0",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00003360-0",
+   "status": "🟡 em apuração",
+   "data": "28/08/2023",
+   "texto": "Ambiental Limpeza Urbana e Saneamento Ltda. e Município de Joinville."
+  },
+  {
+   "i": 289,
+   "tipo": "mp",
+   "ref": "06.2017.00001525-9",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2017.00001525-9",
+   "status": "🟢 arquivado",
+   "data": "05/09/2023",
+   "texto": "Associação Joinvilense de Transportes de Resíduos (AJOTRE) e Município de Joinville. Conclusão: Inquérito Civil instaurado para apurar possível depósito irregular de resíduos nos fundos da Subprefeitura da Região Centro Norte, na esquina da Rua Marquês de Olinda com a Rua João Pessoa, Joinville/SC. Armazenamento temporário de resíduos de construção civil que possuem autorização ambiental para depósito naquele local. Limpeza, reclassificação e organização dos materiais depositados durante o trâmite do procedimento. Inexistência de fundamento para tomada de Ajuste de Condutas ou propositura de Ação Civil Pública. Arquivamento ante a inexistência de dano ou ameaça aos interesses tutelados pela Promotoria de Justiça do Meio Ambiente Urbano."
+  },
+  {
+   "i": 290,
+   "tipo": "mp",
+   "ref": "01.2023.00041337-0",
+   "header": "• EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2023.00041337-0",
+   "status": "🟡 em apuração",
+   "data": "09/10/2023",
+   "texto": "Gerson Edson Borges e Secretaria de Meio Ambiente do Município de Joinville."
+  },
+  {
+   "i": 291,
+   "tipo": "mp",
+   "ref": "06.2023.00000817-8",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00000817-8",
+   "status": "🟡 em apuração",
+   "data": "10/10/2023",
+   "texto": "Município de Joinville."
+  },
+  {
+   "i": 292,
+   "tipo": "mp",
+   "ref": "01.2023.00045596-0",
+   "header": "• EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00045596-0",
+   "status": "🟡 em apuração",
+   "data": "30/10/2023",
+   "texto": "Município de Joinville."
+  },
+  {
+   "i": 293,
+   "tipo": "mp",
+   "ref": "06.2023.00001378-1",
+   "header": "• EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00001378-1",
+   "status": "🟢 arquivado",
+   "data": "05/12/2023",
+   "texto": "Evandro de Moraes, Companhia Águas de Joinville e Município de Joinville. Conclusão: Procedimento Preparatório instaurado para apurar suposta irregularidade na implementação do esgotamento sanitário na Rua dos Desenhistas n. 227, Bairro Petrópolis, neste município. Limpeza e manutenção do Tanque Séptico da residência do representante durante o trâmite do procedimento. Sistema de tratamento de efluentes sanitários funcionando dentro dos parâmetros ambientais. Solução dos problemas narradas na representação. Inexistência de fundamento para tomada de Ajuste de Condutas ou propositura de Ação Civil Pública. Arquivamento ante a inexistência de dano ou ameaça aos interesses tutelados pela Promotoria de Justiça do Meio Ambiente Urbano."
+  },
+  {
+   "i": 294,
+   "tipo": "mp",
+   "ref": "01.2024.00002628-0",
+   "header": "• EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00002628-0",
+   "status": "🟡 em apuração",
+   "data": "26/01/2024",
+   "texto": "Stephane R. da Silva."
+  },
+  {
+   "i": 295,
+   "tipo": "mp",
+   "ref": "01.2024.00004667-6",
+   "header": "• EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00004667-6",
+   "status": "🟡 em apuração",
+   "data": "09/02/2024",
+   "texto": "Juliana Laís Kusinsky."
+  },
+  {
+   "i": 296,
+   "tipo": "mp",
+   "ref": "06.2024.00000212-2",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000212-2",
+   "status": "🟡 em apuração",
+   "data": "01/03/2024",
+   "texto": "Centro Espírita Paz do Senhor e Município de Joinville."
+  },
+  {
+   "i": 297,
+   "tipo": "mp",
+   "ref": "06.2024.00000264-4",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000264-4",
+   "status": "🟡 em apuração",
+   "data": "01/03/2024",
+   "texto": "L & A Incorporação Ltda. (EPP) e Município de Joinville."
+  },
+  {
+   "i": 298,
+   "tipo": "mp",
+   "ref": "06.2024.00000268-8",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000268-8",
+   "status": "🟡 em apuração",
+   "data": "01/03/2024",
+   "texto": "Município de Joinville e Coletivo Lixo Zero."
+  },
+  {
+   "i": 299,
+   "tipo": "mp",
+   "ref": "06.2024.00000269-9",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000269-9",
+   "status": "🟡 em apuração",
+   "data": "01/03/2024",
+   "texto": "Município de Joinville e Rogga Construtora e Incorporadora S/A."
+  },
+  {
+   "i": 300,
+   "tipo": "mp",
+   "ref": "06.2024.00000271-1",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000271-1",
+   "status": "🟡 em apuração",
+   "data": "01/03/2024",
+   "texto": "Antonio Maria Rodrigues Lemos e Município de Joinville."
+  },
+  {
+   "i": 301,
+   "tipo": "mp",
+   "ref": "06.2024.00000276-6",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000276-6",
+   "status": "🟡 em apuração",
+   "data": "01/03/2024",
+   "texto": "G2 participações e Empreendimentos Ltda. e Município de Joinville."
+  },
+  {
+   "i": 302,
+   "tipo": "mp",
+   "ref": "06.2024.00000288-8",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000288-8",
+   "status": "🟡 em apuração",
+   "data": "01/03/2024",
+   "texto": "LK Administração e Participação de Imoveis Ltda. e Município de Joinville."
+  },
+  {
+   "i": 303,
+   "tipo": "mp",
+   "ref": "06.2024.00000289-9",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000289-9",
+   "status": "🟡 em apuração",
+   "data": "01/03/2024",
+   "texto": "Gremio Recreativo dos Economiarios Federais de Joinville e Município de Joinville."
+  },
+  {
+   "i": 304,
+   "tipo": "mp",
+   "ref": "06.2024.00000290-0",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000290-0",
+   "status": "🟡 em apuração",
+   "data": "01/03/2024",
+   "texto": "Inovação Usinagem Ltda. e Município de Joinville."
+  },
+  {
+   "i": 305,
+   "tipo": "mp",
+   "ref": "06.2024.00000291-1",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000291-1",
+   "status": "🟡 em apuração",
+   "data": "01/03/2024",
+   "texto": "Incorporadora Della Giustina Ltda. EPP e Município de Joinville."
+  },
+  {
+   "i": 306,
+   "tipo": "mp",
+   "ref": "06.2024.00000293-3",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000293-3",
+   "status": "🟡 em apuração",
+   "data": "01/03/2024",
+   "texto": "Salmo Teixeira e Município de Joinville."
+  },
+  {
+   "i": 307,
+   "tipo": "mp",
+   "ref": "06.2024.00000299-9",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000299-9",
+   "status": "🟡 em apuração",
+   "data": "01/03/2024",
+   "texto": "Brawmaq Automação Industrial e Usinagem Ltda. e Município de Joinville."
+  },
+  {
+   "i": 308,
+   "tipo": "mp",
+   "ref": "06.2024.00000309-8",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000309-8",
+   "status": "🟡 em apuração",
+   "data": "01/03/2024",
+   "texto": "Valner Januario Soares e Município de Joinville."
+  },
+  {
+   "i": 309,
+   "tipo": "mp",
+   "ref": "06.2024.00000311-0",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000311-0",
+   "status": "🟡 em apuração",
+   "data": "01/03/2024",
+   "texto": "Victor Hugo de Oliveira e Município de Joinville."
+  },
+  {
+   "i": 310,
+   "tipo": "mp",
+   "ref": "06.2024.00000314-3",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000314-3",
+   "status": "🟡 em apuração",
+   "data": "01/03/2024",
+   "texto": "Victor Silveiro Correia Kamaroski e Município de Joinville."
+  },
+  {
+   "i": 311,
+   "tipo": "mp",
+   "ref": "06.2024.00000315-4",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000315-4",
+   "status": "🟡 em apuração",
+   "data": "01/03/2024",
+   "texto": "Tomas Edson Kulkamp e Município de Joinville."
+  },
+  {
+   "i": 312,
+   "tipo": "mp",
+   "ref": "06.2024.00000316-5",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000316-5",
+   "status": "🟡 em apuração",
+   "data": "01/03/2024",
+   "texto": "Rayes Castilho Incorporadora Ltda. e Município de Joinville."
+  },
+  {
+   "i": 313,
+   "tipo": "mp",
+   "ref": "06.2024.00000317-6",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000317-6",
+   "status": "🟡 em apuração",
+   "data": "01/03/2024",
+   "texto": "Victor Roberto Fleischer e Município de Joinville."
+  },
+  {
+   "i": 314,
+   "tipo": "mp",
+   "ref": "06.2024.00000318-7",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000318-7",
+   "status": "🟡 em apuração",
+   "data": "01/03/2024",
+   "texto": "Simony Sintia Schroeder Gehrmann e Município de Joinville."
+  },
+  {
+   "i": 315,
+   "tipo": "mp",
+   "ref": "06.2024.00000352-1",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000352-1",
+   "status": "🟡 em apuração",
+   "data": "01/03/2024",
+   "texto": "Rôgga S/A Construtora e Incorporadora e Município de Joinville."
+  },
+  {
+   "i": 316,
+   "tipo": "mp",
+   "ref": "06.2024.00000354-3",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000354-3",
+   "status": "🟡 em apuração",
+   "data": "01/03/2024",
+   "texto": "LEVEL Incorporadora e Loteadora Ltda. e Município de Joinville."
+  },
+  {
+   "i": 317,
+   "tipo": "mp",
+   "ref": "06.2024.00000357-6",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000357-6",
+   "status": "🟡 em apuração",
+   "data": "01/03/2024",
+   "texto": "Rogga Construtora e Incorporadora S/A e Município de Joinville."
+  },
+  {
+   "i": 318,
+   "tipo": "mp",
+   "ref": "06.2024.00000501-9",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000501-9",
+   "status": "🟡 em apuração",
+   "data": "01/03/2024",
+   "texto": "Serviço Nacional de Apredizagem Industrial e Município de Joinville."
+  },
+  {
+   "i": 319,
+   "tipo": "mp",
+   "ref": "06.2024.00000640-7",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000640-7",
+   "status": "🟡 em apuração",
+   "data": "01/03/2024",
+   "texto": "Formparts Indústria Metalúrgica EIRELI e Município de Joinville."
+  },
+  {
+   "i": 320,
+   "tipo": "mp",
+   "ref": "06.2024.00000707-2",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000707-2",
+   "status": "🟡 em apuração",
+   "data": "01/03/2024",
+   "texto": "Município de Joinville."
+  },
+  {
+   "i": 321,
+   "tipo": "mp",
+   "ref": "06.2024.00000743-9",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000743-9",
+   "status": "🟡 em apuração",
+   "data": "01/03/2024",
+   "texto": "Renan Gonçalves de Oliveira, Ambiville Engenharia Ambiental e Município de Joinville."
+  },
+  {
+   "i": 322,
+   "tipo": "mp",
+   "ref": "06.2023.00001625-6",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00001625-6",
+   "status": "🟡 em apuração",
+   "data": "08/03/2024",
+   "texto": "Município de Joinville."
+  },
+  {
+   "i": 323,
+   "tipo": "mp",
+   "ref": "06.2023.00000817-8",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00000817-8",
+   "status": "🟢 arquivado",
+   "data": "11/03/2024",
+   "texto": "Município de Joinville e Município de São Francisco do Sul. Conclusão: Inquérito Civil instaurado para apurar possível loteamento irregular localizado na rua Pavo, n. 340, Bairro Jardim Paraíso, neste Município. Ausência de lesão à ordem urbanística. Parcelamento do solo devidamente registrado perante o 2º Registro de Imóveis de São Francisco do Sul, sob a matrícula n. 7.555. Loteamento urbano denominado \"Loteamento Jardim Paraíso 3\". Inexistência de fundamento para tomada de Ajuste de Condutas ou propositura de Ação Civil Pública. Arquivamento"
+  },
+  {
+   "i": 324,
+   "tipo": "mp",
+   "ref": "06.2021.00001010-0",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00001010-0",
+   "status": "🟢 arquivado",
+   "data": "04/04/2024",
+   "texto": "Município de Joinville e São Paulo Incorporações e Administração de Bens Ltda. Conclusão: Inquérito Civil instaurado para apurar suposta falta de asseio no imóvel que se encontrava em condição de abandono localizado na Rua Orestes Guimarães, s/n. - com as inscrições \"Colégio Esquema Objetivo\", ao lado do Centreventos Cau Hansen, Bairro América, em Joinville/SC. Limpeza e manutenção do lote pelo proprietário durante o trâmite do presente procedimento. Exercício regular do poder de polícia administrativa pelo Município de Joinville que resultou na constatação negativa de abandono do imóvel ou ruínas. Ausência de novas reclamações durante o trâmite do procedimento. Quanto às possíveis irregularidades decorrentes da proximidade da edificação ao curso d'água adjacente, a questão será tratada e…"
+  },
+  {
+   "i": 325,
+   "tipo": "mp",
+   "ref": "06.2021.00000809-2",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00000809-2",
+   "status": "🟢 arquivado",
+   "data": "09/04/2024",
+   "texto": "Município de Joinville, Iraci Maria dos Passos Pinto e Osmar da Silva. Conclusão: Inquérito Civil instaurado para apurar supostas irregularidades no imóvel matriculado no 2º Registro de Imóveis de Joinville sob o n. 51.896, de propriedade de Iraci Maria dos Passos Pinto e do espólio de Antônio Juvêncio Pinto, localizado na Rua Cidade de Surubim, distando pelo lado direito 22,00m² da Rua Cidade de Pilões, Bairro Profipo, em Joinville/SC. Judicialização da questão pelo Município de Joinville por meio dos Autos n. 5044116-43.2023.8.24.0038 e n. 5044121- 65.2023.8.24.0038. Inexistência de fundamento para tomada de Ajuste de Condutas ou propositura de Ação Civil Pública. Arquivamento ante a inexistência de utilidade na continuidade do feito, uma vez que eventual dano ou ameaça aos interesses t…"
+  },
+  {
+   "i": 326,
+   "tipo": "mp",
+   "ref": "06.2024.00001650-5",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00001650-5",
+   "status": "🟡 em apuração",
+   "data": "10/04/2024",
+   "texto": "Estado de Santa Catarina e Município de Joinville."
+  },
+  {
+   "i": 327,
+   "tipo": "mp",
+   "ref": "06.2024.00000319-8",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000319-8",
+   "status": "🟡 em apuração",
+   "data": "09/05/2024",
+   "texto": "Liziane Rebello e Município de Joinville."
+  },
+  {
+   "i": 328,
+   "tipo": "mp",
+   "ref": "06.2024.00000312-1",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000312-1",
+   "status": "🟡 em apuração",
+   "data": "10/05/2024",
+   "texto": "Hugo Shigueru Nagano e Município de Joinville."
+  },
+  {
+   "i": 329,
+   "tipo": "mp",
+   "ref": "06.2023.00001461-4",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00001461-4",
+   "status": "🟢 arquivado",
+   "data": "13/05/2024",
+   "texto": "Município de Joinville, Asta Pfuetzenreuter Cardoso e Fortesc Esquadrias de Alumínio Ltda. Conclusão: Inquérito Civil instaurado para apurar possível ausência de alvará de localização e permanência e a responsabilidade por suposta irregularidade administrativa derivada do descumprimento da norma que determina o recuo frontal mínimo de 5 metros, perpetrado, em tese, por estabelecimento localizado na Rua Botuverá, n. 422, Bairro São Marcos, em Joinville. Constatado durante o trâmite do procedimento que a empresa investigada obteve o alvará de localização e permanência, bem como readequou/regularizou o projeto do imóvel. Eventuais irregularidades urbanísticas/ambientais que pudessem ter ocorrido já foram superadas. Inexistência de fundamento para tomada de Ajuste de Condutas ou propositura d…"
+  },
+  {
+   "i": 330,
+   "tipo": "mp",
+   "ref": "06.2022.00002496-3",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00002496-3",
+   "status": "🟢 arquivado",
+   "data": "14/05/2024",
+   "texto": "MB Lataria, Município de Joinville . Conclusão: Inquérito Civil instaurado para apurar suposto funcionamento irregular de oficina de lataria e funelaria de veículos na Rua Itapiranga, n. 132, Bairro Saguaçu, neste Município de Joinville. Empresa regularizou o alvará de licença para localização e permanência, bem como obteve Licença Ambiental de Operação Corretiva. Ausência de novas reclamações durante o trâmite do procedimento. Inexistência de fundamento para tomada de Ajuste de Condutas ou propositura de Ação Civil Pública. Arquivamento ante a inexistência de dano ou ameaça aos interesses tutelados pela Promotoria de Justiça do Meio Ambiente Urbano."
+  },
+  {
+   "i": 331,
+   "tipo": "mp",
+   "ref": "06.2020.00004218-6",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00004218-6",
+   "status": "🟢 arquivado",
+   "data": "15/05/2024",
+   "texto": "Maria Lúcia Rodrigues, Valdir Orlando Silva Júnior e Município de Joinville. Conclusão: Inquérito Civil instaurado para apurar supostas irregularidades no imóvel n.º 156.045, com inscrição imobiliária n.º 13.02.21.114.000, de propriedade de Maria Lúcia Rodrigues e outros, localizado na Rua Marquês de Olinda, n.º 1.596, bairro Costa e Silva, em Joinville, o qual foi objeto do auto de embargo n.º 36974/2018 e do auto de multa n. 32/2020, lavrados em desfavor de Maria Lúcia Rodrigues, e do auto de embargo n.º 36974/2018 e do auto de multa n. 31/2020, lavrado em desfavor de Valdir Orlando Silva Júnior. Constatado durante o trâmite do procedimento que os representados obtiveram alvará de construção das edificações. Inexistência de fundamento para tomada de Ajuste de Condutas ou propositura de …"
+  },
+  {
+   "i": 332,
+   "tipo": "mp",
+   "ref": "06.2024.00000313-2",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000313-2",
+   "status": "🟡 em apuração",
+   "data": "07/06/2024",
+   "texto": "Edilmar Pilati e Município de Joinville."
+  },
+  {
+   "i": 333,
+   "tipo": "mp",
+   "ref": "06.2024.00000362-1",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000362-1",
+   "status": "🟡 em apuração",
+   "data": "10/06/2024",
+   "texto": "H Carlos Schneider S/A Comércio e Indústria e Município de Joinville."
+  },
+  {
+   "i": 334,
+   "tipo": "mp",
+   "ref": "06.2024.00000323-2",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000323-2",
+   "status": "🟡 em apuração",
+   "data": "12/06/2024",
+   "texto": "Aparecida Teixeira Alexandre Moreira de Matos e Município de Joinville."
+  },
+  {
+   "i": 335,
+   "tipo": "mp",
+   "ref": "06.2024.00000357-6",
+   "header": "• EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000357-6",
+   "status": "🟢 arquivado",
+   "data": "17/06/2024",
+   "texto": "Município de Joinville e Rôgga S/A Construtora e Incorporadora. Conclusão: Procedimento Administrativo. Apurar possíveis irregularidades no procedimento de elaboração e aprovação do Diagnóstico Socioambiental da Microbacia 16-4. Questão judicializada no Processo Judicial 50519344620238240038. Inexistência de possibilidade/necessidade/utilidade na tomada de Ajuste de Condutas, na deflagração de Ação Civil Pública ou qualquer outra providência. Arquivamento."
+  },
+  {
+   "i": 336,
+   "tipo": "mp",
+   "ref": "06.2024.00001312-0",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00001312-0",
+   "status": "🟡 em apuração",
+   "data": "18/06/2024",
+   "texto": "Renan Gonçalves de Oliveira, Ambiville Engenharia Ambiental e Município de Joinville."
+  },
+  {
+   "i": 337,
+   "tipo": "mp",
+   "ref": "06.2021.00002448-1",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00002448-1",
+   "status": "🟢 arquivado",
+   "data": "17/07/2024",
+   "texto": "2ª Delegacia Regional de Polícia Civil, Município de Joinville, Boteco do Jota Ltda., Bar do Zé. Conclusão: Inquérito Civil instaurado para apurar suposta ausência de alvará de licença para localização e permanência, certidão de pressão sonora e alvará expedido pela Polícia Civil do Estado de Santa Catarina pelo estabelecimento comercial Bar do Zé, inscrito no CNPJ sob o n. 30.684.810/0001-75, localizado na Rua Água Marinha, n. 486, Bairro Saguaçú, em Joinville/SC, de propriedade de Jackson Juttel. Fiscalização que não constatou excessos de ruídos durante as atividades pela investigada. Durante o trâmite do procedimento a empresa investigada obteve o alvará de localização e permanência. Ausência de novas reclamações. Eventuais irregularidades urbanísticas/ambientais que pudessem ter ocorr…"
+  },
+  {
+   "i": 338,
+   "tipo": "mp",
+   "ref": "06.2023.00003301-1",
+   "header": "• EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00003301-1",
+   "status": "🟢 arquivado",
+   "data": "23/07/2024",
+   "texto": "Município de Joinville. Conclusão: Procedimento Preparatório instaurado para apurar possível parcelamento irregular do solo localizado na Rua Comandante Alberto Lepper, Bairro Fátima, em Joinville/SC. Apesar de não localizado procedimento de regularização fundiária relativo à área sob exame, não remanescem irregularidades de ordem urbanística. Ambos os terrenos possuem a infraestrutura básica para parcelamentos do solo, contando assim, com sumidouros para o escoamento das águas pluviais, como também postes de iluminação pública. Inexistência de fundamento para tomada de Ajuste de Condutas ou propositura de Ação Civil Pública. Arquivamento ante a inexistência de dano ou ameaça aos interesses tutelados pela Promotoria de Justiça do Meio Ambiente Urbano."
+  },
+  {
+   "i": 339,
+   "tipo": "mp",
+   "ref": "06.2024.00003006-2",
+   "header": "• EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2024.00003006-2",
+   "status": "🟡 em apuração",
+   "data": "24/07/2024",
+   "texto": "Brasil Card Instituição de Pagamentos Ltda."
+  },
+  {
+   "i": 340,
+   "tipo": "mp",
+   "ref": "01.2024.00035193-7",
+   "header": "• EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00035193-7",
+   "status": "🟢 arquivado",
+   "data": "07/10/2024",
+   "texto": "parte sigilosa e Município de Joinville. Conclusão: Notícia de Fato. Moralidade. Apurar suposta violação de direito ao acesso à informação pelo Município de Joinville. Prestação de contas dos últimos 10 (dez) anos da municipalidade. Ausência de indicativo concreto da irregularidade. Não complementação das informações. Indeferimento de Instauração de Investigação. Arquivamento."
+  },
+  {
+   "i": 341,
+   "tipo": "mp",
+   "ref": "06.2024.00000707-2",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00000707-2",
+   "status": "🟡 em apuração",
+   "data": "25/11/2024",
+   "texto": "Município de Joinville."
+  },
+  {
+   "i": 342,
+   "tipo": "mp",
+   "ref": "06.2024.00000291-1",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00000291-1",
+   "status": "🟡 em apuração",
+   "data": "28/11/2024",
+   "texto": "Incorporadora Della Giustina Ltda. EPP, Município de Joinville."
+  },
+  {
+   "i": 343,
+   "tipo": "mp",
+   "ref": "06.2024.00000276-6",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00000276-6",
+   "status": "🟡 em apuração",
+   "data": "07/01/2025",
+   "texto": "G2 participações e Empreendimentos Ltda., Ambiville Engenharia Ambiental, Renan Gonçalves de Oliveira, Município de Joinville."
+  },
+  {
+   "i": 344,
+   "tipo": "mp",
+   "ref": "06.2023.00000212-9",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00000212-9",
+   "status": "🟢 arquivado",
+   "data": "05/02/2025",
+   "texto": "Município de Joinville. Conclusão: Inquérito Civil instaurado para apurar possíveis irregularidades no parcelamento do solo urbano implementado na Quadra P do Loteamento Tahiti. Projeto de Regularização Fundiária Urbana (Reurb) aprovado e implementado durante o trâmite do procedimento. Inexistência de fundamento para tomada de Ajuste de Condutas ou propositura de Ação Civil Pública. Arquivamento ante a inexistência de dano ou ameaça aos interesses tutelados pela Promotoria de Justiça do Meio Ambiente Urbano."
+  },
+  {
+   "i": 345,
+   "tipo": "mp",
+   "ref": "06.2024.00003514-6",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00003514-6",
+   "status": "🟢 arquivado",
+   "data": "05/02/2025",
+   "texto": "Marcelo Jung e Secretaria Municipal de Saúde de Joinville. Conclusão: Inquérito Civil instaurado para apura reclamo quanto à redistribuição das Casas de Repouso em relação às unidades de saúde do Município de Joinville, que impacta no atendimento dos residentes. Constatou-se que a redistribuição dos atendimentos obedeceu a critérios objetivos (tempo atuando no local, número de idosos e demandas de saúde), sendo a organização orientação pautada em razões objetivas de ordem técnica e nos atos normativos aplicáveis, não havendo irregularidades. Assim, não se divisa risco ou violação ao direito fundamental à saúde das pessoas idosas nem omissão na prestação de serviços públicos de saúde imputável ao Município de Joinville. Arquivamento."
+  },
+  {
+   "i": 346,
+   "tipo": "mp",
+   "ref": "06.2024.00000293-3",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00000293-3",
+   "status": "🟡 em apuração",
+   "data": "26/02/2025",
+   "texto": "Salmo Teixeira e Município de Joinville."
+  },
+  {
+   "i": 347,
+   "tipo": "mp",
+   "ref": "06.2025.00000569-0",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00000569-0",
+   "status": "🟡 em apuração",
+   "data": "26/02/2025",
+   "texto": "Município de Joinville."
+  },
+  {
+   "i": 348,
+   "tipo": "mp",
+   "ref": "06.2024.00000640-7",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00000640-7",
+   "status": "🟡 em apuração",
+   "data": "07/03/2025",
+   "texto": "Formparts Indústria Metalúrgica Eireli e Município de Joinville."
+  },
+  {
+   "i": 349,
+   "tipo": "mp",
+   "ref": "06.2024.00000743-9",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00000743-9",
+   "status": "🟡 em apuração",
+   "data": "07/03/2025",
+   "texto": "Município de Joinville e Ambiville Enegenharia e Consultoria."
+  }
+ ]
+}

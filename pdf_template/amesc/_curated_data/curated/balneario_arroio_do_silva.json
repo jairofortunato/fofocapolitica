@@ -1,0 +1,686 @@
+{
+ "mp": [
+  {
+   "i": 0,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou consultoria contratada sem licitação em Arroio do Silva e arquivou o caso",
+   "description": "O Ministério Público apurou a contratação de uma empresa de consultoria pela Prefeitura de Balneário Arroio do Silva para fazer serviços que são função típica da administração, sem que houvesse servidores capacitados para a tarefa. A contratação foi feita por dispensa de licitação e o MP constatou que as formalidades legais da dispensa não foram cumpridas. Ainda assim, não foi identificado dolo ou má-fé, e o serviço foi prestado e pago por valor inferior ao contratado. O inquérito foi arquivado sem acusação de improbidade.",
+   "severity": "media"
+  },
+  {
+   "i": 1,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP flagrou servidora em desvio de função em creche e prefeitura corrigiu a situação",
+   "description": "O Ministério Público apurou que uma servidora nomeada como auxiliar de serviços gerais em Balneário Arroio do Silva exercia, na prática, funções de auxiliar operacional de creche. O MP recomendou ao prefeito que a remanejasse para a função do cargo original, e a orientação foi acatada pela prefeitura. Com a irregularidade sanada e sem indício de improbidade, o inquérito foi arquivado.",
+   "severity": "media"
+  },
+  {
+   "i": 2,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou contratação de motoristas temporários em Arroio do Silva e nada achou",
+   "description": "O Ministério Público investigou se a Prefeitura de Balneário Arroio do Silva contratou motoristas temporários deixando de lado candidatos aprovados em concurso para o mesmo cargo. O concurso previa apenas uma vaga de provimento imediato e cadastro de reserva, situação que, segundo o entendimento do STF, não gera direito automático à nomeação. O MP verificou que os aprovados foram chamados gradualmente conforme a necessidade e arquivou o caso.",
+   "severity": "media"
+  },
+  {
+   "i": 3,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Carpinteiros e pedreiros dirigiam veículos da prefeitura; MP mandou corrigir",
+   "description": "Uma diligência do Ministério Público constatou que servidores de Balneário Arroio do Silva nomeados como carpinteiro, auxiliar de serviços gerais e pedreiro exerciam de fato funções de motorista. O MP recomendou ao prefeito que os remanejasse para as atribuições dos cargos originais, e a prefeitura acatou. Com as irregularidades sanadas e sem improbidade caracterizada, o inquérito foi arquivado.",
+   "severity": "media"
+  },
+  {
+   "i": 4,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Caso de compensação previdenciária indevida em Arroio do Silva prescreveu",
+   "description": "O Ministério Público apurou compensações previdenciárias indevidas informadas em guias do FGTS e da Previdência entre agosto de 2007 e novembro de 2011, em fatos ocorridos nas gestões dos ex-prefeitos Paulo Pedroso Vítor e Evandro Scaini. O MP concluiu que não houve comprovação de dolo na conduta dos investigados e que tanto a punição por improbidade quanto a cobrança de ressarcimento já haviam prescrito, aplicando teses do Supremo Tribunal Federal. O caso foi encerrado sem que ninguém fosse responsabilizado.",
+   "severity": "media"
+  },
+  {
+   "i": 5,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Acidente com carro da Saúde não foi apurado; MP cobrou e prefeitura agiu",
+   "description": "O Ministério Público investigou a possível omissão da prefeitura em apurar a conduta de um servidor envolvido em acidente de trânsito com veículo do Fundo Municipal de Saúde de Balneário Arroio do Silva. A instrução não comprovou dolo ou má-fé, e o MP recomendou providências à controladoria interna do município. As determinações foram acatadas e a prefeitura abriu processo administrativo disciplinar contra o servidor. O inquérito foi arquivado.",
+   "severity": "media"
+  },
+  {
+   "i": 6,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Prefeitura de Arroio do Silva pagava multas de servidores; MP cobrou controle",
+   "description": "O Ministério Público apurou que o Município de Balneário Arroio do Silva vinha pagando multas de infrações cometidas por servidores que dirigiam veículos oficiais, sem indicar quem era o condutor responsável — uma falha na gestão da frota municipal. A instrução não comprovou dolo ou má-fé e não caracterizou improbidade. Após recomendação do MP, a prefeitura contratou empresa com sistema informatizado para controlar a frota e identificar os motoristas responsáveis pelas multas, e o caso foi arquivado.",
+   "severity": "media"
+  },
+  {
+   "i": 7,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou máquinas da prefeitura em terreno particular e arquivou",
+   "description": "O Ministério Público apurou o uso de maquinário público de Balneário Arroio do Silva para serviços em propriedade particular, envolvendo Antônio Maragno, Adilton Maragno e Gilson Luiz Martins. Ficou comprovado que houve pagamento ao município pelo serviço e que a conduta tinha respaldo em decreto municipal vigente, sem indício de dolo ou má-fé — o MP não configurou improbidade nem dano ao erário. O MP apontou a fragilidade do decreto que regulamentava a cessão de bens públicos, questão já tratada em outro inquérito, e arquivou o caso.",
+   "severity": "media"
+  },
+  {
+   "i": 8,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Ex-secretário de Obras vai ressarcir salário pago sem trabalho, em acordo com MP",
+   "description": "O Ministério Público apurou pagamento indevido de remuneração a um servidor entre 1º e 12 de setembro de 2017, sem que houvesse prestação de serviço, por orientação do então Secretário de Obras de Balneário Arroio do Silva, Jaime Silveira da Silva. O dano ao erário foi calculado em R$ 1.398,76 atualizados. O investigado firmou Termo de Ajustamento de Conduta com o MP prevendo o ressarcimento integral do valor e sanções em caso de descumprimento, e o inquérito foi encerrado.",
+   "severity": "alta"
+  },
+  {
+   "i": 9,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Câmara de Arroio do Silva assina acordo com MP por falha no plano de educação",
+   "description": "O Ministério Público constatou que a Prefeitura e a Câmara de Vereadores de Balneário Arroio do Silva não estavam cumprindo obrigações previstas nas leis municipais sobre o Plano Municipal de Educação. A Câmara firmou Termo de Ajustamento de Conduta com o MP, se comprometendo a corrigir sua atuação. A prefeitura ajustou suas atividades ao longo do procedimento, com avaliação do Plano e propostas de políticas públicas.",
+   "severity": "media"
+  },
+  {
+   "i": 10,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cobrou da Prefeitura de Arroio do Silva o cumprimento da Lei de Acesso à Informação",
+   "description": "O Ministério Público apurou o descumprimento da Lei de Acesso à Informação e da Lei de Responsabilidade Fiscal pela Prefeitura de Balneário Arroio do Silva. O MP pediu ao prefeito que comprovasse a regularização das pendências apontadas em um checklist de transparência ou informasse se tinha interesse em firmar acordo para resolver a questão. O texto oficial está truncado e o desfecho final não fica claro no extrato publicado.",
+   "severity": "media",
+   "status": "❔ status indef."
+  },
+  {
+   "i": 11,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Após cobrança do MP, Arroio do Silva estruturou seu Conselho Municipal do Meio Ambiente",
+   "description": "O Ministério Público acompanhou a efetiva implementação do Conselho Municipal do Meio Ambiente de Balneário Arroio do Silva e se a composição respeitava a paridade entre poder público e sociedade civil. O município acatou a recomendação do MP e a sugestão de mudança na lei foi enviada à Câmara, que aprovou o projeto, depois sancionado e promulgado. O inquérito foi arquivado.",
+   "severity": "media"
+  },
+  {
+   "i": 12,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Servidor foi acusado de favorecer irmão em obra irregular, mas MP arquivou",
+   "description": "O Ministério Público investigou se o servidor José Luiz Kraeski da Silva teria favorecido seu irmão, Maykon Kraeski da Silva, em um caso de edificação irregular em Balneário Arroio do Silva. A apuração foi negativa: o servidor assumiu o cargo quando as supostas irregularidades já estavam em curso, e o cargo não tinha relação com a fiscalização de obras. A representação era genérica e sem provas para prosseguir; as irregularidades das construções foram tratadas em procedimento ambiental. O caso foi arquivado.",
+   "severity": "media"
+  },
+  {
+   "i": 13,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou contratação direta de professor e arquivou sem ver improbidade",
+   "description": "O Ministério Público investigou a contratação direta de um professor temporário para lecionar história, geografia e religião na rede municipal de Balneário Arroio do Silva. Ficou constatado que não havia candidatos classificados para as vagas no processo seletivo e que a nomeação foi feita para garantir o início do ano letivo. A instrução não comprovou dolo ou má-fé — o MP registrou que ilegalidade não se confunde com improbidade — e arquivou o caso.",
+   "severity": "media"
+  },
+  {
+   "i": 14,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 15,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou professora lotada no CRAS e concluiu que não houve ilegalidade",
+   "description": "O Ministério Público apurou se havia desvio de função no caso de uma servidora do magistério municipal de Balneário Arroio do Silva lotada no Centro de Referência de Assistência Social (CRAS), fora da Secretaria de Educação. O MP concluiu que a lei complementar municipal permite a exceção e que as atividades no CRAS têm correlação com as atribuições do cargo original, não sendo ato ilegal. Uma questão paralela sobre a gratificação de 'abono de produção' já estava sendo discutida na Justiça. O caso foi arquivado.",
+   "severity": "media"
+  },
+  {
+   "i": 16,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou contratação de vigia temporário em Arroio do Silva e viu amparo legal na medida",
+   "description": "O Ministério Público investigou supostas irregularidades na contratação de Adilson Borges dos Santos como vigia temporário pela Prefeitura de Balneário Arroio do Silva em 2017, apuração que envolveu o então Secretário de Obras Jaime Silveira da Silva. O MP constatou que a contratação foi feita em caráter excepcional, para substituir servidor efetivo afastado por licença superior a 30 dias, com amparo na lei complementar municipal que trata de contratações temporárias. O extrato está truncado e não detalha o encerramento desse ponto.",
+   "severity": "media"
+  },
+  {
+   "i": 17,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP não viu irregularidade na contratação de professores temporários",
+   "description": "O Ministério Público apurou se a Prefeitura de Balneário Arroio do Silva contratou professores de educação infantil temporários em prejuízo de aprovados no Concurso Público n. 001/2023, além de suposta demora na divulgação das portarias de nomeação. O MP concluiu que as contratações de professores temporários após a vacância de cargos não configuram provimento de cargo público e, portanto, não houve preterição dos aprovados. O inquérito foi arquivado.",
+   "severity": "media"
+  },
+  {
+   "i": 18,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou suspeita de nepotismo em nomeações do prefeito de Arroio do Silva",
+   "description": "O Ministério Público investigou uma suposta prática de nepotismo pelo prefeito de Balneário Arroio do Silva nas nomeações do diretor de compras e dos secretários de Finanças e de Saúde. O MP registrou que, segundo jurisprudência consolidada, a Súmula Vinculante 13 do STF não se aplica a cargos políticos, salvo se ficar comprovada falta de capacidade técnica ou inidoneidade moral do nomeado. O extrato publicado está cortado e o desfecho do caso não está claro.",
+   "severity": "media"
+  },
+  {
+   "i": 19,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 20,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP leva à Justiça o caso do loteamento irregular Miraflores, em Arroio do Silva",
+   "description": "O Ministério Público apurou, na área ambiental, a irregularidade do Loteamento Miraflores em Balneário Arroio do Silva, envolvendo o município, Wadis e Alda Nartecia Dall'Oglio e a empresa Temar Empreendimentos Imobiliários. A tentativa de resolver a questão fora dos tribunais não deu resultado. O inquérito evoluiu para uma Ação Civil Pública, que agora tramita na Justiça e ainda não tem decisão.",
+   "severity": "media"
+  },
+  {
+   "i": 21,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP viu falha formal na punição de servidora, mas não caracterizou improbidade",
+   "description": "O Ministério Público apurou a suposta falta de responsabilização de uma servidora de Balneário Arroio do Silva acusada de desvio funcional por diretoras de creche. Ouvidas as diretoras e a própria investigada, o MP concluiu que os fatos não tinham a gravidade descrita na representação e que a administração agiu dentro da razoabilidade, com orientação verbal à servidora. O MP considerou irregular a informalidade, por não seguir o estatuto dos servidores municipais, mas registrou que a ilegalidade por si só não configura improbidade.",
+   "severity": "media"
+  },
+  {
+   "i": 22,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Após cobrança do MP, professores passaram a bater ponto na hora-atividade",
+   "description": "O Ministério Público apurou a denúncia de que professores da rede municipal ficavam ausentes das escolas e centros infantis durante suas horas-atividade, em Araranguá, Balneário Arroio do Silva e Maracajá. O MP recomendou aos três municípios que fiscalizassem o cumprimento dessas horas conforme a legislação local. Os municípios acataram e passaram a controlar a jornada por ponto eletrônico, e o inquérito foi arquivado.",
+   "severity": "media"
+  },
+  {
+   "i": 23,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 24,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou ordem de chamamento em processo seletivo e não achou irregularidade",
+   "description": "O Ministério Público investigou uma suposta irregularidade na ordem de convocação dos aprovados para o cargo de servente de escola no Processo Seletivo n. 01/2023 de Balneário Arroio do Silva. O município comprovou que não houve irregularidade e que a candidata que reclamou não compareceu à convocação para escolha das vagas disponíveis. Sem preterição comprovada, o MP dispensou o ajuizamento de ação civil pública e arquivou o caso.",
+   "severity": "media",
+   "status": "🟢 arquivado"
+  },
+  {
+   "i": 25,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Acordo com o MP encerra caso de desmatamento de Mata Atlântica em Arroio do Silva",
+   "description": "O Ministério Público apurou dano ambiental em Balneário Arroio do Silva com a supressão de vegetação nativa secundária do bioma Mata Atlântica, fora de área de preservação permanente, atingindo espécies ameaçadas de extinção. O caso envolveu Berenice Santos Gomes Fontanella e o município. Foi celebrado um Termo de Ajustamento de Conduta, e o inquérito foi encerrado.",
+   "severity": "media"
+  },
+  {
+   "i": 26,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 27,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 28,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 29,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 30,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 31,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP flagrou falha no monitoramento da água em Arroio do Silva e município regularizou",
+   "description": "O Ministério Público apurou a omissão da Prefeitura de Balneário Arroio do Silva no monitoramento da qualidade da água e na atualização do cadastro das soluções alternativas de abastecimento no sistema de vigilância. A situação foi regularizada durante o procedimento: o município passou a alimentar corretamente o sistema SISAGUA e a coletar amostras de água enviadas a laboratórios credenciados. Sanadas as irregularidades, o inquérito foi arquivado sem ação judicial.",
+   "severity": "media"
+  },
+  {
+   "i": 32,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 33,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 34,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 35,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Arroio do Silva tinha 1.300 pedidos de conserto de luz parados; MP cobrou e sobraram 100",
+   "description": "O Ministério Público apurou a demora do Município de Balneário Arroio do Silva na manutenção da iluminação pública, após denúncia de morador. Em 2020, havia mais de 1.300 protocolos de reclamação em aberto. Com a atuação do município ao longo da investigação, o número caiu para cerca de 100 solicitações pendentes ao final de 2023, com prazo médio de atendimento de 20 a 30 dias. Corrigida a falha, o inquérito foi arquivado.",
+   "severity": "media"
+  },
+  {
+   "i": 36,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 37,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP acompanhou parcelamento irregular de terrenos em Arroio do Silva até a regularização",
+   "description": "O Ministério Público apurou, na área ambiental, um possível parcelamento irregular de dois imóveis urbanos em Balneário Arroio do Silva. Durante o procedimento, o município concluiu a regularização das áreas por meio de processos de REURB social e específica. Com o objeto resolvido, o inquérito foi arquivado.",
+   "severity": "media"
+  },
+  {
+   "i": 38,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 39,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 40,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP confirmou superlotação em ônibus escolares de Arroio do Silva; município corrigiu",
+   "description": "O Ministério Público investigou denúncia de superlotação no transporte escolar de Balneário Arroio do Silva e a constatação foi positiva: os ônibus levavam mais passageiros que o permitido, em desacordo com o Código de Trânsito e com portaria do Detran. O município agiu para sanar o problema e obteve nova autorização de transporte escolar junto ao Detran. Uma diligência do MP confirmou que a superlotação não persistia, e o inquérito foi arquivado.",
+   "severity": "alta"
+  },
+  {
+   "i": 41,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP vai à Justiça para fechar clínica de internação irregular em Arroio do Silva",
+   "description": "O Ministério Público apurou o funcionamento da comunidade terapêutica Crebs, em Balneário Arroio do Silva, que acolhia pessoas para tratamento psiquiátrico. A investigação constatou diversas irregularidades e que o serviço opera em desconformidade com as normas. O caso virou ação judicial, na qual o MP pede o encerramento das atividades da comunidade terapêutica e a condenação da entidade, solidariamente com o município, à transferência dos internos. A ação está em curso.",
+   "severity": "alta"
+  },
+  {
+   "i": 42,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Esgoto clandestino deixava praia de Arroio do Silva imprópria; ligações foram lacradas",
+   "description": "O Ministério Público acompanhou a situação do Ponto 17 de balneabilidade em Balneário Arroio do Silva, considerado impróprio para banho pela presença de coliformes fecais. Após vistoria e intervenção do município, ligações clandestinas de esgoto foram lacradas e o ponto voltou a ser próprio para banho. Sem motivo para continuar a investigação, o inquérito foi arquivado.",
+   "severity": "media"
+  },
+  {
+   "i": 43,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP achou temporários além do prazo legal; prefeitura exonerou servidores",
+   "description": "O Ministério Público apurou a concessão supostamente indevida de abono de produção a servidores de Balneário Arroio do Silva e a manutenção de servidores temporários por tempo maior que o permitido. Ficou constatado que o prazo das contratações extrapolou o limite da lei complementar municipal. Após recomendação do MP, o município fez as adequações necessárias e exonerou os servidores. O extrato indica que não houve enriquecimento ilícito nem dano comprovado; o texto oficial está truncado no desfecho.",
+   "severity": "media"
+  },
+  {
+   "i": 44,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou loteamento no Morro dos Conventos e não viu irregularidade fundiária",
+   "description": "O Ministério Público investigou alegação de irregularidade fundiária no Loteamento Morro dos Conventos Zona Nova, em Balneário Arroio do Silva. O MP verificou que o registro do loteamento é anterior à lei de parcelamento do solo de 1979 e que a aprovação municipal e o registro imobiliário estavam comprovados. A falta de individualização dos lotes, por si só, não configura irregularidade, e a ocupação já está consolidada. Sem fundamento para ação civil pública, o caso foi arquivado.",
+   "severity": "media"
+  },
+  {
+   "i": 45,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP processa na Justiça destruição de restinga nativa em Arroio do Silva",
+   "description": "O Ministério Público apurou a destruição de vegetação primária do bioma Mata Atlântica — restinga herbácea — na Avenida Santa Catarina, no Loteamento Santa Helena, em Balneário Arroio do Silva, em caso que envolve o município e Moisés Fontana Machado. A tentativa de resolver a questão fora dos tribunais foi infrutífera. O inquérito evoluiu para ação civil pública, ainda sem decisão.",
+   "severity": "media"
+  },
+  {
+   "i": 46,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Arroio do Silva não tinha educação especial; prefeitura assina acordo com MP",
+   "description": "O Ministério Público apurou o descumprimento da Lei Orgânica de Balneário Arroio do Silva quanto à oferta de educação inclusiva. A investigação constatou que o município não criou lei específica de atendimento a pessoas com deficiência, não contratou profissionais especializados em educação especial e não criou o departamento correspondente na Secretaria de Educação. O Executivo municipal firmou Termo de Ajustamento de Conduta com o MP para corrigir a situação, cujo cumprimento passou a ser acompanhado.",
+   "severity": "alta"
+  },
+  {
+   "i": 47,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 48,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP pede na Justiça a destituição de conselheira tutelar de Arroio do Silva",
+   "description": "O Ministério Público apurou a conduta da conselheira tutelar Alice Teresinha de Matos Ribeiro, do Conselho Tutelar de Balneário Arroio do Silva, acusada de orientar pais e responsáveis atendidos — inclusive na presença de adolescente — a usar agressão física como forma de educação. A constatação foi positiva. O procedimento virou ação judicial, na qual o MP pede a destituição dela do cargo por condutas vedadas e consideradas falta funcional pela lei municipal. A ação está em curso.",
+   "severity": "alta"
+  },
+  {
+   "i": 49,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Após cobrança do MP, filas de cirurgia do SUS em Arroio do Silva passaram a ser públicas",
+   "description": "O Ministério Público investigou como eram divulgadas e controladas as filas de espera por cirurgias e exames do SUS nos municípios da comarca de Araranguá, incluindo Balneário Arroio do Silva. Depois de lei estadual regulamentar o tema, o MP recomendou providências aos três municípios, e todos acataram. As filas foram vinculadas ao sistema SISGESC e publicadas na internet, com link e orientações nos sites municipais, garantindo acesso aos pacientes.",
+   "severity": "media"
+  },
+  {
+   "i": 50,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Regra de Arroio do Silva barrava engenheiros de fora; MP cobrou e prefeitura corrigiu",
+   "description": "O Ministério Público apurou que o código de obras de Balneário Arroio do Silva vinha sendo interpretado de modo a limitar a atuação de engenheiros e arquitetos, exigindo na prática filial no município e cobrança de ISS fixo anual. A administração municipal reconheceu a prática irregular e corrigiu o procedimento, o que foi comprovado por circular. O inquérito foi arquivado.",
+   "severity": "media"
+  },
+  {
+   "i": 51,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP corrigiu internações psiquiátricas irregulares em Arroio do Silva e processou Araranguá",
+   "description": "O Ministério Público constatou prestação irregular do serviço de internação involuntária para tratamento psiquiátrico e de dependência química nos municípios de Araranguá, Balneário Arroio do Silva e Maracajá. O MP recomendou que os municípios diferenciassem os dois tipos de internação e seguissem a deliberação estadual sobre o tema. Balneário Arroio do Silva e Maracajá acataram a recomendação; contra Araranguá, o MP ajuizou ação civil pública. O inquérito foi arquivado na parte já resolvida.",
+   "severity": "media"
+  },
+  {
+   "i": 52,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 53,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Máquinas públicas em terreno particular rendem acordo de reparação em Arroio do Silva",
+   "description": "O Ministério Público apurou o uso de máquinas públicas de Balneário Arroio do Silva por particulares e constatou que o maquinário foi empregado em propriedade particular mediante autorização do então Secretário de Obras. O caso envolveu Augusto Hahn e Jaime Silveira da Silva. Foi celebrado Acordo de Não Persecução Cível com o beneficiário; o extrato publicado está truncado e não detalha as condições do acordo.",
+   "severity": "alta"
+  },
+  {
+   "i": 54,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 55,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Arroio do Silva assina acordo com MP para estruturar conselho da pessoa com deficiência",
+   "description": "O Ministério Público apurou que Araranguá, Balneário Arroio do Silva e Maracajá não haviam criado o Conselho Municipal dos Direitos das Pessoas com Deficiência. Os conselhos foram criados no curso da investigação. Com Balneário Arroio do Silva, o MP firmou Termo de Ajustamento de Conduta para que o conselho seja efetivamente estruturado e entre em funcionamento. Em Araranguá faltava apenas abrir a conta do fundo, e Maracajá ainda precisava estruturar o seu.",
+   "severity": "media"
+  },
+  {
+   "i": 56,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 57,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 58,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 59,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 60,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 61,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 62,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 63,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 64,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou falta de água no bairro Arpoador, em Arroio do Silva, e viu solução encaminhada",
+   "description": "O Ministério Público investigou, após reclamação de moradora, a possível deficiência no abastecimento de água no bairro Arpoador, em Balneário Arroio do Silva. As diligências mostraram que o município vinha atuando de forma suficiente para ampliar o serviço, com o plano municipal de saneamento prevendo a expansão do abastecimento ao bairro em até três anos. Há ainda nova concessão em curso, cujo edital prevê como meta levar água a até 99% da população. O inquérito foi arquivado.",
+   "severity": "media"
+  },
+  {
+   "i": 65,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  }
+ ],
+ "tce": [
+  {
+   "i": 0,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE rejeitou por intempestividade o recurso sobre as contas de 2020 de Arroio do Silva",
+   "description": "Foi apresentado pedido de reapreciação contra o Parecer Prévio n. 265/2021, que tratou da prestação de contas de 2020 do prefeito de Balneário Arroio do Silva. Em maio de 2022, o relator não conheceu o pedido porque ele foi protocolado fora do prazo legal, e determinou o arquivamento dos autos. O teor do parecer prévio não foi reexaminado, e a decisão publicada não permite afirmar qual foi esse teor.",
+   "severity": "media",
+   "status": "❔ em tramitação"
+  },
+  {
+   "i": 1,
+   "tipo": "tce",
+   "keep": true,
+   "title": "Ginásio desabou em Arroio do Silva e TCE aponta dano de R$ 1,2 milhão aos cofres",
+   "description": "O Tribunal de Contas converteu em Tomada de Contas Especial a apuração sobre o Contrato n. 96/2014 da Prefeitura de Balneário Arroio do Silva, para construção de um ginásio de esportes. Segundo o relatório técnico, a estrutura de cobertura foi executada em desacordo com o projeto, o que levou ao colapso da obra e a um dano ao erário de R$ 1.225.913,67. Em junho de 2022, a Corte definiu a responsabilidade solidária do engenheiro fiscal Richard Campos e da empresa Antares Empreendimentos e Serviços Ltda., citando os dois para apresentar defesa. O caso pode resultar em imputação de débito e multa.",
+   "severity": "alta",
+   "status": "🟡 em instrução (citação/audiência)"
+  },
+  {
+   "i": 2,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE não analisou recurso sobre as contas de 2020 do prefeito de Arroio do Silva",
+   "description": "O pedido de reapreciação do parecer prévio sobre a prestação de contas de 2020 do prefeito de Balneário Arroio do Silva não foi conhecido pelo Tribunal de Contas, por ter sido apresentado fora do prazo. Os autos foram arquivados em maio de 2022 sem exame do mérito. A decisão publicada não informa qual foi o teor do parecer prévio original.",
+   "severity": "media",
+   "status": "❔ em tramitação"
+  },
+  {
+   "i": 3,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE cobra prefeito de Arroio do Silva por contas da concessão da água, sob pena de multa",
+   "description": "Na auditoria sobre o contrato de concessão do Sistema de Abastecimento de Água de Balneário Arroio do Silva, o Tribunal de Contas reiterou decisões anteriores e deu 30 dias para que o prefeito Evandro Scaini apresente o fluxo de caixa completo da concessão, uma proposta de revisão do Plano Municipal de Saneamento Básico e a comprovação de que o município fiscaliza o serviço. O descumprimento pode gerar multa. Não houve, nesta decisão, aplicação de penalidade.",
+   "severity": "media",
+   "status": "🔴 apontou irregularidade"
+  },
+  {
+   "i": 4,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 5,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE achou irregular a não cobrança de IPTU do Hotel Scaini, mas o caso prescreveu",
+   "description": "A partir do relatório de uma Comissão Parlamentar de Inquérito, o Tribunal de Contas considerou irregular a omissão da Prefeitura de Balneário Arroio do Silva em cobrar o IPTU devido pelo contribuinte Hotel Scaini Ltda. nos exercícios de 2001 a 2009 — omissão que levou à prescrição dos créditos e à perda de receita pelo município. Em julho de 2023, porém, a própria Corte reconheceu a prescrição de suas pretensões de punir e de cobrar ressarcimento e arquivou os autos. Evandro Scaini, prefeito, e os demais apontados não foram responsabilizados.",
+   "severity": "media",
+   "status": "⬛ julgado irregular"
+  },
+  {
+   "i": 6,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE julgou improcedente queixa contra pregão de veículo em Arroio do Silva",
+   "description": "A empresa Belabru Comércio e Representações Ltda. representou contra o Pregão Presencial n. 063/2021 da Prefeitura de Balneário Arroio do Silva, para aquisição de veículo. Em junho de 2022, o Tribunal de Contas julgou a representação improcedente, por não ficar caracterizada irregularidade nos atos questionados. Ninguém foi responsabilizado.",
+   "severity": "media",
+   "status": "🟢 julgado regular"
+  },
+  {
+   "i": 7,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE dá parecer pela aprovação das contas de 2023 do prefeito de Arroio do Silva",
+   "description": "O Tribunal de Contas de Santa Catarina analisou a prestação de contas do prefeito de Balneário Arroio do Silva referente ao exercício de 2023 e emitiu parecer prévio pela aprovação. A decisão final sobre as contas cabe à Câmara de Vereadores.",
+   "severity": "media",
+   "status": "🟢 parecer pela aprovação"
+  },
+  {
+   "i": 8,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE dá parecer pela aprovação das contas de 2024 do prefeito de Arroio do Silva",
+   "description": "O Tribunal de Contas de Santa Catarina analisou a prestação de contas do prefeito de Balneário Arroio do Silva referente ao exercício de 2024 e emitiu parecer prévio pela aprovação, em agosto de 2025. A palavra final sobre as contas é da Câmara de Vereadores.",
+   "severity": "media",
+   "status": "🟢 parecer pela aprovação"
+  },
+  {
+   "i": 9,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE não conheceu representação contra concessão licitada por Arroio do Silva",
+   "description": "Uma representação questionou a Concorrência n. 16/2025 da Prefeitura de Balneário Arroio do Silva, referente a concessão de serviço público. Em maio de 2026, o Tribunal de Contas não conheceu a representação por não preencher os pressupostos de admissibilidade e determinou que os autos fossem vinculados a outro processo sobre a mesma concorrência. Não houve exame de mérito nem responsabilização.",
+   "severity": "media",
+   "status": "🟢 julgado regular"
+  },
+  {
+   "i": 10,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquivou representação da Duane do Brasil contra concessão em Arroio do Silva",
+   "description": "A empresa Duane do Brasil S.A., representada por Benony Schmitz Filho, questionou no Tribunal de Contas a Concorrência n. 16/2025 da Prefeitura de Balneário Arroio do Silva, que trata da concessão de um serviço público. Em maio de 2026, o TCE não conheceu a representação por não preencher os pressupostos de admissibilidade e determinou o arquivamento. Nenhuma irregularidade foi reconhecida.",
+   "severity": "media",
+   "status": "🟢 julgado regular"
+  },
+  {
+   "i": 11,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE julga irregular a lei de carreira dos professores de Arroio do Silva e cobra correção",
+   "description": "A inspeção do Tribunal de Contas em Balneário Arroio do Silva considerou irregulares duas situações: a existência de duas leis diferentes tratando do plano de carreira dos profissionais da educação básica, o que afeta o pagamento do piso salarial dos professores, e a falta de critérios para a participação da comunidade escolar na escolha dos diretores. Em janeiro de 2024, a Corte deu 180 dias para o prefeito Evandro Scaini corrigir as duas situações, alertando que o descumprimento pode gerar multa. Não houve penalidade nesta decisão.",
+   "severity": "media",
+   "status": "⬛ julgado irregular"
+  },
+  {
+   "i": 12,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquivou denúncia sobre falta de protesto de dívidas em Arroio do Silva",
+   "description": "Uma denúncia apontou que a Prefeitura de Balneário Arroio do Silva não usava o protesto extrajudicial para cobrar créditos do município. Em novembro de 2025, o Tribunal de Contas não conheceu a denúncia por não preencher os pressupostos de admissibilidade e determinou o arquivamento. O mérito não foi analisado e ninguém foi responsabilizado.",
+   "severity": "media",
+   "status": "🟢 julgado regular"
+  },
+  {
+   "i": 13,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 14,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE dá parecer pela aprovação das contas de 2021 do prefeito de Arroio do Silva",
+   "description": "O Tribunal de Contas de Santa Catarina analisou a prestação de contas do prefeito de Balneário Arroio do Silva referente ao exercício de 2021 e emitiu parecer prévio pela aprovação, em dezembro de 2022. A decisão final cabe à Câmara de Vereadores.",
+   "severity": "media",
+   "status": "🟢 parecer pela aprovação"
+  },
+  {
+   "i": 15,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE dá parecer pela aprovação das contas de 2022 do prefeito de Arroio do Silva",
+   "description": "O Tribunal de Contas de Santa Catarina analisou a prestação de contas do prefeito de Balneário Arroio do Silva referente ao exercício de 2022 e emitiu parecer prévio pela aprovação, em dezembro de 2023. A palavra final sobre as contas é da Câmara de Vereadores.",
+   "severity": "media",
+   "status": "🟢 parecer pela aprovação"
+  },
+  {
+   "i": 16,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  }
+ ]
+}

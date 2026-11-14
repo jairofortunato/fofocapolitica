@@ -1,0 +1,635 @@
+{
+ "cidade": "São Francisco do Sul",
+ "casos": [
+  {
+   "i": 560,
+   "tipo": "mp",
+   "ref": "01.2023.00028651-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2023.00028651-4",
+   "status": "🟡 em apuração",
+   "data": "31/07/2023",
+   "texto": "Renato Aurélio Sansão."
+  },
+  {
+   "i": 561,
+   "tipo": "mp",
+   "ref": "06.2018.00001552-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2018.00001552-0",
+   "status": "🟢 arquivado",
+   "data": "04/08/2023",
+   "texto": "Marcel Araújo de Oliveira. Conclusão: apurar eventual desídia do Delegado de Polícia Marcel Araújo de Oliveira no desempenho de suas funções na Delegacia de Polícia da Comarca de São Francisco do Sul. Fatos já investigados e punidos pela Secretaria de Estado da Segurança Pública. Arquivamento."
+  },
+  {
+   "i": 562,
+   "tipo": "mp",
+   "ref": "01.2023.00015723-3",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00015723-3",
+   "status": "🟢 arquivado",
+   "data": "18/08/2023",
+   "texto": "Delegacia de Polícia da Comarca de São Francisco do Sul. Conclusão: apurar eventual omissão da Polícia Civil de São Francisco do Sul no traslado de adolescentes privados de liberdade para a DPCAMI de Joinville. Ausência de omissão. Servidores afastados da unidade. Portaria Conjunta n. 001/SSP/SJC, de 25 de abril de 2018. Ausência de justa causa. Indeferimento de instauração de investigação."
+  },
+  {
+   "i": 563,
+   "tipo": "mp",
+   "ref": "01.2023.00034721-8",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00034721-8",
+   "status": "🟢 arquivado",
+   "data": "22/08/2023",
+   "texto": "Douglas Pereira Alcântara. Conclusão: Notícia de Fato. Controle Externo da Atividade Policial. Suposto atropelamento policial para realizar a prisão enquanto o alvo estava andando de bicicleta. Fatos inverídicos. Prisão regular. Abordado fugiu a pé. Estrito cumprimento dever legal. Indeferimento instauração de investigação."
+  },
+  {
+   "i": 564,
+   "tipo": "mp",
+   "ref": "01.2023.00032166-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2023.00032166-1",
+   "status": "🟡 em apuração",
+   "data": "23/08/2023",
+   "texto": "Valmir Vieira Barbosa."
+  },
+  {
+   "i": 565,
+   "tipo": "mp",
+   "ref": "01.2023.00035433-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2023.00035433-0",
+   "status": "🟡 em apuração",
+   "data": "31/08/2023",
+   "texto": "Adelir da Silva Vargas."
+  },
+  {
+   "i": 566,
+   "tipo": "mp",
+   "ref": "09.2023.00007369-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2023.00007369-1",
+   "status": "🟡 em apuração",
+   "data": "29/09/2023",
+   "texto": "a definir."
+  },
+  {
+   "i": 567,
+   "tipo": "mp",
+   "ref": "01.2023.00039230-2",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00039230-2",
+   "status": "❔ status indef.",
+   "data": "19/10/2023",
+   "texto": "Núcleo Especializado de Política Criminal e Execução Penal (NUPEP) e Presídio de São Francisco do Sul. Conclusão: apurar suposto incidente de violência sofrido por um recluso no Presídio Regional de São Francisco do Sul/SC. Ausência de provas dos fatos. Informação de que não existe servidor com o nome indicado pelo detento. Falta provas eventual abuso. Arquivo."
+  },
+  {
+   "i": 568,
+   "tipo": "mp",
+   "ref": "06.2023.00003560-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00003560-9",
+   "status": "🟡 em apuração",
+   "data": "24/10/2023",
+   "texto": "Ministério Público do Estado de Santa Catarina, New Trip - LF Agência de Viagend Ltda., Cristian Emanoel Frederico Serafim e Rose Cristina Cunha."
+  },
+  {
+   "i": 569,
+   "tipo": "mp",
+   "ref": "06.2022.00001028-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00001028-0",
+   "status": "🟢 arquivado",
+   "data": "24/11/2023",
+   "texto": "Ministério Público do Estado de Santa Catarina e CELESC. Conclusão: Inquérito Civil. Ausência de qualidade e retorno no atendimento prestado pela CELESC. Melhora comprovada durante trâmite procedimental. Inexistência de adoção de outras providências. Arquivamento."
+  },
+  {
+   "i": 570,
+   "tipo": "mp",
+   "ref": "06.2023.00004455-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00004455-2",
+   "status": "🟡 em apuração",
+   "data": "01/12/2023",
+   "texto": "Procuradoria da República de Joinville e Renato Aurélio Sansão."
+  },
+  {
+   "i": 571,
+   "tipo": "mp",
+   "ref": "06.2021.00004170-3",
+   "header": "· EXTRATO DE CONVERSÃO EM INQUÉRITO CIVIL DO PROCEDIMENTO PREPARATÓRIO N. 06.2021.00004170-3",
+   "status": "❔ status indef.",
+   "data": "04/12/2023",
+   "texto": "Associacao Comunitaria Desenvolvimento Inf e Seu Meio e Gisele da Silva Moreira."
+  },
+  {
+   "i": 572,
+   "tipo": "mp",
+   "ref": "01.2024.00001095-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00001095-5",
+   "status": "🟡 em apuração",
+   "data": "22/01/2024",
+   "texto": "Jair dos Santos e 27º Batalhão de Policia Militar do Estado de Santa Catarina."
+  },
+  {
+   "i": 573,
+   "tipo": "mp",
+   "ref": "06.2024.00000022-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000022-4",
+   "status": "🟡 em apuração",
+   "data": "22/01/2024",
+   "texto": "Valmir Vieira Barbosa e Hotel Fragata."
+  },
+  {
+   "i": 574,
+   "tipo": "mp",
+   "ref": "01.2023.00040289-4",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00040289-4",
+   "status": "🟢 arquivado",
+   "data": "23/01/2024",
+   "texto": "Conselho Tutelar de São Francisco do Sul e L. Y. D. L. Conclusão: Notícia de Fato. Indeferimento. Não constatada situação de risco. Atuação da rede de proteção suficiente para tutela dos direitos da infância e juventude. Apurar a suposta situação de risco enfrentada pela adolescente gestante L. Y. D. L. (D.N. 3/5/2009). Arquivamento."
+  },
+  {
+   "i": 575,
+   "tipo": "mp",
+   "ref": "01.2024.00000262-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00000262-2",
+   "status": "🟡 em apuração",
+   "data": "23/01/2024",
+   "texto": "Ministério Público de Santa Catarina e A. B. G. L."
+  },
+  {
+   "i": 576,
+   "tipo": "mp",
+   "ref": "01.2024.00001059-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00001059-9",
+   "status": "🟡 em apuração",
+   "data": "23/01/2024",
+   "texto": "CREAS - São Francisco do Sul e Terezinha de Fátima Less."
+  },
+  {
+   "i": 577,
+   "tipo": "mp",
+   "ref": "01.2024.00002149-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00002149-6",
+   "status": "🟡 em apuração",
+   "data": "24/01/2024",
+   "texto": "Leonel Almeida Machado e 27º Batalhão da Policia Militar de São Francisco do Sul."
+  },
+  {
+   "i": 578,
+   "tipo": "mp",
+   "ref": "06.2024.00000067-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00000067-9",
+   "status": "🟡 em apuração",
+   "data": "24/01/2024",
+   "texto": "Lucio Francisco Thomazelli."
+  },
+  {
+   "i": 579,
+   "tipo": "mp",
+   "ref": "06.2024.00000067-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00000067-9",
+   "status": "🟡 em apuração",
+   "data": "29/01/2024",
+   "texto": "Lucio Francisco Thomazelli."
+  },
+  {
+   "i": 580,
+   "tipo": "mp",
+   "ref": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE OUTRAS ATIVIDADES NÃO SUJEITAS A",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO DE OUTRAS ATIVIDADES NÃO SUJEITAS A",
+   "status": "🟡 em apuração",
+   "data": "06/02/2024",
+   "texto": "CREAS e Ministério Público de Santa Catarina."
+  },
+  {
+   "i": 581,
+   "tipo": "mp",
+   "ref": "01.2023.00046111-7",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00046111-7",
+   "status": "🟢 arquivado",
+   "data": "20/02/2024",
+   "texto": "CREAS e V. A. da C. Conclusão: Notícia de Fato - NF. Indeferimento. Apurar suposta situação de vulnerabilidade, bem como a necessidade de institucionalização da pessoa idosa, Sra. V. A da C. Idosa institucionalizada em vaga pública. Fatos solucionados com intervenção ministerial. Arquivamento."
+  },
+  {
+   "i": 582,
+   "tipo": "mp",
+   "ref": "06.2024.00000505-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000505-2",
+   "status": "🟡 em apuração",
+   "data": "07/03/2024",
+   "texto": "Adelir da Silva Vargas."
+  },
+  {
+   "i": 583,
+   "tipo": "mp",
+   "ref": "01.2024.00001282-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00001282-0",
+   "status": "🟢 arquivado",
+   "data": "21/03/2024",
+   "texto": "Ésio Matos Santiago e Estado de Santa Catarina. Conclusão: apurar suposta agressão praticada por Policiais Militares do 27º BPM/SFS, ainda não identificados, durante diligência referida no Registro 0911241/2023-BO-00087.2023.0001792, em 12/10/2023, às 19h15min, contra Fagner Renato da Cunha. Testemunha nega qualquer agressão por parte dos policiais. Ausência de elementos que corroborem a alegação de eventual abuso. Indeferimento da instauração de investigação."
+  },
+  {
+   "i": 584,
+   "tipo": "mp",
+   "ref": "01.2023.00030637-1",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00030637-1",
+   "status": "🟢 arquivado",
+   "data": "27/03/2024",
+   "texto": "Vera Lucia de Souza e Secretaria de Saúde de São Francisco do Sul. Conclusão: Notícia de Fato. Indeferimento. Representação para apurar suposta morosidade no agendamento de realização do procedimento na paciente Vera Lucia de Souza. Fatos solucionados. Arquivamento."
+  },
+  {
+   "i": 585,
+   "tipo": "mp",
+   "ref": "01.2023.00037605-7",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00037605-7",
+   "status": "🟢 arquivado",
+   "data": "27/03/2024",
+   "texto": "J. E. G. Conclusão: Notícia de Fato. Indeferimento. Apurar suposta morosidade no agendamento de consulta com o médico dermatologista, ao paciente J. E. G., para fins de análise da necessidade de intervenção cirúrgica. Ausência de lastro probatório para prosseguimento do procedimento. Noticiante que não atendeu à intimação para apresentar informações. Arquivamento."
+  },
+  {
+   "i": 586,
+   "tipo": "mp",
+   "ref": "01.2023.00047557-7",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00047557-7",
+   "status": "🟢 arquivado",
+   "data": "27/03/2024",
+   "texto": "Conselho Tutelar e CREAS de São Francisco do Sul. Conclusão: Notícia de Fato. Indeferimento. Representação para apurar eventual situação de risco enfrentada pela infante I. M. C., nascida em 1º/1/2018. Arquivamento."
+  },
+  {
+   "i": 587,
+   "tipo": "mp",
+   "ref": "01.2023.00047586-6",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00047586-6",
+   "status": "🟢 arquivado",
+   "data": "27/03/2024",
+   "texto": "CREAS e Secretaria de Saúde de São Francisco do Sul. Conclusão: Notícia de Fato. Indeferimento. Representação para apurar a situação de vulnerabilidade da pessoa com deficiência S. L. A. O., neste Município. Esclarecimentos apresentados. Arquivamento."
+  },
+  {
+   "i": 588,
+   "tipo": "mp",
+   "ref": "01.2023.00047708-6",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00047708-6",
+   "status": "🟢 arquivado",
+   "data": "27/03/2024",
+   "texto": "G. O. M. e Secretaria de Saúde de São Francisco do Sul. Conclusão: Notícia de Fato. Indeferimento. Representação para apurar suposta morosidade no agendamento de realização do procedimento Tireoidectomia Parcial na paciente adolescente G. O. M. (D.N. 31/5/2006). Arquivamento."
+  },
+  {
+   "i": 589,
+   "tipo": "mp",
+   "ref": "01.2023.00052973-6",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00052973-6",
+   "status": "🟢 arquivado",
+   "data": "27/03/2024",
+   "texto": "CRAS e CREAS de São Francisco do Sul. Conclusão: Notícia de Fato. Indeferimento. Representação para apurar a suposta vulnerabilidade do núcleo familiar de da pessoa idosa, Sra. Maria Laurinda Maia, que conta, atualmente, com 70 (setenta) anos de idade, que é mãe e cuida de seus filhos PcDs, Luciana da Silva Maia, Sheila da Silva Maia e Douglas da Silva Maia. Atuação da rede de proteção efetiva. Sem"
+  },
+  {
+   "i": 590,
+   "tipo": "mp",
+   "ref": "01.2024.00001059-9",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00001059-9",
+   "status": "🟢 arquivado",
+   "data": "27/03/2024",
+   "texto": "Terezinha de Fátima Less e CREAS de São Francisco do Sul. Conclusão: Notícia de Fato. Indeferimento. Representação para apurar suposta situação de vulnerabilidade de Terezinha de Fátima Less, ante a suposta negativa do CREAS em fornecer abrigo feminino. Ausência de risco. Arquivamento."
+  },
+  {
+   "i": 591,
+   "tipo": "mp",
+   "ref": "01.2024.00011136-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00011136-2",
+   "status": "🟡 em apuração",
+   "data": "27/03/2024",
+   "texto": "Conselho Tutelar e R.B.C."
+  },
+  {
+   "i": 592,
+   "tipo": "mp",
+   "ref": "01.2024.00011149-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00011149-5",
+   "status": "🟡 em apuração",
+   "data": "27/03/2024",
+   "texto": "Conselho Tutelar e R.B.C."
+  },
+  {
+   "i": 593,
+   "tipo": "mp",
+   "ref": "01.2024.00011352-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00011352-7",
+   "status": "🟡 em apuração",
+   "data": "27/03/2024",
+   "texto": "anônimo."
+  },
+  {
+   "i": 594,
+   "tipo": "mp",
+   "ref": "01.2023.00020494-3",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00020494-3",
+   "status": "🟢 arquivado",
+   "data": "02/04/2024",
+   "texto": "Luciano dos Santos. Conclusão: Notícia de Fato. Indeferimento. Representação com objeto de verificar a necessidade de internação compulsória de R. dos S. Paciente que não deseja tratamento médico. Presença de familiar apto a auxiliar o interessado, não sendo caso de internação compulsória. Ausência de lesão ou ameaça aos interesses ou direitos tutelados pelo Ministério Público. Familiares podem solicitar internação involuntária, se necessário for. Arquivamento."
+  },
+  {
+   "i": 595,
+   "tipo": "mp",
+   "ref": "01.2023.00037850-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00037850-0",
+   "status": "🟢 arquivado",
+   "data": "02/04/2024",
+   "texto": "E. M. dos S. e Conselho Tutelar. Conclusão: Notícia de Fato. Indeferimento. Representação para apurar as circunstâncias do suposto abuso sexual/estupro perpetrado, em tese, em face da infante E. M. dos S. (D.N. 14/9/2019). Arquivamento."
+  },
+  {
+   "i": 596,
+   "tipo": "mp",
+   "ref": "01.2023.00047708-6",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00047708-6",
+   "status": "🟢 arquivado",
+   "data": "02/04/2024",
+   "texto": "G. O. M. e Secretaria de Saúde de São Francisco do Sul. Conclusão: Notícia de Fato. Indeferimento. Representação para apurar suposta morosidade no agendamento de realização do procedimento tireoidectomia parcial à paciente adolescente G. O. M. (D.N. 31/5/2006). Arquivamento."
+  },
+  {
+   "i": 597,
+   "tipo": "mp",
+   "ref": "01.2023.00052086-7",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00052086-7",
+   "status": "🟢 arquivado",
+   "data": "02/04/2024",
+   "texto": "E. V. P. F. e Conselho Tutelar. Conclusão: Notícia de Fato. Indeferimento. Representação para apurar possível situação de risco enfrentada pela adolescente E. V. P. F., nascida em 20/12/2009. Arquivamento."
+  },
+  {
+   "i": 598,
+   "tipo": "mp",
+   "ref": "01.2023.00043823-8",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00043823-8",
+   "status": "🟢 arquivado",
+   "data": "04/04/2024",
+   "texto": "M.R.D.O. Conclusão: Notícia de Fato. Indeferimento. Representação com objeto de Apurar a situação de risco enfrentada M.R.D.O., nascida em 17/5/2021. Arquivamento."
+  },
+  {
+   "i": 599,
+   "tipo": "mp",
+   "ref": "01.2023.00014005-3",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00014005-3",
+   "status": "🟢 arquivado",
+   "data": "05/04/2024",
+   "texto": "Maria Olanda da Silveira. Conclusão: Notícia de Fato. Indeferimento. Representação com objeto de apurar suposta negativa de atendimento médico hospitalar ao idoso J. L. R. A. Arquivamento."
+  },
+  {
+   "i": 600,
+   "tipo": "mp",
+   "ref": "01.2024.00012381-4",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00012381-4",
+   "status": "🟢 arquivado",
+   "data": "05/04/2024",
+   "texto": "Wandrielly Keully Costa de França. Conclusão: Notícia de Fato. Indeferimento. Representação com objeto de internação. Arquivamento."
+  },
+  {
+   "i": 601,
+   "tipo": "mp",
+   "ref": "01.2024.00012582-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00012582-3",
+   "status": "🟡 em apuração",
+   "data": "05/04/2024",
+   "texto": "Ministério Público e Conselho Tutelar."
+  },
+  {
+   "i": 602,
+   "tipo": "mp",
+   "ref": "01.2023.00035054-5",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00035054-5",
+   "status": "🟢 arquivado",
+   "data": "08/04/2024",
+   "texto": "Tatiana Nogueira Krapp e Hospital e Maternidade Municipal Nossa Senhora da Graça. Conclusão: Notícia de Fato. Indeferimento. Ausência de justa causa. Sem lastro probatório. Representação para apurar suposta negativa do Hospital e Maternidade Nossa Senhora da Graça em proceder curativo em paciente. Arquivamento."
+  },
+  {
+   "i": 603,
+   "tipo": "mp",
+   "ref": "01.2023.00044683-8",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00044683-8",
+   "status": "🟢 arquivado",
+   "data": "08/04/2024",
+   "texto": "Marinete Alves de Sousa. Conclusão: Notícia de Fato. Indeferimento. Representação com objeto de apurar a suposta situação de risco enfrentada pela PcD, Senhora M. A. de S. Arquivamento."
+  },
+  {
+   "i": 604,
+   "tipo": "mp",
+   "ref": "01.2023.00046235-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00046235-0",
+   "status": "🟢 arquivado",
+   "data": "08/04/2024",
+   "texto": "Luciana Polimeno Cantareli e Secretaria de Saúde de São Francisco do Sul. Conclusão: Notícia de Fato. Indeferimento. Representação para apurar suposta morosidade no agendamento de realização da consulta médica com especialista na área de endocrinologista à paciente Luciana Polimeno Cantareli. Sem urgência. Impossibilidade de burlar a lista de espera do SUS. Arquivamento."
+  },
+  {
+   "i": 605,
+   "tipo": "mp",
+   "ref": "01.2023.00047626-5",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00047626-5",
+   "status": "🟢 arquivado",
+   "data": "09/04/2024",
+   "texto": "Wilson João da Silva e Secretaria de Saúde de São Francisco do Sul. Conclusão: Notícia de Fato. Indeferimento. Representação para apurar suposta morosidade no agendamento do fornecimento da consulta em ortopedia - quadril -, bem como da realização do procedimento de cirurgia de \"astroplastia total primaria do quadril não cimentada\" (prótese do quadril idoso), Senhor Wilson João da Silva, nascido em 18/1/1958 (CNS n. 706700755760120). Sem urgência. Impossibilidade de burlar a lista de espera do SUS. Arquivamento."
+  },
+  {
+   "i": 606,
+   "tipo": "mp",
+   "ref": "01.2023.00047904-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00047904-0",
+   "status": "🟢 arquivado",
+   "data": "09/04/2024",
+   "texto": "Sebastião Tadeu Nogueira e F. Andreis e Cia. Ltda. Conclusão: Notícia de Fato. Indeferimento. Esclarecimentos prestados. Representação para apurar denúncia que indica que pessoas acima de 65 anos estão sendo cobradas para fazer a travessia na Balsa Vila da Glória, empresa F. Andreis. Ausência de ameaça ou lesão de direito. Sem justa causa. Arquivamento."
+  },
+  {
+   "i": 607,
+   "tipo": "mp",
+   "ref": "01.2024.00016953-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N.01.2024.00016953-3",
+   "status": "🟡 em apuração",
+   "data": "30/04/2024",
+   "texto": "Conselho Tutelar de São Francisco do Sul, Mateus Costa da Cruz, Maria Gabriela Gonçalves e H. G. C."
+  },
+  {
+   "i": 608,
+   "tipo": "mp",
+   "ref": "01.2024.00014998-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00014998-1",
+   "status": "🟡 em apuração",
+   "data": "06/05/2024",
+   "texto": "Dalmo Vieira Filho e Fundação Catarinense de Cultura."
+  },
+  {
+   "i": 609,
+   "tipo": "mp",
+   "ref": "01.2024.00018828-5",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00018828-5",
+   "status": "❔ status indef.",
+   "data": "13/05/2024",
+   "texto": "27º Batalhão de Polícia Militar do Estado de Santa Catarina. Conclusão: analisar a necessidade de requerimento de autorização judicial para busca e apreensão nas residências de dois indivíduos com Mandados de Prisão ativos. Ambos indivíduos atualmente presos. Perda objeto."
+  },
+  {
+   "i": 610,
+   "tipo": "mp",
+   "ref": "01.2023.00047263-6",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00047263-6",
+   "status": "🟢 arquivado",
+   "data": "14/05/2024",
+   "texto": "M. R. de O. e Conselho Tutelar de São Francisco do Sul. Conclusão: Notícia de Fato. Indeferimento. Análise de situação de risco de infante. Atuação eficaz da rede de proteção. Ausência de risco iminente. Representação para apurar eventual situação de risco enfrentada pela infante M. R. de O., nascida em 17/5/2021. Acompanhamento contínuo da Rede de Proteção. Arquivamento."
+  },
+  {
+   "i": 611,
+   "tipo": "mp",
+   "ref": "01.2024.00000262-2",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00000262-2",
+   "status": "🟢 arquivado",
+   "data": "14/05/2024",
+   "texto": "A. B. G. L. e Conselho Tutelar de São Francisco do Sul. Conclusão: Notícia de Fato. Indeferimento. Alegações de negligência e maus-tratos. Avaliação e intervenção dos Órgãos de Proteção Social. Adequação das Medidas Tomadas. Representação com objeto de apurar possível situação de risco vivenciada pela infante A. B. G. L. Sem situação de risco. Acompanhamento contínuo da Rede de Proteção. Arquivamento."
+  },
+  {
+   "i": 612,
+   "tipo": "mp",
+   "ref": "01.2024.00011136-2",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00011136-2",
+   "status": "🟢 arquivado",
+   "data": "14/05/2024",
+   "texto": "R. B. M. e Conselho Tutelar de São Francisco do Sul. Conclusão: Notícia de Fato. Indeferimento. Análise de situação de risco de infante. Atuação eficaz da rede de proteção. Afastamento do agressor. Apurar situação de risco vivenciada por infante, por conta de suposta de violência sexual perpetrada contra R. B. M., nascida em 11/10/2016. Acompanhamento contínuo da Rede de Proteção. Arquivamento."
+  },
+  {
+   "i": 613,
+   "tipo": "mp",
+   "ref": "01.2024.00019360-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00019360-0",
+   "status": "🟢 arquivado",
+   "data": "15/05/2024",
+   "texto": "Conselho Tutelar. Conclusão: Notícia de Fato - NF. Indeferimento. Representação com objeto de apurar relato de adolescente sobre conduta de padrasto. Arquivamento."
+  },
+  {
+   "i": 614,
+   "tipo": "mp",
+   "ref": "01.2023.00045747-9",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00045747-9",
+   "status": "🟢 arquivado",
+   "data": "16/05/2024",
+   "texto": "Rosa Lídia Machado Bernardo e CREAS de São Francisco do Sul. Conclusão: Notícia de Fato - NF. Indeferimento. Cidadania. Idoso. Alocação em Lar de Idosos. Ausência de risco. Representação para apurar situação de risco supostamente enfrentada por pessoa idosa, Sra. Rosa Lídia Machado Bernardo. Arquivamento."
+  },
+  {
+   "i": 615,
+   "tipo": "mp",
+   "ref": "01.2023.00052069-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00052069-0",
+   "status": "🟢 arquivado",
+   "data": "16/05/2024",
+   "texto": "Belioniza Maria Cruz e Osni Barbosa. Conclusão: Notícia de Fato - NF. Indeferimento. Possível vulnerabilidade de PCD. Representação para apurar a suposta situação de risco enfrentada pela pessoa com deficiência, Sr. Osni Barbosa. Ausência de condição de deficiência e adequado encaminhamento para redes de apoio social. Atuação adequada da rede de assistência social municipal. Arquivamento."
+  },
+  {
+   "i": 616,
+   "tipo": "mp",
+   "ref": "01.2024.00019228-9",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00019228-9",
+   "status": "🟢 arquivado",
+   "data": "16/05/2024",
+   "texto": "S. S. S. e Promotoria de Justiça de Registro/SP. Conclusão: Notícia de Fato. Indeferimento. Direito da Criança e do Adolescente. Abuso sexual. Representação para apurar situação de risco vivenciada por S. S. S., nascida em 29/7/2007, vítima de suposto abuso sexual. Medidas protetivas efetivadas e acompanhamento social garantido. Não se verifica situação de risco iminente para a menor, afastada do agressor e residindo com o pai em local distinto do ocorrido. Arquivamento."
+  },
+  {
+   "i": 617,
+   "tipo": "mp",
+   "ref": "01.2024.00019231-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00019231-2",
+   "status": "🟡 em apuração",
+   "data": "17/05/2024",
+   "texto": "N. S. B."
+  },
+  {
+   "i": 618,
+   "tipo": "mp",
+   "ref": "01.2024.00020836-5",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00020836-5",
+   "status": "🟢 arquivado",
+   "data": "23/05/2024",
+   "texto": "D. P. B. e Conselho Tutelar de São Francisco do Sul. Conclusão: Notícia de Fato - NF. Indeferimento. Direito da Criança e do Adolescente. Abuso Sexual. Representação para apurar"
+  },
+  {
+   "i": 619,
+   "tipo": "mp",
+   "ref": "01.2024.00020944-2",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00020944-2",
+   "status": "🟢 arquivado",
+   "data": "23/05/2024",
+   "texto": "Francisco Cardoso. Conclusão: Notícia de Fato. Indeferimento. Representação com objeto de considerações finais sobre tarifa TCL São Francisco do Sul. Arquivamento."
+  },
+  {
+   "i": 620,
+   "tipo": "mp",
+   "ref": "01.2024.00021125-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00021125-9",
+   "status": "🟡 em apuração",
+   "data": "27/05/2024",
+   "texto": "CREAS - São Francisco do Sul e Ministério Público."
+  },
+  {
+   "i": 621,
+   "tipo": "mp",
+   "ref": "01.2024.00021160-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00021160-4",
+   "status": "🟡 em apuração",
+   "data": "28/05/2024",
+   "texto": "L. K. N., L. K. N. e Conselho Tutelar de São Francisco do Sul."
+  },
+  {
+   "i": 622,
+   "tipo": "mp",
+   "ref": "01.2024.00022685-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00022685-2",
+   "status": "🟡 em apuração",
+   "data": "04/06/2024",
+   "texto": "M.L.C."
+  },
+  {
+   "i": 623,
+   "tipo": "mp",
+   "ref": "01.2024.00017122-8",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00017122-8",
+   "status": "🟢 arquivado",
+   "data": "18/06/2024",
+   "texto": "Helio Franzoi e Secretaria de Saúde de São Francisco do Sul. Conclusão: Notícia de Fato. Indeferimento. Representação para apurar suposta demora na fila de espera para realização de procedimento designado para o idoso Helio Franzoi. Sem urgência. Impossibilidade de burla à lista de espera. Arquivamento."
+  },
+  {
+   "i": 624,
+   "tipo": "mp",
+   "ref": "01.2024.00017124-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00017124-0",
+   "status": "🟢 arquivado",
+   "data": "18/06/2024",
+   "texto": "Rogério Joaquim Varim e Secretaria de Saúde de São Francisco do Sul. Conclusão: Notícia de Fato. Indeferimento. Representação para apurar suposta demora na fila de espera para realização de procedimento designado para Rogério Joaquim Varim. Sem urgência. Impossibilidade de burla à lista de espera. Arquivamento."
+  },
+  {
+   "i": 625,
+   "tipo": "mp",
+   "ref": "06.2024.00001626-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00001626-0",
+   "status": "🟡 em apuração",
+   "data": "20/06/2024",
+   "texto": "Município e ADR Empreendimentos Ltda."
+  },
+  {
+   "i": 626,
+   "tipo": "mp",
+   "ref": "01.2023.00042807-3",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00042807-3",
+   "status": "🟢 arquivado",
+   "data": "28/06/2024",
+   "texto": "Janete Vieira de Carvalho e Secretaria de Saúde de São Francisco do Sul. Conclusão: Notícia de Fato - NF. Indeferimento. Representação para apurar suposta morosidade no agendamento de realização do exame de arteriografia cerebral à paciente Janete Vieira de Carvalho. Sem urgência. Equidade. Impossibilidade de burla à fila do SUS. Arquivamento."
+  },
+  {
+   "i": 627,
+   "tipo": "mp",
+   "ref": "01.2023.00046923-1",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00046923-1",
+   "status": "🟢 arquivado",
+   "data": "28/06/2024",
+   "texto": "C. V. C. e Conselho Tutelar de São Francisco do Sul. Conclusão: Notícia de Fato - NF. Indeferimento. Alegações de negligência e maus-tratos. Avaliação e intervenção dos Órgãos de Proteção Social. Adequação das Medidas Tomadas. Representação para apurar possível situação de risco vivenciada pela infante C. V. C. Sem situação de risco. Acompanhamento contínuo da Rede de Proteção. Arquivamento."
+  },
+  {
+   "i": 628,
+   "tipo": "mp",
+   "ref": "06.2024.00000083-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00000083-5",
+   "status": "🟡 em apuração",
+   "data": "24/07/2024",
+   "texto": "Edson Bohn."
+  },
+  {
+   "i": 629,
+   "tipo": "mp",
+   "ref": "06.2024.00000324-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00000324-3",
+   "status": "🟡 em apuração",
+   "data": "24/07/2024",
+   "texto": "SULBRASIL Incorporacao Ltda."
+  }
+ ]
+}

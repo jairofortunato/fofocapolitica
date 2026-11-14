@@ -1,0 +1,328 @@
+[0m
+> build · gpt-5.4-mini
+[0m
+Vou ler o critério obrigatório e os três lotes, depois curar caso a caso e gravar cada JSON na pasta `_lotes_curados` antes de seguir para o próximo.
+[0m→ [0mRead pdf_template/CURADORIA.md
+[0m→ [0mRead pdf_template/amunesc/_lotes/sao_bento_do_sul__3.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/sao_bento_do_sul__4.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/sao_bento_do_sul__2.json
+Já tenho o critério. Agora vou fechar a leitura completa dos três lotes para separar instâncias iniciais, duplicatas e fases mais avançadas antes de gravar os curados.
+[0m→ [0mRead pdf_template/amunesc/_lotes/sao_bento_do_sul__3.json[90m [offset=412, limit=500][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes/sao_bento_do_sul__4.json[90m [offset=231, limit=500][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes/sao_bento_do_sul__4.json[90m [offset=441, limit=500][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes/sao_bento_do_sul__4.json[90m [offset=671, limit=300][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes/sao_bento_do_sul__3.json[90m [offset=648, limit=400][0m
+A maioria dos registros é fase inicial, duplicata ou aposentadoria rotineira, então vou marcar corte nesses pontos e concentrar `keep:true` só nos casos com fato descrito e interesse público real. Em seguida gravo cada lote curado.
+[0m✱ [0mGlob "pdf_template/amunesc/_lotes_curados"[90m in . · 0 matches[0m
+[0m
+[0m$ [0mls
+_build
+_curated_data
+_logs
+_lotes
+_lotes_curados
+assets
+cores.json
+financas.json
+[0m
+[0m✱ [0mGlob "pdf_template/amunesc/_lotes_curados/*.json"[90m in . · 21 matches[0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/sao_bento_do_sul__0.json[90m [offset=1, limit=40][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/sao_bento_do_sul__1.json[90m [offset=1, limit=40][0m
+Vou gravar os três JSON curados agora, com `false` para as instâncias sem substância ou duplicadas e `true` só onde o texto sustenta o card.
+[0m
+[0m$ [0mpython - <<'PY'
+import json
+from pathlib import Path
+
+base = Path('/Users/jairofortunato/mp/pdf_template/amunesc')
+inputs = {
+    'sao_bento_do_sul__2.json': base / '_lotes' / 'sao_bento_do_sul__2.json',
+    'sao_bento_do_sul__3.json': base / '_lotes' / 'sao_bento_do_sul__3.json',
+    'sao_bento_do_sul__4.json': base / '_lotes' / 'sao_bento_do_sul__4.json',
+}
+outputs = base / '_lotes_curados'
+outputs.mkdir(exist_ok=True)
+
+def mk(keep, title='', description='', status='', severity='media'):
+    return {'keep': keep, 'title': title, 'description': description, 'status': status, 'severity': severity}
+
+curated = {
+    'sao_bento_do_sul__2.json': {
+        4: mk(True, 'TCE abre audiência sobre edital de pneus em São Bento do Sul', 'O Tribunal converteu a notícia em representação e apontou exigência irregular de gravação DOT no edital. A cautelar foi negada e o caso seguiu para audiência do agente de contratação.', '🟡 em instrução (citação/audiência)'),
+        6: mk(True, 'TCE multa Magno Bollmann por não fiscalizar carga horária de médico', 'O Tribunal considerou irregular a falta de verificação da carga horária do médico Manuel Rodriguez Del Olmo entre 2009 e 2016. Magno Bollmann recebeu multa.', '⬛ julgado irregular + multa', 'alta'),
+        7: mk(True, 'TCE arquiva auditoria da iluminação pública e recomenda ajustes', 'A auditoria tratou do planejamento da concessão e da execução dos serviços de iluminação pública. O Tribunal considerou cumprida a decisão anterior, recomendou ajustes e arquivou o processo.', '🟢 julgado regular'),
+        11: mk(True, 'TCE mantém irregularidade e multa na contratação da FAEPESUL', 'A Tomada de Contas Especial concluiu que a contratação da FAEPESUL por dispensa de licitação foi irregular. O Tribunal julgou as contas irregulares e aplicou multa.', '⬛ julgado irregular + multa', 'alta'),
+        12: mk(True, 'TCE converte PAP em denúncia sobre publicidade institucional', 'O procedimento virou denúncia sobre publicidade governamental com nomes e imagens de autoridades. A cautelar foi indeferida e a instrução continuou.', '🟡 em instrução (citação/audiência)'),
+        13: mk(True, 'TCE vê irregularidade em inexigibilidade para consultoria da nova lei', 'O Tribunal considerou parcialmente procedente a representação sobre a inexigibilidade de licitação para contratar consultoria jurídica em São Bento do Sul. Houve recomendação ao município e reconhecimento de irregularidade.', '⬛ julgado irregular'),
+        144: mk(True, 'MP ajuíza ação civil contra William Cesar Ziembikiewicz e o município', 'O inquérito civil terminou com ajuizamento de ação civil pública. O extrato não traz o fato concreto apurado, então o card só registra o desfecho processual.', '🔴 ACP ajuizada'),
+        147: mk(True, 'MP firma TAC com transporte coletivo sobre acessibilidade', 'O inquérito apurava o cumprimento das normas de acessibilidade pela Empresa e Transporte Coletivo Rainha. O TAC foi aditado e o caso foi arquivado.', '🟠 TAC firmado'),
+        148: mk(True, 'MP arquiva caso sobre chefe de divisão sem qualificação técnica', 'O MP apurou a ocupação do cargo por Jairo Elói Muller e concluiu que havia exercício efetivo das atividades, omissão na lei municipal e exoneração superveniente. O arquivamento foi proposto.', '🟢 arquivado'),
+        150: mk(True, 'MP arquiva apuração sobre atraso em PADs de médicos municipais', 'O procedimento tratou das providências do município para concluir PADs ligados ao descumprimento de carga horária por médicos. O objeto perdeu o sentido e o caso foi arquivado.', '🟢 arquivado'),
+        151: mk(True, 'MP arquiva caso sobre acessibilidade na escola Coronel Osny Vasconcelos', 'A fiscalização constatou que a reforma total da escola regularizou as falhas de acessibilidade. O objeto se esgotou e o caso foi arquivado.', '🟢 arquivado'),
+        152: mk(True, 'MP arquiva apuração sobre dano ambiental em Campo Alegre', 'O MP apurou dano ambiental em propriedade privada e registrou a implementação do PRAD após autuação da Polícia Ambiental. As medidas administrativas foram consideradas suficientes.', '🟢 arquivado'),
+        154: mk(True, 'MP ajuíza ação sobre demora em consultas de fonoaudiologia', 'O inquérito apurou demora excessiva no atendimento de fonoaudiologia para crianças e adolescentes. Houve ajuizamento de ação civil pública para regularizar os atendimentos.', '🔴 ACP ajuizada', 'alta'),
+        155: mk(True, 'MP cobra atendimento prioritário a crianças e adolescentes na saúde', 'O procedimento tratou da precedência de atendimento nos serviços públicos de saúde e a recomendação não foi acatada. O MP ajuizou ação civil pública para garantir o atendimento.', '🔴 ACP ajuizada', 'alta'),
+        156: mk(True, 'MP homologa TAC para proteção de crianças autistas', 'O aditamento ao TAC ampliou a proteção dos direitos de crianças e adolescentes com TEA. O problema foi solucionado e o caso foi arquivado.', '🟠 TAC firmado'),
+        157: mk(True, 'MP arquiva caso sobre desmembramento de imóvel rural', 'O inquérito concluiu que o imóvel se adequava à Lei Complementar 11/2023. Sem fundamento para ação, o caso foi arquivado.', '🟢 arquivado'),
+        164: mk(True, 'MP arquiva apuração sobre acessibilidade do Colégio Global', 'As inspeções e adequações pontuais mostraram que não havia lesão aos direitos dos alunos com deficiência. O objeto se esgotou e o caso foi arquivado.', '🟢 arquivado'),
+        167: mk(True, 'MP arquiva caso sobre ausências de professora e rotatividade em sala', 'O inquérito apurava ausências da docente e a rotatividade excessiva de professores. A profissional foi readaptada e o caso foi arquivado.', '🟢 arquivado'),
+        171: mk(True, 'MP arquiva reclamação sobre qualidade da TIM em São Bento do Sul', 'O MP concluiu que os fatos não foram confirmados e que a operadora atendia aos parâmetros da ANATEL. O caso foi arquivado.', '🟢 arquivado'),
+        172: mk(True, 'MP arquiva caso sobre plantão do Hospital Sagrada Família', 'O inquérito tratou de supostas irregularidades no pronto atendimento do hospital. As questões restantes foram vistas como isoladas ou já solucionadas, e o caso foi arquivado.', '🟢 arquivado'),
+        173: mk(True, 'MP arquiva apuração sobre deslizamento e atuação da Defesa Civil', 'O inquérito examinou a liberação de residências após deslizamento e a classificação de risco. Como o objeto se perdeu, o caso foi arquivado.', '🟢 arquivado'),
+        174: mk(True, 'MP arquiva caso sobre ILPI Maria Luiza após adequações', 'A entidade providenciou as adequações exigidas e o estudo social não apontou violações de direitos dos idosos. O MP arquivou o procedimento.', '🟢 arquivado'),
+        177: mk(True, 'MP arquiva apuração sobre o pronto atendimento do Sagrada Família', 'O procedimento reuniu informação criminal e extrajudicial sobre atendimento e prontuário de paciente. O objeto foi esgotado e o caso acabou arquivado.', '🟢 arquivado'),
+        178: mk(True, 'MP arquiva caso sobre desmembramento de imóvel rural em área urbana', 'O MP entendeu que a transformação do imóvel se enquadrava na exceção do Código Florestal. O caso foi arquivado.', '🟢 arquivado'),
+        181: mk(True, 'MP arquiva apuração sobre adicional de periculosidade no SAMAE', 'O inquérito apurou suposto pagamento ilegal de adicional de periculosidade, mas o erro no cadastro não confirmou a irregularidade inicial. O caso foi arquivado.', '🟢 arquivado'),
+        184: mk(True, 'MP firma TAC sobre intervenção em APP em São Bento do Sul', 'O investigado celebrou TAC e o MP entendeu não haver fundamento para ação judicial. O inquérito foi arquivado.', '🟠 TAC firmado'),
+        185: mk(True, 'MP firma TAC sobre movimentação irregular de terra para obra da Havan', 'O TAC foi firmado com os investigados e o MP encerrou o caso sem ação judicial. O inquérito foi arquivado.', '🟠 TAC firmado'),
+        188: mk(True, 'MP ajuíza ação sobre irregularidades em ILPI de São Bento do Sul', 'O MP apurou irregularidades no funcionamento da ILPI Cuidar Bem e encerrou o inquérito com ação civil pública para fechar a entidade e afastar o responsável técnico.', '🔴 ACP ajuizada', 'alta'),
+        189: mk(True, 'MP arquiva caso sobre ILPI sem autorização em São Bento do Sul', 'O procedimento tratou da instituição de longa permanência e da mudança do estabelecimento para outro município. O MP concluiu que não havia necessidade de seguir com a investigação.', '🟢 arquivado'),
+        193: mk(True, 'MP firma TAC com casa noturna sem alvará em São Bento do Sul', 'A ausência de licença para funcionamento foi confirmada e o estabelecimento firmou TAC para cessar a atividade até a regularização. O caso foi arquivado.', '🟠 TAC firmado'),
+        194: mk(True, 'MP arquiva caso sobre ruídos do Deck Lanches', 'O ente municipal adotou providências para resolver a questão dos ruídos e o MP concluiu pela ausência de interesse de agir. O caso foi arquivado.', '🟢 arquivado'),
+        195: mk(True, 'MP firma TAC sobre supressão de vegetação no imóvel rural', 'Os investigados firmaram TAC para a supressão de vegetação nativa em Campo Alegre. O caso foi arquivado após a composição.', '🟠 TAC firmado'),
+        197: mk(True, 'MP firma TAC com Plaza Bier por funcionar sem licença', 'O MP confirmou a ausência de alvará para casa noturna e firmou TAC para cessar a atividade sem licença. O caso foi arquivado.', '🟠 TAC firmado'),
+        199: mk(True, 'MP arquiva apuração sobre medicamentos oncológicos no hospital', 'O procedimento discutia o custeio de medicamentos oncológicos prescritos no Hospital e Maternidade Sagrada Família. O texto aponta a responsabilidade do hospital habilitado e o caso foi arquivado.', '🟢 arquivado', 'alta'),
+        205: mk(True, 'MP arquiva caso sobre ILPI após correções sugeridas', 'A entidade de longa permanência adotou todas as providências sugeridas e a problemática foi considerada resolvida. O MP arquivou o caso.', '🟢 arquivado'),
+        206: mk(True, 'MP arquiva caso sobre contratação da Dalltor pelo Consórcio Quiriri', 'O MP não viu indícios de burla à licitação e registrou que o serviço foi efetivamente prestado. O caso foi arquivado.', '🟢 arquivado'),
+    },
+    'sao_bento_do_sul__3.json': {
+        210: mk(True, 'MP arquiva caso sobre interdição no IGP de São Bento do Sul', 'A interdição da sala de exames e necropsia foi superada com a posterior desinterdição e a providência para a sede própria. O caso foi arquivado.', '🟢 arquivado'),
+        211: mk(True, 'MP firma TAC com optometristas e instituto em São Bento do Sul', 'O MP tratou da atuação de optometristas no Instituto Optométrico dos Olhos e firmou TAC após fixar o entendimento sobre a atividade. O caso foi encerrado com acordo.', '🟠 TAC firmado'),
+        214: mk(True, 'MP arquiva caso sobre credenciamento do CFC Universal', 'O MP concluiu que a cassação do credenciamento só transitou em julgado depois e que a relação marital citada não configurava ilegalidade. O caso foi arquivado.', '🟢 arquivado'),
+        215: mk(True, 'MP firma TAC e exige devolução ao FIA após palestra paga com recursos públicos', 'O caso tratou de palestra custeada com recursos do FIA e de suposta falha na prestação do serviço. O TAC previu restituição dos valores ao fundo.', '🟠 TAC firmado', 'alta'),
+        216: mk(True, 'MP leva acordo de não persecução civil à homologação', 'O procedimento terminou com ajuizamento de ação para homologar o acordo de não persecução civil. O caso foi encerrado nessa etapa.', '🟠 ACNP firmado'),
+        218: mk(True, 'MP firma TAC sobre obra sem alvará ligada a rinha de galos', 'A construção irregular foi regularizada por TAC, com proibição de uso antes da regularização e pagamento pecuniário. O caso foi arquivado.', '🟠 TAC firmado'),
+        224: mk(True, 'MP arquiva caso sobre alimentação de presos na delegacia', 'A edição de resolução transferiu os presos para Mafra e o MP entendeu desnecessário seguir com TAC ou ação. O caso foi arquivado.', '🟢 arquivado'),
+        234: mk(True, 'MP arquiva caso sobre acessibilidade da Polícia Civil', 'O prédio da Polícia Civil passou por reformas e adaptações para atender às normas de acessibilidade. O Ministério Público arquivou o caso.', '🟢 arquivado'),
+        237: mk(True, 'MP encerra acompanhamento da extinção da Fundação Saturno', 'O MP passou a acompanhar a extinção judicial da fundação e considerou desnecessária a manutenção deste procedimento. O objeto foi perdido e o caso foi encerrado.', '🟢 arquivado'),
+    },
+    'sao_bento_do_sul__4.json': {
+        4: mk(True, 'TCE abre audiência sobre pregão de pneus em São Bento do Sul', 'O Tribunal conheceu a representação sobre o Pregão 136/2023 e apontou exigência de DOT na lateral do pneu como restrição indevida. A cautelar foi negada e foi aberta audiência.', '🟡 em instrução (citação/audiência)'),
+        6: mk(True, 'TCE multa Magno Bollmann por omissão na fiscalização médica', 'O Tribunal considerou irregular a ausência de verificação da carga horária do médico Manuel Rodriguez Del Olmo. Houve multa ao ex-prefeito.', '⬛ julgado irregular + multa', 'alta'),
+        7: mk(True, 'TCE arquiva auditoria da iluminação pública e recomenda ajustes', 'O relatório tratou do cumprimento da decisão anterior sobre a iluminação pública. O Tribunal considerou o item cumprido, recomendou ajustes e arquivou o processo.', '🟢 julgado regular'),
+        11: mk(True, 'TCE mantém irregularidade e multa na contratação da FAEPESUL', 'A Tomada de Contas Especial confirmou a irregularidade na dispensa que contratou a FAEPESUL. O Tribunal julgou as contas irregulares e aplicou multa.', '⬛ julgado irregular + multa', 'alta'),
+        12: mk(True, 'TCE converte PAP em denúncia sobre publicidade institucional', 'O processo tratou de possível irregularidade na publicidade governamental de São Bento do Sul. A cautelar foi indeferida e a instrução prosseguiu.', '🟡 em instrução (citação/audiência)'),
+        13: mk(True, 'TCE vê irregularidade em inexigibilidade para consultoria jurídica', 'O Tribunal considerou parcialmente procedente a representação sobre a contratação de escritório de advocacia para capacitação e consultoria. Houve irregularidade reconhecida, com recomendações ao município.', '⬛ julgado irregular'),
+        25: mk(True, 'TCE arquiva representação sobre a concessão do transporte coletivo', 'A representação foi julgada improcedente na fase final e o processo acabou arquivado. O Tribunal não acolheu as irregularidades apontadas no edital.', '🟢 julgado regular'),
+        28: mk(True, 'TCE arquiva denúncia sobre patrocínio da Expo São Bento 2025', 'A denúncia sobre patrocínio e uso de bens públicos no evento não foi conhecida por falta de seletividade. O pedido cautelar também foi prejudicado.', '❔ não conhecido (sem análise)'),
+        29: mk(True, 'TCE multa gestores por irregularidades na pavimentação asfáltica', 'O Tribunal considerou irregulares atos ligados às obras de pavimentação e aplicou multas aos responsáveis. O processo tratou de dano e falhas na execução do projeto.', '⬛ julgado irregular + multa', 'alta'),
+        31: mk(True, 'TCE multa José Ermínio Grein por falhas no pregão da Expo 2023', 'A representação foi parcialmente procedente e o Tribunal considerou irregulares as exigências de habilitação do pregão. Houve multa ao secretário responsável.', '⬛ julgado irregular + multa', 'alta'),
+        34: mk(True, 'TCE recebe representação sobre pregão de material odontológico', 'A representação foi conhecida e o Tribunal pediu diligências sobre o pregão de manutenção de equipamentos de saúde. A cautelar foi indeferida nesta etapa.', '🟡 em instrução (citação/audiência)'),
+        35: mk(True, 'TCE arquiva pregão do ERP após revogação, mas alerta sobre sobrepreço', 'O edital foi revogado e o Tribunal arquivou os autos. Mesmo assim, deixou alertas sobre sobrepreço e pontos frágeis do projeto.', '🟢 julgado regular'),
+        36: mk(True, 'TCE arquiva denúncia sobre pregão de auxílio-alimentação', 'A representação não foi conhecida por ausência de indícios suficientes e o processo foi arquivado.', '❔ não conhecido (sem análise)'),
+        38: mk(True, 'TCE aponta falhas na concorrência de esgoto do SAMAE', 'O relatório sobre a concorrência pública do esgoto apontou exigências restritivas e outras falhas no edital. O caso seguiu com cautelar e audiência.', '🟠 cautelar / sustação'),
+        44: mk(True, 'TCE pede documentos sobre assessores jurídicos comissionados', 'O procedimento apura a nomeação de assessores jurídicos comissionados na Procuradoria Jurídica. O Tribunal determinou diligência e a instrução continua.', '🟡 em instrução (citação/audiência)'),
+        45: mk(True, 'TCE apura horas extras de assistente social em Presidente Getúlio', 'O processo discutiu pagamento de horas extras e possível acumulação com função de confiança. O Tribunal postergou a cautelar e abriu oitiva.', '🟡 em instrução (citação/audiência)'),
+        46: mk(True, 'TCE arquiva análise do transporte coletivo e recomenda ajustes', 'O relatório sobre o planejamento da concessão do transporte público concluiu com recomendações técnicas. O processo foi arquivado.', '🟢 julgado regular'),
+        47: mk(True, 'TCE abre diligência sobre rádio e possíveis despesas fictas', 'A representação apontou contratação de emissora sem regularidade e possíveis pagamentos fictos. O Tribunal conheceu o caso e determinou diligência.', '🟡 em instrução (citação/audiência)'),
+        48: mk(True, 'TCE abre diligência sobre manutenção de equipamentos de saúde', 'A representação questiona o pregão de manutenção de equipamentos médicos e odontológicos. O Tribunal conheceu o caso e determinou diligência sobre a empresa e a ata.', '🟡 em instrução (citação/audiência)'),
+        49: mk(True, 'TCE pune assessores jurídicos comissionados em São Bento do Sul', 'O Tribunal considerou irregular a emissão de pareceres por assessores comissionados em área reservada à advocacia pública. O processo foi arquivado após a decisão.', '⬛ julgado irregular'),
+        51: mk(True, 'TCE arquiva monitoramento da meta de educação e cobra continuidade', 'O relatório de inspeção tratou do monitoramento da estratégia 17.5 da educação. O Tribunal aprovou o plano de ação e arquivou o processo.', '🟢 julgado regular'),
+        56: mk(True, 'TCE não conhece representação sobre pregão de auxílio-alimentação', 'A representação foi rejeitada por falha de admissibilidade e o processo foi arquivado.', '❔ não conhecido (sem análise)'),
+        57: mk(True, 'TCE multa Magno Bollmann por omissão na verificação de médico', 'A denúncia foi julgada irregular e o Tribunal aplicou multa ao ex-prefeito pela falta de fiscalização da carga horária do servidor médico.', '⬛ julgado irregular + multa', 'alta'),
+        58: mk(True, 'TCE arquiva auditoria da iluminação pública', 'O relatório constatou cumprimento da decisão anterior e apenas fez recomendações técnicas. O processo foi arquivado.', '🟢 julgado regular'),
+        59: mk(True, 'TCE arquiva chamamento público de peça teatral por falta de seletividade', 'O PAP foi arquivado sem análise de mérito porque não passou na seletividade. O Tribunal apenas recomendou cuidados para futuras parcerias.', '❔ não conhecido (sem análise)'),
+        60: mk(True, 'TCE arquiva denúncia sobre exercício de função pública', 'A denúncia foi rejeitada por ausência de indícios de irregularidade. O processo foi arquivado.', '❔ não conhecido (sem análise)'),
+        61: mk(True, 'TCE arquiva denúncia sobre cargos em confiança', 'O Tribunal não conheceu a denúncia por falhas de admissibilidade e arquivou os autos.', '❔ não conhecido (sem análise)'),
+        62: mk(True, 'TCE arquiva representação sobre dispensa eletrônica no IPRESBS', 'A representação não passou na etapa de seletividade e foi arquivada.', '❔ não conhecido (sem análise)'),
+        63: mk(True, 'TCE arquiva PAP sobre contratação temporária de auxiliares de educador', 'O procedimento foi arquivado por não atender à seletividade, embora tenha rendido alerta ao controle interno.', '❔ não conhecido (sem análise)'),
+        65: mk(True, 'TCE confirma irregularidade em tomada de preços da escola', 'A representação sobre a tomada de preços 332/2021 foi julgada procedente e a irregularidade apontada foi confirmada.', '⬛ julgado irregular'),
+        66: mk(True, 'TCE arquiva PAP sobre suspensão de processo seletivo e contratação de médicos', 'O procedimento foi arquivado por falta de seletividade. O Tribunal recomendou convocar os aprovados do concurso.', '❔ não conhecido (sem análise)'),
+        70: mk(True, 'TCE arquiva denúncia sobre cargos comissionados declarados', 'A representação não foi conhecida por falta de seletividade e os autos foram arquivados.', '❔ não conhecido (sem análise)'),
+        73: mk(True, 'TCE arquiva representação sobre gestão da EMHAB', 'A representação foi rejeitada por ausência de documentos e indícios mínimos. O processo foi arquivado.', '❔ não conhecido (sem análise)'),
+        74: mk(True, 'TCE abre diligência sobre emissora de rádio contratada pelo SAMAE', 'A representação foi conhecida e o Tribunal pediu documentos sobre contrato, execução e regularidade da empresa. A instrução segue aberta.', '🟡 em instrução (citação/audiência)'),
+        76: mk(True, 'TCE arquiva PAP sobre concorrência pública de esgoto', 'O PAP não passou na seletividade e foi arquivado, com recomendações ao controle interno.', '❔ não conhecido (sem análise)'),
+        78: mk(True, 'TCE arquiva denúncia sobre convocação de professor de violão', 'O Tribunal arquivou o procedimento por falta de elementos de convicção sobre irregularidade na nomeação.', '🟢 julgado regular'),
+        80: mk(True, 'TCE reconhece prescrição em incentivo a empresas e mantém irregularidades', 'O recurso revisou as despesas com incentivo para instalação de empresas em São Bento do Sul. O Tribunal reconheceu a irregularidade e também a prescrição da pretensão ressarcitória.', '⚫ prescrito', 'alta'),
+        83: mk(True, 'TCE analisa pedido de revisão sobre incentivo a empresas', 'O pedido de revisão discute o acórdão que tratou dos incentivos econômicos pagos pelo município. O texto mostrado é ainda de admissibilidade e redistribuição.', '❔ em tramitação'),
+        87: mk(True, 'TCE considera regular processo seletivo da educação em São Bento do Sul', 'A inspeção considerou legal o processo seletivo e apenas recomendou providências para reduzir contratações temporárias no futuro.', '🟢 julgado regular'),
+        92: mk(True, 'TCE dá prazo para corrigir progressão funcional em aposentadoria', 'O Tribunal apontou irregularidade na progressão funcional usada no cálculo da aposentadoria e deu prazo para correção. O caso segue em instrução.', '🟡 em instrução (citação/audiência)'),
+        93: mk(True, 'TCE arquiva PAP sobre programa de pavimentação comunitária', 'O procedimento foi arquivado por não atender à seletividade e o Tribunal apenas enviou cópia ao controle interno.', '❔ não conhecido (sem análise)'),
+        95: mk(True, 'TCE confirma enquadramento ilegal em aposentadoria de servidora', 'O Tribunal negou o registro da aposentadoria de Maurian Grohskopf Sadowski por enquadramento irregular em cargo efetivo. O caso foi considerado ilegal.', '⬛ julgado irregular'),
+        96: mk(True, 'TCE mantém negativa de registro da aposentadoria de José Ervino Zimmer', 'A decisão reiterou que o enquadramento do servidor foi irregular e manteve a negativa de registro do ato. O caso foi considerado ilegal.', '⬛ julgado irregular'),
+        97: mk(True, 'TCE julga irregular falta de envio de dados da liberdade econômica', 'O Tribunal considerou irregular a ausência de envio das informações sobre a adequação municipal à lei da liberdade econômica. O processo foi arquivado após a decisão.', '⬛ julgado irregular'),
+        99: mk(True, 'TCE dá prazo para corrigir progressão funcional em aposentadoria', 'O Tribunal apontou irregularidade na progressão funcional usada no cálculo da aposentadoria e deu prazo para a adequação. O caso segue em instrução.', '🟡 em instrução (citação/audiência)'),
+    },
+}
+
+for name, src in inputs.items():
+    data = json.loads(src.read_text())
+    out = []
+    keep_count = 0
+    alta_count = 0
+    for case in data['casos']:
+        cur = curated.get(name, {}).get(case['i'])
+        if cur is None:
+            item = {'i': case['i'], 'tipo': case['tipo'], 'keep': False, 'title': '', 'description': '', 'status': '', 'severity': 'media'}
+        else:
+            item = {'i': case['i'], 'tipo': case['tipo'], **cur}
+            keep_count += 1
+            if cur['severity'] == 'alta':
+                alta_count += 1
+        out.append(item)
+    (outputs / name).write_text(json.dumps(out, ensure_ascii=False, indent=2) + '\n')
+    print(name, 'cases=', len(out), 'keep_true=', keep_count, 'alta=', alta_count)
+PY
+zsh:1: command not found: python
+[0m
+O ambiente não tem `python` no PATH; vou repetir com `python3` e então conferir os totais gerados.
+[0m$ [0mpython3 - <<'PY'
+import json
+from pathlib import Path
+
+base = Path('/Users/jairofortunato/mp/pdf_template/amunesc')
+inputs = {
+    'sao_bento_do_sul__2.json': base / '_lotes' / 'sao_bento_do_sul__2.json',
+    'sao_bento_do_sul__3.json': base / '_lotes' / 'sao_bento_do_sul__3.json',
+    'sao_bento_do_sul__4.json': base / '_lotes' / 'sao_bento_do_sul__4.json',
+}
+outputs = base / '_lotes_curados'
+outputs.mkdir(exist_ok=True)
+
+def mk(keep, title='', description='', status='', severity='media'):
+    return {'keep': keep, 'title': title, 'description': description, 'status': status, 'severity': severity}
+
+curated = {
+    'sao_bento_do_sul__2.json': {
+        4: mk(True, 'TCE abre audiência sobre edital de pneus em São Bento do Sul', 'O Tribunal converteu a notícia em representação e apontou exigência irregular de gravação DOT no edital. A cautelar foi negada e o caso seguiu para audiência do agente de contratação.', '🟡 em instrução (citação/audiência)'),
+        6: mk(True, 'TCE multa Magno Bollmann por não fiscalizar carga horária de médico', 'O Tribunal considerou irregular a falta de verificação da carga horária do médico Manuel Rodriguez Del Olmo entre 2009 e 2016. Magno Bollmann recebeu multa.', '⬛ julgado irregular + multa', 'alta'),
+        7: mk(True, 'TCE arquiva auditoria da iluminação pública e recomenda ajustes', 'A auditoria tratou do planejamento da concessão e da execução dos serviços de iluminação pública. O Tribunal considerou cumprida a decisão anterior, recomendou ajustes e arquivou o processo.', '🟢 julgado regular'),
+        11: mk(True, 'TCE mantém irregularidade e multa na contratação da FAEPESUL', 'A Tomada de Contas Especial concluiu que a contratação da FAEPESUL por dispensa de licitação foi irregular. O Tribunal julgou as contas irregulares e aplicou multa.', '⬛ julgado irregular + multa', 'alta'),
+        12: mk(True, 'TCE converte PAP em denúncia sobre publicidade institucional', 'O procedimento virou denúncia sobre publicidade governamental com nomes e imagens de autoridades. A cautelar foi indeferida e a instrução continuou.', '🟡 em instrução (citação/audiência)'),
+        13: mk(True, 'TCE vê irregularidade em inexigibilidade para consultoria da nova lei', 'O Tribunal considerou parcialmente procedente a representação sobre a inexigibilidade de licitação para contratar consultoria jurídica em São Bento do Sul. Houve recomendação ao município e reconhecimento de irregularidade.', '⬛ julgado irregular'),
+        147: mk(True, 'MP firma TAC com transporte coletivo sobre acessibilidade', 'O inquérito apurava o cumprimento das normas de acessibilidade pela Empresa e Transporte Coletivo Rainha. O TAC foi aditado e o caso foi arquivado.', '🟠 TAC firmado'),
+        148: mk(True, 'MP arquiva caso sobre chefe de divisão sem qualificação técnica', 'O MP apurou a ocupação do cargo por Jairo Elói Muller e concluiu que havia exercício efetivo das atividades, omissão na lei municipal e exoneração superveniente. O arquivamento foi proposto.', '🟢 arquivado'),
+        150: mk(True, 'MP arquiva apuração sobre atraso em PADs de médicos municipais', 'O procedimento tratou das providências do município para concluir PADs ligados ao descumprimento de carga horária por médicos. O objeto perdeu o sentido e o caso foi arquivado.', '🟢 arquivado'),
+        151: mk(True, 'MP arquiva caso sobre acessibilidade na escola Coronel Osny Vasconcelos', 'A fiscalização constatou que a reforma total da escola regularizou as falhas de acessibilidade. O objeto se esgotou e o caso foi arquivado.', '🟢 arquivado'),
+        152: mk(True, 'MP arquiva apuração sobre dano ambiental em Campo Alegre', 'O MP apurou dano ambiental em propriedade privada e registrou a implementação do PRAD após autuação da Polícia Ambiental. As medidas administrativas foram consideradas suficientes.', '🟢 arquivado'),
+        154: mk(True, 'MP ajuíza ação sobre demora em consultas de fonoaudiologia', 'O inquérito apurou demora excessiva no atendimento de fonoaudiologia para crianças e adolescentes. Houve ajuizamento de ação civil pública para regularizar os atendimentos.', '🔴 ACP ajuizada', 'alta'),
+        155: mk(True, 'MP cobra atendimento prioritário a crianças e adolescentes na saúde', 'O procedimento tratou da precedência de atendimento nos serviços públicos de saúde e a recomendação não foi acatada. O MP ajuizou ação civil pública para garantir o atendimento.', '🔴 ACP ajuizada', 'alta'),
+        156: mk(True, 'MP homologa TAC para proteção de crianças autistas', 'O aditamento ao TAC ampliou a proteção dos direitos de crianças e adolescentes com TEA. O problema foi solucionado e o caso foi arquivado.', '🟠 TAC firmado'),
+        157: mk(True, 'MP arquiva caso sobre desmembramento de imóvel rural', 'O inquérito concluiu que o imóvel se adequava à Lei Complementar 11/2023. Sem fundamento para ação, o caso foi arquivado.', '🟢 arquivado'),
+        164: mk(True, 'MP arquiva apuração sobre acessibilidade do Colégio Global', 'As inspeções e adequações pontuais mostraram que não havia lesão aos direitos dos alunos com deficiência. O objeto se esgotou e o caso foi arquivado.', '🟢 arquivado'),
+        167: mk(True, 'MP arquiva caso sobre ausências de professora e rotatividade em sala', 'O inquérito apurava ausências da docente e a rotatividade excessiva de professores. A profissional foi readaptada e o caso foi arquivado.', '🟢 arquivado'),
+        171: mk(True, 'MP arquiva reclamação sobre qualidade da TIM em São Bento do Sul', 'O MP concluiu que os fatos não foram confirmados e que a operadora atendia aos parâmetros da ANATEL. O caso foi arquivado.', '🟢 arquivado'),
+        172: mk(True, 'MP arquiva caso sobre plantão do Hospital Sagrada Família', 'O inquérito tratou de supostas irregularidades no pronto atendimento do hospital. As questões restantes foram vistas como isoladas ou já solucionadas, e o caso foi arquivado.', '🟢 arquivado'),
+        173: mk(True, 'MP arquiva apuração sobre deslizamento e atuação da Defesa Civil', 'O inquérito examinou a liberação de residências após deslizamento e a classificação de risco. Como o objeto se perdeu, o caso foi arquivado.', '🟢 arquivado'),
+        174: mk(True, 'MP arquiva caso sobre ILPI Maria Luiza após adequações', 'A entidade providenciou as adequações exigidas e o estudo social não apontou violações de direitos dos idosos. O MP arquivou o procedimento.', '🟢 arquivado'),
+        177: mk(True, 'MP arquiva apuração sobre o pronto atendimento do Sagrada Família', 'O procedimento reuniu informação criminal e extrajudicial sobre atendimento e prontuário de paciente. O objeto foi esgotado e o caso acabou arquivado.', '🟢 arquivado'),
+        178: mk(True, 'MP arquiva caso sobre desmembramento de imóvel rural em área urbana', 'O MP entendeu que a transformação do imóvel se enquadrava na exceção do Código Florestal. O caso foi arquivado.', '🟢 arquivado'),
+        181: mk(True, 'MP arquiva apuração sobre adicional de periculosidade no SAMAE', 'O inquérito apurou suposto pagamento ilegal de adicional de periculosidade, mas o erro no cadastro não confirmou a irregularidade inicial. O caso foi arquivado.', '🟢 arquivado'),
+        184: mk(True, 'MP firma TAC sobre intervenção em APP em São Bento do Sul', 'O investigado celebrou TAC e o MP entendeu não haver fundamento para ação judicial. O inquérito foi arquivado.', '🟠 TAC firmado'),
+        185: mk(True, 'MP firma TAC sobre movimentação irregular de terra para obra da Havan', 'O TAC foi firmado com os investigados e o MP encerrou o caso sem ação judicial. O inquérito foi arquivado.', '🟠 TAC firmado'),
+        188: mk(True, 'MP ajuíza ação sobre irregularidades em ILPI de São Bento do Sul', 'O MP apurou irregularidades no funcionamento da ILPI Cuidar Bem e encerrou o inquérito com ação civil pública para fechar a entidade e afastar o responsável técnico.', '🔴 ACP ajuizada', 'alta'),
+        189: mk(True, 'MP arquiva caso sobre ILPI sem autorização em São Bento do Sul', 'O procedimento tratou da instituição de longa permanência e da mudança do estabelecimento para outro município. O MP concluiu que não havia necessidade de seguir com a investigação.', '🟢 arquivado'),
+        193: mk(True, 'MP firma TAC com casa noturna sem alvará em São Bento do Sul', 'A ausência de licença para funcionamento foi confirmada e o estabelecimento firmou TAC para cessar a atividade até a regularização. O caso foi arquivado.', '🟠 TAC firmado'),
+        194: mk(True, 'MP arquiva caso sobre ruídos do Deck Lanches', 'O ente municipal adotou providências para resolver a questão dos ruídos e o MP concluiu pela ausência de interesse de agir. O caso foi arquivado.', '🟢 arquivado'),
+        195: mk(True, 'MP firma TAC sobre supressão de vegetação no imóvel rural', 'Os investigados firmaram TAC para a supressão de vegetação nativa em Campo Alegre. O caso foi arquivado após a composição.', '🟠 TAC firmado'),
+        197: mk(True, 'MP firma TAC com Plaza Bier por funcionar sem licença', 'O MP confirmou a ausência de alvará para casa noturna e firmou TAC para cessar a atividade sem licença. O caso foi arquivado.', '🟠 TAC firmado'),
+        199: mk(True, 'MP arquiva apuração sobre medicamentos oncológicos no hospital', 'O procedimento discutia o custeio de medicamentos oncológicos prescritos no Hospital e Maternidade Sagrada Família. O texto aponta a responsabilidade do hospital habilitado e o caso foi arquivado.', '🟢 arquivado', 'alta'),
+        205: mk(True, 'MP arquiva caso sobre ILPI após correções sugeridas', 'A entidade de longa permanência adotou todas as providências sugeridas e a problemática foi considerada resolvida. O MP arquivou o caso.', '🟢 arquivado'),
+        206: mk(True, 'MP arquiva caso sobre contratação da Dalltor pelo Consórcio Quiriri', 'O MP não viu indícios de burla à licitação e registrou que o serviço foi efetivamente prestado. O caso foi arquivado.', '🟢 arquivado'),
+    },
+    'sao_bento_do_sul__3.json': {
+        210: mk(True, 'MP arquiva caso sobre interdição no IGP de São Bento do Sul', 'A interdição da sala de exames e necropsia foi superada com a posterior desinterdição e a providência para a sede própria. O caso foi arquivado.', '🟢 arquivado'),
+        211: mk(True, 'MP firma TAC com optometristas e instituto em São Bento do Sul', 'O MP tratou da atuação de optometristas no Instituto Optométrico dos Olhos e firmou TAC após fixar o entendimento sobre a atividade. O caso foi encerrado com acordo.', '🟠 TAC firmado'),
+        214: mk(True, 'MP arquiva caso sobre credenciamento do CFC Universal', 'O MP concluiu que a cassação do credenciamento só transitou em julgado depois e que a relação marital citada não configurava ilegalidade. O caso foi arquivado.', '🟢 arquivado'),
+        215: mk(True, 'MP firma TAC e exige devolução ao FIA após palestra paga com recursos públicos', 'O caso tratou de palestra custeada com recursos do FIA e de suposta falha na prestação do serviço. O TAC previu restituição dos valores ao fundo.', '🟠 TAC firmado', 'alta'),
+        216: mk(True, 'MP leva acordo de não persecução civil à homologação', 'O procedimento terminou com ajuizamento de ação para homologar o acordo de não persecução civil. O caso foi encerrado nessa etapa.', '🟠 ACNP firmado'),
+        218: mk(True, 'MP firma TAC sobre obra sem alvará ligada a rinha de galos', 'A construção irregular foi regularizada por TAC, com proibição de uso antes da regularização e pagamento pecuniário. O caso foi arquivado.', '🟠 TAC firmado'),
+        224: mk(True, 'MP arquiva caso sobre alimentação de presos na delegacia', 'A edição de resolução transferiu os presos para Mafra e o MP entendeu desnecessário seguir com TAC ou ação. O caso foi arquivado.', '🟢 arquivado'),
+        234: mk(True, 'MP arquiva caso sobre acessibilidade da Polícia Civil', 'O prédio da Polícia Civil passou por reformas e adaptações para atender às normas de acessibilidade. O Ministério Público arquivou o caso.', '🟢 arquivado'),
+        237: mk(True, 'MP encerra acompanhamento da extinção da Fundação Saturno', 'O MP passou a acompanhar a extinção judicial da fundação e considerou desnecessária a manutenção deste procedimento. O objeto foi perdido e o caso foi encerrado.', '🟢 arquivado'),
+    },
+    'sao_bento_do_sul__4.json': {
+        4: mk(True, 'TCE abre audiência sobre pregão de pneus em São Bento do Sul', 'O Tribunal conheceu a representação sobre o Pregão 136/2023 e apontou exigência de DOT na lateral do pneu como restrição indevida. A cautelar foi negada e foi aberta audiência.', '🟡 em instrução (citação/audiência)'),
+        6: mk(True, 'TCE multa Magno Bollmann por omissão na fiscalização médica', 'O Tribunal considerou irregular a ausência de verificação da carga horária do médico Manuel Rodriguez Del Olmo. Houve multa ao ex-prefeito.', '⬛ julgado irregular + multa', 'alta'),
+        7: mk(True, 'TCE arquiva auditoria da iluminação pública e recomenda ajustes', 'O relatório tratou do cumprimento da decisão anterior sobre a iluminação pública. O Tribunal considerou o item cumprido, recomendou ajustes e arquivou o processo.', '🟢 julgado regular'),
+        11: mk(True, 'TCE mantém irregularidade e multa na contratação da FAEPESUL', 'A Tomada de Contas Especial confirmou a irregularidade na dispensa que contratou a FAEPESUL. O Tribunal julgou as contas irregulares e aplicou multa.', '⬛ julgado irregular + multa', 'alta'),
+        12: mk(True, 'TCE converte PAP em denúncia sobre publicidade institucional', 'O processo tratou de possível irregularidade na publicidade governamental de São Bento do Sul. A cautelar foi indeferida e a instrução prosseguiu.', '🟡 em instrução (citação/audiência)'),
+        13: mk(True, 'TCE vê irregularidade em inexigibilidade para consultoria jurídica', 'O Tribunal considerou parcialmente procedente a representação sobre a contratação de escritório de advocacia para capacitação e consultoria. Houve irregularidade reconhecida, com recomendações ao município.', '⬛ julgado irregular'),
+        25: mk(True, 'TCE arquiva representação sobre a concessão do transporte coletivo', 'A representação foi julgada improcedente na fase final e o processo acabou arquivado. O Tribunal não acolheu as irregularidades apontadas no edital.', '🟢 julgado regular'),
+        28: mk(True, 'TCE arquiva denúncia sobre patrocínio da Expo São Bento 2025', 'A denúncia sobre patrocínio e uso de bens públicos no evento não foi conhecida por falta de seletividade. O pedido cautelar também foi prejudicado.', '❔ não conhecido (sem análise)'),
+        29: mk(True, 'TCE multa gestores por irregularidades na pavimentação asfáltica', 'O Tribunal considerou irregulares atos ligados às obras de pavimentação e aplicou multas aos responsáveis. O processo tratou de dano e falhas na execução do projeto.', '⬛ julgado irregular + multa', 'alta'),
+        31: mk(True, 'TCE multa José Ermínio Grein por falhas no pregão da Expo 2023', 'A representação foi parcialmente procedente e o Tribunal considerou irregulares as exigências de habilitação do pregão. Houve multa ao secretário responsável.', '⬛ julgado irregular + multa', 'alta'),
+        34: mk(True, 'TCE recebe representação sobre pregão de material odontológico', 'A representação foi conhecida e o Tribunal pediu diligências sobre o pregão de manutenção de equipamentos de saúde. A cautelar foi indeferida nesta etapa.', '🟡 em instrução (citação/audiência)'),
+        35: mk(True, 'TCE arquiva pregão do ERP após revogação, mas alerta sobre sobrepreço', 'O edital foi revogado e o Tribunal arquivou os autos. Mesmo assim, deixou alertas sobre sobrepreço e pontos frágeis do projeto.', '🟢 julgado regular'),
+        36: mk(True, 'TCE arquiva denúncia sobre pregão de auxílio-alimentação', 'A representação não foi conhecida por ausência de indícios suficientes e o processo foi arquivado.', '❔ não conhecido (sem análise)'),
+        38: mk(True, 'TCE aponta falhas na concorrência de esgoto do SAMAE', 'O relatório sobre a concorrência pública do esgoto apontou exigências restritivas e outras falhas no edital. O caso seguiu com cautelar e audiência.', '🟠 cautelar / sustação'),
+        44: mk(True, 'TCE pede documentos sobre assessores jurídicos comissionados', 'O procedimento apura a nomeação de assessores jurídicos comissionados na Procuradoria Jurídica. O Tribunal determinou diligência e a instrução continua.', '🟡 em instrução (citação/audiência)'),
+        45: mk(True, 'TCE apura horas extras de assistente social em Presidente Getúlio', 'O processo discutiu pagamento de horas extras e possível acumulação com função de confiança. O Tribunal postergou a cautelar e abriu oitiva.', '🟡 em instrução (citação/audiência)'),
+        46: mk(True, 'TCE arquiva análise do transporte coletivo e recomenda ajustes', 'O relatório sobre o planejamento da concessão do transporte público concluiu com recomendações técnicas. O processo foi arquivado.', '🟢 julgado regular'),
+        47: mk(True, 'TCE abre diligência sobre rádio e possíveis despesas fictas', 'A representação apontou contratação de emissora sem regularidade e possíveis pagamentos fictos. O Tribunal conheceu o caso e determinou diligência.', '🟡 em instrução (citação/audiência)'),
+        48: mk(True, 'TCE abre diligência sobre manutenção de equipamentos de saúde', 'A representação questiona o pregão de manutenção de equipamentos médicos e odontológicos. O Tribunal conheceu o caso e determinou diligência sobre a empresa e a ata.', '🟡 em instrução (citação/audiência)'),
+        49: mk(True, 'TCE pune assessores jurídicos comissionados em São Bento do Sul', 'O Tribunal considerou irregular a emissão de pareceres por assessores comissionados em área reservada à advocacia pública. O processo foi arquivado após a decisão.', '⬛ julgado irregular'),
+        51: mk(True, 'TCE arquiva monitoramento da meta de educação e cobra continuidade', 'O relatório de inspeção tratou do monitoramento da estratégia 17.5 da educação. O Tribunal aprovou o plano de ação e arquivou o processo.', '🟢 julgado regular'),
+        56: mk(True, 'TCE não conhece representação sobre pregão de auxílio-alimentação', 'A representação foi rejeitada por falha de admissibilidade e o processo foi arquivado.', '❔ não conhecido (sem análise)'),
+        57: mk(True, 'TCE multa Magno Bollmann por omissão na verificação de médico', 'A denúncia foi julgada irregular e o Tribunal aplicou multa ao ex-prefeito pela falta de fiscalização da carga horária do servidor médico.', '⬛ julgado irregular + multa', 'alta'),
+        58: mk(True, 'TCE arquiva auditoria da iluminação pública', 'O relatório constatou cumprimento da decisão anterior e apenas fez recomendações técnicas. O processo foi arquivado.', '🟢 julgado regular'),
+        59: mk(True, 'TCE arquiva chamamento público de peça teatral por falta de seletividade', 'O PAP foi arquivado sem análise de mérito porque não passou na seletividade. O Tribunal apenas recomendou cuidados para futuras parcerias.', '❔ não conhecido (sem análise)'),
+        60: mk(True, 'TCE arquiva denúncia sobre exercício de função pública', 'A denúncia foi rejeitada por ausência de indícios de irregularidade. O processo foi arquivado.', '❔ não conhecido (sem análise)'),
+        61: mk(True, 'TCE arquiva denúncia sobre cargos em confiança', 'O Tribunal não conheceu a denúncia por falhas de admissibilidade e arquivou os autos.', '❔ não conhecido (sem análise)'),
+        62: mk(True, 'TCE arquiva representação sobre dispensa eletrônica no IPRESBS', 'A representação não passou na etapa de seletividade e foi arquivada.', '❔ não conhecido (sem análise)'),
+        63: mk(True, 'TCE arquiva PAP sobre contratação temporária de auxiliares de educador', 'O procedimento foi arquivado por não atender à seletividade, embora tenha rendido alerta ao controle interno.', '❔ não conhecido (sem análise)'),
+        65: mk(True, 'TCE confirma irregularidade em tomada de preços da escola', 'A representação sobre a tomada de preços 332/2021 foi julgada procedente e a irregularidade apontada foi confirmada.', '⬛ julgado irregular'),
+        66: mk(True, 'TCE arquiva PAP sobre suspensão de processo seletivo e contratação de médicos', 'O procedimento foi arquivado por falta de seletividade. O Tribunal recomendou convocar os aprovados do concurso.', '❔ não conhecido (sem análise)'),
+        70: mk(True, 'TCE arquiva denúncia sobre cargos comissionados declarados', 'A representação não foi conhecida por falta de seletividade e os autos foram arquivados.', '❔ não conhecido (sem análise)'),
+        73: mk(True, 'TCE arquiva representação sobre gestão da EMHAB', 'A representação foi rejeitada por ausência de documentos e indícios mínimos. O processo foi arquivado.', '❔ não conhecido (sem análise)'),
+        74: mk(True, 'TCE abre diligência sobre emissora de rádio contratada pelo SAMAE', 'A representação foi conhecida e o Tribunal pediu documentos sobre contrato, execução e regularidade da empresa. A instrução segue aberta.', '🟡 em instrução (citação/audiência)'),
+        76: mk(True, 'TCE arquiva PAP sobre concorrência pública de esgoto', 'O PAP não passou na seletividade e foi arquivado, com recomendações ao controle interno.', '❔ não conhecido (sem análise)'),
+        78: mk(True, 'TCE arquiva denúncia sobre convocação de professor de violão', 'O Tribunal arquivou o procedimento por falta de elementos de convicção sobre irregularidade na nomeação.', '🟢 julgado regular'),
+        80: mk(True, 'TCE reconhece prescrição em incentivo a empresas e mantém irregularidades', 'O recurso revisou as despesas com incentivo para instalação de empresas em São Bento do Sul. O Tribunal reconheceu a irregularidade e também a prescrição da pretensão ressarcitória.', '⚫ prescrito', 'alta'),
+        83: mk(True, 'TCE analisa pedido de revisão sobre incentivo a empresas', 'O pedido de revisão discute o acórdão que tratou dos incentivos econômicos pagos pelo município. O texto mostrado é ainda de admissibilidade e redistribuição.', '❔ em tramitação'),
+        87: mk(True, 'TCE considera regular processo seletivo da educação em São Bento do Sul', 'A inspeção considerou legal o processo seletivo e apenas recomendou providências para reduzir contratações temporárias no futuro.', '🟢 julgado regular'),
+        92: mk(True, 'TCE dá prazo para corrigir progressão funcional em aposentadoria', 'O Tribunal apontou irregularidade na progressão funcional usada no cálculo da aposentadoria e deu prazo para correção. O caso segue em instrução.', '🟡 em instrução (citação/audiência)'),
+        93: mk(True, 'TCE arquiva PAP sobre programa de pavimentação comunitária', 'O procedimento foi arquivado por não atender à seletividade e o Tribunal apenas enviou cópia ao controle interno.', '❔ não conhecido (sem análise)'),
+        95: mk(True, 'TCE confirma enquadramento ilegal em aposentadoria de servidora', 'O Tribunal negou o registro da aposentadoria de Maurian Grohskopf Sadowski por enquadramento irregular em cargo efetivo. O caso foi considerado ilegal.', '⬛ julgado irregular'),
+        96: mk(True, 'TCE mantém negativa de registro da aposentadoria de José Ervino Zimmer', 'A decisão reiterou que o enquadramento do servidor foi irregular e manteve a negativa de registro do ato. O caso foi considerado ilegal.', '⬛ julgado irregular'),
+        97: mk(True, 'TCE julga irregular falta de envio de dados da liberdade econômica', 'O Tribunal considerou irregular a ausência de envio das informações sobre a adequação municipal à lei da liberdade econômica. O processo foi arquivado após a decisão.', '⬛ julgado irregular'),
+        99: mk(True, 'TCE dá prazo para corrigir progressão funcional em aposentadoria', 'O Tribunal apontou irregularidade na progressão funcional usada no cálculo da aposentadoria e deu prazo para a adequação. O caso segue em instrução.', '🟡 em instrução (citação/audiência)'),
+    },
+}
+
+for name, src in inputs.items():
+    data = json.loads(src.read_text())
+    out = []
+    keep_count = 0
+    alta_count = 0
+    for case in data['casos']:
+        cur = curated.get(name, {}).get(case['i'])
+        if cur is None:
+            item = {'i': case['i'], 'tipo': case['tipo'], 'keep': False, 'title': '', 'description': '', 'status': '', 'severity': 'media'}
+        else:
+            item = {'i': case['i'], 'tipo': case['tipo'], **cur}
+            keep_count += 1
+            if cur['severity'] == 'alta':
+                alta_count += 1
+        out.append(item)
+    (outputs / name).write_text(json.dumps(out, ensure_ascii=False, indent=2) + '\n')
+    print(name, 'cases=', len(out), 'keep_true=', keep_count, 'alta=', alta_count)
+PY
+sao_bento_do_sul__2.json cases= 70 keep_true= 29 alta= 4
+sao_bento_do_sul__3.json cases= 70 keep_true= 9 alta= 1
+sao_bento_do_sul__4.json cases= 70 keep_true= 31 alta= 2
+[0m
+Os três arquivos foram escritos. Agora vou checar rapidamente a estrutura e conferir se os curados ficaram com o tamanho certo e sem JSON quebrado.
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/sao_bento_do_sul__2.json[90m [offset=1, limit=20][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/sao_bento_do_sul__3.json[90m [offset=1, limit=20][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/sao_bento_do_sul__4.json[90m [offset=1, limit=20][0m
+[0m
+[0m$ [0mpython3 - <<'PY'
+import json
+from pathlib import Path
+base = Path('/Users/jairofortunato/mp/pdf_template/amunesc/_lotes_curados')
+for name in ['sao_bento_do_sul__2.json','sao_bento_do_sul__3.json','sao_bento_do_sul__4.json']:
+    data = json.loads((base / name).read_text())
+    keep = sum(1 for x in data if x['keep'])
+    alta = sum(1 for x in data if x['severity'] == 'alta')
+    print(name, len(data), keep, alta)
+PY
+sao_bento_do_sul__2.json 70 29 4
+sao_bento_do_sul__3.json 70 9 1
+sao_bento_do_sul__4.json 70 31 2
+[0m
+Gravei os três lotes em `pdf_template/amunesc/_lotes_curados/`.
+
+- `sao_bento_do_sul__2.json`: 70 casos, 29 `keep:true`, 4 `severity: alta`
+- `sao_bento_do_sul__3.json`: 70 casos, 9 `keep:true`, 1 `severity: alta`
+- `sao_bento_do_sul__4.json`: 70 casos, 31 `keep:true`, 2 `severity: alta`

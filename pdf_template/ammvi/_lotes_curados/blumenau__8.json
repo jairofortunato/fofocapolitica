@@ -1,0 +1,632 @@
+[
+ {
+  "i": 36,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE instaura investigação sobre desvio de função de guardas de trânsito em Blumenau",
+  "description": "O TCE abriu denúncia sobre possível desvio funcional envolvendo servidores do cargo de guarda de trânsito em Blumenau, que estariam exercendo atividades de segurança escolar, vigilância e controle de acesso sem previsão legal. O relator diferiu a análise da cautelar e determinou diligência à prefeitura, com prazo de 30 dias para informações sobre armas, escalas e pagamentos de horas extras.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 37,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE sustende pregão de relógio-ponto biométrico em Blumenau por exigências restritivas",
+  "description": "A empresa Nexti Desenvolvimento de Sistemas impugnou o Pregão Eletrônico 75/2022, que visava locação de relógio-ponto biométrico para servidores de Blumenau. O TCE susteu cautelarmente o certame após identificar exigências excessivas no Termo de Referência — portas USB, memória para 15 mil servidores e capacidade para 10 mil digitais — que poderiam restringir a competitividade.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 38,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE considera regular com ressalva edital de cervejaria da Oktoberfest em Blumenau",
+  "description": "O TCE analisou o edital do Pregão Eletrônico 021/2023, que visa permitir que cervejaria nacional ou internacional comercialize seus produtos como cerveja oficial da Oktoberfest de Blumenau. O tribunal considerou regular com ressalva, apontando uso de instrumento jurídico incorreto (permissão quando deveria ser concessão de uso) e ausência de orçamento detalhado, recomendando adequações para futuros certames.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 39,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE julga improcedente representação sobre pregão de sistema de vagas em Blumenau",
+  "description": "Três empresas apresentaram representações contra o Pregão Presencial 005/2022 de Blumenau, que visava implantação de sistema de gerenciamento de vagas de estacionamento rotativo. O TCE considerou improcedentes as alegações de restrição à competitividade, revogou a cautelar anterior e orientou o município sobre exigências futuras.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 40,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 41,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE considera procedente representação sobre pregão de ambulâncias em Blumenau",
+  "description": "A empresa Belabru representou contra o Pregão Presencial 019/2021, que visava aquisição de dois veículos-furgão adaptados como ambulâncias SAMU Tipo B. O TCE julgou procedente e orientou o município a observar o Prejulgado 2355, que determina que a Administração não é obrigada a aplicar o art. 12 da Lei 6.729/1979 em editais para aquisição de veículos novos, permitindo participação de revendedores.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 42,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE julga improcedente representação sobre contrato de transporte coletivo em Blumenau",
+  "description": "O vereador Carlos Cezar Wágner representou contra o Contrato 42/2017, que trata da concessão de transporte coletivo em Blumenau. O TCE julgou improcedente o mérito da Representação, mas recomendou que o município avalie a necessidade de aquisição do imóvel da garagem, estudando alternativas como locação para preservar a modicidade tarifária.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 43,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE vincula representação sobre pregão de contratação a processo mais avançado em Blumenau",
+  "description": "Ana Carolina Pereira representou contra o Pregão Eletrônico 55/2025, da Secretaria Municipal de Administração de Blumenau. O TCE admitiu a Representação e a vinculou ao Processo LCC 25/00136498, já com cautelar aplicada por Decisão Singular anterior, por continência e estágio mais avançado daquele feito.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 44,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE apura irregularidades em isenções tributárias concedidas pelo Centro Empresarial de Blumenau",
+  "description": "O PAP investigou supostas irregularidades em benefícios fiscais concedidos ao Centro Empresarial de Blumenau por meio de decretos municipais, e irregularidades no Pregão Presencial 16/SEMAIS/2022 de Canelinha. A DGE sugeriu conversão em processo específico, apontando que Blumenau vinha concedendo isenções por decreto sem base legal adequada.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "alta"
+ },
+ {
+  "i": 45,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE sustea concorrência internacional para obras de abastecimento de água em Blumenau",
+  "description": "O TCE susteu cautelarmente o Edital da Concorrência Internacional 1004/2023, de Blumenau, que visa ampliação da captação e adução de água bruta do sistema de abastecimento (ETA II), com orçamento de R$ 44,6 milhões. A irregularidade apontada foi orçamento básico com unidades de medida inadequadas em determinados itens e serviços.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 46,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta irregularidades em PPP de iluminação pública de Blumenau por WACC inadequado",
+  "description": "O TCE analisou o edital da Concorrência Pública 11/2024, que visava delegação por PPP para modernização da iluminação pública de Blumenau. O relator apontou que o edital não atendeu orientações técnicas anteriores, incluindo metodologia inconsistente no cálculo do WACC (11,22% frente a 8,42% de projeto semelhante em Joinville) e insuficiência de detalhamento do fluxo de caixa.",
+  "status": "⬛ julgado irregular",
+  "severity": "alta"
+ },
+ {
+  "i": 47,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 parecer pela aprovação",
+  "severity": "media"
+ },
+ {
+  "i": 48,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE reconhece perda de objeto em representação sobre concorrência de obras em Blumenau",
+  "description": "Representação sobre supostas irregularidades na Concorrência 1003/2023, que visa obras de melhoria viária e reurbanização da Rua 2 de Setembro em Blumenau (R$ 17,6 milhões), teve objeto perdido após republicação do edital que saneou as impropriedades apontadas. O TCE recomendou que o município observe as orientações sobre taxa de BDI e orçamento básico em futuros certames.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 49,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 50,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta irregularidades em pregão de kits escolares de R$ 4,6 milhões em Blumenau",
+  "description": "O prefeiro Edson da Silva representou contra o Pregão Presencial 22/2024, que visava fornecimento de kits escolares à Rede Municipal de Educação de Blumenau, homologado por R$ 4,6 milhões. O TCE apontou aglutinação irregular de produtos sem estudo de vantagem econômica, justificativa insuficiente para forma presencial e ausência de publicidade na pesquisa de preços, que estimou o valor em R$ 7,5 milhões.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "alta"
+ },
+ {
+  "i": 51,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE recomenda controles em auditoria de programa de saneamento financiado por Fonplata em Blumenau",
+  "description": "O TCE realizou auditoria financeira no Programa BLUMENAU MELHOR, financiado pelo Fonplata, referente aos exercícios de 2022 a 2024. O tribunal recomendou que o município implemente controles para documentar formalmente substituições de membros da equipe técnica, garantindo rastreabilidade e transparência. Os autos foram arquivados.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 52,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE considera parcialmente procedente representação sobre pregão de serviços de água e esgoto em Blumenau",
+  "description": "A empresa Atlantis Saneamento representou contra o Pregão Presencial 06-2260/2020 do SAMAE de Blumenau, que visava serviços de leitura de água e esgoto. O TCE considerou parcialmente procedente, apontando omissões e incorreções no orçamento básico, especialmente na justificativa dos valores do BDI, e determinou monitoramento do cumprimento da correção do edital.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 53,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 54,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva representação sobre pregão de iluminação em Blumenau após anulação do edital",
+  "description": "A empresa Ilumitech Construtora e a Andrade Silva Advogados representaram contra o Pregão Presencial 39/2021, que visava gestão integral do sistema de iluminação pública de Blumenau. O TCE determinou o arquivamento de ambos os processos vinculados em razão da anulação do edital pelo município.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 55,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 56,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 parecer pela aprovação",
+  "severity": "media"
+ },
+ {
+  "i": 57,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 58,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva PAP sobre pregão de microcomputadores em Blumenau por ausência de admissibilidade",
+  "description": "O PAP investigou possíveis irregularidades no Pregão Presencial 16/2023, para aquisição de microcomputadores e equipamentos, promovido pela Prefeitura de Blumenau. O TCE arquivou o procedimento apuratório preliminar por não atendimento das condições prévias de admissibilidade, prejudicando o pedido de medida cautelar de suspensão.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 59,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 parecer pela aprovação",
+  "severity": "media"
+ },
+ {
+  "i": 60,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE converte PAP em representação e julga improcedente sobre limpeza da Oktoberfest",
+  "description": "O PAP 23/80085255 foi convertido em representação sobre supostas irregularidades na Concorrência 03-018/2023 para serviços de limpeza na 38ª Oktoberfest de Blumenau. O TCE julgou improcedente o mérito, considerando que as irregularidades alegadas não foram confirmadas, e determinou o arquivamento.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 61,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE converte PAP sobre concorrências de pavimentação em Blumenau em representação",
+  "description": "A empresa Pavimentação em Ação Ltda. representou contra as Concorrências 57/2023 (R$ 568 mil) e 60/2023 (R$ 696 mil), para pavimentação em lajota sextavada de concreto em vias públicas de Blumenau. O TCE converteu o PAP em representação, considerou atendidos os critérios de seletividade, mas indeferiu a medida cautelar por ausência de pressupostos.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 62,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE julga improcedente representação sobre cartão alimentação em Blumenau",
+  "description": "A empresa Verocheque representou contra o Pregão Presencial 42/2023, que visava cartão magnético para aquisição de gêneros alimentícios por famílias assistidas pela Política de Assistência Social de Blumenau (R$ 2,7 milhões). O TCE julgou improcedente, considerando improcedentes as alegações de irregularidade relativas à taxa junto aos estabelecimentos e ao critério de adjudicação.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 63,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE considera procedente representação sobre exigência restritiva em pregão de publicação legal em Blumenau",
+  "description": "O prefeiro Vanderlei Valentini representou contra o Pregão Eletrônico 115/2023, que visava registro de preços para publicação legal dos atos oficiais de Blumenau (R$ 399 mil). O TCE considerou procedente, apontando exigência restritiva que condicionava comprovação de acessos exclusivamente via Google Analytics, em desacordo com a Lei de Licitações. Não houve aplicação de sanção, mas o município recebeu recomendação.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 64,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE sustea pregão de uniformes escolares de R$ 15,3 milhões em Blumenau por exigências restritivas",
+  "description": "A empresa Lini Confecções representou contra o Pregão Presencial 015/2024, visando registro de preços de kits de uniformes escolares de Blumenau (R$ 15,3 milhões). O TCE abriu representação apontando exigência de amostras em 10 dias úteis e prazo de entrega de 20 dias como restritivos, determinou audiência do Secretário de Educação.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 65,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE reconhece prescrição em representação sobre contrato de transporte escolar em Blumenau",
+  "description": "Representação sobre supostas irregularidades no Pregão Presencial 133/2012 e Contrato de transporte escolar em Blumenau prescreveu por decurso de prazo, extinguindo o feito sem deliberação sobre os fatos apurados. O TCE arquivou o processo vinculado sem prejuízo de avaliação para inclusão do tema em planejamento de auditorias futuras sobre licitações mais recentes de transporte escolar.",
+  "status": "⚫ prescrito",
+  "severity": "media"
+ },
+ {
+  "i": 66,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aprova plano de ações sobre estratégia de gestão de pessoal da educação em Blumenau",
+  "description": "O TCE aprovou o Plano de Ações apresentado por Blumenau para monitoramento do cumprimento da Meta 18 da Lei Complementar municipal. O plano visa reduzir contratações temporárias na educação por meio de projeção de demanda com dados do Censo Escolar e do IBGE, e estimativa de afastamentos previsíveis. A municipalidade deverá encaminhar relatório de acompanhamento em 180 dias.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 67,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE orienta Blumenau sobre exigência de capital mínimo em pregão de ferramentas",
+  "description": "O TCE não atendeu aos critérios de seletividade e orientou o município a realizar estudos de mercado, limitando exigências de capital mínimo ou patrimônio líquido em percentual estritamente necessário para avaliação da capacidade econômica, visando garantir competitividade. Os autos foram arquivados.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 68,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta irregularidades em segundo pregão de uniformes escolares de Blumenau",
+  "description": "Em nova representação sobre o Pregão Presencial 015/2024 de kits de uniformes escolares de Blumenau (R$ 15,3 milhões), o TCE apontou aglutinação de produtos sem análise técnica de vantagem econômica e justificativa insuficiente para forma presencial. A cautelar não foi concedida por perigo reverso, mas foi determinada audiência do Secretário de Educação.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 69,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE sustea contrato de assessoria jurídica para recuperação de repasses da ANP em Blumenau",
+  "description": "O TCE susteu cautelarmente o Contrato 184/2024, que visava serviços jurídicos para recuperação de repasses da ANP (R$ 7 milhões estimados). Apontou que o objeto não apresenta singularidade para inexigibilidade, que a cláusula de remuneração baseada em vantagem financeira viola Prejulgados 1199 e 1427, e que o preço estabelecido tem justificativa insuficiente.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "alta"
+ },
+ {
+  "i": 70,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE converte auditoria em tomada de contas especial sobre terminais de transportes em Blumenau",
+  "description": "O TCE converteu auditoria sobre construção do Terminal Integrado Oeste e Terminal Integrado Norte (Contrato 146/2017) em Tomada de Contas Especial, definindo responsabilidade solidária para empresa construtora (MJRE), assessoras (APPE, SOTEPA) e servidores envolvidos, em razão de termo aditivo que aumentou em 33,65% o valor do contrato original.",
+  "status": "🟡 em instrução (citação/audiência)",
+  "severity": "alta"
+ },
+ {
+  "i": 71,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE emite orientações sobre concessão de serviços funerários em Blumenau",
+  "description": "O TCE analisou o planejamento para futura delegação dos serviços funerários de Blumenau e recomendou adequações no Termo de Referência e Plano de Negócios, incluindo inclusão de dados de todas as agências funerárias, elaboração de或çamento para revitalização da Central Funerária e das capelas, e definição de regulamentação para locação das capelas municipais.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 72,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 73,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 74,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE julga improcedente representação sobre credenciamento de leiloeiros em Blumenau",
+  "description": "Leiloeiros oficiais representaram contra o Processo de Credenciamento 08/2020 da Prefeitura de Blumenau, que visava credenciamento para avaliação e alienação de bens inservíveis. O TCE considerou improcedente por não comprovação das alegadas ilegalidades e ausência de efetivo prejuízo aos representantes, e determinou o arquivamento.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 75,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 76,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE mantém cautelar sobre concorrência internacional de abastecimento de água em Blumenau",
+  "description": "Em decisão sobre o mesmo processo (LCC 24/00015249), o TCE reiterou a sustação cautelar do Edital da Concorrência Internacional 1004/2023, que visa ampliação da captação de água bruta do sistema de abastecimento de Blumenau (R$ 44,6 milhões), mantendo as orientações sobre orçamento básico.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 77,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE julga improcedente representação sobre concorrências de pavimentação em Blumenau",
+  "description": "Em decisão final, o TCE julgou improcedente a representação da empresa Pavimentação em Ação Ltda. sobre as Concorrências 57/2023 e 60/2023 de pavimentação em Blumenau, concluindo que as possíveis irregularidades não foram confirmadas, e determinou o arquivamento dos autos.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 78,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 parecer pela aprovação",
+  "severity": "media"
+ },
+ {
+  "i": 79,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 80,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 81,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 parecer pela aprovação",
+  "severity": "media"
+ },
+ {
+  "i": 82,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE ordena registro de retificação de aposentadoria em Blumenau e decide sobre pregão de iluminação",
+  "description": "O TCE ordenou o registro da retificação de aposentadoria de Raquel Furtado, servidora de Blumenau, por considerar legal o ato. Em seguida, decidiu pela perda de objeto nas representações sobre o Pregão Presencial 39/2021, que visava gestão integral do sistema de iluminação pública, em razão da anulação do edital pela municipalidade.",
+  "status": "⬛ julgado irregular",
+  "severity": "media"
+ },
+ {
+  "i": 83,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva PAP sobre controle de ponto da FURB em Blumenau por não observância de pressupostos",
+  "description": "O PAP apurou suposta irregularidade no sistema de controle de ponto da Fundação Universidade Regional de Blumenau (FURB). O TCE arquivou por não observância dos pressupostos de admissibilidade previstos no Regimento Interno, uma vez que a demanda de fiscalização não atendeu aos critérios de admissibilidade e seletividade para início da atividade fiscalizatória.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 84,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 85,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 86,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE registra aposentadoria e decide sobre representação de comissionados em Blumenau",
+  "description": "O TCE ordenou o registro do ato de aposentadoria de Vanusa Luckmann de Liz e Silva, servidora de Blumenau, considerando-o legal. Em seguida, julgou parcialmente procedente a representação sobre quantidade de servidores comissionados na Câmara Municipal de Içara, determinando providências.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 87,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 88,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 89,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ acórdão (decisão)",
+  "severity": "media"
+ },
+ {
+  "i": 90,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ acórdão (decisão)",
+  "severity": "media"
+ },
+ {
+  "i": 91,
+  "tipo": "tce",
+  "keep": false,
+  "title": "TCE ordena registro de pensão por morte de servidora de Blumenau",
+  "description": "O TCE ordenou o registro do ato de pensão por morte em favor de Francisco Ramos, em decorrência do óbito de Otilia Ramos, servidora inativa da Prefeitura Municipal de Blumenau, no cargo de Servente de Serviços Gerais, considerando-o legal.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 92,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 93,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 94,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE converte PAP em denúncia sobre desvio de função de professores na FURB",
+  "description": "O TCE converteu o PAP em Denúncia para apurar suposto desvio de função de professores admitidos em caráter temporário na Fundação Universidade Regional de Blumenau (FURB), incluindo pagamento de horas de atividades administrativas a professores temporários. Determinou diligência à FURB para esclarecimentos.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "alta"
+ },
+ {
+  "i": 95,
+  "tipo": "tce",
+  "keep": false,
+  "title": "TCE ordena registro de pensão por morte de servidora de Araquari",
+  "description": "O TCE ordenou o registro do ato de concessão de pensão por morte a Adelino José Venâncio e Leonardo Borba Venâncio, em decorrência do óbito de Andreia Alexandra Borba Venancio, servidora inativa da Prefeitura Municipal de Araquari, considerando-o legal conforme decisão judicial.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 96,
+  "tipo": "tce",
+  "keep": false,
+  "title": "TCE ordena registro de pensão por morte de servidora de Blumenau",
+  "description": "O TCE ordenou o registro do ato de pensão por morte em favor de Luis Sabel e Sarah Louise Sabel, em decorrência do óbito de Eliane Casas Sabel, servidora ativa da Prefeitura Municipal de Blumenau, no cargo de Professor, considerando-o legal.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 97,
+  "tipo": "tce",
+  "keep": false,
+  "title": "TCE ordena registro de pensão de servidora de Blumenau",
+  "description": "O TCE ordenou o registro do ato de concessão de pensão em favor de Patricia Maria Botelho Frossard, emitido pelo Instituto Municipal de Seguridade Social do Servidor de Blumenau, considerando-o legal.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 98,
+  "tipo": "tce",
+  "keep": false,
+  "title": "TCE ordena registro de pensão por morte de servidora de Blumenau",
+  "description": "O TCE ordenou o registro do ato de pensão por morte em favor de Paulo Alberto Schuster, em decorrência do óbito de Maria Arlete Sacani Schuster, servidora inativa de Blumenau, no cargo de Atendente Administrativo, considerando-o legal. Recomendou ao ISSBLU que emita ofício ao outro regime de previdência ao identificar indícios de acúmulo de benefícios.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 99,
+  "tipo": "tce",
+  "keep": false,
+  "title": "TCE ordena registro de pensão por morte de servidor de Blumenau",
+  "description": "O TCE ordenou o registro do ato de pensão por morte em favor de Benta Eulalia de Britto, em decorrência do óbito de Antenor de Britto, servidor inativo de Blumenau, no cargo de Operário, considerando-o legal. Recomendou ao ISSBLU que emita ofício ao outro regime de previdência ao identificar indícios de acúmulo de benefícios.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 100,
+  "tipo": "tce",
+  "keep": false,
+  "title": "TCE ordena registro de pensão por morte de servidora de Blumenau",
+  "description": "O TCE ordenou o registro do ato de pensão por morte em favor de Paulo Roberto Dias, em decorrência do óbito de Ducimar Rossi Di Pietro Dias, servidora inativa de Blumenau, no cargo de Professor, considerando-o legal.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 101,
+  "tipo": "tce",
+  "keep": false,
+  "title": "TCE ordena registro de pensão por morte de servidor de Blumenau",
+  "description": "O TCE ordenou o registro do ato de pensão por morte em favor de Teresinha Rohling dos Passos, em decorrência do óbito de Miguel dos Passos, servidor inativo de Blumenau, no cargo de Pedreiro de Construção Meio Oficial, considerando-o legal.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 102,
+  "tipo": "tce",
+  "keep": false,
+  "title": "TCE ordena registro de pensão de servidora de Blumenau",
+  "description": "O TCE ordenou o registro do ato de concessão de pensão em favor de Monika Seibel Cardozo Miranda, emitido pelo Instituto Municipal de Seguridade Social do Servidor de Blumenau, considerando-o legal.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 103,
+  "tipo": "tce",
+  "keep": false,
+  "title": "TCE ordena registro de pensão por morte de servidor de Blumenau",
+  "description": "O TCE ordenou o registro do ato de pensão por morte em favor de Adriana Buechler, em decorrência do óbito de Ettore Corrêa de Almeida, servidor ativo de Blumenau, no cargo de Agente Administrativo, considerando-o legal. Recomendou regularização de falha formal na portaria.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 104,
+  "tipo": "tce",
+  "keep": false,
+  "title": "TCE ordena registro de pensão por morte de servidor de Blumenau",
+  "description": "O TCE ordenou o registro do ato de pensão por morte em favor de Amanda Daros, em decorrência do óbito de Edemilson Daros, servidor ativo de Blumenau, no cargo de Guarda de Trânsito, considerando-o legal.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 105,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "⬛ acórdão (decisão)",
+  "severity": "media"
+ }
+]

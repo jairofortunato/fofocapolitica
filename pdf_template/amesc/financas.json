@@ -1,0 +1,21 @@
+{
+ "_fonte": "pop: IBGE Censo 2022 (agregado 4714/var 93). rec/desp: Siconfi/Tesouro, RREO 2025 6º bimestre, Anexo 01 — rec=TotalReceitas 'Até o Bimestre (c)', desp=TotalDespesas 'Despesas empenhadas até o bimestre (f)'. Mesma fonte e definição usadas na AMREC (validado: população bate 12/12 e os valores fiscais batem ao centavo nas 5 cidades da AMREC que ainda têm RREO publicado).",
+ "_lacunas": "Jacinto Machado, Maracajá, Meleiro, Morro Grande e Passo de Torres não têm RREO publicado no Siconfi (Jacinto Machado não publica desde 2022, o que descumpre a LRF). Ficam com rec/desp nulos e o PDF mostra '—'. Não foram preenchidos com a receita bruta do DCA porque ela é ~6% maior que a receita líquida do RREO e inflaria essas cidades em comparação com as demais.",
+
+ "Araranguá":                 {"pop": 71922, "rec": 370382124, "desp": 351533348},
+ "Sombrio":                   {"pop": 29991, "rec": 184845653, "desp": 191814320},
+ "Balneário Gaivota":         {"pop": 15669, "rec": 120358175, "desp": 120760724},
+ "Turvo":                     {"pop": 13043, "rec": 88977787,  "desp": 80388984},
+ "Santa Rosa do Sul":         {"pop": 9792,  "rec": 82513075,  "desp": 75185289},
+ "Balneário Arroio do Silva": {"pop": 15820, "rec": 100122850, "desp": 95064825},
+ "Praia Grande":              {"pop": 8270,  "rec": 61155871,  "desp": 66735834},
+ "São João do Sul":           {"pop": 8668,  "rec": 66938542,  "desp": 58896956},
+ "Ermo":                      {"pop": 2269,  "rec": 44924398,  "desp": 43714092},
+ "Timbé do Sul":              {"pop": 5386,  "rec": 56003984,  "desp": 52213563},
+
+ "Passo de Torres":           {"pop": 12897, "rec": null, "desp": null},
+ "Maracajá":                  {"pop": 7815,  "rec": null, "desp": null},
+ "Meleiro":                   {"pop": 7006,  "rec": null, "desp": null},
+ "Jacinto Machado":           {"pop": 10624, "rec": null, "desp": null},
+ "Morro Grande":              {"pop": 3010,  "rec": null, "desp": null}
+}

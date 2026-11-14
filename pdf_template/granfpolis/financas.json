@@ -1,6 +1,6 @@
 {
  "_fonte": "pop: IBGE Censo 2022 (agregado 4714/var 93). rec/desp: Siconfi/Tesouro, RREO 2025 6º bimestre, Anexo 01 — rec=TotalReceitas 'Até o Bimestre (c)', desp=TotalDespesas 'DESPESAS EMPENHADAS ATÉ O BIMESTRE (f)'. Mesma fonte e definição usadas nas demais regiões. Arquivo aberto com as cidades já publicadas da região.",
- "_lacunas": "São João Batista não tem nenhum RREO publicado no Siconfi: a consulta bimestre a bimestre de 2023, 2024 e 2025 (18 bimestres) não retorna um único demonstrativo, o que descumpre a LRF. Fica com rec/desp nulos e o PDF mostra '—'. Não foi preenchido com a receita bruta do DCA porque ela é ~6% maior que a receita líquida do RREO e inflaria a cidade na comparação com as demais.",
+ "_lacunas": "São João Batista e Paulo Lopes não têm nenhum RREO publicado no Siconfi: a consulta bimestre a bimestre de 2023, 2024 e 2025 (18 bimestres) não retorna, para nenhum dos dois, um único demonstrativo, o que descumpre a LRF. Ficam com rec/desp nulos e o PDF mostra '—'. Não foi preenchido com a receita bruta do DCA porque ela é ~6% maior que a receita líquida do RREO e inflaria a cidade na comparação com as demais.",
  "Palhoça": {
   "pop": 222598,
   "rec": 1339749056,
@@ -15,5 +15,20 @@
   "pop": 76773,
   "rec": 496961436,
   "desp": 480398650
+ },
+ "Paulo Lopes": {
+  "pop": 9063,
+  "rec": null,
+  "desp": null
+ },
+ "São José": {
+  "pop": 270299,
+  "rec": 1554762002,
+  "desp": 1438009221
+ },
+ "Anitápolis": {
+  "pop": 3593,
+  "rec": 44175774,
+  "desp": 39101297
  }
 }

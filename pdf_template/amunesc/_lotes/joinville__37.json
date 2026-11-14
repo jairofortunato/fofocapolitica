@@ -1,0 +1,635 @@
+{
+ "cidade": "Joinville",
+ "casos": [
+  {
+   "i": 2590,
+   "tipo": "mp",
+   "ref": "06.2019.00005715-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00005715-7",
+   "status": "🟢 arquivado",
+   "data": "02/05/2022",
+   "texto": "Ministério Público de Santa Catarina e Estado de Santa Catarina. Conclusão: do Relatório de Vistoria produzido pelo Conselho Regional de Medicina do Estado de Santa Catarina se extrai que não foram constatadas lacunas nas escalas de serviço de médicos das áreas clínica, cirúrgica e radiológica no Hospital Regional Hans Dieter Schmidt. Assim, a insuficiência de médicos nas especialidades em questão talvez existisse ao tempo da formulação do reclamo, mas foi posteriormente sanada. Cabe ao Diretor Técnico do hospital proceder à renovação do cadastro no sítio eletrônico do conselho de fiscalização profissional na rede mundial de computadores, como esclareceu o conselho de fiscalização profissional. Arquivamento."
+  },
+  {
+   "i": 2591,
+   "tipo": "mp",
+   "ref": "06.2021.00002447-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00002447-0",
+   "status": "❔ status indef.",
+   "data": "04/05/2022",
+   "texto": "Diego Luan Hofstatter - ME (nome fantasia DH Bebidas). Conclusão: inexistência de fundamento para tomada de Ajuste de Condutas ou propositura de Ação Civil Pública."
+  },
+  {
+   "i": 2592,
+   "tipo": "mp",
+   "ref": "01.2022.00002759-3",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00002759-3",
+   "status": "🟢 arquivado",
+   "data": "05/05/2022",
+   "texto": "Maria Gorete Tomio. Conclusão: [...] Com efeito, destaca-se que, em que pese a negativa inicial da municipalidade, ante as considerações tecidas por este Órgão de Execução, notadamente que a noticiante Maria Gorete Tômio se enquadra como protetora dos animais, não obstante a seus diminutos recursos financeiros, foi prestado atendimento ao canino no CBEA. Logo, a situação se encontra resolvida. Por todo o exposto, não sendo caso de instauração de Inquérito Civil ou Procedimento Preparatório, com supedâneo no art. 7º, inciso II do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato."
+  },
+  {
+   "i": 2593,
+   "tipo": "mp",
+   "ref": "01.2022.00013409-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00013409-1",
+   "status": "🟡 em apuração",
+   "data": "05/05/2022",
+   "texto": "2º Registro de Imóveis de Joinville."
+  },
+  {
+   "i": 2594,
+   "tipo": "mp",
+   "ref": "01.2022.00009132-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO 01.2022.00009132-0",
+   "status": "🟢 arquivado",
+   "data": "12/05/2022",
+   "texto": "Cida Campanelli. Conclusão: adotadas as medidas necessárias e constatando-se não ser o caso de instauração de Inquérito Civil ou Procedimento Preparatório, com supedâneo no art. 7º, inciso II, do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato. Membro de Ministério Público: Simone Cristina Schultz Corrêa"
+  },
+  {
+   "i": 2595,
+   "tipo": "mp",
+   "ref": "01.2022.00010118-9",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00010118-9",
+   "status": "🟢 arquivado",
+   "data": "12/05/2022",
+   "texto": "Liliane Freitas Lovato. Conclusão: [...] Por todo o exposto, não sendo caso de instauração de Inquérito Civil ou Procedimento Preparatório, com supedâneo no art. 7º, inciso II, do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato."
+  },
+  {
+   "i": 2596,
+   "tipo": "mp",
+   "ref": "06.2019.00004671-6",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00004671-6",
+   "status": "🟢 arquivado",
+   "data": "12/05/2022",
+   "texto": "Ministério Público do Estado de Santa Catarina e Estado de Santa Catarina. Conclusão: o noticiante foi submetido ao procedimento cirúrgico de angioplastia coronariana com implante de stent, estando, portanto, atendido o reclamo individual que originou este Inquérito Civil. Ainda, não se pode reconhecer, pois, efetiva e injustificada inércia ou demora imputável ao poder público estadual na realização de cirurgia de angioplastia coronariana com implante de stent. Arquivamento."
+  },
+  {
+   "i": 2597,
+   "tipo": "mp",
+   "ref": "01.2022.00013607-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00013607-8",
+   "status": "🟡 em apuração",
+   "data": "12/05/2022",
+   "texto": "Sabrina Rohleder Stertz."
+  },
+  {
+   "i": 2598,
+   "tipo": "mp",
+   "ref": "01.2022.00013939-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00013939-7",
+   "status": "🟡 em apuração",
+   "data": "12/05/2022",
+   "texto": "Marli Piekarski."
+  },
+  {
+   "i": 2599,
+   "tipo": "mp",
+   "ref": "01.2022.00014210-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00014210-3",
+   "status": "🟡 em apuração",
+   "data": "12/05/2022",
+   "texto": "Marília da Silva Tôrres."
+  },
+  {
+   "i": 2600,
+   "tipo": "mp",
+   "ref": "01.2022.00005539-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00005539-0",
+   "status": "🟢 arquivado",
+   "data": "13/05/2022",
+   "texto": "Cristiane Maria Coelho. Conclusão: [...] Por todo o exposto, não sendo caso de instauração de Inquérito Civil ou Procedimento Preparatório, com supedâneo no art. 7º, inciso III, do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato. Membro de Ministério Público: Simone Cristina Schultz Corrêa"
+  },
+  {
+   "i": 2601,
+   "tipo": "mp",
+   "ref": "01.2022.00006955-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00006955-0",
+   "status": "🟢 arquivado",
+   "data": "13/05/2022",
+   "texto": "sigiloso. Conclusão: [...] Por todo o exposto, não sendo caso de instauração de Inquérito Civil ou Procedimento Preparatório, com supedâneo no art. 7º, inciso II, do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato. Membro de Ministério Público: Simone Cristina Schultz Corrêa"
+  },
+  {
+   "i": 2602,
+   "tipo": "mp",
+   "ref": "01.2022.00011936-8",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00011936-8",
+   "status": "🟢 arquivado",
+   "data": "13/05/2022",
+   "texto": "Lucilene Warmling Tavares de Camargo. Conclusão: [...] Por todo o exposto, não sendo caso de instauração de Inquérito Civil ou Procedimento Preparatório, com supedâneo no art. 7º, inciso II, do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato. Membro de Ministério Público: Simone Cristina Schultz Corrêa"
+  },
+  {
+   "i": 2603,
+   "tipo": "mp",
+   "ref": "06.2022.00000924-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00000924-0",
+   "status": "🟢 arquivado",
+   "data": "13/05/2022",
+   "texto": "Patrícia Pries. Conclusão: [...] Diante do todo exposto, considerando que nenhuma medida resta a ser adotada no âmbito desta Promotoria de Justiça no caso concreto, estando os direitos do animal resguardados, promovo o arquivamento do Procedimento Preparatório n. 06.2022.00000924-0."
+  },
+  {
+   "i": 2604,
+   "tipo": "mp",
+   "ref": "06.2022.00001544-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00001544-2",
+   "status": "🟢 arquivado",
+   "data": "13/05/2022",
+   "texto": "Carlos Eduardo da Silva. Conclusão: [...] Diante do todo exposto, considerando que todas as diligências necessárias foram empreendidas e que não há outras medidas a serem adotadas no âmbito desta Promotoria de Justiça no caso concreto, promovo o arquivamento do Procedimento Preparatório n. 06.2022.00001544-2."
+  },
+  {
+   "i": 2605,
+   "tipo": "mp",
+   "ref": "01.2022.00014897-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00014897-4",
+   "status": "🟡 em apuração",
+   "data": "13/05/2022",
+   "texto": "Liliane Lovato."
+  },
+  {
+   "i": 2606,
+   "tipo": "mp",
+   "ref": "01.2022.00008743-7",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00008743-7",
+   "status": "❔ status indef.",
+   "data": "16/05/2022",
+   "texto": "Frada Joinville. Conclusão: [...] Por todo o exposto, não sendo caso de instauração de Inquérito Civil ou Procedimento Preparatório, com"
+  },
+  {
+   "i": 2607,
+   "tipo": "mp",
+   "ref": "06.2021.00004952-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00004952-8",
+   "status": "🟢 arquivado",
+   "data": "19/05/2022",
+   "texto": "Liliane Freitas Lovato. Conclusão: [...] Diante do todo exposto, considerando que todas as diligências necessárias foram empreendidas e que não há outras medidas a serem adotadas no âmbito desta Promotoria de Justiça no caso concreto, promovo o arquivamento do Inquérito Civil n. 06.2021.00004952-8."
+  },
+  {
+   "i": 2608,
+   "tipo": "mp",
+   "ref": "01.2022.00014481-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2022.00014481-2",
+   "status": "🟡 em apuração",
+   "data": "19/05/2022",
+   "texto": "Washington Luiz Silva de Souza e Banco Pan."
+  },
+  {
+   "i": 2609,
+   "tipo": "mp",
+   "ref": "01.2022.00002253-2",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00002253-2",
+   "status": "🟢 arquivado",
+   "data": "20/05/2022",
+   "texto": "Frada. Conclusão: [...] Por todo o exposto, não sendo caso de instauração de Inquérito Civil ou Procedimento Preparatório, com supedâneo no art. 7º, inciso II do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato. Membro de Ministério Público: Simone Cristina Schultz Corrêa"
+  },
+  {
+   "i": 2610,
+   "tipo": "mp",
+   "ref": "01.2022.00012822-3",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00012822-3",
+   "status": "🟢 arquivado",
+   "data": "20/05/2022",
+   "texto": "Jéssica Moresco. Conclusão: [...] Por todo o exposto, não sendo caso de instauração de Inquérito Civil ou Procedimento Preparatório, com supedâneo no art. 7º, inciso II do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato. Membro de Ministério Público: Simone Cristina Schultz Corrêa"
+  },
+  {
+   "i": 2611,
+   "tipo": "mp",
+   "ref": "06.2021.00003952-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00003952-0",
+   "status": "❔ status indef.",
+   "data": "20/05/2022",
+   "texto": "Willian Tavares Tübel. Conclusão: proposta Ação Civil Pública n. 5020319-72.2022.8.24.0038."
+  },
+  {
+   "i": 2612,
+   "tipo": "mp",
+   "ref": "06.2022.00001862-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00001862-8",
+   "status": "🟢 arquivado",
+   "data": "20/05/2022",
+   "texto": "Fernando César Villain; João Marcos Lenschow. Conclusão: [...] Diante do todo exposto, considerando que nenhuma medida resta a ser adotada no âmbito desta Promotoria de Justiça no caso concreto, nos termos do artigo 16, § 2º, do Ato n. 395/2018/PJG, promovo o arquivamento do Procedimento Preparatório n. 06.2022.00001862-8."
+  },
+  {
+   "i": 2613,
+   "tipo": "mp",
+   "ref": "01.2022.00010115-6",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00010115-6",
+   "status": "🟢 arquivado",
+   "data": "23/05/2022",
+   "texto": "Débora Melo. Conclusão: [...] Por todo o exposto, não sendo caso de instauração de Inquérito Civil ou Procedimento Preparatório, com supedâneo no art. 7º, inciso II, do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato. Membro de Ministério Público: Simone Cristina Schultz Corrêa"
+  },
+  {
+   "i": 2614,
+   "tipo": "mp",
+   "ref": "01.2022.00015619-6",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00015619-6",
+   "status": "🟢 arquivado",
+   "data": "23/05/2022",
+   "texto": "Liliane Freitas Lovato. Conclusão: [...] Assim, considerando que os fatos já foram objeto de investigação, não existindo novas circunstâncias aptas a ensejar a evolução da presente Notícia de Fato, indefiro a representação formulada e promovo o seu devido arquivamento, nos termos dos artigos 6º e 7º, inciso II, do Ato n. 395/2018/PGJ. Membro de Ministério Público: Simone Cristina Schultz Corrêa"
+  },
+  {
+   "i": 2615,
+   "tipo": "mp",
+   "ref": "01.2022.00011921-3",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00011921-3",
+   "status": "❔ status indef.",
+   "data": "24/05/2022",
+   "texto": "Conselho Regional de Medicina do Estado de Santa Catarina (CRM/SC) e Ana Silvia Milhazes Zanon. Conclusão: Notícia de Fato. Possível exercício ilegal da medicina. Enfermeiras do Sistema Único de Saúde de Joinville que estariam solicitando exames e prescrevendo medicamentos a gestantes sem orientação médica. Fatos desprovidos de"
+  },
+  {
+   "i": 2616,
+   "tipo": "mp",
+   "ref": "06.2021.00004947-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00004947-2",
+   "status": "🟢 arquivado",
+   "data": "24/05/2022",
+   "texto": "Catia Zoller Porsch. Conclusão: [...] Diante do todo exposto, considerando que os direitos que se pretendiam resguardar com o presente ICP efetivamente estão sendo assegurados, promove-se o arquivamento do Inquérito Civil Público n. 06.2021.00004947-2."
+  },
+  {
+   "i": 2617,
+   "tipo": "mp",
+   "ref": "01.2022.00016366-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00016366-4",
+   "status": "🟡 em apuração",
+   "data": "24/05/2022",
+   "texto": "Liliane Brollo e \"a identificar\"."
+  },
+  {
+   "i": 2618,
+   "tipo": "mp",
+   "ref": "01.2022.00016542-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00016542-9",
+   "status": "🟡 em apuração",
+   "data": "26/05/2022",
+   "texto": "Letícia Nunes e Luana Lucietto."
+  },
+  {
+   "i": 2619,
+   "tipo": "mp",
+   "ref": "01.2022.00001983-8",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00001983-8",
+   "status": "🟢 arquivado",
+   "data": "30/05/2022",
+   "texto": "Liliane Freitas Lovato. Conclusão: [...] Portanto, no âmbito das atribuições desta Promotoria de Justiça, não há outras medidas a serem adotadas, razão pela qual, não sendo caso de instauração de Inquérito Civil ou Procedimento Preparatório, com supedâneo no art. 7º, inciso II, do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato. Membro de Ministério Público: Simone Cristina Schultz Corrêa"
+  },
+  {
+   "i": 2620,
+   "tipo": "mp",
+   "ref": "01.2022.00015188-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00015188-0",
+   "status": "🟢 arquivado",
+   "data": "31/05/2022",
+   "texto": "Halida Reinert. Conclusão: [...] Assim, obstada a adoção de outras providências por este Órgão de Execução. Por todo o exposto, não sendo caso de instauração de Inquérito Civil ou Procedimento Preparatório, com supedâneo no art. 7º, inciso II, do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato."
+  },
+  {
+   "i": 2621,
+   "tipo": "mp",
+   "ref": "06.2022.00002438-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2022.00002438-5",
+   "status": "🟡 em apuração",
+   "data": "01/06/2022",
+   "texto": "Ilma de Lourdes Souza-ME ou Lanchonete Franquise, cadastrado no CNPJ n. 00.370.547/0001-89 ou Lanchonete do Enio ou Enio Francisco Dalanhol - ME, cadastrado no CNPJ n. 06.351.587/0001-60, localizado na Rua Willy Schossland, n. 759, Bairro Aventureiro, neste município."
+  },
+  {
+   "i": 2622,
+   "tipo": "mp",
+   "ref": "06.2022.00002434-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00002434-1",
+   "status": "🟡 em apuração",
+   "data": "01/06/2022",
+   "texto": "Luciano de Aruanda Ferreira."
+  },
+  {
+   "i": 2623,
+   "tipo": "mp",
+   "ref": "01.2022.00017701-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2022.00017701-4",
+   "status": "🟡 em apuração",
+   "data": "02/06/2022",
+   "texto": "Luciano Benigno e Sidney Luis Silveira."
+  },
+  {
+   "i": 2624,
+   "tipo": "mp",
+   "ref": "01.2022.00000727-5",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00000727-5",
+   "status": "🟢 arquivado",
+   "data": "03/06/2022",
+   "texto": "Silvana Lima. Conclusão: [...] Logo, não se verificam outras providências a serem adotadas por este Órgão de Execução, uma vez que a situação inicialmente relatada se encontra resolvida. Por todo o exposto, não sendo caso de instauração de Inquérito Civil ou Procedimento Preparatório, com supedâneo no art. 7º, inciso II, do Ato n.º 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato. Membro de Ministério Público: Simone Cristina Schultz Corrêa"
+  },
+  {
+   "i": 2625,
+   "tipo": "mp",
+   "ref": "01.2022.00012021-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00012021-0",
+   "status": "🟢 arquivado",
+   "data": "03/06/2022",
+   "texto": "Karina Valsechi. Conclusão: [...] Todavia, no âmbito das atribuições administrativas desta Promotoria de Justiça, não há outras medidas a serem adotadas, notadamente diante do atendimento prestado ao animal, que atualmente encontra-se sob acompanhamento do Centro de Bem Estar Animal. Por fim, adotadas as medidas necessárias e constatando-se não ser o caso de instauração de Inquérito Civil ou Procedimento Preparatório, com supedâneo no art. 7º, inciso II, do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato. Membro de Ministério Público: Simone Cristina Schultz Corrêa"
+  },
+  {
+   "i": 2626,
+   "tipo": "mp",
+   "ref": "01.2022.00014210-3",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00014210-3",
+   "status": "🟢 arquivado",
+   "data": "03/06/2022",
+   "texto": "Marília da Silva Tôrres. Conclusão: [...] Por fim, adotadas as medidas necessárias e constatando-se não ser o caso de instauração de Inquérito Civil ou Procedimento Preparatório, com supedâneo no art. 7º, inciso II, do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato. supedâneo no art. 7º, inciso II, do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato. Membro de Ministério Público: Simone Cristina Schultz Corrêa"
+  },
+  {
+   "i": 2627,
+   "tipo": "mp",
+   "ref": "01.2022.00016542-9",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00016542-9",
+   "status": "🟢 arquivado",
+   "data": "07/06/2022",
+   "texto": "Letícia Nunes e Luana Lucietto. Conclusão: [...] Desta forma, não se vislumbra, ao menos por ora, necessidade de nenhuma providência a ser adotada por este Órgão de Execução, o que não impede que novas circunstâncias sejam relatadas pelas noticiantes, para adoção das medidas necessárias. Por todo o exposto, não sendo caso de instauração de Inquérito Civil ou Procedimento Preparatório, com supedâneo no art. 7º, inciso II, do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato. Membro de Ministério Público: Simone Cristina Schultz Corrêa"
+  },
+  {
+   "i": 2628,
+   "tipo": "mp",
+   "ref": "06.2020.00000570-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00000570-3",
+   "status": "❔ status indef.",
+   "data": "07/06/2022",
+   "texto": "Juarez Vieira. Conclusão: inexistência de fundamento para tomada de Ajuste de Condutas ou propositura de Ação Civil Pública."
+  },
+  {
+   "i": 2629,
+   "tipo": "mp",
+   "ref": "06.2021.00001007-6",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00001007-6",
+   "status": "❔ status indef.",
+   "data": "07/06/2022",
+   "texto": "Jair da Silva, Braaz Crescencio e Giane Klug. Conclusão: perda do objeto, à medida que o referido depósito de britas e areias ao lado da Associação de Moradores do Jardim Francine não mais ocorre."
+  },
+  {
+   "i": 2630,
+   "tipo": "mp",
+   "ref": "09.2022.00003289-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO n. 09.2022.00003289-6",
+   "status": "🟡 em apuração",
+   "data": "07/06/2022",
+   "texto": "Havan Lojas de Departamentos Ltda."
+  },
+  {
+   "i": 2631,
+   "tipo": "mp",
+   "ref": "06.2022.00002637-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00002637-2",
+   "status": "🟡 em apuração",
+   "data": "13/06/2022",
+   "texto": "2º Registro de Imóveis de Joinville."
+  },
+  {
+   "i": 2632,
+   "tipo": "mp",
+   "ref": "06.2022.00002597-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00002597-3",
+   "status": "🟡 em apuração",
+   "data": "14/06/2022",
+   "texto": "Ministério Público do Estado de Santa Catarina e Polícia Militar do Estado de Santa Catarina."
+  },
+  {
+   "i": 2633,
+   "tipo": "mp",
+   "ref": "01.2022.00018952-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00018952-1",
+   "status": "🟡 em apuração",
+   "data": "15/06/2022",
+   "texto": "Jaqueliny Arcari."
+  },
+  {
+   "i": 2634,
+   "tipo": "mp",
+   "ref": "06.2022.00002699-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00002699-4",
+   "status": "🟡 em apuração",
+   "data": "15/06/2022",
+   "texto": "a identificar."
+  },
+  {
+   "i": 2635,
+   "tipo": "mp",
+   "ref": "01.2022.00010411-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00010411-0",
+   "status": "🟢 arquivado",
+   "data": "17/06/2022",
+   "texto": "Liliane Lovato. Conclusão: [...] Por todo o exposto, não sendo caso de instauração de Inquérito Civil ou Procedimento Preparatório, com supedâneo no art. 7º, inciso II, do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato, sem prejuízo de instauração de novo procedimento quando do retorno do caderno policial. Membro de Ministério Público: Simone Cristina Schultz Corrêa"
+  },
+  {
+   "i": 2636,
+   "tipo": "mp",
+   "ref": "01.2022.00018792-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2022.00018792-3",
+   "status": "🟡 em apuração",
+   "data": "17/06/2022",
+   "texto": "Conselho Regional de Farmácia do Estado de Santa Catarina (CRF/SC) e Raia Drogasil S/A."
+  },
+  {
+   "i": 2637,
+   "tipo": "mp",
+   "ref": "01.2022.00019249-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00019249-2",
+   "status": "🟡 em apuração",
+   "data": "17/06/2022",
+   "texto": "Adineia dos Santos Gonçalves."
+  },
+  {
+   "i": 2638,
+   "tipo": "mp",
+   "ref": "01.2022.00012271-8",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00012271-8",
+   "status": "🟢 arquivado",
+   "data": "20/06/2022",
+   "texto": "Gert Roland Fischer. Conclusão: [...] Por todo o exposto, não sendo caso de instauração de Inquérito Civil ou Procedimento Preparatório, com supedâneo no art. 7º, inciso III, do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato. Membro de Ministério Público: Simone Cristina Schultz Corrêa"
+  },
+  {
+   "i": 2639,
+   "tipo": "mp",
+   "ref": "01.2022.00018928-7",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00018928-7",
+   "status": "🟢 arquivado",
+   "data": "21/06/2022",
+   "texto": "Carlos Eduardo da Silva. Conclusão: [...] Ante todo o exposto, considerando que os fatos já foram objeto de investigação, não existindo circunstâncias aptas a ensejar a evolução da presente Notícia de Fato, indefiro a representação formulada e promovo o seu devido arquivamento, nos termos dos artigos 6º e 7º, inciso II, do Ato n. 395/2018/PGJ. Membro de Ministério Público: Simone Cristina Schultz Corrêa"
+  },
+  {
+   "i": 2640,
+   "tipo": "mp",
+   "ref": "06.2022.00002637-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00002637-2",
+   "status": "🟢 arquivado",
+   "data": "21/06/2022",
+   "texto": "2º Cartório de Registro de Imóveis de Joinville. Conclusão: [...] diante de todo exposto e, precipuamente, considerando a não obrigatoriedade da averbação da reserva legal em relação ao imóvel em questão, nenhuma medida há a ser adotada pelo Ministério Público, nos termos do artigo 16, § 2º, do Ato n. 395/2018/PJG, promovo o arquivamento do Procedimento Preparatório 06.2022.00002637-2."
+  },
+  {
+   "i": 2641,
+   "tipo": "mp",
+   "ref": "06.2021.00004484-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00004484-4",
+   "status": "🟢 arquivado",
+   "data": "22/06/2022",
+   "texto": "Kelly Gambeta, Naiane Michele; Liliane Freitas Lovato e Clínica Veterinária Bicho Solto. Conclusão: [...] Diante do exposto, considerando a inexistência de fundamento para propositura de ação judicial (art. 48, I, do Ato n. 395/2018/PGJ) e não havendo outras medidas a serem adotadas, promovo o arquivamento do Inquérito Civil Público n. 06.2021.00004484-4."
+  },
+  {
+   "i": 2642,
+   "tipo": "mp",
+   "ref": "01.2022.00018894-4",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00018894-4",
+   "status": "🟢 arquivado",
+   "data": "23/06/2022",
+   "texto": "Lucineia Aparecida da Silva. Conclusão: [...] Por fim, adotadas as medidas necessárias e constatando-se não ser o caso de instauração de Inquérito Civil ou Procedimento Preparatório, com supedâneo no art. 7º, inciso II, do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato. Membro de Ministério Público: Barbara Machado Moura Fonseca."
+  },
+  {
+   "i": 2643,
+   "tipo": "mp",
+   "ref": "01.2022.00019892-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00019892-0",
+   "status": "🟡 em apuração",
+   "data": "23/06/2022",
+   "texto": "Camila Thayse."
+  },
+  {
+   "i": 2644,
+   "tipo": "mp",
+   "ref": "06.2022.00002319-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00002319-7",
+   "status": "❔ status indef.",
+   "data": "24/06/2022",
+   "texto": "Ministério Público do Estado de Santa Catarina e Everton Luiz Liberato. Conclusão: proposta Ação Civil Pública n. 5025269-27.2022.8.24.0038."
+  },
+  {
+   "i": 2645,
+   "tipo": "mp",
+   "ref": "01.2022.00004839-9",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00004839-9",
+   "status": "🟢 arquivado",
+   "data": "28/06/2022",
+   "texto": "21ª Promotoria de Justiça. Conclusão: [...] Por todo o exposto, não sendo caso de instauração de Inquérito Civil ou Procedimento Preparatório, porquanto os fatos foram solucionados, com supedâneo no art. 7º, inciso II, do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato. Membro de Ministério Público: Barbara Machado Moura Fonseca"
+  },
+  {
+   "i": 2646,
+   "tipo": "mp",
+   "ref": "01.2022.00018691-3",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00018691-3",
+   "status": "🟢 arquivado",
+   "data": "28/06/2022",
+   "texto": "Eduardo Augusto de Carvalho Sanches. Conclusão: [...] Por todo o exposto, não sendo caso de instauração de Inquérito Civil ou Procedimento Preparatório, porquanto existente autorização para corte e alvará para terraplanagem, com supedâneo no art. 7º, inciso I, do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato. Membro de Ministério Público: Barbara Machado Moura Fonseca"
+  },
+  {
+   "i": 2647,
+   "tipo": "mp",
+   "ref": "06.2021.00004603-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00004603-1",
+   "status": "🟢 arquivado",
+   "data": "28/06/2022",
+   "texto": "Rosana Zattar Picolli. Conclusão: [...] Sendo assim, considerando que a municipalidade está agindo eficazmente no atendimento a estes animais, segundo confirmado pela satisfação da própria noticiante, constata-se que a situação que ensejou na instauração do presente procedimento encontra-se resolvida, de forma que não restam outras medidas a serem adotadas por este órgão ministerial. Diante do todo exposto, considerando que os direitos que se pretendiam resguardar com o presente ICP efetivamente estão sendo assegurados, promove-se o arquivamento do Inquérito Civil Público n. 06.2021.00004603-1."
+  },
+  {
+   "i": 2648,
+   "tipo": "mp",
+   "ref": "01.2022.00020126-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2022.00020126-4",
+   "status": "🟡 em apuração",
+   "data": "28/06/2022",
+   "texto": "sigiloso e RZ Pesca."
+  },
+  {
+   "i": 2649,
+   "tipo": "mp",
+   "ref": "01.2022.00015009-1",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00015009-1",
+   "status": "🟢 arquivado",
+   "data": "29/06/2022",
+   "texto": "Evandro de Moraes. Conclusão: [...] Por todo o exposto, não sendo caso de instauração de Inquérito Civil ou Procedimento Preparatório, com supedâneo no art. 7º, inciso II, do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato, sem prejuízo de instauração de novo procedimento quando do retorno do caderno policial. Membro de Ministério Público: Barbara Machado Moura Fonseca"
+  },
+  {
+   "i": 2650,
+   "tipo": "mp",
+   "ref": "01.2022.00019202-6",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00019202-6",
+   "status": "🟢 arquivado",
+   "data": "29/06/2022",
+   "texto": "Cleisson Trevisani. Conclusão: [...] Por todo o exposto, não sendo caso de instauração de Inquérito Civil ou Procedimento Preparatório, porquanto os fatos foram solucionados, com supedâneo no art. 7º, inciso II, do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato. Membro de Ministério Público: Barbara Machado Moura Fonseca"
+  },
+  {
+   "i": 2651,
+   "tipo": "mp",
+   "ref": "06.2022.00001530-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00001530-9",
+   "status": "🟢 arquivado",
+   "data": "29/06/2022",
+   "texto": "MR Distribuidora, Conveniência e Mercearia. Conclusão: arquivamento ante a notícia de adequação do estabelecimento às normas de acessibilidade vigentes. Inexistência de fundamento para a propositura de ação judicial."
+  },
+  {
+   "i": 2652,
+   "tipo": "mp",
+   "ref": "01.2022.00020373-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00020373-0",
+   "status": "🟡 em apuração",
+   "data": "29/06/2022",
+   "texto": "Alee Bardini."
+  },
+  {
+   "i": 2653,
+   "tipo": "mp",
+   "ref": "01.2022.00020526-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00020526-0",
+   "status": "🟡 em apuração",
+   "data": "29/06/2022",
+   "texto": "Wellington Gonçalves de Paula."
+  },
+  {
+   "i": 2654,
+   "tipo": "mp",
+   "ref": "01.2022.00020624-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00020624-8",
+   "status": "🟡 em apuração",
+   "data": "29/06/2022",
+   "texto": "Marli Piekarski."
+  },
+  {
+   "i": 2655,
+   "tipo": "mp",
+   "ref": "06.2021.00002908-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00002908-7",
+   "status": "❔ status indef.",
+   "data": "30/06/2022",
+   "texto": "Ministério Público do Estado de Santa Catarina e Emtuco Serviços e Participações Ltda. Conclusão: proposta Ação Civil Pública n. 5026699-14.2022.8.24.0038."
+  },
+  {
+   "i": 2656,
+   "tipo": "mp",
+   "ref": "09.2018.00005431-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2018.00005431-2",
+   "status": "🟢 arquivado",
+   "data": "30/06/2022",
+   "texto": "Companhia Águas de Joinville. Conclusão: [...] Por todo o exposto, considerando que as cláusulas constantes do compromisso celebrado restaram cumpridas em sua totalidade, determino, com supedâneo no art. 15 do Ato n. 398/2018/PGJ,o arquivamento deste Procedimento Administrativo. Membro de Ministério Público: Barbara Machado Moura Fonseca"
+  },
+  {
+   "i": 2657,
+   "tipo": "mp",
+   "ref": "06.2022.00002889-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00002889-2",
+   "status": "🟡 em apuração",
+   "data": "30/06/2022",
+   "texto": "Josiane da Cunha Isabel."
+  },
+  {
+   "i": 2658,
+   "tipo": "mp",
+   "ref": "01.2022.00016138-8",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00016138-8",
+   "status": "❔ status indef.",
+   "data": "05/07/2022",
+   "texto": ".21ª Promotoria de Justiça da Comarca de Joinville e Companhia Integrada de Desenvolvimento Agrícola de Santa"
+  },
+  {
+   "i": 2659,
+   "tipo": "mp",
+   "ref": "01.2022.00013607-8",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00013607-8",
+   "status": "🟢 arquivado",
+   "data": "05/07/2022",
+   "texto": "Sabrina Rohleder Stertz. Conclusão: [...] Por fim, adotadas as medidas necessárias e constatando-se não ser o caso de instauração de Inquérito Civil ou Procedimento Preparatório, com supedâneo no art. 7º, inciso II do Ato n.º 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato. Membro de Ministério Público: Adriane Nicole Graciano"
+  }
+ ]
+}

@@ -1,0 +1,632 @@
+[
+  {
+    "i": 3360,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração em Joinville",
+    "description": "O MP apurou o fato narrado no extrato e encerrou o caso conforme o texto de origem.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3361,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre cavalos em sítio de Joinville",
+    "description": "O MP apurou a vulnerabilidade dos cavalos e a atuação da SAMA. Como os animais foram localizados em situação sem justificativa para nova ação, o caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3362,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre felino em Joinville",
+    "description": "O MP apurou a situação do animal com apoio do órgão de proteção animal. Ao final, concluiu que não havia medida útil ou que o bem-estar estava resguardado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3363,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3364,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3365,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3366,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3367,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3368,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3369,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3370,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3371,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3372,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP apura atendimento de saúde em Joinville",
+    "description": "O MP instaurou inquérito para apurar a situação indicada no texto e a atuação da rede de saúde. O caso segue em apuração.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3373,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3374,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3375,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3376,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3377,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3378,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3379,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3380,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre serviço de saúde em Joinville",
+    "description": "O MP avaliou a resposta administrativa da Secretaria Municipal de Saúde. Como o problema foi equacionado, o caso foi arquivado.",
+    "status": "❔ status indef.",
+    "severity": "media"
+  },
+  {
+    "i": 3381,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3382,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3383,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre cães em Joinville",
+    "description": "O MP apurou a situação dos animais com apoio da SAMA. Ao final, concluiu que o bem-estar estava resguardado ou que não havia medida útil a adotar.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3384,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3385,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3386,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre ganso em Joinville",
+    "description": "O MP apurou possível vulnerabilidade do animal, mas os fatos narrados não configuraram lesão ou ameaça aos interesses protegidos. O caso foi indeferido.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3387,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre felino em Joinville",
+    "description": "O MP apurou a situação do animal com apoio do órgão de proteção animal. Ao final, concluiu que não havia medida útil ou que o bem-estar estava resguardado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3388,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3389,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre felino em Joinville",
+    "description": "O MP apurou a situação do animal com apoio do órgão de proteção animal. Ao final, concluiu que não havia medida útil ou que o bem-estar estava resguardado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3390,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração em Joinville",
+    "description": "O MP apurou o fato narrado no extrato e encerrou o caso conforme o texto de origem.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3391,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3392,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3393,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3394,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3395,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3396,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração em Joinville",
+    "description": "O MP apurou o fato narrado no extrato e encerrou o caso conforme o texto de origem.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3397,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3398,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP registra recomendação cumprida sobre publicidade em outdoor",
+    "description": "O MP apurou a publicidade questionada e a recomendação foi acatada. O procedimento foi encerrado sem novas medidas.",
+    "status": "🟢 recomendação cumprida",
+    "severity": "media"
+  },
+  {
+    "i": 3399,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3400,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3401,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3402,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3403,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre cães em Joinville",
+    "description": "O MP apurou a situação dos animais com apoio da SAMA. Ao final, concluiu que o bem-estar estava resguardado ou que não havia medida útil a adotar.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3404,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração em Joinville",
+    "description": "O MP apurou o fato narrado no extrato e encerrou o caso conforme o texto de origem.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3405,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3406,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP apura maus-tratos contra cães pitbull em Joinville",
+    "description": "O MP apurou a situação dos animais e houve acionamento da Polícia Militar. Os cães foram acolhidos pelo Centro de Bem-Estar Animal e o caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3407,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração em Joinville",
+    "description": "O MP apurou o fato narrado no extrato e encerrou o caso conforme o texto de origem.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3408,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3409,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3410,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre cães em Joinville",
+    "description": "O MP apurou a situação dos animais com apoio da SAMA. Ao final, concluiu que o bem-estar estava resguardado ou que não havia medida útil a adotar.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3411,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração em Joinville",
+    "description": "O MP apurou o fato narrado no extrato e encerrou o caso conforme o texto de origem.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3412,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3413,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração em Joinville",
+    "description": "O MP apurou o fato narrado no extrato e encerrou o caso conforme o texto de origem.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3414,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3415,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre felino em Joinville",
+    "description": "O MP apurou a situação do animal com apoio do órgão de proteção animal. Ao final, concluiu que não havia medida útil ou que o bem-estar estava resguardado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3416,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC por exercício ilegal de personal trainer",
+    "description": "O MP apurou possível exercício ilegal da profissão de personal trainer. Houve TAC para cessar a prática e arquivamento do procedimento.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 3417,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3418,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre caso de canino em vulnerabilidade em Joinville",
+    "description": "O MP apurou a situação do animal com apoio da SAMA. Quando o bem-estar ficou resguardado ou o animal não foi localizado, o caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3419,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  },
+  {
+    "i": 3420,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração em Joinville",
+    "description": "O MP apurou o fato narrado no extrato e encerrou o caso conforme o texto de origem.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3421,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração em Joinville",
+    "description": "O MP apurou o fato narrado no extrato e encerrou o caso conforme o texto de origem.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3422,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre cães em Joinville",
+    "description": "O MP apurou a situação dos animais com apoio da SAMA. Ao final, concluiu que o bem-estar estava resguardado ou que não havia medida útil a adotar.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3423,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração em Joinville",
+    "description": "O MP apurou o fato narrado no extrato e encerrou o caso conforme o texto de origem.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3424,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração em Joinville",
+    "description": "O MP apurou o fato narrado no extrato e encerrou o caso conforme o texto de origem.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3425,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração em Joinville",
+    "description": "O MP apurou o fato narrado no extrato e encerrou o caso conforme o texto de origem.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3426,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre caso de canino em vulnerabilidade em Joinville",
+    "description": "O MP apurou a situação do animal com apoio da SAMA. Quando o bem-estar ficou resguardado ou o animal não foi localizado, o caso foi arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3427,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração em Joinville",
+    "description": "O MP apurou o fato narrado no extrato e encerrou o caso conforme o texto de origem.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3428,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração em Joinville",
+    "description": "O MP apurou o fato narrado no extrato e encerrou o caso conforme o texto de origem.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 3429,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": ""
+  }
+]

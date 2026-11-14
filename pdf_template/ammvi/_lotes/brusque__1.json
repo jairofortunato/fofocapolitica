@@ -1,0 +1,635 @@
+{
+ "cidade": "Brusque",
+ "casos": [
+  {
+   "i": 70,
+   "tipo": "mp",
+   "ref": "06.2016.00006145-0",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2016.00006145-0",
+   "status": "🟢 arquivado",
+   "data": "01/11/2023",
+   "texto": "Município de Brusque. Conclusão: no que concerne às questões ambientais, de atribuição desta Promotoria de Justiça, especialmente no que concerne ao objeto do presente procedimento, qual seja, eventual tubulação irregular de curso d'água na Rua Guilherme Ristow, Bairro Águas Claras, neste Município e Comarca, não foram constatadas irregularidades que desafiem a atuação do Ministério Público, de modo que é caso de arquivamento."
+  },
+  {
+   "i": 71,
+   "tipo": "mp",
+   "ref": "06.2022.00003892-4",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00003892-4",
+   "status": "🟢 arquivado",
+   "data": "18/03/2024",
+   "texto": "Município de Brusque/SC. Conclusão: arquivado em razão de inexistir fundamento para a propositura de ação civil pública, uma vez que as irregularidades encontradas nas inspeções realizadas nos dias 4/5/2022 e 27/4/2023 foram todas solucionadas, de modo que a entidade de execução de medida socioeducativa CREAS Brusque encontra-se em conformidade com a Lei 12.594/2012 (SINASE)."
+  },
+  {
+   "i": 72,
+   "tipo": "mp",
+   "ref": "06.2024.00002497-1",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00002497-1&ensp;&ensp;&ensp;",
+   "status": "🟡 em apuração",
+   "data": "06/06/2024",
+   "texto": "Jorge Leite de Lacerda, Thiago Maestri e Município de Brusque."
+  },
+  {
+   "i": 73,
+   "tipo": "mp",
+   "ref": "06.2024.00003562-4",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00003562-4",
+   "status": "🟡 em apuração",
+   "data": "15/08/2024",
+   "texto": "Município de Brusque."
+  },
+  {
+   "i": 74,
+   "tipo": "mp",
+   "ref": "06.2024.00003722-2",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00003722-2",
+   "status": "🟡 em apuração",
+   "data": "30/08/2024",
+   "texto": "Marcos Aurélio da Silva de Oliveira e Município de Brusque."
+  },
+  {
+   "i": 75,
+   "tipo": "mp",
+   "ref": "06.2024.00003722-2",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00003722-2",
+   "status": "🟢 arquivado",
+   "data": "01/10/2024",
+   "texto": "Marcos Aurélio Silva de Oliveira e Município de Brusque. Conclusão: Inquérito Civil instaurado para apurar questão envolvendo a criação do programa de escolas cívico-militares em Brusque. Finalizada a instauração, não foi identificada irregularidade quanto à realização de processo seletivo distinto para mulheres. No mais, foi ajuizado a Ação Direta de Inconstitucionalidade n. 5058634-21.2024.8.24.0000 visando combater a contratação indevida de pessoal por tempo determinado. Finalmente, a questão da regularidade deste tipo de escola depende de amadurecimento da questão em ação que tramitam no STF. Não havendo mais motivo para o prosseguimento do feito, promovo o seu arquivamento."
+  },
+  {
+   "i": 76,
+   "tipo": "mp",
+   "ref": "06.2025.00000053-9",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00000053-9",
+   "status": "🟡 em apuração",
+   "data": "19/02/2025",
+   "texto": "Município de Brusque e Flávio Figueiredo."
+  },
+  {
+   "i": 77,
+   "tipo": "mp",
+   "ref": "06.2025.00003800-3",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00003800-3",
+   "status": "🟡 em apuração",
+   "data": "23/09/2025",
+   "texto": "IMA e Extração de Areia Fantoni Ltda."
+  },
+  {
+   "i": 78,
+   "tipo": "mp",
+   "ref": "06.2025.00004782-4",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00004782-4",
+   "status": "🟡 em apuração",
+   "data": "06/11/2025",
+   "texto": "Valter Teixeira, Teodorico Manoel da Silva, Marcos Antonio Barni Baptistoti e Silvio Bertolini."
+  },
+  {
+   "i": 79,
+   "tipo": "mp",
+   "ref": "06.2026.00002319-1",
+   "header": "• EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2026.00002319-1",
+   "status": "🟡 em apuração",
+   "data": "05/06/2026",
+   "texto": "Ministério Público e Jailton Soares Pereira Júnior."
+  },
+  {
+   "i": 80,
+   "tipo": "mp",
+   "ref": "06.2020.00001584-5",
+   "header": "• EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00001584-5",
+   "status": "❔ status indef.",
+   "data": "16/06/2026",
+   "texto": "Ministério Público de Santa Catarina e Condomínio Centro Comercial e Industrial Azambuja, localizado no Município de Brusque. Conclusão: consta da conclusão técnica exarada pelo órgão de segurança competente a ausência de caracterização de situação de grave risco atual ou iminente apta a evidenciar violação concreta, relevante e intolerável aos direitos fundamentais à vida, à integridade física e à segurança dos ocupantes da edificação. Com efeito, embora remanesçam pendências relacionadas às instalações do Condomínio Centro Comercial e Industrial Azambuja, verifica-se que tais inconformidades permanecem sob regular acompanhamento do órgão técnico fiscalizador, o qual vem adotando as providências administrativas cabíveis e exigindo"
+  },
+  {
+   "i": 81,
+   "tipo": "mp",
+   "ref": "06.2019.00001290-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00001290-4",
+   "status": "❔ status indef.",
+   "data": "02/06/2022",
+   "texto": "Município de Brusque e anônimo. Conclusão: não há fundamento para a propositura de ação civil pública, tendo em vista que as falhas estruturais no Centro de Educação Infantil Clara Maria Furtado foram corrigidas."
+  },
+  {
+   "i": 82,
+   "tipo": "mp",
+   "ref": "06.2023.00000487-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00000487-1",
+   "status": "🟡 em apuração",
+   "data": "09/02/2023",
+   "texto": "Luciano Camargo, Guilherme Camargo, Cleber Ivan Muller, Valmir Valentim de Aguirres e Giovanni Fellini x Serviço Autônomo Municipal de Água e Esgoto (SAMAE) e ACESSE Concursos Ltda."
+  },
+  {
+   "i": 83,
+   "tipo": "mp",
+   "ref": "06.2023.00001310-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00001310-4",
+   "status": "🟡 em apuração",
+   "data": "10/04/2023",
+   "texto": "Município de Brusque/SC."
+  },
+  {
+   "i": 84,
+   "tipo": "mp",
+   "ref": "06.2023.00001941-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00001941-0",
+   "status": "🟡 em apuração",
+   "data": "23/05/2023",
+   "texto": "Município de Brusque/SC."
+  },
+  {
+   "i": 85,
+   "tipo": "mp",
+   "ref": "06.2023.00002548-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00002548-8",
+   "status": "🟡 em apuração",
+   "data": "30/06/2023",
+   "texto": "Município de Brusque/SC."
+  },
+  {
+   "i": 86,
+   "tipo": "mp",
+   "ref": "06.2023.00003169-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00003169-0",
+   "status": "❔ status indef.",
+   "data": "18/10/2023",
+   "texto": "Município de Brusque e Outros. Conclusão: não há fundamento para a propositura de ação civil pública, tendo em vista que o Município de Brusque tomou todas as medidas para resguardar a segurança dos alunos do pré 2 do Centro de Educação Infantil Alberto Pretti."
+  },
+  {
+   "i": 87,
+   "tipo": "mp",
+   "ref": "06.2024.00000489-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00000489-7",
+   "status": "🟡 em apuração",
+   "data": "06/02/2024",
+   "texto": "Secretaria de Meio Ambiente de Botuverá/SC, Ivo Molinari, Wanderléia Doria e Francisco Bentinelli."
+  },
+  {
+   "i": 88,
+   "tipo": "mp",
+   "ref": "06.2024.00000508-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00000508-5",
+   "status": "🟢 arquivado",
+   "data": "26/06/2024",
+   "texto": "Município de Brusque, Secretaria de Saúde de Brusque, Secretaria Educação de Brusque, Conselho Tutelar de Brusque e estabelecimentos de ensino da rede privada de Brusque. Conclusão: arquivado em razão de inexistir fundamento para a propositura de ação civil pública, uma vez que, por força de decisão do Supremo Tribunal de Federal, o Decreto n. 9.735 não está em vigor e as escolas públicas e privadas de Brusque estão cobrando dos pais a apresentação do comprovante de vacinação contra a Covid-19 para a realização da matrícula e rematrícula escolar. Além disso, os casos que chegarem a esta Promotoria de Justiça de negativa dos pais, para a vacinação dos filhos contra Covid-19, serão analisados em procedimentos individuais."
+  },
+  {
+   "i": 89,
+   "tipo": "mp",
+   "ref": "06.2023.00000487-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00000487-1",
+   "status": "🟢 arquivado",
+   "data": "14/10/2024",
+   "texto": "Luciano Camargo; ACESSE Concursos e SAMAE de Brusque. Conclusão: representação noticiando diversas irregularidades em concurso público promovido pela ACESSE Concursos para o SAMAE de Brusque. Finalizada a instrução, parte das irregularidades não foi confirmada e parte foi comprovada, justificando o ajuizamento de algumas ações. No mais, resta concluir o procedimento em tramitação do SAMAE para apuração e responsabilização no âmbito administrativo. Não havendo mais medidas a adotar neste Inquérito Civil, promovo o seu arquivamento."
+  },
+  {
+   "i": 90,
+   "tipo": "mp",
+   "ref": "06.2025.00004064-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00004064-2",
+   "status": "🟡 em apuração",
+   "data": "01/10/2025",
+   "texto": "Município de Brusque/SC."
+  },
+  {
+   "i": 91,
+   "tipo": "mp",
+   "ref": "06.2025.00004065-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00004065-3",
+   "status": "🟡 em apuração",
+   "data": "02/10/2025",
+   "texto": "Conselho Estadual de Educação de Santa Catarina e Colégio Amplo."
+  },
+  {
+   "i": 92,
+   "tipo": "mp",
+   "ref": "06.2025.00004290-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00004290-7",
+   "status": "🟡 em apuração",
+   "data": "23/10/2025",
+   "texto": "Kaylaine Dominique Freitas e D. Felipe Dell Agnolo."
+  },
+  {
+   "i": 93,
+   "tipo": "mp",
+   "ref": "06.2026.00001936-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2026.00001936-5",
+   "status": "🟡 em apuração",
+   "data": "18/05/2026",
+   "texto": "Secretaria de Meio Ambiente de Botuverá e Francisco Betinelli."
+  },
+  {
+   "i": 94,
+   "tipo": "mp",
+   "ref": "06.2021.00000819-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00000819-2",
+   "status": "🟢 arquivado",
+   "data": "01/02/2022",
+   "texto": "Maria Teresinha Montibeller e João Hach. Conclusão: Ambiental. Inquérito Civil instaurado para apurar irregularidades na construção realizada por João Hach, em imóvel situado na Rua Florêncio Day, n. 219, Bairro Azambuja, Brusque/SC, em área de risco. Inexistência de fundamento para adoção de medidas administrativas ou para a propositura de ação civil pública. Ação judicial com objeto idêntico ao versado, em trâmite nos Autos n. 0302995-46.2014.8.24.0011. Perda superveniente do interesse de agir. Promoção de arquivamento que se submete ao Conselho Superior do Ministério Público."
+  },
+  {
+   "i": 95,
+   "tipo": "mp",
+   "ref": "06.2021.00004144-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00004144-7",
+   "status": "🔴 ACP em curso",
+   "data": "08/02/2022",
+   "texto": "Ministério Público (de ofício) x Município de Brusque e William Fernandes Molina. Conclusão: ajuizada a Ação Civil Pública n. 5015565-08.2021.8.24.0011."
+  },
+  {
+   "i": 96,
+   "tipo": "mp",
+   "ref": "06.2019.00004640-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00004640-5",
+   "status": "❔ status indef.",
+   "data": "15/02/2022",
+   "texto": "Município de Brusque e José Santos. Conclusão: propositura de Ação Civil Pública."
+  },
+  {
+   "i": 97,
+   "tipo": "mp",
+   "ref": "06.2019.00004640-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00004640-5",
+   "status": "❔ status indef.",
+   "data": "17/02/2022",
+   "texto": "Município de Brusque e José Santos. Conclusão: propositura de Ação Civil Pública."
+  },
+  {
+   "i": 98,
+   "tipo": "mp",
+   "ref": "06.2021.00001059-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00001059-8",
+   "status": "🟢 arquivado",
+   "data": "22/02/2022",
+   "texto": "Dulcemar Paza Ristow. Conclusão: Inquérito Civil. Apurar eventual excesso de animais na residência de Dulmecar Paza Ristow, causando mau cheiro e eventuais irregularidades sanitárias, bem como para adotar as providências de natureza extraprocessual e processual que se fizerem necessárias à proteção da saúde pública e dos animais. Inexistência de situação que justifique a atuação do Ministério Público, seja com o prosseguimento do procedimento ou com a deflagração de medida judicial. Arquivamento."
+  },
+  {
+   "i": 99,
+   "tipo": "mp",
+   "ref": "06.2022.00001114-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2022.00001114-6",
+   "status": "🟡 em apuração",
+   "data": "02/03/2022",
+   "texto": "Município de Brusque e Cleidir da Silva."
+  },
+  {
+   "i": 100,
+   "tipo": "mp",
+   "ref": "06.2019.00004498-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00004498-4",
+   "status": "❔ status indef.",
+   "data": "15/03/2022",
+   "texto": "FUNDEMA, a Defesa Civil do Município de Brusque, Lauri Bononomi e Vanderlei Bononomi. Conclusão: não há qualquer intervenção pendente de realização no local investigado, pois o talude está estável e não requer nenhuma ação de proteção no presente momento."
+  },
+  {
+   "i": 101,
+   "tipo": "mp",
+   "ref": "06.2022.00001401-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00001401-0",
+   "status": "🟡 em apuração",
+   "data": "15/03/2022",
+   "texto": "Município de Brusque e Conselho Tutelar do Município de Brusque."
+  },
+  {
+   "i": 102,
+   "tipo": "mp",
+   "ref": "06.2018.00004806-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2018.00004806-5",
+   "status": "🟢 arquivado",
+   "data": "16/03/2022",
+   "texto": "Eudez Pavesi e Município de Brusque. Conclusão: Inquérito Civil instaurado para apurar possível implantação de parcelamento irregular ou clandestino do solo, ao final da via SC-043, Bairro Souza Cruz, no Município de Brusque. Implantação do empreendimento clandestino confirmada. Programa Lar Legal em andamento por meio do Processo n. 5004406-39.2019.8.24.0011. Iniciação de REURB pelo Município de Brusque em relação ao núcleo urbano informal. Interesses difusos ora tutelados resguardados. Inexistência de fundamento para a propositura de ação judicial. Arquivamento."
+  },
+  {
+   "i": 103,
+   "tipo": "mp",
+   "ref": "06.2021.00005031-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00005031-3",
+   "status": "❔ status indef.",
+   "data": "04/05/2022",
+   "texto": "Município de Brusque. Conclusão: não há fundamento para a propositura de ação civil pública, tendo em vista que o Município de Brusque acatou as disposições contidas na Recomendação n. 0001/2022/01PJ/BRU."
+  },
+  {
+   "i": 104,
+   "tipo": "mp",
+   "ref": "06.2022.00002121-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00002121-1",
+   "status": "🟡 em apuração",
+   "data": "11/05/2022",
+   "texto": "Município de Brusque."
+  },
+  {
+   "i": 105,
+   "tipo": "mp",
+   "ref": "06.2015.00002893-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2015.00002893-5",
+   "status": "❔ status indef.",
+   "data": "01/07/2022",
+   "texto": "Conselho Municipal de Patrimônio Histórico, Natural e Artistico Cultural de Brusque/SC. Conclusão: propositura de Ação Civil Pública, objetivando a condenação Município de Brusque na obrigação de fazer, consubstancia em adotar todas a providências necessárias ao cumprimento das etapas previstas no Decreto n. 8.685/2020 para, ao final, garantir a realização de um processo participativo de elaboração de Diagnóstico e a Execução de um Plano de Ação objetivando a Revisão do Inventário do Patrimônio Arquitetônico Urbanístico de Brusque, bem como definir os critérios e o procedimento administrativo para inclusão e exclusão de bens no respectivo inventário."
+  },
+  {
+   "i": 106,
+   "tipo": "mp",
+   "ref": "06.2022.00003001-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00003001-0",
+   "status": "🟡 em apuração",
+   "data": "11/07/2022",
+   "texto": "Rita Scharf, Ademir Scharf, Renilda Terezinha Scharf, Rosita Scharf, Natal Estevane Scharf, Adriano Scharf, Sandra Hodecker Scharf, Roseli Scharf, Armando Scharf, Raquel da Silva Scharf, Erico Scharf e Gilda Scharf."
+  },
+  {
+   "i": 107,
+   "tipo": "mp",
+   "ref": "06.2022.00003118-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00003118-6",
+   "status": "🟡 em apuração",
+   "data": "19/07/2022",
+   "texto": "Município de Brusque."
+  },
+  {
+   "i": 108,
+   "tipo": "mp",
+   "ref": "06.2015.00005222-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2015.00005222-4",
+   "status": "❔ status indef.",
+   "data": "17/08/2022",
+   "texto": "Município de Brusque e Hermenegildo Dalcegio. Conclusão: propositura de Ação Civil Pública."
+  },
+  {
+   "i": 109,
+   "tipo": "mp",
+   "ref": "09.2022.00005348-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00005348-0",
+   "status": "🟡 em apuração",
+   "data": "31/08/2022",
+   "texto": "Ministério Público do Estado de Santa Catarina e Município de Brusque."
+  },
+  {
+   "i": 110,
+   "tipo": "mp",
+   "ref": "06.2022.00002764-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00002764-9.",
+   "status": "❔ status indef.",
+   "data": "10/10/2022",
+   "texto": "Município de Brusque. Conclusão: Não há fundamento para a propositura de ação civil pública, tendo em vista que o Município de Brusque acatou as disposições contidas na Recomendação n. 0008/2022/01PJ/BRU."
+  },
+  {
+   "i": 111,
+   "tipo": "mp",
+   "ref": "06.2022.00004145-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004145-1",
+   "status": "🟡 em apuração",
+   "data": "17/10/2022",
+   "texto": "Ivan Maestri."
+  },
+  {
+   "i": 112,
+   "tipo": "mp",
+   "ref": "06.2022.00004507-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004507-0",
+   "status": "🟡 em apuração",
+   "data": "14/11/2022",
+   "texto": "Partido Progressista de Botuverá, Mário Francisco Tachini, Fabio Maestri Bagio e Rodrigo Ivan Lazzarotti."
+  },
+  {
+   "i": 113,
+   "tipo": "mp",
+   "ref": "06.2023.00000785-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00000785-7",
+   "status": "🟡 em apuração",
+   "data": "06/03/2023",
+   "texto": "Alceu Batista Leal e outros."
+  },
+  {
+   "i": 114,
+   "tipo": "mp",
+   "ref": "06.2023.00000925-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00000925-5",
+   "status": "🟡 em apuração",
+   "data": "14/03/2023",
+   "texto": "Município de Brusque/SC."
+  },
+  {
+   "i": 115,
+   "tipo": "mp",
+   "ref": "06.2023.00000955-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00000955-5",
+   "status": "🟡 em apuração",
+   "data": "14/03/2023",
+   "texto": "Município de Brusque e Sindicato dos Servidores Públicos Municipais de Brusque."
+  },
+  {
+   "i": 116,
+   "tipo": "mp",
+   "ref": "06.2022.00002121-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00002121-1",
+   "status": "❔ status indef.",
+   "data": "17/03/2023",
+   "texto": "Município de Brusque. Conclusão: não há fundamento para a propositura de ação civil pública, tendo em vista que o Município de Brusque concretizou a gestão democrática na escolha do diretor escolar por meio da Lei Municipal n. 4.512/2022."
+  },
+  {
+   "i": 117,
+   "tipo": "mp",
+   "ref": "06.2018.00004820-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2018.00004820-0",
+   "status": "❔ status indef.",
+   "data": "21/03/2023",
+   "texto": "Município de Brusque e Informante (dados no cadastro). Conclusão: tendo em vista que as medidas estão sendo gradativamente tomadas e considerando que a aplicação de recursos na solução do problema daquela localidade está abrangida pelo poder discricionário do administrador público, forma-se o convencimento de que inexiste fundamento para o ajuizamento do presente procedimento."
+  },
+  {
+   "i": 118,
+   "tipo": "mp",
+   "ref": "06.2023.00001333-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2023.00001333-7",
+   "status": "🟡 em apuração",
+   "data": "14/04/2023",
+   "texto": "Conecta Empreendimentos Ltda."
+  },
+  {
+   "i": 119,
+   "tipo": "mp",
+   "ref": "06.2023.00001310-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00001310-4",
+   "status": "❔ status indef.",
+   "data": "12/05/2023",
+   "texto": "Município de Brusque. Conclusão: não há fundamento para a propositura de ação civil pública, tendo em vista que o Município de Brusque acatou as disposições contidas na Recomendação n. 0010/2023/01PJ/BRU."
+  },
+  {
+   "i": 120,
+   "tipo": "mp",
+   "ref": "06.2022.00004120-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00004120-7",
+   "status": "❔ status indef.",
+   "data": "12/06/2023",
+   "texto": "Município de Brusque e Estado de Santa Catarina. Conclusão: não há fundamento para a propositura de ação civil pública, tendo em vista que a suposta falta de psiquiatras e de psicólogo para atender aos estudantes com quadro de autolesão da E.E.B. Padre Lux foi resolvida, bem como porque o Estado de Santa Catarina já anunciou que irá contratar policiais da reserva para fazer a segurança das escolas, o que afasta a necessidade de contratação de vigilante presencial."
+  },
+  {
+   "i": 121,
+   "tipo": "mp",
+   "ref": "06.2023.00002317-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00002317-9",
+   "status": "🟡 em apuração",
+   "data": "15/06/2023",
+   "texto": "Município de Brusque, Prisma Trading Eireli, Conceito Digital Indústria e Comércio de Tecidos Ltda., Henry Dodge Ltda e Ideal Concept Comércio de Móveis Eireli."
+  },
+  {
+   "i": 122,
+   "tipo": "mp",
+   "ref": "06.2023.00002707-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00002707-5",
+   "status": "🟡 em apuração",
+   "data": "11/07/2023",
+   "texto": "Município de Brusque."
+  },
+  {
+   "i": 123,
+   "tipo": "mp",
+   "ref": "06.2016.00005363-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2016.00005363-8",
+   "status": "🟢 arquivado",
+   "data": "17/07/2023",
+   "texto": "Município de Brusque e Aliança Empreendimentos Imobiliários Ltda. Conclusão: durante o trâmite do presente procedimento, entre 2016 e 2023, foi resolvida a situação do que se apontava como encravamento do lote n. 14 do Loteamento Condomínio Residencial Bela Vista que, atualmente, conforme acima delineado, faz frente para a Rua Michel Píer Paza, a qual tem infraestrutura totalmente implantada. Diante disso, firma-se na presente fase do procedimento, o convencimento de que inexiste motivos para o ajuizamento de ação judicial, sendo assim o caso de arquivamento."
+  },
+  {
+   "i": 124,
+   "tipo": "mp",
+   "ref": "06.2023.00002778-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00002778-6",
+   "status": "🟡 em apuração",
+   "data": "18/07/2023",
+   "texto": "Ministério Público do Estado de Santa Catarina e Município de Brusque."
+  },
+  {
+   "i": 125,
+   "tipo": "mp",
+   "ref": "06.2023.00001286-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00001286-0",
+   "status": "❔ status indef.",
+   "data": "02/08/2023",
+   "texto": "Centro de Apoio da Moralidade Administrativa e Município de Brusque. Conclusão: Inquérito Civil instaurado para apurar o descumprimento, pelo Município de Brusque, dos itens apontados no"
+  },
+  {
+   "i": 126,
+   "tipo": "mp",
+   "ref": "06.2023.00002548-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00002548-8",
+   "status": "❔ status indef.",
+   "data": "10/08/2023",
+   "texto": "Município de Brusque e Ministério Público do Estado de Santa Catarina. Conclusão: não há fundamento para a propositura de ação civil pública, tendo em vista que o Município de Brusque acatou as disposições contidas na Recomendação expedida pelo Ministério Público e forneceu transporte escolar à criança."
+  },
+  {
+   "i": 127,
+   "tipo": "mp",
+   "ref": "06.2023.00003241-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00003241-2",
+   "status": "🟡 em apuração",
+   "data": "17/08/2023",
+   "texto": "Procuradoria de República em Itajaí e Claudinei Vanelli."
+  },
+  {
+   "i": 128,
+   "tipo": "mp",
+   "ref": "09.2023.00007075-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2023.00007075-0",
+   "status": "🟡 em apuração",
+   "data": "18/09/2023",
+   "texto": "Ministério Público de Santa Catarina e Município de Brusque."
+  },
+  {
+   "i": 129,
+   "tipo": "mp",
+   "ref": "06.2022.00002352-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00002352-0",
+   "status": "🟢 arquivado",
+   "data": "22/09/2023",
+   "texto": "Marcelo Alves dos Santos, Município de Brusque e DDWC Administração e Participações Ltda. Conclusão: conclui-se que é caso de arquivamento do presente feito, uma vez que as informações apresentadas no curso do procedimento foram conclusivas, ou seja, não há elementos que embasem ou justifiquem o ajuizamento de ação civil competente."
+  },
+  {
+   "i": 130,
+   "tipo": "mp",
+   "ref": "06.2021.00004065-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00004065-9",
+   "status": "🟢 arquivado",
+   "data": "04/10/2023",
+   "texto": "Gerson Bueno, Empreendimentos Isaias Hort Ltda. e Município de Brusque. Conclusão: conclui-se que é caso de arquivamento do presente feito, uma vez que as informações apresentadas no curso do procedimento foram conclusivas, ou seja, não há elementos que embasem ou justifiquem o ajuizamento de ação civil competente."
+  },
+  {
+   "i": 131,
+   "tipo": "mp",
+   "ref": "06.2023.00004243-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00004243-2",
+   "status": "🟡 em apuração",
+   "data": "31/10/2023",
+   "texto": "Ministério Público de Santa Catarina e Município de Brusque."
+  },
+  {
+   "i": 132,
+   "tipo": "mp",
+   "ref": "06.2023.00001941-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00001941-0",
+   "status": "🟢 arquivado",
+   "data": "11/12/2023",
+   "texto": "Renata Priscila Alves de Souza e Município de Brusque. Conclusão: arquivado em razão de inexistir fundamento para a propositura de ação civil pública, uma vez que o Município de Brusque instaurou e concluiu o Processo Administrativo de Sindicância n. 004/2023 sobre os fatos denunciados."
+  },
+  {
+   "i": 133,
+   "tipo": "mp",
+   "ref": "09.2023.00009397-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2023.00009397-6",
+   "status": "🟡 em apuração",
+   "data": "11/12/2023",
+   "texto": "Monia Maian Bett Torresani dos Santos e Município de Brusque."
+  },
+  {
+   "i": 134,
+   "tipo": "mp",
+   "ref": "06.2023.00004243-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00004243-2",
+   "status": "🟢 arquivado",
+   "data": "12/12/2023",
+   "texto": "Município de Brusque. Conclusão: arquivado em razão de inexistir fundamento para a propositura de ação civil pública, uma vez que o Município de Brusque designou profissional Coordenador para compor a equipe do Serviço de Família Acolhedora, atendendo, assim, os ditames do artigo 16 da Lei Municipal n. 3.350/2012."
+  },
+  {
+   "i": 135,
+   "tipo": "mp",
+   "ref": "06.2024.00000508-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2024.00000508-5",
+   "status": "🟡 em apuração",
+   "data": "06/02/2024",
+   "texto": "Município de Brusque."
+  },
+  {
+   "i": 136,
+   "tipo": "mp",
+   "ref": "06.2024.00000481-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00000481-0",
+   "status": "🟡 em apuração",
+   "data": "06/02/2024",
+   "texto": "Luana Maria Ribeiro de Deus e Município de Brusque/SC."
+  },
+  {
+   "i": 137,
+   "tipo": "mp",
+   "ref": "06.2020.00002222-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00002222-4",
+   "status": "❔ status indef.",
+   "data": "11/03/2024",
+   "texto": "Rogério da Silva e Município de Brusque. Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil competente."
+  },
+  {
+   "i": 138,
+   "tipo": "mp",
+   "ref": "06.2021.00000417-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00000417-4",
+   "status": "❔ status indef.",
+   "data": "09/04/2024",
+   "texto": "anônimo, EPS Mafra Administradora de Bens Eireli, Osni Teodoro Galassini e Município de Brusque. Conclusão: conclui-se que não há elementos que embasem ou justifiquem o ajuizamento de ação civil competente."
+  },
+  {
+   "i": 139,
+   "tipo": "mp",
+   "ref": "01.2024.00008322-7",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00008322-7",
+   "status": "❔ status indef.",
+   "data": "10/04/2024",
+   "texto": "Lucelia Correia Branco e Fischer Indústria e Comércio de Resíduos de Papel Ltda. Conclusão: não foram constatadas irregularidades na vistoria realizada, tanto do ponto de vista sanitário quanto ambiental, razão pela qual não há elementos que embasem ou justifiquem o ajuizamento de ação civil competente."
+  }
+ ]
+}

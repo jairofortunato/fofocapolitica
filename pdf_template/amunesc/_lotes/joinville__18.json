@@ -1,0 +1,635 @@
+{
+ "cidade": "Joinville",
+ "casos": [
+  {
+   "i": 1260,
+   "tipo": "mp",
+   "ref": "01.2024.00012451-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00012451-3",
+   "status": "🟡 em apuração",
+   "data": "04/04/2024",
+   "texto": "Daiane Cristina da Rosa Vieira."
+  },
+  {
+   "i": 1261,
+   "tipo": "mp",
+   "ref": "01.2024.00012472-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00012472-4",
+   "status": "🟡 em apuração",
+   "data": "04/04/2024",
+   "texto": "Davy Lincoln Rocha."
+  },
+  {
+   "i": 1262,
+   "tipo": "mp",
+   "ref": "06.2024.00001058-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00001058-8",
+   "status": "🟡 em apuração",
+   "data": "04/04/2024",
+   "texto": "Luis Carlos Wolf, João Carlos Amaral Leônidas e Secretária da Saúde do Município de Joinville."
+  },
+  {
+   "i": 1263,
+   "tipo": "mp",
+   "ref": "01.2024.00008919-8",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00008919-8",
+   "status": "🟢 arquivado",
+   "data": "05/04/2024",
+   "texto": "Jennifer Caroline. Conclusão: apurar possível situação de vulnerabilidade de um cão, aparentemente com um tumor na boca, abandonado próximo à Padaria Delícia, situada na Rua Paulo Schneider, n. 574, Bairro Vila Nova, Município de Joinville Atuação da SAMA. Canino acolhido por um casal. Ausência de medidas a serem adotadas pelo Órgão de Execução. Indeferimento de instauração com base no artigo 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 1264,
+   "tipo": "mp",
+   "ref": "06.2024.00001526-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE PROCEDIMENTO PREPARATÓRIO N. 06.2024.00001526-1",
+   "status": "🟡 em apuração",
+   "data": "05/04/2024",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 1265,
+   "tipo": "mp",
+   "ref": "01.2024.00005311-1",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00005311-1",
+   "status": "🟢 arquivado",
+   "data": "08/04/2024",
+   "texto": "Querem Santos, Jéssica Cardoso, Benadir J. S. Albano e Franciel da Silva Albano. Conclusão: apurar situação de vulnerabilidade de égua supostamente amarrada em terreno baldio, sem acesso a abrigo ou recipiente com água, cujos fatos foram abordados nos Protocolos n. 24.0.032895-6, 24.0.032994-4, 24.0.033000-4 e 24.0.032999-5, registrados perante a Ouvidoria da Prefeitura Municipal. Instada a diligenciar no local, a SAMA, notificou o tutor para providenciar abrigo adequado ao animal, a determinação foi atendida. Bem-estar do animal resguardado. Indeferimento de Instauração com base no artigo 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 1266,
+   "tipo": "mp",
+   "ref": "01.2024.00011485-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2024.00011485-9",
+   "status": "🟡 em apuração",
+   "data": "10/04/2024",
+   "texto": "Amarildo Jose da Silva - ME e Município de Joinville."
+  },
+  {
+   "i": 1267,
+   "tipo": "mp",
+   "ref": "06.2024.00000767-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000767-2",
+   "status": "🟢 arquivado",
+   "data": "12/04/2024",
+   "texto": "Alessandro Miloschewski Petry. Conclusão: apurar atendimento prestado ao protocolo n. 23.0.246723-4, registrado na Prefeitura Municipal de Joinville, cujo teor tratava de um canino de cor preta, em situação de vulnerabilidade, em imóvel localizado na Rua Avencal, n. 900, Bairro Comasa, Joinville/SC. Atuação da SAMA. Auto de Notificação lavrado. Constatado a presença de seis animais no local. Caninos vacinados, microchipados e com abrigo adequado. Bem-estar resguardado. Inexistência de fundamento para ingresso de Ação Civil Pública. Arquivamento. Artigo 48, inciso I, do Ato 395/2018/PGJ."
+  },
+  {
+   "i": 1268,
+   "tipo": "mp",
+   "ref": "01.2024.00013870-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00013870-7",
+   "status": "🟡 em apuração",
+   "data": "12/04/2024",
+   "texto": "Elaine Cristina Vieira."
+  },
+  {
+   "i": 1269,
+   "tipo": "mp",
+   "ref": "01.2024.00014116-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00014116-7",
+   "status": "🟡 em apuração",
+   "data": "15/04/2024",
+   "texto": "sigilosa."
+  },
+  {
+   "i": 1270,
+   "tipo": "mp",
+   "ref": "01.2024.00014354-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00014354-3",
+   "status": "🟡 em apuração",
+   "data": "15/04/2024",
+   "texto": "José Rodrigo de Souza."
+  },
+  {
+   "i": 1271,
+   "tipo": "mp",
+   "ref": "06.2023.00002589-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00002589-9",
+   "status": "🟡 em apuração",
+   "data": "15/04/2024",
+   "texto": "anônimo, Município de Joinville e Pedro Paulo Antunes."
+  },
+  {
+   "i": 1272,
+   "tipo": "mp",
+   "ref": "01.2024.00014411-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00014411-0",
+   "status": "🟡 em apuração",
+   "data": "16/04/2024",
+   "texto": "Suelen Tobler."
+  },
+  {
+   "i": 1273,
+   "tipo": "mp",
+   "ref": "01.2024.00014531-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00014531-9",
+   "status": "🟡 em apuração",
+   "data": "16/04/2024",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 1274,
+   "tipo": "mp",
+   "ref": "06.2023.00002794-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00002794-2",
+   "status": "🟡 em apuração",
+   "data": "16/04/2024",
+   "texto": "Município de Joinville."
+  },
+  {
+   "i": 1275,
+   "tipo": "mp",
+   "ref": "06.2023.00003039-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N.06.2023.00003039-1",
+   "status": "🟡 em apuração",
+   "data": "16/04/2024",
+   "texto": "Município de Joinville."
+  },
+  {
+   "i": 1276,
+   "tipo": "mp",
+   "ref": "06.2023.00003307-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00003307-7",
+   "status": "🟡 em apuração",
+   "data": "16/04/2024",
+   "texto": "Município de Joinville."
+  },
+  {
+   "i": 1277,
+   "tipo": "mp",
+   "ref": "01.2024.00015121-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00015121-0",
+   "status": "🟡 em apuração",
+   "data": "18/04/2024",
+   "texto": "Sendy Pricila da Maia."
+  },
+  {
+   "i": 1278,
+   "tipo": "mp",
+   "ref": "01.2024.00015150-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00015150-0",
+   "status": "🟡 em apuração",
+   "data": "22/04/2024",
+   "texto": "Bianca Bandeira."
+  },
+  {
+   "i": 1279,
+   "tipo": "mp",
+   "ref": "06.2024.00001526-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00001526-1",
+   "status": "🟢 arquivado",
+   "data": "23/04/2024",
+   "texto": "sigiloso. Conclusão: apurar possível situação de vulnerabilidade de um cão, mantido ininterruptamente dentro de uma caixa, no imóvel localizado na Rua do Café, próximo ao n. 95, Bairro Guanabara, Município de Joinville. Atuação da SAMA. Cópia dos autos remetidos à autoridade policial competente. Animal acolhido, castrado e microchipado. Promoção de arquivamento, nos termos do artigo 48, inciso I, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 1280,
+   "tipo": "mp",
+   "ref": "06.2024.00001444-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00001444-0",
+   "status": "🟡 em apuração",
+   "data": "24/04/2024",
+   "texto": "Willyan Kniess, Universidade do Estado de Santa Catarina e Município de Joinville."
+  },
+  {
+   "i": 1281,
+   "tipo": "mp",
+   "ref": "06.2024.00001586-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00001586-1",
+   "status": "🟡 em apuração",
+   "data": "24/04/2024",
+   "texto": "Município de Joinville."
+  },
+  {
+   "i": 1282,
+   "tipo": "mp",
+   "ref": "06.2024.00001885-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00001885-8",
+   "status": "🟡 em apuração",
+   "data": "24/04/2024",
+   "texto": "Confecções Mannes Ltda. e Município de Joinville."
+  },
+  {
+   "i": 1283,
+   "tipo": "mp",
+   "ref": "01.2024.00002436-0",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00002436-0",
+   "status": "🟢 arquivado",
+   "data": "29/04/2024",
+   "texto": "Carla Rodrigues. Conclusão: apurar possível situação de vulnerabilidade de um cão, no imóvel localizado na Servidão Berlim, em frente ao n. 40, Município de Joinville. Atuação da SAMA. Cumprimento do Auto de Notificação n. 821/2024. Bem-estar resguardado. Indeferimento de Instauração com base no artigo 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 1284,
+   "tipo": "mp",
+   "ref": "01.2024.00015422-9",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00015422-9",
+   "status": "🟢 arquivado",
+   "data": "30/04/2024",
+   "texto": "Claudeci Costa. Conclusão: apurar atendimento prestado ao Protocolo n. 24.0.093132-6 efetuado na Prefeitura Municipal de Joinville, cujo teor trata de um canino em situação de risco, acolhido em imóvel localizado na Rua Fátima, n. 2250, Joinville. Atuação da SAMA. Atendimento médico veterinário. Bem-estar resguardado. Indeferimento de instauração com base no artigo 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 1285,
+   "tipo": "mp",
+   "ref": "01.2024.00017000-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00017000-7",
+   "status": "🟡 em apuração",
+   "data": "30/04/2024",
+   "texto": "Renata Silveira de Souza."
+  },
+  {
+   "i": 1286,
+   "tipo": "mp",
+   "ref": "06.2023.00003100-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00003100-2",
+   "status": "🟡 em apuração",
+   "data": "02/05/2024",
+   "texto": "Convenção Geral de Ministros e Ministérios Evangélicos no Brasil e Município de Joinville."
+  },
+  {
+   "i": 1287,
+   "tipo": "mp",
+   "ref": "01.2024.00017672-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00017672-3",
+   "status": "🟡 em apuração",
+   "data": "06/05/2024",
+   "texto": "Karina Sarah."
+  },
+  {
+   "i": 1288,
+   "tipo": "mp",
+   "ref": "06.2024.00002017-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00002017-5",
+   "status": "🟡 em apuração",
+   "data": "06/05/2024",
+   "texto": "Município de Joinville e Companhia Integrada de Desenvolvimento Agrícola de Santa Catarina (CIDASC)."
+  },
+  {
+   "i": 1289,
+   "tipo": "mp",
+   "ref": "01.2024.00018322-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00018322-4",
+   "status": "🟡 em apuração",
+   "data": "08/05/2024",
+   "texto": "Luciane Correa de Jesus."
+  },
+  {
+   "i": 1290,
+   "tipo": "mp",
+   "ref": "01.2024.00018332-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00018332-4",
+   "status": "🟡 em apuração",
+   "data": "08/05/2024",
+   "texto": "Josiane Borges."
+  },
+  {
+   "i": 1291,
+   "tipo": "mp",
+   "ref": "06.2023.00002913-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00002913-0",
+   "status": "🟡 em apuração",
+   "data": "08/05/2024",
+   "texto": "Maria Odete Gonçalves e Município de Joinville."
+  },
+  {
+   "i": 1292,
+   "tipo": "mp",
+   "ref": "01.2024.00018267-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00018267-0",
+   "status": "🟡 em apuração",
+   "data": "08/05/2024",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 1293,
+   "tipo": "mp",
+   "ref": "01.2024.00018332-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00018332-4",
+   "status": "🟡 em apuração",
+   "data": "09/05/2024",
+   "texto": "Flávia Cristina da Silveira."
+  },
+  {
+   "i": 1294,
+   "tipo": "mp",
+   "ref": "01.2024.00018428-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00018428-9",
+   "status": "🟡 em apuração",
+   "data": "09/05/2024",
+   "texto": "Juarez Vieira."
+  },
+  {
+   "i": 1295,
+   "tipo": "mp",
+   "ref": "06.2023.00003060-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00003060-3",
+   "status": "🟡 em apuração",
+   "data": "09/05/2024",
+   "texto": "Município de Joinville."
+  },
+  {
+   "i": 1296,
+   "tipo": "mp",
+   "ref": "06.2023.00003949-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00003949-3",
+   "status": "🟡 em apuração",
+   "data": "09/05/2024",
+   "texto": "Município de Joinville."
+  },
+  {
+   "i": 1297,
+   "tipo": "mp",
+   "ref": "01.2024.00018684-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 001.2024.00018684-3",
+   "status": "🟡 em apuração",
+   "data": "10/05/2024",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 1298,
+   "tipo": "mp",
+   "ref": "01.2024.00018655-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00018655-4",
+   "status": "🟡 em apuração",
+   "data": "10/05/2024",
+   "texto": "Luiza Machado."
+  },
+  {
+   "i": 1299,
+   "tipo": "mp",
+   "ref": "01.2024.00018669-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00018669-8",
+   "status": "🟡 em apuração",
+   "data": "10/05/2024",
+   "texto": "Indianara de Oliveira Diomário Borges."
+  },
+  {
+   "i": 1300,
+   "tipo": "mp",
+   "ref": "01.2024.00019025-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00019025-8",
+   "status": "🟡 em apuração",
+   "data": "14/05/2024",
+   "texto": "Katia."
+  },
+  {
+   "i": 1301,
+   "tipo": "mp",
+   "ref": "06.2024.00002185-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE PROCEDIMENTO PREPARATÓRIO N. 06.2024.00002185-2",
+   "status": "🟡 em apuração",
+   "data": "14/05/2024",
+   "texto": "Biih Erdmann Heringer."
+  },
+  {
+   "i": 1302,
+   "tipo": "mp",
+   "ref": "01.2024.00013661-0",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00013661-0",
+   "status": "🟢 arquivado",
+   "data": "15/05/2024",
+   "texto": "Rafaela de Souza Maria. Conclusão: apurar possível situação de vulnerabilidade e abandono de um cão, no imóvel localizado na Rua Miguel Zattar, próximo à residência de n. 246, Bairro Iririú, Município de Joinville/SC. Animal veio a óbito por atropelamento. Indeferimento de"
+  },
+  {
+   "i": 1303,
+   "tipo": "mp",
+   "ref": "01.2024.00019239-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00019239-0",
+   "status": "🟡 em apuração",
+   "data": "15/05/2024",
+   "texto": "Ana Paula Geremias."
+  },
+  {
+   "i": 1304,
+   "tipo": "mp",
+   "ref": "01.2024.00019197-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00019197-9",
+   "status": "🟡 em apuração",
+   "data": "16/05/2024",
+   "texto": "Luana Camili Libório."
+  },
+  {
+   "i": 1305,
+   "tipo": "mp",
+   "ref": "01.2024.00019552-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00019552-0",
+   "status": "🟡 em apuração",
+   "data": "16/05/2024",
+   "texto": "Carolina Rossignoli Jasinevicius."
+  },
+  {
+   "i": 1306,
+   "tipo": "mp",
+   "ref": "01.2024.00019645-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00019645-2",
+   "status": "🟡 em apuração",
+   "data": "16/05/2024",
+   "texto": "Ana Carolina da Silva."
+  },
+  {
+   "i": 1307,
+   "tipo": "mp",
+   "ref": "06.2022.00003936-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00003936-7",
+   "status": "🟢 arquivado",
+   "data": "17/05/2024",
+   "texto": "Município de Joinville e Tuiuti Empreendimentos Imobiliários Ltda. Conclusão: indícios de parcelamento clandestino do solo urbano extraídos de ação judicial. Informações equivocadas apresentadas pelo Município de Joinville no processo judicial. Parcelamento do solo urbano aprovado pelo Município de Joinville e registrado perante o 3º Registro de Imóveis de Joinville. Desnecessidade/utilidade na tomada de Ajuste de Condutas, deflagração de Ação Civil Pública ou qualquer outra providência. Arquivamento."
+  },
+  {
+   "i": 1308,
+   "tipo": "mp",
+   "ref": "06.2021.00003719-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00003719-8",
+   "status": "🟢 arquivado",
+   "data": "20/05/2024",
+   "texto": "Município de Joinville. Conclusão: apurar a regularidade da aprovação do desmembramento do imóvel matriculado sob o n. 54.493, localizado na Rua Cidade de Luziania, s/n., Bairro Itinga, em Joinville. Desistência pelo empreendedor. Perda do objeto. Arquivamento."
+  },
+  {
+   "i": 1309,
+   "tipo": "mp",
+   "ref": "01.2024.00020121-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00020121-7",
+   "status": "🟡 em apuração",
+   "data": "20/05/2024",
+   "texto": "Antonio Donizete Veiga."
+  },
+  {
+   "i": 1310,
+   "tipo": "mp",
+   "ref": "06.2024.00002284-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00002284-0",
+   "status": "🟡 em apuração",
+   "data": "20/05/2024",
+   "texto": "Conselho Regional de Farmácia de Santa Catarina, Secretaria Municipal de Saúde de Joinville."
+  },
+  {
+   "i": 1311,
+   "tipo": "mp",
+   "ref": "06.2022.00001959-3",
+   "header": "· EXTRATO DE CONCLUSÃO DE INQUÉRITO CIVIL N. 06.2022.00001959-3",
+   "status": "❔ status indef.",
+   "data": "27/05/2024",
+   "texto": "Município de Joinville. Conclusão: propositura de Ação Civil Pública."
+  },
+  {
+   "i": 1312,
+   "tipo": "mp",
+   "ref": "06.2023.00003458-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00003458-7",
+   "status": "🟡 em apuração",
+   "data": "27/05/2024",
+   "texto": "Município de Joinville."
+  },
+  {
+   "i": 1313,
+   "tipo": "mp",
+   "ref": "01.2024.00021735-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00021735-3",
+   "status": "🟡 em apuração",
+   "data": "28/05/2024",
+   "texto": "Katia Kurchaki."
+  },
+  {
+   "i": 1314,
+   "tipo": "mp",
+   "ref": "01.2024.00022214-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00022214-5",
+   "status": "🟡 em apuração",
+   "data": "03/06/2024",
+   "texto": "Rafaela de Souza Maria."
+  },
+  {
+   "i": 1315,
+   "tipo": "mp",
+   "ref": "01.2024.00012102-7",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00012102-7",
+   "status": "🟢 arquivado",
+   "data": "04/06/2024",
+   "texto": "Fabiane Bächtold. Conclusão: apurar atendimento prestado ao protocolo n. 24.0.067010-7, efetuado na Prefeitura Municipal de Joinville, cujo teor trata de um canino resgatado, com possível TVT. Atuação da SAMA. Recolhimento do animal para realização de exames e quimioterapia. Indeferimento de Instauração com base no artigo 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 1316,
+   "tipo": "mp",
+   "ref": "01.2024.00019634-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00019634-1",
+   "status": "🟡 em apuração",
+   "data": "04/06/2024",
+   "texto": "sigilosa."
+  },
+  {
+   "i": 1317,
+   "tipo": "mp",
+   "ref": "06.2024.00002453-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE PROCEDIMENTO PREPARATÓRIO N. 06.2024.00002453-8",
+   "status": "🟡 em apuração",
+   "data": "04/06/2024",
+   "texto": "José Rodrigo de Souza."
+  },
+  {
+   "i": 1318,
+   "tipo": "mp",
+   "ref": "06.2018.00004979-7",
+   "header": "· EXTRATO DE CONCLUSÃO DE INQUÉRITO CIVIL N. 06.2018.00004979-7",
+   "status": "❔ status indef.",
+   "data": "05/06/2024",
+   "texto": "Município de Joinville, Marcio Antonio Rosa e Cristofolini Administração de Bens Imóveis Ltda. Conclusão: propositura de Ação Civil Pública."
+  },
+  {
+   "i": 1319,
+   "tipo": "mp",
+   "ref": "06.2023.00004469-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2023.00004469-6",
+   "status": "🟡 em apuração",
+   "data": "05/06/2024",
+   "texto": "Antônio Henrique Gonçalves."
+  },
+  {
+   "i": 1320,
+   "tipo": "mp",
+   "ref": "01.2024.00022753-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00022753-0",
+   "status": "🟡 em apuração",
+   "data": "05/06/2024",
+   "texto": "Cleunice Dziubat."
+  },
+  {
+   "i": 1321,
+   "tipo": "mp",
+   "ref": "01.2024.00022758-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00022758-4",
+   "status": "🟡 em apuração",
+   "data": "05/06/2024",
+   "texto": "de ofício."
+  },
+  {
+   "i": 1322,
+   "tipo": "mp",
+   "ref": "01.2024.00021735-3",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2024.00021735-3",
+   "status": "🟢 arquivado",
+   "data": "06/06/2024",
+   "texto": "Katia Kurchaki. Conclusão: apurar atendimento prestado pela SAMA ao Protocolo n. 24.0.126997-0, registrado na Prefeitura Municipal de Joinville, cujo teor trata de um canino em situação de risco e vulnerabilidade, localizado na Rua Cidade de Sertanópolis, n. 220, Paranaguamirim, Joinville/SC. SAMA oficiada. Animal veio a óbito antes do atendimento. Indeferimento de Instauração com base no artigo 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 1323,
+   "tipo": "mp",
+   "ref": "01.2024.00023301-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00023301-0",
+   "status": "🟡 em apuração",
+   "data": "07/06/2024",
+   "texto": "Juliana Superchinski."
+  },
+  {
+   "i": 1324,
+   "tipo": "mp",
+   "ref": "06.2024.00000465-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000465-3",
+   "status": "🟡 em apuração",
+   "data": "07/06/2024",
+   "texto": "FARO representação Comercial Ltda."
+  },
+  {
+   "i": 1325,
+   "tipo": "mp",
+   "ref": "01.2024.00023472-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00023472-0",
+   "status": "🟡 em apuração",
+   "data": "10/06/2024",
+   "texto": "sigilosa."
+  },
+  {
+   "i": 1326,
+   "tipo": "mp",
+   "ref": "01.2024.00019197-9",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00019197-9",
+   "status": "🟢 arquivado",
+   "data": "11/06/2024",
+   "texto": "Luana Camili Libório. Conclusão: apurar possível situação de vulnerabilidade de um canino no imóvel localizado na Alior Alves de Lima, n. 161, Bairro Morro do Meio, Município de Joinville. Atuação da SAMA. Segundo informações da noticiante, o animal possivelmente veio a óbito. Ausência de conhecimento do paradeiro. Indeferimento de Instauração com base no artigo 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 1327,
+   "tipo": "mp",
+   "ref": "01.2024.00021977-3",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2024.00021977-3",
+   "status": "🟢 arquivado",
+   "data": "11/06/2024",
+   "texto": "Júlia Vieira. Conclusão: apurar possível situação de vulnerabilidade de um canino doente e abandonado, nas proximidades da Rua Senador Rodrigo Lobo, n. 1788, Bairro Jardim Iririú, Município de Joinville/SC. Atuação da SAMA. canino acolhido e encaminhado à clinica veterinária para tratamento. Inexistência de dados acerca do tutor. Bem-estar resguardado. Indeferimento de Instauração com base no artigo 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 1328,
+   "tipo": "mp",
+   "ref": "01.2024.00024357-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00024357-3",
+   "status": "🟡 em apuração",
+   "data": "14/06/2024",
+   "texto": "Caroline Zanatta Leite."
+  },
+  {
+   "i": 1329,
+   "tipo": "mp",
+   "ref": "01.2024.00024364-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00024364-0",
+   "status": "🟡 em apuração",
+   "data": "14/06/2024",
+   "texto": "sigiloso."
+  }
+ ]
+}

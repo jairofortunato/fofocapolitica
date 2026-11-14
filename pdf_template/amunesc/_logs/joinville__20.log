@@ -1,0 +1,241 @@
+[0m
+> build · gpt-5.4-mini
+[0m
+Vou ler o critério obrigatório e mapear os três lotes antes de julgar qualquer caso.
+[0m→ [0mRead pdf_template/CURADORIA.md
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__20.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__22.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__21.json
+Tenho o critério e os três lotes. Agora vou curar por bloco, cortar instâncias sem substância e preservar só os casos com desfecho ou fato publicamente noticiável.
+[0m
+[0m# [0mTodos
+[•] Curar joinville__20.json e gravar em _lotes_curados
+[ ] Curar joinville__21.json e gravar em _lotes_curados
+[ ] Curar joinville__22.json e gravar em _lotes_curados
+[ ] Verificar totais por lote e revisar duplicatas/fases mais avançadas
+[0m
+Vou gravar os três JSON curados agora, com duplicatas cortadas e os casos sem substância marcados como `keep:false`.
+[0m$ [0mmkdir -p "pdf_template/amunesc/_lotes_curados" && python3 - <<'PY'
+import json
+from pathlib import Path
+
+base = Path('pdf_template/amunesc/_lotes')
+outdir = Path('pdf_template/amunesc/_lotes_curados')
+
+maps = {
+    'joinville__20.json': {
+        1402: {'keep': True, 'title': 'MP arquiva revisão tributária em Joinville', 'description': 'O Ministério Público concluiu que a administração tributária do município atende aos parâmetros mínimos exigíveis. Sem base para ação civil ou recomendação, o inquérito foi arquivado.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1405: {'keep': True, 'title': 'MP arquiva apuração sobre pitbull e atuação da SAMA', 'description': 'A notícia de fato tratava de possível vulnerabilidade de um pitbull em Joinville. A SAMA atuou, e o animal ficou castrado, vacinado e microchipado. O caso foi indeferido.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1411: {'keep': True, 'title': 'MP arquiva apuração sobre cães e gato após cumprimento de notificações', 'description': 'O procedimento tratava de possível vulnerabilidade de um bull terrier, um cão sem raça definida e um filhote de gato. A SAMA lavrou notificações, os tutores cumpriram as medidas e a instauração foi indeferida.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1430: {'keep': True, 'title': 'MP arquiva caso de maus-tratos a animais após atuação da SAMA', 'description': 'O inquérito apurava vulnerabilidade e maus-tratos a animais acolhidos por Francine Valente. A SAMA constatou bem-estar resguardado e houve notícia de inquérito policial, mas o MP não viu fundamento para ação civil pública.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1434: {'keep': True, 'title': 'MP arquiva caso de labrador com bem-estar resguardado', 'description': 'A notícia de fato apurava possível vulnerabilidade de um labrador em Joinville. A SAMA lavrou notificações, todas foram cumpridas e o MP indeferiu a instauração.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1436: {'keep': True, 'title': 'MP arquiva caso de cão sem raça definida em Joinville', 'description': 'O procedimento tratava de possível vulnerabilidade de um cão de porte médio em Joinville. A SAMA notificou a tutora, as determinações foram cumpridas e o caso foi indeferido.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1438: {'keep': True, 'title': 'MP arquiva caso de cão na Vila Nova após cumprir determinações', 'description': 'A notícia de fato apurava possível vulnerabilidade de um cão em Joinville. Houve lavratura de auto de notificação, o animal foi vacinado e microchipado, e o MP indeferiu a instauração.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1440: {'keep': True, 'title': 'MP arquiva caso de colônia de gatos resgatados em Joinville', 'description': 'O inquérito apurava situação de vulnerabilidade de uma colônia de gatos. A SAMA atuou, os animais foram resgatados e o MP encerrou o caso por falta de fundamento para ação civil pública.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1442: {'keep': True, 'title': 'MP arquiva apuração sobre criação de animais não domésticos em área urbana', 'description': 'O procedimento tratava de possíveis irregularidades na criação de animais não domésticos em área urbana. Os problemas foram resolvidos e o MP arquivou por ausência de dano ou ameaça aos interesses tutelados.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1444: {'keep': True, 'title': 'MP encerra caso de animais abandonados no Iririú', 'description': 'A notícia de fato apurava três animais abandonados em Joinville, mas o paradeiro deles era desconhecido. Como não foi possível prosseguir, a Promotoria indeferiu a instauração.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1448: {'keep': True, 'title': 'MP arquiva caso de animais adotados e castrados no PA Sul', 'description': 'A apuração tratava de animais abandonados nas proximidades do PA Sul. A SAMA informou que eles foram adotados, castrados e microchipados, e o caso foi considerado solucionado.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1449: {'keep': True, 'title': 'MP arquiva caso de pit bull ferido e tratado em Joinville', 'description': 'A notícia de fato apurava possível vulnerabilidade de um pit bull em Joinville. O animal recebeu atendimento veterinário, vacinação e microchipagem, e a instauração foi indeferida.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1451: {'keep': True, 'title': 'MP arquiva caso de cães e gatos acolhidos no Rio Bonito', 'description': 'O inquérito voltou a apurar a situação de dois cães e dois felinos na Rua Emílio Hardt. Houve notificações cumpridas, os animais foram acolhidos e o MP não viu fundamento para ação civil pública.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1455: {'keep': True, 'title': 'MP firma TAC sobre cemitérios da Mitra Diocesana', 'description': 'O inquérito apurava irregularidades ambientais e falta de licenciamento nos cemitérios São José e São Sebastião do Quiriri. O caso foi arquivado após aditamento ao termo de ajustamento de conduta.', 'status': '🟠 TAC firmado', 'severity': 'media'},
+        1463: {'keep': True, 'title': 'MP arquiva denúncia contra Joinville por ausência de omissão', 'description': 'A notícia de fato apontava possível omissão do município. O MP concluiu que não houve omissão e arquivou o caso.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1467: {'keep': True, 'title': 'MP vê ausência de lesão urbanística em loteamento de Joinville', 'description': 'O inquérito apurava parcelamento irregular ou clandestino do solo na Rua Felicidade. O trecho disponível aponta ausência de lesão à ordem urbanística e loteamento implementado pelo município, mas o desfecho final está truncado no extrato.', 'status': '❔ status indef.', 'severity': 'media'},
+    },
+    'joinville__21.json': {
+        1470: {'keep': True, 'title': 'MP arquiva caso de quatro cães com bem-estar resguardado', 'description': 'O procedimento tratava de possível vulnerabilidade de quatro cães em Joinville. Os animais estavam microchipados, vacinados e com água e alimento, e o MP arquivou.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1471: {'keep': True, 'title': 'MP arquiva apuração sobre vários cães em Paranaguamirim', 'description': 'A SAMA informou que o tutor cumpriu o auto de notificação e que a família seguia buscando um canino desaparecido. Sem necessidade de ação civil pública, o caso foi arquivado.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1474: {'keep': True, 'title': 'MP arquiva caso de cão comunitário e ficha de castração', 'description': 'A notícia de fato tratava da recusa em disponibilizar ficha de castração para um cão comunitário. A SAMA emitiu e enviou a ficha, o problema foi solucionado e a instauração foi indeferida.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1475: {'keep': True, 'title': 'MP arquiva apuração sobre cão adotado em Joinville', 'description': 'O procedimento tratava de um cão possivelmente abandonado em Joinville. A SAMA informou que o animal foi adotado por moradora local e o caso foi arquivado.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1478: {'keep': True, 'title': 'MP arquiva pedido sobre castração de cão comunitário', 'description': 'A apuração era sobre a demora em fornecer ficha de castração para um canino comunitário. A ficha foi emitida, enviada à noticiante e o MP indeferiu a instauração.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1482: {'keep': True, 'title': 'MP arquiva caso de chow-chow doado após apuração', 'description': 'O caso apurava possível vulnerabilidade de um chow-chow abandonado. A SAMA informou que o animal tinha tutor e foi doado a um amigo; os fatos foram considerados solucionados.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1491: {'keep': True, 'title': 'Joinville regulariza falta de fraldas na rede pública', 'description': 'O inquérito tratava da falta de fraldas descartáveis Extra G para pessoas com deficiência na rede municipal de saúde. Os usuários foram atendidos na via administrativa e o estoque ficou regularizado.', 'status': '🟢 arquivado', 'severity': 'alta'},
+        1495: {'keep': True, 'title': 'MP arquiva caso de canina e filhotes após adoção', 'description': 'A notícia de fato apurava a situação de uma canina e seus cinco filhotes. A SAMA confirmou atendimento integral, os filhotes foram doados e o caso foi encerrado.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1496: {'keep': True, 'title': 'MP arquiva caso de cão eutanasiado em Joinville', 'description': 'A apuração tratava de um cão em situação de vulnerabilidade. A SAMA informou atendimento integral e a eutanásia do animal por dificuldades de locomoção e dispneia, com indeferimento da instauração.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1497: {'keep': True, 'title': 'MP arquiva caso de cães abandonados na Rua dos Portugueses', 'description': 'O procedimento apurava cães abandonados em Joinville. Houve vacinação, castração das fêmeas e falta de localização dos machos, mas o MP entendeu não haver fundamento para ação civil pública.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1502: {'keep': True, 'title': 'MP arquiva caso de cães comunitários medicados na Comasa', 'description': 'A notícia de fato tratava de dois cães comunitários. A SAMA compareceu ao local, os animais foram atendidos e medicados, e o MP indeferiu a instauração.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1503: {'keep': True, 'title': 'MP ajuíza ação contra Estado e Joinville por deficiência de serviço', 'description': 'O inquérito terminou com a constatação de deficiência do serviço público e falta de medidas administrativas. O Ministério Público ajuizou ação civil pública contra o Estado de Santa Catarina e o Município de Joinville.', 'status': '🔴 ACP ajuizada', 'severity': 'media'},
+        1508: {'keep': True, 'title': 'MP arquiva caso de cães tratados e castrados na Costa e Silva', 'description': 'A SAMA não constatou maus-tratos nem vulnerabilidade. As caninas estavam tratadas, vacinadas e castradas, e o MP indeferiu a instauração.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1509: {'keep': True, 'title': 'MP registra cumprimento de recomendação em Joinville', 'description': 'O inquérito foi encerrado porque o Município de Joinville acatou a recomendação expedida pelo Ministério Público. O caso foi dado como cumprido.', 'status': '🟢 recomendação cumprida', 'severity': 'media'},
+        1510: {'keep': True, 'title': 'MP arquiva caso de cão em canil com melhorias sanitárias', 'description': 'A SAMA constatou a presença do animal, lavrou notificações e as determinações foram atendidas. O bem-estar foi resguardado e a instauração foi indeferida.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1512: {'keep': True, 'title': 'MP ajuíza ACP contra particulares e Joinville', 'description': 'O inquérito terminou com a propositura de ação civil pública envolvendo João Maria Strais Netto, Imobiliária Zattar Ltda. e o Município de Joinville. O trecho publicado não detalha o objeto da ação.', 'status': '🔴 ACP ajuizada', 'severity': 'media'},
+        1514: {'keep': True, 'title': 'MP arquiva caso de equinos soltos em Joinville', 'description': 'A apuração tratava de equinos soltos em via pública. A SAMA informou que dois estavam em terreno cercado e o terceiro tinha paradeiro desconhecido, mas o bem-estar foi considerado resguardado.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1515: {'keep': True, 'title': 'MP arquiva caso de alvará e ruído de loja de bebidas', 'description': 'O inquérito apurava falta de alvará, certidão de pressão sonora e autorização policial. Com a regularização e o enquadramento da atividade como de baixo risco, o caso foi arquivado.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1518: {'keep': True, 'title': 'MP arquiva denúncia de corte de árvores sem irregularidade', 'description': 'A notícia de fato tratava de suposto corte de árvores e supressão de vegetação sem autorização. O órgão ambiental não identificou irregularidades e a instauração foi indeferida.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1520: {'keep': True, 'title': 'MP arquiva apuração sobre criação ilegal de pit bulls', 'description': 'A apuração tratava de possível criação ilegal de cães da raça pit bull em Joinville. As notificações foram atendidas e o bem-estar dos animais ficou resguardado.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1522: {'keep': True, 'title': 'MP arquiva caso de criação de animais não domésticos em área urbana', 'description': 'O inquérito apurava irregularidades na criação de animais não domésticos em área urbana. Os problemas foram resolvidos, os termos foram cumpridos e o MP arquivou.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1524: {'keep': True, 'title': 'MP arquiva caso de canina com bem-estar resguardado', 'description': 'A notícia de fato apurava possível vulnerabilidade de uma canina em Joinville. O órgão de proteção animal resguardou o bem-estar do animal e o MP indeferiu a instauração.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1531: {'keep': True, 'title': 'MP arquiva caso de pit bull mantido preso em casa', 'description': 'O procedimento apurava um pit bull mantido preso em residência no Jardim Paraíso. O órgão de proteção animal concluiu que o bem-estar estava resguardado e o caso foi arquivado.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1533: {'keep': True, 'title': 'MP arquiva caso de cão desaparecido no Morro do Meio', 'description': 'A notícia de fato tratava de possível abandono de um cão em Joinville. O órgão de proteção animal não localizou o animal e a instauração foi indeferida.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1534: {'keep': True, 'title': 'MP arquiva caso de cão preso na sacada', 'description': 'A apuração tratava de um cão supostamente mantido preso na sacada. O órgão de proteção animal concluiu que o bem-estar estava resguardado e o caso foi indeferido.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1535: {'keep': True, 'title': 'MP arquiva caso de canina em área adequada no Floresta', 'description': 'A notícia de fato apurava possível vulnerabilidade de uma canina em Joinville. O órgão de proteção animal encontrou os animais em local adequado, microchipados e vacinados, e a instauração foi indeferida.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1538: {'keep': True, 'title': 'MP arquiva caso de três animais abandonados no Iririú', 'description': 'O procedimento apurava três animais abandonados na região do Iririú. Como cães não foram localizados e o felino foi tratado como comunitário, o arquivamento veio com fundamento no art. 48.', 'status': '🟢 arquivado', 'severity': 'media'},
+    },
+    'joinville__22.json': {
+        1546: {'keep': True, 'title': 'MP arquiva caso de cão abandonado e ferido no Boa Vista', 'description': 'A notícia de fato apurava um cão abandonado e machucado em Joinville. O paradeiro do animal era desconhecido e a instauração foi indeferida.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1547: {'keep': True, 'title': 'MP arquiva caso de canina em local adequado e tratada', 'description': 'O procedimento tratava de possível vulnerabilidade de um cão no bairro Guanabara. A canina estava em local adequado, castrada, vacinada e microchipada, com tratamento veterinário em curso.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1551: {'keep': True, 'title': 'MP arquiva caso de dois cães adotados e medicados no Bom Retiro', 'description': 'A notícia de fato tratava de dois cães abandonados em Joinville. A família informou que os animais foram adotados, castrados e medicados, com o bem-estar resguardado.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1555: {'keep': True, 'title': 'MP arquiva caso de canina Bran após tratamento veterinário', 'description': 'A apuração tratava da vulnerabilidade de uma canina em Paranaguamirim. O animal morreu durante tratamento veterinário e a instauração foi indeferida.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1563: {'keep': True, 'title': 'MP arquiva caso de canil clandestino regularizado', 'description': 'O inquérito apurava possível canil clandestino em Joinville. Os cães foram vacinados e microchipados, os machos castrados e o MP arquivou por falta de fundamento para ação civil pública.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1568: {'keep': True, 'title': 'MP arquiva falhas em telefones das unidades de saúde de Joinville', 'description': 'O inquérito apontava falhas nas linhas telefônicas das unidades de saúde. O problema foi solucionado e o MP arquivou o caso.', 'status': '🟢 arquivado', 'severity': 'alta'},
+        1571: {'keep': True, 'title': 'MP arquiva caso de criação de cães regularizada', 'description': 'O procedimento tratava da criação de cães em imóvel no bairro Itaum. A atividade foi regularizada, o bem-estar dos animais ficou resguardado e o caso foi arquivado.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1581: {'keep': True, 'title': 'MP arquiva caso de cão comunitário na Brigadeiro Silva Paes', 'description': 'A apuração tratava de um cão comunitário em Joinville. O órgão de proteção animal considerou o bem-estar resguardado e arquivou o procedimento.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1591: {'keep': True, 'title': 'MP arquiva apuração sobre CAPS após melhora no atendimento', 'description': 'O inquérito investigava falta de profissionais e medicações nos CAPS de Joinville. Não foram obtidos elementos mínimos quanto aos fármacos e o MP arquivou no ponto em que não viu omissão ou negligência municipal.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1595: {'keep': True, 'title': 'MP arquiva apuração sobre passeio escolar sem irregularidade', 'description': 'A notícia de fato tratava de suposta irregularidade na contratação de empresa para passeios escolares em uma escola municipal. O MP concluiu que não houve irregularidade nem necessidade de licitação e indeferiu a instauração.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1600: {'keep': True, 'title': 'MP arquiva caso de canina desaparecida no Morro do Meio', 'description': 'A apuração tratava de uma canina possivelmente abandonada em Joinville. O órgão de proteção animal não localizou o animal e o caso foi indeferido.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1606: {'keep': True, 'title': 'MP arquiva caso de cão abandonado não localizado', 'description': 'A notícia de fato tratava de um cão abandonado em frente a uma sorveteria no Parque Guarani. Como o animal não foi localizado, a instauração foi indeferida.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1607: {'keep': True, 'title': 'MP arquiva caso de felino com bem-estar resguardado', 'description': 'O procedimento apurava possível vulnerabilidade de um felino no Aventureiro. O animal estava com o bem-estar resguardado e o MP indeferiu a instauração.', 'status': '🟢 arquivado', 'severity': 'media'},
+        1609: {'keep': True, 'title': 'MP arquiva caso de cão machucado e abandonado não localizado', 'description': 'A apuração tratava de um canino machucado e abandonado em Joinville. Como o animal não foi localizado, a instauração foi indeferida.', 'status': '🟢 arquivado', 'severity': 'media'},
+    },
+}
+
+summary = []
+for name, mp in maps.items():
+    data = json.loads((base / name).read_text())
+    out = []
+    keep_true = 0
+    high = 0
+    for case in data['casos']:
+        cur = {'i': case['i'], 'tipo': case['tipo']}
+        extra = mp.get(case['i'])
+        if extra:
+            cur.update(extra)
+            keep_true += 1
+            if extra['severity'] == 'alta':
+                high += 1
+        else:
+            cur.update({'keep': False, 'title': '', 'description': '', 'status': '', 'severity': ''})
+        out.append(cur)
+    (outdir / name).write_text(json.dumps(out, ensure_ascii=False, indent=2) + '\n')
+    summary.append((name, len(out), keep_true, high))
+
+for row in summary:
+    print(row[0], row[1], row[2], row[3])
+PY
+joinville__20.json 70 16 0
+joinville__21.json 70 27 1
+joinville__22.json 70 14 1
+[0m
+Os três lotes já foram gravados. Vou validar o JSON e checar se os totais batem antes de encerrar.
+[0m$ [0mpython3 - <<'PY'
+import json
+from pathlib import Path
+for name in ['joinville__20.json','joinville__21.json','joinville__22.json']:
+    data = json.loads(Path('pdf_template/amunesc/_lotes_curados')/name.read_text())
+PY
+Traceback (most recent call last):
+  File "<stdin>", line 4, in <module>
+AttributeError: 'str' object has no attribute 'read_text'
+[0m
+A validação teve um erro meu no script. Vou rerodar a checagem correta do JSON agora.
+[0m$ [0mpython3 - <<'PY'
+import json
+from pathlib import Path
+for name in ['joinville__20.json','joinville__21.json','joinville__22.json']:
+    path = Path('pdf_template/amunesc/_lotes_curados') / name
+    data = json.loads(path.read_text())
+    print(name, len(data), sum(1 for x in data if x['keep']), sum(1 for x in data if x['severity'] == 'alta'))
+PY
+joinville__20.json 70 16 0
+joinville__21.json 70 27 1
+joinville__22.json 70 14 1
+[0m
+[0m$ [0mgit status --short
+M .gitignore
+ M build_regioes.py
+ M build_regioes_tce.py
+ M pdf_template/README.md
+ M pdf_template/amrec/amrec_cover.html
+ M pdf_template/amrec/amrec_cta.html
+ M pdf_template/amrec/amrec_full.html
+ M pdf_template/amrec/amrec_full_css.css
+ M pdf_template/amrec/gen_amrec.py
+ M pdf_template/amrec/gen_amrec_full.py
+ M pdf_template/assets/logo-branco.png
+ M pdf_template/assets/logo-preto.png
+ M pdf_template/modelo-transparencia-radical.html
+ D resumos/TESTE-criciuma-simples.md
+ D resumos/TESTE-criciuma-simples.pdf
+ D resumos/Transparencia-Radical-AMREC-FILTRADO.pdf
+ D resumos/Transparencia-Radical-AMREC-TODOS.pdf
+ D resumos/Transparencia-Radical-AMREC-completo.pdf
+ D resumos/Transparencia-Radical-AMREC.pdf
+ M tcesc/parse_tcesc.py
+ M tcesc/resumos/regioes/regiao-amai-tce.md
+ M tcesc/resumos/regioes/regiao-amarp-tce.md
+ M tcesc/resumos/regioes/regiao-amauc-tce.md
+ M tcesc/resumos/regioes/regiao-amavi-tce.md
+ M tcesc/resumos/regioes/regiao-ameosc-tce.md
+ M tcesc/resumos/regioes/regiao-amerios-tce.md
+ M tcesc/resumos/regioes/regiao-amesc-tce.md
+ M tcesc/resumos/regioes/regiao-amfri-tce.md
+ M tcesc/resumos/regioes/regiao-ammoc-tce.md
+ M tcesc/resumos/regioes/regiao-ammvi-tce.md
+ M tcesc/resumos/regioes/regiao-amnoroeste-tce.md
+ M tcesc/resumos/regioes/regiao-amosc-tce.md
+ M tcesc/resumos/regioes/regiao-amplanorte-tce.md
+ M tcesc/resumos/regioes/regiao-amplasc-tce.md
+ M tcesc/resumos/regioes/regiao-amrec-tce.md
+ M tcesc/resumos/regioes/regiao-amunesc-tce.md
+ M tcesc/resumos/regioes/regiao-amurc-tce.md
+ M tcesc/resumos/regioes/regiao-amurel-tce.md
+ M tcesc/resumos/regioes/regiao-amures-tce.md
+ M tcesc/resumos/regioes/regiao-amvali-tce.md
+ M tcesc/resumos/regioes/regiao-granfpolis-tce.md
+?? ammvi/
+?? docs/
+?? pdf_template/CURADORIA.md
+?? pdf_template/HANDOFF.md
+?? pdf_template/amesc/
+?? pdf_template/ammvi/
+?? pdf_template/amrec/_build/
+?? pdf_template/amrec/_curated_data/
+?? pdf_template/amrec/_tmp_04_cover_forquilhinha.html_profile/
+?? pdf_template/amrec/assets/anton.woff2
+?? pdf_template/amrec/assets/archivo-400.woff2
+?? pdf_template/amrec/assets/archivo-700.woff2
+?? pdf_template/amrec/assets/archivo-800.woff2
+?? pdf_template/amrec/assets/bandeira.png
+?? pdf_template/amrec/assets/brasao.png
+?? pdf_template/amrec/assets/cidades
+?? pdf_template/amrec/assets/fonts.css
+?? pdf_template/amrec/assets/foto-full.png
+?? pdf_template/amrec/assets/foto.png
+?? pdf_template/amrec/assets/logo-branco.png
+?? pdf_template/amrec/assets/logo-preto.png
+?? pdf_template/amrec/criciuma_preview.html
+?? pdf_template/amrec/gen_amrec_curated.py
+?? pdf_template/amrec/gen_criciuma_preview.py
+?? pdf_template/amunesc/
+?? pdf_template/amurel/_build/
+?? pdf_template/amurel/assets/
+?? pdf_template/amurel/cores.json
+?? pdf_template/amurel/financas.json
+?? pdf_template/amurel/tmpepu4gife.html
+?? pdf_template/amures/
+?? pdf_template/amvali/
+?? pdf_template/apply_status.py
+?? pdf_template/apply_tce.py
+?? pdf_template/apply_tce2.py
+?? pdf_template/assemble_curated.py
+?? pdf_template/check_conselheiros.py
+?? pdf_template/curar.sh
+?? pdf_template/dl_assets.py
+?? pdf_template/enrich_tce.py
+?? pdf_template/extract_city_raw.py
+?? pdf_template/gen_cores.py
+?? pdf_template/gen_dossie.py
+?? pdf_template/make_batches.py
+?? pdf_template/make_status_batches.py
+?? pdf_template/make_tce_batches.py
+?? pdf_template/migrar_amrec.py
+?? pdf_template/regiao_config.py
+?? pdf_template/templates/
+?? pdf_template/valida_curadoria.py
+?? resumos/dossies-cidades/
+?? tcesc/txt/
+[0m
+Gravei os curados em `pdf_template/amunesc/_lotes_curados/`.
+
+- `joinville__20.json`: 70 casos, 16 `keep:true`, 0 `severity: alta`
+- `joinville__21.json`: 70 casos, 27 `keep:true`, 1 `severity: alta`
+- `joinville__22.json`: 70 casos, 14 `keep:true`, 1 `severity: alta`

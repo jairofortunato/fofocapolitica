@@ -1,0 +1,103 @@
+[0m
+> build · gpt-5.4-mini
+[0m
+Vou ler o critério e os três lotes, depois abrir as fontes de cada caso para julgar individualmente e gravar cada JSON curado antes de passar ao próximo.
+[0m# [0mTodos
+[•] Ler `pdf_template/CURADORIA.md` e extrair critérios obrigatórios
+[ ] Julgar e gravar `pdf_template/amunesc/_lotes/campo_alegre__0.json`
+[ ] Julgar e gravar `pdf_template/amunesc/_lotes/campo_alegre__1.json`
+[ ] Julgar e gravar `pdf_template/amunesc/_lotes/garuva__0.json`
+[ ] Reportar contagem final por lote
+[0m
+[0m→ [0mRead pdf_template/CURADORIA.md
+[0m→ [0mRead pdf_template/amunesc/_lotes/campo_alegre__0.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/garuva__0.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/campo_alegre__1.json
+Já tenho o critério e a maior parte dos lotes. Vou abrir o restante de `campo_alegre__0` para não perder casos no fim do arquivo, depois monto os arrays curados e gravo cada lote.
+[0m→ [0mRead pdf_template/amunesc/_lotes/campo_alegre__0.json[90m [offset=507, limit=300][0m
+Encontrei alguns casos duplicados, alguns de outro município e um lote com decisões misturadas/truncadas. Vou resolver os casos ambíguos com base no dispositivo e cortar os que não sustentam publicação, para não deslocar o alinhamento.
+[0m✱ [0mGrep "DEN 24/00580701"[90m in . · 4 matches[0m
+[0m✱ [0mGrep "REP 25/00016328"[90m in . · 4 matches[0m
+[0m✱ [0mGrep "PCP 24/00292676"[90m in . · 4 matches[0m
+[0m→ [0mRead pdf_template/amunesc/_curated_data/raw/campo_alegre.json[90m [offset=670, limit=30][0m
+[0m→ [0mRead pdf_template/amunesc/_curated_data/raw/campo_alegre.json[90m [offset=720, limit=40][0m
+[0m→ [0mRead pdf_template/amunesc/_curated_data/raw/campo_alegre.json[90m [offset=590, limit=40][0m
+[0m✱ [0mGrep "RESPONSÁVEL: Luis Carlos Worell"[90m in pdf_template/amunesc/_curated_data/raw/campo_alegre.json · 0 matches[0m
+[0m✱ [0mGrep "LUIS CARLOS WORELL"[90m in pdf_template/amunesc/_curated_data/raw/campo_alegre.json · 1 match[0m
+[0m✱ [0mGrep "DEN 24/00580701"[90m in pdf_template/amunesc/_curated_data/raw/campo_alegre.json · 2 matches[0m
+Achei um arquivo `raw` com os objetos completos. Vou usar isso só para resolver os casos truncados/misturados, porque alguns dispositivos no lote ficaram cortados na leitura inicial.
+[0m
+[0m$ [0mjq '.[] | select(.ref=="DEN 24/00580701")' "pdf_template/amunesc/_curated_data/raw/campo_alegre.json"
+jq: error (at pdf_template/amunesc/_curated_data/raw/campo_alegre.json:1086): Cannot index string with string "ref"
+[0m
+[0m→ [0mRead pdf_template/amunesc/_curated_data/raw/campo_alegre.json[90m [offset=1, limit=20][0m
+[0m
+[0m$ [0mjq '.tce[] | select(.ref=="DEN 24/00580701")' "pdf_template/amunesc/_curated_data/raw/campo_alegre.json"
+{
+  "ref": "DEN 24/00580701",
+  "header": "⭐ DEN 24/00580701 — Denúncia",
+  "status": "🔴 apontou irregularidade",
+  "ymd": [
+    2024,
+    12,
+    3
+  ],
+  "partes": "Prefeitura Municipal de Campo Alegre (PMCAlegre) Supostas irregularidades relacionadas ao Servidor público efetivo e estável, provido no cargo de Contador Luis Carlos Worell, Prefeitura Municipal de Campo Alegre",
+  "dispositivo": "Resolve: Art. 1º Designar o Servidor Público Municipal LUIS CARLOS WORELL, matrícula funcional nº 000999, registro no sistema sob nº 956022, ocupante do Cargo Público e na Função de Contador, lotado na Secretária Municipal de Finanças, para desempenhar suas Funções concomitantemente de responsável pela Tesouraria do IPRECAL – Instituto de Previdência dos Servidores Públicos do Município de Campo Alegre/SC. Parágrafo único. O Servidor Público Municipal ora designado no caput deste artigo deverá cumprir as disposições na legislação vigente no exercício da função dos serviços a serem executados. Art. 2º Esta Portaria entra em vigor na data de sua publicação, produzindo seus efeitos a partir de 29 de março de 2021. Lei Municipal nº 4.217/2014 Art. 101. [...] § 2º As funções da Tesouraria do Instituto de Previdência Social dos Servidores Públicos do Município de Campo Alegre - IPRECAL serão realizadas por Servidor do Quadro de Servidores efetivos do referido Instituto, nomeado pelo Diretor Executivo, ou Servidor Público Municipal nomeado pelo Prefeito Municipal, do quadro de Servidores Públicos do Poder Executivo do Município de Campo Alegre/SC., que detenha qualificação técnica e legal e não perceberá nenhuma vantagem adicional pelo exercício desta atividade. Aqui, importa frisar que a Prefeitura de Campo Alegre e o IPRECAL constituem órgãos públicos distintos, cada um dotado de personalidade jurídica própria, além de independência administrativa e financeira. Esse entendimento é corroborado pela Lei Municipal nº 2.537/2001, que definiu o instituto de previdência como uma entidade autárquica e destacou a sua independência em relação à administração direta. Embora tal lei tenha sido revogada, sua redação original foi mantida pela Lei Municipal nº 4.217/2014: Lei Municipal nº 4.217/2014 Art. 3º Fica mantido nos termos desta Lei, o Instituto de Previdência Social dos Servidores Públicos do Município de Campo Alegre, entidade autárquica, com personalidade jurídica de direito público interno, detentora de autonomia financeira e administrativa. Parágrafo Único. O Instituto de Previdência Social dos Servidores Públicos do Município de Campo Alegre será denominado pela sigla IPRECAL, e terá por fim a administração do RPPS. (Grifou-se) A mesma legislação estabelece que o IPRECAL possui quadro de pessoal distinto do da Prefeitura, por meio do qual deverá desenvolver suas atividades, incluindo aquelas de natureza contábil e de tesouraria: Lei Municipal nº 4.217/2014 Art. 100. [...] Parágrafo Único. O Quadro de Pessoal Efetivo do Instituto de Previdência Social dos Servidores Públicos do Município de Campo Alegre - IPRECAL será composto dos seguintes cargos: I - 1 (um) Diretor Executivo; II - 1 (um) Agente Administrativo III; III - 1 (um) Contador. IV - 1 (um) Advogado. (Grifou-se) [...] Anexo I – B Das atribuições e responsabilidades Denominação do cargo: Contador 1. Supervisionar técnica e administrativamente a contabilidade do IPRECAL e controlar as transaçõe"
+}
+[0m
+[0m$ [0mjq -r '.tce[] | select(.ref=="DEN 24/00580701") | (.dispositivo | length | tostring), .dispositivo[1800:2600], .dispositivo[2600:3400]' "pdf_template/amunesc/_curated_data/raw/campo_alegre.json"
+3000
+ 4.217/2014 Art. 3º Fica mantido nos termos desta Lei, o Instituto de Previdência Social dos Servidores Públicos do Município de Campo Alegre, entidade autárquica, com personalidade jurídica de direito público interno, detentora de autonomia financeira e administrativa. Parágrafo Único. O Instituto de Previdência Social dos Servidores Públicos do Município de Campo Alegre será denominado pela sigla IPRECAL, e terá por fim a administração do RPPS. (Grifou-se) A mesma legislação estabelece que o IPRECAL possui quadro de pessoal distinto do da Prefeitura, por meio do qual deverá desenvolver suas atividades, incluindo aquelas de natureza contábil e de tesouraria: Lei Municipal nº 4.217/2014 Art. 100. [...] Parágrafo Único. O Quadro de Pessoal Efetivo do Instituto de Previdência Social dos Serv
+idores Públicos do Município de Campo Alegre - IPRECAL será composto dos seguintes cargos: I - 1 (um) Diretor Executivo; II - 1 (um) Agente Administrativo III; III - 1 (um) Contador. IV - 1 (um) Advogado. (Grifou-se) [...] Anexo I – B Das atribuições e responsabilidades Denominação do cargo: Contador 1. Supervisionar técnica e administrativamente a contabilidade do IPRECAL e controlar as transaçõe
+[0m
+[0m$ [0mjq -r '.tce[] | select(.ref=="DEN 24/00580701") | .dispositivo[2600:3200], .dispositivo[3200:3800], .dispositivo[3800:4400]' "pdf_template/amunesc/_curated_data/raw/campo_alegre.json"
+idores Públicos do Município de Campo Alegre - IPRECAL será composto dos seguintes cargos: I - 1 (um) Diretor Executivo; II - 1 (um) Agente Administrativo III; III - 1 (um) Contador. IV - 1 (um) Advogado. (Grifou-se) [...] Anexo I – B Das atribuições e responsabilidades Denominação do cargo: Contador 1. Supervisionar técnica e administrativamente a contabilidade do IPRECAL e controlar as transaçõe
+[0m
+[0m$ [0mjq '.tce[] | select(.ref=="PAF 23/80070657")' "pdf_template/amunesc/_curated_data/raw/campo_alegre.json"
+{
+  "ref": "PAF 23/80070657",
+  "header": "· PAF 23/80070657 — PAF",
+  "status": "⬛ decisão singular",
+  "ymd": [
+    2023,
+    7,
+    26
+  ],
+  "partes": "Instituto de Previdência Social dos Servidores Públicos do Município de Campo Alegre - IPRECAL Investimentos com recursos previdenciários nos exercícios 2022 e 2023. Andressa Coelho de Ávila, Instituto de Previdência Social dos Servidores Públicos do Município de Campo"
+}
+[0m
+Já fechei os critérios de corte: rotina previdenciária vira `keep:false`, duplicatas por fase ficam só na versão mais avançada, e casos de outro município saem. Agora vou escrever os três arquivos curados.
+[0m✱ [0mGlob "pdf_template/amunesc/_lotes_curados/*.json"[90m in . · 4 matches[0m
+[0m✱ [0mGlob "pdf_template/amunesc/_lotes_curados"[90m in . · 0 matches[0m
+[0m% [0mPatch 1 file
+[0m% [0mPatch 1 file
+[0m% [0mPatch 1 file
+Ainda há uma duplicata por fase em `campo_alegre__0` que precisa ser cortada: o PAP veio antes da REP. Vou ajustar isso e depois validar os três arquivos com `jq`.
+[0m% [0mPatch 1 file
+[0m
+[0m$ [0mjq 'length' "pdf_template/amunesc/_lotes_curados/campo_alegre__0.json" && jq 'length' "pdf_template/amunesc/_lotes_curados/campo_alegre__1.json" && jq 'length' "pdf_template/amunesc/_lotes_curados/garuva__0.json"
+70
+24
+70
+[0m
+[0m$ [0mjq '[.[] | select(.keep==true)] | length' "pdf_template/amunesc/_lotes_curados/campo_alegre__0.json" && jq '[.[] | select(.keep==true and .severity=="alta")] | length' "pdf_template/amunesc/_lotes_curados/campo_alegre__0.json" && jq '[.[] | select(.keep==true)] | length' "pdf_template/amunesc/_lotes_curados/campo_alegre__1.json" && jq '[.[] | select(.keep==true and .severity=="alta")] | length' "pdf_template/amunesc/_lotes_curados/campo_alegre__1.json" && jq '[.[] | select(.keep==true)] | length' "pdf_template/amunesc/_lotes_curados/garuva__0.json" && jq '[.[] | select(.keep==true and .severity=="alta")] | length' "pdf_template/amunesc/_lotes_curados/garuva__0.json"
+40
+5
+1
+1
+24
+1
+[0m
+[0m# [0mTodos
+[✓] Ler `pdf_template/CURADORIA.md` e extrair critérios obrigatórios
+[✓] Julgar e gravar `pdf_template/amunesc/_lotes/campo_alegre__0.json`
+[✓] Julgar e gravar `pdf_template/amunesc/_lotes/campo_alegre__1.json`
+[✓] Julgar e gravar `pdf_template/amunesc/_lotes/garuva__0.json`
+[✓] Reportar contagem final por lote
+[0m
+Arquivos gravados e JSON validado.
+
+- `campo_alegre__0.json`: 70 casos, 40 `keep:true`, 5 `severity: alta`
+- `campo_alegre__1.json`: 24 casos, 1 `keep:true`, 1 `severity: alta`
+- `garuva__0.json`: 70 casos, 24 `keep:true`, 1 `severity: alta`

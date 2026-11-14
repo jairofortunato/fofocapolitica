@@ -1,0 +1,108 @@
+[0m
+> build · gpt-5.4-mini
+[0m
+Vou ler o critério e os três lotes, identificar a fonte de cada caso e então gravar cada curadoria lote a lote no diretório pedido.
+[0m# [0mTodos
+[•] Ler `pdf_template/CURADORIA.md` e entender os critérios obrigatórios
+[ ] Curar `joinville__17.json` caso a caso e gravar em `_lotes_curados`
+[ ] Curar `joinville__18.json` caso a caso e gravar em `_lotes_curados`
+[ ] Curar `joinville__19.json` caso a caso e gravar em `_lotes_curados`
+[ ] Conferir contagem final por lote e reportar resultados
+[0m
+[0m→ [0mRead pdf_template/CURADORIA.md
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__17.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__18.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__19.json
+Já tenho o critério. Agora vou separar os casos com substância dos meramente instaurados ou truncados, para só publicar o que o texto realmente sustenta.
+Vou gravar os três JSON curados agora, na mesma ordem dos casos, deixando os itens sem substância com `keep:false` e só mantendo os que o texto sustenta.
+[0m✱ [0mGlob "pdf_template/amunesc/_lotes_curados/*"[90m in . · 45 matches[0m
+[0m
+[0m$ [0mls pdf_template/amunesc/_lotes_curados
+araquari__0.json
+araquari__1.json
+araquari__2.json
+araquari__3.json
+balneario_barra_do_sul__0.json
+balneario_barra_do_sul__1.json
+campo_alegre__0.json
+campo_alegre__1.json
+garuva__0.json
+garuva__1.json
+garuva__2.json
+itapoa__0.json
+itapoa__1.json
+itapoa__2.json
+itapoa__3.json
+itapoa__4.json
+joinville__0.json
+joinville__1.json
+joinville__2.json
+joinville__3.json
+joinville__4.json
+joinville__5.json
+joinville__6.json
+joinville__7.json
+rio_negrinho__0.json
+rio_negrinho__1.json
+rio_negrinho__2.json
+sao_bento_do_sul__0.json
+sao_bento_do_sul__1.json
+sao_bento_do_sul__2.json
+sao_bento_do_sul__3.json
+sao_bento_do_sul__4.json
+sao_bento_do_sul__5.json
+sao_bento_do_sul__6.json
+sao_francisco_do_sul__0.json
+sao_francisco_do_sul__1.json
+sao_francisco_do_sul__10.json
+sao_francisco_do_sul__2.json
+sao_francisco_do_sul__3.json
+sao_francisco_do_sul__4.json
+sao_francisco_do_sul__5.json
+sao_francisco_do_sul__6.json
+sao_francisco_do_sul__7.json
+sao_francisco_do_sul__8.json
+sao_francisco_do_sul__9.json
+[0m
+[0m% [0mPatch 1 file
+[0m% [0mPatch 1 file
+[0m% [0mPatch 1 file
+Os três lotes já foram gravados. Vou validar o JSON e conferir as contagens de `keep:true` e `severity:"alta"` antes de fechar.
+[0m
+[0m$ [0mpython - <<'PY'
+import json, pathlib
+for name in ['joinville__17.json','joinville__18.json','joinville__19.json']:
+    path = pathlib.Path('pdf_template/amunesc/_lotes_curados') / name
+    data = json.loads(path.read_text())
+    keep = sum(1 for x in data if x.get('keep'))
+    alta = sum(1 for x in data if x.get('severity') == 'alta')
+    print(name, len(data), keep, alta)
+PY
+zsh:1: command not found: python
+[0m
+`python` não existe no ambiente; vou validar com `python3` e, se aparecer qualquer problema, corrijo o arquivo antes de concluir.
+[0m$ [0mpython3 - <<'PY'
+import json, pathlib
+for name in ['joinville__17.json','joinville__18.json','joinville__19.json']:
+    path = pathlib.Path('pdf_template/amunesc/_lotes_curados') / name
+    data = json.loads(path.read_text())
+    keep = sum(1 for x in data if x.get('keep'))
+    alta = sum(1 for x in data if x.get('severity') == 'alta')
+    print(name, len(data), keep, alta)
+PY
+joinville__17.json 70 13 0
+joinville__18.json 70 12 0
+joinville__19.json 70 14 0
+[0m
+[0m# [0mTodos
+[✓] Ler `pdf_template/CURADORIA.md` e entender os critérios obrigatórios
+[✓] Curar `joinville__17.json` caso a caso e gravar em `_lotes_curados`
+[✓] Curar `joinville__18.json` caso a caso e gravar em `_lotes_curados`
+[✓] Curar `joinville__19.json` caso a caso e gravar em `_lotes_curados`
+[✓] Conferir contagem final por lote e reportar resultados
+[0m
+Gravados em `pdf_template/amunesc/_lotes_curados/`.
+
+- `joinville__17.json`: 70 casos, 13 `keep:true`, 0 `severity: alta`
+- `joinville__18.json`: 70 casos, 12 `keep:true`, 0 `severity: alta`
+- `joinville__19.json`: 70 casos, 14 `keep:true`, 0 `severity: alta`

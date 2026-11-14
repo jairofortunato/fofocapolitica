@@ -1,0 +1,465 @@
+[0m
+> build · gpt-5.4-mini
+[0m
+Vou ler o critério e os três lotes, depois curar cada caso fonte por fonte e gravar cada saída antes de passar ao próximo.
+[0m→ [0mRead pdf_template/CURADORIA.md
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__57.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__55.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__56.json
+Os lotes são grandes e a maioria dos itens é só instauração sem substância. Vou separar por padrão editorial: manter apenas conclusões com fato concreto, e cortar instações vagas, sigilosas ou sem desfecho verificável.
+[0m
+[0m# [0mTodos
+[•] Curar joinville__55.json caso a caso e gravar em _lotes_curados
+[ ] Curar joinville__56.json caso a caso e gravar em _lotes_curados
+[ ] Curar joinville__57.json caso a caso e gravar em _lotes_curados
+[ ] Verificar saídas finais e resumir contagens por lote
+[0m
+Vou gerar os curados por script para preservar a ordem e evitar erro de alinhamento, depois confiro as contagens e a existência dos arquivos.
+[0m$ [0mls pdf_template/amunesc/_lotes && ls pdf_template/amunesc/_lotes_curados
+_manifest.json
+araquari__0.json
+araquari__1.json
+araquari__2.json
+araquari__3.json
+balneario_barra_do_sul__0.json
+balneario_barra_do_sul__1.json
+campo_alegre__0.json
+campo_alegre__1.json
+garuva__0.json
+garuva__1.json
+garuva__2.json
+itapoa__0.json
+itapoa__1.json
+itapoa__2.json
+itapoa__3.json
+itapoa__4.json
+joinville__0.json
+joinville__1.json
+joinville__10.json
+joinville__11.json
+joinville__12.json
+joinville__13.json
+joinville__14.json
+joinville__15.json
+joinville__16.json
+joinville__17.json
+joinville__18.json
+joinville__19.json
+joinville__2.json
+joinville__20.json
+joinville__21.json
+joinville__22.json
+joinville__23.json
+joinville__24.json
+joinville__25.json
+joinville__26.json
+joinville__27.json
+joinville__28.json
+joinville__29.json
+joinville__3.json
+joinville__30.json
+joinville__31.json
+joinville__32.json
+joinville__33.json
+joinville__34.json
+joinville__35.json
+joinville__36.json
+joinville__37.json
+joinville__38.json
+joinville__39.json
+joinville__4.json
+joinville__40.json
+joinville__41.json
+joinville__42.json
+joinville__43.json
+joinville__44.json
+joinville__45.json
+joinville__46.json
+joinville__47.json
+joinville__48.json
+joinville__49.json
+joinville__5.json
+joinville__50.json
+joinville__51.json
+joinville__52.json
+joinville__53.json
+joinville__54.json
+joinville__55.json
+joinville__56.json
+joinville__57.json
+joinville__58.json
+joinville__59.json
+joinville__6.json
+joinville__60.json
+joinville__61.json
+joinville__62.json
+joinville__63.json
+joinville__64.json
+joinville__65.json
+joinville__66.json
+joinville__67.json
+joinville__68.json
+joinville__69.json
+joinville__7.json
+joinville__70.json
+joinville__71.json
+joinville__72.json
+joinville__73.json
+joinville__74.json
+joinville__75.json
+joinville__76.json
+joinville__77.json
+joinville__78.json
+joinville__79.json
+joinville__8.json
+joinville__9.json
+rio_negrinho__0.json
+rio_negrinho__1.json
+rio_negrinho__2.json
+sao_bento_do_sul__0.json
+sao_bento_do_sul__1.json
+sao_bento_do_sul__2.json
+sao_bento_do_sul__3.json
+sao_bento_do_sul__4.json
+sao_bento_do_sul__5.json
+sao_bento_do_sul__6.json
+sao_francisco_do_sul__0.json
+sao_francisco_do_sul__1.json
+sao_francisco_do_sul__10.json
+sao_francisco_do_sul__2.json
+sao_francisco_do_sul__3.json
+sao_francisco_do_sul__4.json
+sao_francisco_do_sul__5.json
+sao_francisco_do_sul__6.json
+sao_francisco_do_sul__7.json
+sao_francisco_do_sul__8.json
+sao_francisco_do_sul__9.json
+araquari__0.json
+araquari__1.json
+araquari__2.json
+araquari__3.json
+balneario_barra_do_sul__0.json
+balneario_barra_do_sul__1.json
+campo_alegre__0.json
+campo_alegre__1.json
+garuva__0.json
+garuva__1.json
+garuva__2.json
+itapoa__0.json
+itapoa__1.json
+itapoa__2.json
+itapoa__3.json
+itapoa__4.json
+joinville__0.json
+joinville__1.json
+joinville__10.json
+joinville__11.json
+joinville__12.json
+joinville__13.json
+joinville__14.json
+joinville__15.json
+joinville__16.json
+joinville__17.json
+joinville__18.json
+joinville__19.json
+joinville__2.json
+joinville__20.json
+joinville__21.json
+joinville__22.json
+joinville__23.json
+joinville__24.json
+joinville__25.json
+joinville__26.json
+joinville__27.json
+joinville__28.json
+joinville__29.json
+joinville__3.json
+joinville__30.json
+joinville__31.json
+joinville__32.json
+joinville__33.json
+joinville__34.json
+joinville__35.json
+joinville__36.json
+joinville__37.json
+joinville__38.json
+joinville__39.json
+joinville__4.json
+joinville__40.json
+joinville__41.json
+joinville__42.json
+joinville__43.json
+joinville__44.json
+joinville__45.json
+joinville__46.json
+joinville__47.json
+joinville__48.json
+joinville__49.json
+joinville__5.json
+joinville__50.json
+joinville__51.json
+joinville__52.json
+joinville__53.json
+joinville__54.json
+joinville__6.json
+joinville__7.json
+joinville__8.json
+joinville__9.json
+rio_negrinho__0.json
+rio_negrinho__1.json
+rio_negrinho__2.json
+sao_bento_do_sul__0.json
+sao_bento_do_sul__1.json
+sao_bento_do_sul__2.json
+sao_bento_do_sul__3.json
+sao_bento_do_sul__4.json
+sao_bento_do_sul__5.json
+sao_bento_do_sul__6.json
+sao_francisco_do_sul__0.json
+sao_francisco_do_sul__1.json
+sao_francisco_do_sul__10.json
+sao_francisco_do_sul__2.json
+sao_francisco_do_sul__3.json
+sao_francisco_do_sul__4.json
+sao_francisco_do_sul__5.json
+sao_francisco_do_sul__6.json
+sao_francisco_do_sul__7.json
+sao_francisco_do_sul__8.json
+sao_francisco_do_sul__9.json
+[0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/joinville__53.json
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/joinville__54.json
+Vou gravar os três curados agora. Estou marcando como `keep:true` só os itens com fato concreto e desfecho legível, e cortando as fases anteriores duplicadas.
+[0m
+[0m$ [0mpython3 - <<'PY'
+import json, os
+base = '/Users/jairofortunato/mp/pdf_template/amunesc'
+outdir = os.path.join(base, '_lotes_curados')
+
+m55 = {
+3850: {'keep': True, 'title': 'MP arquiva notícia sobre omissão do Município', 'description': 'A conclusão foi de ausência de demonstração da omissão do ente municipal. O caso foi arquivado.', 'status': '🟢 arquivado', 'severity': 'media'},
+3857: {'keep': True, 'title': 'MP arquiva caso de pit bulls com bem-estar resguardado', 'description': 'A atuação do órgão de proteção animal constatou animais castrados, vacinados e microchipados, com medidas de contenção adotadas pelo tutor. O caso foi arquivado.', 'status': '🟢 arquivado', 'severity': 'media'},
+3858: {'keep': True, 'title': 'MP arquiva apuração sobre canina vulnerável em Joinville', 'description': 'Houve adequações no abrigo e a vacinação e microchipagem foram feitas. O bem-estar do animal foi resguardado e a instauração foi indeferida.', 'status': '🟢 arquivado', 'severity': 'media'},
+3859: {'keep': True, 'title': 'MP arquiva apuração sobre animais em imóvel da Estrada Arataca', 'description': 'As adequações no abrigo, a vacinação, a castração e a microchipagem foram realizadas. O caso foi indeferido.', 'status': '🟢 arquivado', 'severity': 'media'},
+3860: {'keep': True, 'title': 'MP arquiva apuração sobre canina com nova tutora', 'description': 'A nova tutora cumpriu as medidas administrativas cabíveis, como vacinação, microchipagem, abrigo adequado e tratamento veterinário. O animal ficou resguardado.', 'status': '🟢 arquivado', 'severity': 'media'},
+3861: {'keep': True, 'title': 'MP arquiva caso de dois caninos e uma calopsita', 'description': 'A SAMA e a PMSC atuaram, com adequações no abrigo, vacinação e microchipagem. Os animais ficaram com o bem-estar resguardado.', 'status': '🟢 arquivado', 'severity': 'media'},
+3862: {'keep': True, 'title': 'MP arquiva caso de canino com suspeita de maus-tratos', 'description': 'O abrigo foi adequado, houve castração, vacinação e microchipagem, e o canino ficou com o bem-estar resguardado. A instauração foi indeferida.', 'status': '🟢 arquivado', 'severity': 'media'},
+3863: {'keep': True, 'title': 'MP arquiva caso de felinas mantidas em local adequado', 'description': 'A proteção animal constatou que as felinas estavam em local adequado e uma delas já estava castrada, vacinada e microchipada. A instauração foi indeferida.', 'status': '🟢 arquivado', 'severity': 'media'},
+3866: {'keep': True, 'title': 'MP arquiva apuração sobre suposto abandono de animal', 'description': 'Não houve indícios suficientes para iniciar apuração criminal. O animal permaneceu na residência da noticiante e foi incluído em feira virtual de adoção.', 'status': '🟢 arquivado', 'severity': 'media'},
+3874: {'keep': True, 'title': 'MP arquiva inquérito sobre cães e felinos em local fechado', 'description': 'Os animais estavam castrados, vacinados e microchipados, e o texto diz que o bem-estar foi resguardado. O MP arquivou por falta de base para ação civil.', 'status': '🟢 arquivado', 'severity': 'media'},
+3887: {'keep': True, 'title': 'MP arquiva caso de canino resguardado na Rua Maracujá', 'description': 'O canino foi vacinado e microchipado, com bem-estar resguardado. A Promotoria indeferiu a instauração.', 'status': '🟢 arquivado', 'severity': 'media'},
+3888: {'keep': True, 'title': 'MP arquiva nova apuração sobre corte de árvores em Joinville', 'description': 'O caso já havia sido investigado em procedimento preparatório anterior. A nova notícia de fato foi indeferida.', 'status': '🟢 arquivado', 'severity': 'media'},
+3897: {'keep': True, 'title': 'MP arquiva caso de pit bull e outro cão sem paradeiro certo', 'description': 'Uma canina veio a óbito, outro animal foi transferido para outro município, e houve remessa de cópia à promotoria de Barra Velha. O caso foi indeferido.', 'status': '🟢 arquivado', 'severity': 'media'},
+3898: {'keep': True, 'title': 'MP arquiva apuração sobre caninos comunitários em Joinville', 'description': 'A SAMA acolheu a canina e os nove filhotes, com vacinação e microchipagem. O caso foi considerado solucionado.', 'status': '🟢 arquivado', 'severity': 'media'},
+3899: {'keep': True, 'title': 'MP arquiva caso de canina pitbull em local adequado', 'description': 'A canina estava castrada, vacinada e microchipada, com abrigo adequado e bem-estar resguardado. A instauração foi indeferida.', 'status': '🟢 arquivado', 'severity': 'media'},
+3900: {'keep': True, 'title': 'MP arquiva apuração sobre canino em local adequado', 'description': 'O canino estava vacinado e microchipado, em local adequado. O órgão de proteção animal considerou a instauração desnecessária.', 'status': '🟢 arquivado', 'severity': 'media'},
+3901: {'keep': True, 'title': 'MP arquiva apuração sobre dois caninos abandonados e feridos', 'description': 'A SAMA atuou, realizou vacinação, microchipagem e medicação, e o bem-estar dos animais foi resguardado. O caso foi indeferido.', 'status': '🟢 arquivado', 'severity': 'media'},
+3902: {'keep': True, 'title': 'MP arquiva caso de canina acolhida no fórum de Joinville', 'description': 'A canina foi acolhida pelo Centro de Bem-Estar Animal após a situação ligada ao tutor preso. Os fatos foram solucionados.', 'status': '🟢 arquivado', 'severity': 'media'},
+3903: {'keep': True, 'title': 'MP arquiva caso de canino acolhido por ONG', 'description': 'O canino foi acolhido por uma ONG de proteção animal e o fato foi solucionado sem intervenção posterior da Promotoria.', 'status': '🟢 arquivado', 'severity': 'media'},
+3904: {'keep': True, 'title': 'MP arquiva caso de canino preso em corrente curta', 'description': 'O animal foi considerado em local adequado, castrado, vacinado e microchipado, com bem-estar resguardado. O arquivamento foi fundamentado no ato interno.', 'status': '🟢 arquivado', 'severity': 'media'},
+3913: {'keep': True, 'title': 'MP arquiva apuração sobre ataques de cães no Vila Nova', 'description': 'Os caninos ficaram contidos no imóvel e os tutores fizeram melhorias no portão, além de vacinação e microchipagem. O caso foi indeferido.', 'status': '🟢 arquivado', 'severity': 'media'},
+3918: {'keep': True, 'title': 'MP encerra ressarcimento entre secretarias de saúde em Joinville', 'description': 'A Secretaria Municipal de Saúde ficou com valor a ressarcir à Secretaria de Estado da Saúde, com desconto parcelado. Não houve valores a devolver ao fundo municipal.', 'status': '🟢 arquivado', 'severity': 'media'},
+}
+
+m56 = {
+3922: {'keep': True, 'title': 'MP arquiva apuração sobre discriminação e assédio no Colégio Exathum', 'description': 'A notícia tratava de possível discriminação e assédio, mas não houve elementos mínimos. A instauração foi indeferida.', 'status': '🟢 arquivado', 'severity': 'media'},
+3923: {'keep': True, 'title': 'MP arquiva caso sem risco em notícia de família', 'description': 'A Promotoria registrou ausência de situação de risco e de legitimidade para a ação de alimentos. O caso foi arquivado.', 'status': '🟢 arquivado', 'severity': 'media'},
+3924: {'keep': True, 'title': 'MP arquiva apuração sobre idoso após cessar risco', 'description': 'A situação de risco do idoso cessou. A notícia de fato foi indeferida.', 'status': '🟢 arquivado', 'severity': 'media'},
+3925: {'keep': True, 'title': 'MP arquiva caso de canina pit bull acolhida', 'description': 'A canina foi acolhida e encaminhada para clínica conveniada, com bem-estar resguardado. A instauração foi indeferida.', 'status': '🟢 arquivado', 'severity': 'media'},
+3926: {'keep': True, 'title': 'MP arquiva caso sobre distribuição de senhas no CRAS', 'description': 'O inquérito tratava da distribuição de senhas no CRAS e da perda do objeto após alternativas de atendimento e providências do Município.', 'status': '🟢 arquivado', 'severity': 'media'},
+3927: {'keep': True, 'title': 'MP arquiva notícia sobre ausência de risco e procuração', 'description': 'O caso foi arquivado por ausência de situação de risco. A procuração havia sido livremente outorgada.', 'status': '🟢 arquivado', 'severity': 'media'},
+3928: {'keep': True, 'title': 'MP arquiva notícia de fato sem risco', 'description': 'A Promotoria concluiu pela ausência de situação de risco e arquivou o caso.', 'status': '🟢 arquivado', 'severity': 'media'},
+3930: {'keep': True, 'title': 'MP arquiva apuração sobre canino solto em via pública', 'description': 'O tutor adotou as medidas administrativas e atendeu integralmente às exigências. O bem-estar foi resguardado.', 'status': '🟢 arquivado', 'severity': 'media'},
+3931: {'keep': True, 'title': 'MP arquiva caso de canino doente após óbito comunicado', 'description': 'A noticiante informou a morte do animal, tornando desnecessárias novas providências. A instauração foi indeferida.', 'status': '🟢 arquivado', 'severity': 'media'},
+3932: {'keep': True, 'title': 'MP arquiva caso de felino com esporotricose atendido pela Saúde', 'description': 'O animal foi acolhido e ficou em tratamento pela Secretaria de Saúde. O caso foi indeferido.', 'status': '🟢 arquivado', 'severity': 'media'},
+3935: {'keep': True, 'title': 'MP arquiva apuração sobre canino e felino em Joinville', 'description': 'A SAMA apontou atendimento parcial e microchipagem ainda pendente, mas considerou o objeto esgotado para ação civil. O caso foi arquivado.', 'status': '🟢 arquivado', 'severity': 'media'},
+3941: {'keep': True, 'title': 'MP arquiva caso de canina atendida pelo órgão de proteção animal', 'description': 'Houve atendimento veterinário e a saúde e o bem-estar ficaram resguardados. O procedimento foi arquivado.', 'status': '🟢 arquivado', 'severity': 'media'},
+3942: {'keep': True, 'title': 'MP arquiva apuração sobre falta de materiais odontológicos em Joinville', 'description': 'A Secretaria de Saúde adotou providências e abriu licitação para comprar o material faltante. Não houve prejuízo concreto ao atendimento odontológico.', 'status': '🟢 arquivado', 'severity': 'media'},
+3944: {'keep': True, 'title': 'MP arquiva caso sobre acessibilidade em comércio', 'description': 'O estabelecimento atendeu às normas de acessibilidade e o inquérito foi arquivado.', 'status': '🟢 arquivado', 'severity': 'media'},
+3948: {'keep': True, 'title': 'MP arquiva auto de infração ligado ao sistema GAIA', 'description': 'Houve auto de infração e os fatos já eram objeto de investigação judicial. A instauração foi indeferida.', 'status': '🟢 arquivado', 'severity': 'media'},
+3949: {'keep': True, 'title': 'MP arquiva caso de felino com esporotricose atendido', 'description': 'A Secretaria da Saúde acolheu o animal, que seguiu em tratamento veterinário. O caso foi indeferido.', 'status': '🟢 arquivado', 'severity': 'media'},
+3950: {'keep': True, 'title': 'MP arquiva caso de pit bull com abrigo e água garantidos', 'description': 'O animal estava castrado, microchipado e vacinado, com água, alimentação e abrigo adequado. O procedimento foi arquivado.', 'status': '🟢 arquivado', 'severity': 'media'},
+3951: {'keep': True, 'title': 'MP arquiva apuração sobre animais na Vila Nova', 'description': 'As notificações administrativas foram atendidas e os caninos estavam vacinados e microchipados. O caso foi arquivado.', 'status': '🟢 arquivado', 'severity': 'media'},
+3954: {'keep': True, 'title': 'MP arquiva caso sobre omissão de atendimento a canino abandonado', 'description': 'A Promotoria concluiu que a omissão não ficou caracterizada. A notícia de fato foi indeferida.', 'status': '🟢 arquivado', 'severity': 'media'},
+3955: {'keep': True, 'title': 'MP arquiva apuração sobre canina abandonada em Joinville', 'description': 'O animal estava recebendo tratamento veterinário e a instauração foi indeferida.', 'status': '🟢 arquivado', 'severity': 'media'},
+3956: {'keep': True, 'title': 'MP arquiva inquérito sobre curandeirismo em clínica e profissional', 'description': 'Não foram encontrados elementos mínimos para persecução criminal, e a atividade foi regularizada na via sanitária e ético-profissional.', 'status': '🟢 arquivado', 'severity': 'media'},
+3959: {'keep': True, 'title': 'MP arquiva caso de canino sem sinais de agressão', 'description': 'A SAMA não encontrou sinais de agressão ao animal, e o tutor foi advertido. O bem-estar ficou resguardado.', 'status': '🟢 arquivado', 'severity': 'media'},
+3960: {'keep': True, 'title': 'MP arquiva caso de três cães com tutela orientada', 'description': 'Os animais estavam vacinados e microchipados, com água limpa, abrigo e alimentação. O Ministério Público encerrou o caso.', 'status': '🟢 arquivado', 'severity': 'media'},
+3962: {'keep': True, 'title': 'MP arquiva apuração sobre ataque entre cães perigosos', 'description': 'As medidas administrativas foram adotadas e as circunstâncias do ataque ficaram esclarecidas. Não houve negligência do tutor.', 'status': '🟢 arquivado', 'severity': 'media'},
+3963: {'keep': True, 'title': 'MP arquiva caso de canino pastor alemão adotado', 'description': 'O animal foi adotado e os tutores cumpriram as determinações. O bem-estar foi resguardado.', 'status': '🟢 arquivado', 'severity': 'media'},
+3964: {'keep': True, 'title': 'MP arquiva caso de canina abandonada adotada', 'description': 'A canina foi adotada e teve o bem-estar devidamente resguardado. A instauração foi indeferida.', 'status': '🟢 arquivado', 'severity': 'media'},
+3965: {'keep': True, 'title': 'MP arquiva apuração já resolvida em procedimento anterior', 'description': 'A notícia repetia fatos já apurados em procedimento anterior. O MP indeferiu a instauração por duplicidade.', 'status': '🟢 arquivado', 'severity': 'media'},
+3968: {'keep': True, 'title': 'MP arquiva caso de canino em carretinha sem acesso a abrigo', 'description': 'O animal passou a ficar solto e vacinado, com o bem-estar resguardado. O arquivamento foi fundamentado no ato interno.', 'status': '🟢 arquivado', 'severity': 'media'},
+3971: {'keep': True, 'title': 'MP arquiva caso de cão pit bull em igreja de Joinville', 'description': 'O canino estava em local adequado, castrado, vacinado e microchipado. O caso foi arquivado.', 'status': '🟢 arquivado', 'severity': 'media'},
+3972: {'keep': True, 'title': 'MP arquiva apuração sobre canino no Jardim Iririú', 'description': 'O atendimento foi realizado, as obrigações foram cumpridas e os animais estavam vacinados, castrados e microchipados.', 'status': '🟢 arquivado', 'severity': 'media'},
+3978: {'keep': True, 'title': 'MP arquiva caso de canina morta por suspeita de envenenamento', 'description': 'A canina morreu e cópia dos autos foi encaminhada à polícia para inquérito. O procedimento ministerial foi arquivado.', 'status': '🟢 arquivado', 'severity': 'media'},
+3982: {'keep': True, 'title': 'MP firma TAC sobre rotulagem de cervejaria', 'description': 'A cervejaria firmou termo de ajustamento de conduta para adequar a rotulagem dos produtos. O inquérito foi arquivado com cláusula penal.', 'status': '🟠 TAC firmado', 'severity': 'media'},
+}
+
+m57 = {
+3991: {'keep': True, 'title': 'MP arquiva caso de falta de fármacos oncológicos no Hospital São José', 'description': 'O hospital adotou providências administrativas para aquisição dos medicamentos e não houve novas reclamações desde abril de 2024. O caso foi arquivado.', 'status': '🟢 arquivado', 'severity': 'media'},
+3993: {'keep': True, 'title': 'MP arquiva apuração na Casa de Umbanda Caboclo 7 Estrelas', 'description': 'O procedimento foi anexado a outra notícia de fato que tratava dos mesmos fatos. O arquivamento encerrou a apuração em duplicidade.', 'status': '🟢 arquivado', 'severity': 'media'},
+3994: {'keep': True, 'title': 'MP arquiva caso de cães abandonados em Paranaguamirim', 'description': 'O órgão de proteção animal constatou bem-estar resguardado e o caso foi indeferido.', 'status': '🟢 arquivado', 'severity': 'media'},
+3995: {'keep': True, 'title': 'MP arquiva caso de suposto canil clandestino em Joinville', 'description': 'O estabelecimento obteve registro de canil comercial e o bem-estar de todos os animais foi resguardado. O procedimento foi arquivado.', 'status': '🟢 arquivado', 'severity': 'media'},
+4010: {'keep': True, 'title': 'MP arquiva apuração sobre duas caninas em situação de vulnerabilidade', 'description': 'As caninas estavam vacinadas, castradas e microchipadas, com bem-estar resguardado. A instauração foi indeferida.', 'status': '🟢 arquivado', 'severity': 'media'},
+4011: {'keep': True, 'title': 'MP arquiva caso de animais em estrada de Vila Nova', 'description': 'A atuação intersetorial resguardou o bem-estar dos animais, com microchipagem, vacinação e acompanhamento da família pelo Município.', 'status': '🟢 arquivado', 'severity': 'media'},
+4015: {'keep': True, 'title': 'MP arquiva caso de obra irregular ao lado do Abrigo Animal', 'description': 'A atuação da SAMA e da SEPROT eliminou o risco aos animais. A obra sem autorização foi remetida à área urbanística.', 'status': '🟢 arquivado', 'severity': 'media'},
+4016: {'keep': True, 'title': 'MP arquiva apuração sobre canino preso sem água e comida', 'description': 'A SAMA atuou no local e os tutores cumpriram as obrigações. O animal ficou com o bem-estar resguardado.', 'status': '🟢 arquivado', 'severity': 'media'},
+4017: {'keep': True, 'title': 'MP arquiva caso de dois caninos em Joinville', 'description': 'Uma canina ficou resguardada e o paradeiro do cão macho era desconhecido, com boletim de ocorrência registrado. O caso foi indeferido.', 'status': '🟢 arquivado', 'severity': 'media'},
+4018: {'keep': True, 'title': 'MP arquiva apuração sobre canina em Joinville', 'description': 'A canina foi vacinada, microchipada e ficou com o bem-estar resguardado. A instauração foi indeferida.', 'status': '🟢 arquivado', 'severity': 'media'},
+4019: {'keep': True, 'title': 'MP arquiva caso de felino com suspeita de esporotricose', 'description': 'A Secretaria de Saúde internou o animal e ele recebeu tratamento. O caso foi indeferido.', 'status': '🟢 arquivado', 'severity': 'media'},
+4020: {'keep': True, 'title': 'MP arquiva apuração sobre fiscalização da SAMA em Joinville', 'description': 'A notícia tratava da atuação dos fiscais diante dos animais de uma tutora, e o caso acabou indeferido com base na responsabilidade da própria tutora.', 'status': '🟢 arquivado', 'severity': 'media'},
+4021: {'keep': True, 'title': 'MP arquiva caso de canina e filhotes em Costa e Silva', 'description': 'Os animais foram recolhidos e o tutor acabou preso em flagrante. O arquivamento veio com base no ato interno.', 'status': '🟢 arquivado', 'severity': 'media'},
+4022: {'keep': True, 'title': 'MP arquiva caso de caninos na Zona Industrial Norte', 'description': 'As notificações foram atendidas, os caninos estavam vacinados, castrados e microchipados, e o abrigo era adequado.', 'status': '🟢 arquivado', 'severity': 'media'},
+4031: {'keep': True, 'title': 'MP arquiva caso de bar após atuação municipal', 'description': 'A fiscalização municipal autuou os proprietários e não houve omissão do parquet necessária no caso concreto.', 'status': '🟢 arquivado', 'severity': 'media'},
+4038: {'keep': True, 'title': 'MP arquiva caso de canil irregular com destino para adoção', 'description': 'Os caninos apreendidos foram destinados à adoção com acompanhamento da SAMA. A promoção foi de arquivamento.', 'status': '🟢 arquivado', 'severity': 'media'},
+4045: {'keep': True, 'title': 'MP encerra apuração sobre áreas de drogas revitalizadas em Joinville', 'description': 'O texto informa que o objetivo de revitalização foi alcançado, embora o desfecho formal apareça truncado.', 'status': '❔ status indef.', 'severity': 'media'},
+4046: {'keep': True, 'title': 'MP firma TAC com paróquia de Rio Bonito', 'description': 'O procedimento fiscalizou o cumprimento do TAC e constatou adimplemento integral das cláusulas. O arquivamento veio após o ajuste.', 'status': '🟠 TAC firmado', 'severity': 'media'},
+4055: {'keep': True, 'title': 'MP arquiva caso de caninos em situação de vulnerabilidade', 'description': 'Os cães foram microchipados, vacinados e encaminhados à autoridade policial, e o bem-estar ficou resguardado.', 'status': '🟢 arquivado', 'severity': 'media'},
+}
+
+for fname, mapping in [('joinville__55.json', m55), ('joinville__56.json', m56), ('joinville__57.json', m57)]:
+    path = os.path.join(base, '_lotes', fname)
+    with open(path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    out = []
+    for caso in data['casos']:
+        m = mapping.get(caso['i'])
+        item = {'i': caso['i'], 'tipo': caso['tipo']}
+        if m and m.get('keep'):
+            item.update(m)
+        else:
+            item.update({'keep': False, 'title': '', 'description': '', 'status': '', 'severity': ''})
+        out.append(item)
+    out_path = os.path.join(outdir, fname)
+    with open(out_path, 'w', encoding='utf-8') as f:
+        json.dump(out, f, ensure_ascii=False, indent=2)
+        f.write('\n')
+    print(fname, len(out), sum(1 for x in out if x['keep']), sum(1 for x in out if x.get('severity')=='alta'))
+PY
+joinville__55.json 70 22 0
+joinville__56.json 70 32 0
+joinville__57.json 70 19 0
+[0m
+Os três arquivos já foram gravados. Agora vou conferir rapidamente os itens marcados como mantidos para pegar qualquer duplicidade ou selo inconsistente.
+[0m$ [0mpython3 - <<'PY'
+import json, os, collections
+base='/Users/jairofortunato/mp/pdf_template/amunesc/_lotes_curados'
+for fname in ['joinville__55.json','joinville__56.json','joinville__57.json']:
+    path=os.path.join(base,fname)
+    data=json.load(open(path,encoding='utf-8'))
+    kept=[x for x in data if x['keep']]
+    print(fname, 'kept', len(kept))
+    for x in kept:
+        print(x['i'], x['status'], x['severity'], x['title'])
+    print('---')
+PY
+joinville__55.json kept 22
+3850 🟢 arquivado media MP arquiva notícia sobre omissão do Município
+3857 🟢 arquivado media MP arquiva caso de pit bulls com bem-estar resguardado
+3858 🟢 arquivado media MP arquiva apuração sobre canina vulnerável em Joinville
+3859 🟢 arquivado media MP arquiva apuração sobre animais em imóvel da Estrada Arataca
+3860 🟢 arquivado media MP arquiva apuração sobre canina com nova tutora
+3861 🟢 arquivado media MP arquiva caso de dois caninos e uma calopsita
+3862 🟢 arquivado media MP arquiva caso de canino com suspeita de maus-tratos
+3863 🟢 arquivado media MP arquiva caso de felinas mantidas em local adequado
+3866 🟢 arquivado media MP arquiva apuração sobre suposto abandono de animal
+3874 🟢 arquivado media MP arquiva inquérito sobre cães e felinos em local fechado
+3887 🟢 arquivado media MP arquiva caso de canino resguardado na Rua Maracujá
+3888 🟢 arquivado media MP arquiva nova apuração sobre corte de árvores em Joinville
+3897 🟢 arquivado media MP arquiva caso de pit bull e outro cão sem paradeiro certo
+3898 🟢 arquivado media MP arquiva apuração sobre caninos comunitários em Joinville
+3899 🟢 arquivado media MP arquiva caso de canina pitbull em local adequado
+3900 🟢 arquivado media MP arquiva apuração sobre canino em local adequado
+3901 🟢 arquivado media MP arquiva apuração sobre dois caninos abandonados e feridos
+3902 🟢 arquivado media MP arquiva caso de canina acolhida no fórum de Joinville
+3903 🟢 arquivado media MP arquiva caso de canino acolhido por ONG
+3904 🟢 arquivado media MP arquiva caso de canino preso em corrente curta
+3913 🟢 arquivado media MP arquiva apuração sobre ataques de cães no Vila Nova
+3918 🟢 arquivado media MP encerra ressarcimento entre secretarias de saúde em Joinville
+---
+joinville__56.json kept 32
+3922 🟢 arquivado media MP arquiva apuração sobre discriminação e assédio no Colégio Exathum
+3923 🟢 arquivado media MP arquiva caso sem risco em notícia de família
+3924 🟢 arquivado media MP arquiva apuração sobre idoso após cessar risco
+3925 🟢 arquivado media MP arquiva caso de canina pit bull acolhida
+3926 🟢 arquivado media MP arquiva caso sobre distribuição de senhas no CRAS
+3927 🟢 arquivado media MP arquiva notícia sobre ausência de risco e procuração
+3928 🟢 arquivado media MP arquiva notícia de fato sem risco
+3930 🟢 arquivado media MP arquiva apuração sobre canino solto em via pública
+3931 🟢 arquivado media MP arquiva caso de canino doente após óbito comunicado
+3932 🟢 arquivado media MP arquiva caso de felino com esporotricose atendido pela Saúde
+3935 🟢 arquivado media MP arquiva apuração sobre canino e felino em Joinville
+3941 🟢 arquivado media MP arquiva caso de canina atendida pelo órgão de proteção animal
+3942 🟢 arquivado media MP arquiva apuração sobre falta de materiais odontológicos em Joinville
+3944 🟢 arquivado media MP arquiva caso sobre acessibilidade em comércio
+3948 🟢 arquivado media MP arquiva auto de infração ligado ao sistema GAIA
+3949 🟢 arquivado media MP arquiva caso de felino com esporotricose atendido
+3950 🟢 arquivado media MP arquiva caso de pit bull com abrigo e água garantidos
+3951 🟢 arquivado media MP arquiva apuração sobre animais na Vila Nova
+3954 🟢 arquivado media MP arquiva caso sobre omissão de atendimento a canino abandonado
+3955 🟢 arquivado media MP arquiva apuração sobre canina abandonada em Joinville
+3956 🟢 arquivado media MP arquiva inquérito sobre curandeirismo em clínica e profissional
+3959 🟢 arquivado media MP arquiva caso de canino sem sinais de agressão
+3960 🟢 arquivado media MP arquiva caso de três cães com tutela orientada
+3962 🟢 arquivado media MP arquiva apuração sobre ataque entre cães perigosos
+3963 🟢 arquivado media MP arquiva caso de canino pastor alemão adotado
+3964 🟢 arquivado media MP arquiva caso de canina abandonada adotada
+3965 🟢 arquivado media MP arquiva apuração já resolvida em procedimento anterior
+3968 🟢 arquivado media MP arquiva caso de canino em carretinha sem acesso a abrigo
+3971 🟢 arquivado media MP arquiva caso de cão pit bull em igreja de Joinville
+3972 🟢 arquivado media MP arquiva apuração sobre canino no Jardim Iririú
+3978 🟢 arquivado media MP arquiva caso de canina morta por suspeita de envenenamento
+3982 🟠 TAC firmado media MP firma TAC sobre rotulagem de cervejaria
+---
+joinville__57.json kept 19
+3991 🟢 arquivado media MP arquiva caso de falta de fármacos oncológicos no Hospital São José
+3993 🟢 arquivado media MP arquiva apuração na Casa de Umbanda Caboclo 7 Estrelas
+3994 🟢 arquivado media MP arquiva caso de cães abandonados em Paranaguamirim
+3995 🟢 arquivado media MP arquiva caso de suposto canil clandestino em Joinville
+4010 🟢 arquivado media MP arquiva apuração sobre duas caninas em situação de vulnerabilidade
+4011 🟢 arquivado media MP arquiva caso de animais em estrada de Vila Nova
+4015 🟢 arquivado media MP arquiva caso de obra irregular ao lado do Abrigo Animal
+4016 🟢 arquivado media MP arquiva apuração sobre canino preso sem água e comida
+4017 🟢 arquivado media MP arquiva caso de dois caninos em Joinville
+4018 🟢 arquivado media MP arquiva apuração sobre canina em Joinville
+4019 🟢 arquivado media MP arquiva caso de felino com suspeita de esporotricose
+4020 🟢 arquivado media MP arquiva apuração sobre fiscalização da SAMA em Joinville
+4021 🟢 arquivado media MP arquiva caso de canina e filhotes em Costa e Silva
+4022 🟢 arquivado media MP arquiva caso de caninos na Zona Industrial Norte
+4031 🟢 arquivado media MP arquiva caso de bar após atuação municipal
+4038 🟢 arquivado media MP arquiva caso de canil irregular com destino para adoção
+4045 ❔ status indef. media MP encerra apuração sobre áreas de drogas revitalizadas em Joinville
+4046 🟠 TAC firmado media MP firma TAC com paróquia de Rio Bonito
+4055 🟢 arquivado media MP arquiva caso de caninos em situação de vulnerabilidade
+---
+[0m
+[0m$ [0mgit status --short pdf_template/amunesc/_lotes_curados/joinville__55.json pdf_template/amunesc/_lotes_curados/joinville__56.json pdf_template/amunesc/_lotes_curados/joinville__57.json
+?? pdf_template/amunesc/_lotes_curados/joinville__55.json
+?? pdf_template/amunesc/_lotes_curados/joinville__56.json
+?? pdf_template/amunesc/_lotes_curados/joinville__57.json
+[0m
+Estou validando os três JSONs agora para garantir que a estrutura ficou íntegra e que os totais batem com a entrada.
+[0m$ [0mpython3 - <<'PY'
+import json, os
+base='/Users/jairofortunato/mp/pdf_template/amunesc/_lotes_curados'
+for fname in ['joinville__55.json','joinville__56.json','joinville__57.json']:
+    p=os.path.join(base,fname)
+    data=json.load(open(p,encoding='utf-8'))
+    print(fname, len(data), sum(1 for x in data if x['keep']), sum(1 for x in data if x['severity']=='alta'))
+PY
+joinville__55.json 70 22 0
+joinville__56.json 70 32 0
+joinville__57.json 70 19 0
+[0m
+[0m# [0mTodos
+[✓] Curar joinville__55.json caso a caso e gravar em _lotes_curados
+[✓] Curar joinville__56.json caso a caso e gravar em _lotes_curados
+[✓] Curar joinville__57.json caso a caso e gravar em _lotes_curados
+[✓] Verificar saídas finais e resumir contagens por lote
+[0m
+Arquivos gravados em `pdf_template/amunesc/_lotes_curados/`:
+
+- `joinville__55.json`: 70 casos, 22 `keep:true`, 0 `severity: alta`
+- `joinville__56.json`: 70 casos, 32 `keep:true`, 0 `severity: alta`
+- `joinville__57.json`: 70 casos, 19 `keep:true`, 0 `severity: alta`

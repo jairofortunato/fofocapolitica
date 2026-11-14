@@ -1,0 +1,26 @@
+[0m
+> build · gpt-5.4-mini
+[0m
+Vou ler o critério editorial e os três lotes, julgar caso a caso pela fonte e gravar cada JSON curado antes de passar ao próximo.
+[0m# [0mTodos
+[•] Ler `pdf_template/CURADORIA.md` e extrair critérios obrigatórios
+[ ] Curar `pdf_template/amunesc/_lotes/joinville__23.json` e gravar em `_lotes_curados`
+[ ] Curar `pdf_template/amunesc/_lotes/joinville__24.json` e gravar em `_lotes_curados`
+[ ] Curar `pdf_template/amunesc/_lotes/joinville__25.json` e gravar em `_lotes_curados`
+[0m
+[0m→ [0mRead pdf_template/CURADORIA.md
+Vou abrir os três lotes para identificar os casos e as fontes necessárias antes de julgar.
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__23.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__24.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__25.json
+Vou gravar o primeiro lote curado agora, com `keep:false` nos itens sem substância e `keep:true` só nos casos com desfecho ou fato concreto na fonte.
+[0m✱ [0mGlob "pdf_template/amunesc/_lotes_curados"[90m in . · 0 matches[0m
+[0m✱ [0mGlob "pdf_template/amunesc/_lotes_curados/*.json"[90m in . · 57 matches[0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/joinville__7.json[90m [offset=1, limit=40][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/joinville__11.json[90m [offset=1, limit=40][0m
+[0m% [0mPatch 1 file
+Agora vou gravar o lote `joinville__24.json`, preservando as fases mais avançadas e cortando as instaurações sem fato suficiente.
+[0m% [0mPatch 1 file
+Vou fechar o terceiro lote agora e depois conferir se os três arquivos ficaram consistentes e na ordem original.
+[0m✗ [0mPatch failed
+[91m[1mError: [0mTool execution aborted

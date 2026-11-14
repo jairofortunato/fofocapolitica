@@ -1,0 +1,632 @@
+[
+ {
+  "i": 55,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 56,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 57,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE flagra ato de aposentadoria de Mafra entregue 38 anos depois",
+  "description": "O Tribunal de Contas ordenou o registro do ato de aposentadoria de um servidor da Prefeitura de Mafra, considerado legal, mas recomendou ao instituto de previdência municipal que cumpra o prazo de envio dos processos de aposentadoria e pensão, sob pena de multa: o ato analisado havia sido publicado em outubro de 1985 e só foi remetido ao tribunal em outubro de 2023.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 58,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquivou apuração sobre o programa Porteira Adentro de Mafra",
+  "description": "A partir de expediente da Ouvidoria do próprio tribunal, foi aberto procedimento preliminar sobre supostas irregularidades no Programa Porteira Adentro, criado pela lei municipal de Mafra. O Tribunal de Contas considerou não atendidas as condições prévias para análise da seletividade e determinou o arquivamento, sem examinar o mérito.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 59,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 60,
+  "tipo": "tce",
+  "keep": true,
+  "title": "Câmara de Mafra consultou o TCE sobre contratar intérprete de Libras para as sessões",
+  "description": "O presidente da Câmara Municipal de Mafra consultou o Tribunal de Contas sobre a contratação de profissional de Libras. O tribunal respondeu que a tradução e interpretação simultânea das sessões plenárias não é atribuição exclusiva de servidor efetivo e pode ser executada por terceiros contratados, mediante licitação regular ou contratação direta, conforme a necessidade administrativa.",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 61,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 62,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 63,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 64,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 65,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 66,
+  "tipo": "tce",
+  "keep": true,
+  "title": "Prefeito de Mafra consultou o TCE sobre quem pode ser pago com dinheiro do Fundeb",
+  "description": "O prefeito Emerson Maas consultou o Tribunal de Contas sobre a remuneração de profissionais com verbas do Fundeb. O tribunal respondeu que a parcela mínima de 70% pode remunerar profissionais em efetivo exercício nas escolas e nos órgãos da rede municipal voltados à educação básica, inclusive nas atividades próprias da Secretaria de Educação, mas vedou o pagamento de despesas com atividades em desvio de função ou alheias à manutenção e ao desenvolvimento do ensino.",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 67,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 68,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 69,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 70,
+  "tipo": "tce",
+  "keep": true,
+  "title": "Prefeito de Mafra consultou o TCE sobre o limite de gastos com pessoal",
+  "description": "O prefeito Emerson Maas consultou o Tribunal de Contas sobre o limite de gastos com pessoal. O tribunal conheceu a consulta, remeteu ao consulente os prejulgados que já tratam do tema e determinou o arquivamento dos autos.",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 71,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 72,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 73,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 74,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 75,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 76,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 77,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 78,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 79,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 80,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 81,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 82,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 83,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 84,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 85,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE não respondeu consulta de Mafra sobre triênio a aposentados na pandemia",
+  "description": "O prefeito Emerson Maas consultou o Tribunal de Contas sobre o pagamento de triênio a aposentados em época de covid-19. O tribunal decidiu não conhecer a consulta, por não preencher os requisitos regimentais, limitou-se a informar a existência de um prejulgado sobre o tema e revogou um item desse prejulgado por erro material de publicação.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 86,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE deu prazo a Mafra para corrigir aposentadoria de professora sem prova de concurso",
+  "description": "O Tribunal de Contas fixou prazo de 30 dias para que o instituto de previdência de Mafra sanasse restrições no ato de aposentadoria de uma professora: falta de documentos comprovando o ingresso no cargo efetivo por concurso público, requerimento sem especificar a modalidade de aposentadoria, ausência do demonstrativo de efetivo exercício no magistério e concessão de aposentadoria especial de professor com tempo de contribuição insuficiente.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 87,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE cobrou prova de contribuição de ex-diretora do instituto de previdência de Mafra",
+  "description": "O Tribunal de Contas fixou prazo de 30 dias para que o instituto de previdência de Mafra sanasse a falta de comprovação do recolhimento das contribuições previdenciárias no período em que a servidora Eliane Grossl Deretti ocupou o cargo comissionado de diretora do próprio instituto, entre abril de 2017 e setembro de 2018 — período computado para o triênio de 36% em sua aposentadoria. O IPMM teve de apresentar os comprovantes, a autorização legal e a averbação do período.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 88,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE apontou cálculo irregular de aposentadoria paga pelo instituto de Mafra",
+  "description": "O Tribunal de Contas deu 30 dias ao instituto de previdência de Mafra para sanar duas restrições no ato de aposentadoria de uma servidora: a falta de documentos comprovando o ingresso no cargo efetivo por concurso público e o cálculo irregular dos proventos, que não considerou a média das 80% maiores remunerações de todo o período contributivo, como manda a lei federal.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 89,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 90,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 91,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 92,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 93,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 94,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 95,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 96,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE auditou queda na cobertura das reservas do instituto de previdência de Mafra",
+  "description": "A auditoria do Tribunal de Contas tratou da redução do índice de cobertura das provisões matemáticas do instituto de previdência de Mafra e de seus reflexos no déficit do fundo, com o ex-prefeito Wellington Roberto Bielecki e Enalto de Oliveira Gondrige entre os responsáveis. Ao verificar o cumprimento do acórdão anterior, o tribunal considerou um item cumprido e dois prejudicados por perda de objeto, recomendou ao controle interno do IPMM que reavalie a lei municipal do programa de patrimônio imobiliário do instituto e arquivou os autos.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 97,
+  "tipo": "tce",
+  "keep": true,
+  "title": "Ex-prefeito de Mafra perdeu recurso contra decisão do TCE de 2020",
+  "description": "O Tribunal de Contas negou provimento ao recurso de reexame interposto por Wellington Roberto Bielecki contra o Acórdão 78/2020, mantendo a decisão anterior. Na mesma sessão, os recursos de Delfim Roque Girardi e de Antônio Carlos Kühl Júnior contra o mesmo acórdão também foram negados. O extrato publicado não informa o teor da decisão original que os três tentaram derrubar.",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 98,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 99,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 100,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 101,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE apontou tempo de magistério insuficiente em aposentadoria concedida em Mafra",
+  "description": "O Tribunal de Contas deu 30 dias ao instituto de previdência de Mafra para sanar a restrição no ato de aposentadoria de uma servidora: a concessão de aposentadoria especial de professor pela regra de transição, com tempo efetivo de contribuição no magistério insuficiente — 24 anos e 2 dias, abaixo do exigido.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 102,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 103,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 104,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 105,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 106,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 107,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 108,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 109,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 110,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 111,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 112,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 113,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 114,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 115,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 116,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 117,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 118,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 119,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 120,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 121,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 122,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 123,
+  "tipo": "tce",
+  "keep": true,
+  "title": "Mafra quis doar imóvel que havia desapropriado e o TCE não respondeu a consulta",
+  "description": "O prefeito Emerson Maas consultou o Tribunal de Contas sobre a possibilidade de doar um imóvel público com base em lei de desapropriação que tinha outro objetivo. O tribunal decidiu não conhecer a consulta, por não preencher os requisitos regimentais, informou a existência de dois prejulgados sobre o tema e orientou o município sobre a possibilidade de propor um Termo de Ajustamento de Gestão.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 124,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ }
+]

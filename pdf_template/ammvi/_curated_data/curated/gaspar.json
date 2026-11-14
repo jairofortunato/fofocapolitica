@@ -1,0 +1,3993 @@
+{
+ "mp": [
+  {
+   "i": 0,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP instaura inquérito civil contra vereadores de Gaspar",
+   "description": "O Ministério Público instaurou inquérito civil para apurar conduta de 12 vereadores da Câmara Municipal de Gaspar, incluindo Adao Marafigo de Figueiredo, Celso Xavier Schmitt e outros. O objeto da apuração não foi detalhado no extrato publicado. Caso encontra-se em fase de apuração.",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 1,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre laboratório sem certificação INMETRO em Gaspar",
+   "description": "O inquérito civil apurou se o Laboratório Beckhauser e Barros Ltda. possuía certificação do INMETRO para atuar no Pregão Eletrônico n. 67/2023 da SAMAE de Gaspar. Restou demonstrado que o laboratório é acreditado desde 2014, não havendo fraude à licitação, improbidade administrativa ou dano ao erário. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 2,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre Projeto de Lei de vereador de Gaspar",
+   "description": "O inquérito civil apurou se a aprovação do Projeto de Lei n. 09/2021 pelo vereador Cícero Giovane Amaro e pela Câmara Municipal de Gaspar violava a Constituição Federal ou configurava improbidade administrativa. Não foi comprovada qualquer violação constitucional ou ato ímprobo. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 3,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura irregularidades em obras de drenagem em Gaspar e arquiva após recomendação",
+   "description": "O inquérito civil investigou supostas irregularidades técnicas nas obras de drenagem nas Ruas Leopoldo Alberto Schramm e Frei Solano, no Bairro Gasparinho. O Município de Gaspar acatou a Recomendação n. 0001/2025/04PJ/GAS com medidas gerais e futuras. Não foram encontrados indícios de improbidade administrativa. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 4,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura desvio de função de servidora em Gaspar e arquiva após exoneração",
+   "description": "O inquérito civil apurou se a servidora pública Jéssica Machado, ocupante do cargo em comissão de Diretora de Associação de Moradores e Mutirão, analisou anteprojeto urbanístico para licenciamento de loteamento da empresa RVJ Construções Ltda. sem possuir atribuição para tanto. A servidora foi exonerada do cargo e a Recomendação foi cumprida pelo município. Não foram encontrados indícios de improbidade administrativa.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 5,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura dispensa de licitação na Câmara de Vereadores de Gaspar e arquiva",
+   "description": "O inquérito civil apurou suposta irregularidade na Dispensa de Licitação n. 01/2018 da Câmara Municipal de Vereadores de Gaspar para contratação de sistema de votação eletrônica e controle de sessões. O valor da contratação não ultrapassou 10% do limite para dispensa e não houve indicativos de direcionamento. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 6,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura regularização de declaração de bens por servidores em Gaspar e Ilhota",
+   "description": "O inquérito civil verificou a necessidade de adequação dos Municípios de Ilhota e Gaspar quanto à apresentação de declaração de bens e valores de servidores, conforme art. 13 da Lei de Improbidade Administrativa. Ambos os municípios comprovaram a regulamentação por meio de decretos. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 7,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura parecer irregular sobre descaracterização de curso d'água em Gaspar",
+   "description": "O inquérito civil apurou se houve improbidade administrativa na elaboração do \"Parecer para Descaracterização de Curso D'água\" por Raphael de Gasperi Xavier da Silva e Rafael Andrade Weber. Apesar dos indícios de violação ao princípio da legalidade, os investigados não praticaram condutas específicas da Lei de Improbidade Administrativa. Não houve dano ao erário. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 8,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura recebimento indevido de verba de representação por vereador de Gaspar",
+   "description": "O inquérito civil apurou se o vereador Ciro André Quintino da Câmara Municipal de Gaspar praticou ato de improbidade administrativa ao receber indevidamente verba de representação e diárias para visitas à Assembleia Legislativa de SC. O Ministério Público concluiu que não há indícios da prática de ato de improbidade administrativa. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 9,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura desvio de função de servidores em Gaspar e arquiva",
+   "description": "O inquérito civil apurou suposto desvio de função pelos servidores públicos municipais Ezequiel Hintz, João Vítor da Silva Costa e Elaine Cristina Wandalen. Os denunciados não fazem mais parte do quadro funcional do município e não foram encontrados indícios de desvio de função, improbidade administrativa ou dano ao erário. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 10,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura nepotismo em Gaspar: contratação de cunhado do prefeito para cargo em comissão",
+   "description": "O inquérito civil apurou a contratação de Jonathan Boneti Siquera, cunhado do Prefeito de Gaspar, para o cargo em comissão de Diretor de Gabinete. O desvio de função da servidora Josieli Cristina Casanova não foi comprovado e a apuração foi arquivada parcialmente. Foi instaurado novo inquérito para verificar a ocorrência de nepotismo na contratação.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 11,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura processo seletivo público irregular em Gaspar e arquiva",
+   "description": "O inquérito civil apurou suposta irregularidade na deflagração do Processo Seletivo Público n. 13/2023 pelo Município de Gaspar para cargo de Agente Administrativo, na vigência de concurso público para idêntico cargo. Não foram encontrados indícios de vantagem indevida, prejuízo ao erário ou preterição arbitrária entre candidatos. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 12,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura dano ao erário por equipamentos hospitalares em Gaspar e arquiva",
+   "description": "O inquérito civil apurou possível ato de improbidade administrativa consistente em dano ao erário a partir da inexecução de serviços de instalação e manutenção de equipamentos de ventilação mecânica no Hospital Nossa Senhora do Perpétuo Socorro, sobretudo ao longo de 2020. Não foi comprovado superfaturamento ou dano ao erário. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 13,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura fraude em licitação de coleta de lixo em Gaspar e arquiva",
+   "description": "O inquérito civil apurou possível fraude na Contratação de coleta e transporte de resíduos sólidos pelo Município de Gaspar (Concorrência n. 04/2020). A concorrência foi revogada por superveniente interesse público e o município realizou novo pregão. O contrato anterior com a empresa Racli Limpeza Urbana já foi encerrado. Não foi constatada irregularidade.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 14,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 15,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 16,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre contratação temporária de enfermeiros em Gaspar",
+   "description": "O inquérito civil apurou suposta irregularidade na contratação de enfermeiros a título temporário pelo Município de Gaspar durante a vigência do Concurso Público n. 002/2023. Não houve ilegalidade nas contratações, vantagem indevida, prejuízo ao erário ou preterição arbitrária. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 17,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura irregularidades na Secretaria de Planejamento de Gaspar e arquiva",
+   "description": "O inquérito civil apurou supostas irregularidades na Secretaria Municipal de Planejamento Territorial de Gaspar, envolvendo os servidores Alexandre Gevaerd e Norberto Mette, a partir de denúncia do sindicato SINTRASPUG. Não foram encontrados indícios de improbidade administrativa, dano ambiental ou outra questão que justificasse intervenção ministerial. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 18,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 19,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura licitação de obras em Gaspar e arquiva por ausência de irregularidades",
+   "description": "O inquérito civil apurou a regularidade da Tomada de Preços n. 134/2015 do Município de Gaspar. O valor da obra foi considerado compatível e não foram encontrados indícios de improbidade administrativa. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 20,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura irregularidades no SAMAE de Gaspar e arquiva",
+   "description": "O inquérito civil apurou supostas irregularidades no SAMAE de Gaspar, envolvendo Jefferson Jorge de Souza. As supostas irregularidades noticiadas não foram confirmadas, não havendo razão para continuidade das investigações. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 21,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 22,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre uso indevido de veículo municipal em Gaspar",
+   "description": "O inquérito civil apurou se o servidor público Fleibiz da Silva, do Município de Gaspar, usou veículo do município em horário de expediente para adquirir uma caixa de cervejas. O Ministério Público considerou a conduta isolada e o dano ao erário insignificante. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 23,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 24,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura cálculos irregulares de precatórios em Gaspar e Ilhota e arquiva",
+   "description": "O inquérito civil apurou possível ato de improbidade administrativa a partir de irregularidades em cálculos de precatórios submetidos à pagamento em processos da Comarca de Gaspar, envolvendo os municípios de Gaspar, Ilhota e a SAMAE de Gaspar. Não foi comprovada má-fé e os equívocos foram retificados. Os entes foram cientificados da necessidade de providências para evitar repetição. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 25,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura desapropriação irregular em Gaspar e caso é prescrito",
+   "description": "O inquérito civil apurou possível ato de improbidade administrativa e irregularidades no processo de desapropriação de imóvel pelo Decreto Municipal n. 6.921/2016. Eventual ato de improbidade administrativa foi declarado prescrito. Também não foram encontrados elementos concretos de irregularidades. O caso foi arquivado.",
+   "status": "⚫ prescrito",
+   "severity": "media"
+  },
+  {
+   "i": 26,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 27,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura improbidade de servidor Silvio Cleffi em Gaspar e arquiva",
+   "description": "O inquérito civil apurou possível ato de improbidade administrativa pelo servidor do Município de Gaspar, Silvio Cleffi, envolvendo o Hospital Nossa Senhora do Perpétuo Socorro. Não foi comprovada a prática de qualquer ato de improbidade administrativa. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 28,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura improbidade em construção de creche em Gaspar e arquiva",
+   "description": "O inquérito civil apurou possível ato de improbidade administrativa pelo Município de Gaspar e pela empresa Soberana Serviços e Construções Ltda. na obra do Centro de Desenvolvimento Infantil Dorvalina Fachini. Não foi comprovado ato de improbidade e a obra foi concluída. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 29,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura manipulação de pregão em Gaspar envolvendo investigado de Brusque",
+   "description": "O inquérito civil apurou possível manipulação do Pregão Presencial n. 202/2015 do Município de Gaspar com participação de Jaime Flávio da Silva Cesari, processado em Brusque pela mesma prática. As empresas participaram diretamente do pregão sem influência ou contato do investigado. Não foram encontrados indicativos de direcionamento. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 30,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 31,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura descumprimento de carga horária por servidores de Ilhota e Gaspar",
+   "description": "O inquérito civil apurou suposto descumprimento de carga horária laboral por servidores públicos municipais de Ilhota e Gaspar, incluindo Patrícia Gubler, Mirgon Arend, Jocelene da Silveira e outros. Não foram encontrados indícios de improbidade administrativa. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 32,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 33,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura promoção pessoal pelo presidente da Câmara de Gaspar e firma ACNP",
+   "description": "O inquérito civil apurou suposto ato de promoção pessoal promovido pelo Presidente da Câmara de Vereadores do Município de Gaspar, Sílvio Cleffi. O caso foi resolvido com a celebração de Acordo de Não Persecução Cível (ACNP) entre o Ministério Público e o investigado, tornando desnecessária a propositura de Ação Civil Pública.",
+   "status": "🟠 ACNP firmado",
+   "severity": "media"
+  },
+  {
+   "i": 34,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura uso de viatura policial para interesses particulares em Gaspar e arquiva",
+   "description": "O inquérito civil apurou se o Cabo PM Paulo Cesar Vanzella utilizou viatura policial para atender a interesses particulares enquanto escalado para serviço policial. O Ministério Público considerou a conduta isolada, o bom comportamento do servidor e o dano ao erário insignificante de R$ 15,50. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 35,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 36,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura uso de slogan municipal para promoção pessoal pelo ex-prefeito de Gaspar",
+   "description": "O inquérito civil apurou se o ex-Prefeito Municipal de Gaspar, Kleber Edson Wan-Dall, utilizou o slogan do Município para promoção pessoal, em possível violação ao art. 11, inciso XII, da Lei de Improbidade Administrativa. O caso foi resolvido com a celebração de Acordo de Não Persecução Civil (ACNP) com o investigado.",
+   "status": "🟠 ACNP firmado",
+   "severity": "media"
+  },
+  {
+   "i": 37,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura repasse de verbas públicas a associação em Gaspar e caso prescreve",
+   "description": "O inquérito civil apurou possível ilegalidade no repasse de verbas públicas à Associação ACIIL, envolvendo Erico de Oliveira, Manuela da Silva Hermes e Alisson Pilar Machado. Não foi comprovado dolo e eventual ato de improbidade administrativa prescreveu. Também prescreveu eventual ação para ressarcimento ao erário. O caso foi arquivado.",
+   "status": "⚫ prescrito",
+   "severity": "media"
+  },
+  {
+   "i": 38,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura nepotismo em Gaspar: contratação de esposo de vereadora",
+   "description": "O inquérito civil apurou suposta ocorrência de nepotismo no Município de Gaspar, em razão da contratação de Joel Alves dos Santos, esposo da vereadora Mara Santos, para o cargo de Coordenador Geral de Serviços junto ao Poder. O desfecho do caso não foi informado no extrato publicado. O texto encontra-se truncado.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 39,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 40,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura favorecimento de empresa de coleta de lixo em Gaspar e arquiva",
+   "description": "O inquérito civil apurou suposto favorecimento da empresa Vitaciclo S.A. Logística Reserva em processo de dispensa de licitação no Município de Gaspar para prestação de serviço de coleta de lixo. A ilegalidade não foi constatada. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 41,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 42,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP identifica inconstitucionalidade em lei de área urbana consolidada de Gaspar",
+   "description": "O inquérito civil acompanhou o trâmite legislativo da Lei Complementar n. 5/2022 de Gaspar, que delimita a área urbana consolidada e define áreas de preservação permanente. O MP concluiu que o diploma legal (Lei n. 161/2022) padece de inconstitucionalidade por inobservância da Lei Federal n. 14.285/2021 e normas ambientais. Foi ajuizada Ação Direta de Inconstitucionalidade, o que encerrou o objeto do inquérito civil.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 43,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 44,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura desvio de função de 13 servidores em Ilhota e Gaspar",
+   "description": "O inquérito civil apurou ocorrência de desvio de função de 13 servidores públicos municipais de Ilhota que também atuavam em Gaspar, incluindo Atierre Agostinho Peixer, Francineide Pereira e outros. Os servidores mudaram de cargos e não foram encontrados indícios de irregularidade. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 45,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura corte ilegal de eucalipto e obras em APP em Gaspar e arquiva",
+   "description": "O inquérito civil apurou corte ilegal de eucalipto e bambu em Área de Preservação Permanente, caça ilegal de animais silvestres, danos ambientais e obras irregulares nas imediações da Rua Carlos Zuchi Netto, em Gaspar. A vistoria da SUMDAS constatou que o local apresenta características favoráveis para regeneração natural. A responsabilidade dos proprietários foi afastada.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 46,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura contratação temporária para cargos permanentes em Gaspar e arquiva",
+   "description": "O inquérito civil apurou suposta violação do art. 37, IX, da Constituição Federal pela publicação do Edital n. 04/2019 do Município de Gaspar visando contratação de servidores temporários para cargos de caráter permanente. O Processo Seletivo n. 004/2019 expirou sem contratação decorrente. A recomendação ministerial foi acatada. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 47,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 48,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 49,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura irregularidades na SUMADS de Gaspar e arquiva após regularização",
+   "description": "O inquérito civil apurou irregularidades apontadas no Diagnóstico SISMUMA na Superintendência de Meio Ambiente e Desenvolvimento Sustentável (SUMADS) do Município de Gaspar. As lacunas identificadas no Relatório de Constatações foram sanadas durante o procedimento. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 50,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura dano ambiental em APP em Gaspar e arquiva com ação demolitória em andamento",
+   "description": "O inquérito civil apurou dano ambiental em área de preservação permanente no Município de Gaspar. Uma ação judicial demolitória foi ajuizada e encontra-se em andamento. O objeto da investigação foi considerado exaurido. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 51,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 52,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura poluição por britagem em Gaspar e arquiva por ausência de irregularidades",
+   "description": "O inquérito civil apurou possível crime de poluição perpetrado pela empresa Britagem e Pavimentadora Barracão Ltda., localizada em Gaspar, diante da excessiva poeira que atinge residências vizinhas. Após vistorias pelos órgãos ambientais, foram constatados a ausência de elementos que indiquem irregularidades. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 53,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 54,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura intervenção em APP por desvio de curso hídrico em Gaspar e arquiva",
+   "description": "O inquérito civil apurou suposta intervenção em Área de Preservação Permanente por desvio de curso hídrico no imóvel da Rua José Rampelotti, n. 300, Bairro Alto Gasparinho, em Gaspar. A Polícia Militar Ambiental constatou que a captação de água é de uso insignificante e dispensável de outorga, que não foi possível identificar os autores das intervenções e que houve regeneração natural. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 55,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura omissão da Secretaria de Agricultura de Gaspar em acesso à informação",
+   "description": "O inquérito civil apurou a conduta omissa dos servidores da Secretaria de Agricultura de Gaspar diante do requerimento do munícipe Adilson Luis Schmitt para acesso a informações sobre serviço de patrulha mecanizada. O atendimento da solicitação feriria a Lei Geral de Proteção de Dados (LGPD). Não foi identificada lesão ou ameaça de lesão. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 56,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura concessão de licenças ambientais irregular em Gaspar e arquiva",
+   "description": "O inquérito civil apurou se a Superintendência de Meio Ambiente do Município de Gaspar estaria concedendo licenças ambientais sem as devidas observações em benefício de particulares. Não foram encontrados elementos de informação concretos aptos para dar azo a uma linha de investigação. As alegações foram consideradas genéricas. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 57,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 58,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura poluição do solo e acúmulo de resíduos em Gaspar e arquiva",
+   "description": "O inquérito civil apurou suposta prática de poluição do solo e acúmulo indevido de resíduos sólidos em imóvel da Rua João Olídio da Trindade, n. 230, Bairro Margem Esquerda, em Gaspar. O local foi limpo por ocasião da desocupação do imóvel. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 59,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura funcionamento de lixão irregular em Gaspar e arquiva com embargo e ação criminal",
+   "description": "O inquérito civil apurou supostas irregularidades no funcionamento do estabelecimento denominado \"Lixão do Zezinho\", situado na Estrada-Geral Arraial do Ouro, n. 1.000, Bairro Arraial do Ouro, em Gaspar. As atividades foram interrompidas por embargo administrativo e foi deflagrado procedimento criminal paralelo. Não foi constatado dano ambiental a teor dos fatos. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 60,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 61,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura loteamento irregular em Gaspar e arquiva com ação demolitória",
+   "description": "O inquérito civil apurou possível loteamento irregular na Rua Augusto Groh, Bairro Belchior Central, em Gaspar. A SAMAE e a CELESC de Blumenau acataram a recomendação ministerial. Foi instaurado Procedimento Administrativo para acompanhar o cumprimento das medidas e ajuizada ação demolitória. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 62,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 63,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 64,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura enchentes em Ribeirão Poço Grande em Gaspar e arquiva",
+   "description": "O inquérito civil apurou eventuais irregularidades com relação à ocorrência de enchentes no Ribeirão Poço Grande, na altura da Rua Artur Poffo, Bairro Santa Terezinha, em Gaspar. Foi comprovado que o ribeirão não apresenta mais obstruções e que o barramento denunciado não produz efeitos de inundação. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 65,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 66,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 67,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 68,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 69,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura irregularidades sanitárias em educandários de Gaspar e arquiva",
+   "description": "O inquérito civil apurou a regularidade dos educandários municipais e espaços destinados à educação de Gaspar no que tange às normas sanitárias vigentes. As irregularidades foram sanadas pelo investigado. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 70,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura construção irregular em APP em Gaspar e arquiva com ação demolitória",
+   "description": "O inquérito civil apurou suposta construção irregular em área de preservação permanente na Rua Artur Dorow, em Gaspar. Ação judicial demolitória encontra-se em andamento. O objeto da investigação foi considerado exaurido. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 71,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura construção irregular às margens do Rio Itajaí-Açú em Gaspar",
+   "description": "O inquérito civil apurou construção irregular em área de preservação permanente às margens do Rio Itajaí-Açú, de propriedade de James Simon, em Gaspar. A ação judicial demolitória já foi julgada e os cumprimentos de sentença encontram-se em andamento. O objeto da investigação foi considerado exaurido. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 72,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 73,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de transporte escolar para educação infantil em Gaspar",
+   "description": "O inquérito civil apurou a ausência de oferta de serviço de transporte escolar adequado na educação infantil no Município de Gaspar. A irregularidade foi integralmente sanada com a promulgação da Lei n. 4.510/2025, que concede passe de transporte coletivo aos responsáveis legais por crianças de até 5 anos. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 74,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ligação de água em imóvel embargado em área de preservação em Gaspar",
+   "description": "O inquérito civil apurou possível ligação de água em imóvel embargado por se encontrar em área de preservação permanente, no barranco do Rio Itajaí-Açu, Rua Pedro Simon, n. 762, Bairro Margem Esquerda, em Gaspar. Ligação irregular não foi constatada. O Município demonstrou a tomada de providências, inclusive com o ajuizamento de ação demolitória. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 75,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de Cadastro Ambiental Rural em imóvel de Gaspar",
+   "description": "O procedimento apurou o motivo da ausência do Cadastro Ambiental Rural do imóvel de matrícula n. 7.015, de propriedade da Administradora de Bens CMV Ltda., localizado em Gaspar. Foi verificada duplicidade de cadastros. O objeto do procedimento foi prejudicado. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 76,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 77,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura adequação de creches e escolas de Gaspar às normas de segurança contra incêndio",
+   "description": "O inquérito civil apurou a necessidade de adequação das Creches e Escolas Municipais de Gaspar às Normas de Segurança Contra Incêndios exigidas pelo Corpo de Bombeiros de SC. As irregularidades foram sanadas pelo investigado. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 78,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura irregularidades em empreendimento imobiliário em Gaspar",
+   "description": "O inquérito civil apurou irregularidades inicialmente verificadas em empreendimento da empresa Ardeju Empreendimentos Imobiliários Ltda., em Gaspar. As irregularidades foram sanadas mediante atuação fiscalizatória do Município de Gaspar. Não houve fundamento para propositura de medidas judiciais ou extrajudiciais adicionais.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 79,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de CAR em imóvel de Sérgio Bugmann em Gaspar",
+   "description": "O procedimento apurou o motivo da ausência do Cadastro Ambiental Rural do imóvel de matrícula n. 11.371, de propriedade de Sérgio Bugmann e Maisa Duckmann Bugmann, localizado em Gaspar. A finalidade do procedimento foi cumprida. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 80,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de CAR em imóvel de Jair Mannrich em Gaspar",
+   "description": "O procedimento apurou o motivo da ausência do Cadastro Ambiental Rural do imóvel de matrícula n. 1.650, de propriedade de Jair Francisco Mannrich e Bernardete Clemencia Mannrich, localizado em Gaspar. A finalidade do procedimento foi cumprida. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 81,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 82,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 83,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de CAR em imóvel de administradora de bens em Gaspar",
+   "description": "O procedimento apurou o motivo da ausência do Cadastro Ambiental Rural do imóvel de matrícula n. 7.383, de propriedade da R.F.H. Administradora de Bens Ltda., localizado em Gaspar. Foi comprovada situação consolidada anterior ao marco legal, sem vegetação nativa, sendo válido o registro do percentual zero da Reserva Legal no CAR. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 84,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura composição de equipe do programa Criança Feliz em Gaspar",
+   "description": "O inquérito civil apurou a regularidade da composição da equipe do Programa do Governo Federal Criança Feliz no Município de Gaspar. Não foi identificada qualquer irregularidade na composição da equipe. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 85,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de CAR em imóvel de Pedro José Hang em Gaspar",
+   "description": "O procedimento apurou o motivo da ausência do Cadastro Ambiental Rural do imóvel de matrícula n. 10.374, de propriedade de Pedro José Hang e Bruna Caroline Hang, localizado em Gaspar. Foi comprovada situação consolidada anterior ao marco legal, sem vegetação nativa, sendo válido o registro do percentual zero da Reserva Legal no CAR. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 86,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de CAR em imóvel de Elpidio Schnaider em Gaspar",
+   "description": "O procedimento apurou o motivo da ausência do Cadastro Ambiental Rural do imóvel de matrícula n. 14.004, de propriedade de Elpidio Luis Schnaider e Maria de Lurdes Schnaider, localizado em Gaspar. Foi comprovada situação consolidada anterior ao marco legal, sem vegetação nativa, sendo válido o registro do percentual zero da Reserva Legal no CAR. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 87,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 88,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura compra de imóvel pela prefeitura de Gaspar e arquiva",
+   "description": "O inquérito civil apurou a regularidade da compra do imóvel matriculado sob o n. 6.533, com área de 39.614,15m², pelo Município de Gaspar. Não foram constatadas irregularidades ou ilegalidades na aquisição. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 89,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura cumprimento do PRONAMPE por bancos em Gaspar",
+   "description": "O inquérito civil apurou o cumprimento do PRONAMPE (Lei Federal n. 13.999/2020) pelas instituições bancárias de Gaspar, incluindo Banco do Brasil, Caixa Econômica Federal, Bradesco, Itaú, Santander, Sicoob, Viacredi, Blusol e Unicred. Não foi identificado o descumprimento da Lei Federal. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 90,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura descontos indevidos em associação de servidores de Gaspar",
+   "description": "O inquérito civil apurou irregularidades na empresa ABAMSP (Associação Beneficente de Auxílio Mútuo aos Servidores Públicos), que vinha realizando descontos indevidos, sem autorização, em aposentados do Município de Gaspar. O Acordo de Cooperação Técnica entre a ABAMSP e o INNS foi rescindido e os consumidores foram ressarcidos. As irregularidades foram sanadas. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 91,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura leis municipais de Gaspar para benefício de imóveis em usucapião",
+   "description": "O inquérito civil apurou possíveis irregularidades na criação de leis no Município de Gaspar em benefício de imóveis objeto de processos de usucapião, como aprovação de construções, instalação de serviços e isenção de ITBI. Não foram encontradas irregularidades na legislação, que está dentro da competência legislativa do município. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 92,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de especialização de reserva legal em imóvel de Gaspar",
+   "description": "O procedimento apurou o motivo da ausência da especialização da área de reserva legal do imóvel matriculado sob o n. 18.198, de propriedade de Ivo Venturini e outros, localizado em Gaspar. A situação foi regularizada com a anotação da Reserva Legal no Cadastro Ambiental Rural. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 93,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 94,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura possível parcelamento clandestino do solo em Gaspar",
+   "description": "O inquérito civil apurou possível parcelamento clandestino do solo implantado na Rua Prefeito Leopoldo Schramm, em Gaspar, envolvendo Samuel Schramm e Hilário Bailer. O desfecho do caso não foi informado no extrato publicado. O texto encontra-se truncado.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 95,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de especialização de reserva legal em imóvel de Thaisa Amaral",
+   "description": "O procedimento apurou o motivo da ausência da especialização da área de reserva legal do imóvel matriculado sob o n. 18.441, de propriedade de Thaisa Aline Amaral, localizado em Gaspar. A situação foi regularizada com a anotação da Reserva Legal no Cadastro Ambiental Rural. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 96,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 97,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 98,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 99,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de especialização de reserva legal em imóvel de Ederson Schmitz",
+   "description": "O procedimento apurou o motivo da ausência da especialização da área de reserva legal do imóvel de matrícula n. 12.514, de propriedade de Ederson Schmitz e Edenir Schmitz, localizado em Gaspar. A situação foi regularizada com a anotação da Reserva Legal no Cadastro Ambiental Rural. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 100,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 101,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de CAR em imóvel de administradora de bens em Gaspar",
+   "description": "O procedimento apurou o motivo da ausência do Cadastro Ambiental Rural do imóvel de matrícula n. 2.566, de propriedade da Master Administradora de Bens e Loteamento Ltda. ME, localizado em Gaspar. Não havia obrigação de anotação da reserva legal na forma do art. 67 do Código Florestal. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 102,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de CAR em imóvel de Arnaldo Venturini em Gaspar",
+   "description": "O procedimento apurou o motivo da ausência do Cadastro Ambiental Rural do imóvel de matrícula n. 2.826, de propriedade de Arnaldo Venturini, localizado em Gaspar. Não havia obrigação de anotação da reserva legal na forma do art. 67 do Código Florestal. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 103,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de CAR em imóvel de administradora Elizabetha em Gaspar",
+   "description": "O procedimento apurou o motivo da ausência do Cadastro Ambiental Rural do imóvel de matrícula n. 1.729, de propriedade da Elizabetha Administradora de Bens e Serviços Eireli, localizado em Gaspar. Não havia obrigação de anotação da reserva legal na forma do art. 67 do Código Florestal. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 104,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 105,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 106,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura danos ambientais em propriedade de Jean Carlos Linhares em Gaspar",
+   "description": "O inquérito civil apurou possíveis danos ambientais realizados por Jean Carlos Linhares em sua propriedade, no Bairro Belchior Baixo, em Gaspar. Celebrado Acordo de Não Persecução Penal (ANPP) no Inquérito Policial, o investigado está obrigado a comprovar a reparação do dano mediante PRAD junto ao órgão ambiental competente. O caso foi arquivado.",
+   "status": "🟠 ACNP firmado",
+   "severity": "media"
+  },
+  {
+   "i": 107,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 108,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 109,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de CAR em imóvel de Osmar Schmitt em Gaspar",
+   "description": "O inquérito civil apurou o motivo da ausência do Cadastro Ambiental Rural do imóvel de matrícula n. 27.078, de propriedade de Osmar Solano Schmitt e Doraci da Silva Schmitt, localizado em Gaspar. Foi demonstrado que os proprietários destinaram área superior a 20% da área total como reserva legal. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 110,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 111,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 112,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 113,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura nomeação irregular de professor em Gaspar e arquiva",
+   "description": "O inquérito civil apurou suposta irregularidade/ilegalidade na nomeação de Rodrigo Uliano para o cargo de Professor de Português pelo Município de Gaspar. Não foi encontrada qualquer ilegalidade na nomeação. Não há fundamentos para propositura de ação civil pública. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 114,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura irregularidade na distribuição de pacientes entre laboratórios em Gaspar",
+   "description": "O inquérito civil apurou suposta irregularidade na distribuição de pacientes entre laboratórios credenciados no Edital n. 08/2016, no Município de Gaspar. Não foi comprovado dolo nem dano ao erário. A conduta investigada não se enquadra no art. 11 da Lei de Improbidade Administrativa. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 115,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura falta de iluminação pública em Gaspar e arquiva após regularização",
+   "description": "O inquérito civil apurou a falta de iluminação pública em um poste de energia nas imediações do Residencial Milano, à Rua Maestro Egon Bhon, Bairro Coloninha, em Gaspar. A irregularidade foi integralmente sanada. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 116,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 117,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 118,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 119,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 120,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 121,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura poluição sonora em supermercado em Gaspar e arquiva",
+   "description": "O inquérito civil apurou ocorrência de poluição sonora pelo Supermercado Arno Goedert Ltda., localizado em Gaspar. Não foi constatada irregularidade e não havia interesse jurídico a ensejar outras medidas. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 122,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 123,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura cobrança irregular de taxa de matrícula na rede pública de Gaspar",
+   "description": "O inquérito civil apurou cobrança irregular de taxa de matrícula efetuada pela Rede Pública de Educação Infantil do Município de Gaspar. A recomendação ministerial foi acatada pelo município. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 124,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP indefere notícia de fato sobre adolescente que retornou às aulas em Gaspar",
+   "description": "A Notícia de Fato foi indeferida porque o adolescente em questão mudou-se para o Município de Gaspar e retornou aos bancos escolares, estando o direito à educação preservado. Não houve necessidade de se declinar da atribuição ministerial.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 125,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de averbação de reserva legal em imóvel em Gaspar",
+   "description": "O procedimento apurou o motivo da ausência da averbação da área de reserva legal do imóvel de matrícula 3.202, de propriedade de R. Pinotti Assessoria e Corretagem de Seguros Ltda., localizado em Gaspar. Foi verificada duplicidade de cadastros. O objeto do procedimento foi prejudicado. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 126,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 127,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 128,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 129,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 130,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 131,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 132,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 133,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 134,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 135,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 136,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 137,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 138,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 139,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 140,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 141,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 142,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 143,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de averbação de reserva legal em imóvel em Gaspar",
+   "description": "O procedimento apurou o motivo da ausência da averbação da área de reserva legal do imóvel de matrícula n. 10.364, de propriedade de Ondina Mondini Spengler, localizado em Gaspar. A finalidade do procedimento foi cumprida. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 144,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 145,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura inundação por falta de drenagem em loteamentos de Gaspar",
+   "description": "O inquérito civil apurou possíveis irregularidades na implementação dos loteamentos Jardim Itália e Solar das Brisas I, no Bairro Santa Terezinha, em Gaspar, por não adotarem medidas para correto escoamento de águas pluviais, ocasionando inundações. Não foram encontrados elementos para propositura de Ação Civil Pública. A situação foi regularizada perante o órgão ambiental. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 146,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 147,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 148,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 149,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 150,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 151,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 152,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 153,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 154,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura condições de atendimento no Hospital de Gaspar",
+   "description": "O inquérito civil apurou as condições de atendimento no Hospital Nossa Senhora do Perpétuo Socorro, situado na Rua José Krauss, n. 97, Bairro Sete de Setembro, em Gaspar. Concluiu-se que a prestação do serviço de saúde foi realizada de forma adequada após a intervenção municipal no nosocômio. Não havia outras condutas a serem tomadas pelo Ministério Público. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 155,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de averbação de reserva legal em imóvel em Gaspar",
+   "description": "O procedimento apurou o motivo da ausência da averbação da área de reserva legal do imóvel de matrícula n. 2.986, de propriedade de Esmeri Nair de Souza e Silva e outros, localizado em Gaspar. A finalidade do procedimento foi cumprida. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 156,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 157,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 158,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 159,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 160,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de averbação de reserva legal em imóvel de Arnaldo Venturini",
+   "description": "O procedimento apurou o motivo da ausência da averbação da área de reserva legal do imóvel de matrícula n. 5.185, de propriedade de Arnaldo Venturini, localizado em Gaspar. A finalidade do procedimento foi cumprida. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 161,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 162,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 163,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de especialização de reserva legal em imóvel de Carlos Isensee",
+   "description": "O procedimento apurou o motivo da ausência da especialização da área de reserva legal do imóvel de matrícula n. 10.803, de propriedade de Carlos Isensee e outro, localizado em Gaspar. A finalidade do procedimento foi cumprida. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 164,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de averbação de reserva legal em imóvel de Representações Farenzena",
+   "description": "O procedimento apurou o motivo da ausência da averbação da área de reserva legal do imóvel de matrícula n. 16.695, de propriedade de Representações Farenzena Eireli, localizado em Gaspar. Foi comprovada situação consolidada anterior ao marco legal, sem vegetação nativa, sendo válido o registro do percentual zero da Reserva Legal no CAR. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 165,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de averbação de reserva legal em imóvel de Potenza Transportes",
+   "description": "O procedimento apurou o motivo da ausência da averbação da área de reserva legal do imóvel de matrícula n. 32.393, de propriedade do Espólio de José de Souza e do Espólio de Ilda Maria de Souza, localizado em Gaspar. Foi comprovada situação consolidada anterior ao marco legal, sem vegetação nativa, sendo válido o registro do percentual zero da Reserva Legal no CAR. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 166,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de especialização de reserva legal em imóvel de Joise Andreia Lemke",
+   "description": "O procedimento apurou o motivo da ausência da especialização da área de reserva legal do imóvel matriculado sob o n. 17.912, de propriedade de Joise Andreia Lemke e outro, localizado em Gaspar. Foi comprovada situação consolidada anterior ao marco legal, sem vegetação nativa, sendo válido o registro do percentual zero da Reserva Legal no CAR. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 167,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de especialização de reserva legal em imóvel de Solange Venturini",
+   "description": "O procedimento apurou o motivo da ausência da especialização da área de reserva legal do imóvel matriculado sob o n. 3.901, de propriedade de Solange Reinert Venturini e outros, localizado em Gaspar. Foi comprovada situação consolidada anterior ao marco legal, sem vegetação nativa, sendo válido o registro do percentual zero da Reserva Legal no CAR. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 168,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de especialização de reserva legal em imóvel de Paulo Afonso Spengler",
+   "description": "O procedimento apurou o motivo da ausência da especialização da área de reserva legal dos imóveis matriculados sob os n. 17.420 e 33.018, localizados em Gaspar, de propriedade de Paulo Afonso Spengler e outro. Foi comprovada situação consolidada anterior ao marco legal, sem vegetação nativa, sendo válido o registro do percentual zero da Reserva Legal no CAR. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 169,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de especialização de reserva legal em imóvel de Antônio Schneider",
+   "description": "O procedimento apurou o motivo da ausência da especialização da área de reserva legal do imóvel matriculado sob o n. 982, de propriedade de Antônio Carlos Schneider e outro, localizado em Gaspar. Foi comprovada situação consolidada anterior ao marco legal, sem vegetação nativa, sendo válido o registro do percentual zero da Reserva Legal no CAR. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 170,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de especialização de reserva legal em imóvel de Francisco Schneider",
+   "description": "O procedimento apurou o motivo da ausência da especialização da área de reserva legal do imóvel matriculado sob o n. 8.271B, de propriedade de Francisco Schneider e outro, localizado em Gaspar. Foi comprovada situação consolidada anterior ao marco legal, sem vegetação nativa, sendo válido o registro do percentual zero da Reserva Legal no CAR. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 171,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de especialização de reserva legal em imóvel de Arnoldo Poffo",
+   "description": "O procedimento apurou o motivo da ausência da especialização da área de reserva legal dos imóveis matriculados sob os n. 33.497 e 33.498, localizados em Gaspar, de propriedade de Arnoldo Poffo e outro. Foi comprovada situação consolidada anterior ao marco legal, sem vegetação nativa, sendo válido o registro do percentual zero da Reserva Legal no CAR. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 172,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de especialização de reserva legal em imóvel de Salésio Schmitt",
+   "description": "O procedimento apurou o motivo da ausência da especialização da área de reserva legal dos imóveis de matrícula n. 35.863 e 35.864, de propriedade de Salésio Schmitt e Rita Maria Schmitt, localizados em Gaspar. Foi comprovada situação consolidada anterior ao marco legal. O texto encontra-se truncado.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 173,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de especialização de reserva legal em imóvel de Salésio da Conceição",
+   "description": "O procedimento apurou o motivo da ausência da especialização da área de reserva legal do imóvel de matrícula n. 9.850, de propriedade de Salésio da Conceição e outros, localizado em Gaspar. Foi comprovada situação consolidada anterior ao marco legal, sem vegetação nativa, sendo válido o registro do percentual zero da Reserva Legal no CAR. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 174,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de especialização de reserva legal em imóvel de Irineu de Souza",
+   "description": "O procedimento apurou o motivo da ausência da especialização da área de reserva legal dos imóveis de matrícula n. 35.786 e n. 9.143, de propriedade de Irineu de Souza e Gertrudes Claudina de Souza, localizados em Gaspar. Foi comprovada situação consolidada anterior ao marco legal, sem vegetação nativa, sendo válido o registro do percentual zero da Reserva Legal no CAR. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 175,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de especialização de reserva legal em imóvel de Evilásio Sansão",
+   "description": "O procedimento apurou o motivo da ausência da especialização da área de reserva legal do imóvel de matrícula n. 15.787, de propriedade de Evilásio Sansão e Cleusa Boettger Sansão, localizado em Gaspar. Foi comprovada situação consolidada anterior ao marco legal, sem vegetação nativa, sendo válido o registro do percentual zero da Reserva Legal no CAR. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 176,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de averbação de reserva legal em imóvel de Mário Werner",
+   "description": "O procedimento apurou o motivo da ausência da averbação da área de reserva legal do imóvel de matrícula n. 10.256, de propriedade de Mário José Werner, localizado em Gaspar. A finalidade do procedimento foi cumprida. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 177,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 178,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 179,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 180,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 181,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de averbação de reserva legal em imóvel de Carlos Alberto Grando",
+   "description": "O procedimento apurou o motivo da ausência da averbação da área de reserva legal do imóvel de matrícula n. 10.591, de propriedade de Carlos Alberto Grando, localizado em Gaspar. A finalidade do procedimento foi cumprida. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 182,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura obras de Gaspar e arquiva após conclusão do contrato",
+   "description": "O inquérito civil apurou fatos envolvendo o Município de Gaspar, Rui Calos Deschamps, Dionísio Luis Bertoldi e Mariluci Deschamps Roa. O Município de Gaspar finalizou as obras em 10/9/2021 e o Contrato SAF155/2019 foi devidamente cumprido, ensejando a perda do objeto e o arquivamento do procedimento.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 183,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de averbação de reserva legal em imóvel de Osmar Orlando Aguiar",
+   "description": "O procedimento apurou o motivo da ausência da averbação da área de reserva legal dos imóveis de matrículas n. 36.29 e n. 36.280, de propriedade de Osmar Orlando Aguiar e outro, localizados em Gaspar. Foi comprovada situação consolidada anterior ao marco legal, sem vegetação nativa, sendo válido o registro do percentual zero da Reserva Legal no CAR. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 184,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 185,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 186,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura irregularidades ambientais em obra em Gaspar e arquiva após regularização",
+   "description": "O inquérito civil apurou eventuais irregularidades ambientais em obra realizada por Claudino Anacleto Cardozo Filho, na Rua Maria Muller Cardoso, ao lado do n. 182, no Bairro Figueira, em Gaspar. A situação foi regularizada perante o órgão ambiental municipal com a obtenção das licenças necessárias. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 187,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 188,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de especialização de reserva legal em imóvel de Alfredo Wuensch",
+   "description": "O procedimento apurou o motivo da ausência da especialização da área de reserva legal do imóvel matriculado sob o n. 1.152, de propriedade de Alfredo Wuensch e outro, localizado em Gaspar. Foi comprovada situação consolidada anterior ao marco legal, sem vegetação nativa, sendo válido o registro do percentual zero da Reserva Legal no CAR. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 189,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura possível infração ao ECA em abrigo de Gaspar e arquiva",
+   "description": "O inquérito civil apurou possível infração ao art. 94 do Estatuto da Criança e do Adolescente no Abrigo Institucional Sementes do Amanhã, Lar das Meninas, no Município de Gaspar. Os motivos que deram ensejo ao procedimento foram sanados. Não foi constatada má-fé. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 190,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 191,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de averbação de reserva legal em imóvel da Edifika em Gaspar",
+   "description": "O procedimento apurou o motivo da ausência da averbação da reserva legal do imóvel de matrícula n. 8.111, de propriedade da Edifika Empreendimentos Imobiliários Ltda., localizado em Gaspar. A finalidade do procedimento foi cumprida. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 192,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 193,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 194,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 195,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 196,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 197,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 198,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 199,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 200,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 201,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de especialização de reserva legal em imóvel de empresa em Gaspar",
+   "description": "O procedimento apurou o motivo da ausência da especialização da reserva legal do imóvel de matrícula n. 2.271, de propriedade da Pacopedra Pavimentadora e Comércio de Pedras Ltda., localizado em Gaspar. A finalidade do procedimento foi cumprida. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 202,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 203,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 204,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 205,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de especialização de reserva legal em imóvel de Ivonne Zuchi",
+   "description": "O procedimento apurou o motivo da ausência da especialização da área de reserva legal do imóvel de matrícula n. 4.264, de propriedade de Ivonne Zuchi e outros, localizado em Gaspar. Não havia obrigação de anotação da reserva legal na forma do art. 67 do Código Florestal. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 206,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura falta de saneamento básico em Gaspar e arquiva",
+   "description": "O inquérito civil apurou a ausência de saneamento básico na Rua Joaquim Moser, n. 84, Bairro Bela Vista, em Gaspar. Não foram constatados problemas de esgotamento sanitário. As vistorias por órgãos municipais competentes apontaram problemas estruturais de construção do imóvel da noticiante, tratando-se de questão individual. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 207,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de especialização de reserva legal em imóvel de Claudete Pereira",
+   "description": "O procedimento apurou o motivo da ausência da especialização da área de reserva legal dos imóveis de matrícula n. 13.723 e n. 13.724, de propriedade de Claudete Pereira e Julierte Amadeu Pereira, localizados em Gaspar. Não havia obrigação de anotação da reserva legal na forma do art. 67 do Código Florestal. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 208,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura estado de conservação de via pública em Gaspar e arquiva",
+   "description": "O inquérito civil apurou a infraestrutura da Rua Vidal Flávio Dias, no Bairro Belchior Baixo, em Gaspar, que se encontrava em mau estado de conservação. Não foi constatada omissão por parte do Município de Gaspar na manutenção da via, que realiza obras periódicas. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 209,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura ausência de averbação de reserva legal em imóvel de Ademir Zuchi",
+   "description": "O procedimento apurou o motivo da ausência da averbação da reserva legal do imóvel de matrícula n. 18.495, de propriedade de Ademir Zuchi e Maria Clarice Fantoni Zuchi, localizado em Gaspar. Foi comprovada a averbação da Reserva Legal equivalente a porcentagem superior a 20% da área do imóvel. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 210,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 211,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre desmatamento de Mata Atlântica em Gaspar com TAC em acompanhamento",
+   "description": "A partir de denúncia anônima, o Ministério Público apurou possível desmatamento irregular de Mata Atlântica com soterramento de nascente no Bairro Gaspar Mirim. O fato já havia sido investigado em outro inquérito, com formalização de TAC que segue em acompanhamento por meio de Procedimento Administrativo. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 212,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva investigação sobre enfermeira de Gaspar acusada de levar vacinas Covid para familiares",
+   "description": "O Ministério Público apurou a denúncia de que Vera Lúcia Ramos, enfermeira do Município de Gaspar, teria levado vacinas da Covid-19 para sua residência e aplicado em familiares no Município de Navegantes. Os familiares comprovadamente tomaram a vacina nas faixas etárias autorizadas, não havia exigência de comprovante de residência para idosos em Gaspar e não se comprovou favorecimento ou comercialização indevida. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 213,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 214,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 215,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura dano a tubulação e queima de pneus em Gaspar e arquiva após regularização",
+   "description": "O Ministério Público apurou denúncia de Manoel Runckus sobre suposto dano à tubulação de águas pluviais na Rua Carlos Roberto Schramm e queima de pneus por empresa na mesma via, em Gaspar. Não foram constatados danos ambientais, a situação da tubulação foi regularizada e não houve elementos sobre queima de resíduos. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 216,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 217,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 218,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 219,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 220,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 221,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 222,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 223,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 224,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 225,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 226,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 227,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 228,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 229,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 230,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 231,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 232,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 233,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 234,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP conclui que lei da área azul de estacionamento de Gaspar é constitucional",
+   "description": "O Ministério Público apurou a constitucionalidade da Lei Ordinária Municipal n. 3.849/2018, que autoriza o Município de Gaspar a instituir áreas especiais de estacionamento por tempo determinado, denominadas \"área azul\", nas vias e logradouros públicos. O Ministério Público concluiu que a lei é constitucional e que a fiscalização e cobrança são razoáveis e legítimas. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 235,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 236,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 237,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 238,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 239,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 240,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 241,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 242,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 243,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 244,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 245,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 246,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 247,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura projeto que dispensava vacina Covid em Gaspar e Câmara arquiva texto após recomendação",
+   "description": "O Ministério Público apurou a tramitação de Projeto de Lei Ordinária n. 4/2024 na Câmara Legislativa de Gaspar, que dispensava a obrigatoriedade da vacina da Covid-19 como condicionante para acessar serviços municipais, inclusive creches e escolas. Após recomendação ministerial, o projeto foi arquivado pela Câmara. O caso foi encerrado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 248,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 249,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 250,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 251,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 252,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura uso de comissionados em análises técnicas em Gaspar e município comprova uso de efetivos",
+   "description": "O Ministério Público apurou a existência de análises técnicas de loteamentos realizadas de forma exclusiva por servidores comissionados, sem participação do corpo efetivo, no Município de Gaspar. A municipalidade demonstrou documentalmente que a análise dos loteamentos é realizada por servidores efetivos. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 253,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 254,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura parcelamento irregular em Gaspar e município inclui área em processo de regularização",
+   "description": "O Ministério Público apurou possível parcelamento irregular no imóvel de matrícula 1.579-A em Gaspar, diante da composição de inúmeras frações ideais com metragem determinada e proprietários diversos. A municipalidade adotou as medidas administrativas necessárias e incluiu as áreas em processo de REURB, que segue em acompanhamento por meio de Procedimento Administrativo. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 255,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 256,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 257,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura estruturação da Vigilância Sanitária de Gaspar e município comprova melhorias",
+   "description": "O Ministério Público apurou o cumprimento dos comandos constitucionais e infraconstitucionais relativos à estruturação da Vigilância Sanitária Municipal de Gaspar. No decorrer do procedimento, o Município comprovou a tomada de diversas melhorias no âmbito da Vigilância Sanitária, atingindo o objeto da investigação. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 258,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 259,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 260,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 261,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 262,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura parcelamento clandestino em Gaspar e município adota medidas de regularização",
+   "description": "O Ministério Público apurou parcelamento de solo clandestino na Rua Maria do Nascimento Pereira dos Santos, no Bairro Bateias, em Gaspar. A municipalidade adotou as medidas administrativas necessárias e incluiu as áreas em processo de REURB, que segue em andamento e será acompanhado por meio de Procedimento Administrativo. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 263,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 264,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC com proprietário de Gaspar para indenização e recuperação de área degradada",
+   "description": "O Ministério Público apurou a ausência de averbação da área de reserva legal do imóvel de Matrícula n. 28.209, em Gaspar, de propriedade de Edvilson José dos Santos. Foi celebrado Termo de Ajustamento de Conduta para indenização e recuperação da área degradada, que deve ser submetido ao Conselho Superior do Ministério Público para homologação. O caso foi arquivado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 265,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 266,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura falta de vagas em escolas estaduais de Gaspar e irregularidades são sanadas",
+   "description": "O Ministério Público instaurou inquérito civil para apurar a falta de vagas para alunos do Ensino Médio nas escolas estaduais de Gaspar no ano letivo de 2021. As irregularidades foram sanadas pela Secretaria Estadual de Educação e pela Coordenadoria Regional de Blumenau. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 267,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 268,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 269,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 270,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 271,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 272,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 273,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 274,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 275,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 276,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 277,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 278,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 279,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 280,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 281,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura esgoto irregular em propriedade de Ilhota e arquiva após regularização",
+   "description": "O Ministério Público apurou eventual irregularidade de um esgoto existente na propriedade de João Valério Rudolfo, localizado no Bairro Baú Baixo, em Ilhota, que atraía ratos e causava mau cheiro. A situação foi regularizada e o caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 282,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 283,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 284,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 285,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 286,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 287,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 288,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 289,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 290,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 291,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 292,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura depósito irregular de resíduos hospitalares em Gaspar e arquiva após regularização",
+   "description": "O Ministério Público apurou denúncia de estação de transbordo e depósito de resíduos hospitalares em local irregular e sem licença ambiental, pela empresa COLIX Soluções para Resíduos, em galpão no Bairro Belchior Baixo, em Gaspar. Não foi constatado dano ambiental e o Manifesto de Transporte de Resíduos foi regularizado após notificação do IMA/SC. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 293,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 294,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 295,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 296,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 297,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 298,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 299,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 300,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 301,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 302,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 303,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 304,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 305,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 306,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 307,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 308,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 309,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 310,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 311,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 312,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 313,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 314,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura construção irregular sem alvará em Gaspar e ação demolitória é ajuizada",
+   "description": "O Ministério Público apurou possível construção irregular sem os competentes alvarás na Rua Tubarão, Bairro Bela Vista, em Gaspar. Foi ingressada ação judicial demolitória, exaurindo o objeto da investigação. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 315,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 316,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 317,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 318,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 319,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 320,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 321,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 322,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 323,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 324,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 325,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 326,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 327,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 328,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 329,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC com empresa e proprietários para regularização de reserva legal em Gaspar",
+   "description": "O Ministério Público apurou a ausência de especificação de reserva legal em imóveis de propriedade de Vale das Figueiras Holding, Carlos Isensee e Luiz Isensee, em Gaspar. Foi celebrado Termo de Ajuste de Conduta entre o Ministério Público e os investigados, solucionando integralmente o objeto do inquérito. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 330,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 331,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 332,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 333,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 334,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 335,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 336,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 337,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 338,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 339,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 340,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 341,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 342,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 343,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 344,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 345,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 346,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 347,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 348,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 349,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 350,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 351,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 352,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 353,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 354,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟡 em apuração",
+   "severity": "media"
+  },
+  {
+   "i": 355,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 356,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  }
+ ],
+ "tce": [
+  {
+   "i": 0,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🔴 multa aplicada",
+   "severity": "media"
+  },
+  {
+   "i": 1,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 2,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE julga irregulares contas de Gaspar por promoção pessoal do prefeito e aplica multa",
+   "description": "O TCE julgou irregulares as contas da Tomada de Contas Especial sobre a campanha \"Avança Gaspar\", constatando que o prefeito Kleber Edson Wan-Dall utilizou publicidade institucional para promoção pessoal, em afronta ao princípio da impessoalidade. Foi aplicada multa de R$ 1.990,60 ao prefeito. O TCE também recomendou que o município se abstenha de novas campanhas com promoção pessoal.",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta"
+  },
+  {
+   "i": 3,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 4,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 5,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE nega recurso do prefeito de Gaspar contra condenação por promoção pessoal",
+   "description": "O TCE negou provimento ao Recurso de Reconsideração interposto pelo prefeito Kleber Edson Wan-Dall contra o Acórdão n. 134/2024, que o condenou por usar a campanha \"Avança Gaspar\" para promoção pessoal. A decisão foi mantida na íntegra pelo Tribunal Pleno.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 6,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multa prefeito de Gaspar em R$ 4 mil por irregularidades em pregão de pavimentação",
+   "description": "O TCE julgou parcialmente procedente denúncia sobre irregularidades no Pregão Presencial n. 78/2018, para contratação de serviços de drenagem e pavimentação articulada em Gaspar, no valor estimado de R$ 13 milhões. O prefeito Kleber Edson Wan-Dall foi multado em R$ 2.000 por não formalizar instrumento contratual e em mais R$ 2.000 por não designar fiscal de contrato.",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta"
+  },
+  {
+   "i": 7,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 8,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE apura irregularidades em contratação de software de gestão em Gaspar",
+   "description": "O TCE considerou parcialmente procedente denúncia sobre irregularidades na execução do Contrato n. SAF-27/2014 e aditivos para aquisição de software de gestão municipal em Gaspar. Foi constatada contratação direta por inexigibilidade de licitação sem justificativa de preços. O TCE recomendou ao município que junte documentos de suporte em futuras contratações diretas.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 9,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 10,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 11,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 12,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 13,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multa prefeito e secretário de Gaspar por descumprimento de determinação",
+   "description": "O TCE aplicou multa de R$ 2.866,71 ao prefeito Kleber Edson Wan-Dall e igual valor ao secretário de Obras Roni Jean Muller, por descumprirem injustificadamente determinação do Acórdão n. 495/2019 sobre o Pregão Presencial n. 058/2019, em Gaspar. O TCE alertou que a reincidência pode ensejar sanções mais graves.",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta"
+  },
+  {
+   "i": 14,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 15,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE susta pregão de Gaspar para contratação de caminhão com água por pagamento por hora",
+   "description": "O TCE determinou a sustação cautelar do Pregão Eletrônico n. 58/2025, da Prefeitura de Gaspar, para registro de preços de serviços de caminhão com água pressurizada e auto vácuo, no valor estimado de R$ 1,6 milhão. A irregularidade apontada foi a previsão de pagamento por hora trabalhada, em ofensa ao art. 37 da Constituição Federal e à Lei n. 14.133/2021.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 16,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multa secretário de Gaspar por uso de máquina pública em propriedade particular",
+   "description": "O TCE julgou procedente representação do vereador Dionísio Luís Bertoldi sobre o uso de máquina e mão de obra públicos para limpeza em propriedade particular em Gaspar. O secretário de Agricultura André Pasqual Waltrick foi multado em R$ 1.700,00 por afronta aos princípios da legalidade, impessoalidade e moralidade administrativa.",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta"
+  },
+  {
+   "i": 17,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE apura excesso de servidores temporários na Educação de Gaspar",
+   "description": "O TCE instaurou procedimento para apurar possíveis irregularidades relacionadas ao excesso de servidores ACTs (admitidos em caráter temporário) na Secretaria Municipal de Educação de Gaspar, a partir de denúncia do Sindicato dos Trabalhadores no Serviço Público Municipal. O TCE determinou diligência ao município para apresentação de documentos e esclarecimentos.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 18,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva apuração sobre promoção pessoal em Gaspar sem analisar o mérito",
+   "description": "O TCE arquivou Procedimento Apuratório Preliminar sobre possíveis irregularidades na promoção pessoal com recursos públicos em Gaspar, por não atingir a pontuação mínima exigida na Portaria n. 156/2021 (critérios de seletividade). O pedido de medida cautelar foi indeferido. O caso não chegou a ser analisado no mérito.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 19,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE investiga irregularidades na limpeza pública de Gaspar a partir de CPI da Câmara",
+   "description": "O TCE conheceu representação formulada a partir de Comissão Parlamentar de Inquérito instituída pela Resolução n. 61/2025 da Câmara de Vereadores de Gaspar, acerca de possíveis irregularidades na prestação de serviços de limpeza, manutenção e conservação de vias públicas no município. Foram determinadas audiências e oitivas das empresas envolvidas.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 20,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE julga procedente representação sobre pregão de instrumentos musicais em Gaspar",
+   "description": "O TCE julgou procedente representação sobre irregularidades no Pregão Eletrônico n. 33/2021, da Prefeitura de Gaspar, para aquisição de instrumentos musicais no valor de R$ 359.559,49. O TCE determinou que o município se abstenha de prorrogar o contrato e recomendou que identifique soluções de mercado antes de especificar produtos em futuros certames.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 21,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 parecer pela aprovação",
+   "severity": "media"
+  },
+  {
+   "i": 22,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE susta concorrência de Gaspar para projetos de engenharia no valor de R$ 6 milhões",
+   "description": "O TCE determinou a sustação cautelar da Concorrência Eletrônica n. 14/2026, da Prefeitura de Gaspar, para contratação de projetos de engenharia no valor estimado de R$ 5.979.422,30. A irregularidade apontada foi a adoção do Sistema de Registro de Preços para contratar projetos complexos de engenharia, vedado pela Lei n. 14.133/2021.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 23,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE apura descumprimento de metas de saneamento básico em Gaspar",
+   "description": "O TCE considerou parcialmente procedente representação sobre descumprimento de metas do Plano Municipal de Saneamento Básico de Gaspar. O tribunal recomendou que o município e o SAMAE adotem providências para solucionar problemas na concorrência de obras de esgoto, substituam tratamento individual por coletivo, ampliem coleta e revisem o plano de saneamento.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 24,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta irregularidades em pregão de limpeza do SAMAE de Gaspar",
+   "description": "O TCE julgou procedente representação sobre irregularidades no Pregão Presencial n. 075/2021, do SAMAE de Gaspar, para contratação de serviços de limpeza e manutenção. O tribunal recomendou que o SAMAE não exija responsáveis técnicos para áreas que vão além da atividade básica ou serviço preponderante da licitação em futuros certames.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 25,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE susta pregão de Gaspar por ausência de definição do objeto e orçamento inadequado",
+   "description": "O TCE determinou a sustação cautelar do Pregão Eletrônico n. 08/2023, da Prefeitura de Gaspar, para registro de preços de contratação de serviços. As irregularidades apontadas foram ausência de definição precisa do objeto e orçamento inadequado, em afronta à Lei de Licitações. Os secretários municipais envolvidos foram notificados para apresentar defesa.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 26,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 parecer pela aprovação",
+   "severity": "media"
+  },
+  {
+   "i": 27,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE mantém sustação parcial de pregão de Gaspar por exigência restritiva de marca",
+   "description": "O TCE revogou parcialmente a cautelar que suspendeu o Pregão Eletrônico n. 39/2023 da Prefeitura de Gaspar, mantendo a suspensão apenas para itens que exigiam que o fabricante pertencesse ao grupo \"Promoters\" do fórum UEFI.org. O município anulou parcialmente o pregão para excluir essa cláusula restritiva, conforme determinado pelo tribunal.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 28,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva recurso sobre irregularidades em pregão de Gaspar após cumprimento de determinação",
+   "description": "O TCE determinou o arquivamento de processo após verificar que a determinação contida na Decisão n. 1031/2024 foi cumprida. O caso trata de irregularidades relacionadas a recurso interposto em face do Acórdão n. 344/2024, exarado no processo REP-19/00544501, sobre o Pregão Presencial n. 058/2019 de Gaspar.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 29,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE apura irregularidades em obras de drenagem e esgoto de Gaspar e determina correções",
+   "description": "O TCE considerou parcialmente procedente representação sobre irregularidades nas obras de pavimentação, drenagem e rede de esgoto da Rua Barão do Rio Branco em Gaspar, executadas pela Progresso Ambiental Eirelli. O tribunal determinou que o município comprove a correção dos problemas de drenagem e recomendou verificar a viabilidade de mudança de postes de energia.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 30,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 31,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta restrições irregulares em pregão do SAMU de Gaspar e veda prorrogação de contrato",
+   "description": "O TCE julgou parcialmente procedente representação sobre cláusulas restritivas no Pregão Presencial n. 22/2021, da Prefeitura de Gaspar, para contratação de profissionais e veículos para o Serviço de Atendimento Móvel à Urgência (SAMU). O TCE determinou que o município não prorrogue o contrato decorrente e não repita as cláusulas restritivas em futuras licitações.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 32,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta irregularidades em pregão de transporte coletivo de Gaspar",
+   "description": "O TCE analisou irregularidades no Pregão Presencial n. 050/2021 da Prefeitura de Gaspar para contratação de empresa de transporte coletivo urbano. O tribunal determinou que o município se abstenha de prorrogar o contrato com a Expresso Presidente Getúlio EIRELLI, considerando indícios de atuação concatenada de licitantes e inconsistências no certame.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 33,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE mantém multa a gestores de Gaspar por irregularidades em tomada de preços",
+   "description": "O TCE deu provimento parcial a recurso de reexame contra o Acórdão n. 563/2019 sobre irregularidades na Tomada de Preços n. 002/2018 de Gaspar. O tribunal cancelou dois itens de irregularidade mas manteve o item 1.3 e a respectiva multa aplicada a cada um dos recorrentes: José Hilário Melato, Kleber Edson Wan-Dall, Carlos Roberto Pereira e José Carlos de Carvalho Júnior.",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta"
+  },
+  {
+   "i": 34,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta irregularidades em concorrência de transporte público de Gaspar",
+   "description": "O TCE considerou parcialmente procedente representação contra irregularidades no edital da Concorrência n. 03/2023, para concessão do serviço de transporte público coletivo de Gaspar. Foram identificadas exigência não justificada de 3 portas nos veículos, prazo exíguo para início dos serviços e ausência de dados completos para elaboração de propostas.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 35,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 36,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva apuração sobre promoção pessoal em Gaspar sem analisar mérito",
+   "description": "O TCE determinou o arquivamento de Procedimento Apuratório Preliminar sobre possíveis irregularidades de promoção pessoal com recursos públicos em Gaspar, por não alcançar a pontuação mínima exigida nos critérios de seletividade da Portaria n. 156/2021. O caso não foi analisado no mérito.",
+   "status": "❔ não conhecido (sem análise)",
+   "severity": "media"
+  },
+  {
+   "i": 37,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE julga improcedente representação sobre desvio de função em Gaspar",
+   "description": "O TCE julgou improcedente representação formulada por servidor municipal sobre suposto desvio de função na atuação de servidora comissionada em Gaspar. O caso foi arquivado por não restar configurada irregularidade.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 38,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🔴 multa aplicada",
+   "severity": "media"
+  },
+  {
+   "i": 39,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE condena ex-gestores de Gaspar a pagar R$ 71 mil por irregularidades em obra de CDI",
+   "description": "O TCE julgou irregulares com imputação de débito as contas de Tomada de Contas Especial sobre irregularidades na contratação e execução de obras de melhorias e reforço estrutural do Centro de Desenvolvimento Infantil Dorvalina Fachini em Gaspar, executadas pelos Contratos ns. SAF 27 e 93/2011 e 39/2013 com a Soberana Serviços e Construções Ltda., no valor de R$ 2.441.688,79. O engenheiro fiscal Edmundo de Jesus Araújo Júnior e a secretária de Planejamento Patrícia Scheidt Marques foram condenados solidariamente ao pagamento de R$ 71.866,50.",
+   "status": "⬛ julgado irregular",
+   "severity": "alta"
+  },
+  {
+   "i": 40,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta irregularidades em tomada de preços de Gaspar e determina correção",
+   "description": "O TCE analisou Procedimento Apuratório Preliminar sobre a Tomada de Preços n. 09/2023 de Gaspar para reforma de cobertura. Como a licitação foi revogada, o TCE determinou que o município desconstitua o ato de revogação convertendo-o em anulação, tendo em vista a ilegalidade constatada, sob pena de multa.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 41,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta irregularidades em licitação de salas modulares de Gaspar e faz recomendações",
+   "description": "O TCE analisou Concorrência Eletrônica n. 26/2024 da Prefeitura de Gaspar para construção de salas de aulas e banheiros modulares, mas considerou prejudicada a análise de mérito pela revogação do certame. O TCE recomendou que o município ajuste a metodologia conforme a Nota Técnica n. TC-11/2024 e adote Estudo Técnico Preliminar como artefato de planejamento.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 42,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 43,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE investiga irregularidades em obra do Anel Viário de Gaspar orçada em R$ 8,9 milhões",
+   "description": "O TCE instaurou representação para apurar possíveis irregularidades na execução do Contrato SAF n. 108/2019, decorrente da Concorrência Pública n. 01/2019, para implantação e pavimentação do trecho 2 do Anel Viário de Gaspar, no valor de R$ 8.894.811,62. O TCE determinou diligência ao município para apresentação de documentos e esclarecimentos sobre as alterações de projeto e medições.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "alta"
+  },
+  {
+   "i": 44,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE não conhece representação sobre pregão do SAMU em Gaspar",
+   "description": "O TCE não conheceu representação sobre supostas irregularidades no Pregão Presencial n. 22/2021 e contrato decorrente do SAMU em Gaspar, por a matéria não estar acompanhada de indícios de prática de irregularidade. O caso foi arquivado.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 45,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE não conhece representação sobre pregão de relógio ponto em Gaspar",
+   "description": "O TCE não conheceu representação sobre supostas irregularidades no Pregão Presencial n. 85/2021 para locação de equipamento de relógio ponto em Gaspar, por não atender aos requisitos de seletividade. O caso foi arquivado.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 46,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE concede cautelar e converte apuração em representação sobre pregão de Gaspar",
+   "description": "O TCE converteu Procedimento Apuratório Preliminar em Representação e concedeu medida cautelar para sustar o Pregão Eletrônico n. 39/2023 da Prefeitura de Gaspar, por exigência de que o fabricante dos equipamentos fosse membro do grupo \"Promoters\" do fórum UEFI.org, caracterizando restrição à competitividade. O secretário municipal foi notificado para defesa.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 47,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 48,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta sobrepreço de R$ 842 mil em pregão de pavimentação de Gaspar e susta licitação",
+   "description": "O TCE determinou a sustação cautelar do Pregão Eletrônico n. 104/2023 da Prefeitura de Gaspar para serviços de pavimentação intertravada, no valor estimado de R$ 4.853.630,00. Foram identificados orçamento inadequado com possível sobrepreço de R$ 842.280,00, projeto insuficiente e ausência de ART. O secretário de Obras foi notificado para defesa.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "alta"
+  },
+  {
+   "i": 49,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta restrição em pregão de vale alimentação de Gaspar avaliado em R$ 14 milhões",
+   "description": "O TCE conheceu representação contra o Pregão Eletrônico n. 46/2023 da Prefeitura de Gaspar para contratação de serviços de vale alimentação e refeição no valor de R$ 14.225.280,00. A opção pelo arranjo aberto foi considerada restritiva à participação. O TCE determinou audiência do secretário municipal para justificativas.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 50,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 parecer pela aprovação",
+   "severity": "media"
+  },
+  {
+   "i": 51,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🟢 parecer pela aprovação",
+   "severity": "media"
+  },
+  {
+   "i": 52,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE considera regular contratação temporária de servidores em Gaspar",
+   "description": "O TCE considerou regular a contratação temporária de servidores relacionados ao programa \"Avança Gaspar\" (Lei Municipal n. 3.839/2017), após inspeção. Não ficou comprovada ofensa ao art. 37, II e IX, da Constituição Federal. O caso foi arquivado.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 53,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE não conhece representação sobre pregão de horas-máquina de Gaspar",
+   "description": "O TCE não conheceu representação sobre supostas irregularidades no Pregão Eletrônico n. 71/2025 de Gaspar para registro de preços de horas-máquina com operador, por não atender aos requisitos legais de admissibilidade. O caso foi arquivado.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 54,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE apura acumulação de cargo público com atividade empresarial por secretária de Educação de Gaspar",
+   "description": "O TCE instaurou procedimento para apurar possíveis irregularidades relacionadas à acumulação de cargo público com atividade empresarial pela Secretária Municipal de Educação de Gaspar, Andréia Symone Zimmermann Nagel. O TCE determinou diligência para que a secretária preste esclarecimentos sobre os fatos apontados na denúncia.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 55,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta irregularidades em pregão de transporte coletivo de Gaspar e veda prorrogação de contrato",
+   "description": "O TCE, em recurso, manteve a determinação para que a Prefeitura de Gaspar se abstenha de prorrogar o Contrato n. 72/2021 com a Expresso Presidente Getúlio EIRELLI, por indícios de atuação concatenada de licitantes no Pregão Presencial n. 050/2021. O tribunal recomendou a realização de estudos para concessão do serviço de transporte coletivo.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 56,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE não conhece denúncia sobre publicidade indevida em Gaspar",
+   "description": "O TCE não conheceu denúncia sobre supostas irregularidades referentes a publicidade indevida em Gaspar, por não atingir os critérios de seletividade. O caso foi arquivado.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 57,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE não conhece representação sobre concorrência para construção de CDI em Gaspar",
+   "description": "O TCE não conheceu representação sobre supostas irregularidades na Concorrência n. 04/2021 para construção do CDI Central em Gaspar, por não atender aos requisitos de seletividade. O caso foi arquivado.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 58,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva processo sobre tomada de preços de Gaspar após cumprimento de determinação",
+   "description": "O TCE considerou atendida a determinação contida no Acórdão n. 563/2019 sobre irregularidades na Tomada de Preços n. 002/2018 de Gaspar, e determinou o arquivamento do processo de acompanhamento.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 59,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta irregularidades em licitação de salas modulares em Gaspar",
+   "description": "O TCE apontou irregularidades na Concorrência n. 16/2023 da Prefeitura de Gaspar para construção de salas de aula em sistema modular pré-fabricado, concluindo que o projeto básico não atende aos requisitos mínimos previstos no art. 6º, inciso XXV, da Lei n. 14.133/2021, em desacordo com a Nota Técnica n. TC-11/2024 do próprio TCE.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 60,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE não conhece representação sobre pregão de Gaspar",
+   "description": "O TCE não conheceu representação sobre supostas irregularidades no Pregão Presencial n. 124/2022 de Gaspar, por não atender aos requisitos de seletividade. O caso foi arquivado.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 61,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE não conhece representação sobre pregão de Gaspar",
+   "description": "O TCE não conheceu representação sobre supostas irregularidades no Pregão Presencial n. 99/2022 de Gaspar, por não atender aos requisitos de seletividade. O caso foi arquivado.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 62,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva auditoria sobre atos de pessoal de Gaspar e programa nova fiscalização",
+   "description": "O TCE determinou o arquivamento de auditoria sobre atos de pessoal de Gaspar (período 2012-2013), por cumprimento do objetivo. O tribunal também determinou que a Diretoria-Geral de Controle Externo inclua em sua programação nova auditoria para verificar a situação atual da legalidade dos atos de pessoal do município.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 63,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE apura contratação temporária reiterada de engenheiro civil em Gaspar",
+   "description": "O TCE instaurou procedimento apuratório para apurar a contratação temporária reiterada de Engenheiro Civil pela Prefeitura Municipal de Gaspar. O PAP foi convertido em Relatório de Inspeção (RLI) e determinada diligência para esclarecer a motivação das contratações temporárias após a homologação de concurso público. A apuração segue em curso.",
+   "status": "🟡 em instrução (citação/audiência)",
+   "severity": "media"
+  },
+  {
+   "i": 64,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aplica multa diária a Gaspar por contratações temporárias ilegais",
+   "description": "O TCE definiu tutela antecipada determinando ao Município de Gaspar que se abstenha de contratar ou prorrogar funcionários temporários, sob pena de multa diária de R$ 500,00 por cada funcionário ilegalmente contratado. O município também foi obrigado a deflagrar concurso público no prazo de 180 dias. Posteriormente, as partes celebraram acordo judicial homologado pelo TCE.",
+   "status": "🔴 multa aplicada",
+   "severity": "alta"
+  },
+  {
+   "i": 65,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE responde consulta de Gaspar sobre licitação para manutenção de software",
+   "description": "O TCE respondeu consulta da Prefeitura Municipal de Gaspar sobre a possibilidade de contratar manutenção e suporte de software de gestão com licença perpétua sem licitação. O TCE orientou que a contratação deve ser objeto de licitação, salvo comprovação de inviabilidade de competição, e que o certificado de patente não substitui o atestado de exclusividade.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 66,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE apura irregularidades na concessão de licença de loteamento em Gaspar",
+   "description": "O TCE apurou possíveis irregularidades decorrentes da concessão de licença de instalação de loteamento no Município de Gaspar. O PAP foi convertido em processo de representação e determinada diligência junto à Prefeitura para apuração dos fatos apontados como irregulares, incluindo inspeções e auditorias pela Diretoria de Atos de Pessoal.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 67,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE apura irregularidades na folha de pagamento de servidores de Gaspar",
+   "description": "O TCE apurou possíveis irregularidades relativas à folha de pagamento dos servidores municipais de Gaspar. O PAP foi convertido em Relatório de Inspeção (RLI) e os autos retornaram à Diretoria de Atos de Pessoal para prosseguimento da instrução, com diligência autorizada para apuração dos fatos apontados.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "alta"
+  },
+  {
+   "i": 68,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 69,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "⬛ decisão singular",
+   "severity": "media"
+  },
+  {
+   "i": 70,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "⬛ decisão singular",
+   "severity": "media"
+  },
+  {
+   "i": 71,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva apuração sobre tomada de preços em Gaspor após revogação da licitação",
+   "description": "O TCE apurou possíveis irregularidades na Tomada de Preços n. 09/2023 da Prefeitura Municipal de Gaspar. O processo foi arquivado por perda de objeto, decorrente da revogação da licitação pelo município. O TCE recomendou que, em futuros casos, Gaspar promova a anulação do certame em vez de revogação, em atenção à Súmula 473 do STF, e determinou a desconstituição do ato de revogação.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 72,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "⬛ acórdão (decisão)",
+   "severity": "media"
+  },
+  {
+   "i": 73,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE não conhece recurso de Gaspar por intempestividade",
+   "description": "O TCE não conheceu o Recurso de Reexame interposto pelo Prefeito Kleber Edson Wan-Dall contra o Acórdão n. 221/2024, por não atender ao pressuposto da tempestividade. O recurso questionava decisão sobre processo de representação, mas foi extemporâneo.",
+   "status": "⚫ prescrito",
+   "severity": "media"
+  },
+  {
+   "i": 74,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE determina suspensão de contrato de transporte coletivo em Gaspar por indícios de licitação concatenada",
+   "description": "O TCE determinou que a Prefeitura Municipal de Gaspar se abstenha de prorrogar o contrato de transporte coletivo urbano com a empresa Expresso Presidente Getúlio, em vista de inconsistências e indícios de atuação concatenada das licitantes no Pregão Presencial n. 050/2021. O TCE também recomendou que o município realize estudos para concessão do serviço público de transporte coletivo.",
+   "status": "⬛ julgado irregular",
+   "severity": "alta"
+  },
+  {
+   "i": 75,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE orienta Gaspar sobre pensão por morte de servidores aposentados",
+   "description": "O TCE respondeu consulta da Prefeitura Municipal de Gaspar sobre a concessão de pensão por morte a dependentes de servidores aposentados sob regime próprio que migraram para o Regime Geral de Previdência Social. O TCE orientou que a responsabilidade pelo benefício é do ente municipal e que os critérios devem seguir as normas vigentes ao tempo do falecimento.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 76,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE mantém decisão contra servidores de Gaspor em recurso de reexame",
+   "description": "O TCE negou provimento ao Recurso de Reexame interposto por Kleber Edson Wan-Dall e outros contra o Acórdão n. 495/2019, ratificando na íntegra a deliberação recorrida. A decisão original envolvia apuração de irregularidades no Município de Gaspar.",
+   "status": "⬛ julgado irregular",
+   "severity": "media"
+  },
+  {
+   "i": 77,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE considera irregular cláusulas restritivas em pregão de SAMU em Gaspar",
+   "description": "O TCE julgou parcialmente procedente a Representação e considerou irregulares cláusulas restritivas do edital do Pregão Presencial n. 22/2021, para contratação de empresa para o Serviço de Atendimento Móvel à Urgência (SAMU) em Gaspar. Foram apontadas exigências que limitavam a participação de licitantes, em violação à Lei de Licitações. O contrato foi determinado sem prorrogação.",
+   "status": "⬛ julgado irregular",
+   "severity": "alta"
+  },
+  {
+   "i": 78,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "⬛ acórdão (decisão)",
+   "severity": "media"
+  },
+  {
+   "i": 79,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE mantém decisão contra Gaspar em recurso sobre processo de monitoramento",
+   "description": "O TCE negou provimento ao Recurso de Reexame proposto pelo Prefeito Kleber Edson Wan-Dall contra o Acórdão n. 32/2021, nos autos do Processo de Monitoramento n. PMO-17/80083111, ratificando a deliberação recorrida. Foi determinada a juntada da peça recursal para análise do cumprimento do Plano de Ação pela Diretoria de Atos de Pessoal.",
+   "status": "⬛ julgado irregular",
+   "severity": "media"
+  },
+  {
+   "i": 80,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE mantém débito imputado a servidor de Gaspar em recurso de reexame",
+   "description": "O TCE negou provimento ao Recurso de Reexame interposto contra o Acórdão n. 289/2022, nos autos do Processo n. REP-19/00708547, mantendo na íntegra o débito imputado ao recorrente. A decisão original apontou irregularidade em representação contra a Prefeitura Municipal de Gaspar.",
+   "status": "⬛ julgado irregular",
+   "severity": "media"
+  },
+  {
+   "i": 81,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "⬛ acórdão (decisão)",
+   "severity": "media"
+  },
+  {
+   "i": 82,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE mantém decisão sobre contas de Gaspar em recurso de reexame",
+   "description": "O TCE negou provimento ao Recurso de Reexame interposto por Kleber Edson Wan-Dall contra o Acórdão n. 344/2024, nos autos do Processo n. REP-19/00544501, mantendo-o na íntegra. A decisão versava sobre apuração de irregularidades nas contas do Município de Gaspar.",
+   "status": "⬛ julgado irregular",
+   "severity": "media"
+  },
+  {
+   "i": 83,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE mantém multa a prefeito de Gaspar em recurso de reconsideração",
+   "description": "O TCE negou provimento ao Recurso de Reconsideração interposto pelo Prefeito Kleber Edson Wan-Dall contra o Acórdão n. 134/2024, nos autos do Processo n. TCE-20/00036150, mantendo na íntegra a decisão recorrida que apontou irregularidade na gestão municipal.",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta"
+  },
+  {
+   "i": 84,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE mantém débito em recurso de reconsideração de servidor de Gaspar",
+   "description": "O TCE negou provimento ao Recurso de Reconsideração contra o Acórdão n. 309/2024, nos autos do Processo n. TCE-16/00560714, ratificando o débito imputado ao recorrente. A decisão manteve a integralidade do débito apurado pelo Tribunal.",
+   "status": "⬛ julgado irregular",
+   "severity": "alta"
+  },
+  {
+   "i": 85,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE mantém débito imputado a ex-prefeito de Gaspar em recurso de reconsideração",
+   "description": "O TCE negou provimento ao Recurso de Reconsideração interposto pelo Sr. Edmundo de Jesus Araújo Júnior contra o Acórdão n. 309/2024, mantendo em sua integralidade o débito imputado ao recorrente, nos autos do Processo n. TCE 16/00560714. A decisão foi ratificada em sessão plenária.",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta"
+  }
+ ]
+}

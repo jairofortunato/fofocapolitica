@@ -1,0 +1,632 @@
+[
+ {
+  "i": 630,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 631,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 632,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 633,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 634,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 635,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 636,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 637,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 638,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 639,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 640,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 641,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 642,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 643,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 644,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 645,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 646,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 647,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 648,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 649,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 650,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 651,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 652,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 653,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 0,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 1,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva PAP sobre pregao dos playgrounds",
+  "description": "O procedimento apurava supostas irregularidades no Pregao Eletronico 001/2023, que previa equipamentos recreativos para escolas. O tribunal reconheceu a perda do objeto apos retificacao do termo de referencia e determinou o arquivamento, sem analise de merito.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 2,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 3,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 4,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 5,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 6,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 7,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta irregularidade na compra de livros da Educacao",
+  "description": "O tribunal considerou parcialmente procedente a representacao sobre a Inexigibilidade 037/2024, da Secretaria Municipal de Educacao. Houve irregularidade na falta de justificativas de preco e o edital foi anulado, sem aplicacao de multa no trecho trazido.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 8,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 9,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 10,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 11,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 12,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 13,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 14,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 15,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 16,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 17,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 18,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE multa ex-prefeito por despesas nao empenhadas",
+  "description": "O acórdão considerou irregulares despesas de 2019 que nao foram empenhadas na epoca propria e aplicou multas aos responsaveis. A responsabilizacao foi expressa e o caso ficou com sancoes pecuniarias.",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta"
+ },
+ {
+  "i": 19,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 20,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE barra edital da Orla da Enseada por falhas ambientais e de orcamento",
+  "description": "O tribunal considerou parcialmente procedente a representacao e declarou ilegal a Concorrencia 169/2024. A Prefeitura foi obrigada a anular o edital por ausencia de licenca ambiental e por falhas no orcamento e no projeto basico.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 21,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE multa prefeito por descumprir decisao sobre ACTs",
+  "description": "O tribunal aplicou multa ao prefeito e ao secretario de Educacao pelo descumprimento de decisao anterior sobre contratacoes de ACTs. A deliberacao ainda reiterou medidas para adequar as contratacoes e o plano de acoes da educacao.",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta"
+ },
+ {
+  "i": 22,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 23,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 24,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE multa operador por habilitar empresa sem cumprir edital",
+  "description": "A representacao sobre a Dispensa Eletronica 049/2024 foi considerada parcialmente procedente. O tribunal aplicou multas ao responsavel porque a empresa foi habilitada sem comprovar os requisitos do edital.",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta"
+ },
+ {
+  "i": 25,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 26,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE multa pregoeiro por falhas no pregão de locacao de banheiros quimicos",
+  "description": "A representacao foi parcialmente procedente e o pregoeiro recebeu multa. O tribunal entendeu que houve descumprimento do edital no Pregao Eletronico 101/2023 e manteve a responsabilizacao pecuniaria.",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta"
+ },
+ {
+  "i": 27,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE nao conhece PAP sobre sinalizacao nautica",
+  "description": "O Procedimento Apuratorio Preliminar nao passou na seletividade e nao virou representacao. O tribunal arquivou o feito sem analise de merito.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 28,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE nao conhece denuncia sobre concurso publico",
+  "description": "A denuncia sobre o Concurso Publico 001/2023 nao alcançou a pontuacao minima de seletividade. O tribunal determinou o arquivamento sem exame de merito.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 29,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE nao conhece representacao sobre o Plano Diretor",
+  "description": "A representacao sobre a revisao do Plano Diretor foi rejeitada por falta de indicios minimos de prova. O tribunal arquivou o processo sem julgar o merito.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 30,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE declara irregular gratificacao paga a servidores da educacao",
+  "description": "O tribunal considerou irregular o pagamento de gratificacao de regencia de classe aos servidores designados para o GIEPPE. A Prefeitura foi obrigada a se abster de repetir a pratica e o processo foi arquivado depois da decisao.",
+  "status": "⬛ julgado irregular",
+  "severity": "media"
+ },
+ {
+  "i": 31,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 32,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE leva obra da Orla da Enseada a audiencia",
+  "description": "A representacao sobre a Concorrencia Eletronica 169/2023 apontou possiveis irregularidades na obra de revitalizacao da Orla da Enseada. O relator determinou audiencia dos responsaveis e diligencias, sem julgamento final ainda.",
+  "status": "🟡 em instrução (citação/audiência)",
+  "severity": "media"
+ },
+ {
+  "i": 33,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE nao conhece denuncia sobre concurso publico",
+  "description": "A denuncia sobre o Concurso Publico 001/2023 nao atendeu aos pressupostos de admissibilidade. O tribunal arquivou os autos sem analise de merito.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 34,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 35,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE remete apuracao de convenio da educacao ao TCU",
+  "description": "A tomada de contas especial sobre recursos do FNDE apontou que a materia seria da competencia do TCU. O texto traz proposta de remessa e arquivamento, ainda sem desfecho de merito aqui.",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 36,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE admite TCE e cita responsaveis por suposto desvio em contratos",
+  "description": "O tribunal admitiu a Tomada de Contas Especial 006/2023 e determinou citacao dos responsaveis para defesa. A apuracao segue em instrucao, com indicios de debito e multa ainda sem julgamento final.",
+  "status": "🟡 em instrução (citação/audiência)",
+  "severity": "media"
+ },
+ {
+  "i": 37,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta irregularidade em pregao do transporte escolar",
+  "description": "A representacao sobre o Pregao Presencial 029/2020 foi parcialmente procedente. O tribunal indicou inabilitacao indevida de licitantes e recomendou correcao da conduta pela Prefeitura.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 38,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 39,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 40,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 41,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 42,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 43,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE considera irregular falta de regras para escolha de diretores",
+  "description": "A inspeção sobre as metas 17 e 18 do plano municipal de educacao concluiu pela irregularidade da ausencia de criterios para a participacao da comunidade escolar na escolha de diretores. O tribunal determinou a edicao de legislacao especifica.",
+  "status": "⬛ julgado irregular",
+  "severity": "media"
+ },
+ {
+  "i": 44,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE nao conhece PAP sobre transparencia em licitacao",
+  "description": "O procedimento nao atingiu a pontuacao minima de seletividade e foi arquivado. O tribunal ainda recomendou maior transparencia no portal do municipio, mas sem analise de merito.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 45,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta irregularidade em pregão da merenda escolar",
+  "description": "A representacao sobre a contratacao de empresa especializada em alimentacao escolar foi conhecida e teve audiencia dos responsaveis. O relator apontou falhas nas exigencias nutricionais e na disciplina do edital.",
+  "status": "🟡 em instrução (citação/audiência)",
+  "severity": "media"
+ }
+]

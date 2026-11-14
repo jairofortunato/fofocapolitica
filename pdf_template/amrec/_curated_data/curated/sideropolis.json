@@ -1,0 +1,189 @@
+{
+ "mp": [
+  {
+   "ref": "06.2024.00003812-1",
+   "cidade": "Siderópolis",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura preterição de candidatos em concurso de Siderópolis e arquiva após correção",
+   "description": "Investigação apurou possível preterição de candidatos aprovados no concurso público de 2023 para auxiliar de sala de aula em Siderópolis. A prefeitura cumpriu integralmente a recomendação do MP, e o caso foi arquivado.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2023.00002368-0",
+   "cidade": "Siderópolis",
+   "tipo": "mp",
+   "keep": true,
+   "title": "Servidores aposentados ficaram em cargos por 'promessa política' em Siderópolis, mostra MP",
+   "description": "Ministério Público apurou que servidores aposentados permaneceram em cargos públicos em Siderópolis por conta de promessa política, contrariando a Constituição Federal. A prefeitura abriu processo disciplinar e exonerou os servidores após a irregularidade ser identificada. Como os serviços foram efetivamente prestados, não houve necessidade de devolução de dinheiro, e o MP arquivou o caso sem confirmar improbidade.",
+   "severity": "alta"
+  },
+  {
+   "ref": "06.2018.00006681-9",
+   "cidade": "Siderópolis",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cobra transparência sobre contratações irregulares na saúde de Siderópolis",
+   "description": "Inquérito apurou contratações na área da saúde de Siderópolis feitas sem processo seletivo, além da omissão de dados de servidores no Portal da Transparência do município. A prefeitura já tinha um TAC anterior sobre as contratações irregulares e comprovou depois ter incluído as informações faltantes no portal.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2016.00007975-0",
+   "cidade": "Siderópolis",
+   "tipo": "mp",
+   "keep": true,
+   "title": "Proprietários fazem acordo após dano ambiental em nascentes de Siderópolis",
+   "description": "Investigação confirmou intervenção irregular em Área de Preservação Permanente por Antônio Zampolli e Sonete Savi Zampolli, com escavação de açudes e desvio de nascentes em propriedade rural de Siderópolis. Os responsáveis firmaram Termo de Ajustamento de Conduta para recuperar a área degradada.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2025.00001834-0",
+   "cidade": "Siderópolis",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP verifica denúncia ambiental em loteamento de Siderópolis e não encontra dano relevante",
+   "description": "Inquérito apurou denúncia de intervenção irregular em área de preservação permanente no Loteamento Jardim Itália, em Siderópolis. Órgão ambiental municipal (FAMSID) atestou regularidade da atividade após a correção de pendências, e o MP concluiu não haver dano ambiental relevante nem necessidade de ação judicial.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2021.00000657-2",
+   "cidade": "Siderópolis",
+   "tipo": "mp",
+   "keep": false,
+   "title": "MP cobra regras sobre declaração de bens de agentes públicos em Siderópolis",
+   "description": "Inquérito verificou se a Prefeitura de Siderópolis cumpria a exigência legal de controle das declarações de bens de agentes públicos. Após recomendação do MP, o município editou decreto regulamentando o tema e deu acesso às declarações ao controle interno. Caso arquivado.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2024.00004820-8",
+   "cidade": "Siderópolis",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP aciona Justiça por irregularidades em convênio entre UNESC e Siderópolis",
+   "description": "Ministério Público apurou indícios de desvio de finalidade, subcontratação irregular e uso indevido de contratação direta em convênio firmado entre a Universidade do Extremo Sul Catarinense (UNESC) e o Município de Siderópolis. O caso resultou em ação civil pública ajuizada.",
+   "severity": "alta",
+   "status": "🔴 ACP ajuizada"
+  },
+  {
+   "ref": "06.2021.00003577-8",
+   "cidade": "Siderópolis",
+   "tipo": "mp",
+   "keep": false,
+   "title": "MP resolve pedido de redutor de velocidade perto de escola em Siderópolis",
+   "description": "Ministério Público investigou risco de acidentes por excesso de velocidade perto da Escola Aurora Péterle em Siderópolis. A prefeitura instalou redutor de velocidade no local, resolvendo o problema, e o caso foi arquivado.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2025.00001198-0",
+   "cidade": "Siderópolis",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP aciona Justiça porque Siderópolis ignora repetidamente pedidos oficiais do Ministério Público",
+   "description": "Investigação apurou que a Prefeitura de Siderópolis vinha ignorando reiteradamente ofícios enviados pelo Ministério Público, por falta de estrutura e organização do setor jurídico municipal. O município recusou proposta de acordo, e o MP decidiu ajuizar ação civil pública.",
+   "severity": "media",
+   "status": "🔴 ACP ajuizada"
+  }
+ ],
+ "tce": [
+  {
+   "ref": "RLI 22/00654620",
+   "cidade": "Siderópolis",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multou o prefeito de Siderópolis em R$ 3.981 por atraso e falta de transparência",
+   "description": "O Tribunal de Contas considerou irregulares dois atos da Prefeitura de Siderópolis: a reincidência no atraso de envio da prestação de contas do prefeito e a falta de publicação, em tempo real, de informações sobre execução orçamentária e lançamento de receitas. Por isso, aplicou ao prefeito Ângelo Franqui Salvaro duas multas de R$ 1.990,60 cada, com prazo de 30 dias para recolhimento ou recurso. O município também recebeu prazo de 60 dias para corrigir a falha de transparência.",
+   "severity": "alta",
+   "status": "⬛ julgado irregular + multa"
+  },
+  {
+   "ref": "PAP 24/80016204",
+   "cidade": "Siderópolis",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE suspendeu concorrência de Siderópolis e chamou prefeito para se explicar",
+   "description": "Após representação da empresa West Engenharia, o Tribunal de Contas determinou cautelarmente a sustação imediata da Concorrência Eletrônica 002/2024 e do Contrato 08/2024 da Prefeitura de Siderópolis, por descumprimento das regras do próprio edital. O prefeito Ângelo Franqui Salvaro e a agente de contratação Fabiola Cardoso Comin foram chamados a apresentar justificativas em 30 dias. A suspensão era provisória, até deliberação do Pleno.",
+   "severity": "media",
+   "status": "🟠 cautelar / sustação"
+  },
+  {
+   "ref": "REP 24/80016204",
+   "cidade": "Siderópolis",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE julgou improcedente a representação contra concorrência de Siderópolis",
+   "description": "A empresa West Engenharia representou contra a Concorrência Eletrônica 002/2024 do Município de Siderópolis. Ao julgar o mérito, o Tribunal de Contas considerou a representação improcedente e determinou o arquivamento dos autos. A prefeitura recebeu apenas recomendações sobre exigência de atestados técnicos em licitações futuras — nenhum gestor foi responsabilizado.",
+   "severity": "media",
+   "status": "🟢 arquivado"
+  },
+  {
+   "ref": "REP 21/00805902",
+   "cidade": "Siderópolis",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquivou caso de pregão de pneus em Siderópolis com recado para o próximo edital",
+   "description": "O Tribunal de Contas conheceu a representação contra o Pregão Presencial PMS-46/2021, da Prefeitura de Siderópolis, para registro de preços de pneus. Não houve punição: o TCE apenas determinou que, em editais futuros, a garantia seja comprovada por catálogo ou folder do fabricante, e não por certificado. O processo foi arquivado.",
+   "severity": "media",
+   "status": "🟢 arquivado"
+  },
+  {
+   "ref": "RLI 23/00299229",
+   "cidade": "Siderópolis",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multou prefeito de Siderópolis em R$ 2 mil por não responder a pedidos do tribunal",
+   "description": "Em inspeção sobre a adequação do município à Lei da Liberdade Econômica e à Lei estadual 18.091/2021, o Tribunal de Contas constatou que Siderópolis não enviou as informações pedidas em quatro ocasiões, entre 2022 e 2023. O prefeito Ângelo Franqui Salvaro foi multado em R$ 2.000,00. A prefeitura ainda recebeu prazo de 15 dias para comprovar a adequação às duas leis.",
+   "severity": "alta",
+   "status": "🔴 multa aplicada"
+  },
+  {
+   "ref": "PAP 24/80016204",
+   "cidade": "Siderópolis",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE sustou concorrência e contrato de Siderópolis por descumprimento do edital",
+   "description": "Nesta decisão, o Tribunal de Contas converteu o procedimento apuratório em representação e determinou a sustação cautelar da Concorrência Eletrônica 002/2024 e do Contrato 08/2024 da Prefeitura de Siderópolis, por descumprimento de regras do edital. O prefeito Ângelo Franqui Salvaro e a agente de contratação Fabiola Cardoso Comin foram convocados a se justificar. A medida era provisória, até decisão de mérito.",
+   "severity": "media",
+   "status": "🟠 cautelar / sustação"
+  },
+  {
+   "ref": "RLI 23/00299229",
+   "cidade": "Siderópolis",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multou prefeito de Siderópolis em R$ 2 mil por ignorar pedidos de informação",
+   "description": "A inspeção do Tribunal de Contas verificava se Siderópolis havia se adequado à Lei da Liberdade Econômica e à Lei estadual 18.091/2021. Como o município não enviou as informações requeridas repetidamente pela Corte, o prefeito Ângelo Franqui Salvaro recebeu multa de R$ 2.000,00, com 30 dias para recolher ou recorrer. A prefeitura também teve prazo de 15 dias para comprovar a adequação.",
+   "severity": "alta",
+   "status": "🔴 multa aplicada"
+  },
+  {
+   "ref": "RLI 23/00299229",
+   "cidade": "Siderópolis",
+   "tipo": "tce",
+   "keep": true,
+   "title": "Nova deliberação mantém multa de R$ 2 mil ao prefeito de Siderópolis por omissão",
+   "description": "Nesta etapa da inspeção sobre a adequação de Siderópolis à Lei da Liberdade Econômica, o Tribunal de Contas aplicou ao prefeito Ângelo Franqui Salvaro multa de R$ 2.000,00 pela ausência de envio das informações requeridas pela Corte entre 2022 e 2023. Foi fixado prazo de 30 dias para pagamento ou recurso e de 15 dias para o município comprovar a adequação às leis.",
+   "severity": "alta",
+   "status": "🔴 multa aplicada"
+  },
+  {
+   "ref": "PAP 23/80101714",
+   "cidade": "Siderópolis",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE não conheceu representação sobre pregão de Siderópolis e arquivou o caso",
+   "description": "Uma representação apontava supostas irregularidades no Pregão Presencial 48/2023 da Prefeitura de Siderópolis. O Tribunal de Contas decidiu não conhecer da representação, por ela não preencher os requisitos mínimos de admissibilidade, e determinou o arquivamento dos autos. O mérito das acusações não chegou a ser examinado e ninguém foi responsabilizado.",
+   "severity": "media",
+   "status": "🟢 arquivado"
+  },
+  {
+   "ref": "RLI 23/00299229",
+   "cidade": "Siderópolis",
+   "tipo": "tce",
+   "keep": true,
+   "title": "Inspeção sobre transparência terminou com multa de R$ 2 mil ao prefeito de Siderópolis",
+   "description": "O Tribunal de Contas fiscalizava se a Prefeitura de Siderópolis havia cumprido a Lei da Liberdade Econômica e a Lei estadual 18.091/2021. A Corte concluiu que o município ignorou quatro pedidos de informação e multou o prefeito Ângelo Franqui Salvaro em R$ 2.000,00. Foi dado prazo de 15 dias para a prefeitura comprovar a adequação às normas.",
+   "severity": "alta",
+   "status": "🔴 multa aplicada"
+  }
+ ]
+}

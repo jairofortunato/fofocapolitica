@@ -1,0 +1,170 @@
+[0m
+> build · gpt-5.4-mini
+[0m
+Vou começar lendo o critério editorial e inspecionando os lotes para localizar as fontes de cada caso antes de julgar qualquer item.
+[0m→ [0mRead pdf_template/CURADORIA.md
+[0m→ [0mRead pdf_template/amunesc/_lotes/balneario_barra_do_sul__0.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/balneario_barra_do_sul__1.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/araquari__3.json
+Já localizei um ponto importante: há duplicatas/republicações e fases repetidas que precisam ser cortadas por número de processo, então vou terminar de ler os trechos restantes antes de julgar.
+[0m→ [0mRead pdf_template/amunesc/_lotes/araquari__3.json[90m [offset=282, limit=300][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes/balneario_barra_do_sul__0.json[90m [offset=555, limit=400][0m
+Agora vou fechar os trechos ambíguos de Araquari para separar o que é registro previdenciário de rotina, o que é instrução em andamento, e o que realmente gera card.
+[0m→ [0mRead pdf_template/amunesc/_lotes/araquari__3.json[90m [offset=160, limit=20][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes/araquari__3.json[90m [offset=274, limit=25][0m
+[0m
+[0m# [0mTodos
+[✓] Ler critério editorial e fontes dos lotes
+[•] Julgar e curar lote Araquari __3
+[ ] Julgar e curar lote Balneário Barra do Sul __0
+[ ] Julgar e curar lote Balneário Barra do Sul __1
+[ ] Verificar totais e gravar JSONs curados
+[0m
+[0m✱ [0mGlob "pdf_template/amunesc/_lotes_curados/*"[90m in . · 0 matches[0m
+Vou automatizar a curadoria com um pequeno script, porque os lotes têm muitas entradas e a saída precisa manter o alinhamento posicional sem erro manual.
+[0m✱ [0mGlob "scripts"[90m in . · 0 matches[0m
+[0m✱ [0mGlob "package.json"[90m in . · 0 matches[0m
+[0m% [0mPatch 1 file
+O script ficou com um detalhe estrutural: no lote de Barra do Sul há `mp` e `tce` com os mesmos índices, então vou trocar a chave de curadoria para incluir o tipo e evitar sobrescrita silenciosa.
+[0m% [0mPatch 1 file
+Vou gerar os JSONs curados agora e depois conferir se os arquivos ficaram alinhados com a ordem original e com os totais pedidos.
+[0m
+[0m$ [0mls pdf_template/amunesc/_lotes_curados
+araquari__0.json
+araquari__1.json
+araquari__2.json
+campo_alegre__0.json
+campo_alegre__1.json
+garuva__1.json
+garuva__2.json
+itapoa__0.json
+itapoa__1.json
+itapoa__2.json
+itapoa__3.json
+itapoa__4.json
+rio_negrinho__0.json
+[0m
+[0m$ [0mnode tools/curate_amunesc.js
+(no output)
+[0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/balneario_barra_do_sul__0.json[90m [offset=1, limit=40][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/araquari__3.json[90m [offset=1, limit=40][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/balneario_barra_do_sul__1.json[90m [offset=1, limit=40][0m
+Os arquivos foram gerados. Agora vou validar os totais `keep:true` e `severity alta` por lote para garantir que o resumo final bata com a saída.
+[0m
+[0m$ [0mnode -e "const fs=require('fs');const p='pdf_template/amunesc/_lotes_curados/araquari__3.json';const a=JSON.parse(fs.readFileSync(p,'utf8'));console.log(a.length, a.filter(x=>x.keep).length, a.filter(x=>x.severity==='alta').length);"
+54 21 2
+[0m
+[0m$ [0mnode -e "const fs=require('fs');const p='pdf_template/amunesc/_lotes_curados/balneario_barra_do_sul__0.json';const a=JSON.parse(fs.readFileSync(p,'utf8'));console.log(a.length, a.filter(x=>x.keep).length, a.filter(x=>x.severity==='alta').length);"
+70 30 1
+[0m
+[0m$ [0mnode -e "const fs=require('fs');const p='pdf_template/amunesc/_lotes_curados/balneario_barra_do_sul__1.json';const a=JSON.parse(fs.readFileSync(p,'utf8'));console.log(a.length, a.filter(x=>x.keep).length, a.filter(x=>x.severity==='alta').length);"
+20 2 0
+[0m
+Vou limpar o script auxiliar depois da geração para deixar no workspace só os JSONs curados solicitados.
+[0m% [0mPatch 1 file
+[0m
+[0m$ [0mgit status --short
+M .gitignore
+ M build_regioes.py
+ M build_regioes_tce.py
+ M pdf_template/README.md
+ M pdf_template/amrec/amrec_cover.html
+ M pdf_template/amrec/amrec_cta.html
+ M pdf_template/amrec/amrec_full.html
+ M pdf_template/amrec/amrec_full_css.css
+ M pdf_template/amrec/gen_amrec.py
+ M pdf_template/amrec/gen_amrec_full.py
+ M pdf_template/assets/logo-branco.png
+ M pdf_template/assets/logo-preto.png
+ M pdf_template/modelo-transparencia-radical.html
+ D resumos/TESTE-criciuma-simples.md
+ D resumos/TESTE-criciuma-simples.pdf
+ D resumos/Transparencia-Radical-AMREC-FILTRADO.pdf
+ D resumos/Transparencia-Radical-AMREC-TODOS.pdf
+ D resumos/Transparencia-Radical-AMREC-completo.pdf
+ D resumos/Transparencia-Radical-AMREC.pdf
+ M tcesc/parse_tcesc.py
+ M tcesc/resumos/regioes/regiao-amai-tce.md
+ M tcesc/resumos/regioes/regiao-amarp-tce.md
+ M tcesc/resumos/regioes/regiao-amauc-tce.md
+ M tcesc/resumos/regioes/regiao-amavi-tce.md
+ M tcesc/resumos/regioes/regiao-ameosc-tce.md
+ M tcesc/resumos/regioes/regiao-amerios-tce.md
+ M tcesc/resumos/regioes/regiao-amesc-tce.md
+ M tcesc/resumos/regioes/regiao-amfri-tce.md
+ M tcesc/resumos/regioes/regiao-ammoc-tce.md
+ M tcesc/resumos/regioes/regiao-ammvi-tce.md
+ M tcesc/resumos/regioes/regiao-amnoroeste-tce.md
+ M tcesc/resumos/regioes/regiao-amosc-tce.md
+ M tcesc/resumos/regioes/regiao-amplanorte-tce.md
+ M tcesc/resumos/regioes/regiao-amplasc-tce.md
+ M tcesc/resumos/regioes/regiao-amrec-tce.md
+ M tcesc/resumos/regioes/regiao-amunesc-tce.md
+ M tcesc/resumos/regioes/regiao-amurc-tce.md
+ M tcesc/resumos/regioes/regiao-amurel-tce.md
+ M tcesc/resumos/regioes/regiao-amures-tce.md
+ M tcesc/resumos/regioes/regiao-amvali-tce.md
+ M tcesc/resumos/regioes/regiao-granfpolis-tce.md
+?? ammvi/
+?? docs/
+?? pdf_template/CURADORIA.md
+?? pdf_template/HANDOFF.md
+?? pdf_template/amesc/
+?? pdf_template/ammvi/
+?? pdf_template/amrec/_build/
+?? pdf_template/amrec/_curated_data/
+?? pdf_template/amrec/_tmp_04_cover_forquilhinha.html_profile/
+?? pdf_template/amrec/assets/anton.woff2
+?? pdf_template/amrec/assets/archivo-400.woff2
+?? pdf_template/amrec/assets/archivo-700.woff2
+?? pdf_template/amrec/assets/archivo-800.woff2
+?? pdf_template/amrec/assets/bandeira.png
+?? pdf_template/amrec/assets/brasao.png
+?? pdf_template/amrec/assets/cidades
+?? pdf_template/amrec/assets/fonts.css
+?? pdf_template/amrec/assets/foto-full.png
+?? pdf_template/amrec/assets/foto.png
+?? pdf_template/amrec/assets/logo-branco.png
+?? pdf_template/amrec/assets/logo-preto.png
+?? pdf_template/amrec/criciuma_preview.html
+?? pdf_template/amrec/gen_amrec_curated.py
+?? pdf_template/amrec/gen_criciuma_preview.py
+?? pdf_template/amunesc/
+?? pdf_template/amurel/_build/
+?? pdf_template/amurel/assets/
+?? pdf_template/amurel/cores.json
+?? pdf_template/amurel/financas.json
+?? pdf_template/amurel/tmpepu4gife.html
+?? pdf_template/amures/
+?? pdf_template/amvali/
+?? pdf_template/apply_status.py
+?? pdf_template/apply_tce.py
+?? pdf_template/apply_tce2.py
+?? pdf_template/assemble_curated.py
+?? pdf_template/check_conselheiros.py
+?? pdf_template/curar.sh
+?? pdf_template/dl_assets.py
+?? pdf_template/enrich_tce.py
+?? pdf_template/extract_city_raw.py
+?? pdf_template/gen_cores.py
+?? pdf_template/gen_dossie.py
+?? pdf_template/make_batches.py
+?? pdf_template/make_status_batches.py
+?? pdf_template/make_tce_batches.py
+?? pdf_template/migrar_amrec.py
+?? pdf_template/regiao_config.py
+?? pdf_template/templates/
+?? resumos/dossies-cidades/
+?? tcesc/txt/
+[0m
+[0m$ [0mnode -e "const fs=require('fs');for (const p of ['pdf_template/amunesc/_lotes_curados/araquari__3.json','pdf_template/amunesc/_lotes_curados/balneario_barra_do_sul__0.json','pdf_template/amunesc/_lotes_curados/balneario_barra_do_sul__1.json']) {const a=JSON.parse(fs.readFileSync(p,'utf8')); console.log(p.split('/').pop(), a.filter(x=>x.keep).length, a.filter(x=>x.severity==='alta').length);} "
+araquari__3.json 21 2
+balneario_barra_do_sul__0.json 30 1
+balneario_barra_do_sul__1.json 2 0
+[0m
+Arquivos curados gravados em `pdf_template/amunesc/_lotes_curados/`:
+
+- `araquari__3.json`: 54 casos, 21 `keep:true`, 2 `severity: alta`
+- `balneario_barra_do_sul__0.json`: 70 casos, 30 `keep:true`, 1 `severity: alta`
+- `balneario_barra_do_sul__1.json`: 20 casos, 2 `keep:true`, 0 `severity: alta`

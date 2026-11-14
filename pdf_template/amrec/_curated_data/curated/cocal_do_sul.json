@@ -1,0 +1,274 @@
+{
+ "mp": [
+  {
+   "ref": "06.2024.00004106-0",
+   "cidade": "Cocal do Sul",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura suspeita de superfaturamento em compras de flores para prefeitura de Cocal do Sul",
+   "description": "O Ministério Público abriu inquérito para investigar possível superfaturamento em despesas com floricultura no Município de Cocal do Sul entre 2021 e 2023, o que poderia configurar improbidade administrativa e dano ao erário. O caso ainda está sendo apurado.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2025.00000358-0",
+   "cidade": "Cocal do Sul",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP move ação sobre compra de terreno para nova área industrial de Cocal do Sul",
+   "description": "Investigação apurou suspeita de sobrepreço na desapropriação de imóveis para a 5ª Área Industrial de Cocal do Sul. Perícia técnica do MP analisou a regularidade da escolha da área e a compatibilidade dos valores pagos com o mercado imobiliário. O Ministério Público já ajuizou ação civil pública sobre o caso, que segue tramitando na Justiça.",
+   "severity": "alta",
+   "status": "❔ status indef."
+  },
+  {
+   "ref": "06.2025.00001120-3",
+   "cidade": "Cocal do Sul",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura pagamento de horas extras a servidores de Cocal do Sul e já aciona a Justiça",
+   "description": "Investigação analisou denúncias de excesso de horas extras pagas a servidores públicos de Cocal do Sul em 2023. A prefeitura apresentou documentos mostrando que as horas extras corresponderam a serviços reais, como transporte de pacientes e transporte escolar, e o MP não encontrou provas de prejuízo aos cofres públicos. Ainda assim, o Ministério Público ajuizou ação civil pública sobre o caso.",
+   "severity": "media",
+   "status": "❔ status indef."
+  },
+  {
+   "ref": "06.2026.00001999-8",
+   "cidade": "Cocal do Sul",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investiga se prefeitura de Cocal do Sul furou fila de aprovados em processo seletivo",
+   "description": "Ministério Público apura se Cocal do Sul usou critérios ilegais para preencher vagas extras e mudar a carga horária no Processo Seletivo 003/2025, preterindo candidatos mais bem classificados. Investigação também analisa possível improbidade administrativa. Caso ainda em apuração.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2023.00001283-8",
+   "cidade": "Cocal do Sul",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura irregularidades em concurso da Câmara de Vereadores de Cocal do Sul",
+   "description": "Investigação sobre possíveis irregularidades no concurso público realizado pela Câmara de Vereadores de Cocal do Sul em 2022, organizado pela banca Centro de Estudos UNIASE. Caso ainda está em apuração.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2022.00002950-3",
+   "cidade": "Cocal do Sul",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investiga esquema em pátio de carros apreendidos com policial militar em Cocal do Sul",
+   "description": "Ministério Público apura possíveis atos de improbidade envolvendo Rubens Biazoto de Souza, responsável pelo pátio de veículos apreendidos em Cocal do Sul, e o policial militar Marcelo Medeiros Benitez. Investigação ainda em andamento.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2018.00002993-5",
+   "cidade": "Cocal do Sul",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva denúncia sobre prova identificada em concurso de Cocal do Sul",
+   "description": "Inquérito apurou denúncia de que provas do concurso público de Cocal do Sul teriam sido entregues com identificação dos candidatos pela empresa organizadora NBS Serviços Especializados, o que poderia comprometer a lisura do certame. O MP não encontrou provas de irregularidade e concluiu não haver ato de improbidade. Caso arquivado.",
+   "severity": "media"
+  },
+  {
+   "ref": "01.2024.00024245-2",
+   "cidade": "Cocal do Sul",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva denúncia sobre concurso público de Cocal do Sul realizado em 2024",
+   "description": "Denúncia apontava irregularidades no concurso público realizado pela prefeitura de Cocal do Sul em junho de 2024, incluindo critério de pontuação considerado inadequado para tempo de serviço dos candidatos. O caso foi arquivado pelo Ministério Público.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2022.00001763-0",
+   "cidade": "Cocal do Sul",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP confirma contratação irregular de enfermeiras em Cocal do Sul, mas dispensa nova ação",
+   "description": "Investigação apurou contratação direta e irregular de três enfermeiras em Cocal do Sul, driblando o Concurso Público 01/2017. A irregularidade foi confirmada, mas como já existia decisão judicial obrigando o município a regularizar as contratações, o MP considerou desnecessário abrir nova ação. Caso encerrado.",
+   "severity": "media"
+  },
+  {
+   "ref": "09.2022.00001726-2",
+   "cidade": "Cocal do Sul",
+   "tipo": "mp",
+   "keep": false,
+   "title": "MP acompanha cumprimento de decisão ambiental em Cocal do Sul",
+   "description": "Procedimento apenas para acompanhar se a prefeitura está cumprindo decisão judicial que exige a elaboração de um diagnóstico socioambiental. Não há indício de irregularidade concreta, apenas fiscalização de rotina.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2018.00001568-5",
+   "cidade": "Cocal do Sul",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cobra melhorias na Vigilância Sanitária de Cocal do Sul e prefeitura se ajusta",
+   "description": "Inquérito apurou falhas na Vigilância Sanitária de Cocal do Sul, como a falta de preenchimento do sistema oficial (Pharos) e ausência de autuação de procedimentos. Após pressão do MP, o município se adequou, incluiu recursos no orçamento e reforçou os serviços de vigilância. Caso concluído com adequação da prefeitura.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2019.00002330-1",
+   "cidade": "Cocal do Sul",
+   "tipo": "mp",
+   "keep": false,
+   "title": "MP verifica ações contra dengue em Cocal do Sul e arquiva caso por resultado positivo",
+   "description": "Ministério Público acompanhou as medidas da prefeitura de Cocal do Sul contra a proliferação do mosquito da dengue. Como o município ficou sem novos casos da doença desde 2021, o caso foi arquivado sem irregularidade.",
+   "severity": "media"
+  },
+  {
+   "ref": "09.2024.00003268-2",
+   "cidade": "Cocal do Sul",
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP fiscaliza reparação de área de Mata Atlântica desmatada em Cocal do Sul",
+   "description": "Procedimento acompanha o cumprimento de decisão judicial que obriga a reparação de dano ambiental em 6,6 hectares de vegetação nativa da Mata Atlântica, em um imóvel de Cocal do Sul. Caso ainda em andamento.",
+   "severity": "media"
+  },
+  {
+   "ref": "06.2021.00003670-0",
+   "cidade": "Cocal do Sul",
+   "tipo": "mp",
+   "keep": true,
+   "title": "Proprietários fecham acordo com MP após dano ambiental em área rural de Cocal do Sul",
+   "description": "Investigação apurou infração ambiental cometida por Jaime Santana Valsechi e José Aldo Furlan em propriedade rural de Cocal do Sul, próximo ao Rio Perço. Os responsáveis assinaram Termo de Ajustamento de Conduta (TAC) para reparar o dano. Caso concluído.",
+   "severity": "media"
+  }
+ ],
+ "tce": [
+  {
+   "ref": "LCC 24/00578723",
+   "cidade": "Cocal do Sul",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE susta contrato de R$ 1,8 milhão de advocacia sem licitação em Cocal do Sul",
+   "description": "O Tribunal de Contas deferiu medida cautelar sustando todos os atos do Contrato n. 48/PMCS/2023, inclusive pagamentos, firmado por inexigibilidade de licitação entre a Prefeitura de Cocal do Sul e o escritório Nilo & Almeida Advogados Associados para acionar a ANP por royalties, ao valor estimado de R$ 1.800.000,00. O TCE apontou falta de singularidade no objeto, remuneração atrelada ao ganho do município e preço sem justificativa. O prefeito Fernando de Fáveri Marcelino foi chamado a apresentar justificativas em 30 dias, sob pena de multa.",
+   "severity": "media",
+   "status": "🟠 cautelar / sustação"
+  },
+  {
+   "ref": "REP 26/00066297",
+   "cidade": "Cocal do Sul",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE nega suspensão de pregão de software da Saúde de Cocal do Sul e pede explicações",
+   "description": "A empresa CELK Sistemas representou contra o Pregão Eletrônico n. 07/FMS/2025 do Fundo Municipal de Saúde de Cocal do Sul, que prevê R$ 270 mil para licença de software de registro eletrônico em saúde. O Tribunal de Contas conheceu a representação, mas negou a medida cautelar de suspensão, por risco de prejuízo maior com a paralisação. Determinou diligência a Ademir Magagnin, subscritor do edital, para em 15 dias explicar os indícios apontados e detalhar como foi avaliada a prova de conceito da empresa vencedora.",
+   "severity": "media",
+   "status": "❔ em tramitação"
+  },
+  {
+   "ref": "LCC 24/00578723",
+   "cidade": "Cocal do Sul",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE mantém sustação de contrato de advocacia por royalties em Cocal do Sul",
+   "description": "Nova decisão no mesmo caso mantém a sustação cautelar do Contrato n. 48/PMCS/2023, firmado sem licitação pela Prefeitura de Cocal do Sul com o escritório Nilo & Almeida Advogados Associados, no valor estimado de R$ 1.800.000,00, para acionar a ANP por royalties. Continuam apontadas a falta de singularidade do objeto, a remuneração vinculada ao ganho do município e a ausência de justificativa de preço. O prefeito Fernando de Fáveri Marcelino segue chamado a se justificar.",
+   "severity": "media",
+   "status": "🟠 cautelar / sustação"
+  },
+  {
+   "ref": "DEN 24/80074247",
+   "cidade": "Cocal do Sul",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE apura denúncia sobre excesso de professores temporários em Cocal do Sul",
+   "description": "O Tribunal de Contas apura denúncia sobre a desproporção entre professores contratados em caráter temporário e professores efetivos na rede municipal de Cocal do Sul. A decisão publicada junto a este registro trata de outro processo, envolvendo o consórcio CINCATARINA, e não permite afirmar o desfecho do caso dos professores. Nada foi confirmado nem afastado até aqui.",
+   "severity": "media",
+   "status": "❔ em tramitação"
+  },
+  {
+   "ref": "PAP 24/80074247",
+   "cidade": "Cocal do Sul",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE convoca prefeito e secretário de Cocal do Sul por excesso de professores temporários",
+   "description": "O Tribunal de Contas converteu a apuração em denúncia e determinou a audiência do prefeito em exercício de Cocal do Sul, Erik Pereira Zeferino, e do secretário municipal de Educação, Adilson Pagani Ramos. Segundo a decisão, o município não cumpre a meta do Plano Nacional de Educação de ter ao menos 90% dos professores em cargo efetivo e mantém um número expressivo de professores temporários (ACTs), o que descaracteriza a necessidade temporária e contraria a Constituição. Os dois têm 30 dias para apresentar justificativas.",
+   "severity": "media",
+   "status": "🟡 em instrução (citação/audiência)"
+  },
+  {
+   "ref": "REP 25/00006527",
+   "cidade": "Cocal do Sul",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE ouve pregoeiro de Cocal do Sul sobre desclassificação em pregão de merenda",
+   "description": "O Tribunal de Contas conheceu a representação da empresa Nossa Roça Comércio de Hortícolas contra o Pregão Eletrônico n. 01/PMCS/2025 da Prefeitura de Cocal do Sul, que registra preços de gêneros alimentícios para a merenda de toda a rede municipal, no valor previsto de R$ 1.394.198,47. A empresa questiona sua desclassificação. O TCE adiou a análise do pedido de suspensão e determinou a oitiva prévia do pregoeiro Fabiano Bolsini Francisco, com prazo de cinco dias.",
+   "severity": "media",
+   "status": "🟡 em instrução (citação/audiência)"
+  },
+  {
+   "ref": "REP 24/00605550",
+   "cidade": "Cocal do Sul",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE apura suspeita de superfaturamento em terreno de R$ 2,6 mi em Cocal do Sul",
+   "description": "O Tribunal de Contas conheceu a representação sobre possíveis irregularidades na compra, pela Prefeitura de Cocal do Sul, de um terreno de R$ 2.600.000,00 destinado à instalação da 5ª Área Industrial do município. Nesta decisão o tribunal apenas determinou diligência ao prefeito Ademir Magagnin, para que envie em 30 dias a cópia integral do processo de compra. Não há conclusão sobre a existência de superfaturamento.",
+   "severity": "media",
+   "status": "❔ em tramitação"
+  },
+  {
+   "ref": "REP 25/00006527",
+   "cidade": "Cocal do Sul",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE analisa disputa sobre pregão de merenda de R$ 1,4 milhão em Cocal do Sul",
+   "description": "O Tribunal de Contas conheceu a representação da empresa Nossa Roça Comércio de Hortícolas contra o Pregão Eletrônico n. 001/2025 da Prefeitura de Cocal do Sul, de R$ 1.394.198,47, para compra de gêneros alimentícios da merenda escolar. O ponto em discussão é a desclassificação da própria empresa. A análise da suspensão foi adiada e o pregoeiro foi chamado a se manifestar; não há decisão de mérito confirmando irregularidade.",
+   "severity": "media",
+   "status": "🟡 em instrução (citação/audiência)"
+  },
+  {
+   "ref": "DEN 24/80074247",
+   "cidade": "Cocal do Sul",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE analisa denúncia sobre professores temporários em Cocal do Sul",
+   "description": "Denúncia sobre a desproporção entre professores contratados em caráter temporário e professores efetivos na rede municipal de Cocal do Sul, com Erik Pereira Zeferino e Adilson Pagani Ramos citados como responsáveis. O material publicado junto a este registro traz decisão de outro processo e não permite afirmar o desfecho.",
+   "severity": "media",
+   "status": "❔ em tramitação"
+  },
+  {
+   "ref": "DEN 24/80074247",
+   "cidade": "Cocal do Sul",
+   "tipo": "tce",
+   "keep": true,
+   "title": "Caso dos professores temporários de Cocal do Sul segue sem desfecho publicado no TCE",
+   "description": "O registro trata da denúncia sobre a desproporção entre professores temporários e efetivos em Cocal do Sul, tendo Erik Pereira Zeferino e Adilson Pagani Ramos como responsáveis citados, e menciona um recurso de reexame. A decisão publicada junto ao caso, porém, é de outro processo, sobre o consórcio CINCATARINA. Não é possível afirmar que a irregularidade foi mantida nem que foi afastada.",
+   "severity": "media",
+   "status": "❔ em tramitação"
+  },
+  {
+   "ref": "REP 24/00605399",
+   "cidade": "Cocal do Sul",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE não conhece denúncia sobre pagamentos a transportadoras em Cocal do Sul",
+   "description": "O Tribunal de Contas decidiu não conhecer a representação sobre supostas irregularidades na liquidação de despesas com as empresas Transportes Bortolatto e Correa Nunes, contratadas pela Prefeitura de Cocal do Sul, por não estarem preenchidos os critérios de admissibilidade. O caso não foi julgado no mérito: o TCE apenas notificou a Controladoria-Geral do município para verificar o que for necessário.",
+   "severity": "media",
+   "status": "🟢 julgado regular"
+  },
+  {
+   "ref": "REP 24/00605631",
+   "cidade": "Cocal do Sul",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva denúncia sobre contratações para evento em Cocal do Sul",
+   "description": "O Tribunal de Contas decidiu não conhecer a representação apresentada por Maria Luiza da Rolt sobre supostas irregularidades em contratações da Prefeitura de Cocal do Sul para a realização de um evento, por não terem sido atingidos os critérios de seletividade. O processo foi encerrado e arquivado, sem julgamento do mérito e sem responsabilizar ninguém.",
+   "severity": "media",
+   "status": "🟢 julgado regular"
+  },
+  {
+   "ref": "PAP 22/80006531",
+   "cidade": "Cocal do Sul",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva apuração sobre atribuições de servidor em Cocal do Sul",
+   "description": "O Tribunal de Contas arquivou o procedimento apuratório preliminar sobre supostas irregularidades nas atribuições desempenhadas por um servidor da Prefeitura de Cocal do Sul, aberto a partir de comunicação de Samanta Bernardo Duarte, por não atender aos requisitos de seletividade. O tribunal notificou o controle interno do município para adotar providências preventivas e mandou incluir os fatos em sua base de dados. Ninguém foi responsabilizado.",
+   "severity": "media",
+   "status": "🟢 julgado regular"
+  },
+  {
+   "ref": "REC 25/00155360",
+   "cidade": "Cocal do Sul",
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE nega recurso de escritório e mantém suspenso contrato de advocacia em Cocal do Sul",
+   "description": "O escritório Nilo & Almeida Advogados Associados entrou com agravo contra a decisão que sustou o contrato de serviços advocatícios firmado sem licitação com a Prefeitura de Cocal do Sul. O Tribunal de Contas conheceu o recurso e, no mérito, negou-lhe provimento, mantendo a medida cautelar que bloqueia os atos e pagamentos do contrato.",
+   "severity": "media",
+   "status": "🟠 cautelar / sustação"
+  }
+ ]
+}

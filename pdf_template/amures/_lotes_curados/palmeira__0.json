@@ -1,0 +1,344 @@
+[
+ {
+  "i": 0,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP investigou suspeita de fraude em pregão de motoniveladora em Palmeira e arquivou o caso",
+  "description": "Inquérito civil apurou se as exigências do Pregão Eletrônico 3/2020 da Prefeitura de Palmeira, para compra de uma motoniveladora, restringiram a competição e configuraram fraude à licitação. O edital exigia que o fabricante do motor e da máquina fossem o mesmo, e as demais empresas participantes acabaram inabilitadas. O MP concluiu que a exigência era opção técnica justificada e que as alegações de fraude não tinham comprovação, arquivando o inquérito em 2023 sem responsabilizar ninguém.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 1,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou fraude em licitações e carro em nome de laranja ligado a ex-prefeito de Palmeira",
+  "description": "Inquérito civil investigou suposto dano ao erário atribuído ao ex-prefeito Osni Francisco de Sousa e à empresa de Renata Correia Lehmkhl, representada por Marcos Venício Schmidt: as licitações 02/2010 e 03/2011 teriam sido fraudadas e a propriedade do carro objeto dos contratos (um Renault Sandero) teria sido simulada, pois o veículo pertenceria de fato ao então prefeito. Houve ação penal correlata, mas o texto publicado está truncado e não permite afirmar o desfecho do inquérito, concluído em 2023.",
+  "status": "❔ status indef.",
+  "severity": "alta"
+ },
+ {
+  "i": 2,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 3,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 4,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou falta de enfermeira em posto de saúde de Palmeira e arquivou após verificação",
+  "description": "A partir de denúncia anônima, o MP abriu inquérito civil para apurar deficiência no atendimento da unidade básica de saúde da localidade de Mato Escuro, em Palmeira, porque a enfermeira efetiva foi afastada sem contratação temporária de substituta. Ao final, o promotor concluiu não haver fundamento para ação judicial e arquivou o caso em março de 2026.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 5,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 6,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 7,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 8,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 9,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 10,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 11,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 12,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 13,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 14,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 15,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 16,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 0,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE mantém bloqueio de pagamentos de obra de asfalto mal executada em Palmeira",
+  "description": "Auditoria do TCE na obra de pavimentação asfáltica, passeios e drenagem de avenidas de Palmeira (Contrato 15/2024, com a Construtora Branger) encontrou problemas na execução das camadas de sub-base, base e imprimação. O relator manteve a medida cautelar que susta os pagamentos dos serviços de pavimentação e deu 60 dias úteis para a prefeitura apresentar laudo técnico, medidas de correção e providências contra a contratada. O caso segue em instrução, aguardando nova inspeção técnica.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "alta"
+ },
+ {
+  "i": 1,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE acolhe denúncia contra pregão de R$ 2,9 mi de Palmeira que barrava empresas de longe",
+  "description": "A empresa Epsitêmica representou ao TCE contra o Pregão Eletrônico 08/2025 da Prefeitura de Palmeira, de contratação de serviços terceirizados no valor previsto de R$ 2,9 milhões. O Tribunal julgou a representação procedente: a exigência de que a empresa ficasse a no máximo 100 km do município era cláusula restritiva à competição, contrária à Lei de Licitações e à Constituição. O TCE determinou que a prefeitura não repita esse tipo de exigência e arquivou o processo em fevereiro de 2026.",
+  "status": "🔴 apontou irregularidade",
+  "severity": "media"
+ },
+ {
+  "i": 2,
+  "tipo": "tce",
+  "keep": true,
+  "title": "Suspeita de superfaturamento leva TCE a sustar pagamentos de obra de avenidas em Palmeira",
+  "description": "No acompanhamento da obra de pavimentação das avenidas Alexandre Murara, Ricardo Beffart e Roberto Hemkemaier (Contrato 15/2024), a área técnica do TCE apontou qualidade deficiente das camadas de pavimentação e ausência de controle tecnológico, com risco de pagamento irregular por superfaturamento. Foi determinada cautelarmente à prefeita Fernanda de Souza Córdova a sustação dos pagamentos à Construtora Branger e aberta audiência do fiscal do contrato, Heitor Bosso, para apresentar defesa. O processo segue em apuração no Tribunal.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "alta"
+ },
+ {
+  "i": 3,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 4,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 5,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 6,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 7,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 8,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 9,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 10,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva denúncia sobre leilão de Palmeira, mas recomenda licitação para leiloeiro",
+  "description": "Um leiloeiro comunicou ao TCE suposta irregularidade na contratação direta de leiloeiro oficial para o Leilão 001/2022, de venda de bens inservíveis da Prefeitura de Palmeira. O Tribunal negou a cautelar pedida e arquivou o caso sem analisar o mérito, por não atingir a pontuação mínima de seletividade. Ainda assim, recomendou à prefeita que passe a fazer licitação (pregão) ou credenciamento para esse tipo de contratação, em respeito à isonomia e à impessoalidade.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 11,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 12,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 13,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquivou sem apurar denúncia sobre contratação da Banda do Papai Noel em Palmeira",
+  "description": "Denúncia recebida pela Ouvidoria do TCE apontava supostas irregularidades na contratação, sem licitação (inexigibilidade 04/2021), do grupo vocal MRKA e da Banda do Papai Noel pela Prefeitura de Palmeira, no valor de R$ 9.500. O Tribunal arquivou o procedimento em 2022 por não atingir os critérios de seletividade, sem examinar o mérito da denúncia — ou seja, a suspeita não chegou a ser apurada.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 14,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE julgou improcedente denúncia sobre uso de verbas do Fundeb em Palmeira",
+  "description": "Uma representação apontava supostas irregularidades na aplicação dos recursos do Fundeb repassados ao Município de Palmeira, com alcance ao exercício de 2019. O TCE conheceu a representação, mas a julgou improcedente, de acordo com os pareceres técnicos emitidos nos autos, e arquivou o processo em março de 2022. Nenhuma irregularidade foi confirmada.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 15,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 16,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aponta atraso reincidente nas contas e falta de Conselho do Idoso em Palmeira",
+  "description": "Inspeção do Tribunal de Contas sobre as finanças de Palmeira julgou irregulares três pontos: atraso reincidente no envio da prestação de contas da prefeita, ausência de criação do Conselho Municipal do Idoso e superestimativa das receitas de transferências de capital nos orçamentos de 2020 a 2022. O TCE determinou à prefeita Fernanda de Souza Córdova que não repita as falhas e mandou monitorar a disponibilidade financeira do município até o fim do mandato. Não houve multa nesta decisão, de junho de 2024.",
+  "status": "⬛ julgado irregular",
+  "severity": "media"
+ },
+ {
+  "i": 17,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 18,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE multa prefeita e controladora de Palmeira por atraso no envio de dados; recurso tramita",
+  "description": "O Tribunal de Contas aplicou multa de R$ 3.440,04 à prefeita Fernanda de Souza Córdova e igual valor à então gestora da Controladoria-Geral, Stephanie Santos Barg, por atraso no envio dos dados de execução orçamentária, contábeis e tributários de 2023 ao sistema e-Sfinge, usado na fiscalização das contas municipais. Contra a decisão foi apresentado recurso de reexame, que está em análise no Tribunal — o desfecho final ainda depende desse julgamento.",
+  "status": "🔴 multa aplicada",
+  "severity": "alta"
+ },
+ {
+  "i": 19,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 20,
+  "tipo": "tce",
+  "keep": true,
+  "title": "Palmeira elabora Plano Diretor cobrado pelo TCE, e inspeção por descumprimento é arquivada",
+  "description": "O TCE havia aberto inspeção por descumprimento injustificado de decisão que determinava ao Município de Palmeira elaborar seu Plano Diretor. Como a prefeitura comprovou o atendimento da determinação, reconhecido em decisão de 2025, o Tribunal arquivou a inspeção em fevereiro de 2026. A pendência foi resolvida sem punição.",
+  "status": "🟢 recomendação cumprida",
+  "severity": "media"
+ }
+]

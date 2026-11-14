@@ -7,8 +7,8 @@ import html, re, os
 from gen_amrec import CITY_COLOR, FINANCAS, IMGS, fmt_brl, fmt_pop, ORDEM, esc
 
 ASSETS = "./assets"
-MP_MD  = "/Users/jairofortunato/Desktop/mp/resumos/regioes/regiao-amrec.md"
-TCE_MD = "/Users/jairofortunato/Desktop/mp/tcesc/resumos/regioes/regiao-amrec-tce.md"
+MP_MD  = "/Users/jairofortunato/mp/resumos/regioes/regiao-amrec.md"
+TCE_MD = "/Users/jairofortunato/mp/tcesc/resumos/regioes/regiao-amrec-tce.md"
 
 MESES_PT = {1:"JAN",2:"FEV",3:"MAR",4:"ABR",5:"MAI",6:"JUN",7:"JUL",8:"AGO",9:"SET",10:"OUT",11:"NOV",12:"DEZ"}
 
@@ -62,7 +62,7 @@ def has_specificity(*texts):
             return True
     return False
 
-def keep_mp_case(status, *texts):
+def keep_mp_case(status, star, *texts):
     if any(status.startswith(s) for s in TEETH):
         return True
     blob = " ".join(t for t in texts if t)
@@ -70,7 +70,10 @@ def keep_mp_case(status, *texts):
         return True
     if NO_MERIT_RE.search(blob):
         return False
-    return has_specificity(*texts)
+    # caso ainda sem desfecho: só entra se for de alta relevância política
+    # (⭐ score≥12) e tiver algo concreto (nome próprio ou valor em R$) — sem
+    # isso é apuração de rotina, não "fofoca".
+    return star == '⭐' and has_specificity(*texts)
 
 TCE_ROUTINE_RE = re.compile(
     r"ato de aposentadoria|ato de concessão de pensão|registro d[eo] ato de (?:pensão|aposentadoria)"
@@ -78,16 +81,19 @@ TCE_ROUTINE_RE = re.compile(
     re.IGNORECASE,
 )
 
-def keep_tce_case(status, assunto=""):
+def keep_tce_case(status, star, assunto=""):
     if status in ("🟢 julgado regular", "🟢 parecer pela aprovação"):
         return False
+    strong = status.startswith("🔴") or status.startswith("🟠") or status.startswith("⬛ julgado irregular")
     # registro individual de aposentadoria/pensão é rotina administrativa —
     # só interessa se o TCE de fato apontou problema nele.
     if TCE_ROUTINE_RE.search(assunto or ""):
-        strong = status.startswith("🔴") or status.startswith("🟠") or status.startswith("⬛ julgado irregular")
-        if not strong:
-            return False
-    return True
+        return strong
+    if strong:
+        return True
+    # sem irregularidade/multa/sustação confirmada: só entra se for de alta
+    # relevância política (⭐ score≥12) — o resto é trâmite administrativo comum.
+    return star == '⭐'
 
 def sections(path):
     txt = open(path).read()
@@ -132,17 +138,19 @@ MP_OUT = {
     'ACP em curso':'Ação na Justiça em curso', 'prescrito':'Prescrito', 'status indef.':'Em tramitação',
 }
 
-def clean(t, n):
-    t = re.sub(r'\s+', ' ', t or '').strip()
-    return (t[:n-1] + '…') if len(t) > n else t
+def clean(t, n=None):
+    # normaliza espaços; não trunca — o dossiê deve trazer a informação completa,
+    # sem reticências cortando o título ou os detalhes do caso.
+    return re.sub(r'\s+', ' ', t or '').strip()
 
 def cap(t):
     return t[:1].upper() + t[1:] if t else t
 
 def mp_case(b):
     header = b.split('\n',1)[0].strip()
+    star = header[0] if header else '·'
     status = status_of(b); ymd = date_of(b)
-    if not keep_mp_case(status, field(b,'Partes'), field(b,'Objeto'), field(b,'Decisão/Conclusão')):
+    if not keep_mp_case(status, star, field(b,'Partes'), field(b,'Objeto'), field(b,'Decisão/Conclusão')):
         return None
     partes_raw = field(b, 'Partes')
     parts = re.split(r'Conclus[ãa]o:', partes_raw, 1)
@@ -154,26 +162,27 @@ def mp_case(b):
         concl = field(b, 'Objeto') or field(b, 'Decisão/Conclusão') or partes_raw
     pm = re.search(r'apurar\s+(.+?)(?:\.\s|\. |$)', concl, re.I)
     purpose = pm.group(1) if pm else concl
-    title = cap(clean(purpose, 130)) or clean(concl, 130) or "Caso do Ministério Público"
+    title = cap(clean(purpose)) or clean(concl) or "Caso do Ministério Público"
     plain = None
     for k,v in MP_OUT.items():
         if k in status: plain = v; break
     line = []
-    if partes: line.append(f"<b>Partes:</b> {esc(clean(partes,120))}")
+    if partes: line.append(f"<b>Partes:</b> {esc(clean(partes))}")
     if plain: line.append(esc(plain))
     return {"ymd":ymd, "status":status, "cls":pill_cls(status),
             "title":esc(title), "line":" · ".join(line), "ref":esc(proc_of(header)), "src":"MP"}
 
 def tce_case(b):
     header = b.split('\n',1)[0].strip()
+    star = header[0] if header else '·'
     status = status_of(b); ymd = date_of(b)
     assunto = field(b,'Assunto'); ug = field(b,'Unidade gestora'); val = field(b,'Valores citados')
-    if not keep_tce_case(status, assunto):
+    if not keep_tce_case(status, star, assunto):
         return None
-    title = cap(clean(assunto, 130)) or clean(ug,130) or "Processo do Tribunal de Contas"
+    title = cap(clean(assunto)) or clean(ug) or "Processo do Tribunal de Contas"
     line = []
-    if ug:  line.append(f"<b>{esc(clean(ug,90))}</b>")
-    if val: line.append("Valores: " + esc(clean(val, 60)))
+    if ug:  line.append(f"<b>{esc(clean(ug))}</b>")
+    if val: line.append("Valores: " + esc(clean(val)))
     hm = re.match(r'([A-Z@]{2,4}\s?\d{2}/\d{5,})', header)
     return {"ymd":ymd, "status":status, "cls":pill_cls(status),
             "title":esc(title), "line":" · ".join(line), "ref":esc(hm.group(1) if hm else ''), "src":"TCE"}

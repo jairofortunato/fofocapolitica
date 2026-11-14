@@ -1,0 +1,632 @@
+[
+ {
+  "i": 0,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 1,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou suspeita de fraude em licitação de Schroeder e não confirmou irregularidade",
+  "description": "O Ministério Público investigou uma suposta fraude no Processo Licitatório 186/2015, um pregão presencial de registro de preços da Prefeitura de Schroeder, envolvendo as empresas Mobilebras, Bras-Móvel e Terramar. Segundo o extrato de conclusão, os fatos foram esclarecidos e as irregularidades não se confirmaram, sem prejuízo ao dinheiro público nem ato de improbidade. O inquérito civil foi arquivado em fevereiro de 2022.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 2,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou compra e revenda de ônibus escolar em Schroeder e arquivou o inquérito",
+  "description": "O inquérito civil apurava se a Prefeitura de Schroeder dispensou licitação indevidamente para comprar um ônibus escolar e se depois vendeu o veículo por preço desproporcional ao de compra. O Ministério Público concluiu que não havia elementos que demonstrassem prejuízo ao erário, dolo ou improbidade administrativa. O caso foi arquivado em fevereiro de 2022, sem responsabilização.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 3,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Servidor de Schroeder foi apontado por autorizar corte de vegetação, mas MP arquivou",
+  "description": "Uma notícia de fato apurou se um servidor municipal de Schroeder teria usado sua função pública para autorizar corte de vegetação fora do que a lei permite. O Ministério Público não encontrou indícios de improbidade administrativa e registrou que o dano ambiental já havia sido reparado. O caso foi arquivado em outubro de 2025, sem qualquer responsabilização do servidor.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 4,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 5,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 6,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou uso de máquinas da prefeitura de Schroeder em terreno particular e arquivou",
+  "description": "O Ministério Público abriu uma notícia de fato para apurar o suposto uso de máquinas públicas de Schroeder em um terreno particular, o que poderia configurar improbidade administrativa. A apuração não reuniu elementos que comprovassem a prática. O procedimento foi arquivado em março de 2022.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 7,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 8,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 9,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva caso de advogado que também atua como servidor público em Schroeder",
+  "description": "O inquérito civil tratava de moralidade administrativa: um advogado que também ocupa função de servidor público no Município de Schroeder, situação que poderia infringir o estatuto da OAB. O Ministério Público concluiu que não houve ato de improbidade administrativa e arquivou o inquérito em outubro de 2025. Eventual questão disciplinar cabe à Ordem dos Advogados, não ao MP.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 10,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Suspeita de favorecimento em licitações de Schroeder é arquivada pelo MP",
+  "description": "O inquérito civil apurava suposto favorecimento das empresas Optimus Technology e GDL Equipamentos Eletrônicos no Pregão Presencial 111/2016 e nas Dispensas de Licitação 31 e 65/2016 da Prefeitura de Schroeder. Segundo o extrato, os fatos foram esclarecidos e uma irregularidade envolvendo o procurador jurídico do município foi sanada com a exoneração dele. O MP não encontrou elementos de prejuízo ao erário ou enriquecimento ilícito e arquivou o caso em março de 2022.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 11,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 12,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 13,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Schroeder cumpre decisão que derrubou cargos comissionados e MP encerra fiscalização",
+  "description": "O Ministério Público acompanhou o cumprimento de uma decisão em ação direta de inconstitucionalidade que declarou inconstitucionais cargos de provimento em comissão e funções gratificadas criados pela Lei Complementar 62/2008 de Schroeder. Prefeitura e Câmara de Vereadores foram fiscalizadas quanto à efetividade da decisão. O MP registrou o cumprimento das obrigações e arquivou o procedimento em novembro de 2022.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 14,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 15,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Demolição de ponte levantou suspeita de poluição em rio de Schroeder; MP arquivou",
+  "description": "O inquérito civil apurou uma possível poluição do Rio Itapocuzinho causada pela demolição da antiga Ponte Trindade, em Schroeder. Ficou comprovada a coleta dos resíduos visíveis e foi apresentado estudo de qualidade da água, que não indicou dano ambiental. Com as providências tomadas para cessar o risco, o MP entendeu que não havia base para ação judicial e arquivou o caso em outubro de 2024.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 16,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração de poluição de indústria têxtil de Schroeder após licença ambiental",
+  "description": "A partir de uma fiscalização feita em 2023, o Ministério Público apurou possível poluição causada pela Flajô Indústria e Comércio de Acabamentos Têxteis, sediada em Schroeder. Em 2025 a empresa obteve Licença Ambiental de Operação, o que, segundo o MP, supre as irregularidades verificadas antes. O caso foi arquivado em setembro de 2025, com os fatos solucionados sem necessidade de intervenção ministerial.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 17,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP conclui que contratações temporárias de Schroeder foram legais e arquiva o caso",
+  "description": "Representações apontaram supostas irregularidades na contratação temporária de enfermeiros e professores pela Prefeitura de Schroeder, mesmo havendo concurso público em vigor. A apuração mostrou que as admissões por tempo determinado cobriam afastamentos legais e provisórios de servidores efetivos — licença-maternidade, cessões e licenças médicas —, sem vacância definitiva dos cargos. O Ministério Público não viu ilegalidade nem ofensa ao princípio do concurso público e arquivou o caso em julho de 2025.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 18,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou recusa de paciente em fila do SUS em Schroeder e não viu irregularidade",
+  "description": "O procedimento apurou a eventual recusa da Prefeitura de Schroeder em incluir uma paciente na fila do SUS para tratamento de artrose no quadril. O Ministério Público verificou que o caso não foi classificado como urgência ou emergência e concluiu que não houve irregularidade nem violação de direitos. O procedimento foi arquivado em agosto de 2023.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 19,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 20,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 21,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou convênio de abrigo infantil entre Schroeder e Guaramirim e arquivou",
+  "description": "A notícia de fato apurava se Schroeder deixou de cumprir obrigações do Convênio 003/2017 firmado com Guaramirim para o serviço de acolhimento institucional Lar da Criança Marcos Valdir Moroso, que abriga crianças e adolescentes. O Ministério Público concluiu que não houve lesão nem ameaça a direitos das crianças atendidas. O caso foi arquivado em abril de 2023.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 22,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva questionamento sobre isenção da taxa de concurso em Schroeder",
+  "description": "Um cidadão questionou ao Ministério Público a regra do Concurso Público 1/2023 de Schroeder que limitava a isenção da taxa de inscrição apenas a doadores efetivos de medula óssea. O MP entendeu que os fatos noticiados não configuram lesão ou ameaça a direitos sob sua tutela e indeferiu a abertura de investigação. O caso foi arquivado em abril de 2023.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 23,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 24,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 25,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva caso de construções da prefeitura em área de preservação em Schroeder",
+  "description": "O Ministério Público apurou se a Prefeitura de Schroeder interveio irregularmente em área de preservação permanente ao construir choupanas nas margens do Rio Braço São José. Um parecer técnico apontou a viabilidade da intervenção, caracterizada como de interesse social. Sem lesão a direitos tutelados pelo MP, o caso foi arquivado em outubro de 2025.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 26,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou fraldas de má qualidade compradas por Schroeder e Guaramirim e arquivou",
+  "description": "O inquérito civil apurou possíveis irregularidades no fornecimento de fraldas geriátricas e infantis de qualidade deficiente em licitações dos municípios de Schroeder e Guaramirim, envolvendo quatro empresas fornecedoras. O extrato de conclusão registra apenas o arquivamento, sem informar o que motivou a decisão. Não houve responsabilização.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 27,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP indefere apuração sobre obra de pavimentação em rua de Schroeder",
+  "description": "Um morador levou ao Ministério Público a suspeita de descumprimento de normas técnicas na obra de pavimentação da Rua Alberto Zanella, em Schroeder. A promotoria entendeu que os fatos não configuram lesão ou ameaça a direitos sob sua atuação e indeferiu a abertura de investigação, arquivando o caso em julho de 2022. Cópia dos autos foi remetida a outra Promotoria de Justiça.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 28,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 29,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 30,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 31,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou falhas no serviço de água de Schroeder e arquivou o caso",
+  "description": "A notícia de fato foi aberta para apurar possível irregularidade na prestação do serviço de captação e distribuição de água em Schroeder. O extrato de conclusão registra apenas o arquivamento, em setembro de 2022, sem detalhar o que foi verificado. Nenhuma providência contra o município consta do documento.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 32,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 33,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Schroeder adequa lombadas questionadas pelo MP e inquérito é arquivado",
+  "description": "O inquérito civil apurou eventuais irregularidades nas ondulações transversais — as lombadas — instaladas em ruas de Schroeder, especialmente na Marechal Castelo Branco e na Rio de Janeiro. Segundo o extrato, houve adequação dos dispositivos. Com a situação resolvida, o Ministério Público arquivou o caso em abril de 2023.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 34,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 35,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 36,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 37,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 38,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou negativa de transporte de criança à APAE em Schroeder e não viu violação",
+  "description": "A notícia de fato apurou a suposta negativa da Prefeitura de Schroeder em transportar uma criança até a APAE. Segundo o Ministério Público, os fatos foram esclarecidos: o município justificou a impossibilidade do transporte próprio e comunicou a alternativa do transporte coletivo gratuito. A violação de direitos não foi confirmada e o caso foi arquivado em junho de 2023.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 39,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 40,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 41,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 42,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 43,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 44,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 45,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 46,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 47,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 48,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 49,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 50,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Schroeder faz plano contra deslizamentos e enchentes e MP encerra inquérito",
+  "description": "O inquérito civil tratava do mapeamento de áreas de risco de deslizamento, inundações bruscas e outros processos geológicos em Schroeder, para planejar intervenções preventivas e a realocação de moradores dessas áreas. O município elaborou um Plano de Ação e, segundo o Ministério Público, vem adotando as medidas de controle de risco e prevenção de desastres. Sem elementos que justificassem ação judicial, o caso foi arquivado em outubro de 2024.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 51,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva suspeita de loteamento irregular em rua de Schroeder",
+  "description": "O inquérito civil apurava um possível parcelamento irregular do solo a partir da doação de parte de um imóvel ao Município de Schroeder para a criação da Rua João Maria Tomaselli. A apuração mostrou que o traçado da via já existia ao menos desde a década de 1950, antes da lei que rege o parcelamento do solo, e que a averbação apenas formalizou uma situação de fato. Sem base para ação judicial, o Ministério Público arquivou o caso em agosto de 2025.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 52,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Schroeder regulariza pendência em repasse da educação após inquérito do MP",
+  "description": "O Ministério Público abriu inquérito civil para verificar o suposto descumprimento, por Schroeder, das condicionalidades exigidas para receber a complementação Valor Aluno Ano Total (VAAT), parcela do financiamento da educação básica. Segundo o extrato, a situação foi regularizada e as irregularidades foram acompanhadas até a solução. O inquérito foi arquivado em setembro de 2025.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 53,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP recomenda e Schroeder comprova regras de proteção ao patrimônio histórico",
+  "description": "O inquérito civil foi aberto porque Schroeder não teria normas voltadas à proteção efetiva dos bens de valor histórico e cultural nem à instituição de arquivos públicos. O Ministério Público expediu recomendação ao município, que demonstrou possuir arcabouço normativo e iniciativas nessa direção. Com a recomendação acatada, o caso foi arquivado em outubro de 2025.",
+  "status": "🟢 recomendação cumprida",
+  "severity": "media"
+ },
+ {
+  "i": 54,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 55,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 56,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 57,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 58,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração sobre transporte intermunicipal usado por moradores de Schroeder",
+  "description": "A notícia de fato apurava supostas irregularidades no serviço de transporte público intermunicipal que atende Schroeder, incluindo acesso, operação e disponibilidade aos usuários. O Ministério Público concluiu que não era necessário seguir com o procedimento nem intervir naquele momento. O caso foi arquivado em junho de 2026, sem apontar responsáveis.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 59,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 60,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 61,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou falta de vagas em creche em Schroeder e arquivou o inquérito",
+  "description": "O inquérito civil foi aberto para averiguar a ausência de vagas em creche e na educação infantil de Schroeder, com participação do Conselho Tutelar. O extrato de conclusão registra apenas o arquivamento, em abril de 2023, sem detalhar o que a apuração encontrou nem se as vagas foram ampliadas.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 62,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP encerra fiscalização das metas do Plano Municipal de Educação de Schroeder",
+  "description": "O procedimento acompanhava as ações da Prefeitura de Schroeder para cumprir as metas do Plano Municipal de Educação dentro do ciclo previsto em lei. Segundo o Ministério Público, a administração empenhou as providências necessárias, o que tornou desnecessário manter o acompanhamento. O caso foi arquivado em agosto de 2023.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 63,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Schroeder ganha APAE local e MP encerra acompanhamento da fila de espera",
+  "description": "O Ministério Público acompanhava a oferta de serviços educacionais especiais e de saúde a alunos que precisam da APAE, em especial moradores de Schroeder que estavam na fila de espera para atendimento na APAE de Jaraguá do Sul. Com a instalação da APAE local, o procedimento perdeu objeto e foi arquivado em setembro de 2024.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 64,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 65,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 66,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP cobrava serviço de inspeção que Schroeder já tinha desde 2001; caso arquivado",
+  "description": "O inquérito civil havia sido instaurado para que Schroeder implantasse o Serviço de Inspeção Municipal (SIM), responsável por fiscalizar produtos de origem animal. A apuração constatou que o serviço já fora criado pela Lei Municipal 1.277/2001, regulamentado em 2006 e reorganizado em 2010. Sem interesse de agir, o Ministério Público arquivou o procedimento em abril de 2022.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 67,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 68,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ },
+ {
+  "i": 69,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ status indef.",
+  "severity": "media"
+ }
+]

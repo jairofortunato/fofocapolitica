@@ -1,0 +1,635 @@
+{
+ "cidade": "Joinville",
+ "casos": [
+  {
+   "i": 2450,
+   "tipo": "mp",
+   "ref": "06.2023.00000540-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2023.00000540-4",
+   "status": "🟡 em apuração",
+   "data": "13/02/2023",
+   "texto": "Faculdade CNEC, polo de Joinville/SC."
+  },
+  {
+   "i": 2451,
+   "tipo": "mp",
+   "ref": "01.2023.00005123-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N.01.2023.00005123-1",
+   "status": "🟡 em apuração",
+   "data": "13/03/2023",
+   "texto": "Conselho Regional de Educação Física do Estado de Santa Catarina e Gabrieli Medeiros Hertt."
+  },
+  {
+   "i": 2452,
+   "tipo": "mp",
+   "ref": "01.2023.00005123-1",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00005123-1",
+   "status": "🟢 arquivado",
+   "data": "22/05/2023",
+   "texto": "Gabrieli Medeiros Hertt e Conselho Regional de Educação Física do Estado de Santa Catarina. Conclusão: Notícia de Fato. Crimes contra o consumidor. Exercício irregular da profissão de educador físico. Termo Circunstanciado instaurado. Arquivamento momentâneo com posterior análise dos fatos na esfera penal diante da possibilidade de concessão de benefícios penais. Ausência de comprovação de dano coletivo concreto atual em razão de atendimento a diversos consumidores para ensejar atuação ministerial cível e coletiva neste momento. Membro do Ministério Elaine Rita Auerbach"
+  },
+  {
+   "i": 2453,
+   "tipo": "mp",
+   "ref": "01.2023.00024084-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2023.00024084-0",
+   "status": "🟡 em apuração",
+   "data": "20/06/2023",
+   "texto": "Conselho Regional de Educação Física do Estado de Santa Catarina e Denilson Cezar Boettcher."
+  },
+  {
+   "i": 2454,
+   "tipo": "mp",
+   "ref": "01.2023.00026537-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2023.00026537-4",
+   "status": "🟡 em apuração",
+   "data": "18/07/2023",
+   "texto": "Conselho Regional de Educação Física de Santa Catarina e André Eduardo Moreira."
+  },
+  {
+   "i": 2455,
+   "tipo": "mp",
+   "ref": "06.2023.00004699-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00004699-4",
+   "status": "🟠 TAC firmado",
+   "data": "08/03/2024",
+   "texto": "Academia Atitude Ltda. Conclusão: Inquérito Civil. Apurar possível situação de risco ou prejuízo à saúde do consumidor, decorrente do descumprimento ao artigo 1º da Lei n. 9.696/98 c/c art. 6º, incisos I , IV e VI, e art. 37 do Código de Defesa do Consumidor. Termo de Compromisso de Ajustamento de Conduta firmado nos autos, visando à abstenção de realização e oferta de serviços próprios dos profissionais de educação física por pessoas não habilitadas. Multa compensatória e cláusula penal. Ausência circunstancial do interesse de agir. Artigo 48, II, do Ato n. 395/2018/PGJ. Arquivamento."
+  },
+  {
+   "i": 2456,
+   "tipo": "mp",
+   "ref": "06.2024.00002246-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00002246-2",
+   "status": "🟡 em apuração",
+   "data": "16/05/2024",
+   "texto": "Flávia Cristina do Rosário Giumelli e Centro de Educação A Aldeia do Sol."
+  },
+  {
+   "i": 2457,
+   "tipo": "mp",
+   "ref": "06.2022.00004445-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00004445-9",
+   "status": "🟢 arquivado",
+   "data": "03/07/2024",
+   "texto": "Liliane Lovato. Conclusão: apurar a possível omissão do Centro de Bem Estar Animal de Joinville (CBEA) no acolhimento e atendimento de cães da raça pitbull quando acionados pela Polícia Militar. Atuação deste Órgão de Execução que adotou diversas providências no sentido de assegurar o bem-estar, dignidade e atendimento/acolhimento dos caninos da raça pitbull ou outras semelhantes que apresentem comportamento agressivo. Animais são acompanhados por adestrador, objetivando aplicar treinamentos e educação canina para sua ressocialização e, posterior, adoção. Inexistência de fundamento para ingresso de Ação Civil Pública. Arquivamento. Artigo 48, inciso I, do Ato 395/2018/PGJ."
+  },
+  {
+   "i": 2458,
+   "tipo": "mp",
+   "ref": "06.2024.00004684-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2024.00004684-3",
+   "status": "🟡 em apuração",
+   "data": "01/11/2024",
+   "texto": "Josiane Ferreira e Colégio Bom Jesus."
+  },
+  {
+   "i": 2459,
+   "tipo": "mp",
+   "ref": "01.2025.00004280-7",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00004280-7",
+   "status": "🟢 arquivado",
+   "data": "11/02/2025",
+   "texto": "Natalie Mariah Soares. Conclusão: Arquivamento. Acessibilidade. Obrigatoriedade da disponibilização de intérprete de Libras incide apenas sobre a educação básica e superior regulares. Inteligência do Decreto n. 5.626/05, que regulamenta a Lei n. 10.436/02, a qual dispõe sobre a Língua Brasileira de Sinais (Libras)."
+  },
+  {
+   "i": 2460,
+   "tipo": "mp",
+   "ref": "01.2025.00044277-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00044277-2",
+   "status": "🟡 em apuração",
+   "data": "19/08/2025",
+   "texto": "Liliane Lovato."
+  },
+  {
+   "i": 2461,
+   "tipo": "mp",
+   "ref": "01.2026.00007764-4",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2026.00007764-4",
+   "status": "🟢 arquivado",
+   "data": "14/05/2026",
+   "texto": "B. B. P. e Secretaria de Educação de Joinville. Conclusão: arquivamento. Autismo. Concessão do segundo professor. Ausência de interesse de agir."
+  },
+  {
+   "i": 2462,
+   "tipo": "mp",
+   "ref": "01.2026.00015318-2",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2026.00015318-2",
+   "status": "🟢 arquivado",
+   "data": "15/05/2026",
+   "texto": "D. J. J. e Secretaria de Educação de Joinville. Conclusão: arquivamento. Autismo. Concessão do segundo professor. Parecer da FCEE indeferindo. Desnecessidade. Resolução CEE n. 100/2016. Critérios técnicos. Ausência de interesse de agir."
+  },
+  {
+   "i": 2463,
+   "tipo": "mp",
+   "ref": "01.2026.00019434-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2026.00019434-0",
+   "status": "🟢 arquivado",
+   "data": "15/05/2026",
+   "texto": "anônimo e Secretaria Municipal de Educação. Conclusão: arquivamento. Ausência de Professor de Educação Física e Ciências na Escola José Antonio Navarro Lins. Situação resolvida administrativamente. Perda de objeto."
+  },
+  {
+   "i": 2464,
+   "tipo": "mp",
+   "ref": "01.2021.00036364-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2021.00036364-3",
+   "status": "🟡 em apuração",
+   "data": "10/01/2022",
+   "texto": "Gert Roland Fischer."
+  },
+  {
+   "i": 2465,
+   "tipo": "mp",
+   "ref": "06.2021.00002588-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2021.00002588-0",
+   "status": "🟡 em apuração",
+   "data": "11/01/2022",
+   "texto": "Oilson Borges de Lima e Romeu Cleber Vargas."
+  },
+  {
+   "i": 2466,
+   "tipo": "mp",
+   "ref": "01.2021.00035558-7",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2021.00035558-7",
+   "status": "🟢 arquivado",
+   "data": "13/01/2022",
+   "texto": "Liliane Lovato. Conclusão: não sendo caso de instauração de Inquérito Civil ou Procedimento Preparatório, com supedâneo no art. 7º, inciso II, do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato. Membro de Ministério Público: Simone Cristina Schultz Corrêa"
+  },
+  {
+   "i": 2467,
+   "tipo": "mp",
+   "ref": "06.2021.00002185-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2021.00002185-1",
+   "status": "🟡 em apuração",
+   "data": "17/01/2022",
+   "texto": "P&A Estacionamento Ltda."
+  },
+  {
+   "i": 2468,
+   "tipo": "mp",
+   "ref": "06.2021.00002405-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2021.00002405-9",
+   "status": "🟡 em apuração",
+   "data": "17/01/2022",
+   "texto": "Hotel Alven Ltda. (Alves Palace Hotel)."
+  },
+  {
+   "i": 2469,
+   "tipo": "mp",
+   "ref": "06.2022.00000005-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00000005-0",
+   "status": "🟡 em apuração",
+   "data": "17/01/2022",
+   "texto": "Thayane Rosset."
+  },
+  {
+   "i": 2470,
+   "tipo": "mp",
+   "ref": "06.2019.00002809-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00002809-5",
+   "status": "🟢 arquivado",
+   "data": "19/01/2022",
+   "texto": "2ª Promotoria de Justiça de Guaramirim/SC, Secretaria de Estado da Saúde de Santa Catarina e Secretaria Municipal de Saúde de Joinville. Conclusão: arquivamento. Notícia de suposta demora no andamento da fila da cirurgia de reconstrução do plexo braquial pelo Hospital Municipal São José de Joinville. Realizadas diligências, não se constatou demora injustificada no andamento da fila para realização do procedimento cirúrgico mencionado, não subsistindo, portanto, razão para a continuidade deste Inquérito Civil. Promoveu-se o arquivamento do Inquérito Civil, nos termos do art. 87, § 1º, da Lei Complementar Estadual n. 197/2000, e do art. 48, I, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 2471,
+   "tipo": "mp",
+   "ref": "01.2021.00030544-2",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2021.00030544-2",
+   "status": "🟢 arquivado",
+   "data": "20/01/2022",
+   "texto": "2ª Delegacia Regional de Polícia Civil de Joinville e Boteco do To Centro de Esportes Ltda. Conclusão: Notícia de Fato. Consumidor. Boteco do To Centro de Esportes Ltda. Suposto desrespeito às normas sanitárias. Ausência de alvará. Regularização da atividade. Desnecessidade de adoção de medidas judiciais/extrajudiciais. Arquivamento."
+  },
+  {
+   "i": 2472,
+   "tipo": "mp",
+   "ref": "01.2021.00031328-6",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2021.00031328-6",
+   "status": "🟢 arquivado",
+   "data": "20/01/2022",
+   "texto": "Giomar Zema ME (Parque Aquático Cascata Piraí) e Norberto Davet ME (Recanto Davet). Conclusão: Notícia de Fato. Consumidor. Giomar Zema ME (Parque Aquático Cascata Piraí) e Norberto Davet ME (Recanto Davet). Desrespeito às normas sanitárias. Qualidade da água utilizada nas piscinas e para consumo humano. Regularização das atividades. Desnecessidade de adoção de medidas judiciais/extrajudiciais. Arquivamento."
+  },
+  {
+   "i": 2473,
+   "tipo": "mp",
+   "ref": "01.2021.00025147-2",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2021.00025147-2",
+   "status": "❔ status indef.",
+   "data": "24/01/2022",
+   "texto": "Guilherme e Marli Piekarski. Conclusão: [...] Estando o animal, pois, com seus direitos resguardados, não restam medidas a serem adotadas nesta esfera administrativa. Membro de Ministério Público: Simone Cristina Schultz Corrêa"
+  },
+  {
+   "i": 2474,
+   "tipo": "mp",
+   "ref": "01.2022.00000727-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00000727-5",
+   "status": "🟡 em apuração",
+   "data": "24/01/2022",
+   "texto": "Silvana Lima."
+  },
+  {
+   "i": 2475,
+   "tipo": "mp",
+   "ref": "06.2020.00001149-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00001149-3",
+   "status": "🟠 TAC firmado",
+   "data": "26/01/2022",
+   "texto": "AGN Serviços e participações Ltda. Conclusão: [...] Em razão da celebração de Termo de Ajustamento de Conduta, ao qual se reporta o Procedimento Administrativo n. 09.2021.00006337-4, promoveu-se o arquivamento do apuratório e sua remessa ao Egrégio Conselho Superior do Ministério Público, nos moldes do art. 31, § 2º, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 2476,
+   "tipo": "mp",
+   "ref": "01.2022.00001134-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00001134-6",
+   "status": "🟡 em apuração",
+   "data": "26/01/2022",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 2477,
+   "tipo": "mp",
+   "ref": "01.2021.00023026-6",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2021.00023026-6",
+   "status": "🟢 arquivado",
+   "data": "27/01/2022",
+   "texto": "Marleni Griebel. Conclusão: [...] Diante de todo exposto e, precipuamente, diante da não obrigatoriedade da averbação da reserva legal em relação ao imóvel em questão, nenhuma medida há a ser adotada pelo Ministério Público, pelo que promovo o arquivamento da Notícia de Fato n. 01.2021.00023026-6. Membro de Ministério Público: Simone Cristina Schultz Corrêa"
+  },
+  {
+   "i": 2478,
+   "tipo": "mp",
+   "ref": "01.2021.00034535-6",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2021.00034535-6",
+   "status": "🟢 arquivado",
+   "data": "27/01/2022",
+   "texto": "Glaucia Elena Schatzmann. Conclusão: [...] O Ministério Público tem plena ciência dos direitos que são conferidos às pessoas em situação de rua, notadamente pelo que dispõe o Decreto 7.053/2009 e adotou todas as medidas pertinentes ao caso por meio do PP 06.2021.00002911-0, conforme acima exposto. Por todo o exposto, não sendo caso de instauração de Inquérito Civil ou Procedimento Preparatório, com supedâneo no art. 7º, inciso II, do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato. Membro de Ministério Público: Simone Cristina Schultz Corrêa"
+  },
+  {
+   "i": 2479,
+   "tipo": "mp",
+   "ref": "06.2016.00002621-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2016.00002621-9",
+   "status": "🟢 arquivado",
+   "data": "27/01/2022",
+   "texto": "Hipólito da Cunha e Secretaria Municipal de Saúde de Joinville. Conclusão: arquivamento. Apurar se a quantidade de médicos hepatologistas é suficiente para o atendimento dos pacientes do"
+  },
+  {
+   "i": 2480,
+   "tipo": "mp",
+   "ref": "06.2018.00006831-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2018.00006831-7",
+   "status": "🟢 arquivado",
+   "data": "27/01/2022",
+   "texto": "Ademir Cargnin, Secretaria de Estado da Saúde de Santa Catarina e Secretaria Municipal de Saúde de Joinville. Conclusão: arquivamento. Apurar fila de espera para cirurgia de Nefrectomia Parcial em oncologia no HMSJ, especialmente em decorrência da suposta ausência de materiais para a realização do procedimento. Realizadas diligências, não foi constatada demora injustificada no andamento da fila de espera para realização do procedimento cirúrgico eletivo pretendido, não subsistindo razão para a continuidade deste inquérito civil. Promoveu-se o arquivamento do Inquérito Civil, nos termos do art. 87, § 1º, da Lei Complementar Estadual n. 197/2000, e do art. 48, I, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 2481,
+   "tipo": "mp",
+   "ref": "01.2021.00032366-2",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2021.00032366-2",
+   "status": "🟢 arquivado",
+   "data": "28/01/2022",
+   "texto": "Maria Eduarda Soares. Conclusão: Notícia de Fato. Suposta falsa divulgação de vagas de emprego, com o fim de induzir o consumidor a efetuar a compra de curso profissionalizante, sob a falsa expectativa de trabalho futuro. Ausência de esclarecimentos pela noticiante. Indeferimento de instauração de investigação."
+  },
+  {
+   "i": 2482,
+   "tipo": "mp",
+   "ref": "06.2021.00004996-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00004996-1",
+   "status": "🟢 arquivado",
+   "data": "28/01/2022",
+   "texto": "Roberto Roberval de Mira e Núcleo Socioterapêutico de Joinville (NSJ). Conclusão: arquivamento. Apurar a regularidade da aplicação de vacina nos adolescentes inseridos no Núcleo Socioterapêutico de Joinville (NSJ) sem autorização de seus responsáveis legais. Após diligências, constatou-se que o NSJ atuou em estrita observância ao que determina a lei em referência, que não exige, para a vacinação contra a COVID-19 do adolescente privado de liberdade, a prévia anuência de seu pai ou responsável legal. Não havendo outras providências a serem adotadas, promoveu-se o arquivamento do presente Inquérito Civil, nos termos do art. 87, § 1º, da Lei Complementar Estadual n. 197/2000, e do art. 48, I, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 2483,
+   "tipo": "mp",
+   "ref": "01.2022.00001957-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00001957-1",
+   "status": "🟡 em apuração",
+   "data": "28/01/2022",
+   "texto": "Liliane Lovato."
+  },
+  {
+   "i": 2484,
+   "tipo": "mp",
+   "ref": "01.2021.00018171-4",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2021.00018171-4",
+   "status": "🟢 arquivado",
+   "data": "31/01/2022",
+   "texto": "2ª Delegacia Regional de Polícia Civil de Joinville/SC e Abu Dhabi Tabacaria. Conclusão: Notícia de Fato. Consumidor. Abu Dhabi Tabacaria. Desrespeito às normas sanitárias. Regularização das atividades. Desnecessidade de adoção de medidas judiciais/extrajudiciais. Arquivamento."
+  },
+  {
+   "i": 2485,
+   "tipo": "mp",
+   "ref": "01.2021.00025700-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2021.00025700-0",
+   "status": "🟠 TAC firmado",
+   "data": "01/02/2022",
+   "texto": "2ª Delegacia Regional de Polícia Civil de Joinville e Hiago Bebidas Ltda. Conclusão: arquivamento em razão da celebração de Termo de Ajustamento de Conduta (TAC). Instaurado o Procedimento Administrativo n. 09.2022.00000358-0 para o devido acompanhamento."
+  },
+  {
+   "i": 2486,
+   "tipo": "mp",
+   "ref": "01.2022.00002210-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00002210-0",
+   "status": "🟡 em apuração",
+   "data": "01/02/2022",
+   "texto": "Liliane Lovato; Susana; Milena Gabrielle dos Santos."
+  },
+  {
+   "i": 2487,
+   "tipo": "mp",
+   "ref": "06.2021.00002074-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2021.00002074-1",
+   "status": "🟡 em apuração",
+   "data": "01/02/2022",
+   "texto": "Ivete Pereira."
+  },
+  {
+   "i": 2488,
+   "tipo": "mp",
+   "ref": "06.2022.00000835-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2022.00000835-2",
+   "status": "🟡 em apuração",
+   "data": "02/02/2022",
+   "texto": "Antonio Teobaldo Magalhães Andrade."
+  },
+  {
+   "i": 2489,
+   "tipo": "mp",
+   "ref": "01.2022.00001983-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00001983-8",
+   "status": "🟡 em apuração",
+   "data": "02/02/2022",
+   "texto": "Liliane Lovato e Pet Shop Cobasi."
+  },
+  {
+   "i": 2490,
+   "tipo": "mp",
+   "ref": "01.2021.00027198-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2021.00027198-0",
+   "status": "🟢 arquivado",
+   "data": "03/02/2022",
+   "texto": "Bruna Rodrigues. Conclusão: [...] Destarte, porquanto ausentes quaisquer situações violadoras aos direitos dos animais e devidamente encaminhados os trâmites administrativos, acompanhados pela Municipalidade, determino o arquivamento do feito, com supedâneo no art. 7º, II, do Ato n. 395/2018/PGJ. Membro de Ministério Público: Simone Cristina Schultz Corrêa"
+  },
+  {
+   "i": 2491,
+   "tipo": "mp",
+   "ref": "01.2021.00032141-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2021.00032141-0",
+   "status": "🟢 arquivado",
+   "data": "03/02/2022",
+   "texto": "anônimo. Conclusão: [...] Por fim, e com especial destaque, o bem-estar da canina, que permanece em lar temporário e conta com acompanhamento do CBEA, se encontra resguardado. Assim sendo, não restam medidas administrativas a adotar, razão pela qual determino o arquivamento dos autos, com fulcro no art. 7º, II, do Ato n. 395/2018/PGJ. Membro de Ministério Público: Simone Cristina Schultz Corrêa"
+  },
+  {
+   "i": 2492,
+   "tipo": "mp",
+   "ref": "06.2021.00005010-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00005010-2",
+   "status": "🟢 arquivado",
+   "data": "04/02/2022",
+   "texto": "14ª Promotoria de Justiça da Comarca de Joinville e Maria Elza da Luz Ltda. (Galpão Luz). Conclusão: despacho. Inquérito Civil. Consumidor. Galpão Luz (antigo Recanto Sertanejo). Desrespeito às normas sanitárias. Ausência de alvará sanitário. Regularização da atividade. Desnecessidade de adoção de medidas judiciais/extrajudiciais. Arquivamento."
+  },
+  {
+   "i": 2493,
+   "tipo": "mp",
+   "ref": "09.2022.00000369-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00000369-0",
+   "status": "🟡 em apuração",
+   "data": "07/02/2022",
+   "texto": "WMS Supermercados do Brasil S.A."
+  },
+  {
+   "i": 2494,
+   "tipo": "mp",
+   "ref": "06.2022.00000921-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00000921-8",
+   "status": "🟡 em apuração",
+   "data": "08/02/2022",
+   "texto": "investigado a ser identificado."
+  },
+  {
+   "i": 2495,
+   "tipo": "mp",
+   "ref": "01.2021.00031935-8",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2021.00031935-8",
+   "status": "🟢 arquivado",
+   "data": "09/02/2022",
+   "texto": "1º Registro de Imóveis de Joinville. Conclusão: (...) Diante de todo exposto e, precipuamente, diante da não obrigatoriedade da averbação da reserva legal em relação ao imóvel em questão, nenhuma medida há a ser adotada pelo Ministério Público, pelo que promovo o arquivamento da Notícia de Fato n. 01.2021.00031935-8. Membro de Ministério Público: Simone Cristina Schultz Corrêa"
+  },
+  {
+   "i": 2496,
+   "tipo": "mp",
+   "ref": "01.2022.00002961-4",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00002961-4",
+   "status": "🟢 arquivado",
+   "data": "09/02/2022",
+   "texto": "Galdino João Sestrem e CELESC. Conclusão: consumidor. Prestação de serviço de energia elétrica. Atendimento deficitário da CELESC. Direito individual e disponível. Consumidor maior e capaz. Indeferimento de investigação."
+  },
+  {
+   "i": 2497,
+   "tipo": "mp",
+   "ref": "06.2019.00005365-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00005365-0",
+   "status": "🟢 arquivado",
+   "data": "09/02/2022",
+   "texto": "anônimo e Lar Abdon Batista. Conclusão: apurar eventuais maus-tratos e violência praticados no Lar Abdon Batista contra as crianças, adolescentes acolhidos e os funcionários da instituição. Diligências. Oitiva de testemunhas. Fatos não constados. Investigação policial que teve a mesma conclusão. Arquivamento."
+  },
+  {
+   "i": 2498,
+   "tipo": "mp",
+   "ref": "09.2017.00006285-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2017.00006285-2",
+   "status": "🟢 arquivado",
+   "data": "09/02/2022",
+   "texto": "Luiz Carlos Reinert dos Santos. Conclusão: [...] Considerando que o projeto foi aprovado, executado e concluído e não havendo outras diligências a serem efetuadas por este Órgão Ministerial, com supedâneo no art. 15 do Ato n. 398/2018/PGJ, determino o arquivamento do presente PA n. 09.2017.00006285-2. Membro de Ministério Público: Simone Cristina Schultz Corrêa"
+  },
+  {
+   "i": 2499,
+   "tipo": "mp",
+   "ref": "01.2022.00001893-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00001893-9",
+   "status": "🟡 em apuração",
+   "data": "09/02/2022",
+   "texto": "2º Registro de Imóveis de Joinville."
+  },
+  {
+   "i": 2500,
+   "tipo": "mp",
+   "ref": "01.2021.00033535-8",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO 01.2021.00033535-8",
+   "status": "🟢 arquivado",
+   "data": "10/02/2022",
+   "texto": "Agnaldo Nunes. Conclusão: (...) Diante do exposto, com supedâneo no art. 7º, I, do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato, dispensado o encaminhamento ao Conselho Superior do Ministério Público. Membro de Ministério Público: Simone Cristina Schultz Corrêa"
+  },
+  {
+   "i": 2501,
+   "tipo": "mp",
+   "ref": "06.2020.00000715-6",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00000715-6",
+   "status": "🟢 arquivado",
+   "data": "10/02/2022",
+   "texto": "Célia Barbosa de Souza e Cláudio José Rodrigues Lamin, Secretaria de Estado da Saúde de Santa Catarina e a Secretaria Municipal de Saúde de Joinville. Conclusão: arquivamento. Notícia de suposta demora em demasia para a realização do procedimento cirúrgico reparo de rotina"
+  },
+  {
+   "i": 2502,
+   "tipo": "mp",
+   "ref": "09.2017.00006285-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2017.00006285-2",
+   "status": "🟢 arquivado",
+   "data": "10/02/2022",
+   "texto": "Luiz Carlos Reinert dos Santos. Conclusão: [...] considerando que o projeto foi aprovado, executado e concluído e não havendo outras diligências a serem efetuadas por este Órgão Ministerial, com supedâneo no art. 15 do Ato n. 398/2018/PGJ, determino o arquivamento do presente PA n. 09.2017.00006285-2. Membro de Ministério Público: Simone Cristina Schultz Corrêa"
+  },
+  {
+   "i": 2503,
+   "tipo": "mp",
+   "ref": "06.2022.00000932-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00000932-9",
+   "status": "🟡 em apuração",
+   "data": "10/02/2022",
+   "texto": "Companhia Integrada de Desenvolvimento Agrícola de Santa Catarina."
+  },
+  {
+   "i": 2504,
+   "tipo": "mp",
+   "ref": "06.2022.00000940-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00000940-7",
+   "status": "🟡 em apuração",
+   "data": "10/02/2022",
+   "texto": "Otacílio Dantas da Silva."
+  },
+  {
+   "i": 2505,
+   "tipo": "mp",
+   "ref": "06.2021.00003751-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00003751-0",
+   "status": "🟢 arquivado",
+   "data": "11/02/2022",
+   "texto": "CRF/SC e Raia Drogasil S.A. Conclusão: Consumidor. Farmácia sem responsável técnico. Infração ao disposto no art. 15, §1º, da Lei n. 5.991/73. Regularização após intervenção do Ministério Público. Arquivamento que se impõe."
+  },
+  {
+   "i": 2506,
+   "tipo": "mp",
+   "ref": "01.2022.00002759-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2022.00002759-3",
+   "status": "🟡 em apuração",
+   "data": "11/02/2022",
+   "texto": "Maria Gorete Tomio."
+  },
+  {
+   "i": 2507,
+   "tipo": "mp",
+   "ref": "01.2022.00003423-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2022.00003423-9",
+   "status": "🟡 em apuração",
+   "data": "11/02/2022",
+   "texto": "Ana Paula Matiello."
+  },
+  {
+   "i": 2508,
+   "tipo": "mp",
+   "ref": "06.2022.00000924-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00000924-0",
+   "status": "🟡 em apuração",
+   "data": "11/02/2022",
+   "texto": "Patrícia Pries Assini e Bruno Carlos Cidral."
+  },
+  {
+   "i": 2509,
+   "tipo": "mp",
+   "ref": "06.2022.00000045-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00000045-0",
+   "status": "🟢 arquivado",
+   "data": "15/02/2022",
+   "texto": "Bar e Lanchonete da Preta ou Valmir dos Santos MEI. Conclusão: arquivamento ante a notícia de adequação do estabelecimento às normas de acessibilidade vigentes. Inexistência de fundamento para a propositura de ação judicial."
+  },
+  {
+   "i": 2510,
+   "tipo": "mp",
+   "ref": "01.2022.00003522-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00003522-7",
+   "status": "🟡 em apuração",
+   "data": "15/02/2022",
+   "texto": "Marli Piekarski."
+  },
+  {
+   "i": 2511,
+   "tipo": "mp",
+   "ref": "01.2022.00004021-9",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00004021-9",
+   "status": "🟢 arquivado",
+   "data": "16/02/2022",
+   "texto": "Hospital Unimed Joinville. Conclusão: Notícia de Fato. Consumidor. Suposta má prestação de serviços ao consumidor decorrente da exigência de comprovante de vacinação para adentrar no Hospital Unimed de Joinville. Fatos que não configuram lesão ou ameaça aos interesses ou direitos tutelados pelo Ministério Público. Indeferimento preliminar de investigação."
+  },
+  {
+   "i": 2512,
+   "tipo": "mp",
+   "ref": "06.2019.00003943-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00003943-7",
+   "status": "🟢 arquivado",
+   "data": "16/02/2022",
+   "texto": "Nilson Kouda e Secretaria de Estado da Saúde de Santa Catarina. Conclusão: Inquérito Civil instaurado para apurar suposta falta de materiais no Hospital Regional Hans Dieter Schmidt, de Joinville, para a realização do procedimento cirúrgico de 'nefrolitotomia percutânea'. Após diligências, verificou-se que o equipamento peça de mão utilizado no litotridor havia sido consertado em 12-7-2021 e as realização dos procedimentos retornaram. Assim, o Estado de Santa Catarina não esteve inerte quanto às providências (compra e conserto de equipamentos) necessárias à viabilização da cirurgia de 'nefrolitotomia percutânea', tanto que tornou a ser disponibilizada regularmente. Promoveu-se o arquivamento do Inquérito Civil, nos termos do art. 87, §1º, da Lei Complementar Estadual n. 197/2000, e do art…"
+  },
+  {
+   "i": 2513,
+   "tipo": "mp",
+   "ref": "06.2019.00001022-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00001022-8",
+   "status": "🟢 arquivado",
+   "data": "17/02/2022",
+   "texto": "sigiloso e Secretaria Municipal de Saúde de Joinville. Conclusão: Inquérito civil instaurado para apurar a ausência de aparelho para exames de colonoscopia e endoscopia (EDA) no Hospital Municipal São José, de Joinville. Após diligências, verificou-se que o mencionado aparelho recebeu constante manutenção, sem prejuízo do atendimento aos cidadãos. Eventuais problemas com os equipamentos do hospital não implicaram a interrupção dos exames, porque havia prestadores de serviços privados conveniados, houve empréstimos de aparelhos e mutirão de atendimento para agilizar a realização dos exames. Não se comprovou efetiva e injustificada inércia do poder público quanto à matéria. Promoveu-se o arquivamento do Inquérito Civil, nos termos do art. 87, §1º, da Lei Complementar Estadual n. 197/2000, e…"
+  },
+  {
+   "i": 2514,
+   "tipo": "mp",
+   "ref": "06.2022.00000927-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00000927-3",
+   "status": "🟠 TAC firmado",
+   "data": "18/02/2022",
+   "texto": "2ª Delegacia Regional de Polícia Civil de Joinville e Hiago Bebidas Ltda. Conclusão: arquivamento em razão da celebração de Termo de Ajustamento de Conduta (TAC). Instaurado o Procedimento Administrativo n. 09.2022.00000358-0 para o devido acompanhamento."
+  },
+  {
+   "i": 2515,
+   "tipo": "mp",
+   "ref": "06.2019.00000458-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00000458-1",
+   "status": "🟢 arquivado",
+   "data": "21/02/2022",
+   "texto": "1ª Promotoria de Justiça de Araquari, Secretaria Municipal de Saúde de Joinville e Secretaria de Estado da Saúde do Estado de Santa Catarina. Conclusão: Inquérito Civil instaurado para apurar suposta demora no atendimento eletivo (azul) das especialidades de gastroenterologia e pneumologia e atendimentos de urgência (amarela) da especialidade genética, para os usuários do SUS da região de Joinville. Após diligências, não se comprovou efetiva inércia do poder público quanto à oferta de consultas em questão. Ademais, a de se considerar os efeitos causados pela pandemia da Covid-19, que ensejou, por diversos períodos, a suspensão da realização de consultas, procedimento cirúrgicos e exames. Assim, uma vez que não há efetiva e injustificada inércia do poder público quanto à matéria, promoveu-…"
+  },
+  {
+   "i": 2516,
+   "tipo": "mp",
+   "ref": "01.2022.00004135-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00004135-1",
+   "status": "🟡 em apuração",
+   "data": "21/02/2022",
+   "texto": "Guilherme Evaristo."
+  },
+  {
+   "i": 2517,
+   "tipo": "mp",
+   "ref": "01.2021.00036364-3",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2021.00036364-3",
+   "status": "🟢 arquivado",
+   "data": "22/02/2022",
+   "texto": "Gert Roland Fischer. Conclusão: [...] por todo o exposto, adotadas as medidas necessárias e constatando-se não ser o caso de instauração de Inquérito Civil ou Procedimento Preparatório, com supedâneo no art. 7º, inciso II. do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato. Membro de Ministério Público: Simone Cristina Schultz Corrêa"
+  },
+  {
+   "i": 2518,
+   "tipo": "mp",
+   "ref": "06.2019.00001057-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00001057-2",
+   "status": "🟢 arquivado",
+   "data": "23/02/2022",
+   "texto": "Alessandro dos Santos, Secretaria Municipal de Saúde de Joinville e Secretaria do Estado da Saúde de Santa Catarina. Conclusão: Inquérito Civil instaurado para apurar suposta demora na fila de espera de primeira consulta \"ortopedia geral-adulto\" no âmbito do Sistema Único de Saúde em Joinville, bem como possível preterição de pessoas com deficiência, em afronta à Estatuto da Pessoa com Deficiência (artigo 8º). Após diligências, constatou-se que o noticiante optou pelo atendimento em caráter particular, o que evidentemente lhe era lícito fazer, e não mais existindo a fila de espera para primeira consulta em \"Ortopedia Geral Adulto\", não se pode considerar o SUS omisso quanto à atenção devida àquele. Assim, não subsiste razão para a continuidade deste procedimento, promoveu-se o arquivament…"
+  },
+  {
+   "i": 2519,
+   "tipo": "mp",
+   "ref": "06.2022.00000804-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00000804-1",
+   "status": "🟢 arquivado",
+   "data": "23/02/2022",
+   "texto": "Hiago Bebidas Ltda. Conclusão: arquivamento ante a notícia de adequação do estabelecimento às normas de acessibilidade vigentes. Inexistência de fundamento para a propositura de ação judicial."
+  }
+ ]
+}

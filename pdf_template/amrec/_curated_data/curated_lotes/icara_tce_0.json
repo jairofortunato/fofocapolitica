@@ -1,0 +1,310 @@
+[
+ {
+  "ref": "REP 20/00498951",
+  "keep": true,
+  "title": "TCE aplica multa a vereadores de Içara após auditoria apontar irregularidades na Câmara",
+  "description": "Uma auditoria interna encontrou irregularidades na Câmara Municipal de Içara, e o Tribunal de Contas confirmou os problemas e aplicou multa aos responsáveis, entre eles Flávio Felisberto, Rodrigues Mendes, Osmar Manoel dos Santos e Lauro José Marques Nogueira. Os valores envolvidos somam parcelas de R$ 1.506,15, R$ 39.411,34 e R$ 15.276,02. A multa já foi aplicada.",
+  "severity": "alta"
+ },
+ {
+  "ref": "REP 21/00155193",
+  "keep": true,
+  "title": "TCE investiga contratação de pintor retratista pela Prefeitura de Içara",
+  "description": "O Tribunal de Contas apura se a Prefeitura de Içara contratou de forma irregular um pintor retratista, com itens de contrato que somam mais de R$ 44 mil. O processo ainda está em tramitação e não há decisão final sobre a irregularidade.",
+  "severity": "media"
+ },
+ {
+  "ref": "REP 22/80094562",
+  "keep": true,
+  "title": "TCE multa gestores de Içara por acordo judicial fechado sem lei que autorizasse o gasto",
+  "description": "O Tribunal de Contas identificou que a Prefeitura de Içara fechou um acordo judicial de R$ 378.758,89 sem que houvesse lei autorizando a despesa. Os responsáveis Murialdo Canto Gastaldon, Ronaldo Bilessimo e Eduardo Rocha Souza foram multados pela decisão, já concluída.",
+  "severity": "alta"
+ },
+ {
+  "ref": "REP 25/00058594",
+  "keep": true,
+  "title": "TCE aponta possíveis irregularidades em pregão da Prefeitura de Içara",
+  "description": "Uma decisão do Tribunal de Contas apontou possíveis falhas no Pregão Eletrônico nº 16/2025, usado pela Prefeitura de Içara para contratar uma empresa fornecedora. O responsável identificado foi Felipe Moraes Amâncio. O caso ainda pode ser revisto e não tem julgamento final.",
+  "severity": "media"
+ },
+ {
+  "ref": "REP 24/80069243",
+  "keep": true,
+  "title": "TCE aponta irregularidades em compras de saibro que somaram milhões em Içara",
+  "description": "O Tribunal de Contas apontou possíveis irregularidades nas compras de saibro feitas pela Prefeitura de Içara entre 2021 e 2023, com contratos de valores como R$ 1,19 milhão, R$ 1,2 milhão e R$ 1,67 milhão. A decisão ainda não é definitiva e o caso segue em análise.",
+  "severity": "alta"
+ },
+ {
+  "ref": "REP 25/00153821",
+  "keep": true,
+  "title": "TCE aplica medida cautelar sobre quantidade de cargos comissionados na Câmara de Içara",
+  "description": "Uma representação questiona a quantidade de servidores comissionados na Câmara de Vereadores de Içara, e o Tribunal de Contas determinou uma medida cautelar sobre o caso. O processo tramita junto com um pregão de kits escolares de outro município, sem relação direta com Içara. A parte referente a Içara segue em análise, sem decisão final.",
+  "severity": "media"
+ },
+ {
+  "ref": "TCE 20/00498951",
+  "keep": true,
+  "title": "TCE julga irregulares as contas da Câmara de Içara e confirma multa a ex-dirigentes",
+  "description": "Depois de apurar a representação sobre irregularidades na auditoria interna, o Tribunal de Contas converteu o caso em Tomada de Contas Especial e julgou as contas irregulares, mantendo a multa contra Osmar Manoel dos Santos, Flávio Felisberto, Lauro José Marques Nogueira e Rodrigues Mendes. Os valores envolvidos incluem R$ 36.091,33, R$ 39.411,34 e R$ 15.276,02. O julgamento já foi concluído (Acórdão nº 1/2026).",
+  "severity": "alta"
+ },
+ {
+  "ref": "REP 21/00155193",
+  "keep": true,
+  "title": "Caso do pintor retratista contratado pela Prefeitura de Içara segue sem decisão do TCE",
+  "description": "Dois anos depois de aberto, o processo sobre a contratação de um pintor retratista pela Prefeitura de Içara continua em tramitação no Tribunal de Contas, agora citando Murialdo Canto Gastaldon e Ceneli de Freitas como responsáveis. Ainda não há decisão sobre se houve irregularidade.",
+  "severity": "media"
+ },
+ {
+  "ref": "PAP 24/80063393",
+  "keep": true,
+  "title": "TCE suspende pregão de mais de R$ 1 milhão da Prefeitura de Içara",
+  "description": "O Tribunal de Contas determinou medida cautelar suspendendo o Pregão Eletrônico 072/PMI/2024, um registro de preços de mais de R$ 1 milhão da Prefeitura de Içara, após identificar possíveis irregularidades no processo. O caso segue em análise, sem julgamento definitivo.",
+  "severity": "alta"
+ },
+ {
+  "ref": "REP 18/00589244",
+  "keep": true,
+  "title": "TCE questiona terceirizações e cargos comissionados na Prefeitura de Içara",
+  "description": "Uma representação aponta possíveis irregularidades em terceirizações e na distribuição de cargos na Prefeitura de Içara, envolvendo nomes como Dalvânia Pereira Cardoso, Murialdo Canto Gastaldon e Flávio Felisberto. O Tribunal de Contas já decidiu em caráter singular sobre parte do caso, mas ele ainda pode ser revisto.",
+  "severity": "media"
+ },
+ {
+  "ref": "REP 21/00721563",
+  "keep": true,
+  "title": "TCE suspende pregão de R$ 222 mil da Prefeitura de Içara por suspeita de irregularidade",
+  "description": "O Tribunal de Contas aplicou medida cautelar para suspender o Pregão Presencial 118/PMI/2021, contrato de R$ 222.450,00 firmado pela Prefeitura de Içara, citando Adauto de Andrade como responsável. O processo segue em análise, sem decisão final.",
+  "severity": "media"
+ },
+ {
+  "ref": "TCE 19/00556003",
+  "keep": true,
+  "title": "TCE julga irregulares as contas de ex-gestores de Içara em Tomada de Contas Especial",
+  "description": "O Tribunal de Contas converteu uma representação sobre supostas irregularidades na Prefeitura de Içara em Tomada de Contas Especial e julgou as contas irregulares, atingindo Murialdo Canto Gastaldon, Gentil Dory da Luz e José Zanolli. O julgamento já foi concluído, conforme Acórdão nº 330/2023.",
+  "severity": "alta"
+ },
+ {
+  "ref": "REP 19/00552350",
+  "keep": true,
+  "title": "TCE julga irregular e multa Prefeitura de Içara por caso levado à Ouvidoria em 2018",
+  "description": "Uma denúncia feita à Ouvidoria do Tribunal de Contas em 2018 sobre supostas irregularidades na Prefeitura de Içara resultou em condenação: as contas foram julgadas irregulares e uma multa de R$ 1.684,66 foi aplicada. O caso já foi encerrado com o Acórdão nº 14/2023.",
+  "severity": "media"
+ },
+ {
+  "ref": "PAP 23/80077660",
+  "keep": true,
+  "title": "TCE suspende pregão da Prefeitura de Içara por suspeita de irregularidade em contratação",
+  "description": "O Tribunal de Contas determinou medida cautelar suspendendo o Pregão Presencial 082/2023, usado pela Prefeitura de Içara para contratar uma empresa especializada. O processo segue em análise, sem identificação pública dos responsáveis até o momento.",
+  "severity": "media"
+ },
+ {
+  "ref": "REP 24/00583646",
+  "keep": true,
+  "title": "TCE suspende acordo judicial da Prefeitura de Içara fechado sem lei que autorizasse o gasto",
+  "description": "Dentro de um processo que também envolve pregões em Criciúma e Florianópolis, o Tribunal de Contas aplicou medida cautelar sobre um acordo judicial realizado pela Prefeitura de Içara sem lei autorizativa. Os valores analisados no conjunto do processo somam centenas de milhares de reais. O caso segue em tramitação, sem decisão final.",
+  "severity": "media"
+ },
+ {
+  "ref": "PAP 24/80059442",
+  "keep": true,
+  "title": "TCE suspende outro pregão de R$ 1 milhão da Prefeitura de Içara por suspeita de irregularidade",
+  "description": "O Tribunal de Contas aplicou medida cautelar suspendendo o Pregão Eletrônico 072/2024, contrato de mais de R$ 1 milhão firmado pela Prefeitura de Içara para contratação de empresa especializada. O caso ainda está em análise, sem decisão final sobre a existência de irregularidade.",
+  "severity": "alta"
+ },
+ {
+  "ref": "REP 24/80069243",
+  "keep": true,
+  "title": "TCE chama responsáveis para se explicar sobre compras de saibro em Içara",
+  "description": "O processo sobre as compras de saibro feitas pela Prefeitura de Içara entre 2021 e 2023, que somam milhões de reais em contratos, avançou para a fase de instrução, com edital de audiência convocando os responsáveis, entre eles Max Luiz. O caso ainda não tem julgamento definitivo.",
+  "severity": "alta"
+ },
+ {
+  "ref": "REC 22/00271705",
+  "keep": true,
+  "title": "TCE mantém decisão sobre caso do pintor retratista contratado pela Prefeitura de Içara",
+  "description": "Em recurso apresentado contra a decisão anterior sobre a contratação de um pintor retratista pela Prefeitura de Içara, o conselheiro relator decidiu de forma singular manter a análise do caso, que envolve valores como R$ 38.700,00 e R$ 4.000,00. Murialdo Canto Gastaldon e Ceneli de Freitas Gastaldon aparecem como responsáveis.",
+  "severity": "media"
+ },
+ {
+  "ref": "REP 22/00013242",
+  "keep": true,
+  "title": "Ministério Público de Contas questiona aprovação de projeto de lei pela Câmara de Içara",
+  "description": "O Ministério Público de Contas apresentou representação ao Tribunal de Contas apontando possíveis irregularidades na forma como a Câmara Municipal de Içara aprovou um projeto de lei, citando Diogo Roberto Ringenberg. O processo ainda está em tramitação, sem decisão sobre o mérito.",
+  "severity": "media"
+ },
+ {
+  "ref": "RLI 25/00061110",
+  "keep": true,
+  "title": "TCE abre inspeção sobre processo seletivo simplificado da Câmara de Içara",
+  "description": "O Tribunal de Contas iniciou uma inspeção para verificar possíveis irregularidades no Processo Seletivo Simplificado nº 001/2025, usado pela Câmara Municipal de Içara para contratação de pessoal. O caso ainda está em tramitação, sem conclusão sobre eventuais problemas.",
+  "severity": "media"
+ },
+ {
+  "ref": "REP 19/00018010",
+  "keep": false,
+  "title": "TCE registra aposentadoria de servidora do instituto de previdência de Içara",
+  "description": "O processo reúne, ao lado de assuntos de outros municípios, o registro do ato de aposentadoria de uma servidora vinculada ao instituto de previdência de Içara. Não há indicação de irregularidade associada especificamente a esse registro, que tem caráter burocrático.",
+  "severity": "media"
+ },
+ {
+  "ref": "LCC 23/80113135",
+  "keep": true,
+  "title": "TCE aponta irregularidade em contrato de R$ 1,4 milhão sem licitação na Prefeitura de Içara",
+  "description": "O Tribunal de Contas identificou possíveis irregularidades na contratação direta, sem licitação, de uma empresa para prestação de serviços técnicos pela Prefeitura de Içara, em contrato que soma R$ 1.400.000,00. A decisão ainda não é definitiva e o caso pode ser revisto.",
+  "severity": "alta"
+ },
+ {
+  "ref": "REP 26/00005662",
+  "keep": true,
+  "title": "TCE aponta irregularidade em nova contratação de assessoria sem licitação em Içara",
+  "description": "Uma decisão do Tribunal de Contas apontou possíveis irregularidades em uma contratação direta, sem licitação, de serviços técnicos de assessoria pela Prefeitura de Içara. O caso segue em análise, sem valor total divulgado até o momento.",
+  "severity": "media"
+ },
+ {
+  "ref": "PAP 22/80087434",
+  "keep": true,
+  "title": "TCE suspende contrato de R$ 644 mil da Prefeitura de Içara por suspeita de irregularidade",
+  "description": "O Tribunal de Contas aplicou medida cautelar suspendendo um pregão presencial de 2021 usado pela Prefeitura de Içara para contratar uma empresa de execução de serviços, avaliado em R$ 644.116,56. Dalvania Pereira Cardoso e Tamara Scarpari Magagnin aparecem como responsáveis. O caso segue em análise.",
+  "severity": "alta"
+ },
+ {
+  "ref": "PAP 23/80029770",
+  "keep": true,
+  "title": "TCE suspende criação de despesas de mais de R$ 16 milhões pela Prefeitura de Içara",
+  "description": "O Tribunal de Contas aplicou medida cautelar após identificar que a Prefeitura de Içara teria criado ou aumentado despesas, em valores que chegam a R$ 16,1 milhões e R$ 13,2 milhões, sem cumprir as formalidades legais exigidas. O caso segue em análise.",
+  "severity": "alta"
+ },
+ {
+  "ref": "DEN 25/00061110",
+  "keep": true,
+  "title": "TCE suspende processo seletivo simplificado da Câmara de Içara após denúncia",
+  "description": "Uma denúncia levou o Tribunal de Contas a aplicar medida cautelar sobre o Processo Seletivo Simplificado nº 001/2025, usado pela Câmara Municipal de Içara, citando Márcio Heidmann Blasius. O caso ainda está em análise, sem decisão final.",
+  "severity": "media"
+ },
+ {
+  "ref": "DEN 25/00061110",
+  "keep": true,
+  "title": "TCE reforça suspensão do processo seletivo simplificado da Câmara de Içara",
+  "description": "Uma semana após a primeira decisão, o Tribunal de Contas manteve a medida cautelar sobre o Processo Seletivo Simplificado nº 001/2025 da Câmara Municipal de Içara, novamente citando Márcio Heidmann Blasius. O caso segue em tramitação.",
+  "severity": "media"
+ },
+ {
+  "ref": "REP 20/00671688",
+  "keep": true,
+  "title": "TCE multa administradores do fundo de previdência de Içara por irregularidades em investimentos",
+  "description": "Uma denúncia à Ouvidoria em 2020 sobre possíveis irregularidades em investimentos do IÇARAPREV, o instituto de previdência dos servidores de Içara, resultou em multa aplicada pelo Tribunal de Contas. Estão entre os citados Lilian Rosane Philippi, Eliz Geane Soratto e a empresa AMX Consultoria de Investimentos, com valores de R$ 88.781,02 e R$ 658.563,08. O processo já foi julgado, com multa aplicada.",
+  "severity": "alta"
+ },
+ {
+  "ref": "REP 23/80029770",
+  "keep": true,
+  "title": "TCE julga irregular e multa Prefeitura de Içara por criação de despesas sem formalidades",
+  "description": "O Ministério Público de Contas havia representado contra a criação e o aumento de despesas pela Prefeitura de Içara sem o cumprimento das formalidades legais, caso que envolvia valores de dezenas de milhões de reais. O Tribunal de Contas julgou as contas irregulares e aplicou multas, com o julgamento já concluído (Acórdão nº 97/2024).",
+  "severity": "alta"
+ },
+ {
+  "ref": "REP 24/80041586",
+  "keep": true,
+  "title": "TCE suspende pregão de mais de R$ 1 milhão da Prefeitura de Içara",
+  "description": "Um Procedimento Apuratório Preliminar levou o Tribunal de Contas a suspender, por medida cautelar, um pregão eletrônico da Prefeitura de Içara avaliado em mais de R$ 1 milhão. O caso ainda está em análise, sem decisão definitiva sobre a existência de irregularidade.",
+  "severity": "alta"
+ },
+ {
+  "ref": "TCE 22/00080608",
+  "keep": true,
+  "title": "TCE julga irregulares as contas de gestores de Içara em processo aberto pela Ouvidoria",
+  "description": "Uma comunicação feita à Ouvidoria do Tribunal de Contas em 2021 sobre supostas irregularidades na Prefeitura de Içara resultou em Tomada de Contas Especial. O Tribunal julgou as contas irregulares, atingindo Murialdo Canto Gastaldon, Márcio Colonetti, Walterney Ângelo Réus e Eduardo Rocha Souza, com julgamento já concluído (Acórdão nº 162/2025).",
+  "severity": "alta"
+ },
+ {
+  "ref": "TCE 11/00024074",
+  "keep": true,
+  "title": "TCE abre Tomada de Contas Especial contra agente público de Içara",
+  "description": "Uma representação contra um agente público foi convertida pelo Tribunal de Contas em Tomada de Contas Especial, citando Júlio Cezar Cechinel, Heitor Valvassori e Gentil Dory da Luz como responsáveis ligados à Prefeitura de Içara. O processo ainda está em tramitação, sem julgamento concluído.",
+  "severity": "media"
+ },
+ {
+  "ref": "REP 25/00184468",
+  "keep": false,
+  "title": "TCE registra aposentadoria de servidor do instituto de previdência de Içara",
+  "description": "Dentro de um processo que trata também da compra de veículos por um consórcio de municípios catarinenses, consta o registro de aposentadoria de um servidor vinculado ao IÇARAPREV, o instituto de previdência de Içara. Não há indicação de irregularidade relacionada especificamente a esse registro.",
+  "severity": "media"
+ },
+ {
+  "ref": "REP 18/00589244",
+  "keep": true,
+  "title": "TCE decide novamente sobre terceirizações e cargos comissionados na Prefeitura de Içara",
+  "description": "O processo sobre possíveis irregularidades em terceirizações e cargos na Prefeitura de Içara recebeu nova decisão singular, agora sob relatoria de Wilson Rogério Wan-Dall. O caso continua sem julgamento final sobre o mérito das irregularidades apontadas.",
+  "severity": "media"
+ },
+ {
+  "ref": "LCC 23/00035914",
+  "keep": true,
+  "title": "TCE suspende contrato de mais de R$ 4 milhões para gestão de resíduos em Içara",
+  "description": "O Tribunal de Contas aplicou medida cautelar suspendendo a contratação de uma empresa de engenharia para gerir os resíduos do Serviço Autônomo Municipal de Água e Esgoto de Içara, contrato que soma R$ 4.311.089,88 e R$ 359.257,49. O caso segue em análise, sem decisão final.",
+  "severity": "alta"
+ },
+ {
+  "ref": "RLA 21/00723698",
+  "keep": true,
+  "title": "TCE aponta irregularidade em bolsas de estudo pagas a servidores da Câmara de Içara",
+  "description": "Dentro de um processo que também trata de outros municípios, o Tribunal de Contas apontou possíveis irregularidades na concessão de auxílio escolar, na forma de bolsa de estudo, a servidores da Câmara Municipal de Içara. Os valores envolvidos são de R$ 1.260,00 e R$ 1.050,00, e a decisão foi tomada em caráter singular, podendo ainda ser revista.",
+  "severity": "media"
+ },
+ {
+  "ref": "CON 21/00814731",
+  "keep": true,
+  "title": "TCE analisa edital de credenciamento da Prefeitura de Içara por suspeita de irregularidade",
+  "description": "Além de responder a uma consulta da Câmara Municipal de Içara sobre reajuste salarial de servidores, o processo reúne representações sobre supostas irregularidades no Edital de Credenciamento nº 049/PMI/2021, usado pela Prefeitura de Içara para uma chamada pública. O caso ainda está em tramitação, sem decisão final.",
+  "severity": "media"
+ },
+ {
+  "ref": "PAP 23/80113135",
+  "keep": true,
+  "title": "TCE aponta irregularidade em contrato de R$ 1,4 milhão sem licitação na Prefeitura de Içara",
+  "description": "Numa etapa anterior do mesmo caso sobre a Inexigibilidade de Licitação nº 096/PMI/2023, o Tribunal de Contas já havia apontado possíveis irregularidades no contrato de R$ 1,4 milhão firmado pela Prefeitura de Içara para prestação de serviços técnicos. A decisão foi tomada em caráter singular e ainda pode ser revista.",
+  "severity": "alta"
+ },
+ {
+  "ref": "PAP 24/80019220",
+  "keep": true,
+  "title": "TCE aponta irregularidade em auditoria interna da Câmara de Içara",
+  "description": "Dentro de um processo que também trata de um contrato de serviços em Bombinhas, o Tribunal de Contas apontou possíveis irregularidades identificadas pela auditoria interna da Câmara Municipal de Içara, envolvendo Luiz Fernando Freitas. Os valores citados incluem R$ 1.506,15 e R$ 17.901,94, ligados a outro processo já julgado irregular sobre o mesmo tipo de falha na Câmara. A decisão foi tomada em caráter singular.",
+  "severity": "alta"
+ },
+ {
+  "ref": "RLA 21/00359279",
+  "keep": true,
+  "title": "TCE audita carteira de investimentos de R$ 2,4 milhões do fundo de previdência de Içara",
+  "description": "O Tribunal de Contas está auditando a regularidade da carteira de investimentos do IÇARAPREV, o instituto de previdência dos servidores de Içara, que soma R$ 2.395.148,00, sob responsabilidade de Eliz Geane Soratto e Marcos Roberto Rossi de Jesus. O processo ainda está em tramitação, sem conclusão sobre eventuais irregularidades.",
+  "severity": "alta"
+ },
+ {
+  "ref": "REP 20/00467215",
+  "keep": true,
+  "title": "TCE julga irregular e multa Prefeitura de Içara por Carta-Convite de 2018",
+  "description": "Uma representação do Ministério Público de Santa Catarina apontou supostas irregularidades na Carta-Convite 101/2018 da Prefeitura de Içara. O Tribunal de Contas julgou as contas irregulares e aplicou multa de R$ 1.700,00 a Murialdo Canto Gastaldon e Otávio Pelegrino Piucco Júnior, com julgamento já concluído (Acórdão nº 22/2022).",
+  "severity": "media"
+ },
+ {
+  "ref": "REP 20/00467215",
+  "keep": true,
+  "title": "TCE confirma segunda condenação por irregularidades na mesma Carta-Convite de Içara",
+  "description": "Um inquérito civil sobre a mesma Carta-Convite 101/2018 da Prefeitura de Içara levou a uma nova condenação: o Tribunal de Contas julgou as contas irregulares e aplicou multa a Murialdo Canto Gastaldon e Otávio Pelegrino Piucco Júnior. O julgamento já foi concluído, conforme Acórdão nº 351/2022.",
+  "severity": "media"
+ },
+ {
+  "ref": "PPA 22/00256650",
+  "keep": true,
+  "title": "TCE aponta irregularidade em pagamento de honorários ao procurador de Içara",
+  "description": "Dentro de um processo que também trata de um registro de pensão em Caçador, o Tribunal de Contas apontou possíveis irregularidades no pagamento de honorários de sucumbência, que somam R$ 210.233,63, ao procurador do Município de Içara. O caso foi decidido em caráter singular e ainda pode ser revisto.",
+  "severity": "media"
+ },
+ {
+  "ref": "TCE 11/00514241",
+  "keep": true,
+  "title": "TCE abre Tomada de Contas Especial contra gestores de Içara ligados a empresa de máquinas",
+  "description": "Uma denúncia foi convertida pelo Tribunal de Contas em Tomada de Contas Especial contra a Prefeitura Municipal de Içara, envolvendo Heitor Valvassori, Dalvânia Pereira Cardoso, Fabrício Emanoel Réus e a empresa I.M.T.C. - Indústria de Máquinas. O resumo oficial não detalha qual foi exatamente a irregularidade apurada. O processo ainda está em tramitação, sem julgamento concluído.",
+  "severity": "media"
+ }
+]

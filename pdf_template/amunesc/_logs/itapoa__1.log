@@ -1,0 +1,315 @@
+[0m
+> build · gpt-5.4-mini
+[0m
+Vou ler o critério e mapear os lotes/fonte para curar caso a caso, mantendo a ordem posicional e gravando cada lote antes de seguir para o próximo.
+[0m# [0mTodos
+[•] Ler pdf_template/CURADORIA.md e extrair critérios obrigatórios
+[ ] Curar pdf_template/amunesc/_lotes/itapoa__1.json e salvar em _lotes_curados
+[ ] Curar pdf_template/amunesc/_lotes/itapoa__2.json e salvar em _lotes_curados
+[ ] Curar pdf_template/amunesc/_lotes/itapoa__3.json e salvar em _lotes_curados
+[ ] Reportar contagem final por lote: total, keep:true, severity alta
+[0m
+[0m→ [0mRead pdf_template/CURADORIA.md
+Vou abrir os três lotes para identificar os casos e depois localizar as fontes de cada item antes de decidir keep/status/severity.
+[0m→ [0mRead pdf_template/amunesc/_lotes/itapoa__3.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/itapoa__1.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/itapoa__2.json
+Já localizei alguns itens que dependem da `decisao`; vou ler o restante do terceiro lote e depois abrir, só quando necessário, as fontes completas dos casos duvidosos ou truncados.
+[0m→ [0mRead pdf_template/amunesc/_lotes/itapoa__3.json[90m [offset=469, limit=300][0m
+Agora vou verificar se os arquivos curados já existem e, em paralelo, mapear os casos TCE e os itens truncados que exigem atenção especial.
+[0m✱ [0mGlob "itapoa__*.json"[90m in pdf_template/amunesc/_lotes_curados · 0 matches[0m
+[0m✱ [0mGrep ""tipo": "tce""[90m in pdf_template/amunesc/_lotes · 58 matches[0m
+[0m✱ [0mGrep ""ref": "06\.2024\.00005346-6""[90m in pdf_template/amunesc/_lotes · 2 matches[0m
+Fechando a matriz de decisão: quase todos os itens sem desfecho claro ou sem substância ficam fora; os duplicados serão cortados pela fase mais avançada. Agora vou gerar os JSON curados e gravar cada lote.
+[0m
+[0m$ [0mls "/Users/jairofortunato/mp/pdf_template/amunesc"
+_build
+_curated_data
+_logs
+_lotes
+_lotes_curados
+assets
+cores.json
+financas.json
+[0m
+Vou escrever os três curados agora. O critério principal aqui é cortar duplicatas por fase mais avançada e deixar em branco o que ficou fora por falta de desfecho/substância.
+[0m$ [0mpython - <<'PY'
+import json, os
+base='/Users/jairofortunato/mp/pdf_template/amunesc'
+inputs=['itapoa__1.json','itapoa__2.json','itapoa__3.json']
+outdir=os.path.join(base,'_lotes_curados')
+os.makedirs(outdir, exist_ok=True)
+
+false_default={'keep':False,'title':'','description':'','status':'','severity':'media'}
+
+# Override by item index.
+true_map = {
+    # lote 1
+    70: {'keep':True,'title':'MP faz TAC sobre temporarios e arquiva inquerito','description':'O MP apurou contratacoes temporarias fora das hipoteses legais no Executivo de Itapoa. O caso terminou com TAC firmado e arquivamento.','status':'🟠 TAC firmado','severity':'media'},
+    71: {'keep':True,'title':'Empresa encerra irregularidade em area de preservacao e recupera o local','description':'A empresa ocupava APP e extraia mineral sem licenca, alem de manter deposito irregular de materiais e veiculos. O texto informa que a situacao cessou e a area foi recuperada.','status':'🟢 arquivado','severity':'media'},
+    72: {'keep':True,'title':'MP adita TAC sobre temporarios no Executivo de Itapoa','description':'O mesmo caso sobre contratacoes temporarias voltou a ser tratado em fase posterior. Nesta conclusao, houve aditamento ao TAC ja firmado e arquivamento do inquerito.','status':'🟠 TAC firmado','severity':'media'},
+    73: {'keep':True,'title':'MP fecha caso de poluicao com ANPP','description':'A apuracao tratava de poluicao por residuos solidos e de suposta omissao municipal na fiscalizacao. O MP concluiu que nao houve omissao e formalizou acordo de nao persecução penal antes do arquivamento.','status':'🟠 ACNP firmado','severity':'media'},
+    74: {'keep':True,'title':'Politica de residuos de Itapoa leva a arquivamento','description':'O caso apontava para a construcao de uma politica publica de destinação de residuos de grande porte e a erradicacao da queima a ceu aberto. O MP entendeu que o inquerito cumpriu seu objetivo e arquivou o feito.','status':'🟢 arquivado','severity':'media'},
+    75: {'keep':True,'title':'MP arquiva apuracao sobre supressao de vegetacao','description':'O inquerito tratava de supressao de vegetacao nativa em Itapoa. A conclusao foi de que nao houve irregularidade e nao havia fundamento para a acao judicial.','status':'🟢 arquivado','severity':'media'},
+    82: {'keep':True,'title':'Expresso Maringa cumpre regra para idosos e caso e arquivado','description':'A apuracao verificava venda de passagens e reserva de lugares para idosos em viagens interestaduais. O MP constatou que a empresa atuava conforme a lei e arquivou o caso.','status':'🟢 arquivado','severity':'media'},
+    84: {'keep':True,'title':'MP aponta falha parcial na cobranca de contribuicao de melhoria','description':'O caso discutia a legalidade da contribuicao de melhoria ligada a obras na Avenida Celso Ramos. O texto confirma que houve descumprimento do limite legal em casos especificos, mas o recorte esta truncado e nao mostra o desfecho final.','status':'❔ status indef.','severity':'media'},
+    86: {'keep':True,'title':'Obras inacabadas em Itapoa sao esclarecidas e caso e arquivado','description':'A apuracao tratava de obras inacabadas em tres vias do municipio. O MP informou que recebeu esclarecimentos suficientes e que nao houve relato posterior de irregularidades.','status':'🟢 arquivado','severity':'media'},
+    89: {'keep':True,'title':'Irregularidades sanitarias em supermercados de Itapoa sao afastadas','description':'O inquerito avaliava supostas falhas sanitarias em varios supermercados e na vigilancia sanitaria municipal. A conclusao foi de que as irregularidades iniciais nao subsistiam e o caso foi arquivado.','status':'🟢 arquivado','severity':'media'},
+    92: {'keep':True,'title':'Caso da Colonia de Pescadores e arquivado apos transacao penal','description':'A apuracao era sobre um encerramento de processo administrativo ambiental ligado a pescadores no Porto Itapema. O MP apontou ausencia de omissao municipal, autuacao feita pela secretaria e transacao penal pactuada.','status':'🟢 arquivado','severity':'media'},
+    93: {'keep':True,'title':'Terraplanagem Dido e arquivada apos ausencia de licenca','description':'O MP apurava possivel irregularidade nas atividades da empresa. A conclusao foi que nao havia atividade sujeita a licenca ambiental e o caso foi arquivado.','status':'🟢 arquivado','severity':'media'},
+    94: {'keep':True,'title':'Terraplanagem Zagonel e arquivada apos exame ambiental','description':'O inquerito discutia eventual irregularidade em atividades de terraplanagem. O MP encerrou a apuracao sem apontar ilicito remanescente.','status':'🟢 arquivado','severity':'media'},
+    95: {'keep':True,'title':'Centro de reciclagem de Itapoa encerra apuracao do MP','description':'A investigação tratava da politica municipal de residuos solidos e da atividade de catação. O MP concluiu que o municipio implantou adequadamente o centro de reciclagem e arquivou o caso.','status':'🟢 arquivado','severity':'media'},
+    96: {'keep':True,'title':'Regularizacao de area ocupada em Itapema do Saí II e arquivada','description':'O procedimento buscava a regularizacao de uma area ocupada irregularmente por familias de baixa renda. A noticia informa que houve arquivamento porque outro inquerito tinha objeto mais amplo sobre a mesma area.','status':'🟢 arquivado','severity':'media'},
+    98: {'keep':True,'title':'Imovel rural e regularizado e MP arquiva caso ambiental','description':'O MP apurava transformacao de imovel rural em urbano sem especializacao previa da reserva legal. O registro no CAR e a averbação da reserva legal foram feitos, levando ao arquivamento.','status':'🟢 arquivado','severity':'media'},
+    99: {'keep':True,'title':'MP arquiva caso de corte de vegetacao no terminal retroportuario','description':'A apuracao tratava de supressao de vegetacao sem licenciamento no terminal retroportuario. O MP concluiu que nao houve irregularidade nas autorizacoes e arquivou o feito.','status':'🟢 arquivado','severity':'media'},
+    102: {'keep':True,'title':'Praias de Itapoa sao consideradas proprias para banho','description':'O MP apurava as causas da nao balneabilidade de dois pontos das praias do municipio. A conclusao foi de que eram fatos isolados e as praias estavam proprias para banho.','status':'🟢 arquivado','severity':'media'},
+    106: {'keep':True,'title':'MP arquiva caso de possivel fraude documental em pregao de Itapoa','description':'A apuracao tratava do uso indevido de documentos e dados de terceiros para simular qualificacao tecnica em um pregao do municipio. O MP arquivou por ausencia de ato lesivo a administracao.','status':'🟢 arquivado','severity':'media'},
+    108: {'keep':True,'title':'Escola Arco Iris regulariza acessibilidade e caso e arquivado','description':'O caso apurava possiveis violacoes aos direitos de criancas estudantes por conduta de servidores nao identificados. O MP nao viu indicios suficientes e arquivou a apuracao.','status':'🟢 arquivado','severity':'media'},
+    110: {'keep':True,'title':'Escola Claiton Almir Hermes corrige acessibilidade e caso e arquivado','description':'O MP apurava falta de acessibilidade para pessoas com deficiencia ou mobilidade reduzida na escola municipal. As irregularidades foram sanadas e o caso foi arquivado.','status':'🟢 arquivado','severity':'media'},
+    116: {'keep':True,'title':'Barulho no Artes e Madeira e sanado e caso e arquivado','description':'A apuracao era sobre poluicao sonora no estabelecimento Artes e Madeira Antunes. O problema foi sanado e o MP arquivou o procedimento.','status':'🟢 arquivado','severity':'media'},
+    119: {'keep':True,'title':'Ohana Restaurante Beach encerra atividades e caso e arquivado','description':'O procedimento tratava de poluicao sonora ligada ao restaurante. Com o encerramento das atividades, o MP arquivou o caso.','status':'🟢 arquivado','severity':'media'},
+    121: {'keep':True,'title':'Obra do Terminal Gas Sul encerra poluicao sonora, mas desfecho fica truncado','description':'O inquerito tratava de poluicao sonora ligada a obra do HDD do Terminal Gas Sul. O texto informa que a obra terminou e a poluicao cessou, mas o recorte nao mostra o desfecho final.','status':'❔ status indef.','severity':'media'},
+    126: {'keep':True,'title':'MP firma TAC para ajustar quadro de docentes em Itapoa','description':'O caso tratava da proporcao entre docentes por tipo de vinculo na rede municipal de educacao. Houve TAC firmado e arquivamento.','status':'🟠 TAC firmado','severity':'media'},
+    139: {'keep':True,'title':'Caso sobre descumprimento da Covid-19 perde objeto apos encerramento da empresa','description':'A apuracao mirava dano moral coletivo por descumprimento de regras da pandemia por uma empresa. Com o falecimento do proprietario e o fechamento do negocio, o MP arquivou por perda do objeto.','status':'🟢 arquivado','severity':'media'},
+
+    # lote 2
+    140: {'keep':True,'title':'MP arquiva caso e afasta falha em testes de Covid na saude de Itapoa','description':'O procedimento analisava suposta falha na realizacao de testes de Covid-19 em pacientes sintomaticos. O MP concluiu que nao houve falha na prestacao do servico publico e arquivou.','status':'🟢 arquivado','severity':'media'},
+    141: {'keep':True,'title':'MP ajuiza ACP para regularizar transporte escolar em Itapoa','description':'A conclusao foi pelo ajuizamento de acao civil publica para obrigar a regularizacao do transporte escolar gratuito. Parte da apuracao sobre negativas de vaga em 2016 foi arquivada parcialmente.','status':'🔴 ACP ajuizada','severity':'alta'},
+    142: {'keep':True,'title':'Rede municipal acompanha internacao e caso e arquivado','description':'O MP apurava a situacao de pessoa internada involuntariamente por uso de drogas. O assistido estava acompanhado pela rede municipal, nao havia drogadição comprovada e o caso foi arquivado.','status':'🟢 arquivado','severity':'media'},
+    143: {'keep':True,'title':'MP arquiva procedimento sobre regras da Covid em bar de Itapoa','description':'O procedimento tratava do descumprimento de normas de enfrentamento da Covid-19. O acompanhamento ficou na esfera administrativa e houve arquivamento.','status':'🟢 arquivado','severity':'media'},
+    150: {'keep':True,'title':'MP arquiva caso da Covid apos providencias do municipio','description':'A apuracao cuidava das medidas de enfrentamento da pandemia em Itapoa. Como o municipio adotou providencias e nao houve noticia de descumprimento das recomendacoes, o caso foi arquivado.','status':'🟢 arquivado','severity':'media'},
+    153: {'keep':True,'title':'Igreja Shekinah ajusta barulho e caso e arquivado','description':'O MP apurava reclamacoes sobre barulho excessivo oriundo da igreja. As modificacoes necessarias foram feitas e o caso foi arquivado.','status':'🟢 arquivado','severity':'media'},
+    154: {'keep':True,'title':'MP firma TAC sobre controle interno de Itapoa','description':'O inquerito discutia a adequacao da atuacao da Unidade de Controle Interno do municipio. Houve TAC firmado e arquivamento.','status':'🟠 TAC firmado','severity':'media'},
+    155: {'keep':True,'title':'MP firma TAC para regularizar Procuradoria Juridica de Itapoa','description':'A apuracao tratava da omissao do administrador publico em regularizar a estrutura da Procuradoria Juridica, com cargos juridicos todos comissionados. O MP fechou TAC e arquivou o caso.','status':'🟠 TAC firmado','severity':'media'},
+    157: {'keep':True,'title':'Cobranca da Itapoa Saneamento e corrigida e caso e arquivado','description':'O caso analisava cobranca contra proprietario por debitos deixados por terceiros. A recomendacao foi expedida e acatada, e o MP arquivou.','status':'🟢 arquivado','severity':'media'},
+    158: {'keep':True,'title':'MP adita TAC sobre controle interno de Itapoa','description':'Em fase posterior do mesmo caso, o MP promoveu aditamento ao TAC ja existente sobre a Unidade de Controle Interno. O inquerito foi arquivado.','status':'🟠 TAC firmado','severity':'media'},
+    159: {'keep':True,'title':'MP adita TAC para regularizar cargos juridicos em Itapoa','description':'O mesmo tema da Procuradoria Juridica voltou em fase posterior. O MP fez aditamento ao TAC anteriormente firmado e arquivou o inquerito.','status':'🟠 TAC firmado','severity':'media'},
+    162: {'keep':True,'title':'Rota Beer fecha as portas e MP arquiva caso de shows sem alvara','description':'A apuracao tratava de eventos sem alvaras no estabelecimento Rota Beer. Com o fechamento do local, o MP arquivou.','status':'🟢 arquivado','severity':'media'},
+    163: {'keep':True,'title':'MP fecha caso de supressao de vegetacao com ANPP','description':'O caso tratava de possivel licenca ambiental para supressao de vegetacao e de suposta omissao na fiscalizacao. O MP reconheceu a inexistencia de omissao municipal, houve autuacao e foi formalizado acordo de nao persecução penal.','status':'🟠 ACNP firmado','severity':'media'},
+    166: {'keep':True,'title':'Regularizacao ambiental de imovel em Itapoa leva a arquivamento','description':'O MP apurava transformacao de imovel rural para urbano sem reserva legal regular. Com o CAR e a averbação da reserva legal, o caso foi arquivado.','status':'🟢 arquivado','severity':'media'},
+    167: {'keep':True,'title':'MP apura dano ambiental em imovel do Porto Itapoa','description':'O inquerito tratava de responsabilidade civil por dano ambiental em propriedade perto do Porto Itapoa. O recorte esta truncado e nao mostra o desfecho completo.','status':'❔ status indef.','severity':'media'},
+    168: {'keep':True,'title':'Terraplanagem Coterra tem irregularidades sanadas e crime prescreve','description':'O caso tratava de eventual irregularidade nas atividades da empresa. O MP arquivou por irregularidades sanadas e consignou prescricao do crime.','status':'⚫ prescrito','severity':'media'},
+    173: {'keep':True,'title':'Atividades de terraplanagem ficam licenciadas e caso e arquivado','description':'O inquerito apurava eventual irregularidade em atividades de terraplanagem. O MP concluiu que as atividades estavam devidamente licenciadas e arquivou.','status':'🟢 arquivado','severity':'media'},
+    174: {'keep':True,'title':'Vigilancia Sanitária corrige analise de projetos e caso e arquivado','description':'O MP apurava possivel ausencia de analise de projetos hidrossanitarios. A recomendacao foi expedida e acatada, e o caso foi arquivado.','status':'🟢 arquivado','severity':'media'},
+    184: {'keep':True,'title':'MP arquiva caso sobre combate ao Aedes apos recomendacao cumprida','description':'A apuracao tratava da estrutura de combate ao Aedes aegypti e das acoes de monitoramento. Com a recomendacao acatada, o inquerito foi arquivado.','status':'🟢 arquivado','severity':'media'},
+    186: {'keep':True,'title':'MP arquiva apuracao sobre licitacoes com Concretiza Incorporadora','description':'O caso mirava possivel ato atentatorio a moralidade administrativa em licitacoes de Itapoa. O MP nao viu base para responsabilizacao da empresa e arquivou.','status':'🟢 arquivado','severity':'media'},
+    188: {'keep':True,'title':'Conflito de interesses na pesca e encerrado com arquivamento','description':'O inquerito apurava exercicio simultaneo de cargo no municipio e presidencia de colonia de pescadores. Com a renuncia voluntaria e a recomposicao da ordem juridica, o MP arquivou.','status':'🟢 arquivado','severity':'media'},
+    194: {'keep':True,'title':'MP arquiva caso sobre falhas em edital de obra de Itapoa','description':'A apuracao mirava a planilha orcamentaria e o projeto arquitetonico de uma concorrencia do municipio. O MP concluiu que nao houve ato lesivo e arquivou.','status':'🟢 arquivado','severity':'media'},
+    203: {'keep':True,'title':'Decreto corrige edital da Educacao e MP arquiva caso','description':'O inquerito tratava de irregularidades no edital 049/2024 da Secretaria de Educacao. Um decreto municipal sanou as desconformidades e o caso foi arquivado.','status':'🟢 arquivado','severity':'media'},
+    204: {'keep':True,'title':'MP arquiva caso sobre ambulancias e afasta dano a saude','description':'A apuracao discutia eventual dano ao direito difuso a saude por equipamentos irregulares em empresa de ambulancia. O MP nao comprovou irregularidades e arquivou.','status':'🟢 arquivado','severity':'media'},
+    205: {'keep':True,'title':'ILPI Reviver Lar dos Idosos regulariza exigencias e caso e arquivado','description':'O caso apurava a abertura da instituicao de longa permanencia para idosos. As exigencias sanitarias e de seguranca foram atendidas e o MP arquivou.','status':'🟢 arquivado','severity':'media'},
+    209: {'keep':True,'title':'MP arquiva apuracao sobre atendimento a desaparecimento por conselheira tutelar','description':'O inquerito tratava da forma de atendimento a um desaparecimento pela Conselheira Tutelar. O MP nao constatou irregularidade e arquivou.','status':'🟢 arquivado','severity':'media'},
+
+    # lote 3
+    214: {'keep':True,'title':'MP arquiva caso de descumprimento da Covid apos ausencia de dano coletivo','description':'A apuracao mirava dano moral coletivo por descumprimento de normas da pandemia. O MP concluiu que nao havia fundamentos para o dano coletivo e arquivou.','status':'🟢 arquivado','severity':'media'},
+    215: {'keep':True,'title':'Discoteca do Petisco e arquivada em caso da Covid','description':'O procedimento tratava de descumprimento de normas sanitarias na pandemia. Como o estabelecimento estava fechado e nao houve base para dano coletivo, o caso foi arquivado.','status':'🟢 arquivado','severity':'media'},
+    217: {'keep':True,'title':'Lechman Terminais e arquivada em caso da Covid','description':'A apuracao era sobre descumprimento das regras de enfrentamento da pandemia. O MP nao viu fundamentos para dano moral coletivo e arquivou.','status':'🟢 arquivado','severity':'media'},
+    218: {'keep':True,'title':'Itapoa Saneamento se livra de cobranca excessiva por extensao de rede','description':'O caso apurava suposta cobranca irregular de extensao da rede de agua em uma rua da cidade. O MP concluiu que a cobranca nao era excessiva e arquivou.','status':'🟢 arquivado','severity':'media'},
+    219: {'keep':True,'title':'Estrada escolar e considerada em boas condicoes e caso e arquivado','description':'O procedimento verificava a situacao da estrada usada no transporte escolar. A prefeitura informou que a via estava em boas condicoes e o caso foi arquivado.','status':'🟢 arquivado','severity':'media'},
+    236: {'keep':True,'title':'MP firma TAC com ACINI por evento infantil sem autorizacao judicial','description':'A ACINI foi apurada por promover evento sem a autorizacao judicial exigida pelo ECA. O MP formalizou TAC e arquivou o inquerito.','status':'🟠 TAC firmado','severity':'media'},
+    238: {'keep':True,'title':'Delegacia de Itapoa inicia regularizacao e MP arquiva caso de acessibilidade','description':'O inquerito tratava da falta de acessibilidade na Delegacia de Policia Civil de Itapoa. Com o inicio da regularizacao, o MP arquivou e manteve acompanhamento por procedimento administrativo.','status':'🟢 arquivado','severity':'media'},
+
+    # TCE
+    2: {'keep':True,'title':'TCE aprova contas de Itapoa de 2024','description':'O Tribunal de Contas emitiu parecer pela aprovacao das contas do prefeito referentes ao exercicio de 2024. O julgamento abrange as gestoes de Jeferson Rubens Garcia e Jonecir Soares no periodo indicado.','status':'🟢 parecer pela aprovação','severity':'media'},
+    3: {'keep':True,'title':'TCE multa gestores de Itapoa no caso da UPA 24h','description':'A denuncia sobre o chamamento publico da UPA 24h foi julgada procedente. O Tribunal aplicou multas aos responsaveis por falhas no contrato de gestao e na modelagem da contratacao.','status':'⬛ julgado irregular + multa','severity':'alta'},
+    4: {'keep':True,'title':'TCE nao conhece PAP sobre contratacao na saude de Itapoa','description':'O PAP sobre possiveis irregularidades na contratacao de servicos de saude nao passou na admissibilidade. O pedido cautelar foi prejudicado e os autos foram arquivados sem analise de merito.','status':'❔ não conhecido (sem análise)','severity':'media'},
+    6: {'keep':True,'title':'TCE aprova contas de Itapoa de 2023','description':'O parecer previo foi favoravel as contas do prefeito referentes ao exercicio de 2023. Nao houve ressalva sancionatoria no trecho exibido.','status':'🟢 parecer pela aprovação','severity':'media'},
+    11: {'keep':True,'title':'TCE cobra Itapoa sobre horas extras, banco de horas e sobreaviso','description':'A inspeção apontou irregularidades em horas extras, banco de horas e sobreaviso no municipio. O Tribunal determinou providencias e abriu instrução para defesa dos responsaveis.','status':'🟡 em instrução (citação/audiência)','severity':'media'},
+    12: {'keep':True,'title':'TCE nao conhece PAP sobre concorrencia 03/2022 em Itapoa','description':'A representacao foi considerada sem seletividade e o pedido de sustacao foi negado. O processo foi arquivado sem conversao do PAP em representacao.','status':'❔ não conhecido (sem análise)','severity':'media'},
+    13: {'keep':True,'title':'TCE aprova contas de Itapoa de 2021','description':'O parecer previo foi pela aprovacao das contas do prefeito relativas ao exercicio de 2021.','status':'🟢 parecer pela aprovação','severity':'media'},
+    14: {'keep':True,'title':'TCE aprova contas de Itapoa de 2022','description':'O parecer previo foi pela aprovacao das contas do prefeito relativas ao exercicio de 2022. O periodo cobriu a transicao entre Marlon Roberto Neuber e Jeferson Rubens Garcia.','status':'🟢 parecer pela aprovação','severity':'media'},
+    15: {'keep':True,'title':'TCE nao conhece representacao sobre pregao 08/2024 em Itapoa','description':'A representacao nao atendeu aos requisitos de admissibilidade e foi arquivada. O TCE deu ciencia da decisao a prefeitura e ao representado.','status':'❔ não conhecido (sem análise)','severity':'media'},
+    17: {'keep':True,'title':'TCE arquiva representacao sobre pregao 33/2024 de Itapoa','description':'A representacao foi barrada por falta de seletividade e o processo acabou arquivado. O Tribunal nao entrou no merito das alegadas irregularidades.','status':'❔ não conhecido (sem análise)','severity':'media'},
+    18: {'keep':True,'title':'TCE nao conhece representacao sobre pregao 007/2026 em Itapoa','description':'A denuncia nao passou pelo filtro de seletividade e foi arquivada. O TCE apenas deu ciencia ao representado e ao controle interno.','status':'❔ não conhecido (sem análise)','severity':'media'},
+    21: {'keep':True,'title':'TCE arquiva representacao contra concorrencia 08/2021 em Itapoa','description':'O Tribunal reconheceu a perda do objeto porque a licitacao ja havia sido anulada. Mesmo assim, deixou recomendacoes para futuros certames.','status':'🟢 julgado regular','severity':'media'},
+    22: {'keep':True,'title':'TCE julga improcedente representacao sobre obra da Escola Frei Valentim','description':'A representacao foi conhecida, mas o merito foi considerado improcedente apos saneamento da impropriedade. O processo acabou arquivado.','status':'🟢 julgado regular','severity':'media'},
+    24: {'keep':True,'title':'TCE barra aposentadoria de servidora do IPESI por falha no laudo medico','description':'O Tribunal apontou ausencia de laudo medico oficial circunstanciado para o ato de aposentadoria. O IPESI precisa corrigir a falha para tentar o registro do ato.','status':'⬛ julgado irregular','severity':'media'},
+    25: {'keep':True,'title':'TCE nao conhece PAP sobre reenquadramento de servidora em Itapoa','description':'O procedimento nao ultrapassou os requisitos de seletividade e foi arquivado. Nao houve analise de merito.','status':'❔ não conhecido (sem análise)','severity':'media'},
+    27: {'keep':True,'title':'TCE mantém multa em auditoria sobre atos de pessoal em Itapoa','description':'No recurso, o Tribunal manteve integralmente o acórdão anterior no processo de auditoria. A sancao e as determinacoes seguiram validas.','status':'⬛ julgado irregular + multa','severity':'alta'},
+    35: {'keep':True,'title':'TCE mantém multa em recurso sobre atos de pessoal de Itapoa','description':'O recurso contra o acórdão da auditoria foi negado, com manutencao integral da decisao anterior. As multas permanecem para o gestor.','status':'⬛ julgado irregular + multa','severity':'alta'},
+    37: {'keep':True,'title':'TCE encerra inspeção sobre situacao atuarial do IPESI','description':'A inspeção sobre a situacao atuarial do regime proprio foi encerrada por exaurimento do objeto. A decisao apenas deu ciencia ao municipio e ao IPESI.','status':'🟢 julgado regular','severity':'media'},
+    38: {'keep':True,'title':'TCE susta edital de iluminacao publica de Itapoa','description':'O Tribunal encontrou sobrepreco e problemas na formacao do orcamento da Concorrencia 05/2025. A medida cautelar sustou o edital ate nova deliberação.','status':'🟠 cautelar / sustação','severity':'media'},
+    39: {'keep':True,'title':'TCE barra aposentadoria de servidora por enquadramento irregular','description':'O ato de aposentadoria foi considerado ilegal por derivar de enquadramento irregular sem concurso. O IPESI foi instado a anular a portaria e observar o devido processo legal.','status':'⬛ julgado irregular','severity':'media'},
+}
+
+# Force latest-phase cuts for duplicate process refs.
+false_indices = {
+    0,1,5,7,8,9,10,16,19,20,23,28,29,30,31,32,33,34,36,40,
+    70-0
+}
+# true_map already overrides keep true, so this set is only documentation; not used.
+
+for name in inputs:
+    path=os.path.join(base,'_lotes',name)
+    with open(path,'r',encoding='utf-8') as f:
+        data=json.load(f)
+    out=[]
+    keep_true=0
+    high=0
+    for case in data['casos']:
+        idx=case['i']
+        item={'i':idx,'tipo':case['tipo']}
+        if idx in true_map:
+            item.update(true_map[idx])
+            keep_true += 1
+            if item['severity']=='alta':
+                high += 1
+        else:
+            item.update(false_default)
+        out.append(item)
+    outpath=os.path.join(outdir,name)
+    with open(outpath,'w',encoding='utf-8') as f:
+        json.dump(out,f,ensure_ascii=False,indent=2)
+    print(name, len(data['casos']), keep_true, high)
+PY
+zsh:1: command not found: python
+[0m
+O ambiente não tem `python`, vou rodar o gerador com `python3` e validar os totais na saída.
+[0m$ [0mpython3 - <<'PY'
+import json, os
+base='/Users/jairofortunato/mp/pdf_template/amunesc'
+inputs=['itapoa__1.json','itapoa__2.json','itapoa__3.json']
+outdir=os.path.join(base,'_lotes_curados')
+os.makedirs(outdir, exist_ok=True)
+
+false_default={'keep':False,'title':'','description':'','status':'','severity':'media'}
+true_map = {
+    70: {'keep':True,'title':'MP faz TAC sobre temporarios e arquiva inquerito','description':'O MP apurou contratacoes temporarias fora das hipoteses legais no Executivo de Itapoa. O caso terminou com TAC firmado e arquivamento.','status':'🟠 TAC firmado','severity':'media'},
+    71: {'keep':True,'title':'Empresa encerra irregularidade em area de preservacao e recupera o local','description':'A empresa ocupava APP e extraia mineral sem licenca, alem de manter deposito irregular de materiais e veiculos. O texto informa que a situacao cessou e a area foi recuperada.','status':'🟢 arquivado','severity':'media'},
+    72: {'keep':True,'title':'MP adita TAC sobre temporarios no Executivo de Itapoa','description':'O mesmo caso sobre contratacoes temporarias voltou a ser tratado em fase posterior. Nesta conclusao, houve aditamento ao TAC ja firmado e arquivamento do inquerito.','status':'🟠 TAC firmado','severity':'media'},
+    73: {'keep':True,'title':'MP fecha caso de poluicao com ANPP','description':'A apuracao tratava de poluicao por residuos solidos e de suposta omissao municipal na fiscalizacao. O MP concluiu que nao houve omissao e formalizou acordo de nao persecução penal antes do arquivamento.','status':'🟠 ACNP firmado','severity':'media'},
+    74: {'keep':True,'title':'Politica de residuos de Itapoa leva a arquivamento','description':'O caso apontava para a construcao de uma politica publica de destinacao de residuos de grande porte e a erradicacao da queima a ceu aberto. O MP entendeu que o inquerito cumpriu seu objetivo e arquivou o feito.','status':'🟢 arquivado','severity':'media'},
+    75: {'keep':True,'title':'MP arquiva apuracao sobre supressao de vegetacao','description':'O inquerito tratava de supressao de vegetacao nativa em Itapoa. A conclusao foi de que nao houve irregularidade e nao havia fundamento para a acao judicial.','status':'🟢 arquivado','severity':'media'},
+    82: {'keep':True,'title':'Expresso Maringa cumpre regra para idosos e caso e arquivado','description':'A apuracao verificava venda de passagens e reserva de lugares para idosos em viagens interestaduais. O MP constatou que a empresa atuava conforme a lei e arquivou o caso.','status':'🟢 arquivado','severity':'media'},
+    84: {'keep':True,'title':'MP aponta falha parcial na cobranca de contribuicao de melhoria','description':'O caso discutia a legalidade da contribuicao de melhoria ligada a obras na Avenida Celso Ramos. O texto confirma que houve descumprimento do limite legal em casos especificos, mas o recorte esta truncado e nao mostra o desfecho final.','status':'❔ status indef.','severity':'media'},
+    86: {'keep':True,'title':'Obras inacabadas em Itapoa sao esclarecidas e caso e arquivado','description':'A apuracao tratava de obras inacabadas em tres vias do municipio. O MP informou que recebeu esclarecimentos suficientes e que nao houve relato posterior de irregularidades.','status':'🟢 arquivado','severity':'media'},
+    89: {'keep':True,'title':'Irregularidades sanitarias em supermercados de Itapoa sao afastadas','description':'O inquerito avaliava supostas falhas sanitarias em varios supermercados e na vigilancia sanitaria municipal. A conclusao foi de que as irregularidades iniciais nao subsistiam e o caso foi arquivado.','status':'🟢 arquivado','severity':'media'},
+    92: {'keep':True,'title':'Caso da Colonia de Pescadores e arquivado apos transacao penal','description':'A apuracao era sobre um encerramento de processo administrativo ambiental ligado a pescadores no Porto Itapema. O MP apontou ausencia de omissao municipal, autuacao feita pela secretaria e transacao penal pactuada.','status':'🟢 arquivado','severity':'media'},
+    93: {'keep':True,'title':'Terraplanagem Dido e arquivada apos ausencia de licenca','description':'O MP apurava possivel irregularidade nas atividades da empresa. A conclusao foi que nao havia atividade sujeita a licenca ambiental e o caso foi arquivado.','status':'🟢 arquivado','severity':'media'},
+    94: {'keep':True,'title':'Terraplanagem Zagonel e arquivada apos exame ambiental','description':'O inquerito discutia eventual irregularidade em atividades de terraplanagem. O MP encerrou a apuracao sem apontar ilicito remanescente.','status':'🟢 arquivado','severity':'media'},
+    95: {'keep':True,'title':'Centro de reciclagem de Itapoa encerra apuracao do MP','description':'A investigação tratava da politica municipal de residuos solidos e da atividade de catacao. O MP concluiu que o municipio implantou adequadamente o centro de reciclagem e arquivou o caso.','status':'🟢 arquivado','severity':'media'},
+    96: {'keep':True,'title':'Regularizacao de area ocupada em Itapema do Saí II e arquivada','description':'O procedimento buscava a regularizacao de uma area ocupada irregularmente por familias de baixa renda. A noticia informa que houve arquivamento porque outro inquerito tinha objeto mais amplo sobre a mesma area.','status':'🟢 arquivado','severity':'media'},
+    98: {'keep':True,'title':'Imovel rural e regularizado e MP arquiva caso ambiental','description':'O MP apurava transformacao de imovel rural em urbano sem especializacao previa da reserva legal. O registro no CAR e a averbação da reserva legal foram feitos, levando ao arquivamento.','status':'🟢 arquivado','severity':'media'},
+    99: {'keep':True,'title':'MP arquiva caso de corte de vegetacao no terminal retroportuario','description':'A apuracao tratava de supressao de vegetacao sem licenciamento no terminal retroportuario. O MP concluiu que nao houve irregularidade nas autorizacoes e arquivou o feito.','status':'🟢 arquivado','severity':'media'},
+    102: {'keep':True,'title':'Praias de Itapoa sao consideradas proprias para banho','description':'O MP apurava as causas da nao balneabilidade de dois pontos das praias do municipio. A conclusao foi de que eram fatos isolados e as praias estavam proprias para banho.','status':'🟢 arquivado','severity':'media'},
+    106: {'keep':True,'title':'MP arquiva caso de possivel fraude documental em pregao de Itapoa','description':'A apuracao tratava do uso indevido de documentos e dados de terceiros para simular qualificacao tecnica em um pregao do municipio. O MP arquivou por ausencia de ato lesivo a administracao.','status':'🟢 arquivado','severity':'media'},
+    108: {'keep':True,'title':'Escola Arco Iris regulariza acessibilidade e caso e arquivado','description':'O caso apurava possiveis violacoes aos direitos de criancas estudantes por conduta de servidores nao identificados. O MP nao viu indicios suficientes e arquivou a apuracao.','status':'🟢 arquivado','severity':'media'},
+    110: {'keep':True,'title':'Escola Claiton Almir Hermes corrige acessibilidade e caso e arquivado','description':'O MP apurava falta de acessibilidade para pessoas com deficiencia ou mobilidade reduzida na escola municipal. As irregularidades foram sanadas e o caso foi arquivado.','status':'🟢 arquivado','severity':'media'},
+    116: {'keep':True,'title':'Barulho no Artes e Madeira e sanado e caso e arquivado','description':'A apuracao era sobre poluicao sonora no estabelecimento Artes e Madeira Antunes. O problema foi sanado e o MP arquivou o procedimento.','status':'🟢 arquivado','severity':'media'},
+    119: {'keep':True,'title':'Ohana Restaurante Beach encerra atividades e caso e arquivado','description':'O procedimento tratava de poluicao sonora ligada ao restaurante. Com o encerramento das atividades, o MP arquivou o caso.','status':'🟢 arquivado','severity':'media'},
+    121: {'keep':True,'title':'Obra do Terminal Gas Sul encerra poluicao sonora, mas desfecho fica truncado','description':'O inquerito tratava de poluicao sonora ligada a obra do HDD do Terminal Gas Sul. O texto informa que a obra terminou e a poluicao cessou, mas o recorte nao mostra o desfecho final.','status':'❔ status indef.','severity':'media'},
+    126: {'keep':True,'title':'MP firma TAC para ajustar quadro de docentes em Itapoa','description':'O caso tratava da proporcao entre docentes por tipo de vinculo na rede municipal de educacao. Houve TAC firmado e arquivamento.','status':'🟠 TAC firmado','severity':'media'},
+    139: {'keep':True,'title':'Caso sobre descumprimento da Covid-19 perde objeto apos encerramento da empresa','description':'A apuracao mirava dano moral coletivo por descumprimento de regras da pandemia por uma empresa. Com o falecimento do proprietario e o fechamento do negocio, o MP arquivou por perda do objeto.','status':'🟢 arquivado','severity':'media'},
+    140: {'keep':True,'title':'MP arquiva caso e afasta falha em testes de Covid na saude de Itapoa','description':'O procedimento analisava suposta falha na realizacao de testes de Covid-19 em pacientes sintomaticos. O MP concluiu que nao houve falha na prestacao do servico publico e arquivou.','status':'🟢 arquivado','severity':'media'},
+    141: {'keep':True,'title':'MP ajuiza ACP para regularizar transporte escolar em Itapoa','description':'A conclusao foi pelo ajuizamento de acao civil publica para obrigar a regularizacao do transporte escolar gratuito. Parte da apuracao sobre negativas de vaga em 2016 foi arquivada parcialmente.','status':'🔴 ACP ajuizada','severity':'alta'},
+    142: {'keep':True,'title':'Rede municipal acompanha internacao e caso e arquivado','description':'O MP apurava a situacao de pessoa internada involuntariamente por uso de drogas. O assistido estava acompanhado pela rede municipal, nao havia drogadição comprovada e o caso foi arquivado.','status':'🟢 arquivado','severity':'media'},
+    143: {'keep':True,'title':'MP arquiva procedimento sobre regras da Covid em bar de Itapoa','description':'O procedimento tratava do descumprimento de normas de enfrentamento da Covid-19. O acompanhamento ficou na esfera administrativa e houve arquivamento.','status':'🟢 arquivado','severity':'media'},
+    150: {'keep':True,'title':'MP arquiva caso da Covid apos providencias do municipio','description':'A apuracao cuidava das medidas de enfrentamento da pandemia em Itapoa. Como o municipio adotou providencias e nao houve noticia de descumprimento das recomendacoes, o caso foi arquivado.','status':'🟢 arquivado','severity':'media'},
+    153: {'keep':True,'title':'Igreja Shekinah ajusta barulho e caso e arquivado','description':'O MP apurava reclamacoes sobre barulho excessivo oriundo da igreja. As modificacoes necessarias foram feitas e o caso foi arquivado.','status':'🟢 arquivado','severity':'media'},
+    154: {'keep':True,'title':'MP firma TAC sobre controle interno de Itapoa','description':'O inquerito discutia a adequacao da atuacao da Unidade de Controle Interno do municipio. Houve TAC firmado e arquivamento.','status':'🟠 TAC firmado','severity':'media'},
+    155: {'keep':True,'title':'MP firma TAC para regularizar Procuradoria Juridica de Itapoa','description':'A apuracao tratava da omissao do administrador publico em regularizar a estrutura da Procuradoria Juridica, com cargos juridicos todos comissionados. O MP fechou TAC e arquivou o caso.','status':'🟠 TAC firmado','severity':'media'},
+    157: {'keep':True,'title':'Cobranca da Itapoa Saneamento e corrigida e caso e arquivado','description':'O caso analisava cobranca contra proprietario por debitos deixados por terceiros. A recomendacao foi expedida e acatada, e o MP arquivou.','status':'🟢 arquivado','severity':'media'},
+    158: {'keep':True,'title':'MP adita TAC sobre controle interno de Itapoa','description':'Em fase posterior do mesmo caso, o MP promoveu aditamento ao TAC ja existente sobre a Unidade de Controle Interno. O inquerito foi arquivado.','status':'🟠 TAC firmado','severity':'media'},
+    159: {'keep':True,'title':'MP adita TAC para regularizar cargos juridicos em Itapoa','description':'O mesmo tema da Procuradoria Juridica voltou em fase posterior. O MP fez aditamento ao TAC anteriormente firmado e arquivou o inquerito.','status':'🟠 TAC firmado','severity':'media'},
+    162: {'keep':True,'title':'Rota Beer fecha as portas e MP arquiva caso de shows sem alvara','description':'A apuracao tratava de eventos sem alvaras no estabelecimento Rota Beer. Com o fechamento do local, o MP arquivou.','status':'🟢 arquivado','severity':'media'},
+    163: {'keep':True,'title':'MP fecha caso de supressao de vegetacao com ANPP','description':'O caso tratava de possivel licenca ambiental para supressao de vegetacao e de suposta omissao na fiscalizacao. O MP reconheceu a inexistencia de omissao municipal, houve autuacao e foi formalizado acordo de nao persecução penal.','status':'🟠 ACNP firmado','severity':'media'},
+    166: {'keep':True,'title':'Regularizacao ambiental de imovel em Itapoa leva a arquivamento','description':'O MP apurava transformacao de imovel rural para urbano sem reserva legal regular. Com o CAR e a averbação da reserva legal, o caso foi arquivado.','status':'🟢 arquivado','severity':'media'},
+    167: {'keep':True,'title':'MP apura dano ambiental em imovel do Porto Itapoa','description':'O inquerito tratava de responsabilidade civil por dano ambiental em propriedade perto do Porto Itapoa. O recorte esta truncado e nao mostra o desfecho completo.','status':'❔ status indef.','severity':'media'},
+    168: {'keep':True,'title':'Terraplanagem Coterra tem irregularidades sanadas e crime prescreve','description':'O caso tratava de eventual irregularidade nas atividades da empresa. O MP arquivou por irregularidades sanadas e consignou prescricao do crime.','status':'⚫ prescrito','severity':'media'},
+    173: {'keep':True,'title':'Atividades de terraplanagem ficam licenciadas e caso e arquivado','description':'O inquerito apurava eventual irregularidade em atividades de terraplanagem. O MP concluiu que as atividades estavam devidamente licenciadas e arquivou.','status':'🟢 arquivado','severity':'media'},
+    174: {'keep':True,'title':'Vigilancia Sanitária corrige analise de projetos e caso e arquivado','description':'O MP apurava possivel ausencia de analise de projetos hidrossanitarios. A recomendacao foi expedida e acatada, e o caso foi arquivado.','status':'🟢 arquivado','severity':'media'},
+    184: {'keep':True,'title':'MP arquiva caso sobre combate ao Aedes apos recomendacao cumprida','description':'A apuracao tratava da estrutura de combate ao Aedes aegypti e das acoes de monitoramento. Com a recomendacao acatada, o inquerito foi arquivado.','status':'🟢 arquivado','severity':'media'},
+    186: {'keep':True,'title':'MP arquiva apuracao sobre licitacoes com Concretiza Incorporadora','description':'O caso mirava possivel ato atentatorio a moralidade administrativa em licitacoes de Itapoa. O MP nao viu base para responsabilizacao da empresa e arquivou.','status':'🟢 arquivado','severity':'media'},
+    188: {'keep':True,'title':'Conflito de interesses na pesca e encerrado com arquivamento','description':'O inquerito apurava exercicio simultaneo de cargo no municipio e presidencia de colonia de pescadores. Com a renuncia voluntaria e a recomposicao da ordem juridica, o MP arquivou.','status':'🟢 arquivado','severity':'media'},
+    194: {'keep':True,'title':'MP arquiva caso sobre falhas em edital de obra de Itapoa','description':'A apuracao mirava a planilha orcamentaria e o projeto arquitetonico de uma concorrencia do municipio. O MP concluiu que nao houve ato lesivo e arquivou.','status':'🟢 arquivado','severity':'media'},
+    203: {'keep':True,'title':'Decreto corrige edital da Educacao e MP arquiva caso','description':'O inquerito tratava de irregularidades no edital 049/2024 da Secretaria de Educacao. Um decreto municipal sanou as desconformidades e o caso foi arquivado.','status':'🟢 arquivado','severity':'media'},
+    204: {'keep':True,'title':'MP arquiva caso sobre ambulancias e afasta dano a saude','description':'A apuracao discutia eventual dano ao direito difuso a saude por equipamentos irregulares em empresa de ambulancia. O MP nao comprovou irregularidades e arquivou.','status':'🟢 arquivado','severity':'media'},
+    205: {'keep':True,'title':'ILPI Reviver Lar dos Idosos regulariza exigencias e caso e arquivado','description':'O caso apurava a abertura da instituicao de longa permanencia para idosos. As exigencias sanitarias e de seguranca foram atendidas e o MP arquivou.','status':'🟢 arquivado','severity':'media'},
+    209: {'keep':True,'title':'MP arquiva apuracao sobre atendimento a desaparecimento por conselheira tutelar','description':'O inquerito tratava da forma de atendimento a um desaparecimento pela Conselheira Tutelar. O MP nao constatou irregularidade e arquivou.','status':'🟢 arquivado','severity':'media'},
+    214: {'keep':True,'title':'MP arquiva caso de descumprimento da Covid apos ausencia de dano coletivo','description':'A apuracao mirava dano moral coletivo por descumprimento de normas da pandemia. O MP concluiu que nao havia fundamentos para o dano coletivo e arquivou.','status':'🟢 arquivado','severity':'media'},
+    215: {'keep':True,'title':'Discoteca do Petisco e arquivada em caso da Covid','description':'O procedimento tratava de descumprimento de normas sanitarias na pandemia. Como o estabelecimento estava fechado e nao houve base para dano coletivo, o caso foi arquivado.','status':'🟢 arquivado','severity':'media'},
+    217: {'keep':True,'title':'Lechman Terminais e arquivada em caso da Covid','description':'A apuracao era sobre descumprimento das regras de enfrentamento da pandemia. O MP nao viu fundamentos para dano moral coletivo e arquivou.','status':'🟢 arquivado','severity':'media'},
+    218: {'keep':True,'title':'Itapoa Saneamento se livra de cobranca excessiva por extensao de rede','description':'O caso apurava suposta cobranca irregular de extensao da rede de agua em uma rua da cidade. O MP concluiu que a cobranca nao era excessiva e arquivou.','status':'🟢 arquivado','severity':'media'},
+    219: {'keep':True,'title':'Estrada escolar e considerada em boas condicoes e caso e arquivado','description':'O procedimento verificava a situacao da estrada usada no transporte escolar. A prefeitura informou que a via estava em boas condicoes e o caso foi arquivado.','status':'🟢 arquivado','severity':'media'},
+    236: {'keep':True,'title':'MP firma TAC com ACINI por evento infantil sem autorizacao judicial','description':'A ACINI foi apurada por promover evento sem a autorizacao judicial exigida pelo ECA. O MP formalizou TAC e arquivou o inquerito.','status':'🟠 TAC firmado','severity':'media'},
+    238: {'keep':True,'title':'Delegacia de Itapoa inicia regularizacao e MP arquiva caso de acessibilidade','description':'O inquerito tratava da falta de acessibilidade na Delegacia de Policia Civil de Itapoa. Com o inicio da regularizacao, o MP arquivou e manteve acompanhamento por procedimento administrativo.','status':'🟢 arquivado','severity':'media'},
+    2: {'keep':True,'title':'TCE aprova contas de Itapoa de 2024','description':'O Tribunal de Contas emitiu parecer pela aprovacao das contas do prefeito referentes ao exercicio de 2024. O julgamento abrange as gestoes de Jeferson Rubens Garcia e Jonecir Soares no periodo indicado.','status':'🟢 parecer pela aprovação','severity':'media'},
+    3: {'keep':True,'title':'TCE multa gestores de Itapoa no caso da UPA 24h','description':'A denuncia sobre o chamamento publico da UPA 24h foi julgada procedente. O Tribunal aplicou multas aos responsaveis por falhas no contrato de gestao e na modelagem da contratacao.','status':'⬛ julgado irregular + multa','severity':'alta'},
+    4: {'keep':True,'title':'TCE nao conhece PAP sobre contratacao na saude de Itapoa','description':'O PAP sobre possiveis irregularidades na contratacao de servicos de saude nao passou na admissibilidade. O pedido cautelar foi prejudicado e os autos foram arquivados sem analise de merito.','status':'❔ não conhecido (sem análise)','severity':'media'},
+    6: {'keep':True,'title':'TCE aprova contas de Itapoa de 2023','description':'O parecer previo foi favoravel as contas do prefeito referentes ao exercicio de 2023. Nao houve ressalva sancionatoria no trecho exibido.','status':'🟢 parecer pela aprovação','severity':'media'},
+    11: {'keep':True,'title':'TCE cobra Itapoa sobre horas extras, banco de horas e sobreaviso','description':'A inspeção apontou irregularidades em horas extras, banco de horas e sobreaviso no municipio. O Tribunal determinou providencias e abriu instrução para defesa dos responsaveis.','status':'🟡 em instrução (citação/audiência)','severity':'media'},
+    12: {'keep':True,'title':'TCE nao conhece PAP sobre concorrencia 03/2022 em Itapoa','description':'A representacao foi considerada sem seletividade e o pedido de sustacao foi negado. O processo foi arquivado sem conversao do PAP em representacao.','status':'❔ não conhecido (sem análise)','severity':'media'},
+    13: {'keep':True,'title':'TCE aprova contas de Itapoa de 2021','description':'O parecer previo foi pela aprovacao das contas do prefeito relativas ao exercicio de 2021.','status':'🟢 parecer pela aprovação','severity':'media'},
+    14: {'keep':True,'title':'TCE aprova contas de Itapoa de 2022','description':'O parecer previo foi pela aprovacao das contas do prefeito relativas ao exercicio de 2022. O periodo cobriu a transicao entre Marlon Roberto Neuber e Jeferson Rubens Garcia.','status':'🟢 parecer pela aprovação','severity':'media'},
+    15: {'keep':True,'title':'TCE nao conhece representacao sobre pregao 08/2024 em Itapoa','description':'A representacao nao atendeu aos requisitos de admissibilidade e foi arquivada. O TCE deu ciencia da decisao a prefeitura e ao representado.','status':'❔ não conhecido (sem análise)','severity':'media'},
+    17: {'keep':True,'title':'TCE arquiva representacao sobre pregao 33/2024 de Itapoa','description':'A representacao foi barrada por falta de seletividade e o processo acabou arquivado. O Tribunal nao entrou no merito das alegadas irregularidades.','status':'❔ não conhecido (sem análise)','severity':'media'},
+    18: {'keep':True,'title':'TCE nao conhece representacao sobre pregao 007/2026 em Itapoa','description':'A denuncia nao passou pelo filtro de seletividade e foi arquivada. O TCE apenas deu ciencia ao representado e ao controle interno.','status':'❔ não conhecido (sem análise)','severity':'media'},
+    21: {'keep':True,'title':'TCE arquiva representacao contra concorrencia 08/2021 em Itapoa','description':'O Tribunal reconheceu a perda do objeto porque a licitacao ja havia sido anulada. Mesmo assim, deixou recomendacoes para futuros certames.','status':'🟢 julgado regular','severity':'media'},
+    22: {'keep':True,'title':'TCE julga improcedente representacao sobre obra da Escola Frei Valentim','description':'A representacao foi conhecida, mas o merito foi considerado improcedente apos saneamento da impropriedade. O processo acabou arquivado.','status':'🟢 julgado regular','severity':'media'},
+    24: {'keep':True,'title':'TCE barra aposentadoria de servidora do IPESI por falha no laudo medico','description':'O Tribunal apontou ausencia de laudo medico oficial circunstanciado para o ato de aposentadoria. O IPESI precisa corrigir a falha para tentar o registro do ato.','status':'⬛ julgado irregular','severity':'media'},
+    25: {'keep':True,'title':'TCE nao conhece PAP sobre reenquadramento de servidora em Itapoa','description':'O procedimento nao ultrapassou os requisitos de seletividade e foi arquivado. Nao houve analise de merito.','status':'❔ não conhecido (sem análise)','severity':'media'},
+    27: {'keep':True,'title':'TCE mantém multa em auditoria sobre atos de pessoal em Itapoa','description':'No recurso, o Tribunal manteve integralmente o acórdão anterior no processo de auditoria. A sancao e as determinacoes seguiram validas.','status':'⬛ julgado irregular + multa','severity':'alta'},
+    35: {'keep':True,'title':'TCE mantém multa em recurso sobre atos de pessoal de Itapoa','description':'O recurso contra o acórdão da auditoria foi negado, com manutencao integral da decisao anterior. As multas permanecem para o gestor.','status':'⬛ julgado irregular + multa','severity':'alta'},
+    37: {'keep':True,'title':'TCE encerra inspeção sobre situacao atuarial do IPESI','description':'A inspeção sobre a situacao atuarial do regime proprio foi encerrada por exaurimento do objeto. A decisao apenas deu ciencia ao municipio e ao IPESI.','status':'🟢 julgado regular','severity':'media'},
+    38: {'keep':True,'title':'TCE susta edital de iluminacao publica de Itapoa','description':'O Tribunal encontrou sobrepreco e problemas na formacao do orcamento da Concorrencia 05/2025. A medida cautelar sustou o edital ate nova deliberação.','status':'🟠 cautelar / sustação','severity':'media'},
+    39: {'keep':True,'title':'TCE barra aposentadoria de servidora por enquadramento irregular','description':'O ato de aposentadoria foi considerado ilegal por derivar de enquadramento irregular sem concurso. O IPESI foi instado a anular a portaria e observar o devido processo legal.','status':'⬛ julgado irregular','severity':'media'},
+}
+
+for name in inputs:
+    path=os.path.join(base,'_lotes',name)
+    with open(path,'r',encoding='utf-8') as f:
+        data=json.load(f)
+    out=[]
+    keep_true=0
+    high=0
+    for case in data['casos']:
+        idx=case['i']
+        item={'i':idx,'tipo':case['tipo']}
+        if idx in true_map:
+            item.update(true_map[idx])
+            keep_true += 1
+            if item['severity']=='alta':
+                high += 1
+        else:
+            item.update(false_default)
+        out.append(item)
+    outpath=os.path.join(outdir,name)
+    with open(outpath,'w',encoding='utf-8') as f:
+        json.dump(out,f,ensure_ascii=False,indent=2)
+    print(f'{name} {len(data["casos"])} {keep_true} {high}')
+PY
+itapoa__1.json 70 26 0
+itapoa__2.json 70 26 1
+itapoa__3.json 70 27 3
+[0m
+Os três curados já foram gerados. Vou só validar que os JSONs abrem e que os totais batem antes de fechar.
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/itapoa__1.json[90m [offset=1, limit=40][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/itapoa__3.json[90m [offset=1, limit=80][0m
+[0m
+[0m$ [0mpython3 - <<'PY'
+import json
+for name in ['itapoa__1.json','itapoa__2.json','itapoa__3.json']:
+    path=f'/Users/jairofortunato/mp/pdf_template/amunesc/_lotes_curados/{name}'
+    with open(path,encoding='utf-8') as f:
+        data=json.load(f)
+    print(name, len(data), len(data))
+PY
+itapoa__1.json 70 70
+itapoa__2.json 70 70
+itapoa__3.json 70 70
+[0m
+Validado o formato. Vou conferir só os blocos TCE mais sensíveis no fim do terceiro lote, porque ali estavam os cortes por fase e os casos com multa.
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/itapoa__3.json[90m [offset=220, limit=200][0m
+[0m
+[0m# [0mTodos
+[✓] Ler pdf_template/CURADORIA.md e extrair critérios obrigatórios
+[✓] Curar pdf_template/amunesc/_lotes/itapoa__1.json e salvar em _lotes_curados
+[✓] Curar pdf_template/amunesc/_lotes/itapoa__2.json e salvar em _lotes_curados
+[✓] Curar pdf_template/amunesc/_lotes/itapoa__3.json e salvar em _lotes_curados
+[✓] Reportar contagem final por lote: total, keep:true, severity alta
+[0m
+Curados e gravados em `pdf_template/amunesc/_lotes_curados/`.
+
+- `itapoa__1.json`: 70 casos, 26 `keep:true`, 0 `severity alta`
+- `itapoa__2.json`: 70 casos, 26 `keep:true`, 1 `severity alta`
+- `itapoa__3.json`: 70 casos, 27 `keep:true`, 3 `severity alta`

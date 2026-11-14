@@ -1,0 +1,89 @@
+[0m
+> build · gpt-5.4-mini
+[0m
+Vou ler o critério e os três lotes, julgar caso a caso e gravar cada saída imediatamente no diretório curado.
+[0m# [0mTodos
+[•] Ler pdf_template/CURADORIA.md e entender critérios
+[ ] Analisar joinville__29.json caso a caso com a fonte
+[ ] Gravar pdf_template/amunesc/_lotes_curados/joinville__29.json
+[ ] Analisar joinville__30.json caso a caso com a fonte
+[ ] Gravar pdf_template/amunesc/_lotes_curados/joinville__30.json
+[ ] Analisar joinville__31.json caso a caso com a fonte
+[ ] Gravar pdf_template/amunesc/_lotes_curados/joinville__31.json
+[ ] Reportar contagens por lote
+[0m
+[0m→ [0mRead pdf_template/CURADORIA.md
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__29.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__31.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__30.json
+Achei vários itens com fase duplicada e muitos trechos curtos/truncados; vou tratar as instaurações sem objeto como corte e só manter as conclusões com substância.
+[0m✱ [0mGlob "joinville__30.json"[90m in pdf_template/amunesc/_lotes_curados · 0 matches[0m
+[0m✱ [0mGlob "joinville__29.json"[90m in pdf_template/amunesc/_lotes_curados · 0 matches[0m
+[0m✱ [0mGlob "joinville__31.json"[90m in pdf_template/amunesc/_lotes_curados · 0 matches[0m
+Vou gravar o primeiro lote agora com a regra de corte para fases repetidas e os casos vagos como `keep:false` ou `status` indefinido.
+[0m% [0mPatch 1 file
+Agora vou fechar o segundo lote, mantendo como `keep:false` os registros só com instauração ou texto vago, e marcando duplicata posterior como corte.
+[0m% [0mPatch 1 file
+Fecho o terceiro lote agora, incluindo os casos com conclusão truncada como `status` indefinido quando ainda há substância suficiente para manter o card.
+[0m% [0mPatch 1 file
+Vou validar a sintaxe dos três curados e conferir as contagens finais antes de reportar.
+[0m
+[0m$ [0mpython - <<'PY'
+import json
+for p in ['pdf_template/amunesc/_lotes_curados/joinville__29.json','pdf_template/amunesc/_lotes_curados/joinville__30.json','pdf_template/amunesc/_lotes_curados/joinville__31.json']:
+    with open(p) as f:
+        json.load(f)
+print('ok')
+PY
+zsh:1: command not found: python
+[0m
+[0m$ [0mpython - <<'PY'
+import json,sys
+for p in ['pdf_template/amunesc/_lotes_curados/joinville__29.json','pdf_template/amunesc/_lotes_curados/joinville__30.json','pdf_template/amunesc/_lotes_curados/joinville__31.json']:
+    with open(p) as f:
+        data=json.load(f)
+    keep=sum(1 for x in data if x.get('keep'))
+    high=sum(1 for x in data if x.get('severity')=='alta')
+    print(p, len(data), keep, high)
+PY
+zsh:1: command not found: python
+[0m
+O ambiente não tem `python`; vou validar com `python3` e fechar as contagens.
+[0m$ [0mpython3 - <<'PY'
+import json
+for p in ['pdf_template/amunesc/_lotes_curados/joinville__29.json','pdf_template/amunesc/_lotes_curados/joinville__30.json','pdf_template/amunesc/_lotes_curados/joinville__31.json']:
+    with open(p) as f:
+        json.load(f)
+print('ok')
+PY
+ok
+[0m
+[0m$ [0mpython3 - <<'PY'
+import json
+for p in ['pdf_template/amunesc/_lotes_curados/joinville__29.json','pdf_template/amunesc/_lotes_curados/joinville__30.json','pdf_template/amunesc/_lotes_curados/joinville__31.json']:
+    with open(p) as f:
+        data=json.load(f)
+    keep=sum(1 for x in data if x.get('keep'))
+    high=sum(1 for x in data if x.get('severity')=='alta')
+    print(p, len(data), keep, high)
+PY
+pdf_template/amunesc/_lotes_curados/joinville__29.json 70 43 0
+pdf_template/amunesc/_lotes_curados/joinville__30.json 70 45 0
+pdf_template/amunesc/_lotes_curados/joinville__31.json 70 53 0
+[0m
+[0m# [0mTodos
+[✓] Ler pdf_template/CURADORIA.md e entender critérios
+[✓] Analisar joinville__29.json caso a caso com a fonte
+[✓] Gravar pdf_template/amunesc/_lotes_curados/joinville__29.json
+[✓] Analisar joinville__30.json caso a caso com a fonte
+[✓] Gravar pdf_template/amunesc/_lotes_curados/joinville__30.json
+[✓] Analisar joinville__31.json caso a caso com a fonte
+[✓] Gravar pdf_template/amunesc/_lotes_curados/joinville__31.json
+[✓] Reportar contagens por lote
+[0m
+Gravei os três lotes curados em `pdf_template/amunesc/_lotes_curados/`.
+
+Contagens:
+- `joinville__29.json`: 70 casos, 43 `keep:true`, 0 `severity: alta`
+- `joinville__30.json`: 70 casos, 45 `keep:true`, 0 `severity: alta`
+- `joinville__31.json`: 70 casos, 53 `keep:true`, 0 `severity: alta`

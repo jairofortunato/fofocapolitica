@@ -1,0 +1,635 @@
+{
+ "cidade": "Joinville",
+ "casos": [
+  {
+   "i": 1120,
+   "tipo": "mp",
+   "ref": "06.2023.00003765-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00003765-1",
+   "status": "🟡 em apuração",
+   "data": "27/09/2023",
+   "texto": "Município de Joinville."
+  },
+  {
+   "i": 1121,
+   "tipo": "mp",
+   "ref": "01.2023.00027580-6",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2023.00027580-6",
+   "status": "🟢 arquivado",
+   "data": "28/09/2023",
+   "texto": "Ana Lima e Município de Joinville. Conclusão: situação de risco de um canino de cor preta. Suposto acolhimento pela noticiante do canino que se encontrava nas ruas em situação de abandono. Pedido de acolhimento do animal pelo Centro de Bem-Estar Animal. Canino acolhido e risco cessado. Apuração de conduta criminosa a ser efetuada pela Autoridade Policial. Indeferimento de instauração com base no artigo 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 1122,
+   "tipo": "mp",
+   "ref": "01.2023.00029081-8",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2023.00029081-8",
+   "status": "🟢 arquivado",
+   "data": "28/09/2023",
+   "texto": "Dirce Sampaio, Sandra e Município de Joinville. Conclusão: situação de risco de dois caninos e filhotes. Acolhidos por Sandra e mantidos em lar temporário. Acolhimento efetuado pelo Centro de Bem-Estar Animal. Risco cessado. Indeferimento de instauração com base no artigo 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 1123,
+   "tipo": "mp",
+   "ref": "06.2022.00003476-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00003476-1",
+   "status": "❔ status indef.",
+   "data": "04/10/2023",
+   "texto": "Município de Joinville, Fernando Pacher, Ricardo Pereira de Miranda."
+  },
+  {
+   "i": 1124,
+   "tipo": "mp",
+   "ref": "01.2023.00041667-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00041667-7",
+   "status": "🟡 em apuração",
+   "data": "04/10/2023",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 1125,
+   "tipo": "mp",
+   "ref": "01.2023.00041676-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00041676-6",
+   "status": "🟡 em apuração",
+   "data": "04/10/2023",
+   "texto": "Quélita Goedert e pessoa a ser identificada."
+  },
+  {
+   "i": 1126,
+   "tipo": "mp",
+   "ref": "01.2023.00041690-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00041690-0",
+   "status": "🟡 em apuração",
+   "data": "04/10/2023",
+   "texto": "Kaiane Caroline de Souza Vieira."
+  },
+  {
+   "i": 1127,
+   "tipo": "mp",
+   "ref": "01.2023.00041723-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00041723-2",
+   "status": "🟡 em apuração",
+   "data": "04/10/2023",
+   "texto": "Eliana."
+  },
+  {
+   "i": 1128,
+   "tipo": "mp",
+   "ref": "01.2023.00041778-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00041778-7",
+   "status": "🟡 em apuração",
+   "data": "04/10/2023",
+   "texto": "Josiane Cardoso."
+  },
+  {
+   "i": 1129,
+   "tipo": "mp",
+   "ref": "01.2023.00041906-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00041906-3",
+   "status": "🟡 em apuração",
+   "data": "04/10/2023",
+   "texto": "Jackeline Moreira."
+  },
+  {
+   "i": 1130,
+   "tipo": "mp",
+   "ref": "06.2023.00003938-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00003938-2",
+   "status": "🟡 em apuração",
+   "data": "05/10/2023",
+   "texto": "Município de Joinville."
+  },
+  {
+   "i": 1131,
+   "tipo": "mp",
+   "ref": "01.2023.00042412-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00042412-2",
+   "status": "🟡 em apuração",
+   "data": "09/10/2023",
+   "texto": "Nathi Lentx."
+  },
+  {
+   "i": 1132,
+   "tipo": "mp",
+   "ref": "01.2023.00042468-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00042468-8",
+   "status": "🟡 em apuração",
+   "data": "09/10/2023",
+   "texto": "sigilosa."
+  },
+  {
+   "i": 1133,
+   "tipo": "mp",
+   "ref": "01.2023.00042477-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00042477-7",
+   "status": "🟡 em apuração",
+   "data": "09/10/2023",
+   "texto": "Maria Oli."
+  },
+  {
+   "i": 1134,
+   "tipo": "mp",
+   "ref": "06.2023.00000305-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00000305-0",
+   "status": "🟡 em apuração",
+   "data": "10/10/2023",
+   "texto": "Município de Joinville."
+  },
+  {
+   "i": 1135,
+   "tipo": "mp",
+   "ref": "06.2023.00003949-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00003949-3",
+   "status": "🟡 em apuração",
+   "data": "11/10/2023",
+   "texto": "Município de Joinville."
+  },
+  {
+   "i": 1136,
+   "tipo": "mp",
+   "ref": "06.2023.00003969-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00003969-3",
+   "status": "🟡 em apuração",
+   "data": "11/10/2023",
+   "texto": "Município de Joinville."
+  },
+  {
+   "i": 1137,
+   "tipo": "mp",
+   "ref": "01.2023.00043438-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00043438-6",
+   "status": "🟡 em apuração",
+   "data": "16/10/2023",
+   "texto": "Liliane Lovato."
+  },
+  {
+   "i": 1138,
+   "tipo": "mp",
+   "ref": "01.2023.00043688-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00043688-4",
+   "status": "🟡 em apuração",
+   "data": "17/10/2023",
+   "texto": "Liliane Lovato."
+  },
+  {
+   "i": 1139,
+   "tipo": "mp",
+   "ref": "06.2023.00000342-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00000342-8",
+   "status": "🟡 em apuração",
+   "data": "17/10/2023",
+   "texto": "Município de Joinville, Miguel Henrique de Oliveira Neto."
+  },
+  {
+   "i": 1140,
+   "tipo": "mp",
+   "ref": "01.2023.00043920-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00043920-4",
+   "status": "🟡 em apuração",
+   "data": "18/10/2023",
+   "texto": "Kariny Delgado."
+  },
+  {
+   "i": 1141,
+   "tipo": "mp",
+   "ref": "01.2023.00044133-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00044133-2",
+   "status": "🟡 em apuração",
+   "data": "19/10/2023",
+   "texto": "Célia Xavie."
+  },
+  {
+   "i": 1142,
+   "tipo": "mp",
+   "ref": "01.2023.00044326-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00044326-3",
+   "status": "🟡 em apuração",
+   "data": "20/10/2023",
+   "texto": "Alessandro Miloschewski Petry."
+  },
+  {
+   "i": 1143,
+   "tipo": "mp",
+   "ref": "01.2023.00045313-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00045313-9",
+   "status": "🟡 em apuração",
+   "data": "26/10/2023",
+   "texto": "Priscila Resendes."
+  },
+  {
+   "i": 1144,
+   "tipo": "mp",
+   "ref": "01.2023.00045766-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00045766-8",
+   "status": "🟡 em apuração",
+   "data": "30/10/2023",
+   "texto": "Disio Vieira."
+  },
+  {
+   "i": 1145,
+   "tipo": "mp",
+   "ref": "01.2023.00046270-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00046270-5",
+   "status": "🟡 em apuração",
+   "data": "03/11/2023",
+   "texto": "Alessandra Dealtina Bauer Martins."
+  },
+  {
+   "i": 1146,
+   "tipo": "mp",
+   "ref": "01.2023.00046805-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00046805-4",
+   "status": "🟡 em apuração",
+   "data": "07/11/2023",
+   "texto": "Priscila Damião Martins."
+  },
+  {
+   "i": 1147,
+   "tipo": "mp",
+   "ref": "01.2023.00047160-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00047160-4",
+   "status": "🟡 em apuração",
+   "data": "08/11/2023",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 1148,
+   "tipo": "mp",
+   "ref": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00047979- 5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00047979- 5",
+   "status": "🟡 em apuração",
+   "data": "16/11/2023",
+   "texto": "Eloisa Corrente."
+  },
+  {
+   "i": 1149,
+   "tipo": "mp",
+   "ref": "01.2023.00048233-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00048233-4",
+   "status": "🟡 em apuração",
+   "data": "16/11/2023",
+   "texto": "Felipe Kinas Dippe."
+  },
+  {
+   "i": 1150,
+   "tipo": "mp",
+   "ref": "06.2023.00004469-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE PROCEDIMENTO PREPARATÓRIO N. 06.2023.00004469-6",
+   "status": "🟡 em apuração",
+   "data": "16/11/2023",
+   "texto": "Antonio Henrique Gonçalves."
+  },
+  {
+   "i": 1151,
+   "tipo": "mp",
+   "ref": "01.2023.00048266-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00048266-7",
+   "status": "🟡 em apuração",
+   "data": "17/11/2023",
+   "texto": "Luiz Carlos."
+  },
+  {
+   "i": 1152,
+   "tipo": "mp",
+   "ref": "01.2023.00048332-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00048332-2",
+   "status": "🟡 em apuração",
+   "data": "17/11/2023",
+   "texto": "Ana Paula Machado."
+  },
+  {
+   "i": 1153,
+   "tipo": "mp",
+   "ref": "06.2023.00004204-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00004204-3",
+   "status": "🟡 em apuração",
+   "data": "17/11/2023",
+   "texto": "Município de Joinville."
+  },
+  {
+   "i": 1154,
+   "tipo": "mp",
+   "ref": "06.2023.00004465-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00004465-2",
+   "status": "🟡 em apuração",
+   "data": "17/11/2023",
+   "texto": "imóvel localizado na rua Olaria, em frente ao residencial Cidade das Flores - Floresta, Joinville/SC e Secretaria de Meio Ambiente de Joinville (SAMA)."
+  },
+  {
+   "i": 1155,
+   "tipo": "mp",
+   "ref": "06.2023.00004468-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00004468-5",
+   "status": "🟡 em apuração",
+   "data": "17/11/2023",
+   "texto": "imóvel localizado Estrada do Atalhado - Vila Nova, Joinville e Secretaria de Meio Ambiente de Joinville (SAMA)."
+  },
+  {
+   "i": 1156,
+   "tipo": "mp",
+   "ref": "01.2023.00047242-5",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2023.00047242-5",
+   "status": "🟢 arquivado",
+   "data": "22/11/2023",
+   "texto": "Glaucia de Souza e Município de Joinville. Conclusão: Notícia de Fato. Negativa de abono de falta de servidora pública municipal. Atipicidade da conduta sob o enfoque da moralidade administrativa. Indeferimento de abertura de investigação. Arquivamento."
+  },
+  {
+   "i": 1157,
+   "tipo": "mp",
+   "ref": "01.2023.00048906-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00048906-0",
+   "status": "🟡 em apuração",
+   "data": "22/11/2023",
+   "texto": "Liliane Lovato."
+  },
+  {
+   "i": 1158,
+   "tipo": "mp",
+   "ref": "01.2023.00049257-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00049257-6",
+   "status": "🟡 em apuração",
+   "data": "27/11/2023",
+   "texto": "Jakeline K. Camillo."
+  },
+  {
+   "i": 1159,
+   "tipo": "mp",
+   "ref": "01.2023.00049258-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00049258-7",
+   "status": "🟡 em apuração",
+   "data": "27/11/2023",
+   "texto": "Liliane Lovato - ONG FRADA."
+  },
+  {
+   "i": 1160,
+   "tipo": "mp",
+   "ref": "01.2023.00049503-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00049503-0",
+   "status": "🟡 em apuração",
+   "data": "27/11/2023",
+   "texto": "Milene Tavares da Rosa."
+  },
+  {
+   "i": 1161,
+   "tipo": "mp",
+   "ref": "01.2023.00049570-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00049570-7",
+   "status": "🟡 em apuração",
+   "data": "28/11/2023",
+   "texto": "João Lucas Morandin."
+  },
+  {
+   "i": 1162,
+   "tipo": "mp",
+   "ref": "01.2023.00049649-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00049649-4",
+   "status": "🟡 em apuração",
+   "data": "28/11/2023",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 1163,
+   "tipo": "mp",
+   "ref": "06.2023.00004633-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE PROCEDIMENTO PREPARATÓRIO N. 06.2023.00004633-9",
+   "status": "🟡 em apuração",
+   "data": "29/11/2023",
+   "texto": "Centro de Convenções e Exposições Expoville e Município de Joinville."
+  },
+  {
+   "i": 1164,
+   "tipo": "mp",
+   "ref": "01.2023.00050319-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00050319-0",
+   "status": "🟡 em apuração",
+   "data": "01/12/2023",
+   "texto": "Josiane Ione Draeger."
+  },
+  {
+   "i": 1165,
+   "tipo": "mp",
+   "ref": "01.2023.00050750-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00050750-9",
+   "status": "🟡 em apuração",
+   "data": "05/12/2023",
+   "texto": "sigilosa."
+  },
+  {
+   "i": 1166,
+   "tipo": "mp",
+   "ref": "01.2023.00050770-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00050770-9",
+   "status": "🟡 em apuração",
+   "data": "05/12/2023",
+   "texto": "Lindalva Maria da Cunha."
+  },
+  {
+   "i": 1167,
+   "tipo": "mp",
+   "ref": "06.2023.00004208-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00004208-7",
+   "status": "🟡 em apuração",
+   "data": "05/12/2023",
+   "texto": "Município de Joinville."
+  },
+  {
+   "i": 1168,
+   "tipo": "mp",
+   "ref": "06.2023.00004608-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00004608-3",
+   "status": "🟡 em apuração",
+   "data": "05/12/2023",
+   "texto": "Município de Joinville."
+  },
+  {
+   "i": 1169,
+   "tipo": "mp",
+   "ref": "06.2023.00004611-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00004611-7",
+   "status": "🟡 em apuração",
+   "data": "05/12/2023",
+   "texto": "Município de Joinville, Darlam Marcondes e Giseli Cristina Valim."
+  },
+  {
+   "i": 1170,
+   "tipo": "mp",
+   "ref": "01.2023.00050100-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00050100-4",
+   "status": "🟡 em apuração",
+   "data": "12/12/2023",
+   "texto": "Juliana Holek."
+  },
+  {
+   "i": 1171,
+   "tipo": "mp",
+   "ref": "01.2023.00050361-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00050361-3",
+   "status": "🟡 em apuração",
+   "data": "12/12/2023",
+   "texto": "Viviane Aparecida da Silva."
+  },
+  {
+   "i": 1172,
+   "tipo": "mp",
+   "ref": "01.2023.00051625-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00051625-2",
+   "status": "🟡 em apuração",
+   "data": "12/12/2023",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 1173,
+   "tipo": "mp",
+   "ref": "06.2023.00000861-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00000861-2",
+   "status": "🟡 em apuração",
+   "data": "12/12/2023",
+   "texto": "Município de Joinville."
+  },
+  {
+   "i": 1174,
+   "tipo": "mp",
+   "ref": "06.2023.00004700-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE PROCEDIMENTO PREPARATÓRIO N. 06.2023.00004700-5",
+   "status": "🟡 em apuração",
+   "data": "13/12/2023",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 1175,
+   "tipo": "mp",
+   "ref": "06.2023.00004715-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE PROCEDIMENTO PREPARATÓRIO N. 06.2023.00004715-0",
+   "status": "🟡 em apuração",
+   "data": "13/12/2023",
+   "texto": "Maria Orly."
+  },
+  {
+   "i": 1176,
+   "tipo": "mp",
+   "ref": "06.2023.00000575-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00000575-9",
+   "status": "🟡 em apuração",
+   "data": "13/12/2023",
+   "texto": "Município de Joinville."
+  },
+  {
+   "i": 1177,
+   "tipo": "mp",
+   "ref": "01.2023.00053012-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00053012-1",
+   "status": "🟡 em apuração",
+   "data": "18/12/2023",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 1178,
+   "tipo": "mp",
+   "ref": "06.2023.00004753-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2023.00004753-8",
+   "status": "🟡 em apuração",
+   "data": "19/12/2023",
+   "texto": "Panificadora Plaza."
+  },
+  {
+   "i": 1179,
+   "tipo": "mp",
+   "ref": "01.2023.00053014-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00053014-3",
+   "status": "🟡 em apuração",
+   "data": "19/12/2023",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 1180,
+   "tipo": "mp",
+   "ref": "01.2023.00053233-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00053233-0",
+   "status": "🟡 em apuração",
+   "data": "08/01/2024",
+   "texto": "Polícia Militar de Joinville."
+  },
+  {
+   "i": 1181,
+   "tipo": "mp",
+   "ref": "01.2023.00053511-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00053511-6",
+   "status": "🟡 em apuração",
+   "data": "09/01/2024",
+   "texto": "Alessandra Martins."
+  },
+  {
+   "i": 1182,
+   "tipo": "mp",
+   "ref": "06.2023.00004786-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00004786-0",
+   "status": "🟡 em apuração",
+   "data": "09/01/2024",
+   "texto": "Vadis Bellini, Calema Participação e Empreendimentos Imobiliários, Município de Joinville."
+  },
+  {
+   "i": 1183,
+   "tipo": "mp",
+   "ref": "06.2024.00000003-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE PROCEDIMENTO PREPARATÓRIO N. 06.2024.00000003-5",
+   "status": "🟡 em apuração",
+   "data": "15/01/2024",
+   "texto": "sigilosa."
+  },
+  {
+   "i": 1184,
+   "tipo": "mp",
+   "ref": "01.2024.00000166-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00000166-7",
+   "status": "🟡 em apuração",
+   "data": "16/01/2024",
+   "texto": "Liliane Lovato."
+  },
+  {
+   "i": 1185,
+   "tipo": "mp",
+   "ref": "01.2023.00043920-4",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2023.00043920-4",
+   "status": "🟢 arquivado",
+   "data": "17/01/2024",
+   "texto": "Kariny Delgado. Conclusão: situação de vulnerabilidade dois cães. Atuação da Secretaria de Meio Ambiente e CBEA. Ausência de cumprimento dos Autos de Notificação 1052/2023 e 1053/2023. Ausência de conhecimento do paradeiro da canina Lua. Acolhimento do canino Bolota por parte do órgão ambiental. Remessa à Autoridade Policial. Indeferimento de Instauração com base no artigo 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 1186,
+   "tipo": "mp",
+   "ref": "01.2024.00000070-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00000070-2",
+   "status": "🟡 em apuração",
+   "data": "17/01/2024",
+   "texto": "Jocelma Soares da Silva."
+  },
+  {
+   "i": 1187,
+   "tipo": "mp",
+   "ref": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.000000266-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.000000266-6",
+   "status": "🟡 em apuração",
+   "data": "18/01/2024",
+   "texto": "sigilosa."
+  },
+  {
+   "i": 1188,
+   "tipo": "mp",
+   "ref": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.000000281-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.000000281-1",
+   "status": "🟡 em apuração",
+   "data": "18/01/2024",
+   "texto": "Cláudia Gonçalves."
+  },
+  {
+   "i": 1189,
+   "tipo": "mp",
+   "ref": "01.2024.00000284-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2024.00000284-4",
+   "status": "🟡 em apuração",
+   "data": "18/01/2024",
+   "texto": "Thairine Cristiane Schneider."
+  }
+ ]
+}

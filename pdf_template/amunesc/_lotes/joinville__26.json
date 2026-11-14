@@ -1,0 +1,635 @@
+{
+ "cidade": "Joinville",
+ "casos": [
+  {
+   "i": 1820,
+   "tipo": "mp",
+   "ref": "06.2026.00001735-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2026.00001735-6",
+   "status": "🟡 em apuração",
+   "data": "05/05/2026",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 1821,
+   "tipo": "mp",
+   "ref": "06.2026.00001586-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2026.00001586-9",
+   "status": "🟡 em apuração",
+   "data": "07/05/2026",
+   "texto": "J. A. S. C. (representante) e Município de Joinville."
+  },
+  {
+   "i": 1822,
+   "tipo": "mp",
+   "ref": "01.2026.00021579-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00021579-6",
+   "status": "🟡 em apuração",
+   "data": "11/05/2026",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 1823,
+   "tipo": "mp",
+   "ref": "06.2025.00003444-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00003444-0",
+   "status": "🟡 em apuração",
+   "data": "11/05/2026",
+   "texto": "Município de Joinville, representante sigiloso e Imobiliária Zattar Ltda."
+  },
+  {
+   "i": 1824,
+   "tipo": "mp",
+   "ref": "06.2025.00003531-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00003531-7",
+   "status": "🟡 em apuração",
+   "data": "12/05/2026",
+   "texto": "Horácio Santana do Carmo."
+  },
+  {
+   "i": 1825,
+   "tipo": "mp",
+   "ref": "01.2026.00023127-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00023127-4",
+   "status": "🟡 em apuração",
+   "data": "13/05/2026",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 1826,
+   "tipo": "mp",
+   "ref": "06.2025.00003318-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00003318-5",
+   "status": "🟡 em apuração",
+   "data": "13/05/2026",
+   "texto": "Gilberto Gadotti Junior."
+  },
+  {
+   "i": 1827,
+   "tipo": "mp",
+   "ref": "06.2025.00003476-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00003476-2",
+   "status": "🟡 em apuração",
+   "data": "13/05/2026",
+   "texto": "Élcio Rogério Fernandes e Município de Joinville."
+  },
+  {
+   "i": 1828,
+   "tipo": "mp",
+   "ref": "01.2026.00021782-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00021782-8",
+   "status": "🟡 em apuração",
+   "data": "14/05/2026",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 1829,
+   "tipo": "mp",
+   "ref": "06.2025.00003444-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00003444-0",
+   "status": "🟡 em apuração",
+   "data": "18/05/2026",
+   "texto": "Município de Joinville, representante sigiloso e Imobiliária Zattar Ltda."
+  },
+  {
+   "i": 1830,
+   "tipo": "mp",
+   "ref": "01.2026.00013635-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2026.00013635-0",
+   "status": "🟢 arquivado",
+   "data": "26/05/2026",
+   "texto": "Anderson Streit. Conclusão: apurar possível criação irregular de abelhas no imóvel localizado na Rua Oscar Rosa, n. 125, Bairro Costa e Silva, Município de Joinville. Atuação da SAMA. Período de quarentena autorizado pela legislação municipal. Enxame acondicionado em caixa apropriada. Arquivamento com fundamento no art. 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 1831,
+   "tipo": "mp",
+   "ref": "01.2026.00019042-2",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2026.00019042-2",
+   "status": "🟢 arquivado",
+   "data": "27/05/2026",
+   "texto": "sigiloso. Conclusão: apurar suposta situação de vulnerabilidade de uma canina na Rua Assunção, n. 430, Bairro Fátima, no município de Joinville. Atuação da SAMA. Canina recebeu tratamento veterinário, solicitado pela tutora. Bem-estar resguardado. Arquivamento com fundamento no art. 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 1832,
+   "tipo": "mp",
+   "ref": "01.2026.00021579-6",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2026.00021579-6",
+   "status": "🟢 arquivado",
+   "data": "27/05/2026",
+   "texto": "sigiloso. Conclusão: apurar suposta situação de risco e vulnerabilidade envolvendo um canino da raça pit bull, que estaria circulando em via pública na Rua Guaíra, n. 2314, Bairro Aventureiro, no Município de Joinville. Atuação da SAMA. Nenhum canino localizado no local ou redondezas. Arquivamento com fundamento no art. 7º, inciso III, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 1833,
+   "tipo": "mp",
+   "ref": "06.2025.00004309-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00004309-4",
+   "status": "🟡 em apuração",
+   "data": "27/05/2026",
+   "texto": "Instituto do Meio Ambiente (IMA) e Empreiteira Fortunato Ltda."
+  },
+  {
+   "i": 1834,
+   "tipo": "mp",
+   "ref": "06.2025.00004701-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00004701-3",
+   "status": "🟢 arquivado",
+   "data": "28/05/2026",
+   "texto": "Jenifer Pietraski dos Santos. Conclusão: apurar possível situação de vulnerabilidade de diversos cães no imóvel localizado na Estrada do Oeste, Vila Catarina, próximo a casa 16, Bairro Pirabeiraba, Município de Joinville. Atuação do órgão de proteção animal. Tutores possuíam 3 (três) caninos, 1 faleceu e 2 permanecem no imóvel, após diligências adotou temporariamente outro canino. Todos os caninos foram vacinados, microchipados e castrados. Animais com o bem-estar resguardado. Arquivamento com supedâneo no art. 48º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 1835,
+   "tipo": "mp",
+   "ref": "06.2026.00002041-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2026.00002041-7",
+   "status": "🟡 em apuração",
+   "data": "28/05/2026",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 1836,
+   "tipo": "mp",
+   "ref": "06.2026.00002042-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2026.00002042-8",
+   "status": "🟡 em apuração",
+   "data": "28/05/2026",
+   "texto": "Tiago Carvalho,"
+  },
+  {
+   "i": 1837,
+   "tipo": "mp",
+   "ref": "06.2026.00002063-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2026.00002063-9",
+   "status": "🟡 em apuração",
+   "data": "28/05/2026",
+   "texto": "Liliane Lovato."
+  },
+  {
+   "i": 1838,
+   "tipo": "mp",
+   "ref": "06.2026.00002172-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2026.00002172-7",
+   "status": "🟡 em apuração",
+   "data": "28/05/2026",
+   "texto": "Iara Kloss."
+  },
+  {
+   "i": 1839,
+   "tipo": "mp",
+   "ref": "06.2026.00001568-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2026.00001568-0",
+   "status": "🟢 arquivado",
+   "data": "29/05/2026",
+   "texto": "sigiloso. Conclusão: apurar possível situação de vulnerabilidade de uma canina, no imóvel localizado na Rua José do Patrocínio, n. 195, Bairro Saguaçu, Município de Joinville. Atuação do órgão de proteção animal. Canina com bem-estar resguardado. Mudança para outro Município. Arquivamento com supedâneo no art. 48, inciso I, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 1840,
+   "tipo": "mp",
+   "ref": "01.2026.00026530-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2026.00026530-9",
+   "status": "🟡 em apuração",
+   "data": "29/05/2026",
+   "texto": "de ofício, Município de Joinville e Joinville Tênis Clube."
+  },
+  {
+   "i": 1841,
+   "tipo": "mp",
+   "ref": "01.2026.00026100-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00026100-2",
+   "status": "🟡 em apuração",
+   "data": "29/05/2026",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 1842,
+   "tipo": "mp",
+   "ref": "01.2026.00026712-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00026712-9",
+   "status": "🟡 em apuração",
+   "data": "29/05/2026",
+   "texto": "Regiane Alcoforado Fernandes e Janaína Bloemer."
+  },
+  {
+   "i": 1843,
+   "tipo": "mp",
+   "ref": "06.2026.00001950-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2026.00001950-0",
+   "status": "🟡 em apuração",
+   "data": "01/06/2026",
+   "texto": "Marinetti de Freitas Alves."
+  },
+  {
+   "i": 1844,
+   "tipo": "mp",
+   "ref": "06.2025.00002421-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00002421-0",
+   "status": "🟡 em apuração",
+   "data": "03/06/2026",
+   "texto": "Max Elson Roque Dozol e Município de Joinville."
+  },
+  {
+   "i": 1845,
+   "tipo": "mp",
+   "ref": "01.2026.00018763-9",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2026.00018763-9",
+   "status": "🟢 arquivado",
+   "data": "09/06/2026",
+   "texto": "sigiloso. Conclusão: apurar possível abandono de uma canina na Estrada Major Lima, nas proximidades da ponte, no Município de Joinville. Atuação da SAMA. Canina resgatada, atualmente em lar temporário. Bem-estar resguardado. Arquivamento com base no artigo 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 1846,
+   "tipo": "mp",
+   "ref": "01.2026.00027887-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00027887-0",
+   "status": "🟡 em apuração",
+   "data": "09/06/2026",
+   "texto": "FRADA Joinville."
+  },
+  {
+   "i": 1847,
+   "tipo": "mp",
+   "ref": "01.2026.00028240-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00028240-8",
+   "status": "🟡 em apuração",
+   "data": "10/06/2026",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 1848,
+   "tipo": "mp",
+   "ref": "01.2026.00027375-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00027375-3",
+   "status": "🟡 em apuração",
+   "data": "11/06/2026",
+   "texto": "Jonathan Paulini e Clínica Clinicão."
+  },
+  {
+   "i": 1849,
+   "tipo": "mp",
+   "ref": "06.2026.00002125-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2026.00002125-0",
+   "status": "🟢 arquivado",
+   "data": "12/06/2026",
+   "texto": "A.M.R. (representante) e Banco do Brasil (representado). Conclusão: apurar eventual violação do sigilo bancário e à proteção de dados pessoais de clientes pela instituição bancária denominada Banco do Brasil, Agência 2981-5, localizada na Avenida Getúlio Vargas, Joinville/SC, decorrente de suposto fornecimento de informações pessoais e bancárias a terceiro não autorizado. Atuação voltada à área de proteção de dados pessoais. Não constatação de irregularidades sistêmicas ou falhas estruturais aptas a caracterizar violação concreta à Lei Geral de Proteção de Dados, tampouco ocorrência de lesão a direitos de natureza coletiva ou difusa. Ausência de fundamentos para adoção de medidas judiciais. Art. 48, I, do Ato n. 395/2018/PGJ. Arquivamento."
+  },
+  {
+   "i": 1850,
+   "tipo": "mp",
+   "ref": "01.2026.00028844-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00028844-6",
+   "status": "🟡 em apuração",
+   "data": "12/06/2026",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 1851,
+   "tipo": "mp",
+   "ref": "06.2025.00004800-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00004800-1",
+   "status": "🟡 em apuração",
+   "data": "12/06/2026",
+   "texto": "Maria Goretti Machado."
+  },
+  {
+   "i": 1852,
+   "tipo": "mp",
+   "ref": "01.2026.00029348-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00029348-2",
+   "status": "🟡 em apuração",
+   "data": "17/06/2026",
+   "texto": "FRADA."
+  },
+  {
+   "i": 1853,
+   "tipo": "mp",
+   "ref": "01.2026.00030582-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00030582-9",
+   "status": "🟡 em apuração",
+   "data": "25/06/2026",
+   "texto": "Rodrigo de Mendonça."
+  },
+  {
+   "i": 1854,
+   "tipo": "mp",
+   "ref": "01.2026.00031112-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2026.00031112-0",
+   "status": "🟡 em apuração",
+   "data": "25/06/2026",
+   "texto": "Josiane da Cunha Isabel."
+  },
+  {
+   "i": 1855,
+   "tipo": "mp",
+   "ref": "01.2022.00002457-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00002457-4",
+   "status": "🟡 em apuração",
+   "data": "18/02/2022",
+   "texto": "Nadia Azevedo Tassinari Caminha."
+  },
+  {
+   "i": 1856,
+   "tipo": "mp",
+   "ref": "06.2022.00001230-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2022.00001230-1",
+   "status": "🟡 em apuração",
+   "data": "25/02/2022",
+   "texto": "Quadra do Jaime e Isabel Cristina Zavasdski."
+  },
+  {
+   "i": 1857,
+   "tipo": "mp",
+   "ref": "06.2022.00001230-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2022.00001230-1",
+   "status": "🟡 em apuração",
+   "data": "03/03/2022",
+   "texto": "Quadra do Jaime e Isabel Cristina Zavasdski."
+  },
+  {
+   "i": 1858,
+   "tipo": "mp",
+   "ref": "06.2022.00001171-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00001171-3",
+   "status": "🟡 em apuração",
+   "data": "08/03/2022",
+   "texto": "Rancho Bar Society Moto Clube."
+  },
+  {
+   "i": 1859,
+   "tipo": "mp",
+   "ref": "06.2022.00001180-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00001180-2",
+   "status": "🟡 em apuração",
+   "data": "08/03/2022",
+   "texto": "Luan Marcel Caetano."
+  },
+  {
+   "i": 1860,
+   "tipo": "mp",
+   "ref": "06.2022.00001703-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00001703-0",
+   "status": "🟡 em apuração",
+   "data": "04/04/2022",
+   "texto": "Quadra do DI Complexo Esporte e 2ª Delegacia Regional de Polícia Civil."
+  },
+  {
+   "i": 1861,
+   "tipo": "mp",
+   "ref": "06.2022.00001859-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00001859-4",
+   "status": "🟡 em apuração",
+   "data": "25/04/2022",
+   "texto": "Lanchonete e Distribuidora de Bebidas do Enio e David William Cordeiro Marcondes."
+  },
+  {
+   "i": 1862,
+   "tipo": "mp",
+   "ref": "01.2022.00002131-1",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00002131-1",
+   "status": "🟢 arquivado",
+   "data": "03/05/2022",
+   "texto": "DETRAN SC e Adriano da Silva Bernardino. Conclusão: Notícia de Fato. Consumidor. Prática abusiva pelo DETRAN SC ao exigir do candidato a condutor novo pagamento de avaliação psicológica após reprovação. Conduta lícita. Indeferimento preliminar de investigação. Acerca dos danos materiais supostamente sofridos pelo reclamante, vê-se que se trata de direito individual e disponível. Consumidor maior e capaz. Indeferimento de investigação."
+  },
+  {
+   "i": 1863,
+   "tipo": "mp",
+   "ref": "06.2022.00001842-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00001842-8",
+   "status": "🟡 em apuração",
+   "data": "09/05/2022",
+   "texto": "Barça Arena Society e Cristian Bavaresco."
+  },
+  {
+   "i": 1864,
+   "tipo": "mp",
+   "ref": "06.2022.00001948-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00001948-2",
+   "status": "🟡 em apuração",
+   "data": "09/05/2022",
+   "texto": "Congregação Soldados Lutadores e Arno Junks."
+  },
+  {
+   "i": 1865,
+   "tipo": "mp",
+   "ref": "06.2022.00002640-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00002640-6",
+   "status": "🟡 em apuração",
+   "data": "10/06/2022",
+   "texto": "PB Indústria e Comércio de Alimentos Ltda. e Nadia Azevedo Tassinari Caminha."
+  },
+  {
+   "i": 1866,
+   "tipo": "mp",
+   "ref": "01.2022.00022440-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00022440-2",
+   "status": "🟡 em apuração",
+   "data": "12/07/2022",
+   "texto": "Ingo Schmidt."
+  },
+  {
+   "i": 1867,
+   "tipo": "mp",
+   "ref": "06.2022.00003027-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00003027-6",
+   "status": "🟡 em apuração",
+   "data": "13/07/2022",
+   "texto": "Igreja Resgatte."
+  },
+  {
+   "i": 1868,
+   "tipo": "mp",
+   "ref": "01.2022.00024382-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00024382-1",
+   "status": "🟡 em apuração",
+   "data": "28/07/2022",
+   "texto": "Joel."
+  },
+  {
+   "i": 1869,
+   "tipo": "mp",
+   "ref": "06.2021.00001518-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00001518-2",
+   "status": "🟢 arquivado",
+   "data": "09/08/2022",
+   "texto": "autor sigiloso e Arilindo Lemke. Conclusão: considerando que o galpão pré-moldado não se encontra em área de preservação permanente; considerando que investigado retirou o aterro irregularmente depositado em área de preservação permanente; considerando que o investigado retirou o aterro irregular e implantou PRAD, visando a recomposição integral dos danos ambientais causados (cuja execução está sendo fiscalizada por meio do Procedimento Administrativo SIG n. 09.2022.00001944-9); conclui-se que não há outras providências a serem adotadas pelo Ministério Público, motivo pelo qual promovo o arquivamento do presente Inquérito Civil, nos termos do disposto no artigo 9º da Lei n. 7.347/85 e no artigo 48 do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 1870,
+   "tipo": "mp",
+   "ref": "06.2022.00003719-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00003719-1",
+   "status": "🟡 em apuração",
+   "data": "06/09/2022",
+   "texto": "Joel Valdemiro Hein."
+  },
+  {
+   "i": 1871,
+   "tipo": "mp",
+   "ref": "06.2022.00003782-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00003782-5",
+   "status": "🟡 em apuração",
+   "data": "19/09/2022",
+   "texto": "Undr Bar Ltda."
+  },
+  {
+   "i": 1872,
+   "tipo": "mp",
+   "ref": "06.2020.00000438-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00000438-1",
+   "status": "❔ status indef.",
+   "data": "10/10/2022",
+   "texto": "Liber Construções Metálicas Ltda. Conclusão: não foram constatadas as práticas de poluição sonora e atmosférica e, havendo o encerramento das atividades pela empresa representada, não há necessidade de qualquer providência por parte do Ministério Público."
+  },
+  {
+   "i": 1873,
+   "tipo": "mp",
+   "ref": "06.2022.00004338-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004338-2",
+   "status": "🟡 em apuração",
+   "data": "03/11/2022",
+   "texto": "Sauro da Silva."
+  },
+  {
+   "i": 1874,
+   "tipo": "mp",
+   "ref": "01.2022.00036290-4",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00036290-4",
+   "status": "🟢 arquivado",
+   "data": "04/11/2022",
+   "texto": "Thamara Alessa Arantes. Conclusão: não persistindo a situação de vulnerabilidade do felino, já adotadas medidas para resguardar o seu bem-estar e não sendo caso de instauração de Inquérito Civil ou Procedimento Preparatório, com supedâneo no art. 7º, inciso I, do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato. 14º Promotoria de Justiça de Joinville e Ferro Velho Antunes."
+  },
+  {
+   "i": 1875,
+   "tipo": "mp",
+   "ref": "06.2022.00004381-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2022.00004381-6",
+   "status": "🟡 em apuração",
+   "data": "07/11/2022",
+   "texto": "Instituição Adventista Sul Brasileira de Educação."
+  },
+  {
+   "i": 1876,
+   "tipo": "mp",
+   "ref": "01.2022.00040217-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO ELEITORAL N. 01.2022.00040217-9",
+   "status": "🟡 em apuração",
+   "data": "15/12/2022",
+   "texto": "Emanoelli Luchetta Gadotti."
+  },
+  {
+   "i": 1877,
+   "tipo": "mp",
+   "ref": "06.2022.00004282-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00004282-8",
+   "status": "🟡 em apuração",
+   "data": "15/12/2022",
+   "texto": "a apurar."
+  },
+  {
+   "i": 1878,
+   "tipo": "mp",
+   "ref": "06.2023.00000819-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00000819-0",
+   "status": "🟡 em apuração",
+   "data": "06/03/2023",
+   "texto": "Mezo Bar."
+  },
+  {
+   "i": 1879,
+   "tipo": "mp",
+   "ref": "06.2023.00000833-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00000833-4",
+   "status": "🟡 em apuração",
+   "data": "13/03/2023",
+   "texto": "Vegas Lounge Bar Ltda."
+  },
+  {
+   "i": 1880,
+   "tipo": "mp",
+   "ref": "06.2022.00001703-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00001703-0",
+   "status": "🟡 em apuração",
+   "data": "28/03/2023",
+   "texto": "Quadra do Di Complexo Esporte."
+  },
+  {
+   "i": 1881,
+   "tipo": "mp",
+   "ref": "06.2023.00001304-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00001304-8",
+   "status": "🟡 em apuração",
+   "data": "10/04/2023",
+   "texto": "Associação Atlética Serrana Desportivas."
+  },
+  {
+   "i": 1882,
+   "tipo": "mp",
+   "ref": "06.2023.00001293-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N.06.2023.00001293-8",
+   "status": "🟡 em apuração",
+   "data": "10/04/2023",
+   "texto": "América Soluções e Moldes."
+  },
+  {
+   "i": 1883,
+   "tipo": "mp",
+   "ref": "01.2023.00013226-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00013226-4",
+   "status": "🟡 em apuração",
+   "data": "12/04/2023",
+   "texto": "a apurar."
+  },
+  {
+   "i": 1884,
+   "tipo": "mp",
+   "ref": "06.2022.00002916-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00002916-9",
+   "status": "🟡 em apuração",
+   "data": "14/04/2023",
+   "texto": "Fundinho Mercearia."
+  },
+  {
+   "i": 1885,
+   "tipo": "mp",
+   "ref": "06.2022.00004338-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL PÚBLICO N. 06.2022.00004338-2",
+   "status": "🟠 TAC firmado",
+   "data": "03/05/2023",
+   "texto": "Sauro da Silva. Conclusão: supressão de vegetação. Intervenção em área de preservação permanente. Assinatura de Termo de Ajustamento de Conduta. Instaurado Procedimento Administrativo n. 09.2023.00003284-5 para acompanhamento de execução de PRAD. Arquivamento do Inquérito Civil."
+  },
+  {
+   "i": 1886,
+   "tipo": "mp",
+   "ref": "06.2020.00003753-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00003753-9",
+   "status": "🟢 arquivado",
+   "data": "12/05/2023",
+   "texto": "Celesc Distribuição S.A. Conclusão: regularidade e legalidade da construção de subestação de energia elétrica denominada SE 138kV Joinville Boa Vista, e das linhas de transmissão denominadas LD 69kV Joinville Boa Vista (Joinville III - Tupy) e LD 138kV Joinville Boa Vista - Paranaguamirim. Incidência do princípio da prevenção, no lugar da precaução, ante a existência de prévia regulamentação e conhecimento acerca dos riscos à saúde e meio ambiente que podem ser causados por linhas de transmissão e subestações de energia elétrica. Perícia elaborada no Inquérito Civil apontando que os projetos foram elaborados de acordo com as normas técnicas. Conclusão no sentido de que eventuais malefícios à saúde da população no entorno dos campos elétricos, acaso mantidas as condições do projeto e licen…"
+  },
+  {
+   "i": 1887,
+   "tipo": "mp",
+   "ref": "01.2023.00018503-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2023.00018503-0",
+   "status": "🟡 em apuração",
+   "data": "12/05/2023",
+   "texto": "Rogério Giessel."
+  },
+  {
+   "i": 1888,
+   "tipo": "mp",
+   "ref": "06.2023.00000202-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2023.00000202-9",
+   "status": "🟡 em apuração",
+   "data": "16/05/2023",
+   "texto": "BurnOut Muscle Bar."
+  },
+  {
+   "i": 1889,
+   "tipo": "mp",
+   "ref": "06.2023.00002245-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2023.00002245-8",
+   "status": "🟡 em apuração",
+   "data": "13/06/2023",
+   "texto": "Torque Retifica e Comercio de Peças Automotivas Ltda."
+  }
+ ]
+}

@@ -1,0 +1,547 @@
+{
+ "mp": [
+  {
+   "i": 0,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP afasta nepotismo no Conselho Tutelar de Praia Grande, mas abre apuração por desvio de função",
+   "description": "O Ministério Público analisou denúncia de nepotismo na contratação da funcionária Sandra Mara Pereira para o Conselho Tutelar de Praia Grande. Concluiu que não houve nepotismo: o parentesco era de 4º grau, além do limite da Súmula Vinculante 13 do STF, e o Conselho Tutelar é órgão autônomo, sem subordinação ao prefeito. Por outro lado, o MP identificou que ela foi nomeada como \"Assessor de Tributos\" mas exercia função de auxiliar administrativo, podendo receber acima do cargo efetivamente exercido. Por esse ponto, um novo procedimento foi instaurado para apurar possível improbidade administrativa.",
+   "severity": "media"
+  },
+  {
+   "i": 1,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou caronas em veículo do transporte de pacientes do SUS em Praia Grande e arquivou o caso",
+   "description": "O Ministério Público apurou suposta negligência com pacientes do Tratamento Fora do Domicílio (TFD) e desvio de finalidade no serviço em Praia Grande, após relatos de que o veículo que levava pacientes do SUS dava carona a pessoas fora do programa. As diligências não conseguiram identificar o responsável nem comprovar dolo, má-fé, prejuízo ao erário ou enriquecimento ilícito. O MP considerou fato isolado que não prejudicou o direito dos pacientes e arquivou o inquérito civil em junho de 2025.",
+   "severity": "media"
+  },
+  {
+   "i": 2,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 3,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 4,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 5,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 6,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 7,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou loteamento clandestino em Praia Grande e encerrou o caso sem ação na Justiça",
+   "description": "O Ministério Público investigou a notícia de um loteamento clandestino em Praia Grande, em apuração que envolvia também o Município de Passo de Torres, a empresa Passo Ambiental e Juliano Bugallo Borba. Ao concluir o inquérito civil, o MP entendeu que não havia justa causa para seguir investigando nem para entrar com ação judicial. O caso foi encerrado em março de 2022, sem responsabilização de ninguém.",
+   "severity": "media"
+  },
+  {
+   "i": 8,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou desvio de rio no Pé da Serra, em Praia Grande, e não confirmou a denúncia",
+   "description": "O Ministério Público apurou a suspeita de desvio de um curso fluvial na localidade de Pé da Serra, em Praia Grande. Foram requisitadas diligências à Prefeitura e à Polícia Militar Ambiental, mas a hipótese não se confirmou. Sem elementos para ação judicial ou medidas extrajudiciais, o MP encerrou o inquérito civil em janeiro de 2025.",
+   "severity": "media"
+  },
+  {
+   "i": 9,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 10,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP checou o credenciamento de leiloeiro da Prefeitura de Praia Grande e arquivou a investigação",
+   "description": "O Ministério Público investigou possível irregularidade no edital de Chamada Pública n. 02/2021, que credenciava leiloeiro para o Município de Praia Grande. A apuração não encontrou justa causa para prosseguir nem base para ação judicial. O inquérito civil foi arquivado em março de 2022.",
+   "severity": "media"
+  },
+  {
+   "i": 11,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 12,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP checou classificação de candidata a bolsa de estudo em Praia Grande e não achou irregularidade",
+   "description": "O Ministério Público apurou denúncia sobre a classificação de uma candidata no edital de chamamento para bolsas de estudo em curso técnico de Praia Grande. O edital exigia moradia no município há pelo menos dois anos, e ficou comprovado que a candidata reside na cidade em imóvel alugado desde 2019, cumprindo o requisito. O MP concluiu que não houve lesão a direitos e encerrou o caso em dezembro de 2022.",
+   "severity": "media"
+  },
+  {
+   "i": 13,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 14,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP aponta contratação irregular de psicólogo sem seleção na Saúde de Praia Grande, mas sem dolo nem prejuízo",
+   "description": "O Ministério Público apurou a contratação de psicólogo sem processo seletivo para a Secretaria de Saúde de Praia Grande. A instrução não comprovou dolo ou má-fé, nem indicou prejuízo aos cofres públicos: o MP classificou o episódio como mera conduta administrativa irregular. Houve arquivamento parcial em outubro de 2023, mas o caso seguiu para verificar quais providências o gestor tomou para corrigir a irregularidade.",
+   "severity": "media"
+  },
+  {
+   "i": 15,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 16,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 17,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 18,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 19,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Após cobrança do MP, Praia Grande instala iluminação que faltava na Estrada Geral Figueira",
+   "description": "O Ministério Público apurou a falta de iluminação pública na Estrada Geral Figueira, perto da Serraria Valim, em Praia Grande. Durante a investigação, os pontos sem iluminação foram corrigidos pelo Município. O MP registrou que a demanda foi resolvida com a intervenção ministerial e encerrou o caso em abril de 2025.",
+   "severity": "media"
+  },
+  {
+   "i": 20,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 21,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 22,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 23,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 24,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 25,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 26,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 27,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 28,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP estudou reduzir a carga horária de professoras em Praia Grande e encerrou o caso",
+   "description": "O Ministério Público abriu inquérito civil para avaliar se o Município de Praia Grande poderia reduzir a carga horária de professoras nos casos em que a falta de lei própria acabasse restringindo direitos indisponíveis. Ao final, o MP não encontrou justa causa para continuar investigando nem para entrar com ação judicial. O caso foi arquivado em maio de 2022.",
+   "severity": "media"
+  },
+  {
+   "i": 29,
+   "tipo": "mp",
+   "keep": true,
+   "title": "IPTU disparou em Praia Grande após revisão de valores, mas MP diz que não pode processar por imposto",
+   "description": "Moradores denunciaram aumento abusivo do IPTU em Praia Grande. O MP apurou que a Prefeitura contratou uma empresa para atualizar a Planta Genérica de Valores, que não era revisada desde 2010 — o que provocou salto súbito e expressivo no valor venal dos imóveis. O Ministério Público, porém, concluiu que não tem legitimidade para ajuizar ação civil pública em matéria tributária, por vedação legal, e que se trata de direito disponível dos contribuintes, a ser discutido em ações individuais. O caso foi encerrado sem ação do MP em dezembro de 2022.",
+   "severity": "media",
+   "status": "🟢 arquivado"
+  },
+  {
+   "i": 30,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 31,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 32,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 33,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 34,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 35,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 36,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 37,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 38,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 39,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 40,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 41,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 42,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 43,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 44,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 45,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 46,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Superlotação em casa de acolhimento que atende Praia Grande vira ação na Justiça",
+   "description": "O Ministério Público investigou relatos reiterados de superlotação na Casa Lar do CISAS, instituição de acolhimento que atende Praia Grande, Santa Rosa do Sul, Passo de Torres e São João do Sul. Durante a apuração, uma ação com o mesmo objeto foi ajuizada no juízo competente. Com isso, o inquérito civil perdeu o objeto e foi arquivado em junho de 2025, e a questão passou a ser tratada na Justiça.",
+   "severity": "alta"
+  }
+ ],
+ "tce": [
+  {
+   "i": 0,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multa vice-prefeito de Praia Grande em R$ 4,9 mil por falhas em pregão de software",
+   "description": "Em março de 2024, o Tribunal de Contas julgou parcialmente procedente a denúncia da empresa Betha Sistemas contra o Pregão Presencial 23/2022 da Prefeitura de Praia Grande, que contratou a IPM Sistemas para o sistema de gestão pública. O TCE considerou irregulares a falta de pesquisa de preços e exigências técnicas excessivas que limitaram a competição, e aplicou multa de R$ 4.976,49 ao vice-prefeito Rodrigo Rosso Mariani, que assinou o edital. O prefeito Elisandro Pereira Machado foi proibido de prorrogar os contratos e obrigado a fazer nova licitação. Os dois recorreram e os efeitos da multa foram suspensos.",
+   "severity": "alta",
+   "status": "⬛ julgado irregular + multa"
+  },
+  {
+   "i": 1,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE manda Praia Grande suspender pagamentos à IPM Sistemas em pregão de software",
+   "description": "Ao analisar a denúncia da Betha Sistemas, o Tribunal de Contas concedeu medida cautelar determinando ao prefeito Elisandro Pereira Machado e ao vice-prefeito Rodrigo Rosso Mariani a sustação de qualquer ato e de qualquer pagamento do contrato firmado com a IPM Sistemas a partir do Pregão Presencial 23/2022. O TCE apontou ausência de pesquisa de preços, falta de orçamento estimado e excesso de detalhamentos com indícios de direcionamento para a IPM. A cautelar é preliminar; o mérito foi julgado depois, em outro andamento deste processo.",
+   "severity": "media",
+   "status": "🟠 cautelar / sustação"
+  },
+  {
+   "i": 2,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE recomenda aprovação das contas de 2022 do prefeito de Praia Grande",
+   "description": "O Tribunal de Contas de Santa Catarina analisou a prestação de contas do prefeito de Praia Grande referente ao exercício de 2022. Em novembro de 2023, emitiu parecer prévio pela aprovação das contas. A palavra final cabe à Câmara de Vereadores, que julga as contas do prefeito.",
+   "severity": "media",
+   "status": "🟢 parecer pela aprovação"
+  },
+  {
+   "i": 3,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE recomenda aprovação das contas de 2024 dos prefeitos de Praia Grande",
+   "description": "O Tribunal de Contas de Santa Catarina examinou a prestação de contas do exercício de 2024 da Prefeitura de Praia Grande, período em que a gestão foi exercida por Elisandro Pereira Machado (janeiro a julho e setembro a dezembro) e Rodrigo Rosso Mariani (julho a setembro). Em novembro de 2025, o TCE emitiu parecer prévio pela aprovação. O julgamento final é da Câmara de Vereadores.",
+   "severity": "media",
+   "status": "🟢 parecer pela aprovação"
+  },
+  {
+   "i": 4,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE recomenda aprovação das contas de 2021 do prefeito de Praia Grande",
+   "description": "O Tribunal de Contas de Santa Catarina analisou a prestação de contas do prefeito de Praia Grande relativa ao exercício de 2021. Em outubro de 2022, emitiu parecer prévio pela aprovação das contas. Cabe à Câmara de Vereadores o julgamento definitivo.",
+   "severity": "media",
+   "status": "🟢 parecer pela aprovação"
+  },
+  {
+   "i": 5,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE julga irregular pregão de caminhão de Praia Grande por limitar a concorrência",
+   "description": "Em maio de 2022, o Tribunal de Contas julgou procedente a representação sobre o Pregão Presencial 17/2021 da Prefeitura de Praia Grande, para a compra de um caminhão zero quilômetro de R$ 285 mil, e considerou irregular o edital. O problema apontado foi a limitação territorial imposta aos concorrentes. O TCE recomendou que o município não repita a exigência em futuras licitações; não houve multa.",
+   "severity": "media",
+   "status": "⬛ julgado irregular"
+  },
+  {
+   "i": 6,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE recomenda aprovação das contas de 2023 do prefeito de Praia Grande",
+   "description": "O Tribunal de Contas de Santa Catarina examinou a prestação de contas do prefeito de Praia Grande referente ao exercício de 2023 e, em outubro de 2024, emitiu parecer prévio pela aprovação. A decisão final sobre as contas cabe à Câmara de Vereadores.",
+   "severity": "media",
+   "status": "🟢 parecer pela aprovação"
+  },
+  {
+   "i": 7,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE não conhece queixa de leiloeiros contra credenciamento em Praia Grande",
+   "description": "Sete leiloeiros públicos oficiais, entre eles Paulo Roberto Worm e Marcus Rogério Araújo Samoel, denunciaram ao Tribunal de Contas a Chamada Pública 03/2021 da Prefeitura de Praia Grande, que credenciava leiloeiro. Eles são os autores da denúncia, não investigados. Em julho de 2022, o TCE decidiu não conhecer da representação por falta de requisito de admissibilidade e arquivou o processo, apenas recomendando à prefeita que evite exigências que frustrem a competitividade dos editais.",
+   "severity": "media",
+   "status": "🟢 julgado regular"
+  },
+  {
+   "i": 8,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE recomenda aprovação das contas de 2020 do prefeito de Praia Grande",
+   "description": "O Tribunal de Contas de Santa Catarina analisou a prestação de contas do prefeito de Praia Grande referente ao exercício de 2020 e, em janeiro de 2022, emitiu parecer prévio pela aprovação. O julgamento final é da Câmara de Vereadores.",
+   "severity": "media",
+   "status": "🟢 parecer pela aprovação"
+  },
+  {
+   "i": 9,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva denúncia sobre pregão de registro de preços em Praia Grande",
+   "description": "Uma representação apontou supostas irregularidades no Pregão Eletrônico 4/2025 da Prefeitura de Praia Grande. Em maio de 2025, o Tribunal de Contas decidiu não conhecer da denúncia porque ela não alcançou a pontuação mínima da matriz de seletividade, e mandou arquivar os autos. O mérito não chegou a ser analisado e nenhum gestor foi responsabilizado.",
+   "severity": "media",
+   "status": "🟢 julgado regular"
+  },
+  {
+   "i": 10,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE julga irregular excesso de contratados temporários em Praia Grande",
+   "description": "Inspeção do Tribunal de Contas considerou irregular a situação do quadro de pessoal da Prefeitura de Praia Grande: doze funções — entre elas médico, enfermagem, psicólogo, agente comunitário de saúde e professor — eram exercidas exclusivamente por contratados temporários, além de excesso de temporários em outras cinco. A prática desrespeita a regra do concurso público. O TCE deu 120 dias para o município comprovar providências de regularização, sob pena de sanções.",
+   "severity": "media",
+   "status": "⬛ julgado irregular"
+  },
+  {
+   "i": 11,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 12,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 13,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 14,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 15,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 16,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 17,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 18,
+   "tipo": "tce",
+   "keep": true,
+   "title": "Recurso suspende multa aplicada ao vice-prefeito de Praia Grande até novo julgamento",
+   "description": "Elisandro Pereira Machado e Rodrigo Rosso Mariani recorreram do Acórdão 48/2024, que multou o vice-prefeito em R$ 4.976,49 pelo Pregão Presencial 23/2022 e proibiu a prorrogação dos contratos com a IPM Sistemas. Em outubro de 2024, o relator conheceu o recurso e suspendeu os efeitos da multa e da determinação em relação aos recorrentes. O mérito do recurso ainda será julgado.",
+   "severity": "media",
+   "status": "❔ em tramitação"
+  }
+ ]
+}

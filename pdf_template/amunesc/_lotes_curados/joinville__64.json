@@ -1,0 +1,632 @@
+[
+ {
+  "i": 15,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 16,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 17,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE considera regular a supostas irregularidades referentes à concessão de anistia de juros de mora e multas po... de Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Denúncia acerca de supostas irregularidades referentes à concessão de anistia de juros de mora e multas por débitos. O Tribunal considerou regulares os atos analisados e arquivou o processo. Não houve sanção.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 18,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 19,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE suspende PPP da iluminação pública em Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Representação acerca de supostas irregularidades referentes ao Edital de Concorrência Pública n. 224/2024 -. O Tribunal conheceu a representação e deferiu cautelar para suspender o certame. O processo segue com diligências ou audiência.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 20,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 21,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 22,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE suspende Possíveis irregularidades no Pregão Eletrônico 056/2023 que objetiva o Registro de Preç... em Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Possíveis irregularidades no Pregão Eletrônico 056/2023 que objetiva o Registro de Preços para aquisição de Prefeitura Municipal de Joinville. O Tribunal conheceu a representação e deferiu cautelar para suspender o certame. O processo segue com diligências ou audiência.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 23,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE suspende Procedimento Apuratório Preliminar acerca de supostas irregularidades referentes ao Pre... em Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Procedimento Apuratório Preliminar acerca de supostas irregularidades referentes ao Pregão Eletrônico n. 028/2023. O Tribunal conheceu a representação e deferiu cautelar para suspender o certame. O processo segue com diligências ou audiência.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 24,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 25,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 26,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva supostas irregularidades referentes ao Pregão Eletrônico n. 008/2021 - Contratação de e... sobre Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Representação acerca de supostas irregularidades referentes ao Pregão Eletrônico n. 008/2021 - Contratação de empresa. O Tribunal apreciou a representação ou denúncia e registrou o encaminhamento no dispositivo. O desfecho é o da decisão.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 27,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva denúncia sobre supostas irregularidades referentes ao Pregão Eletrônico n. 513/2021 - Contratação de e... de Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Denúncia acerca de supostas irregularidades referentes ao Pregão Eletrônico n. 513/2021 - Contratação de empresa de engenharia Mauro Antônio Prezotto. O Tribunal apreciou a denúncia e fixou encaminhamentos no dispositivo. O desfecho é o do acórdão.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 28,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE rejeita supostas irregularidades referentes ao Pregão Eletrônico n. 229/2021 - Registro de preços sobre Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Representação acerca de supostas irregularidades referentes ao Pregão Eletrônico n. 229/2021 - Registro de preços. O Tribunal analisou a alegação e concluiu pela improcedência. A representação foi arquivada.",
+  "status": "⬛ julgado irregular",
+  "severity": "media"
+ },
+ {
+  "i": 29,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE em Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Tomada de Contas Especial convertida de Representação decorrente de Comunicação à Ouvidoria n. 1095/2013 Carlito Merss. O desfecho está no dispositivo do ato. O caso foi mantido conforme a decisão.",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta"
+ },
+ {
+  "i": 30,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 31,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 32,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 33,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE em Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Tomada de Contas Especial - Autos apartados do Processo n. @REC-18/00804668 - acerca de supostas Diva Mara Machado Schlindwein, Carlito Merss, Rosemarie Grubba Selhorst, Luiz Henrique Lima, Edson. O desfecho está no dispositivo do ato. O caso foi mantido conforme a decisão.",
+  "status": "⚫ prescrito",
+  "severity": "media"
+ },
+ {
+  "i": 34,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 35,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE suspende supostas irregularidades referentes ao Edital de Pregão Eletrônico n. 420/2023, da Adri... em Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Representação acerca de supostas irregularidades referentes ao Edital de Pregão Eletrônico n. 420/2023, da Adriano Bornschein Silva, Silva Cristina Bello, Ricardo Mafra, Bellpharma Medicamentos Ltda.. O Tribunal apreciou a representação ou denúncia e registrou o encaminhamento no dispositivo. O desfecho é o da decisão.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 36,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE rejeita supostas irregularidades referentes ao Pregão Eletrônico n. 107/2021 - Contratação de e... sobre Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Representação acerca de supostas irregularidades referentes ao Pregão Eletrônico n. 107/2021 - Contratação de empresa. O Tribunal analisou a alegação e concluiu pela improcedência. A representação foi arquivada.",
+  "status": "⬛ julgado irregular",
+  "severity": "media"
+ },
+ {
+  "i": 37,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva supostas irregularidades referentes ao Pregão n. 011/2022 - Serviços de fiscalização au... sobre Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Representação acerca de supostas irregularidades referentes ao Pregão n. 011/2022 - Serviços de fiscalização automática de. O Tribunal apreciou a representação ou denúncia e registrou o encaminhamento no dispositivo. O desfecho é o da decisão.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 38,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE rejeita supostas irregularidades no edital do Pregão Eletrônico n. 056/2023 - Registro de Preço... sobre Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Representação acerca de supostas irregularidades no edital do Pregão Eletrônico n. 056/2023 - Registro de Preços André Santana Navarro. O Tribunal analisou a alegação e concluiu pela improcedência. A representação foi arquivada.",
+  "status": "⬛ julgado irregular",
+  "severity": "media"
+ },
+ {
+  "i": 39,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE confirma irregularidade em supostas irregularidades no edital do Pregão Eletrônico n. 011/2022 – Prestação de serv... de Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Representação acerca de supostas irregularidades no edital do Pregão Eletrônico n. 011/2022 – Prestação de serviços Silvia Cristina Bello, Adriano Bornschein Silva e Ricardo Mafra. O Tribunal apontou irregularidade e adotou as medidas cabíveis no dispositivo. O caso ficou com desfecho desfavorável à administração.",
+  "status": "⬛ julgado irregular",
+  "severity": "media"
+ },
+ {
+  "i": 40,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE confirma irregularidade em supostas irregularidades na execução do Contrato de Concessão n. 378/2002 – Objeto: Udo... de Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Representação acerca de supostas irregularidades na execução do Contrato de Concessão n. 378/2002 – Objeto: Udo Döhler, Flávio Martins Alves, Miguel Ângelo Bertolini, Ana Augusta Gayoso Cleto Carvalhaes, Alvaro de. O Tribunal apontou irregularidade e adotou as medidas cabíveis no dispositivo. O caso ficou com desfecho desfavorável à administração.",
+  "status": "⬛ julgado irregular",
+  "severity": "media"
+ },
+ {
+  "i": 41,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 42,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE aprecia contas de Joinville",
+  "description": "O caso trata das contas anuais do município. O Tribunal emitiu parecer prévio no dispositivo. O desfecho é o informado no voto.",
+  "status": "⬛ julgado irregular",
+  "severity": "media"
+ },
+ {
+  "i": 43,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 44,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 45,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva supostas irregularidades referentes ao edital do Pregão Eletrônico n. 032/2023 sobre Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Representação acerca de supostas irregularidades referentes ao edital do Pregão Eletrônico n. 032/2023 -. O Tribunal não conheceu o pedido por inadmissibilidade/seletividade e arquivou os autos. Não houve julgamento do mérito.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 46,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva supostas irregularidades referentes ao Pregão Eletrônico n. 517/2024 - Prestação de sobre Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Representação acerca de supostas irregularidades referentes ao Pregão Eletrônico n. 517/2024 - Prestação de. O Tribunal apreciou a representação ou denúncia e registrou o encaminhamento no dispositivo. O desfecho é o da decisão.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 47,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva supostas irregularidades referentes ao Pregão Eletrônico n. 016/2019 - Futura e eventual sobre Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Representação acerca de supostas irregularidades referentes ao Pregão Eletrônico n. 016/2019 - Futura e eventual. O Tribunal não conheceu o pedido por inadmissibilidade/seletividade e arquivou os autos. Não houve julgamento do mérito.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 48,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva supostas irregularidades referentes ao Pregão Eletrônico n. 313/2025 - Contratação de A... sobre Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Representação acerca de supostas irregularidades referentes ao Pregão Eletrônico n. 313/2025 - Contratação de André Santana Navarro. O Tribunal não conheceu o pedido por inadmissibilidade/seletividade e arquivou os autos. Não houve julgamento do mérito.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 49,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 50,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva supostas irregularidades referentes ao Pregão Eletrônico n. 016/2025 - Contratação de sobre Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Representação acerca de supostas irregularidades referentes ao Pregão Eletrônico n. 016/2025 - Contratação de. O Tribunal não conheceu o pedido por inadmissibilidade/seletividade e arquivou os autos. Não houve julgamento do mérito.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 51,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva supostas irregularidades referentes à condução e no resultado final do Pregão Eletrônico sobre Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Representação acerca de supostas irregularidades referentes à condução e no resultado final do Pregão Eletrônico. O Tribunal apreciou a representação ou denúncia e registrou o encaminhamento no dispositivo. O desfecho é o da decisão.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 52,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva supostas irregularidades referentes ao Pregão Eletrônico n. 091/2025 - Contratação de sobre Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Representação acerca de supostas irregularidades referentes ao Pregão Eletrônico n. 091/2025 - Contratação de. O Tribunal não conheceu o pedido por inadmissibilidade/seletividade e arquivou os autos. Não houve julgamento do mérito.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 53,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva supostas irregularidades referentes ao edital do Pregão Eletrônico n. 516/2025 - Aquisição sobre Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Representação acerca de supostas irregularidades referentes ao edital do Pregão Eletrônico n. 516/2025 - Aquisição. O Tribunal não conheceu o pedido por inadmissibilidade/seletividade e arquivou os autos. Não houve julgamento do mérito.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 54,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE considera regular a Hospital Municipal São José de Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Auditoria envolvendo as obras de construção do prédio de apoio do Hospital Municipal São José, objeto do Contrato Théo Augusto Silva Guardiano, Andrei Popovski Kolaceke, Cristiana Soares Carvalho, Mariana Meier. O Tribunal considerou regulares os atos analisados e arquivou o processo. Não houve sanção.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 55,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva denúncia sobre supostas irregularidades referentes à gestão de saúde pública da cidade Eduvirges Alves... de Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Denúncia acerca de supostas irregularidades referentes à gestão de saúde pública da cidade Eduvirges Alves de Mesquita. O Tribunal apreciou a denúncia e fixou encaminhamentos no dispositivo. O desfecho é o do acórdão.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 56,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 57,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 58,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE analisa representação de Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Representação - Comunicação à Ouvidoria - acerca de supostas irregularidades referentes ao acúmulo ilegal de Jorge Eduardo Tasca e Udo Döhler. O Tribunal apreciou a representação ou denúncia e registrou o encaminhamento no dispositivo. O desfecho é o da decisão.",
+  "status": "⚫ prescrito",
+  "severity": "media"
+ },
+ {
+  "i": 59,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE suspende Possíveis irregularidades no edital de Credenciamento nº 229/2024 cujo objeto é o crede... em Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Possíveis irregularidades no edital de Credenciamento nº 229/2024 cujo objeto é o credenciamento de pessoas Gaia Serviços de Apoio à Saúde Ltda. O Tribunal conheceu a representação e deferiu cautelar para suspender o certame. O processo segue com diligências ou audiência.",
+  "status": "🟠 cautelar / sustação",
+  "severity": "media"
+ },
+ {
+  "i": 60,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 61,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE rejeita representação sobre Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Representação - Conversão do Processo n. PAP 24/80059876 - acerca de supostas irregularidades referentes ao. O Tribunal analisou a alegação e concluiu pela improcedência. A representação foi arquivada.",
+  "status": "⬛ julgado irregular",
+  "severity": "media"
+ },
+ {
+  "i": 62,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 63,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 64,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva supostas irregularidades referentes à Concorrência Eletrônica n. 483/2025 - Contratação sobre Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Representação acerca de supostas irregularidades referentes à Concorrência Eletrônica n. 483/2025 - Contratação. O Tribunal não conheceu o pedido por inadmissibilidade/seletividade e arquivou os autos. Não houve julgamento do mérito.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 65,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva Procedimento Apuratório Preliminar acerca de supostas irregularidades referentes ao Pre... sobre Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Procedimento Apuratório Preliminar acerca de supostas irregularidades referentes ao Pregão Eletrônico n. 301/2019 - Registro de. O Tribunal apreciou a representação ou denúncia e registrou o encaminhamento no dispositivo. O desfecho é o da decisão.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 66,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE converte contratação temporária na saúde em representação",
+  "description": "O caso trata de Questionário PAP - possíveis irregularidades na contratação temporária de servidores para desempenho das Prefeitura Municipal de Joinville. O Tribunal apreciou a representação ou denúncia e registrou o encaminhamento no dispositivo. O desfecho é o da decisão.",
+  "status": "🟡 em instrução (citação/audiência)",
+  "severity": "media"
+ },
+ {
+  "i": 67,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE avalia Autos Apartados do Processo n. @PCP-21/00131413 - Exame e apuração dos itens 3.1, 3.2 e... de Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Autos Apartados do Processo n. @PCP-21/00131413 - Exame e apuração dos itens 3.1, 3.2 e 3.3 do Parecer Prévio Adriano Bornschein Silva e Diego Calegari Feldhaus. O Tribunal conheceu o relatório e acompanhou as conclusões técnicas. O caso foi encerrado conforme o dispositivo.",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 68,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE considera regular a Linha Verde Eixo Ecológico Leste de Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Auditoria financeira sobre o Programa Linha Verde Eixo Ecológico Leste de Joinville, cofinanciado pelo Fundo. O Tribunal considerou regulares os atos analisados e arquivou o processo. Não houve sanção.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 69,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE barra aposentadoria de Aposentadoria de Odair José Pavesi em Joinville",
+  "description": "O caso trata de Instituto de Previdência Social dos Servidores Públicos do Município de Joinville - IPREVILLE Ato de Aposentadoria de Odair José Pavesi. O desfecho está no dispositivo do ato. O caso foi mantido conforme a decisão.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 70,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 71,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 72,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE avalia Projeto Viva Cidade II de Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Auditoria Financeira do Projeto Viva Cidade 2: Revitalização Ambiental e Urbana do Município de Joinville - cofinanciado pelo Banco. O Tribunal conheceu o relatório e acompanhou as conclusões técnicas. O caso foi encerrado conforme o dispositivo.",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 73,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE julga recurso sobre Recurso interposto em face da deliberação exarada no processo @APE 20/00060298 Daniela... em Joinville",
+  "description": "O caso trata de recurso contra decisão anterior. O Tribunal conheceu e julgou o pedido conforme o dispositivo. O desfecho segue a decisão do relator.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 74,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva denúncia sobre supostas irregularidades no cálculo do passivo atuarial Sindicato dos Servidores Públic... de Joinville",
+  "description": "O caso trata de Instituto de Previdência Social dos Servidores Públicos do Município de Joinville - IPREVILLE Denúncia acerca de supostas irregularidades no cálculo do passivo atuarial Sindicato dos Servidores Públicos Municipais de Joinville e Região – SINSEJ. O Tribunal apreciou a denúncia e fixou encaminhamentos no dispositivo. O desfecho é o do acórdão.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 75,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 76,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 77,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE barra aposentadoria de Aposentadoria de Amazilda Maria Bergue Udo Döhler em Joinville",
+  "description": "O caso trata de Instituto de Previdência Social dos Servidores Públicos do Município de Joinville - IPREVILLE Ato de Aposentadoria de Amazilda Maria Bergue Udo Döhler. O desfecho está no dispositivo do ato. O caso foi mantido conforme a decisão.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 78,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE barra aposentadoria de Aposentadoria de Maria Salete Safanelli em Joinville",
+  "description": "O caso trata de Instituto de Previdência Social dos Servidores Públicos do Município de Joinville Ato de Aposentadoria de Maria Salete Safanelli. O desfecho está no dispositivo do ato. O caso foi mantido conforme a decisão.",
+  "status": "🟢 julgado regular",
+  "severity": "media"
+ },
+ {
+  "i": 79,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 80,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ },
+ {
+  "i": 81,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 82,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva Procedimento Apuratório Preliminar acerca de supostas irregularidades referentes à manu... sobre Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Procedimento Apuratório Preliminar acerca de supostas irregularidades referentes à manutenção de via pública. O Tribunal não conheceu o pedido por inadmissibilidade/seletividade e arquivou os autos. Não houve julgamento do mérito.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 83,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva Supostas irregularidades afetas à contratação de empresa para execução de obras da rede... sobre Joinville",
+  "description": "O caso trata de Prefeitura Municipal de Joinville Supostas irregularidades afetas à contratação de empresa para execução de obras da rede coletora de Prefeitura Municipal de Joinville. O Tribunal apreciou a representação ou denúncia e registrou o encaminhamento no dispositivo. O desfecho é o da decisão.",
+  "status": "❔ não conhecido (sem análise)",
+  "severity": "media"
+ },
+ {
+  "i": 84,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": "media"
+ }
+]

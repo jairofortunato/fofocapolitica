@@ -1,0 +1,632 @@
+[
+ {
+  "i": 280,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP cobra reparação de dano ambiental que sobrou de ação penal em Mafra",
+  "description": "O Ministério Público instaurou inquérito civil para apurar dano ambiental não recuperado em ação penal contra Rodrigo Balbinotti, em Mafra. O procedimento busca a reparação que não foi obtida na esfera criminal e segue em apuração.",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 281,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Outro dano ambiental sem reparação em Mafra vira inquérito civil do MP",
+  "description": "O Ministério Público instaurou inquérito civil para apurar dano ambiental não recuperado em ação penal contra Edson Scheck, em Mafra. O objetivo é obter a reparação que não veio na esfera criminal. O caso segue em apuração.",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 282,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura laboratório ambiental de Mafra por omitir comunicação de crime",
+  "description": "O Ministério Público instaurou inquérito civil para apurar a responsabilidade da empresa Terranálise Laboratório de Análises Ambientais pela omissão na comunicação de crime ambiental, pela renovação do licenciamento de operação sem o preenchimento dos requisitos legais e pela prestação de informações ao órgão ambiental estadual sobre eventuais ilícitos administrativos. O caso segue em apuração.",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 283,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Imobiliária que comprou área degradada em Mafra assina acordo ambiental",
+  "description": "O inquérito apurou a responsabilidade ambiental da empresa Refloresta Imóveis, na condição de compradora, em negócio envolvendo imóvel que já havia sido objeto de transação penal firmada anteriormente. O caso foi encerrado com a celebração de Termo de Ajustamento de Conduta e o consequente arquivamento do procedimento.",
+  "status": "🟠 TAC firmado",
+  "severity": "media"
+ },
+ {
+  "i": 284,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Casa que acolhia pessoas com deficiência em Mafra fechou durante apuração do MP",
+  "description": "O inquérito apurou a notícia de que na Casa de Acolhida Bom Samaritano, que abrigava pessoas com deficiência, estariam sendo retirados os celulares e cartões bancários dos acolhidos, com apropriação dos valores. O Ministério Público arquivou o caso considerando que o local não está mais em funcionamento e que os acolhidos foram encaminhados às suas famílias de origem. As acusações não chegaram a ser confirmadas nem afastadas no procedimento.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 285,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura conduta de médico legista do IML de Mafra",
+  "description": "O Ministério Público instaurou inquérito civil, a partir de representação encaminhada pela Ouvidoria, para apurar eventual irregularidade na conduta de um médico legista que atua no Instituto Médico-Legal de Mafra. O caso segue em apuração.",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 286,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP cobra recuperação de área degradada por cerâmica em Mafra",
+  "description": "O Ministério Público instaurou inquérito civil para obter a recuperação da área degradada pela empresa Cerâmica Alto Paraguaçu, situação apontada em auto de infração ambiental registrado no sistema do órgão ambiental estadual. O caso segue em apuração.",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 287,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura dano ambiental causado pela ferrovia que corta Mafra",
+  "description": "O Ministério Público instaurou inquérito civil para apurar eventual dano ao meio ambiente decorrente da atividade ferroviária desempenhada pela empresa Rumo Malha Sul em Mafra. O caso segue em apuração.",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 288,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Empresa de gases medicinais de Mafra estaria sem alvará sanitário, apura o MP",
+  "description": "O Ministério Público instaurou inquérito civil para apurar eventual irregularidade na Oxigênio Mafra Comércio de Gases Atmosféricos e Produtos para a Saúde, diante da notícia de que o estabelecimento não possui alvará sanitário vigente. O caso segue em apuração.",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 289,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Escolas estaduais de Mafra estariam sem água potável e sem saneamento",
+  "description": "O Ministério Público instaurou inquérito civil para apurar notícia de irregularidades nas escolas EEF Cristo Rei e no CEDUP, em Mafra, envolvendo falta de água potável, problemas de saneamento básico — banheiro e esgoto — ou ausência de água de forma geral. O caso segue em apuração.",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 290,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura como o Colégio Universitário Mafrense avalia e recupera seus alunos",
+  "description": "O Ministério Público instaurou inquérito civil para apurar possível irregularidade nas práticas adotadas pelo Colégio Universitário Mafrense em relação ao processo de avaliação e de recuperação paralela dos estudantes. O caso segue em apuração.",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 291,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura irregularidades na Fundação Universidade do Contestado",
+  "description": "A partir de representação anônima, o Ministério Público instaurou inquérito civil para apurar eventuais irregularidades na Fundação Universidade do Contestado, mantenedora da instituição de ensino superior com campus em Mafra. O caso segue em apuração.",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 292,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Policiais penais teriam divulgado dados de presos em Mafra; MP apura",
+  "description": "O Ministério Público instaurou inquérito civil para apurar eventual irregularidade na divulgação de dados pessoais de internos recolhidos na Unidade Prisional de Mafra por policiais penais. Figuram no procedimento a unidade prisional e a Superintendência Regional do Planalto Norte. O caso segue em apuração.",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 293,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Lar dos Velhinhos de Mafra regularizou pendências sanitárias e caso foi arquivado",
+  "description": "O inquérito acompanhou a regularização das pendências da Associação Lar dos Velhinhos de Mafra São Francisco de Assis junto à Vigilância Sanitária e ao Corpo de Bombeiros Militar. O Ministério Público arquivou o caso considerando que as irregularidades sanitárias foram sanadas e que as questões de natureza administrativa e estrutural foram remetidas à 3ª Promotoria de Justiça e aos demais órgãos competentes.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 294,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Engenheiro é apurado por suposto laudo florestal falso em auto de infração de Mafra",
+  "description": "O Ministério Público instaurou inquérito civil para apurar a responsabilidade por dano ambiental do engenheiro florestal Edson Carlos de Morais Júnior, que teria emitido falsamente laudo técnico em um auto de infração ambiental. O procedimento foi aberto em junho de 2026 e segue em apuração.",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 295,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 296,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 297,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Registros de alunos faltosos em Mafra apareciam 'suspensos' por erro; MP cobrou correção",
+  "description": "O inquérito teve origem em notícia do Centro de Apoio da Infância e Juventude apontando anotação equivocada de 'suspensão' em diversos registros do Apoia, o programa de combate à evasão escolar. Houve movimentação dos cadastros pelo Ministério Público e pelas escolas, e o caso foi arquivado após a regularização dos registros que estavam nessa situação.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 298,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura má execução da reforma de escola estadual em Mafra",
+  "description": "O Ministério Público instaurou inquérito civil para apurar a notícia de má execução dos serviços de reforma da EEB Prof. Augusto Friedrich, contratados pelo Estado de Santa Catarina junto à empresa Vildegar Corrêa de Siqueira ME. O caso segue em apuração.",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 299,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 300,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP checou acumulação de cargos de servidor em Mafra e a considerou legal",
+  "description": "O inquérito apurou a acumulação de funções por Alberto Tadamitsu Namazu. O Ministério Público comprovou que as funções exercidas são compatíveis e podem ser acumuladas nos termos da Constituição Federal e da Constituição do Estado de Santa Catarina. Sem pressupostos para prosseguir ou adotar medida judicial, o caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 301,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 302,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Fila de psiquiatria infantil que afetava Mafra foi apurada e caso perdeu o objeto",
+  "description": "O inquérito apurou a demora excessiva na fila de espera por consulta médica na especialidade de psiquiatria infantil no centro de referência regional. O Ministério Público verificou que a demanda reprimida decorria da colaboração prestada a outros municípios do Estado, acompanhou as providências adotadas para melhorar o atendimento e comunicou os municípios envolvidos. Com a perda do objeto, o caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 303,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Sede da empresa que recolhe o lixo de Mafra não tinha acessibilidade nem banheiro",
+  "description": "O inquérito acompanhou a notícia de inadequação do prédio onde fica a sede da Seluma, empresa que presta o serviço público de coleta de lixo em Mafra, por falta de acessibilidade, de atendimento preferencial e de sanitários para o público. O Ministério Público arquivou o caso considerando que os temas já haviam sido resolvidos, e abriu novo inquérito para apurar a ausência de alvará de funcionamento.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 304,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 305,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 306,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou o preenchimento de boletins de ocorrência pela PM em Mafra",
+  "description": "O inquérito apurou, no âmbito do controle externo da atividade policial, a correta inserção de dados no momento da lavratura de boletins de ocorrência pelo 38º Batalhão da Polícia Militar de Mafra. O Ministério Público concluiu não haver justa causa para prosseguir com a investigação ou ajuizar ação judicial, e arquivou o caso.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 307,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 308,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura falta de grades de proteção em escola estadual de Mafra",
+  "description": "O Ministério Público instaurou inquérito civil a partir da notícia de ausência de grades de proteção no acesso às salas de aula da EEB Profª. Maria Paula Feres, em Mafra. O caso segue em apuração.",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 309,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Barulho de clube tradicionalista em Mafra foi apurado pelo MP e caso arquivado",
+  "description": "O inquérito apurou a suposta emissão de ruídos acima do permitido pelo Club Raízes da Tradição, em Mafra. O Ministério Público concluiu não haver justa causa para prosseguir com a investigação ou ajuizar ação judicial, e arquivou o caso.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 310,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 311,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 312,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Lar dos Velhinhos de Mafra registrou seus programas nos conselhos do idoso",
+  "description": "O inquérito acompanhou a notícia de ausência de programas inscritos pela Associação Lar dos Velhinhos de Mafra São Francisco de Assis nos conselhos da pessoa idosa nas três esferas — municipal, estadual e federal. O Ministério Público arquivou o caso após o registro dos programas da instituição junto ao Conselho Municipal do Idoso.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 313,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 314,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 315,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura divergência sobre presença de conselheiro tutelar em apreensão de adolescente",
+  "description": "O Ministério Público instaurou inquérito civil sobre a divergência a respeito da necessidade de comparecimento de conselheiro tutelar à delegacia de proteção quando, na apreensão de adolescente, não comparecem os pais ou responsável. O caso segue em apuração.",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 316,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou cláusula abusiva em rematrícula de medicina em Mafra e não confirmou",
+  "description": "A partir de representação do Procon de Mafra, o inquérito apurou possível imposição de cláusula abusiva no edital de rematrícula do curso de medicina da Universidade do Contestado. Após diligências, o Ministério Público não constatou cláusulas abusivas e arquivou o caso.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 317,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura desmembramento irregular de imóvel registrado em cartório de Mafra",
+  "description": "O Ministério Público instaurou inquérito civil para apurar as circunstâncias do desmembramento supostamente irregular da matrícula 13.878, da 1ª Circunscrição de Mafra, envolvendo Odilson João Baruffi e Adriana Maria Good Baruffi. O caso segue em apuração.",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 318,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 319,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Após o MP, Lar dos Velhinhos de Mafra concluiu obra de acessibilidade",
+  "description": "O inquérito teve origem na falta de acessibilidade na Associação Lar dos Velhinhos de Mafra. Após diligências junto à coordenação da associação, chegou a informação de conclusão da obra. O Ministério Público arquivou o procedimento considerando as questões solucionadas.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 320,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 321,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou por que carro foi liberado sem recolhimento por PMs em Mafra",
+  "description": "O inquérito apurou as circunstâncias da liberação, sem recolhimento, de um automóvel conduzido por Carime Belém Bielecki em outubro de 2018, no âmbito do controle externo da atividade da Polícia Militar de Santa Catarina. O Ministério Público concluiu não haver justa causa para prosseguir com a investigação ou ajuizar ação judicial, e arquivou o caso.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 322,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 323,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Escola estadual de Mafra ganhou mais uma faxineira após cobrança do MP",
+  "description": "O inquérito teve origem na notícia de que a EEB Profª. Maria Paula Feres precisava de mais profissionais de limpeza. Após diligências, verificou-se que o número de funcionários responsáveis pela limpeza subiu de três para quatro e que o serviço estava sendo bem executado. Com o contrato adequado e os serviços condizentes com a necessidade da escola, a dificuldade foi considerada resolvida.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 324,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 325,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 326,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Empresa de coleta de lixo de Mafra regularizou alvará e MP arquivou o caso",
+  "description": "O inquérito apurou a ausência de alvará de funcionamento da Seluma, empresa responsável pela limpeza urbana de Mafra. O Ministério Público arquivou o caso considerando que todas as autorizações relativas ao funcionamento da atividade já haviam sido expedidas, sem adequação pendente.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 327,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 328,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 329,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquivou apuração sobre desapropriação de imóvel em Mafra",
+  "description": "O inquérito civil sobre a desapropriação do imóvel de Romilda Slominski Kasmirczak, José Kasmierczak e Francisco Ilário Slominsky pelo município de Mafra foi arquivado. O Ministério Público não apurou justa causa para o prosseguimento do procedimento.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 330,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 331,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 332,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Denúncia dizia que comunidade terapêutica de Mafra obrigava internos a rezar",
+  "description": "O inquérito apurou a notícia de que a liberdade religiosa dos pacientes não era respeitada pela equipe da comunidade terapêutica Atena, onde rezar seria obrigatório. O Ministério Público arquivou o caso considerando que os fatos apontados pelo noticiante não foram confirmados, tendo sido negados pela instituição e também por usuários atualmente acolhidos no local.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 333,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP busca reparação de danos ambientais apurados em ação penal em Mafra",
+  "description": "O Ministério Público instaurou inquérito civil para buscar a reparação dos danos ambientais apurados em ação penal contra Leomar Peters e Carlos Alberto Peters, em Mafra. O caso segue em apuração.",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 334,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Professor de escola agrícola de Mafra foi acusado por alunas; caso terminou com sua morte",
+  "description": "O inquérito apurou notícia, encaminhada pelo Conselho Tutelar, de possível crime contra a dignidade sexual praticado por um professor da Escola Agrícola Municipal Prefeito José Schultz Filho contra alunas. O Ministério Público arquivou o procedimento em razão do falecimento do noticiado. A acusação não chegou a ser julgada, e ninguém foi responsabilizado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 335,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 336,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 337,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 338,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Farmácia de Mafra apurada por funcionamento irregular fechou as portas",
+  "description": "O inquérito apurou a notícia de que a Farmácia Kawakami estaria funcionando de forma irregular em Mafra. No curso do procedimento, constatou-se que o estabelecimento encerrou suas atividades. Com a perda do objeto, o caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 339,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 340,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "",
+  "severity": ""
+ },
+ {
+  "i": 341,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou óticas de optometrista em Mafra e não encontrou irregularidade",
+  "description": "O inquérito apurou a regularidade da participação do optometrista Marco Aurélio Krambeck em sociedades de estabelecimentos comerciais destinados à venda de lentes de grau, entre elas a Krambeck Relojoaria e Óptica e a Krambeck Comércio Varejista de Artigos de Óptica, a partir de representação da Associação Catarinense de Oftalmologia. O Ministério Público não encontrou violação às vedações do decreto que regula a profissão e arquivou o caso.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 342,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura uso indevido de verbas do cartório de notas e protesto de Mafra",
+  "description": "O Ministério Público instaurou inquérito civil para apurar o uso e a incorporação indevida de verbas do 1º Tabelionato de Notas e Protesto da Comarca de Mafra, além da realização de despesas sem a devida autorização ou lançamento, pela interina Elaine Cristina Rudnik Sauer, entre dezembro de 2021 e dezembro de 2023. O caso segue em apuração, sem responsabilização até a última publicação.",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 343,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Órgão que fiscaliza a saúde em Mafra é apurado por descumprir normas sanitárias",
+  "description": "O Ministério Público instaurou inquérito civil a partir da notícia de inobservância das normas sanitárias na própria Gerência Regional de Saúde de Mafra. O caso segue em apuração.",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 344,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura uso de carro da Casan para fins particulares em Mafra",
+  "description": "O Ministério Público instaurou inquérito civil para apurar o uso de veículo da Companhia Catarinense de Águas e Saneamento para fins particulares por um servidor. O caso segue em apuração.",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 345,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Casa noturna no centro de Mafra é apurada por entrada de menores e venda de bebida",
+  "description": "O Ministério Público instaurou inquérito civil para apurar a notícia de possível entrada e permanência de menores de idade, além da venda de bebida alcoólica a eles, na casa noturna House 906, na Rua Felipe Schmidt, no centro de Mafra. O procedimento envolve também o Conselho Tutelar e segue em apuração.",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 346,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Legista teria se recusado a examinar preso; MP apura omissão",
+  "description": "O Ministério Público instaurou inquérito civil para apurar a suposta omissão do médico legista Jorge Ricardo Flores Paqueira, vinculado à Polícia Científica de São Bento do Sul, que teria se recusado a realizar de forma indireta o exame de corpo de delito de um preso, em caso encaminhado pela 9ª Delegacia Regional de Mafra. O caso segue em apuração.",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 347,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura juros abusivos nas mensalidades do curso de medicina em Mafra",
+  "description": "A partir de representação do Procon Municipal de Mafra, o Ministério Público instaurou inquérito civil para apurar possível prática de juros abusivos sobre mensalidades atrasadas no curso de medicina da Universidade do Contestado, campus de Mafra, o que pode configurar infração ao Código de Defesa do Consumidor. O caso segue em apuração.",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 348,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura precariedade na estrutura da escola Barão de Antonina, em Mafra",
+  "description": "O Ministério Público instaurou inquérito civil para apurar a notícia de possível precariedade na estrutura da E.E.B. Barão de Antonina, em Mafra. O caso segue em apuração.",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 349,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apura desleixo da concessionária da BR-116 com estrada de comunidade de Mafra",
+  "description": "O Ministério Público instaurou inquérito civil para apurar eventual desídia da concessionária Auto Pista Planalto Sul, do grupo Arteris, na adoção de medidas para evitar o tráfego de veículos na estrada secundária do Butiá dos Carvalho, que liga a BR-116 à comunidade. O caso segue em apuração.",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ }
+]

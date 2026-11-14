@@ -1,0 +1,138 @@
+[0m
+> build · gpt-5.4-mini
+[0m
+Vou ler o critério e os três lotes, comparar cada caso com a fonte original, e gravar a curadoria lote a lote na pasta de saída.
+[0m→ [0mRead pdf_template/CURADORIA.md
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__9.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__8.json
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__10.json
+Encontrei três lotes só com MP, com várias entradas repetidas do mesmo processo e muitos itens “instauração” sem substância. Agora vou separar os casos publicáveis dos que precisam corte e já gravar cada lote curado na pasta de saída.
+[0m
+[0m# [0mTodos
+[•] Curar joinville__8.json e gravar em _lotes_curados
+[ ] Curar joinville__9.json e gravar em _lotes_curados
+[ ] Curar joinville__10.json e gravar em _lotes_curados
+[ ] Verificar contagens finais por lote
+[0m
+Vou gravar primeiro o lote 8, que já está fechado em termos de critérios e duplicatas; depois sigo para os lotes 9 e 10 com o mesmo padrão.
+[0m✱ [0mGlob "pdf_template/amunesc/_lotes_curados"[90m in . · 0 matches[0m
+[0m✱ [0mGlob "pdf_template/amunesc"[90m in . · 0 matches[0m
+[0m
+[0m$ [0mls "pdf_template"
+CURADORIA.md
+HANDOFF.md
+README.md
+__pycache__
+amesc
+ammvi
+amrec
+amunesc
+amurel
+amures
+amvali
+apply_status.py
+apply_tce.py
+apply_tce2.py
+assemble_curated.py
+assets
+check_conselheiros.py
+curar.sh
+dl_assets.py
+enrich_tce.py
+extract_city_raw.py
+gen_cores.py
+gen_dossie.py
+make_batches.py
+make_status_batches.py
+make_tce_batches.py
+migrar_amrec.py
+modelo-transparencia-radical.html
+regiao_config.py
+templates
+valida_curadoria.py
+[0m
+[0m$ [0mls "pdf_template/amunesc"
+_build
+_curated_data
+_logs
+_lotes
+_lotes_curados
+assets
+cores.json
+financas.json
+[0m
+[0m$ [0mls "pdf_template/amunesc/_lotes_curados"
+araquari__0.json
+araquari__1.json
+araquari__2.json
+araquari__3.json
+balneario_barra_do_sul__0.json
+balneario_barra_do_sul__1.json
+campo_alegre__0.json
+campo_alegre__1.json
+garuva__0.json
+garuva__1.json
+garuva__2.json
+itapoa__0.json
+itapoa__1.json
+itapoa__2.json
+itapoa__3.json
+itapoa__4.json
+joinville__0.json
+joinville__1.json
+joinville__2.json
+joinville__3.json
+joinville__4.json
+joinville__5.json
+joinville__6.json
+joinville__7.json
+rio_negrinho__0.json
+rio_negrinho__1.json
+rio_negrinho__2.json
+sao_bento_do_sul__0.json
+sao_bento_do_sul__1.json
+sao_bento_do_sul__2.json
+sao_bento_do_sul__3.json
+sao_bento_do_sul__4.json
+sao_bento_do_sul__5.json
+sao_bento_do_sul__6.json
+sao_francisco_do_sul__0.json
+sao_francisco_do_sul__1.json
+sao_francisco_do_sul__10.json
+sao_francisco_do_sul__2.json
+sao_francisco_do_sul__3.json
+sao_francisco_do_sul__4.json
+sao_francisco_do_sul__5.json
+sao_francisco_do_sul__6.json
+sao_francisco_do_sul__7.json
+sao_francisco_do_sul__8.json
+sao_francisco_do_sul__9.json
+[0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/joinville__7.json[90m [offset=1, limit=80][0m
+Estou aplicando a curadoria do lote 8 agora, já com os cortes por falta de substância e pela duplicação das fases do mesmo processo.
+[0m% [0mPatch 1 file
+Fechando o lote 9 agora. Aqui entram algumas apurações materiais e vários cortes de simples instauração sem descrição do fato.
+[0m% [0mPatch 1 file
+Vou gravar o lote 10 com a mesma regra: publicar os casos com fato material e cortar as instaurações vazias ou truncadas.
+[0m% [0mPatch 1 file
+Os três lotes já estão escritos. Agora vou validar o JSON e conferir as contagens finais de keep:true e severity alta antes de fechar.
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/joinville__9.json[90m [offset=1, limit=20][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/joinville__8.json[90m [offset=1, limit=20][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/joinville__10.json[90m [offset=1, limit=20][0m
+[0m
+[0m$ [0mnode -e "const fs=require('fs'); for (const f of ['pdf_template/amunesc/_lotes_curados/joinville__8.json','pdf_template/amunesc/_lotes_curados/joinville__9.json','pdf_template/amunesc/_lotes_curados/joinville__10.json']) { const a=JSON.parse(fs.readFileSync(f,'utf8')); console.log(f, a.length, a.filter(x=>x.keep).length, a.filter(x=>x.severity==='alta').length); }"
+pdf_template/amunesc/_lotes_curados/joinville__8.json 70 31 0
+pdf_template/amunesc/_lotes_curados/joinville__9.json 70 34 0
+pdf_template/amunesc/_lotes_curados/joinville__10.json 70 41 0
+[0m
+[0m# [0mTodos
+[✓] Curar joinville__8.json e gravar em _lotes_curados
+[✓] Curar joinville__9.json e gravar em _lotes_curados
+[✓] Curar joinville__10.json e gravar em _lotes_curados
+[✓] Verificar contagens finais por lote
+[0m
+Gravados em `pdf_template/amunesc/_lotes_curados/`.
+
+- `joinville__8.json`: 70 casos, 31 `keep:true`, 0 `severity: alta`
+- `joinville__9.json`: 70 casos, 34 `keep:true`, 0 `severity: alta`
+- `joinville__10.json`: 70 casos, 41 `keep:true`, 0 `severity: alta`

@@ -1,0 +1,443 @@
+[
+ {
+  "i": 70,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 71,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou conduta de professor da rede municipal de Massaranduba e arquivou o caso",
+  "description": "O Ministério Público abriu uma notícia de fato para apurar a suposta prática de conduta ímproba por um professor da rede municipal de ensino de Massaranduba. O extrato publicado não detalha qual seria a conduta atribuída ao servidor. O procedimento foi encerrado com arquivamento, sem responsabilização.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 72,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou se a polícia de Massaranduba foi negligente em acidente fatal e arquivou",
+  "description": "O Ministério Público investigou uma eventual desídia da autoridade policial de Massaranduba na apuração das circunstâncias de um acidente de trânsito ocorrido em 27 de maio de 2023, que teve uma vítima fatal. O caso chegou ao MP por meio de familiar da vítima. Ao final, o promotor não encontrou motivo para prosseguir e o procedimento foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 73,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 74,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 75,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 76,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Massaranduba acata recomendação do MP sobre combate à dengue e caso é encerrado",
+  "description": "O Ministério Público instaurou procedimento para verificar quais estratégias a Prefeitura de Massaranduba adotava para prevenir e controlar a dengue no município. A recomendação feita pelo MP foi acatada pela administração municipal. Com isso, o procedimento foi arquivado em abril de 2024.",
+  "status": "🟢 recomendação cumprida",
+  "severity": "media"
+ },
+ {
+  "i": 77,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva apuração sobre suposto descaso de Massaranduba no combate à dengue",
+  "description": "Uma notícia de fato foi aberta para apurar suposto descaso da Prefeitura de Massaranduba com a prevenção e o controle da dengue. O Ministério Público concluiu que os fatos já haviam sido investigados em outro procedimento e que a prefeitura demonstrou ter adotado providências. O caso foi arquivado.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 78,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva questionamento sobre lei da estrutura administrativa de Massaranduba",
+  "description": "Uma denúncia anônima apontou possível inconstitucionalidade da Lei Complementar 22/2009, que organizava a estrutura administrativa da Prefeitura de Massaranduba. O Ministério Público pediu estudo ao seu centro de apoio de controle de constitucionalidade. Como a norma acabou revogada pelas Leis Complementares 189/2023 e 190/2023, o MP considerou desnecessário seguir adiante e arquivou o inquérito civil.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 79,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 80,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 81,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP apurou demora em consultas e terapias para crianças em Massaranduba e arquivou",
+  "description": "O Ministério Público instaurou procedimento para apurar suposta ausência ou morosidade da Prefeitura de Massaranduba na oferta de cirurgias, consultas, exames e tratamentos para crianças e adolescentes nas áreas de fonoaudiologia, neurologia, psicologia e terapia ocupacional. Depois da apuração, o MP entendeu que não havia razão para prosseguir. O procedimento foi arquivado em julho de 2024.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 82,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 83,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 84,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 85,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 86,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 87,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 88,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP não achou falha no serviço de internação de Massaranduba e encerrou apuração",
+  "description": "O Ministério Público abriu procedimento para apurar a suposta ausência do serviço público de internação voluntária e involuntária em Massaranduba. A prefeitura esclareceu os procedimentos que adota e o MP concluiu que não havia deficiência nem omissão na prestação do serviço. O caso foi arquivado em dezembro de 2024.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 89,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 90,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 91,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 92,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 93,
+  "tipo": "mp",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em apuração",
+  "severity": "media"
+ },
+ {
+  "i": 94,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Massaranduba assina acordo com o MP e inquérito civil é encerrado em duas semanas",
+  "description": "O Ministério Público encerrou um inquérito civil que tinha a Prefeitura de Massaranduba como investigada depois que as duas partes firmaram um Termo de Ajustamento de Conduta (TAC). O inquérito havia sido aberto em 17 de junho de 2025 e foi arquivado em 2 de julho, com o acordo assinado. O extrato publicado não informa qual irregularidade motivou a investigação nem o que a prefeitura se comprometeu a corrigir.",
+  "status": "🟠 TAC firmado",
+  "severity": "media"
+ },
+ {
+  "i": 95,
+  "tipo": "mp",
+  "keep": true,
+  "title": "MP arquiva caso dos buracos na SC-108 depois que reparos foram feitos",
+  "description": "O Ministério Público investigou a falta ou a insuficiência de pavimentação asfáltica na rodovia SC-108, em especial as obras de tapa-buracos no trecho de duplicação e revitalização que corta Massaranduba. O responsável apurado foi o Estado de Santa Catarina. Segundo o MP, os reparos foram executados e a situação foi superada, o que levou ao arquivamento do inquérito em julho de 2025.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 96,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Escola de Massaranduba ganha bebedouros após MP apurar falta de água aos alunos",
+  "description": "O Ministério Público apurou a suposta ausência de bebedouros de água para os alunos da EMEF Alto Luís Alves, em Massaranduba. Durante a apuração, os equipamentos foram adquiridos pelo município. Com a situação resolvida, o MP considerou desnecessário seguir intervindo e arquivou o caso em julho de 2025.",
+  "status": "🟢 arquivado",
+  "severity": "media"
+ },
+ {
+  "i": 97,
+  "tipo": "mp",
+  "keep": true,
+  "title": "Prefeitura de Massaranduba firma TAC com o MP e inquérito de 2023 é arquivado",
+  "description": "Um inquérito civil aberto em 2023 contra o Município de Massaranduba foi encerrado depois que a prefeitura firmou um Termo de Ajustamento de Conduta com o Ministério Público. O extrato de conclusão não informa o objeto da investigação nem os compromissos assumidos no acordo. O arquivamento se deu pela celebração do TAC, e não por falta de irregularidade.",
+  "status": "🟠 TAC firmado",
+  "severity": "media"
+ },
+ {
+  "i": 0,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE multa prefeito de Massaranduba por contrato de R$ 518 mil sem licitação",
+  "description": "O Tribunal de Contas julgou procedente representação do Ministério Público de Contas sobre a contratação da FAEPESUL, fundação ligada à Unisul, por dispensa de licitação, para serviços de capacitação de servidores e diagnóstico de gastos com pessoal em Massaranduba — Dispensa 123/2019 e Contrato 078/2019, no valor de R$ 518.903,52. Os conselheiros consideraram irregulares os atos praticados e aplicaram multas de R$ 3 mil cada ao prefeito Armindo Sésar Tassi, entre elas por contratar objeto fora da finalidade institucional da fundação e por falta de orçamento. A medida cautelar que suspendia o contrato foi revogada porque a vigência já havia terminado, e o prefeito teve 30 dias para recolher as multas ou recorrer.",
+  "status": "⬛ julgado irregular + multa",
+  "severity": "alta"
+ },
+ {
+  "i": 1,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 2,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE cobra explicações de ex-prefeitos de Massaranduba sobre licitação de tapa-buracos",
+  "description": "Um relatório da área técnica do Tribunal de Contas apontou possíveis irregularidades em pregões presenciais de registro de preços para recuperação de vias (Operação Tapa-Buracos) e sinalização viária em Massaranduba, entre 2020 e 2023. O relator determinou a audiência dos responsáveis para apresentarem defesa em 30 dias: os ex-prefeitos Armindo Sésar Tassi e Odenir Deretti, dois ex-secretários de Estradas e Obras e um engenheiro civil. As irregularidades apontadas são a ausência de projeto básico com definição clara do objeto e um orçamento não baseado em preços de mercado. O caso está em instrução, sem julgamento até agora.",
+  "status": "🟡 em instrução (citação/audiência)",
+  "severity": "media"
+ },
+ {
+  "i": 3,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 4,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 5,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE julga irregular cargo de assessor jurídico criado sem exigir OAB em Massaranduba",
+  "description": "O Tribunal de Contas considerou procedente uma denúncia sobre a criação do cargo comissionado de Assessor Jurídico pela Lei Complementar municipal 172/2022, em Massaranduba. Para os conselheiros, o cargo é irregular porque não exigia graduação em Direito nem registro na OAB e reunia atribuições técnicas e permanentes, próprias de servidor efetivo aprovado em concurso. O TCE deu 60 dias para a prefeitura comprovar a extinção do cargo ou regularizar a estrutura da Procuradoria Jurídica com cargos efetivos. A decisão foi tomada na sessão de 29 de agosto de 2025.",
+  "status": "⬛ julgado irregular",
+  "severity": "media"
+ },
+ {
+  "i": 6,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 7,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva apuração de licitações e comunica a OAB sobre procurador de Massaranduba",
+  "description": "Uma comunicação à Ouvidoria do Tribunal de Contas apontou possíveis irregularidades nas Tomadas de Preços 175 e 176/2021 da Prefeitura de Massaranduba. O TCE arquivou o procedimento preliminar por não atingir a pontuação mínima dos critérios de seletividade, ou seja, sem examinar o mérito das denúncias. Na mesma decisão, os conselheiros determinaram que a OAB/SC fosse comunicada sobre a atuação simultânea do advogado Fernando Rodrigo da Rosa como Procurador-Geral do Município, a partir de outubro de 2021, e na advocacia privada, cabendo à Ordem avaliar se há incompatibilidade.",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 8,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva sem julgar tomada de contas sobre verba pública de evento em Massaranduba",
+  "description": "Uma tomada de contas especial apurava supostas irregularidades na aplicação de recursos públicos na realização de um evento no município, com dois responsáveis indicados. Em junho de 2022, o Tribunal de Contas arquivou o processo sem resolução do mérito — ou seja, ninguém foi julgado nem responsabilizado. Os responsáveis foram notificados de que podem pedir o desarquivamento dos autos.",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 9,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 10,
+  "tipo": "tce",
+  "keep": true,
+  "title": "Inspeção sobre dano no contrato de R$ 518 mil de Massaranduba é arquivada pelo TCE",
+  "description": "Depois de julgar irregular a contratação da FAEPESUL por dispensa de licitação, o Tribunal de Contas mandou abrir uma inspeção para identificar responsáveis e quantificar o dano decorrente da Dispensa 123/2019 e do Contrato 78/2019. Em outubro de 2025, o plenário conheceu o relatório de inspeção e determinou o arquivamento dos autos. O texto publicado não informa se algum prejuízo chegou a ser quantificado ou cobrado.",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 11,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva reclamação de empresa sobre pregão de uniformes escolares em Massaranduba",
+  "description": "A empresa Vestisul representou ao Tribunal de Contas contra o Pregão Presencial 3/2022 da Prefeitura de Massaranduba, que registrava preços de uniformes escolares para alunos da rede municipal, com valor previsto de R$ 750.227,90. A área técnica e o Ministério Público de Contas consideraram razoáveis os prazos de amostra e de laudo questionados pela empresa. O relator negou a suspensão cautelar do pregão e determinou o arquivamento por não atingimento dos critérios de seletividade, sem apontar irregularidade na licitação.",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 12,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva contestação a pregão de cartão-alimentação de Massaranduba",
+  "description": "A empresa BK Instituição de Pagamentos contestou no Tribunal de Contas o Pregão Presencial 41/2022 de Massaranduba, que contratava o gerenciamento de cartões magnéticos usados por famílias em situação de vulnerabilidade para comprar alimentos, produtos de higiene, itens para recém-nascidos e passagens. Em fevereiro de 2023, o TCE arquivou o procedimento por não atender aos critérios de seletividade e considerou prejudicado o pedido de suspensão do pregão. O mérito das alegações não chegou a ser analisado.",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 13,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 14,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE questiona seleção de temporários em Massaranduba e abre inspeção sobre o edital",
+  "description": "O Tribunal de Contas converteu uma apuração em processo de inspeção e mandou a Prefeitura de Massaranduba explicar, em 30 dias, por que lançou o Processo Seletivo 001/2025 para contratações temporárias, já que esse tipo de contratação só se justifica em necessidade temporária de excepcional interesse público. O relator também quer saber por que o edital previu apenas cadastro de reserva e se o município pretende abrir concurso público para as mesmas funções. A prefeitura foi alertada de que o descumprimento da diligência pode gerar multa. A apuração segue em andamento.",
+  "status": "🟡 em instrução (citação/audiência)",
+  "severity": "media"
+ },
+ {
+  "i": 15,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva denúncia sobre uso do Fundeb para pagar vigias em escolas de Massaranduba",
+  "description": "O Ministério Público de Contas representou ao Tribunal apontando supostas irregularidades no uso de recursos do Fundeb, o fundo da educação básica, para financiar serviços de vigia nas escolas de Massaranduba. Em janeiro de 2025, o TCE decidiu não conhecer do procedimento porque ele não atendia às condições prévias para a análise de seletividade, e determinou o arquivamento. O mérito da denúncia não foi examinado.",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 16,
+  "tipo": "tce",
+  "keep": true,
+  "title": "TCE arquiva apuração sobre Refis de Massaranduba e aciona o controle interno",
+  "description": "Uma apuração preliminar tratava de supostas irregularidades no Programa de Recuperação Fiscal de Massaranduba, criado pela Lei Complementar municipal 169/2022. O Tribunal de Contas decidiu não converter o caso em denúncia por não atingir a pontuação mínima de seletividade e arquivou os autos. Ainda assim, determinou ao chefe do controle interno do município que verifique se a renúncia de receitas gerada pelo programa estava prevista na LDO e na LOA e tome as providências cabíveis.",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 17,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "🟡 em instrução (citação/audiência)",
+  "severity": "media"
+ },
+ {
+  "i": 18,
+  "tipo": "tce",
+  "keep": true,
+  "title": "Prefeito de Massaranduba recorre no TCE de multas por contrato com fundação da Unisul",
+  "description": "Armindo Sésar Tassi entrou com recurso de reexame contra a Decisão 484/2022 do Tribunal de Contas, que considerou irregular a dispensa de licitação usada para contratar a FAEPESUL por R$ 518.903,52 e lhe aplicou multas de R$ 3 mil. O documento publicado nos autos do recurso reproduz o teor daquela decisão original, com as irregularidades e as multas. O extrato não deixa claro qual foi o desfecho do recurso.",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 19,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ },
+ {
+  "i": 20,
+  "tipo": "tce",
+  "keep": false,
+  "title": "",
+  "description": "",
+  "status": "❔ em tramitação",
+  "severity": "media"
+ }
+]

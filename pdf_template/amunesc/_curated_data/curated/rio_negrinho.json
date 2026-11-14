@@ -1,0 +1,1770 @@
+{
+ "mp": [
+  {
+   "i": 0,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 1,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo em caso de desvio de diárias e cursos-fantasma",
+   "description": "O inquérito apurou desvio de recursos públicos do Município de Rio Negrinho em diárias e inscrições para cursos que, segundo o texto, eram uma farsa. Houve celebração de acordo de não persecução cível com os investigados. O caso segue encerrado com o ACNP firmado.",
+   "status": "🟠 ACNP firmado",
+   "severity": "alta"
+  },
+  {
+   "i": 2,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 3,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso sobre transporte de pacientes em Rio Negrinho",
+   "description": "A apuração tratava do transporte de pacientes da Secretaria de Saúde e de uma suposta conduta ímproba de servidor. O texto diz que a situação foi resolvida no âmbito administrativo, com advertência após PAD, sem dolo demonstrado. O procedimento foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 4,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre autorização funerária prescrita",
+   "description": "O caso investigava possível ato de improbidade na prorrogação indevida de autorização concedida a empresas funerárias. O próprio texto registra prescrição e arquivamento. Não houve responsabilização de mérito.",
+   "status": "⚫ prescrito",
+   "severity": "media"
+  },
+  {
+   "i": 5,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 6,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre licença médica irregular",
+   "description": "A conclusão tratava de possível concessão irregular de licença para tratamento de saúde à servidora Alessandra Aparecida Batista Franco Cristofolini. O texto diz que as ilegalidades não foram caracterizadas e determinou o arquivamento. O caso foi encerrado sem responsabilização.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 7,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso de credenciamento na saúde",
+   "description": "O procedimento apurou o uso de credenciamento universal pelo Município de Rio Negrinho para contratar serviços de saúde. O texto conclui que a hipótese era de inexigibilidade de licitação e que não houve ato de improbidade. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 8,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo em caso de gastos pessoais no IPRERIO",
+   "description": "A apuração apontava pagamentos de despesas pessoais com recursos públicos e recebimento indevido de jeton pela contadora do IPRERIO. Houve acordo de não persecução cível com a investigada. O caso terminou com ACNP firmado.",
+   "status": "🟠 ACNP firmado",
+   "severity": "alta"
+  },
+  {
+   "i": 9,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 10,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 11,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 12,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 13,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 14,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso de contratações temporárias após recomendação cumprida",
+   "description": "O texto afirma que o Município de Rio Negrinho acatou recomendação do Ministério Público sobre contratações temporárias. Com isso, concluiu-se pela inexistência de fundamento para ação civil pública. O caso foi arquivado.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 15,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 16,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP encerra apuração sobre banco de leite da Fundação Hospitalar",
+   "description": "A conclusão diz que os gestores do banco de leite vinham adotando as medidas cabíveis e que o centro de apoio viu inexistência de irregularidade na alteração do leite materno para fórmula. O objeto foi considerado esgotado. O caso terminou sem apontar falha.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 17,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 18,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso de acolhimento institucional em Rio Negrinho",
+   "description": "A apuração dizia respeito a medidas no serviço de acolhimento e à elaboração de planos de atividades e programas com os acolhidos. O texto registra inexistência de fundamento para ação judicial e promoção de arquivamento. O caso foi encerrado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 19,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 20,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre desapropriação em Rio Negrinho",
+   "description": "O procedimento apurava possível irregularidade na realização de desapropriação. O texto conclui que as ilegalidades não foram caracterizadas. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 21,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso de obra parada em via urbana",
+   "description": "A apuração tratava de possível omissão do Município de Rio Negrinho na revitalização de uma via. O texto informa que as medidas necessárias foram adotadas e que não houve omissão. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 22,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 23,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 24,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 25,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 26,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva denúncia sobre contratos com jornais",
+   "description": "A conclusão dizia que as diligências não confirmaram a hipótese de contratos irregulares do Município de Rio Negrinho com veículos de imprensa. Também não se demonstrou promoção pessoal de políticos. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 27,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 28,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 29,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma novo TAC em caso de acessibilidade na escola Pedro Henrique Berkenbrock",
+   "description": "O procedimento registrou termo de compromisso de ajustamento para regularizar a acessibilidade na EMEB Pedro Henrique Berkenbrock. O texto diz que o objeto foi esgotado no momento e ressalva acompanhamento posterior. O caso segue com TAC firmado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 30,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 31,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 32,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 33,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 34,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 35,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 36,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 37,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 38,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre documentos pessoais expostos na internet",
+   "description": "O procedimento foi instaurado para apurar exposição indevida de documentos pessoais de cidadãos pela Prefeitura de Rio Negrinho. O texto diz que a situação foi solucionada. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 39,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso de supostas horas extras indevidas na saúde",
+   "description": "A apuração investigava médicos, odontólogos e farmacêuticos do Município de Rio Negrinho por descumprimento de carga horária e recebimento indevido de horas extras e gratificações. O texto conclui que as ilegalidades não foram caracterizadas. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 40,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 41,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso de reflorestamento da Sólida Brasil",
+   "description": "O inquérito apurava a regularização da atividade de reflorestamento da empresa em Rio Negrinho. As vistorias indicaram adoção das medidas adequadas e houve perda do objeto. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 42,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 43,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 44,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 45,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso de financiamento de evento esportivo particular",
+   "description": "A conclusão apurava suposto financiamento de evento esportivo particular pela Fundação Municipal de Esportes. O texto registra ausência de dolo e inexistência de fundamento para ação civil pública. O caso foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 46,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 47,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 48,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 49,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração ambiental contra GP Reciclagem",
+   "description": "O procedimento concluiu que as irregularidades foram sanadas no curso da apuração e que não houve prova de dano ambiental. O texto registra promoção de arquivamento. O caso foi encerrado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 50,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre ultrassom e óbitos perinatais",
+   "description": "A conclusão apontou inexistência de indícios de falhas na prestação dos serviços de saúde, com aparelhos de ultrassom regulares e ausência de nexo com óbitos perinatais. O procedimento foi arquivado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 51,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração anônima sem fundamento",
+   "description": "A conclusão informa inexistência de fundamento para a propositura de ação judicial e determina promoção de arquivamento. O texto não aponta irregularidade remanescente. O caso foi encerrado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 52,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC para regularizar acessibilidade na EMEB Pedro Henrique Berkenbrock",
+   "description": "A conclusão registra termo de compromisso de ajustamento para regularizar a acessibilidade na escola. O procedimento ficou esgotado no momento, com salvaguarda de acompanhamento posterior. O caso ficou com TAC firmado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 53,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 54,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 55,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP encerra caso após município contratar psicóloga temporária",
+   "description": "O Ministério Público concluiu que a Recomendação n. 0007/2024/01PJ/RNE foi cumprida e que houve contratação temporária de psicóloga para suprir a ausência da servidora efetiva. O procedimento deixou de ter interesse de agir. O caso foi encerrado.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 56,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 57,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 58,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 59,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 60,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 61,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 62,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 63,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP encerra apuração sobre Fundação Hospitalar e contas aprovadas",
+   "description": "O texto aponta impossibilidade de identificar dolo, ausência de prejuízo à Fundação e contas aprovadas após verificação. O procedimento foi esgotado no momento, sem notícia de responsabilização. O caso segue sem desfecho punitivo.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 64,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 65,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 66,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC em caso de regularização ambiental com empresa local",
+   "description": "A conclusão registra celebração de Termo de Compromisso de Ajustamento de Conduta com ausência circunstancial do interesse de agir. O procedimento terminou com promoção de arquivamento. O caso foi resolvido por TAC.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 67,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma TAC em caso de regularização ambiental com grupo empresarial",
+   "description": "O texto diz que houve celebração de termo de compromisso de ajustamento de conduta e ausência circunstancial do interesse de agir. O procedimento foi arquivado após o ajuste. O caso terminou com TAC firmado.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  }
+ ],
+ "tce": [
+  {
+   "i": 0,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 1,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 2,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE julga irregular a obra do antipó em Rio Negrinho",
+   "description": "O Tribunal de Contas julgou irregulares as contas da tomada de contas especial sobre a aplicação da solução antipó nas vias municipais. Houve condenação solidária dos responsáveis ao ressarcimento de R$ 492.351,58 por dano ao erário. O caso terminou com imputação de débito.",
+   "status": "⬛ julgado irregular",
+   "severity": "alta"
+  },
+  {
+   "i": 3,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 4,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta falhas na compra de kits de robótica em Rio Negrinho",
+   "description": "A inspeção sobre o pregão de kits de robótica educacional considerou irregulares a aglutinação de itens e o direcionamento técnico para uma única solução. O acórdão também trouxe determinações para futuras compras. O caso seguiu com irregularidades apontadas, sem multa nesta fase.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 5,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 6,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 7,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 8,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multa ex-secretária por despesa sem empenho em Rio Negrinho",
+   "description": "No julgamento das contas de 2019, o Tribunal considerou irregular a realização de despesas sem empenho prévio na Secretaria de Saúde. A ex-secretária Maria de Fátima Mendes Afonso recebeu multa de R$ 1.684,86. O caso terminou com sanção e apontamento grave na despesa pública.",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta"
+  },
+  {
+   "i": 9,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 10,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 11,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 12,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE recomenda aprovação das contas de Rio Negrinho de 2024",
+   "description": "A prestação de contas do prefeito referente a 2024 recebeu parecer prévio pela aprovação. O texto veio contaminado por outros atos administrativos, mas o objeto principal é a conta anual do município. O caso terminou com parecer favorável.",
+   "status": "🟢 parecer pela aprovação",
+   "severity": "media"
+  },
+  {
+   "i": 13,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 14,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE leva a audiência pregão de uniformes escolares em Rio Negrinho",
+   "description": "A deliberação sobre o Pregão Presencial 87/2022 tratou de supostas irregularidades na compra de uniformes escolares e converteu a fase preliminar em representação. O texto não encerra o mérito, mas abre instrução com audiência do prefeito. O caso segue em apuração.",
+   "status": "🟡 em instrução (citação/audiência)",
+   "severity": "media"
+  },
+  {
+   "i": 15,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 16,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 17,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 18,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 19,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE reconhece prescrição em auditoria do IPRERIO",
+   "description": "A auditoria sobre contribuições previdenciárias e aplicações financeiras reconheceu a prescrição das pretensões punitiva e ressarcitória. O processo foi extinto sem julgamento de mérito e arquivado. Não houve decisão de mérito contra os responsáveis.",
+   "status": "⚫ prescrito",
+   "severity": "media"
+  },
+  {
+   "i": 20,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 21,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 22,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta irregularidade no piso do magistério em Rio Negrinho",
+   "description": "O Tribunal considerou irregular a não aplicação do piso salarial nacional do magistério aos professores efetivos e temporários do município. A decisão cobra providências em 180 dias. Como envolve educação, o caso entra como grave.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "alta"
+  },
+  {
+   "i": 23,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 24,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 25,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 26,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 27,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 28,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 29,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE susta concorrência de iluminação pública em Rio Negrinho",
+   "description": "O edital de Concorrência 51/2025 foi sustado cautelarmente por sobrepreço, problemas na formação de preço e falhas no orçamento básico. A medida suspende a licitação até nova deliberação. O caso segue em cautelar.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 30,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 31,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE rejeita representação sobre previdência complementar em Rio Negrinho",
+   "description": "A representação sobre a seleção para contratar entidade fechada de previdência complementar foi julgada improcedente. O Tribunal não confirmou as irregularidades apontadas. O caso terminou sem punição.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 32,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 33,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE susta obra da avenida Klaus Schumacher em Rio Negrinho",
+   "description": "A Concorrência 65/2025 foi suspensa cautelarmente por falta de projeto básico, falhas na composição do BDI e problemas de orçamento. A execução da obra fica travada até deliberação posterior. O caso segue em cautelar.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 34,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 35,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 36,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 37,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 38,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 39,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 40,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 41,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE barra aposentadoria de Maristela Seleme em Rio Negrinho",
+   "description": "O recurso manteve a negativa de registro da aposentadoria, por incorporação indevida de verba de aulas excedentes aos proventos. O Tribunal mandou anular ou corrigir o ato e acompanhar o cumprimento. O caso segue com irregularidade apontada.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 42,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 43,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 44,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 45,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 46,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 47,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE nega aposentadoria de professora por gratificação temporária",
+   "description": "O Tribunal negou o registro da aposentadoria de Soraia Bublitz porque a gratificação de incentivo às aulas não podia compor os proventos. A decisão exige anulação do ato e nova submissão se houver correção. O caso segue com irregularidade apontada.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 48,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE barra aposentadoria de Sirlei Cordeiro em Rio Negrinho",
+   "description": "A decisão manteve a negativa de registro da aposentadoria por incorporação irregular de verbas de aulas excedentes. O Tribunal determinou exclusão dos valores e providências para anular o ato. O caso segue com irregularidade apontada.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 49,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 50,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE barra aposentadoria de Maristela Seleme e manda corrigir proventos",
+   "description": "O Tribunal manteve a negativa de registro da aposentadoria por incorporação irregular de aulas excedentes aos proventos. A decisão determina anulação ou correção do ato, com contraditório. O caso segue com irregularidade apontada.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 51,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 52,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 53,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 54,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 55,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 56,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 57,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 58,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 59,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 60,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 61,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 62,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 63,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 64,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 65,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 66,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 67,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 68,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 69,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 70,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 71,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 72,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 73,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 74,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 75,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 76,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 77,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 78,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 79,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 80,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 81,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 82,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 83,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 84,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE barra aposentadoria de Maristela da Silva Seleme",
+   "description": "O Tribunal negou o registro do ato de Maristela da Silva Seleme por irregularidade no benefício. A unidade gestora foi chamada a corrigir a falha. O caso ficou marcado como irregular.",
+   "status": "⬛ julgado irregular",
+   "severity": "media"
+  },
+  {
+   "i": 85,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 86,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 87,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 88,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 89,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 90,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 91,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 92,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 93,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 94,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 95,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 96,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 97,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 98,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 99,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 100,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 101,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 102,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 103,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 104,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 105,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 106,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 107,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 108,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 109,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 110,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 111,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 112,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 113,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 114,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 115,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 116,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 117,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 118,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 119,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 120,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 121,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 122,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE barra aposentadoria de Sirlei Terezinha Anton Cordeiro",
+   "description": "O Tribunal negou o registro do ato de Sirlei Terezinha Anton Cordeiro por irregularidade no benefício. A unidade gestora foi chamada a corrigir a falha. O caso ficou marcado como irregular.",
+   "status": "⬛ julgado irregular",
+   "severity": "media"
+  },
+  {
+   "i": 123,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE cobra certidão ausente em aposentadoria de Rio Negrinho",
+   "description": "O Tribunal deu prazo para sanar a pendência no ato de Rio Negrinho. Ainda não houve desfecho final de mérito. O caso segue em instrução.",
+   "status": "🟡 em instrução (citação/audiência)",
+   "severity": "media"
+  },
+  {
+   "i": 124,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 125,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 126,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  },
+  {
+   "i": 127,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "",
+   "severity": "media"
+  }
+ ]
+}

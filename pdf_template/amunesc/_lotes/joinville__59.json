@@ -1,0 +1,635 @@
+{
+ "cidade": "Joinville",
+ "casos": [
+  {
+   "i": 4130,
+   "tipo": "mp",
+   "ref": "06.2025.00004212-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00004212-9",
+   "status": "🟡 em apuração",
+   "data": "20/10/2025",
+   "texto": "Conselho Municipal de Saúde de Joinville, Secretaria Municipal de Saúde e Hospital Municipal São José."
+  },
+  {
+   "i": 4131,
+   "tipo": "mp",
+   "ref": "01.2025.00056755-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00056755-0",
+   "status": "🟡 em apuração",
+   "data": "21/10/2025",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 4132,
+   "tipo": "mp",
+   "ref": "01.2025.00033018-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00033018-0",
+   "status": "🟢 arquivado",
+   "data": "22/10/2025",
+   "texto": "Darci Costa Lima. Conclusão: arquivamento. Ausência de situação de risco. Pessoa idosa amparada pela família."
+  },
+  {
+   "i": 4133,
+   "tipo": "mp",
+   "ref": "01.2025.00045652-2",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00045652-2",
+   "status": "🟢 arquivado",
+   "data": "22/10/2025",
+   "texto": "Josiane da Cunha Isabel. Conclusão: apurar possível situação de vulnerabilidade de diversos cães na Rua Levinho Lemke, próximo ao n. 19, Bairro Ulysses Guimarães, em Joinville/SC. Atuação do órgão de proteção animal. Canino submetido a tratamento veterinário. Animal comunitário. Bem-estar do canino devidamente resguardado. Arquivamento com base no artigo 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4134,
+   "tipo": "mp",
+   "ref": "01.2025.00050064-6",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00050064-6",
+   "status": "🟢 arquivado",
+   "data": "22/10/2025",
+   "texto": "T. L. A. Conclusão: arquivamento. Ausente situação de abandono. Pessoa com deficiência permanece sob cuidados hospitalares, sem indicação de alta médica."
+  },
+  {
+   "i": 4135,
+   "tipo": "mp",
+   "ref": "06.2025.00004240-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2025.00004240-7",
+   "status": "🟡 em apuração",
+   "data": "22/10/2025",
+   "texto": "Parter Trading Importadora e Exportadora Ltda."
+  },
+  {
+   "i": 4136,
+   "tipo": "mp",
+   "ref": "06.2024.00000229-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00000229-9",
+   "status": "❔ status indef.",
+   "data": "23/10/2025",
+   "texto": "MEDCORP Administradora de Benefícios."
+  },
+  {
+   "i": 4137,
+   "tipo": "mp",
+   "ref": "06.2025.00000719-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00000719-8",
+   "status": "🟢 arquivado",
+   "data": "23/10/2025",
+   "texto": "sigiloso. Conclusão: apurar suposta situação de vulnerabilidade de animais, na Rua Dilma Virgilina Garcia, n. 1322, Bairro Aventureiro, Joinville. Atuação do órgão de proteção animal. Atendimentos veterinários, vacinação, castração, desverminação e microchipagem de diversos animais. Arquivamento com base no art. 48, inciso I, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4138,
+   "tipo": "mp",
+   "ref": "01.2025.00050649-5",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00050649-5",
+   "status": "🟢 arquivado",
+   "data": "24/10/2025",
+   "texto": "M.F. Conclusão: arquivamento. Situação de vulnerabilidade. Óbito da pessoa idosa."
+  },
+  {
+   "i": 4139,
+   "tipo": "mp",
+   "ref": "06.2025.00001226-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00001226-8",
+   "status": "🟡 em apuração",
+   "data": "24/10/2025",
+   "texto": "Fernando Francisco Hudelist."
+  },
+  {
+   "i": 4140,
+   "tipo": "mp",
+   "ref": "06.2025.00001699-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00001699-7",
+   "status": "❔ status indef.",
+   "data": "29/10/2025",
+   "texto": ""
+  },
+  {
+   "i": 4141,
+   "tipo": "mp",
+   "ref": "01.2025.00057970-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00057970-1",
+   "status": "🟡 em apuração",
+   "data": "29/10/2025",
+   "texto": "Aline Pegoraro."
+  },
+  {
+   "i": 4142,
+   "tipo": "mp",
+   "ref": "01.2025.00057971-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00057971-2",
+   "status": "🟡 em apuração",
+   "data": "29/10/2025",
+   "texto": "Aline Pegoraro."
+  },
+  {
+   "i": 4143,
+   "tipo": "mp",
+   "ref": "01.2025.00058092-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00058092-0",
+   "status": "🟡 em apuração",
+   "data": "30/10/2025",
+   "texto": "Aline Pegoraro."
+  },
+  {
+   "i": 4144,
+   "tipo": "mp",
+   "ref": "01.2025.00047819-3",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00047819-3",
+   "status": "🟢 arquivado",
+   "data": "31/10/2025",
+   "texto": "sigiloso. Conclusão: apurar possível situação de vulnerabilidade de um canino acometido por um tumor na pata traseira esquerda, no imóvel situado na rua Cidade de Medianeira, quadra 19, lote 19, ao lado do n. 131, Bairro Ulisses Guimarães, em Joinville. Atuação do órgão de proteção animal. Canino submetido a eutanásia devido ao agravamento do quadro clínico. Arquivamento com base no artigo 7º, inciso II, do Ato n. 395/2018/PGJ. Remessa de cópia dos autos à Autoridade Policial."
+  },
+  {
+   "i": 4145,
+   "tipo": "mp",
+   "ref": "06.2025.00003965-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00003965-7",
+   "status": "🟢 arquivado",
+   "data": "31/10/2025",
+   "texto": "Adriana Aragão Frota e Carmen Cumin Franzoi. Conclusão: apurar suposta situação de abandono e vulnerabilidade de três felinos na Rua Alberto Miers, n. 889, casa 4, Loteamento Portal Horizonte, Bairro Vila Nova, em Joinville. Atuação do órgão de proteção animal. Animais que possuem acesso a abrigo e alimentação, castrados e com o bem-estar resguardado. Arquivamento."
+  },
+  {
+   "i": 4146,
+   "tipo": "mp",
+   "ref": "01.2025.00058580-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00058580-3",
+   "status": "🟡 em apuração",
+   "data": "03/11/2025",
+   "texto": "Marlete Wilker."
+  },
+  {
+   "i": 4147,
+   "tipo": "mp",
+   "ref": "06.2025.00004507-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00004507-0",
+   "status": "🟡 em apuração",
+   "data": "03/11/2025",
+   "texto": "Secretaria de Estado da Saúde de Santa Catarina."
+  },
+  {
+   "i": 4148,
+   "tipo": "mp",
+   "ref": "06.2025.00004740-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00004740-2",
+   "status": "🟡 em apuração",
+   "data": "03/11/2025",
+   "texto": "sigilosa."
+  },
+  {
+   "i": 4149,
+   "tipo": "mp",
+   "ref": "01.2025.00052816-7",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00052816-7",
+   "status": "🟢 arquivado",
+   "data": "04/11/2025",
+   "texto": "R.S.S.C. Conclusão: cidadania. Discriminação. Ausência de elementos mínimos aptos a demonstrar prática discriminatória por parte dos funcionários do estabelecimento comercial. Indeferimento."
+  },
+  {
+   "i": 4150,
+   "tipo": "mp",
+   "ref": "06.2025.00004612-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00004612-5",
+   "status": "🟡 em apuração",
+   "data": "04/11/2025",
+   "texto": "Manueller Holscher Belz e Hospital Municipal São José."
+  },
+  {
+   "i": 4151,
+   "tipo": "mp",
+   "ref": "06.2024.00004898-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00004898-5",
+   "status": "❔ status indef.",
+   "data": "05/11/2025",
+   "texto": ""
+  },
+  {
+   "i": 4152,
+   "tipo": "mp",
+   "ref": "06.2025.00004675-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2025.00004675-8",
+   "status": "🟡 em apuração",
+   "data": "05/11/2025",
+   "texto": "Norma Graciela Marin Benitez."
+  },
+  {
+   "i": 4153,
+   "tipo": "mp",
+   "ref": "01.2025.00059415-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00059415-7",
+   "status": "🟡 em apuração",
+   "data": "05/11/2025",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 4154,
+   "tipo": "mp",
+   "ref": "01.2025.00053797-7",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00053797-7",
+   "status": "🟢 arquivado",
+   "data": "06/11/2025",
+   "texto": "sigiloso. Conclusão: apurar possível situação de vulnerabilidade de um papagaio, no imóvel localizado na Rua Churchil, n. 205-B, Bairro Iririú, em Joinville. Atuação do IMA. Não foi constatada a presença da ave silvestre na residência. Falta de materialidade. Indeferimento de instauração com base no art. 7º, incisos III, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4155,
+   "tipo": "mp",
+   "ref": "01.2025.00059866-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00059866-4",
+   "status": "🟡 em apuração",
+   "data": "07/11/2025",
+   "texto": "Ana Cristina Negrão Ribeiro."
+  },
+  {
+   "i": 4156,
+   "tipo": "mp",
+   "ref": "06.2025.00001643-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00001643-1",
+   "status": "🟡 em apuração",
+   "data": "07/11/2025",
+   "texto": "Fernando Francisco Hudelist."
+  },
+  {
+   "i": 4157,
+   "tipo": "mp",
+   "ref": "01.2025.00052564-8",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2025.00052564-8",
+   "status": "🟢 arquivado",
+   "data": "10/11/2025",
+   "texto": "sigiloso. Conclusão: apurar suposta situação de vulnerabilidade de caninos na Rua Luiz Reduzino Pacheco, n. 276, Bairro Nova Brasília, em Joinville. Instada, a SAMA verificou que todos os caninos tinham abrigo e alimentação, bem como estavam vacinados e microchipados. Ausência de sinais de maus-tratos e/ou vulnerabilidade. Arquivamento com base no art. 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4158,
+   "tipo": "mp",
+   "ref": "01.2025.00060144-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00060144-2",
+   "status": "🟡 em apuração",
+   "data": "10/11/2025",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 4159,
+   "tipo": "mp",
+   "ref": "01.2025.00060140-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00060140-9",
+   "status": "🟡 em apuração",
+   "data": "11/11/2025",
+   "texto": "Ana Carolina Pereira da Silva."
+  },
+  {
+   "i": 4160,
+   "tipo": "mp",
+   "ref": "06.2025.00001598-7",
+   "header": "· EXTRATO DE CONCLUSÃO DE INQUÉRITO CIVIL N. 06.2025.00001598-7",
+   "status": "🟢 arquivado",
+   "data": "12/11/2025",
+   "texto": "Débora Regina de Aquino. Conclusão: apuração de suposta situação de vulnerabilidade de diversos equinos soltos na Rua São Mateus, em frente ao n. 594, Bairro Fátima, em Joinville. Atuação do órgão de proteção animal. Animais com o bem-estar resguardado. Ausência de relato de maus-tratos ou vulnerabilidade. Animais sem acesso à via pública. Arquivamento com supedâneo no art. 48, inciso I, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4161,
+   "tipo": "mp",
+   "ref": "06.2023.00002120-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00002120-4",
+   "status": "❔ status indef.",
+   "data": "12/11/2025",
+   "texto": "Cervejaria Aurea Ltda. Conclusão: Inquérito Civil. Fiscalização do estabelecimento Cervejaria Aurea Ltda., cadastrado no CNPJ sob o n. 21.807.627/0001-29, registrado no MAPA como produtor e engarrafador de cerveja, quanto à observância das normas legais aplicáveis a rotulagem desses produtos, especialmente o Decreto n. 6.871/2009, IN n. 55/2002 e IN 65/2019, tendo em vista que sua inobservância pode caracterizar infração ao art. 31 e art. 39, inciso VIII, ambos do CDC. Estabelecimento que encerrou suas atividades. Ausência de evidências de comercialização de produtos em desconformidade com a legislação vigente. Inexistência"
+  },
+  {
+   "i": 4162,
+   "tipo": "mp",
+   "ref": "01.2025.00060415-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00060415-0",
+   "status": "🟡 em apuração",
+   "data": "12/11/2025",
+   "texto": "Dayene Nogueira."
+  },
+  {
+   "i": 4163,
+   "tipo": "mp",
+   "ref": "01.2025.00036252-7",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00036252-7",
+   "status": "🟢 arquivado",
+   "data": "13/11/2025",
+   "texto": "Instituição de Longa Permanência para Idosos clandestina, localizada no Bairro Vila Nova. Conclusão: realocação dos idosos. Instauração do inquérito policial. Arquivamento."
+  },
+  {
+   "i": 4164,
+   "tipo": "mp",
+   "ref": "01.2025.00041180-2",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00041180-2",
+   "status": "🟢 arquivado",
+   "data": "13/11/2025",
+   "texto": "B. D. Conclusão: arquivamento. Ausência de situação de risco. Idosa assistida pelos filhos."
+  },
+  {
+   "i": 4165,
+   "tipo": "mp",
+   "ref": "01.2025.00045233-7",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00045233-7",
+   "status": "🟢 arquivado",
+   "data": "13/11/2025",
+   "texto": "R. M. M. Conclusão: arquivamento. Situação de risco de pessoa idosa. Cessação do risco."
+  },
+  {
+   "i": 4166,
+   "tipo": "mp",
+   "ref": "06.2025.00003612-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00003612-7",
+   "status": "🟢 arquivado",
+   "data": "13/11/2025",
+   "texto": "Lúcia Maria Argenton Teixeira e Centro Hospitalar Vida Spa. Conclusão: considerando que o nosocômio manifestou ciência das recomendações, bem como informou que todas estão sendo aplicadas, não subsiste causa para a intervenção ministerial na matéria. Arquivamento."
+  },
+  {
+   "i": 4167,
+   "tipo": "mp",
+   "ref": "06.2025.00004823-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2025.00004823-4",
+   "status": "🟡 em apuração",
+   "data": "13/11/2025",
+   "texto": "Abatedouro Irineu Baechtold Indústria e Comércio Ltda ME."
+  },
+  {
+   "i": 4168,
+   "tipo": "mp",
+   "ref": "06.2025.00003761-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00003761-5",
+   "status": "🟢 arquivado",
+   "data": "17/11/2025",
+   "texto": "José Rodrigo de Souza. Conclusão: apurar suposta situação de vulnerabilidade de dois caninos no imóvel situado na Rua Olindo João Dias, ao lado do n. 31, Bairro João Costa, em Joinville. Atuação da SAMA e adoção de medidas administrativas. Adequações no abrigo, instalação de cabo de locomoção, vacinação e microchipagem. Animais com a saúde e bem-estar resguardados. Arquivamento com supedâneo no art. 48, inciso I, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4169,
+   "tipo": "mp",
+   "ref": "06.2025.00004920-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00004920-0",
+   "status": "🟡 em apuração",
+   "data": "17/11/2025",
+   "texto": "sigilo."
+  },
+  {
+   "i": 4170,
+   "tipo": "mp",
+   "ref": "01.2025.00061552-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00061552-5",
+   "status": "🟡 em apuração",
+   "data": "18/11/2025",
+   "texto": "Francini Cristina Valente."
+  },
+  {
+   "i": 4171,
+   "tipo": "mp",
+   "ref": "01.2025.00035104-1",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00035104-1",
+   "status": "🟢 arquivado",
+   "data": "19/11/2025",
+   "texto": "Maurício Soares, Anelise Maria Leite Bononomi, Benedito Geraldo Gouveia, Celia Regina de Souza Reinicke, Cláudia Cristina Fernandes, Eduardo dos Santos, Fernando Franco Fernandes, Malenir Serino, Oscar Zanella, Sonia Maria Vieira, Vanderlei Wessler, Jane, Manoel, Luiz Mendes e Drieli. Conclusão: despacho. Indeferimento deNotícia de Fato. Fatos já apurados no âmbito do Inquérito Policial n. 5000715- 12.2024.8.24.0538, em trâmite perante esta Promotoria de Justiça."
+  },
+  {
+   "i": 4172,
+   "tipo": "mp",
+   "ref": "01.2025.00059613-3",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00059613-3",
+   "status": "🟢 arquivado",
+   "data": "19/11/2025",
+   "texto": "representante sigiloso e Estado de Santa Catarina. Conclusão: despacho. Notícia de Fato. Direito individual. Direito disponível. Ausência de ofensa à coletividade. Desnecessidade de atuação do Ministério Público. Indeferimento de investigação. Arquivamento."
+  },
+  {
+   "i": 4173,
+   "tipo": "mp",
+   "ref": "01.2025.00050721-7",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00050721-7",
+   "status": "🟢 arquivado",
+   "data": "25/11/2025",
+   "texto": "sigiloso. Conclusão: apurar a atuação do CBEA na assistência a um cão comunitário, que foi a óbito após o atendimento. Atuação do órgão de proteção animal. Envio da documentação comprobatória do atendimento prestado e prontuário médico do canino. Inconformismo da parte noticiante. Ausência de conhecimento técnico ou mesmo documento subscrito por profissional habilitado apto a contestar o protocolo clínico adotado. Arquivamento com base no art. 7º, inciso III, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4174,
+   "tipo": "mp",
+   "ref": "01.2025.00052155-2",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00052155-2",
+   "status": "❔ status indef.",
+   "data": "25/11/2025",
+   "texto": "sigiloso. Conclusão: apurar possível situação de vulnerabilidade de cães abandonados. Atuação do órgão de proteção animal. Caninos"
+  },
+  {
+   "i": 4175,
+   "tipo": "mp",
+   "ref": "01.2025.00054124-8",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00054124-8",
+   "status": "🟢 arquivado",
+   "data": "25/11/2025",
+   "texto": "A. R. V. Conclusão: arquivamento. Ausência de situação de risco. Assunção dos cuidados por um dos filhos."
+  },
+  {
+   "i": 4176,
+   "tipo": "mp",
+   "ref": "01.2025.00058580-3",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2025.00058580-3",
+   "status": "🟢 arquivado",
+   "data": "25/11/2025",
+   "texto": "Marlete Wilker. Conclusão: apurar possível omissão do Centro de Bem-Estar Animal no fornecimento de atendimento médico-veterinário a uma felina. Esclarecimentos prestados pela SAMA. Situação não caracterizada como emergência. Ordem de atendimento e ausência de omissão. Felina com bem-estar resguardado. Arquivamento com base no art. 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4177,
+   "tipo": "mp",
+   "ref": "06.2025.00004262-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00004262-9",
+   "status": "❔ status indef.",
+   "data": "25/11/2025",
+   "texto": ""
+  },
+  {
+   "i": 4178,
+   "tipo": "mp",
+   "ref": "06.2025.00001820-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00001820-7",
+   "status": "🟡 em apuração",
+   "data": "25/11/2025",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 4179,
+   "tipo": "mp",
+   "ref": "06.2025.00001821-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00001821-8",
+   "status": "🟡 em apuração",
+   "data": "25/11/2025",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 4180,
+   "tipo": "mp",
+   "ref": "06.2025.00004940-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00004940-0",
+   "status": "🟡 em apuração",
+   "data": "25/11/2025",
+   "texto": "Associação de Moradores do Parc de France e Edison Máximo."
+  },
+  {
+   "i": 4181,
+   "tipo": "mp",
+   "ref": "01.2025.00063122-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00063122-5",
+   "status": "🟡 em apuração",
+   "data": "27/11/2025",
+   "texto": "sigilo."
+  },
+  {
+   "i": 4182,
+   "tipo": "mp",
+   "ref": "06.2025.00003013-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00003013-3",
+   "status": "❔ status indef.",
+   "data": "28/11/2025",
+   "texto": ""
+  },
+  {
+   "i": 4183,
+   "tipo": "mp",
+   "ref": "01.2025.00063612-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00063612-0",
+   "status": "🟡 em apuração",
+   "data": "01/12/2025",
+   "texto": "Alexandre dos Santos."
+  },
+  {
+   "i": 4184,
+   "tipo": "mp",
+   "ref": "01.2025.00063753-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00063753-0",
+   "status": "🟡 em apuração",
+   "data": "01/12/2025",
+   "texto": "Juarez Vieira."
+  },
+  {
+   "i": 4185,
+   "tipo": "mp",
+   "ref": "06.2025.00005147-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00005147-2",
+   "status": "🟡 em apuração",
+   "data": "01/12/2025",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 4186,
+   "tipo": "mp",
+   "ref": "01.2025.00064084-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00064084-6",
+   "status": "🟡 em apuração",
+   "data": "02/12/2025",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 4187,
+   "tipo": "mp",
+   "ref": "01.2025.00064147-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00064147-8",
+   "status": "🟡 em apuração",
+   "data": "02/12/2025",
+   "texto": "Eloisa Corrente e SAMA."
+  },
+  {
+   "i": 4188,
+   "tipo": "mp",
+   "ref": "01.2025.00064161-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00064161-2",
+   "status": "🟡 em apuração",
+   "data": "02/12/2025",
+   "texto": "Agatha Cristine Rosa."
+  },
+  {
+   "i": 4189,
+   "tipo": "mp",
+   "ref": "01.2025.00064169-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00064169-0",
+   "status": "🟡 em apuração",
+   "data": "02/12/2025",
+   "texto": "Julia Vieira."
+  },
+  {
+   "i": 4190,
+   "tipo": "mp",
+   "ref": "06.2024.00004286-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00004286-9",
+   "status": "🟢 arquivado",
+   "data": "03/12/2025",
+   "texto": "Aguinaldo Dias de Moraes, Secretaria de Estado da Saúde de Santa Catarina e Secretaria Municipal de Saúde de Joinville. Conclusão: procedimento deflagrado para apurar possível demanda reprimida para realização de consulta na especialidade de Oftalmologia Adulto, na região Macro Nordeste. Em 2024 constavam 6.942 pacientes aguardando consulta na referida especialidade. Atualmente, há 272 pacientes na lista de espera. Assim, é evidente a expressiva diminuição no número de pacientes aguardando atendimento em lista de espera, uma vez que os prestadores credenciados estão suprindo adequadamente a demanda de primeira consulta na especialidade de Oftalmologia Adulto. Nesse sentido, o poder público municipal não está inerte quanto à necessidade da prestação do serviço de saúde demandado. Arquivame…"
+  },
+  {
+   "i": 4191,
+   "tipo": "mp",
+   "ref": "01.2025.00064147-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00064147-8",
+   "status": "🟢 arquivado",
+   "data": "04/12/2025",
+   "texto": "Eloisa Corrente e SAMA. Conclusão: apurar suposta omissão de acolhimento de um canino idoso, ferido e impossibilitado de locomover-se, localizado na Rua Colon, n. 89, em Joinville/SC, por parte do Centro de Bem-Estar Animal (CBEA). Constatou-se que o animal recebeu atendimento veterinário no CBEA e que a noticiante localizou a respectiva tutora, garantindo o bem-estar do canino. Arquivamento com base no artigo 7º, incisos II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 4192,
+   "tipo": "mp",
+   "ref": "01.2025.00064511-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00064511-9",
+   "status": "🟡 em apuração",
+   "data": "04/12/2025",
+   "texto": "Marinetti de Freitas Alves."
+  },
+  {
+   "i": 4193,
+   "tipo": "mp",
+   "ref": "06.2024.00004103-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00004103-7",
+   "status": "🟢 arquivado",
+   "data": "05/12/2025",
+   "texto": "Conselho Municipal de Saúde - Joinville e Secretaria Municipal da Saúde de Joinville. Conclusão: em razão do teor dessa resposta, pode-se considerar que o objeto deste Inquérito Civil foi exaurido, uma vez que a verba liberada já foi utilizada e, inclusive, já consta a respectiva prestação de contas. Inexistem, pois, quaisquer medidas a serem adotadas por esta Promotoria Regional de Saúde quanto ao tema. Desse modo, nos termos do art. 95, § 1º, da Lei Complementar Estadual n. 738/2019, e do art. 48, inciso I, do Ato n. 00395/2018/PGJ, promovo o arquivamento destes autos, submetendo-o à elevada apreciação do egrégio Conselho Superior do Ministério Público do Estado de Santa Catarina."
+  },
+  {
+   "i": 4194,
+   "tipo": "mp",
+   "ref": "01.2025.00065145-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00065145-4",
+   "status": "🟡 em apuração",
+   "data": "05/12/2025",
+   "texto": "21ª Promotoria de Justiça de Joinville."
+  },
+  {
+   "i": 4195,
+   "tipo": "mp",
+   "ref": "01.2025.00039091-2",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00039091-2",
+   "status": "🟢 arquivado",
+   "data": "09/12/2025",
+   "texto": "Janaína Valdeli Araújo. Conclusão: arquivamento. Discriminação em face de pessoa com deficiência. Instauração de inquérito policial."
+  },
+  {
+   "i": 4196,
+   "tipo": "mp",
+   "ref": "01.2025.00049728-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00049728-0",
+   "status": "🟢 arquivado",
+   "data": "09/12/2025",
+   "texto": "C. K. C. Conclusão: cidadania. Pessoa com deficiência. Ausência de situação de risco. Acompanhamento do núcleo familiar pela rede socioassistencial. Processo judicial que engloba parte do objeto. Indeferimento."
+  },
+  {
+   "i": 4197,
+   "tipo": "mp",
+   "ref": "01.2025.00057528-2",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2025.00057528-2",
+   "status": "🟢 arquivado",
+   "data": "09/12/2025",
+   "texto": "Rogério Spiess e Ricardo Spiess. Conclusão: arquivamento. Curatela. Ausência de situação de risco."
+  },
+  {
+   "i": 4198,
+   "tipo": "mp",
+   "ref": "06.2025.00005259-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2025.00005259-3",
+   "status": "🟡 em apuração",
+   "data": "09/12/2025",
+   "texto": "sigiloso."
+  },
+  {
+   "i": 4199,
+   "tipo": "mp",
+   "ref": "06.2025.00004507-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00004507-0",
+   "status": "🟢 arquivado",
+   "data": "10/12/2025",
+   "texto": "Melita Roecher Cachoeira, Secretaria Municipal de Saúde de Joinville e Secretaria Estadual de Saúde de SC. Conclusão: [...], no dia 05/12/2025, em contato com a Senhora Melita, via WhatsApp, confirmou-se a realização da pretendida cirurgia. Outrossim, conforme se extrai da primeira imagem (lista estadual), denota-se a fila de espera para a cirurgia em tela é enxuta e o requerimento mais antigo é de junho do corrente ano. Ou seja, verifica-se a inexistência de omissão ou mora municipal e estatal no que concerne a essa fila específica. Visível, pois, que o objeto deste inquérito civil foi exaurido, uma vez que atingida a pretensão da paciente no sentido de obtenção da cirurgia que sanasse seu problema de saúde, bem como não há indicativos de que o sistema seja falho sobre esse procedimento …"
+  }
+ ]
+}

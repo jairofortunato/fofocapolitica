@@ -1,0 +1,5883 @@
+{
+ "mp": [
+  {
+   "i": 0,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou enriquecimento ilícito do prefeito de Corupá, mas caso prescreveu",
+   "description": "O Ministério Público investigou se Luiz Carlos Tamanini, prefeito de Corupá, teve evolução patrimonial incompatível com sua renda, por meio de bens registrados em nome de terceiros. Em fevereiro de 2026, o inquérito foi arquivado porque os fatos prescreveram. Ficou de fora do arquivamento apenas a parte que já havia gerado uma ação de improbidade administrativa na Justiça.",
+   "status": "⚫ prescrito",
+   "severity": "media"
+  },
+  {
+   "i": 1,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 2,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 3,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquivou apuração de assédio moral contra ex-servidor em escola de Jaraguá",
+   "description": "O Ministério Público apurou denúncia de que diretoras da escola municipal Rodolpho Dornbusch teriam praticado assédio moral contra o ex-servidor Luis Alberto Formonte. Em maio de 2022, o procedimento foi arquivado por não haver base para propor ação civil pública. As investigadas não foram responsabilizadas.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 4,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Chefe de gabinete da Câmara de Jaraguá foi investigada por trabalho particular no expediente; MP arquivou",
+   "description": "O Ministério Público apurou se Aline Vicente Bories, chefe de gabinete da Câmara Municipal de Jaraguá do Sul, exercia atividade privada durante o horário de trabalho, com suposta conivência do vereador Arlindo Rincos. O inquérito foi arquivado em fevereiro de 2023 por falta de fundamento para uma ação civil pública. Nenhum dos dois foi responsabilizado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 5,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 6,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou médico auditor do ISSEM por faltar ao expediente e arquivou o caso",
+   "description": "O Ministério Público apurou se Roberto Luiz Correia Zimath, médico auditor do ISSEM, deixava de cumprir sua jornada de trabalho, com aparente conivência da chefia. Em outubro de 2022, o inquérito foi arquivado por não haver elementos para uma ação civil pública. O servidor não foi responsabilizado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 7,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Pediatra de posto de saúde de Jaraguá foi investigado por descumprir jornada; MP arquivou",
+   "description": "O Ministério Público apurou se o pediatra Rodrigo Ferreira de Souza, do Posto de Saúde Jaqueline Francener, cumpria sua carga horária, e se a coordenadora da unidade, Sandra Lúcia Isabel Silva e Silva, era conivente. O inquérito foi arquivado em outubro de 2022 por falta de fundamento para ação civil pública. Ninguém foi responsabilizado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 8,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP processa ex-prefeito de Corupá e empreiteira para devolver dinheiro público",
+   "description": "Ao concluir o inquérito, o Ministério Público ajuizou ação civil pública de ressarcimento ao erário contra Luiz Carlos Tamanini e a empresa Serrana Engenharia Ltda., por ato doloso de improbidade administrativa. A ação pede que os cofres públicos sejam ressarcidos dos danos causados. O caso foi remetido à Justiça em fevereiro de 2023 e ainda depende de julgamento.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 9,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP leva João Carlos Gottardi à Justiça por improbidade administrativa",
+   "description": "O Ministério Público encerrou o inquérito civil com o ajuizamento de ação de responsabilidade por ato de improbidade administrativa contra João Carlos Gottardi e outros investigados. O extrato publicado no Diário Oficial em março de 2023 não detalha quais fatos foram apurados. A ação está na Justiça e ainda não há decisão.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 10,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 11,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 12,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Deputado e delegado foram investigados por usar testes de covid do Estado em promoção pessoal; MP arquivou",
+   "description": "O Ministério Público apurou se o deputado federal Fábio Luiz Schiochet e o delegado de polícia Leandro Mioto Ramos usaram kits de teste de covid-19 pertencentes ao Estado de Santa Catarina para promoção pessoal e política. Em fevereiro de 2024, o inquérito foi arquivado por falta de justa causa para uma ação civil pública. Os dois não foram responsabilizados.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 13,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 14,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 15,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP aciona Amilchar Junkes na Justiça por ato de improbidade administrativa",
+   "description": "O Ministério Público concluiu o inquérito civil sobre Amilchar Junkes com o ajuizamento de ação de responsabilidade por ato de improbidade administrativa. O extrato publicado em fevereiro de 2025 não descreve os fatos investigados. O processo tramita na Justiça e ainda não tem desfecho.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 16,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Ex-diretor do presídio de Jaraguá do Sul fecha acordo com o MP e encerra caso de improbidade",
+   "description": "O Ministério Público apurou possível enriquecimento ilícito de Ricardo de Souza Ortiz, então diretor do Presídio Regional de Jaraguá do Sul, por causa de um episódio ocorrido em setembro de 2023. O inquérito foi encerrado em fevereiro de 2025 depois que ele firmou um acordo de não persecução cível (ANPC) com o Ministério Público. O caso terminou sem ação judicial.",
+   "status": "🟠 ACNP firmado",
+   "severity": "media"
+  },
+  {
+   "i": 17,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 18,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquivou apuração sobre Cecília Konell por não ver improbidade dolosa",
+   "description": "O Ministério Público concluiu, em fevereiro de 2026, que não ficou caracterizado ato doloso de improbidade administrativa envolvendo Cecília Konell e outros investigados. Por isso, decidiu não ajuizar ação civil pública e arquivou o inquérito. O extrato não detalha quais fatos haviam sido apurados.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 19,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP move ação de improbidade contra Antídio Lunelli na Justiça de Jaraguá do Sul",
+   "description": "Ao concluir o inquérito civil em junho de 2026, o Ministério Público ajuizou ação de responsabilidade por ato de improbidade administrativa contra Antídio Aleixo Lunelli, registrada sob o n. 5008277-55.2026.8.24.0036. O extrato publicado não descreve os fatos apurados. A ação aguarda julgamento.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 20,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 21,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 22,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou contratação de terceirizado na Câmara de Jaraguá do Sul e arquivou o caso",
+   "description": "O Ministério Público investigou se houve irregularidade na contratação de Nelcindo Alves da Silveira, por meio de empresa terceirizada, para trabalhar na Câmara de Vereadores de Jaraguá do Sul. Em maio de 2026, o inquérito foi arquivado por não haver fundamento para uma ação civil pública. A contratação não foi considerada irregular pelo MP.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 23,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 24,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Vereador de Jaraguá foi investigado por 'rachadinha' com assessora, mas caso prescreveu",
+   "description": "O Ministério Público apurou se o vereador Jocimar dos Santos de Lima exigia que uma assessora de seu gabinete lhe repassasse parte do salário pago pelos cofres públicos, entre 2013 e setembro de 2015. Em fevereiro de 2023, o inquérito foi arquivado por prescrição — ou seja, passou o prazo legal para apurar os fatos. O vereador não chegou a ser responsabilizado.",
+   "status": "⚫ prescrito",
+   "severity": "media"
+  },
+  {
+   "i": 25,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 26,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 27,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 28,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 29,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 30,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 31,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou contratação de engenheiros temporários em Jaraguá no lugar de aprovados em concurso",
+   "description": "O Ministério Público investigou se a Prefeitura de Jaraguá do Sul nomeou servidores temporários para o cargo de engenheiro deixando de lado candidatos aprovados em concurso público. Em outubro de 2023, o inquérito foi arquivado por falta de fundamento para uma ação civil pública. O município não foi responsabilizado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 32,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Dentistas temporários no lugar de aprovados em concurso: MP apurou e arquivou",
+   "description": "O Ministério Público investigou se a Prefeitura de Jaraguá do Sul prorrogou contratos temporários de dentistas em vez de nomear os candidatos aprovados em concurso público. O inquérito foi arquivado em dezembro de 2023, por não haver base para uma ação civil pública. A prática não foi considerada irregular pelo MP.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 33,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 34,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP checou a nomeação do secretário de Cultura de Jaraguá do Sul e arquivou o caso",
+   "description": "O Ministério Público apurou a legalidade da nomeação de José Marcos de Andrade Ranucci para a Secretaria Municipal da Cultura, Esporte e Lazer de Jaraguá do Sul, feita pela Portaria n. 283/2024. Em novembro de 2024, o inquérito foi arquivado. Não foi apontada irregularidade na nomeação.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 35,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 36,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 37,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 38,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 39,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Prefeito de Jaraguá foi acusado de usar estrutura da prefeitura em rede social; MP arquivou",
+   "description": "Uma denúncia apontava que bens e mão de obra do Município de Jaraguá do Sul teriam sido usados para produzir conteúdo publicado na rede social particular do prefeito José Jair Franzner. O Ministério Público apurou e, em maio de 2024, arquivou o procedimento por não encontrar fundamento para uma ação civil pública. O prefeito não foi responsabilizado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 40,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 41,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 42,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 43,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Vereador de Jaraguá foi denunciado por cobrar 'mensalinho' de comissionados; MP arquivou",
+   "description": "O Ministério Público apurou denúncia de que o vereador Jair Luis Pedri cobraria um 'mensalinho' dos servidores nomeados para cargos comissionados na Prefeitura de Jaraguá do Sul por indicação dele. Em dezembro de 2023, o procedimento foi arquivado por não haver elementos para propor ação civil pública. O vereador não foi responsabilizado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 44,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 45,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 46,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 47,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 48,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 49,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 50,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP firma acordo com Jaraguá do Sul após apurar tramitação da lei de zoneamento",
+   "description": "O Ministério Público investigou possíveis irregularidades na tramitação do Projeto de Lei n. 104/2020, que se tornou o Código de Zoneamento de Uso e Ocupação do Solo de Jaraguá do Sul (Lei n. 8.343/2020). A apuração terminou em julho de 2023 com a assinatura de um termo de ajustamento de conduta (TAC) com o Município. O texto publicado está cortado e não detalha os compromissos assumidos.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 51,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 52,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 53,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 54,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 55,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 56,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 57,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 58,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 59,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 60,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 61,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 62,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 63,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP questionou seleção de assistente social na Educação de Jaraguá e arquivou o caso",
+   "description": "O Ministério Público apurou se houve irregularidade no processo seletivo simplificado do Edital n. 021/2023, que contratou assistente social para a Secretaria Municipal de Educação de Jaraguá do Sul usando apenas tempo de serviço e títulos como critério. Em março de 2024, o procedimento foi arquivado por falta de fundamento para ação civil pública. O município não foi responsabilizado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 64,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 65,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 66,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cobrou controle interno completo da Prefeitura de Jaraguá do Sul e arquivou o caso",
+   "description": "O Ministério Público apurou se o Executivo de Jaraguá do Sul descumpria a obrigação de reunir no seu controle interno as funções de auditoria, corregedoria, ouvidoria e transparência, previstas na Constituição e em várias leis federais. Em agosto de 2024, o inquérito foi arquivado por não haver fundamento para uma ação civil pública. A prefeitura não foi responsabilizada.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 67,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 68,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Após cobrança do MP, Jaraguá do Sul adota medidas contra cigarro eletrônico nas escolas",
+   "description": "O Ministério Público apurou o uso indevido de cigarros eletrônicos na rede municipal de ensino de Jaraguá do Sul e a falta de providências da administração. As irregularidades foram confirmadas e o município foi acionado para corrigi-las. Depois que as medidas foram adotadas, o inquérito foi arquivado em outubro de 2024.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 69,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 70,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 71,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 72,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 73,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 74,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 75,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou contratação de médicos por seleção temporária em Jaraguá e arquivou o caso",
+   "description": "O Ministério Público investigou se a Prefeitura de Jaraguá do Sul feriu a Lei Orgânica do município ao contratar médicos por processo seletivo mesmo existindo candidatos aprovados no Concurso Público n. 002/2019, já concluído. Em abril de 2025, o inquérito foi arquivado por não haver fundamento para uma ação civil pública. O município não foi responsabilizado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 76,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 77,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 78,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 79,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 80,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 81,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 82,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 83,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou avaliação psicológica dos concursos de Jaraguá do Sul e arquivou o caso",
+   "description": "O Ministério Público apurou possíveis irregularidades na etapa de avaliação psicológica dos Concursos Públicos n. 001/2019 e n. 002/2019 da Prefeitura de Jaraguá do Sul. Em junho de 2023, o inquérito foi arquivado por não existir fundamento para uma ação civil pública. A etapa não foi considerada irregular pelo MP.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 84,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 85,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 86,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 87,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 88,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 89,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 90,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Resultado dos testes psicológicos de concurso em Jaraguá foi apurado pelo MP e arquivado",
+   "description": "O Ministério Público analisou, sob a ótica do interesse público, o resultado das avaliações psicológicas aplicadas em 9 de outubro de 2022 nos Concursos Públicos n. 001/2019 e n. 002/2019 de Jaraguá do Sul. O inquérito foi arquivado em julho de 2024 por não haver base para uma ação civil pública. Nenhuma irregularidade foi apontada.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 91,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 92,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP confirmou falha no atendimento a autistas em Jaraguá e caso foi parar na Justiça",
+   "description": "O Ministério Público apurou a deficiência no atendimento a crianças e adolescentes com Transtorno do Espectro Autista em Jaraguá do Sul, sobretudo no espaço da Associação e Amigos dos Autistas (AMA). As irregularidades foram confirmadas e o município foi cobrado, mas não corrigiu a situação. O tema acabou incluído em uma ação civil pública já ajuizada pela Promotoria sobre a fila de espera da APAE, e o inquérito foi encerrado por perda de objeto.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 93,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 94,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 95,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 96,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 97,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP acompanhou fechamento de escola para dar lugar ao Colégio Militar de Jaraguá do Sul",
+   "description": "O Ministério Público apurou possível violação de direitos de crianças e adolescentes com o fechamento da Escola Darci Franke Welke, cujo prédio passou a ser ocupado integralmente pelo Colégio Militar de Jaraguá do Sul. A Promotoria considerou suficientes as medidas adotadas, já que a escola seria realocada para outro endereço no ano seguinte. O inquérito foi arquivado em abril de 2025.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 98,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 99,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 100,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 101,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Após recomendação do MP, Jaraguá do Sul edita decreto e encerra investigação",
+   "description": "Depois de uma denúncia sigilosa contra o Município de Jaraguá do Sul, o Ministério Público expediu recomendação e a prefeitura respondeu editando o Decreto n. 18.896/2024, que resolveu o ponto investigado. A Promotoria concluiu que as irregularidades foram eliminadas e arquivou o procedimento em setembro de 2025. O extrato publicado não detalha qual era o problema apurado.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 102,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 103,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 104,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 105,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 106,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 107,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 108,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 109,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 110,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 111,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 112,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 113,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP concluiu que obra da prefeitura de Jaraguá em curso d'água foi regular",
+   "description": "O Ministério Público investigou uma intervenção feita pelo Município de Jaraguá do Sul em um curso d'água, após representação envolvendo moradores da área. Laudos técnicos juntados ao processo indicaram que a obra foi regular e que não houve dano ambiental. O inquérito foi arquivado em março de 2026, sem providências contra a prefeitura.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 114,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 115,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 116,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 117,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 118,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 119,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP checou a cobrança do ITBI em Jaraguá do Sul e não achou ilegalidade",
+   "description": "A partir de uma denúncia, o Ministério Público analisou se a Prefeitura de Jaraguá do Sul respeita as regras do Tema 1.113 do STJ e do Decreto Municipal n. 19.935/2025 ao declarar, lançar e arbitrar o ITBI, o imposto pago na compra de imóveis. A Promotoria concluiu que o município não usa tabelas de valores de referência prévios e que o procedimento está em conformidade. O caso foi indeferido e arquivado em junho de 2026.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 120,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 121,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 122,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 123,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP acompanhou fila de espera na APAE de Jaraguá e falta de creche em Guaramirim",
+   "description": "O Ministério Público acompanhou a oferta de serviços de educação especial e de saúde a alunos que dependem da APAE, em especial moradores de Schroeder que estavam na fila de espera da unidade de Jaraguá do Sul, além da falta de vagas em creche na rede de Guaramirim em 2023. Com a instalação de uma APAE local, a Promotoria considerou a questão resolvida. O procedimento foi arquivado em setembro de 2024.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 124,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 125,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 126,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 127,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 128,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 129,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 130,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 131,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 132,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 133,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 134,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 135,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 136,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 137,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Prefeitura de Jaraguá contrata auxiliares de sala e MP encerra inquérito",
+   "description": "O Ministério Público mantinha inquérito civil sobre a contratação de auxiliares de sala pelo Município de Jaraguá do Sul. Depois que os profissionais foram contratados, a Promotoria concluiu que não havia mais motivo para ir à Justiça e determinou o encerramento do caso, em março de 2022. O extrato publicado está cortado e não traz mais detalhes.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 138,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 139,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 140,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 141,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 142,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 143,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 144,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 145,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 146,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 147,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 148,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 149,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 150,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 151,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou prorrogação de contrato da prefeitura de Jaraguá e arquivou o caso",
+   "description": "O Ministério Público apurou a suposta prorrogação irregular de um contrato administrativo, em investigação que envolveu Antídio Aleixo Lunelli, Dieter Janssen, Argos José Burgardt, Odair José Mannrich e a empresa Serrana Engenharia Ltda. Em outubro de 2022, o inquérito foi arquivado por não haver fundamento para uma ação civil pública. Nenhum dos investigados foi responsabilizado.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 152,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 153,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 154,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Após cobrança do MP, Samae corrige lançamento de esgoto no Rio Itapocu",
+   "description": "Uma denúncia levou o Ministério Público a apurar o lançamento de esgoto no Rio Itapocu, nas proximidades da Rua Fritz Hasse, em Jaraguá do Sul. Segundo a conclusão do inquérito, os problemas foram integralmente sanados, entre outras medidas com a manutenção dos equipamentos da estação elevatória do Samae. O texto publicado no Diário Oficial está cortado e não traz as demais providências.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 155,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 156,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 157,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 158,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 159,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 160,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 161,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 162,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 163,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 164,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 165,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 166,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 167,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 168,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 169,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 170,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 171,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 172,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 173,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP checou afastamento de servidora de Jaraguá para cargo em Joinville e arquivou o caso",
+   "description": "O Ministério Público apurou se foi legal o afastamento concedido à servidora Cristiane Poffo Martim, pela Portaria n. 2001/2023, para que ela assumisse cargo comissionado no Município de Joinville. Em março de 2024, o inquérito foi arquivado por não haver fundamento para uma ação civil pública. A cessão não foi considerada irregular.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 174,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 175,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 176,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 177,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 178,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 179,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 180,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 181,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 182,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 183,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 184,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 185,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 186,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Galeria inacabada da prefeitura causou alagamentos por anos em Jaraguá do Sul",
+   "description": "O Ministério Público apurou alagamentos na Rua Chile, no bairro Czerniewicz, provocados por uma galeria de escoamento de águas que a Prefeitura de Jaraguá do Sul construiu em 1997 e deixou inacabada, somados a um muro particular que estrangulava o córrego local. Ao longo dos anos o município executou obras e melhorias no local. Considerando a situação resolvida, o inquérito foi arquivado em outubro de 2024.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 187,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP processa Jaraguá do Sul por parques sem brinquedos acessíveis a crianças com deficiência",
+   "description": "O Ministério Público comprovou a negligência da Prefeitura de Jaraguá do Sul, por meio da Secretaria Municipal de Cultura, Esporte e Lazer, no cumprimento da Lei Federal n. 10.098/00, que exige que ao menos 5% dos brinquedos e equipamentos de lazer sejam adaptados a pessoas com deficiência ou mobilidade reduzida. Em outubro de 2024, a Promotoria concluiu o inquérito e ajuizou ação civil pública contra o município. O caso está na Justiça.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 188,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou tubulação de córrego feita pela prefeitura de Jaraguá e considerou obra regular",
+   "description": "O Ministério Público investigou as circunstâncias em que um trecho de curso d'água foi tubulado pelo poder público municipal de Jaraguá do Sul, no processo administrativo PMJS 23.743/2021. A apuração confirmou que o município pagou a medida de compensação ambiental e cumpriu os requisitos da Lei Municipal n. 8.259/2020 e do Decreto n. 4.256/2020, regularizando a tubulação. O inquérito foi arquivado em outubro de 2024.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 189,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 190,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 191,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 192,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Túmulos abandonados em cemitério tombado de Jaraguá são restaurados com dinheiro de acordo",
+   "description": "O Ministério Público apurou a falta de manutenção nos túmulos do cemitério da Comunidade Luterana Apóstolo Paulo, no bairro Rio da Luz, área tombada pelo IPHAN. As obras de manutenção e a restauração das lápides foram executadas pelo município com recursos de um termo de ajustamento de conduta firmado entre a prefeitura, o IPHAN e o Ministério Público Federal. Resolvida a situação, o inquérito foi arquivado em novembro de 2024 e a atribuição foi declinada ao MPF.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 193,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Fila de espera da APAE leva prefeitura de Jaraguá do Sul à Justiça",
+   "description": "O Ministério Público comprovou a negligência da Prefeitura de Jaraguá do Sul e da APAE local quanto à redução das filas de espera para diagnósticos e tratamentos oferecidos pela associação. Diante disso, a Promotoria encerrou o inquérito em dezembro de 2024 ajuizando ação civil pública. A ação também passou a abranger crianças e adolescentes com autismo atendidos no município.",
+   "status": "🔴 ACP ajuizada",
+   "severity": "alta"
+  },
+  {
+   "i": 194,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 195,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 196,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 197,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 198,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou meia tarifa de estudantes no ônibus de Jaraguá e não achou ilegalidade",
+   "description": "Uma denúncia anônima levou o Ministério Público a apurar a concessão de meia tarifa no transporte coletivo urbano aos estudantes de Jaraguá do Sul, envolvendo o município e o Estado de Santa Catarina. A Promotoria concluiu que não houve ilegalidade dos entes públicos e que o denunciante não apresentou provas nem preenchia os requisitos das leis estadual e municipal. O inquérito foi arquivado em abril de 2025.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 199,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 200,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 201,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Samae fiscaliza ligações de esgoto na Rua Richardt Bublitz após reclamação de mau cheiro",
+   "description": "O Ministério Público apurou reclamação de mau cheiro na região da Rua Richardt Bublitz, em Jaraguá do Sul. As vistorias feitas com a Fundação Jaraguaense de Meio Ambiente não encontraram irregularidades nas empresas têxteis da área, e o Samae vistoriou todos os imóveis da rua exigindo a regularização das ligações de esgoto à rede coletora. Considerando a reclamação atendida, a Promotoria arquivou o inquérito em maio de 2025.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 202,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Lei municipal de Jaraguá do Sul vira alvo de ação de inconstitucionalidade e MP encerra apuração",
+   "description": "O Ministério Público apurava questão envolvendo o Município de Jaraguá do Sul quando foi ajuizada ação direta de inconstitucionalidade contra a Lei municipal n. 9.841/2025. Com isso, a notícia de fato perdeu o objeto e foi encerrada em maio de 2025. O extrato publicado não informa do que trata a lei questionada.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 203,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 204,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 205,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 206,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 207,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 208,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 209,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 210,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 211,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 212,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 213,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva inquérito sobre licença ambiental de têxtil em Jaraguá do Sul",
+   "description": "O Ministério Público acompanhava a renovação da licença ambiental de operação da empresa Gradual Beneficiamento Têxtil, junto com o Instituto do Meio Ambiente (IMA). A renovação foi concedida e a cópia da licença foi juntada ao processo. O promotor concluiu que não há irregularidades ambientais nas atividades da empresa e arquivou o inquérito em agosto de 2025.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 214,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre ampliação sem licença na Menegotti, em Jaraguá do Sul",
+   "description": "A apuração verificava se a Menegotti Indústrias Metalúrgicas havia ampliado atividade potencialmente poluidora sem a licença ambiental exigida. O Ministério Público constatou que a estrutura foi incorporada na renovação da licença de operação e que não houve lesão efetiva ao meio ambiente. O pedido de investigação foi indeferido e o caso, arquivado em setembro de 2025.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 215,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Prefeitura de Jaraguá do Sul vai à Justiça por obras irregulares e MP encerra inquérito",
+   "description": "O inquérito do Ministério Público apurava edificações construídas irregularmente e degradação ambiental em área ligada a Moisés de Oliveira Sousa e ao espólio de Friedel Schacht. Como o Município de Jaraguá do Sul ajuizou Ação Civil Pública pedindo a demolição das construções e um plano de recuperação da área degradada, o MP entendeu que o inquérito perdeu o objeto. O caso foi arquivado em setembro de 2025 e a cobrança segue na ação movida pela prefeitura.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 216,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 217,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 218,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 219,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 220,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 221,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 222,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 223,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 224,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 225,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 226,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 227,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva após 10 anos inquérito sobre riscos de desastres em Jaraguá do Sul",
+   "description": "Aberto em 2016, o inquérito acompanhava se o Município seguia as recomendações do Serviço Geológico do Brasil (CPRM) para áreas de risco e para a atuação da Defesa Civil. O Ministério Público concluiu que a prefeitura tem se adequado de forma constante e que, no que não conseguiu por falta de recursos, buscou alternativas para mitigar riscos de desastres. Sem identificar desídia em quase dez anos de apuração, o promotor arquivou o caso em novembro de 2025.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 228,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 229,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 230,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 231,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 232,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 233,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 234,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 235,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 236,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 237,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 238,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 239,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 240,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 241,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Professora acusou delegacia de Jaraguá do Sul de desídia, mas MP não viu irregularidade",
+   "description": "Uma professora da rede pública relatou ao Ministério Público que a Delegacia de Proteção à Criança, Adolescente, Mulher e Idoso (DPCAMI) de Jaraguá do Sul teria agido com descaso após uma ocorrência de maio de 2025, em que um aluno agrediu colegas e a própria comunicante. O MP concluiu que a autoridade policial deu orientação adequada e que não houve violação aos direitos da professora. O caso foi indeferido e arquivado em fevereiro de 2026.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 242,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 243,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 244,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 245,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 246,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 247,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 248,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 249,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 250,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 251,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 252,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 253,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 254,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 255,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 256,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou app de transporte Zopp em SC e não encontrou irregularidade",
+   "description": "Uma denúncia afirmava que o aplicativo de transporte Zopp Mobilidade Urbana estaria operando de forma irregular em Santa Catarina. O Ministério Público verificou que os requisitos para o funcionamento regular estavam comprovados, incluindo a exigência de antecedentes criminais, e que se trata de transporte privado. Considerando a denúncia genérica e sem violação à legislação federal, o MP indeferiu a instauração de investigação em fevereiro de 2026.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 257,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 258,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 259,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 260,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 261,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 262,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 263,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 264,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 265,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 266,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP encerra inquérito sobre parcelamento clandestino de solo em Jaraguá do Sul",
+   "description": "O inquérito tratava de edificações irregulares e do parcelamento clandestino do solo em imóvel de matrícula 108.110, envolvendo Elza de Fátima Telles e Elfina Gruetzmacher Bloedorn. O Ministério Público apontou que a regularização ou, se não for possível, a demolição das construções já é objeto de Ação Civil Pública ajuizada pelo Município (n. 5000719-32.2026.8.24.0036), e que o aspecto criminal corre em processo próprio. Sem outras providências a adotar, o MP arquivou o inquérito em abril de 2026.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 267,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 268,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 269,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 270,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 271,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 272,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 273,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 274,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 275,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 276,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 277,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 278,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 279,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 280,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 281,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 282,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 283,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou burla à lei de parcelamento do solo em Jaraguá do Sul e não achou indícios",
+   "description": "O inquérito civil verificava se havia manobras para contornar a lei de parcelamento do solo no Município de Jaraguá do Sul. Encerrada a apuração, o promotor afirmou não ter identificado atos de burla à legislação nem elementos que justificassem uma ação judicial. O inquérito foi arquivado em junho de 2026.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 284,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 285,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 286,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 287,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 288,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 289,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso de aterro em área de preservação após dono recuperar o terreno",
+   "description": "O inquérito apurava um galpão pré-moldado e um aterro depositado irregularmente em área de preservação permanente, em imóvel de Arilindo Lemke. A apuração mostrou que o galpão não está em área protegida e que o investigado retirou o aterro e implantou um plano de recuperação da área degradada (PRAD). A execução do plano segue fiscalizada em procedimento administrativo do próprio MP, e o inquérito foi arquivado em agosto de 2022.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 290,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP encerra caso de mau cheiro e barulho de transbordo de lixo em Jaraguá do Sul",
+   "description": "Moradores do Condomínio Residencial Jardim Cristina reclamavam de poluição sonora e atmosférica — mau cheiro e poeira — vinda da atividade de transbordo de resíduos da Transpézia. Durante o inquérito, a empresa fez melhorias no isolamento acústico e instalou cobertura, parede de chapas de zinco e um sistema para dispersar produtos químicos e neutralizar os gases da operação. Com os problemas eliminados, o Ministério Público arquivou o caso em novembro de 2022.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 291,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Clube 25 de Julho controla barulho e MP arquiva inquérito por poluição sonora",
+   "description": "O inquérito apurava poluição sonora causada pela Sociedade Desportiva Recreativa 25 de Julho, em Jaraguá do Sul. Ficou comprovado que a entidade implantou projeto de controle das emissões sonoras e adequou suas atividades aos limites permitidos em lei. Sem outras medidas a adotar, o Ministério Público arquivou o caso em outubro de 2023.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 292,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 293,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 294,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso de poluição da Qualy Jato; demolição é discutida na Justiça",
+   "description": "O inquérito investigava fontes de poluição e edificações irregulares ligadas a Renato José Freiberger, Lurdes Maria Dallagnolo Freiberger e à empresa Qualy Jato Jateamento. As fontes de poluição foram eliminadas no curso da apuração, e a regularização ou demolição das construções passou a ser objeto de ação civil pública ajuizada pelo Município. Sem outras providências a adotar, o Ministério Público arquivou o inquérito em outubro de 2024.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 295,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP cobra ação contra cigarro eletrônico em escolas estaduais de Jaraguá do Sul",
+   "description": "O inquérito apurou o uso indevido e imoderado de cigarros eletrônicos na rede estadual de ensino de Jaraguá do Sul e Corupá e a falta de providências dos responsáveis pela educação. As irregularidades foram constatadas e o Ministério Público pediu a adoção de medidas para regularizar a situação. Sanadas as falhas, o inquérito foi arquivado em outubro de 2024.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 296,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva denúncia sobre risco de caldeira e ruído de têxtil vizinha a residencial",
+   "description": "A apuração tratava do suposto risco de explosão de uma caldeira a vapor da AJ Beneficiamento Têxtil e do barulho dos maquinários em horário noturno, que atingiria moradores do Residencial Baependi, vizinho à fábrica. O Ministério Público não encontrou elementos que confirmassem o risco de explosão e verificou que a questão do ruído já é tratada em outro procedimento, mais amplo e anterior. A notícia de fato foi arquivada em outubro de 2024.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 297,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso de barulho em quadra de futevôlei; demolição corre na Justiça",
+   "description": "O inquérito apurava poluição sonora gerada pela quadra nos fundos do estabelecimento Art Futevôlei Jaraguá. O Ministério Público registrou que não há mais notícia de uso da quadra e que o Município ajuizou ação pedindo a demolição da parte da edificação erguida irregularmente. Sem fundamento para ação própria, o promotor arquivou o inquérito em outubro de 2024.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 298,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 299,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Embargo de equipamento acaba com barulho da Novacki e MP arquiva inquérito",
+   "description": "O inquérito apurava poluição sonora causada pela Novacki Industrial, em Jaraguá do Sul, a partir de representação de uma moradora. O equipamento responsável pelo ruído foi embargado e a poluição sonora deixou de existir. O Ministério Público concluiu que não havia outras providências a adotar e arquivou o caso em fevereiro de 2025.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 300,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 301,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 302,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 303,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 304,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP checa falta de esgoto em escola estadual de Jaraguá do Sul e arquiva o caso",
+   "description": "O inquérito apurava possível violação de direitos de crianças e adolescentes pela ausência de esgotamento sanitário na Escola de Educação Básica João Romário Moreira, da rede estadual. Encerrada a instrução, o Ministério Público constatou que existe sistema em operação, composto por fossa, filtro e sumidouro. O caso foi arquivado em outubro de 2025.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 305,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 306,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 307,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 308,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 309,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 310,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 311,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 312,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Acordo com MP prevê demolição e R$ 36 mil por obra em área de preservação",
+   "description": "O inquérito tratava de edificações erguidas em faixa de área de preservação permanente pela Oldenburg Agropecuária, Adolar Oldenburg e Vini Roweder Oldenburg, em Jaraguá do Sul. Foi firmado Termo de Ajustamento de Conduta prevendo a demolição de trechos das construções e o pagamento de R$ 36.086,27 como compensação ambiental. O valor é destinado a que o Município compre áreas de preservação sujeitas a inundação, custeie a recuperação ambiental e implante parques públicos nesses imóveis.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 313,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Loja de materiais de construção repara dano ambiental e MP arquiva inquérito",
+   "description": "O inquérito, aberto a partir da atuação do IMA e do CODAM de Jaraguá do Sul, apurava atividades irregulares do Comércio de Materiais de Construção J.C. Jaraguá. A empresa cessou as atividades e adotou todas as providências exigidas pelos órgãos ambientais estadual e municipal, suficientes para a reparação integral do dano. O plano de recuperação da área degradada seguirá monitorado pela FUJAMA, e o Ministério Público arquivou o caso em julho de 2022.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 314,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura atendimento presencial na delegacia de Jaraguá do Sul e não vê desídia",
+   "description": "A apuração foi aberta para verificar como funcionava o atendimento presencial na Delegacia de Polícia da Comarca de Jaraguá do Sul, a partir do relato de um cidadão. O Ministério Público concluiu que não houve desídia nem irregularidade da autoridade policial e que os fatos não configuravam lesão a direitos sob sua tutela. O caso foi encerrado em agosto de 2022.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 315,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 316,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP checa alvará policial da casa noturna Stage Pub e não encontra irregularidade",
+   "description": "A partir de uma denúncia anônima, o Ministério Público analisou a concessão do alvará policial da casa noturna Stage Pub, em Jaraguá do Sul, no exercício do controle externo da atividade policial. A apuração não identificou desídia nem irregularidade da autoridade policial, e os fatos não configuraram lesão a direitos tutelados pelo MP. O caso foi encerrado em outubro de 2022.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 317,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 318,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 319,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 320,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP encaminha arquivamento de caso de mau cheiro de esterqueiras em Jaraguá do Sul",
+   "description": "O inquérito apurava mau cheiro atribuído às esterqueiras da propriedade de Nilvério Kopsch. O órgão ambiental não constatou emissão de odor fora dos limites do imóvel; ainda assim, o investigado enclausurou as esterqueiras, obteve autorização ambiental em 2020 depois de implantar monitoramento de emissões atmosféricas, e as vistorias não encontraram indícios de abate de suínos no local. Com base nesses pontos, o promotor encaminhou o caso para arquivamento em abril de 2023.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 321,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 322,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso de terraplanagem irregular após correção das obras em Jaraguá",
+   "description": "O inquérito apurava obras de terraplanagem irregulares envolvendo Edson Hasse e Heinzi Oldenberg, a partir da representação de um vizinho que reclamava de alagamento. A irregularidade foi eliminada durante o procedimento, não se constatou nascente no local e as obras não agravaram o alagamento no imóvel do representante. Sem justa causa para prosseguir ou ajuizar ação, o Ministério Público arquivou o inquérito em junho de 2023.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 323,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Massoterapeuta firma acordo com MP após irregularidades na atuação profissional",
+   "description": "O inquérito apurava possível irregularidade na atuação de Antonio Ivo Bonatti nas áreas de massoterapia e massagem, em Jaraguá do Sul. As irregularidades foram constatadas e ele assinou Termo de Ajustamento de Conduta com o Ministério Público. Para acompanhar o cumprimento do acordo, o MP abriu um procedimento administrativo e arquivou o inquérito em fevereiro de 2024.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 324,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 325,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 326,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 327,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 328,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura venda de produto impróprio em mercado de Jaraguá do Sul; falhas corrigidas",
+   "description": "O inquérito investigou a comercialização de produto impróprio, ou com irregularidade, pelo estabelecimento Armazém Família Castro. As irregularidades foram constatadas e o Ministério Público acionou a administração municipal para que adotasse as medidas de regularização. Depois de sanadas as falhas, o inquérito foi arquivado em agosto de 2024.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 329,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura anúncio de imóveis sem registro de incorporação e situação é regularizada",
+   "description": "O inquérito tratava do anúncio de imóveis sem o registro de incorporação imobiliária, exigência que protege quem compra na planta, em caso envolvendo Charlene Zimmermann, em Jaraguá do Sul. As irregularidades foram constatadas e o Ministério Público pediu à administração municipal a adoção de medidas de regularização. Sanadas as falhas, o caso foi arquivado em setembro de 2024.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 330,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Posto de Jaraguá do Sul vendeu combustível fora da especificação da ANP, apurou MP",
+   "description": "O inquérito apurou a venda de combustível impróprio ao consumo pelo Posto Nossa Senhora do Rosário, com amostra coletada fora das especificações da Agência Nacional do Petróleo. As irregularidades foram constatadas e o Ministério Público acionou a administração municipal para a regularização. Com as falhas sanadas, o inquérito foi arquivado em setembro de 2024.",
+   "status": "🟢 recomendação cumprida",
+   "severity": "media"
+  },
+  {
+   "i": 331,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 332,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 333,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Laudos afastam dano ambiental em terraplenagem e MP arquiva inquérito em Jaraguá",
+   "description": "O inquérito apurava a supressão de vegetação e obras de terraplenagem feitas pela Tamanini & Tamanini Negócios. Laudos da geóloga da AMVALI, de geólogo contratado pela empresa e da Polícia Ambiental concluíram que não há curso d'água no local e que os trabalhos respeitaram integralmente as licenças concedidas. Sem fundamento para ação judicial, o Ministério Público arquivou o caso em outubro de 2024.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 334,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 335,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 336,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 337,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 338,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 339,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 340,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 341,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 342,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 343,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Funerária de Jaraguá do Sul firma acordo com MP por propaganda enganosa",
+   "description": "O inquérito apurou possível violação de direitos do consumidor, na forma de propaganda enganosa em serviços funerários prestados pela empresa Martins & Aroldi, em Jaraguá do Sul. A empresa assinou Termo de Ajustamento de Conduta com o Ministério Público. Com o acordo firmado, o inquérito foi arquivado em setembro de 2025.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 344,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 345,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 346,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 347,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 348,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 349,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 350,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 351,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 352,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura demora da delegacia de Jaraguá do Sul em cumprir diligências e arquiva caso",
+   "description": "A apuração verificava se a Delegacia de Polícia da Comarca de Jaraguá do Sul havia deixado vencer o prazo sem responder a diligências requisitadas pelo Ministério Público no Inquérito Policial n. 5015828-57.2024.8.24.0036. As diligências acabaram cumpridas e o MP não constatou irregularidade no serviço da delegacia. O caso perdeu o objeto e foi arquivado em fevereiro de 2026.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 353,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 354,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Policial penal foi acusada de irregularidade em diárias, mas MP não achou provas",
+   "description": "Uma denúncia atribuía à policial penal Sirlene Hess Santin Vieira o descumprimento de carga horária, o recebimento de diárias acima do permitido e o uso indevido de viatura policial. O Ministério Público considerou a denúncia genérica e registrou que a investigação preliminar já havia sido arquivada pela Corregedoria-Geral da SEJURI, sem elementos que evidenciassem conduta irregular da servidora. O pedido de investigação foi indeferido em fevereiro de 2026.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 355,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Clínica de laser regulariza pendências sanitárias e MP não abre investigação",
+   "description": "O caso tratava de pendências apontadas pela Vigilância Sanitária Municipal de Jaraguá do Sul à Via Laser Serviços Estéticos, em auto de intimação de 2025. Nova inspeção não encontrou irregularidades remanescentes, as funcionárias que operam o equipamento de laser foram reconhecidas como aptas e as pendências foram regularizadas. Sem habitualidade ou lesão coletiva, o Ministério Público indeferiu a instauração de investigação; o estabelecimento segue sob monitoramento contínuo da Vigilância Sanitária.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 356,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Creche investigada pelo MP em Jaraguá do Sul encerra atividades e caso é arquivado",
+   "description": "O inquérito civil apurava possíveis irregularidades no Centro de Recreação Infantil Pequeno Príncipe, sem que o extrato publicado detalhe quais eram. Ao longo do procedimento o investigado promoveu alterações e melhorias, mas não de forma total. Ao final, veio a confirmação de que a atividade foi encerrada, e o Ministério Público arquivou o inquérito em março de 2026.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 357,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 358,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 359,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre nomeação de membro da JARI em Jaraguá do Sul",
+   "description": "O inquérito civil investigava suposta irregularidade na nomeação de um integrante da JARI de Jaraguá do Sul, a junta administrativa que julga recursos de multas de trânsito. O Ministério Público encerrou o procedimento sem apontar responsabilidade, com base no artigo 48, inciso I, do Ato n. 395/2018/PGJ. O arquivamento foi publicado em maio de 2026.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 360,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva denúncia de agressão a preso por agentes no presídio de Jaraguá do Sul",
+   "description": "A apuração tratava da suposta agressão deliberada ao interno Evaldo Fernandes de Lima por três policiais penais, na Cela 14 do Bloco C do Presídio Regional de Jaraguá do Sul. Sucessivas avaliações médicas não constataram lesões no interno, e o Ministério Público não reuniu elementos mínimos de prova nem confirmou conduta irregular dos agentes. O procedimento foi arquivado por falta de justa causa em maio de 2026.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 361,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 362,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 363,
+   "tipo": "mp",
+   "keep": true,
+   "title": "SAMAE avisou antes de interromper água em Jaraguá do Sul, conclui o MP",
+   "description": "A apuração verificava a interrupção do abastecimento de água em 8 de fevereiro de 2026, durante obra programada de reforço da rede pelo SAMAE, e se houve aviso prévio à população. O Ministério Público constatou que manutenções e obras foram comunicadas pelo site oficial e pelas redes sociais da autarquia, que a suspensão foi pontual e que ela está prevista na Lei n. 8.987/1995. Sem irregularidade, a instauração de investigação foi indeferida em junho de 2026.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 364,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 365,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura prêmio de hotel a policial militar em Jaraguá do Sul e arquiva o caso",
+   "description": "A apuração tratou da divulgação de uma premiação privada, oferecida pelo Hotel Fazenda Casarão do Vale, a policial militar por desempenho funcional, envolvendo o 12º Comando Regional de Polícia Militar. O Ministério Público não encontrou elementos objetivos de oferta de vantagem indevida, de adesão de agente público, de falta disciplinar individualizada nem de lesão à moralidade administrativa, e registrou que houve retratação pública em rede social. Sem justa causa para prosseguir, o caso foi arquivado em junho de 2026.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 366,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 367,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Escola infantil firma acordo com MP para informar pai ou mãe sem a guarda do aluno",
+   "description": "O inquérito apurou a omissão de informações juridicamente relevantes aos representantes legais de alunos matriculados no Centro de Educação Infantil Aprendiz, em Jaraguá do Sul. A escola assinou Termo de Ajustamento de Conduta se comprometendo a repassar, nos casos de guarda unilateral definida, todas as orientações e informações ao genitor que não detém a guarda, salvo decisão judicial em contrário. O acordo prevê a aplicação de penalidades em caso de descumprimento.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 368,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP verifica condições de segurança da Escola Roland Dornbusch e arquiva inquérito",
+   "description": "O inquérito apurava as condições de segurança e de utilização da Escola Roland Dornbusch, da rede estadual em Jaraguá do Sul, tendo como envolvidos o Estado de Santa Catarina e a Secretaria de Educação (GERED). Encerrada a instrução, o Ministério Público não verificou fundamentos para continuar as investigações. O caso foi arquivado em setembro de 2025.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 369,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 370,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 371,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 372,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 373,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 374,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 375,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 376,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 377,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 378,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 379,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 380,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Prefeito de Corupá foi investigado por piso dos professores, mas MP arquivou o caso",
+   "description": "O inquérito civil apurava suposta ilegalidade praticada pelo chefe do Poder Executivo de Corupá, Luiz Carlos Tamanini, na implementação do piso salarial nacional dos professores da rede pública de ensino. O Ministério Público concluiu que não havia fundamentos para propor ação civil pública. O inquérito foi arquivado em março de 2022, sem responsabilização.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 381,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 382,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou falta de leitos psiquiátricos do SUS no Nordeste catarinense",
+   "description": "O inquérito, conduzido pela 2ª Promotoria de Justiça de Jaraguá do Sul, apurava se há leitos psiquiátricos do SUS em número suficiente para a Região de Saúde Nordeste, que reúne Joinville, Jaraguá do Sul, Guaramirim, Corupá, Schroeder, Massaranduba, São Francisco do Sul e outros municípios, com o Estado e as secretarias municipais de saúde como interessados. O extrato registra que o Hospital Regional Hans Dieter Schmidt dispõe de 30 leitos para internação psiquiátrica. O texto publicado no Diário está truncado e não permite afirmar qual foi o desfecho da apuração.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 383,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 384,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 385,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Corretora firma acordo com MP para não anunciar imóvel sem registro de incorporação",
+   "description": "O inquérito civil, que envolveu o Conselho Regional de Corretores de Imóveis (11ª Região), apurava o anúncio de imóveis sem o registro de incorporação imobiliária — exigência que protege quem compra na planta. A investigada Viviane Thais Rodrigues assinou Termo de Ajustamento de Conduta se comprometendo a não veicular publicidade de novos empreendimentos sem o processo de incorporação concluído no Registro de Imóveis, sob pena das sanções previstas. Com o acordo, o Ministério Público arquivou o inquérito em julho de 2022.",
+   "status": "🟠 TAC firmado",
+   "severity": "media"
+  },
+  {
+   "i": 386,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 387,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 388,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 389,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 390,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 391,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 392,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 393,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 394,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 395,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 396,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou dois diretores de Habitação de Jaraguá do Sul e arquivou o caso",
+   "description": "O inquérito civil apurava conduta que, em tese, se enquadraria no artigo 9º, inciso VIII, da Lei de Improbidade Administrativa, atribuída ao ex-diretor de Habitação de Jaraguá do Sul, Luis Fernando Almeida, e ao então ocupante do mesmo cargo, Vanderlei Balsanelli, com a empresa Alba Assessoria, Consultoria e Serviços entre os envolvidos. O Ministério Público concluiu que não havia fundamentos para propor ação civil pública. O caso foi arquivado em outubro de 2022, sem responsabilização de ninguém.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 397,
+   "tipo": "mp",
+   "keep": true,
+   "title": "SAMAE troca rede e encerra vazamento de esgoto que motivou inquérito do MP",
+   "description": "O inquérito foi aberto a partir da representação de uma moradora sobre extravasamento de esgoto sanitário em Jaraguá do Sul. O SAMAE implantou nova rede coletora, corrigindo as deficiências da anterior, e não houve novos episódios desde abril de 2021 — o que foi confirmado pela própria autora da representação aos técnicos da autarquia. Sem outras providências a adotar, o Ministério Público arquivou o caso em dezembro de 2022.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 398,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 399,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 400,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 401,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 402,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 403,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 404,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 405,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 406,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP checa desafetação de trecho de rua em Jaraguá do Sul e não vê prejuízo público",
+   "description": "O inquérito apurava a desafetação de um trecho de via pública, questionada em representação de moradores. O Ministério Público concluiu que a desafetação foi regular e que não traz prejuízo à mobilidade urbana nem impede o acesso a áreas públicas. Sem motivo para atuar, o promotor arquivou o inquérito em março de 2023.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 407,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva inquérito sobre pagamento irregular de horas extras na Polícia Civil",
+   "description": "O inquérito civil, que teve a Corregedoria da Polícia Civil entre os envolvidos, apurava eventual pagamento irregular de horas extras. O Ministério Público concluiu que não havia fundamentos para propor ação civil pública e encerrou o caso sem apontar responsáveis. O arquivamento foi publicado em março de 2023.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 408,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Prefeitura e SAMAE corrigem drenagem e esgoto na Rua Domingos Vieira, aponta MP",
+   "description": "O inquérito nasceu da representação de uma moradora que reclamava de alagamentos e de esgoto chegando à sua propriedade. O Município fez melhorias na rede de drenagem pluvial da Rua Domingos Vieira, o SAMAE notificou os proprietários atendidos pela rede coletora para ligarem seus esgotos e a Vigilância Sanitária exigiu fossa séptica e filtro anaeróbio nos imóveis sem rede. Resolvidos os problemas, o caso foi encaminhado para arquivamento em março de 2023.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 409,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 410,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 411,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 412,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 413,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 414,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 415,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 416,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 417,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP afasta suspeita de loteamento clandestino e desmate em área de Jaraguá do Sul",
+   "description": "O inquérito investigava um suposto parcelamento clandestino do solo e a supressão de vegetação em imóvel ligado a Lincoln Vianna, Nilton Renato Kinas e José Schafranski. A apuração concluiu que não havia parcelamento clandestino — tratava-se de duas propriedades rurais distintas — e que não houve supressão de vegetação nativa. O extrato publicado no Diário está truncado e não traz o desfecho formal do procedimento.",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 418,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 419,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 420,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 421,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 422,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Despachante de trânsito foi investigado por credenciamento irregular, mas MP arquivou",
+   "description": "O inquérito civil apurava se Edio Nei Dolzan foi credenciado como despachante de trânsito em Jaraguá do Sul sem cumprir todos os requisitos exigidos para a atividade. Vanderlei Olívio Rosso também figurava no procedimento. O Ministério Público concluiu que não havia fundamento para propor ação civil pública e arquivou o caso em julho de 2023.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 423,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 424,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 425,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 426,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 427,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 428,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 429,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 430,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 431,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 432,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Servidor de Jaraguá do Sul foi investigado por atos ilícitos no trabalho; MP arquivou",
+   "description": "O inquérito civil apurava a suposta prática de atos ilícitos por um servidor público dentro do ambiente de trabalho, tendo Genésio Tomaseli Júnior como investigado. Depois das diligências, o Ministério Público entendeu que não havia base para ajuizar ação civil pública. O procedimento foi arquivado em fevereiro de 2024, sem responsabilização.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 433,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Metalúrgica investigada em Jaraguá do Sul regulariza atividade e MP arquiva o inquérito",
+   "description": "O inquérito civil investigava a atuação da Forma e Forma Indústria Metalúrgica Ltda. no endereço apontado em uma representação. O Ministério Público verificou que a empresa encerrou as atividades no local e regularizou a operação no novo endereço, ainda que tardiamente, e que as questões remanescentes são administrativas, de competência do IMA. Com isso, o caso foi arquivado em fevereiro de 2024.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 434,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 435,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 436,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Onésimo José Sell foi investigado por promoção pessoal indevida, mas MP arquivou o caso",
+   "description": "O procedimento preparatório apurava, sob a ótica da Lei de Improbidade Administrativa, suposta promoção pessoal indevida de Onésimo José Sell. O Ministério Público não encontrou fundamentos para propor ação civil pública. O caso foi arquivado em abril de 2024.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 437,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 438,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Diretor de Obras foi acusado de usar imóvel público para lazer; MP arquivou a apuração",
+   "description": "O inquérito civil investigava se o Diretor de Obras e Serviços Públicos Gilmar Bressani teria usado um imóvel público para construir um espaço de lazer particular, conduta que seria ato de improbidade. Após a apuração, o Ministério Público concluiu que não havia fundamentos para ajuizar ação civil pública. O inquérito foi arquivado em julho de 2024.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 439,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 440,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 441,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 442,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 443,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Área degradada é recuperada e MP arquiva inquérito ambiental em Jaraguá do Sul",
+   "description": "O inquérito civil acompanhava a recuperação de uma área degradada e tinha Anderson Dionei Dutra como investigado. Durante a tramitação, o Ministério Público constatou que a área foi recuperada por meio de um Plano de Recuperação de Áreas Degradadas (PRAD) elaborado e monitorado por profissional habilitado. Sem necessidade de ação judicial, o caso foi arquivado em outubro de 2024.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 444,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 445,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 446,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 447,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 448,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 449,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 450,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 451,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 452,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 453,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 454,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 455,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 456,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 457,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 458,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Pregão do SAMAE de Jaraguá do Sul foi investigado por atos lesivos, mas MP arquivou",
+   "description": "O procedimento apurava supostos atos lesivos à Administração Pública no Pregão Presencial nº 22/2023 do SAMAE de Jaraguá do Sul, com as empresas Azeplast Indústria e Comércio e BMI Prosper entre os investigados. O Ministério Público concluiu que não havia fundamentos para propor ação civil pública. O caso foi arquivado em maio de 2025.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 459,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP encerra apuração sobre orientação a alunos de escolas particulares em Jaraguá do Sul",
+   "description": "A notícia de fato, aberta a partir de comunicação do Conselho Tutelar, apurava possível tratamento diferenciado e falta de orientação a alunos da rede particular de ensino. O Ministério Público realizou reunião com as escolas privadas e considerou o objeto superado. O caso foi indeferido e encerrado em maio de 2025.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 460,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 461,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 462,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 463,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 464,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 465,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 466,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 467,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 468,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 469,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 470,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 471,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Ferro-velho acusado de poluir em Jaraguá do Sul encerra atividades e MP arquiva o caso",
+   "description": "O inquérito civil apurava poluição atmosférica e sonora atribuída ao Ferro Velho Online, tendo Rony Michel Schroeder como investigado. Após ações de fiscalização da prefeitura pedidas pelo Ministério Público, a empresa encerrou definitivamente suas atividades e cessaram os fatos denunciados. Sem outras providências a adotar, o inquérito foi arquivado em setembro de 2025.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 472,
+   "tipo": "mp",
+   "keep": true,
+   "title": "SAMAE de Jaraguá do Sul foi acusado de direcionar licitação a laboratório; MP arquivou",
+   "description": "O inquérito civil apurava suposto direcionamento de licitações do SAMAE de Jaraguá do Sul para o Laboratório LABB. O Ministério Público concluiu que não havia fundamentos para propor ação civil pública. O caso foi arquivado em setembro de 2025, sem responsabilização.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 473,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva suspeita de orçamentos inflados em licitações de hora-máquina do SAMAE",
+   "description": "O procedimento apurava eventual majoração ímproba de orçamentos usados como referência em licitações de serviços de horas máquina no SAMAE de Jaraguá do Sul, com Nilton Fazollo Júnior e Onésimo José Sell entre os investigados. O Ministério Público não encontrou fundamentos para ajuizar ação civil pública. O caso foi arquivado em outubro de 2025.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 474,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 475,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 476,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 477,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 478,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 479,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Hospital Jaraguá foi acusado de cobrar por aplicação de medicamento; MP viu regularidade",
+   "description": "O inquérito civil nasceu de denúncia à Ouvidoria do MPSC sobre cobrança pela aplicação de medicamento (benzetacil) na Associação do Hospital Jaraguá. Nas diligências, o Ministério Público verificou que a aplicação questionada ocorreu em clínica pediátrica que atua de forma particular. Considerando regular a atuação do hospital, o caso foi arquivado em novembro de 2025.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 480,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Creche investigada pelo MP regulariza situação e inquérito é arquivado",
+   "description": "O inquérito civil, aberto a partir de comunicação do Conselho Tutelar de Corupá, apurava a regularização do empreendimento Recanto Infantil Carinho de Mãe. Após as diligências, a responsável comprovou a regularização do local. Sem novas medidas a adotar, o Ministério Público arquivou o caso em novembro de 2025.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 481,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Paciente consegue procedimento na rede de saúde de Jaraguá do Sul após acionar o MP",
+   "description": "A notícia de fato foi aberta após representação envolvendo a Secretaria Municipal de Saúde de Jaraguá do Sul e a paciente Ana Karoline Cerqueira Cirilo. O Ministério Público constatou que o procedimento pedido foi realizado em 26 de setembro de 2025. Com a situação resolvida, o caso foi indeferido e encerrado em dezembro de 2025.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 482,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Após representação ao MP, cirurgia de paciente é agendada em Jaraguá do Sul",
+   "description": "A notícia de fato tratava da demora no atendimento ao paciente Jarde Adelino Pesttol pela Secretaria Municipal de Saúde de Jaraguá do Sul. O Ministério Público verificou que o procedimento cirúrgico já havia sido agendado. Com a situação superada, o caso foi indeferido e encerrado em dezembro de 2025.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 483,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Bar de Jaraguá do Sul reduz ruído após inquérito do MP e caso é arquivado",
+   "description": "O inquérito civil apurava reclamações de emissão sonora do Via Green In Bar, a partir de representação de Claudete Reichert. O estabelecimento regularizou as atividades e implantou melhorias gradativas até enquadrar o ruído nos limites legais, sem novas reclamações da representante. O Ministério Público arquivou o caso em janeiro de 2026.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 484,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva caso de risco geológico em Jaraguá do Sul após providências serem adotadas",
+   "description": "O inquérito civil apurava um risco geológico em área ligada à Centro Imóveis Ltda., a partir de representação de Alessandra Luize Müller Schmidt. O Ministério Público concluiu que foram adotadas as providências necessárias para eliminar o risco. Sem outras medidas a tomar, o procedimento foi arquivado em janeiro de 2026.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 485,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 486,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Suspeita em concorrência da Águas de Corupá prescreve e MP arquiva o inquérito",
+   "description": "O inquérito civil apurava a aglutinação de serviços de naturezas distintas em um mesmo edital, a Concorrência Pública nº 001/19 da autarquia Águas de Corupá. O Ministério Público não chegou a um desfecho de mérito: o caso foi arquivado em fevereiro de 2026 porque o prazo prescricional se esgotou. Ninguém foi responsabilizado.",
+   "status": "⚫ prescrito",
+   "severity": "media"
+  },
+  {
+   "i": 487,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 488,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 489,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 490,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 491,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP abre apuração sobre recusa de venda de medicamento e conclui que não houve infração",
+   "description": "A notícia de fato foi instaurada de ofício para avaliar se a recusa de farmácias em ofertar ou vender determinado medicamento configuraria irregularidade. A CMED, órgão federal que regula preços de remédios, esclareceu que a recusa não configura infração à legislação regulatória. Como não havia caso concreto, farmácia identificada ou consumidor lesado, o Ministério Público indeferiu a instauração de investigação em fevereiro de 2026.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 492,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 493,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 494,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 495,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 496,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Denúncia de negligência na UTI neonatal do Hospital Jaraguá não virou investigação",
+   "description": "A notícia de fato apurava possível negligência médica na UTI Neonatal do Hospital Jaraguá, a partir de comunicação de Marco Augusto Mannes. O Ministério Público concluiu que não havia elementos mínimos para iniciar uma investigação e indeferiu a abertura do procedimento em fevereiro de 2026. Nenhuma irregularidade foi apurada ou atribuída ao hospital.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 497,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 498,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Faculdade indica profissional para acompanhar estágio e MP encerra apuração",
+   "description": "O procedimento tratava da falta de profissional qualificada para acompanhar o estágio do curso de Terapia Ocupacional na modalidade EAD da Faculdade Uniasselvi, mantida pela Sociedade Educacional Leonardo da Vinci. Durante a apuração, a instituição indicou a profissional exigida. As partes interessadas confirmaram o prosseguimento regular da grade curricular e o Ministério Público encerrou o caso em fevereiro de 2026.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 499,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Denúncia sobre ação de PMs em atendimento no CAPS II é arquivada por falta de provas",
+   "description": "A notícia de fato apurava a suposta atuação irregular de policiais militares em uma ocorrência com pessoa em surto psicótico dentro do CAPS II de Jaraguá do Sul. O Ministério Público não localizou elementos probatórios: nem a vítima nem os agentes públicos foram identificados. Sem justa causa, a instauração foi indeferida em fevereiro de 2026.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 500,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 501,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 502,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 503,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 504,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 505,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 506,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 507,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 508,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 509,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Policiais penais foram acusados de negociar veículos com presos, mas MP arquivou o caso",
+   "description": "O procedimento apurava supostas condutas irregulares dos policiais penais Nathalia Ribeiro de Castro e Fausto Costa dentro do Presídio Regional de Jaraguá do Sul, que envolveriam negociações de veículos com dois internos. Uma investigação preliminar sumária já havia sido arquivada na SEJURI. O Ministério Público considerou a denúncia genérica e sem provas para prosseguir, e arquivou o caso em março de 2026.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 510,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 511,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 512,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 513,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 514,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 515,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 516,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 517,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 518,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 519,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 520,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 521,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 522,
+   "tipo": "mp",
+   "keep": true,
+   "title": "PM foi acusado de agressividade em abordagem em Jaraguá do Sul; MP arquivou a queixa",
+   "description": "A notícia de fato apurava a conduta do policial militar Odair Garbila durante a prisão em flagrante de Diogo Augusto Ribeiro Rafael, descrita como abordagem agressiva. O Ministério Público considerou as alegações frágeis e genéricas. A instauração foi indeferida em junho de 2026, sem responsabilização do policial.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 523,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 524,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 525,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP encerra apuração sobre prótese de joelho garantida na Justiça em Jaraguá do Sul",
+   "description": "A notícia de fato tratava do alegado descumprimento de decisão judicial que determinou o fornecimento de uma prótese de joelho a João Maria Nunes de Souza. A ação foi ajuizada pela Defensoria Pública, que confirmou que pedirá o cumprimento da sentença. Sem comprovação de inércia e diante do caráter subsidiário da atuação ministerial, o Ministério Público indeferiu o prosseguimento em junho de 2026.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 526,
+   "tipo": "mp",
+   "keep": true,
+   "title": "PMs acusados de agredir preso: MP concluiu que houve uso moderado da força",
+   "description": "A notícia de fato apurava supostas agressões dos policiais militares Rafael Bruno da Silva e Willian Lopes da Silva contra Lúcio Antonio Xavier da Silva, durante prisão em flagrante em 31 de março de 2026. O Ministério Público considerou as alegações isoladas, registrou que o conduzido resistiu ativamente à prisão e concluiu que houve uso moderado da força, sem abuso ou ilegalidade. O caso foi indeferido em junho de 2026.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 527,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 528,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 529,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 530,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Após apuração do MP, Celesc resolve fornecimento irregular de energia em Jaraguá do Sul",
+   "description": "A notícia de fato foi aberta a partir de reclamação de Lucivane Lopes Dal Magro sobre fornecimento irregular de energia elétrica em baixa tensão pela Celesc. Durante a apuração, foi verificada a realização de melhoria na unidade consumidora e o problema foi solucionado. O Ministério Público indeferiu o prosseguimento em junho de 2026.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 531,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP não vê irregularidade em atendimento de parto no Hospital Jaraguá",
+   "description": "A notícia de fato apurava a condução de um atendimento obstétrico na Associação do Hospital Jaraguá, a partir de representação de Paulo Rogério Ribeiro e Júlia Mendonça Broietti Ribeiro. Analisando partograma, registro da fase latente com ruptura de bolsa, evolução clínica, checklist de acompanhamento e a analgesia administrada, o Ministério Público considerou a conduta clinicamente plausível e não identificou indícios de falha institucional reiterada ou lesão a direitos coletivos. A instauração de investigação foi indeferida em junho de 2026.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 532,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Preso disse ter ficado sem roupa e comida em Jaraguá do Sul; MP não viu elementos",
+   "description": "A notícia de fato apurava a conduta de policiais penais responsáveis pela recepção do interno João Vítor Neves da Silva no Presídio de Jaraguá do Sul, em 27 de junho de 2025, com alegação de que ele não recebeu vestimentas nem refeições. O Ministério Público considerou as alegações vagas e genéricas e registrou que o noticiante recebeu tratamento. A instauração foi indeferida em junho de 2026.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 533,
+   "tipo": "mp",
+   "keep": true,
+   "title": "PM foi acusado de agredir e ameaçar detido, mas exame não apontou lesões",
+   "description": "A notícia de fato apurava supostas agressões físicas e ameaças do policial militar Odair Garbila contra Luan Felipe da Silva Schaefer, conduzido em ocorrência. O Ministério Público apontou ausência de materialidade: o conduzido não relatou agressões na audiência de custódia e o exame de corpo de delito não atestou lesões. O caso foi indeferido em junho de 2026.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 534,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 535,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Gestante teve exame negado no SUS de Jaraguá do Sul; ultrassom acabou realizado",
+   "description": "A notícia de fato apurava a negativa de acesso, pelo SUS, ao exame de ultrassonografia obstétrica morfológica pedido por Maria Amanda Santos Gonçalves à Secretaria Municipal de Saúde de Jaraguá do Sul. Durante a apuração, o exame foi realizado e o Ministério Público constatou assistência pré-natal adequada na rede municipal. O caso foi indeferido em junho de 2026.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 536,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Maternidade do Hospital Jaraguá regulariza condições sanitárias e MP não abre inquérito",
+   "description": "O procedimento tratava das condições sanitárias e estruturais da Ala Schuster, a maternidade da Associação do Hospital Jaraguá. O estabelecimento regularizou integralmente os pontos apontados, o que foi confirmado pela Vigilância Sanitária Municipal em vistoria de 3 de março de 2026. Sem elementos que justificassem investigação civil, o Ministério Público indeferiu a instauração em junho de 2026.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 537,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 538,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Recusa de aluguel a entidade afro-brasileira já é apurada na esfera criminal, diz MP",
+   "description": "A notícia de fato tratava da recusa de locação de um imóvel à Federação da União das Culturas Afro-Brasileira (FUCA), apresentada ao Ministério Público sob a ótica do direito do consumidor. A promotoria entendeu que a relação é regida pela Lei do Inquilinato e que eventual discriminação religiosa na recusa se enquadraria na Lei 7.716/1989. Como já existe procedimento criminal específico apurando os fatos, o caso foi indeferido em junho de 2026.",
+   "status": "🟢 arquivado",
+   "severity": "media"
+  },
+  {
+   "i": 539,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  },
+  {
+   "i": 540,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ status indef.",
+   "severity": "media"
+  }
+ ],
+ "tce": [
+  {
+   "i": 0,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 1,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE mantém suspenso pregão de R$ 9,8 milhões da limpeza urbana de Jaraguá do Sul",
+   "description": "O Tribunal de Contas analisou preliminarmente o edital do Pregão Eletrônico 101/2025 da Prefeitura de Jaraguá do Sul, para contratação de serviços de limpeza urbana, com orçamento estimado em R$ 9.806.708,28. O relator determinou ao secretário municipal de Administração, Argos José Burgardt, a manutenção da sustação do edital por duas irregularidades: preço formado exclusivamente por cotação e previsão de pagamento por hora trabalhada. O diretor de Compras, Licitações e Contratos, Edson Ivo Tiedt, foi chamado a se justificar em 30 dias, sob pena de multa, e a decisão foi enviada ao Pleno para ratificação.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 2,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE multa ex-prefeitos de Jaraguá do Sul por não repassar dinheiro ao Fundo da Infância",
+   "description": "O Tribunal de Contas julgou irregulares as ausências de repasse ao Fundo da Infância e Adolescência de Jaraguá do Sul e multou dois ex-prefeitos em R$ 1.684,66 cada. Cecília Konell responde pelo déficit de R$ 248.713,27 acumulado entre 2009 e 2012, e Dieter Janssen pelo de R$ 510.732,56 entre 2013 e 2016, em afronta à lei municipal 4.983/2008. Os dois tiveram 30 dias para recolher as multas ao Tesouro do Estado ou recorrer, sob pena de cobrança judicial. O acórdão foi comunicado ao Ministério Público estadual.",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta"
+  },
+  {
+   "i": 3,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 4,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 5,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta falhas no projeto da ponte estaiada de Jaraguá do Sul, obra de R$ 9 milhões",
+   "description": "O Tribunal de Contas considerou parcialmente procedente a representação sobre a Concorrência Pública 108/2021 e o Contrato 554/2021, de R$ 9.090.570,30, para construção de uma ponte metálica estaiada ligando a rua Hugo Braun ao bairro Vila Baependi. A Corte alertou a prefeitura de que uma nova licitação da obra só deve ocorrer após correção dos projetos, apontando agrupamento de serviços que esconde preços unitários, precificação inadequada de administração local e canteiro, falta de projeto estrutural para o pilar a ser reaproveitado e uma solução de escavação vedada por norma do Ministério do Trabalho. Também recomendou capacitação dos fiscais de contratos. Não houve multa.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 6,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE vê exigência restritiva em concorrência de PPP do SAMAE de Jaraguá do Sul",
+   "description": "O Tribunal de Contas conheceu a representação da associação ULBRÁS contra a Concorrência Pública 23/2025 do SAMAE de Jaraguá do Sul, que busca uma parceria público-privada na área de resíduos e limpeza urbana. A área técnica concluiu pela irregularidade das exigências de atestados de experiência em gestão comercial e cobrança de tarifa em municípios de no mínimo 91,3 mil habitantes, consideradas serviços acessórios e com risco de limitar a competitividade. Os responsáveis foram chamados a apresentar os fundamentos técnicos da exigência; o trecho publicado da decisão não informa se a suspensão do certame foi concedida.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 7,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE julga improcedente representação sobre concorrência de reforma em Jaraguá do Sul",
+   "description": "O Tribunal de Contas conheceu a representação sobre supostas irregularidades na Concorrência 52/2021 da Prefeitura de Jaraguá do Sul, para contratação de empresa de reforma, e no mérito a considerou improcedente. O pedido de suspensão cautelar do certame foi negado por ausência dos requisitos. A decisão foi comunicada à prefeitura e ao controle interno do município.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 8,
+   "tipo": "tce",
+   "keep": true,
+   "title": "Licitação de uniformes escolares de Jaraguá do Sul é considerada regular pelo TCE",
+   "description": "Três empresas representaram ao Tribunal de Contas contra o Pregão Presencial 274/2022 da Prefeitura de Jaraguá do Sul, que comprava uniformes escolares. O TCE considerou as representações improcedentes. Ainda assim, determinou à prefeitura que, em editais futuros, adote requisitos de qualificação técnica capazes de prevenir risco ao interesse público.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 9,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 10,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 11,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE julga irregular pagamento de R$ 846 mil acima do teto a médicos em Jaraguá do Sul",
+   "description": "O Tribunal de Contas considerou irregular o pagamento de remuneração acima do teto constitucional a dois médicos do quadro efetivo da Prefeitura de Jaraguá do Sul: R$ 570.537,97 a Glênio Mota Rodrigues, entre janeiro de 2015 e maio de 2020, e R$ 275.481,02 a Luiz Alberto Ling Linhares, entre janeiro de 2015 e março de 2019, num total de R$ 846.018,99. A prefeitura foi intimada a apresentar em 30 dias a conclusão da sindicância aberta sobre o assunto e alertada de que manter pagamentos acima do teto pode caracterizar dano ao erário, com imputação solidária de débito. A decisão não aplicou multa e o cumprimento será monitorado pela Diretoria de Atos de Pessoal do Tribunal.",
+   "status": "⬛ julgado irregular",
+   "severity": "alta"
+  },
+  {
+   "i": 12,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 13,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 14,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE não vê irregularidade em pregão questionado por gabinete de vereador de Jaraguá",
+   "description": "O chefe de gabinete do vereador Rodrigo Livramento, Diego Monteiro de Souza, representou ao Tribunal de Contas contra o Edital de Pregão Eletrônico 40/2021, de registro de preços, da Prefeitura de Jaraguá do Sul. O TCE conheceu a representação e a julgou improcedente, por ausência de irregularidades nos fatos descritos, determinando o arquivamento dos autos em julho de 2022.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 15,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 16,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 17,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 18,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta superfaturamento em obra de R$ 5,1 milhões e multa servidores de Jaraguá",
+   "description": "Auditoria do Tribunal de Contas sobre o Contrato 307/2020, firmado com a CETENCO Engenharia a partir da Concorrência 52/2020 pelo valor inicial de R$ 5.148.634,09, julgou irregulares projeto deficiente, orçamento não avaliado, fiscalização deficitária e superfaturamento por quantidade no teor de CAP do asfalto executado. O engenheiro Ivan Andreias Wolter, responsável pelo projeto e orçamento, foi multado em duas parcelas de R$ 1.990,59; o engenheiro fiscal Marcus Alessi levou multas de R$ 4.000,00 e R$ 1.990,59. Os responsáveis tiveram 30 dias para recolher os valores aos cofres do município ou recorrer.",
+   "status": "⬛ julgado irregular + multa",
+   "severity": "alta"
+  },
+  {
+   "i": 19,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 20,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 21,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 22,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE cobra transparência de Jaraguá do Sul nas parcerias com entidades sociais",
+   "description": "Uma inspeção do Tribunal de Contas verificou fragilidades na divulgação de dados sobre as parcerias da Prefeitura de Jaraguá do Sul com Organizações da Sociedade Civil, firmadas sob a Lei 13.019/2014. O TCE recomendou ao município que cumpra a Lei de Acesso à Informação e o decreto municipal, mantendo atualizadas as informações sobre concessão, monitoramento, fiscalização e prestação de contas dos recursos repassados. A decisão, de junho de 2024, foi comunicada ao prefeito José Jair Franzner e não aplicou multa.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 23,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE condena ex-gestores e empresa a devolver R$ 837 mil por radares em Jaraguá do Sul",
+   "description": "A tomada de contas especial analisou o Contrato emergencial 026/2017 do Sistema de Fiscalização Eletrônica (radares) de Jaraguá do Sul. O Tribunal de Contas julgou as contas irregulares e condenou solidariamente Írio Riegel, então diretor de Trânsito, Ivaldo Kucskowski, então secretário de Planejamento e Urbanismo, e a empresa Fotosensores Tecnologia Eletrônica a devolver R$ 837.444,11 aos cofres do município, por pagamento em duplicidade da instalação de equipamentos que já havia sido remunerada no Contrato 003/2011. Os condenados recorreram e, em 2025, o relator conheceu os recursos de reconsideração, suspendendo os efeitos da condenação até o julgamento do mérito.",
+   "status": "⬛ julgado irregular",
+   "severity": "alta"
+  },
+  {
+   "i": 24,
+   "tipo": "tce",
+   "keep": true,
+   "title": "Caso dos radares de 2011 prescreve e TCE arquiva sem julgar contas em Jaraguá do Sul",
+   "description": "A tomada de contas especial apurava supostas irregularidades em contrato de locação de equipamentos de fiscalização de trânsito da Prefeitura de Jaraguá do Sul, com a empresa Fotosensores Tecnologia Eletrônica e responsáveis como a ex-prefeita Cecília Konell. O Tribunal de Contas reconheceu de ofício a prescrição das pretensões punitiva e de ressarcimento, por terem passado mais de cinco anos entre atos de interrupção do processo (2017 e 2022). Os autos foram arquivados em março de 2025, sem julgamento do mérito e sem responsabilização.",
+   "status": "⚫ prescrito",
+   "severity": "media"
+  },
+  {
+   "i": 25,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE suspendeu licitação de uniformes escolares de Jaraguá do Sul por falhas no edital",
+   "description": "A partir de representação de uma empresa, o relator do Tribunal de Contas concedeu medida cautelar e determinou ao então secretário municipal de Administração, Douglas Antônio Conceição, a suspensão do Pregão Presencial 274/2022, que comprava uniformes escolares. Foram apontadas duas irregularidades no edital: a exigência de que o licitante instalasse pontos de atendimento em bairros pré-determinados e a ausência de exigência de qualificação técnica e econômico-financeira. No julgamento de mérito, em março de 2023, o Tribunal Pleno considerou as representações improcedentes e apenas determinou ajustes em editais futuros.",
+   "status": "🟠 cautelar / sustação",
+   "severity": "media"
+  },
+  {
+   "i": 26,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 27,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 28,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE não vê irregularidade em contratações temporárias de Jaraguá do Sul, mas faz alerta",
+   "description": "O Ministério Público de Contas representou contra a prefeitura por contratar temporariamente servidores para funções de cargos efetivos previstos no concurso do Edital 002/2019. Depois da instrução, o Tribunal de Contas considerou a representação improcedente, entendendo que as irregularidades noticiadas não se configuraram. Ainda assim, recomendou ao município que garanta o caráter excepcional e transitório dessas contratações e dê publicidade à motivação dos atos. O processo foi arquivado em abril de 2025.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 29,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 30,
+   "tipo": "tce",
+   "keep": true,
+   "title": "Contas de R$ 60 mil repassados em 2011 ficam sem julgamento e débito segue em aberto",
+   "description": "A tomada de contas especial tratava da prestação de contas de R$ 60.000,00 repassados pela Prefeitura de Jaraguá do Sul em 2011 a uma liga esportiva. Como já haviam se passado mais de cinco anos entre a autuação e a vigência da Instrução Normativa TC-29/2021, o Tribunal de Contas arquivou o processo sem cancelar o débito. Cabe agora ao município e aos responsáveis adotar as medidas administrativas ou judiciais para tentar o ressarcimento; o desfecho da devolução do dinheiro segue em aberto.",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 31,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 32,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 33,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 34,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE considera irregular repasse de fiscalização de incêndio a bombeiros voluntários",
+   "description": "A associação de oficiais da PM e do Corpo de Bombeiros Militar (ACORS) denunciou que Jaraguá do Sul delegou ao Corpo de Bombeiros Voluntários as vistorias, fiscalizações e a lavratura de autos de infração de segurança contra incêndio. O Tribunal de Contas julgou a denúncia procedente, apontando usurpação de competência exclusiva do Corpo de Bombeiros Militar, conforme decidiu o STF na ADI 5354/SC. O município foi alertado a revogar de imediato o Convênio 463/2017 e o Termo Aditivo 693/2020, e o Corpo de Bombeiros Militar foi intimado a informar como assumirá essas atividades.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 35,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 36,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 37,
+   "tipo": "tce",
+   "keep": true,
+   "title": "Contas de convênio com o Sport Club Jaraguá são arquivadas sem julgamento pelo TCE",
+   "description": "O processo tratava do Convênio 383/2013, celebrado pela Fundação Municipal de Esportes de Jaraguá do Sul com o Sport Club Jaraguá. Em março de 2022, o Tribunal de Contas determinou o arquivamento com base na Instrução Normativa TC-29/2021, sem julgar o mérito das contas. A prefeitura foi notificada para adotar as medidas administrativas ou judiciais cabíveis, de modo que eventual cobrança de valores segue a cargo do município.",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 38,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE considera improcedente contestação ao pregão do estacionamento rotativo",
+   "description": "Uma empresa representou ao Tribunal de Contas contra o Pregão Presencial 144/2021 da Prefeitura de Jaraguá do Sul, para implantação do sistema de gerenciamento de vagas de estacionamento rotativo. Em agosto de 2022, o Tribunal julgou a representação improcedente quanto ao mérito e determinou o arquivamento dos autos. Não foi reconhecida irregularidade no edital.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 39,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 40,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 41,
+   "tipo": "tce",
+   "keep": true,
+   "title": "Licitação de radares de trânsito de Jaraguá do Sul é considerada regular pelo TCE",
+   "description": "A empresa Eliseu Kopp & Cia. questionou o Pregão Presencial 068/2023, que contratava serviços de fiscalização automática de trânsito e monitoramento estatístico para Jaraguá do Sul. O Tribunal de Contas indeferiu a medida cautelar por ausência de probabilidade do direito, conheceu a representação e, no mérito, julgou-a improcedente, por não constatar irregularidade no certame. O processo foi arquivado em fevereiro de 2024.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 42,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 43,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE julga regular licitação do transporte escolar de cadeirantes de Jaraguá do Sul",
+   "description": "A empresa RF Oliveira Turismo representou contra o Pregão Presencial 334/2022, que registrava preços para veículos adaptados a cadeirantes, com motorista e auxiliar, no transporte escolar de Jaraguá do Sul. Em julho de 2026, o Tribunal de Contas julgou a representação improcedente. Recomendou à prefeitura e à pregoeira Rosinei Aparecida Gretter Dias que adotem o formalismo moderado na habilitação de licitantes e sigam a nota técnica do Tribunal sobre pesquisa de preços em contratações futuras.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 44,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 45,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 46,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE não confirma irregularidade em contratos dos serviços funerários de Jaraguá do Sul",
+   "description": "A empresa Serviço Funerário Bom Pastor representou ao Tribunal de Contas contra a execução dos contratos decorrentes da Concorrência 178/2021, que permitiu a quatro empresas a prestação de serviços funerários em Jaraguá do Sul. Entre os pontos apurados estava o suposto atraso de permissionárias no início do atendimento à população. Em fevereiro de 2024, o Tribunal considerou a representação improcedente, entendendo que as irregularidades não se configuraram, e arquivou os autos.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 47,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva sem julgar contas de R$ 40 mil repassados a instituto de turismo",
+   "description": "O processo tratava da prestação de contas de R$ 40.000,00 repassados pela Prefeitura de Jaraguá do Sul em 2013 ao Instituto Jaraguá do Sul de Turismo & Eventos, para o projeto \"Promoção do Destino Jaraguá e Apoio na Capacitação de Eventos\". Em abril de 2022, o Tribunal de Contas arquivou a tomada de contas especial sem julgamento de mérito, com base na Instrução Normativa TC-29/2021. Determinou ao município que adote as providências cabíveis para o ressarcimento do erário, cujo desfecho não consta da decisão.",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 48,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 49,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 50,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 51,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 52,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 53,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 54,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 55,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 56,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE considera irregular manobra que desvinculou dinheiro dos fundos do idoso e da criança",
+   "description": "O Ministério Público de Contas representou contra decretos de Jaraguá do Sul que desvincularam receitas do Fundo Municipal dos Direitos do Idoso e do Fundo Municipal dos Direitos da Criança e do Adolescente. Os decretos foram revogados durante a tramitação. Em agosto de 2025, o Tribunal de Contas julgou a representação parcialmente procedente e considerou irregular incluir o superávit financeiro do exercício na base de cálculo da desvinculação prevista no art. 76-B do ADCT, por risco de desvirtuar a destinação dos recursos. Recomendou à prefeitura que não repita a prática e que eventuais valores desvinculados de doações incentivadas pelo Imposto de Renda sejam aplicados nas finalidades dos próprios fundos.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 57,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 58,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 59,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 60,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE dá 180 dias para Jaraguá do Sul apresentar plano por meta de educação não cumprida",
+   "description": "O processo monitora o cumprimento da Estratégia 18.4 da Meta 18 do Plano Municipal de Educação, ligada à valorização e ao quadro de profissionais da rede. Em julho de 2026, o Tribunal de Contas fixou prazo de 180 dias para que o prefeito José Jair Franzner e os secretários de Educação, Iraci Müller, e de Administração, Argos José Burgardt, apresentem um novo plano de ação com responsáveis e prazos. Entre as medidas cobradas estão avaliar a convocação de aprovados no concurso de 2024 e levantar periodicamente a demanda de profissionais para o ensino regular e a educação especial. O caso segue em monitoramento.",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 61,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 62,
+   "tipo": "tce",
+   "keep": true,
+   "title": "Prescrição encerra apuração sobre repasse público a associação de Jaraguá do Sul",
+   "description": "A tomada de contas especial, instaurada voluntariamente pelo município, apurava a prestação de contas de recursos repassados à Associação Cultural, Social, Desportiva e Eventos Yamabushi. Em maio de 2023, o Tribunal de Contas reconheceu de ofício a prescrição das pretensões punitiva e de ressarcimento e extinguiu o processo sem julgar o mérito dos fatos apurados. Ninguém foi responsabilizado e os autos foram arquivados.",
+   "status": "⚫ prescrito",
+   "severity": "media"
+  },
+  {
+   "i": 63,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 64,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 65,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 66,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 67,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 68,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta enquadramento sem concurso na origem de aposentadoria em Jaraguá do Sul",
+   "description": "Ao analisar o ato de aposentadoria de Lucila Maria Martins, o Tribunal de Contas apontou uma restrição: o cargo de origem foi alterado de Professor para Orientador Educacional em 1994, por portaria e decreto municipais, sem concurso público, depois de o STF já ter vedado esse tipo de transposição na ADI 837-4/DF. O Tribunal deu 30 dias para o ISSEM sanar a irregularidade e alertou que qualquer supressão de vantagem pela via administrativa exige processo com contraditório e ampla defesa para a servidora. A decisão é de maio de 2024.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 69,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 70,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 71,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 72,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 73,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 74,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 75,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 76,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 77,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 78,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE cancela multa no caso dos loteamentos populares de Jaraguá do Sul",
+   "description": "O Tribunal de Contas deu provimento a recurso de reexame contra o Acórdão 516/2020, proferido na representação sobre a implantação de loteamentos populares em Jaraguá do Sul. Com a decisão de outubro de 2022, a multa aplicada foi cancelada e as determinações do acórdão foram consideradas cumpridas. Sem pendências remanescentes, o processo original foi arquivado em outubro de 2024.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 79,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 80,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 81,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 82,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE abre inspeção sobre repasses e pessoal do SAMAE de Jaraguá do Sul",
+   "description": "O procedimento apuratório converteu-se em relatório de inspeção sobre a gestão da drenagem e do manejo de águas pluviais urbanas em Jaraguá do Sul. Em dezembro de 2024, o Tribunal de Contas requisitou ao prefeito José Jair Franzner os valores repassados ao SAMAE nos últimos três exercícios para essas atividades e o número de servidores redistribuídos da prefeitura para a autarquia, conforme a Lei municipal 8.206/19, e determinou diligências também ao diretor-presidente do SAMAE, Onésimo José Sell. Parte dos pontos da denúncia foi descartada por falta de elementos; o restante segue em apuração.",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 83,
+   "tipo": "tce",
+   "keep": true,
+   "title": "Aposentadoria em Jaraguá do Sul tem restrição por reenquadramento sem concurso",
+   "description": "Ao apreciar o ato de aposentadoria da servidora Carmen Lipinski, o Tribunal de Contas apontou restrição decorrente do reenquadramento no cargo de Atendente de Berçário, feito em 1994 por portaria e decreto municipais sem concurso público, após a decisão do STF na ADI 837-4/DF. O ISSEM recebeu prazo de 30 dias para adotar providências e foi alertado de que a supressão de vantagens pela via administrativa exige processo regular, com contraditório e ampla defesa para a servidora. A decisão é de setembro de 2022.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 84,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 85,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 86,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 87,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 88,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 89,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 90,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE cobra correção de aposentadoria em cargo criado sem concurso em Jaraguá do Sul",
+   "description": "O Tribunal de Contas de Santa Catarina examinou a aposentadoria de uma servidora da Prefeitura de Jaraguá do Sul e concluiu que o benefício saiu de um cargo obtido por enquadramento do Decreto municipal 2.912/1994, sem concurso público, o que contraria o artigo 37 da Constituição. O TCE deu 30 dias para o ISSEM, o instituto de previdência dos servidores do município, adotar providências e comprovar a regularização. O registro da aposentadoria ficou pendente até que a restrição seja sanada.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 91,
+   "tipo": "tce",
+   "keep": true,
+   "title": "Aposentadoria de secretária de creche saiu de cargo sem concurso, aponta o TCE",
+   "description": "O Tribunal de Contas analisou o ato de aposentadoria de uma servidora de Jaraguá do Sul no cargo de Secretário de Centro de Educação Infantil e apontou que o enquadramento veio do Decreto municipal 2.912/1994, sem concurso público. Para o TCE, isso desrespeita a exigência constitucional de concurso, reafirmada pelo STF em 1993. O tribunal fixou prazo de 30 dias para o ISSEM corrigir a situação e comprovar as providências.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 92,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE nega registro e manda Jaraguá do Sul anular aposentadoria de agente administrativa",
+   "description": "O Tribunal de Contas considerou ilegal a aposentadoria de uma agente administrativa da Prefeitura de Jaraguá do Sul, concedida em 2019, porque o cargo veio de um enquadramento de 1994 feito sem concurso público. O TCE negou o registro do ato e determinou que o ISSEM adote as providências para anular a aposentadoria em 30 dias, sob pena de responsabilização do gestor. O tribunal também alertou que a servidora tem direito a contraditório e ampla defesa antes de qualquer corte do benefício.",
+   "status": "⬛ julgado irregular",
+   "severity": "media"
+  },
+  {
+   "i": 93,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE aponta tempo de carreira insuficiente em aposentadoria de fiscal de Jaraguá do Sul",
+   "description": "Ao examinar a aposentadoria de um fiscal tributarista da Prefeitura de Jaraguá do Sul, o Tribunal de Contas verificou que o servidor tinha apenas 9 anos, 2 meses e 26 dias no cargo, tempo abaixo do exigido pela regra de transição da Emenda Constitucional 41/2003. O TCE fixou prazo de 30 dias para o ISSEM adotar providências e comprovar a correção. O registro do benefício ficou condicionado a essa regularização.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 94,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 95,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE negou aposentadoria de atendente de berçário, mas voltou atrás e registrou o benefício",
+   "description": "O Tribunal de Contas considerou ilegal a aposentadoria de uma atendente de berçário da Prefeitura de Jaraguá do Sul, por entender que o reenquadramento de 1994 no cargo não passou por concurso público, e mandou o ISSEM anular o ato. O instituto recorreu e, em decisão de outubro de 2023, o próprio TCE deu provimento ao recurso de reexame, reformou a decisão anterior e concedeu o registro da aposentadoria. O caso terminou com o benefício mantido e sem responsabilização.",
+   "status": "🟢 julgado regular",
+   "severity": "media"
+  },
+  {
+   "i": 96,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 97,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 98,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 99,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 100,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 101,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 102,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE questiona aposentadoria de coordenadora pedagógica promovida sem concurso em Jaraguá",
+   "description": "O Tribunal de Contas apontou irregularidade na aposentadoria de uma servidora da Prefeitura de Jaraguá do Sul que saiu do cargo de professora para orientadora educacional, depois renomeado coordenadora pedagógica, por enquadramento de 1994 sem concurso público. O TCE deu 30 dias para o ISSEM corrigir e comprovar as providências. O tribunal também lembrou que qualquer supressão de vantagem precisa respeitar o direito de defesa da servidora.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 103,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE dá 30 dias para Jaraguá do Sul corrigir aposentadoria de atendente de berçário",
+   "description": "Ao analisar a aposentadoria de uma atendente de berçário da Prefeitura de Jaraguá do Sul, o Tribunal de Contas concluiu que o cargo veio de um enquadramento feito pelo Decreto municipal 2.912/1994, sem concurso público. O TCE fixou prazo de 30 dias para que o ISSEM adote providências e comprove a regularização. O registro do ato segue pendente.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 104,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 105,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 106,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 107,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 108,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 109,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE avisa que pode multar gestor se Jaraguá do Sul não corrigir aposentadoria irregular",
+   "description": "O Tribunal de Contas apontou que a aposentadoria de uma atendente de berçário da Prefeitura de Jaraguá do Sul foi concedida em cargo obtido por reenquadramento de 1994, sem concurso público. Além de fixar prazo de 30 dias para o ISSEM sanar a restrição, o TCE alertou que a omissão do responsável pode gerar multa, nos termos da Lei Orgânica do tribunal. O caso aguarda a comprovação das providências.",
+   "status": "🔴 apontou irregularidade",
+   "severity": "media"
+  },
+  {
+   "i": 110,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  },
+  {
+   "i": 111,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "status": "❔ em tramitação",
+   "severity": "media"
+  }
+ ]
+}

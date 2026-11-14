@@ -1,0 +1,139 @@
+{
+ "mp": [
+  {
+   "i": 0,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP processa ex-prefeito de Morro Grande por superfaturamento na compra de remédios",
+   "description": "O Ministério Público investigou a Licitação n. 7/2013 da Prefeitura de Morro Grande, feita para comprar medicamentos, e encontrou indícios de superfaturamento nas propostas de três empresas: Farmácia Nacional, ADJV Farmácia e Murilo Pedroso ME. O MP concluiu que houve prejuízo aos cofres públicos. As punições por improbidade prescreveram, mas o pedido de devolução do dinheiro continua de pé. Por isso o MP decidiu entrar com ação civil pública contra o Município, o ex-prefeito Valdionir Rocha e os demais envolvidos, para cobrar a reparação do dano.",
+   "severity": "alta",
+   "status": "🔴 ACP ajuizada"
+  },
+  {
+   "i": 1,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apurou superfaturamento em contrato de pré-moldados em Morro Grande e não encontrou irregularidade",
+   "description": "Após denúncia de João Osmar Possami Magagnin, o Ministério Público investigou suposto superfaturamento na licitação n. 45/2017 e no contrato n. 47/2017 entre a Prefeitura de Morro Grande e a Pré-moldados Pagani. Um estudo técnico do próprio MP concluiu que os preços estavam dentro da realidade de mercado e não apontou conluio nem direcionamento da licitação. A única falha encontrada foi a ausência de termo aditivo para tachões birrefletivos, item de valor mínimo no contrato, classificada como mera irregularidade. Sem prejuízo ao poder público, o caso foi arquivado.",
+   "severity": "media"
+  },
+  {
+   "i": 2,
+   "tipo": "mp",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 3,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP investigou cessão de dois servidores de Morro Grande à Cidasc e arquivou após correções",
+   "description": "O Ministério Público apurou se havia irregularidade na cessão dos servidores municipais Marlon Tomazi e José Enio Dal Toe para trabalhar no escritório local da Cidasc, já que existia lista de aprovados em concurso estadual de 2018 para vagas semelhantes. Após diligências, o MP concluiu que não houve desvio de função nem irregularidade na cessão, e que as falhas encontradas foram corrigidas. O MP expediu recomendação, que foi acatada pelo Município. Sem prejuízo ao erário e sem elementos para ação judicial, o inquérito foi arquivado.",
+   "severity": "media"
+  },
+  {
+   "i": 4,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP aciona ex-prefeito de Morro Grande por pagamento de obra de asfalto fora do contrato",
+   "description": "Vereadores de Morro Grande apontaram irregularidades na execução do contrato n. 51/2015, firmado entre a Prefeitura e a empresa Compactar Compactação de Solo e Terraplanagem para recuperação e pavimentação asfáltica de ruas do centro. Segundo a apuração do Ministério Público, a empresa teria sido paga indevidamente por obras executadas em desacordo com o edital. O MP concluiu pelo ajuizamento de ação civil pública contra Ivo Zuchinali, Valdionir Rocha e a empresa Compactar.",
+   "severity": "alta",
+   "status": "🔴 ACP ajuizada"
+  },
+  {
+   "i": 5,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP arquiva apuração sobre falhas no saneamento de Morro Grande porque já havia ação na Justiça",
+   "description": "O Ministério Público abriu procedimento para apurar possível ineficiência e descumprimento do contrato de saneamento básico em Morro Grande. Durante as diligências, o MP verificou que já existia uma ação civil pública em andamento (n. 0000105-11.2011.8.24.0175) tratando dos mesmos fatos, com objeto mais amplo. Por considerar desnecessário manter dois procedimentos sobre o mesmo tema, o MP arquivou este inquérito. A discussão sobre o saneamento segue na ação judicial já existente.",
+   "severity": "media"
+  },
+  {
+   "i": 6,
+   "tipo": "mp",
+   "keep": true,
+   "title": "Prefeitura de Morro Grande foi acusada de usar maquinário em favor de servidores, mas MP arquivou",
+   "description": "O Ministério Público investigou se máquinas da Prefeitura de Morro Grande teriam sido usadas para beneficiar funcionários da própria prefeitura, sem o pagamento das taxas devidas. As diligências mostraram que a estrada onde os reparos foram feitos não pertence aos servidores: é uma servidão de escoamento agrícola que atende vários moradores da região. Sem indícios de dolo ou má-fé, o MP concluiu que não havia base para ação civil pública e arquivou o caso.",
+   "severity": "media"
+  },
+  {
+   "i": 7,
+   "tipo": "mp",
+   "keep": true,
+   "title": "MP apura aproveitamento de servidora em novo cargo na prefeitura de Morro Grande",
+   "description": "O Ministério Público abriu notícia de fato para examinar as razões do aproveitamento da servidora Genoveva Ize Rosa Manenti em outro cargo no Município de Morro Grande. A apuração registra que as atribuições que ela exercia como Agente de Vigilância Sanitária são equivalentes às do cargo de Fiscal de Vigilância Sanitária e Dengue, para o qual foi aproveitada. O extrato publicado no Diário Oficial é cortado antes da conclusão, de modo que o desfecho do caso não está claro no documento.",
+   "severity": "media"
+  }
+ ],
+ "tce": [
+  {
+   "i": 0,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 1,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE arquiva denúncia sobre entrega de imóveis em Morro Grande por falta de competência",
+   "description": "Uma comunicação enviada à Ouvidoria do Tribunal de Contas em 2016 apontou supostas irregularidades na dação de imóveis pela Prefeitura de Morro Grande. Em junho de 2022, o TCE mandou arquivar o processo ao reconhecer que não tem competência para tratar do tema, que depende de decisão do Poder Judiciário — o caso corre na Vara Única da Comarca de Meleiro. Nenhum gestor foi responsabilizado pelo tribunal.",
+   "severity": "media",
+   "status": "🟢 julgado regular"
+  },
+  {
+   "i": 2,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 3,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 4,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 5,
+   "tipo": "tce",
+   "keep": false,
+   "title": "",
+   "description": "",
+   "severity": "media"
+  },
+  {
+   "i": 6,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE julga regular pagamento à Cedro Engenharia em Morro Grande e vê prescrição",
+   "description": "Uma tomada de contas especial apurava suposto pagamento irregular à empresa Cedro - Infraestrutura Viária pela Prefeitura de Morro Grande em 2013. Em novembro de 2023, o Tribunal de Contas julgou regulares as contas nesse ponto e reconheceu a prescrição da possibilidade de punir os demais itens apontados numa decisão de 2021. Germano Milanez, Valdionir Rocha, Ênio Zuchinali, Geraldo Peterle e Júnior Carlos Daniel figuravam como responsáveis e não foram punidos.",
+   "severity": "media",
+   "status": "🟢 julgado regular"
+  },
+  {
+   "i": 7,
+   "tipo": "tce",
+   "keep": true,
+   "title": "TCE encerra sem apontamentos o acompanhamento de vagas na pré-escola em Morro Grande",
+   "description": "O Tribunal de Contas acompanhou a execução do orçamento de 2023 da Prefeitura de Morro Grande destinado à ampliação de vagas na pré-escola. O relator conheceu os relatórios técnicos, deu ciência ao prefeito e determinou o arquivamento dos autos, sem apontar irregularidade nem responsabilizar ninguém.",
+   "severity": "media",
+   "status": "🟢 julgado regular"
+  }
+ ]
+}

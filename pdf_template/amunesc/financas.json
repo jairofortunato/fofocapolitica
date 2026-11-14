@@ -1,0 +1,49 @@
+{
+ "_fonte": "pop: IBGE Censo 2022 (agregado 4714/var 93). rec/desp: Siconfi/Tesouro, RREO 2025 6º bimestre, Anexo 01 — rec=TotalReceitas 'Até o Bimestre (c)', desp=TotalDespesas 'DESPESAS EMPENHADAS ATÉ O BIMESTRE (f)'. Mesma fonte usada em AMREC, AMESC, AMUREL, AMURES, AMVALI e AMMVI. Dado fiscal obtido para 8 das 9 cidades, linha única por conta/coluna em todas.",
+ "_lacunas": "Campo Alegre não tem RREO no Siconfi: verificado bimestre a bimestre, não publicou nenhum em 2024 nem 2025, o que descumpre a LRF. Fica com rec/desp nulos e o PDF mostra '—'. Não preenchido com a receita bruta do DCA, que é ~6% maior que a líquida do RREO e inflaria a cidade na comparação.",
+ "Joinville": {
+  "pop": 616317,
+  "rec": 5020982980,
+  "desp": 4677973285
+ },
+ "São Bento do Sul": {
+  "pop": 83277,
+  "rec": 705470313,
+  "desp": 656482954
+ },
+ "São Francisco do Sul": {
+  "pop": 52674,
+  "rec": 580367890,
+  "desp": 555235454
+ },
+ "Araquari": {
+  "pop": 45283,
+  "rec": 517604747,
+  "desp": 430284268
+ },
+ "Rio Negrinho": {
+  "pop": 39261,
+  "rec": 366992460,
+  "desp": 338563670
+ },
+ "Itapoá": {
+  "pop": 30750,
+  "rec": 415151564,
+  "desp": 370841171
+ },
+ "Garuva": {
+  "pop": 18545,
+  "rec": 186750201,
+  "desp": 207426870
+ },
+ "Balneário Barra do Sul": {
+  "pop": 14912,
+  "rec": 124081423,
+  "desp": 104711203
+ },
+ "Campo Alegre": {
+  "pop": 12501,
+  "rec": null,
+  "desp": null
+ }
+}

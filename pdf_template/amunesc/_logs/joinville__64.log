@@ -1,0 +1,140 @@
+[0m
+> build · gpt-5.4-mini
+[0m
+Vou ler o critério editorial e os três lotes, identificar as fontes de cada caso e então curar um lote por vez, gravando cada JSON antes de seguir para o próximo.
+[0m# [0mTodos
+[•] Ler `pdf_template/CURADORIA.md` e entender os critérios obrigatórios
+[ ] Inspecionar os lotes `joinville__64.json`, `joinville__65.json`, `joinville__66.json` e localizar as fontes de cada caso
+[ ] Curar e gravar `joinville__64.json` em `pdf_template/amunesc/_lotes_curados/`
+[ ] Curar e gravar `joinville__65.json` em `pdf_template/amunesc/_lotes_curados/`
+[ ] Curar e gravar `joinville__66.json` em `pdf_template/amunesc/_lotes_curados/`
+[ ] Resumir por lote: total de casos, keep:true e severity alta
+[0m
+[0m→ [0mRead pdf_template/CURADORIA.md[90m [offset=1, limit=400][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__65.json[90m [offset=1, limit=400][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__64.json[90m [offset=1, limit=400][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__66.json[90m [offset=1, limit=400][0m
+Encontrei que os três lotes são majoritariamente decisões do TCE; preciso ler o restante das listas para não perder nenhum caso e depois vou escrever os JSON curados lote a lote.
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__64.json[90m [offset=241, limit=400][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__66.json[90m [offset=401, limit=400][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes/joinville__65.json[90m [offset=321, limit=400][0m
+Vou checar se já existe alguma saída curada para esses lotes e, em seguida, vou montar a versão final do primeiro arquivo com as decisões corretas para os itens claramente publicáveis e os cortes editoriais.
+[0m✱ [0mGlob "pdf_template/amunesc/_lotes_curados/joinville__64.json"[90m 0 matches[0m
+[0m✱ [0mGlob "pdf_template/amunesc/_lotes_curados/joinville__66.json"[90m 0 matches[0m
+[0m✱ [0mGlob "pdf_template/amunesc/_lotes_curados/joinville__65.json"[90m 0 matches[0m
+Vou gerar os três JSON curados a partir das decisões já lidas, com cortes nas republicações/etapas anteriores e mantendo só os casos editorialmente publicáveis.
+[0m
+[0m$ [0mpython3 - <<'PY'
+import json, os
+base='/Users/jairofortunato/mp/pdf_template/amunesc/_lotes'
+out='/Users/jairofortunato/mp/pdf_template/amunesc/_lotes_curados'
+os.makedirs(out, exist_ok=True)
+
+files=['joinville__64.json','joinville__65.json','joinville__66.json']
+
+# Overrides by lote name then case index `i`.
+overrides={
+'joinville__64.json': {
+18: (True,'TCE aponta irregularidade em pregão de iluminação de Joinville','O Tribunal analisou o Pregão Eletrônico 220/2024 e manteve a restrição por falta de detalhamento de custos unitários. A cautelar continua em discussão no processo.','🔴 apontou irregularidade','media'),
+21: (True,'TCE barra pregão de videomonitoramento de R$ 122 milhões em Joinville','O Tribunal conheceu a representação sobre o Pregão 538/2025 e deferiu cautelar para sustar a adjudicação e a contratação. A decisão citou falhas no estudo de mercado e no critério da prova de conceito.','🟠 cautelar / sustação','media'),
+25: (True,'TCE recomenda ajustes na PPP da iluminação pública de Joinville','O relatório preliminar da PPP foi conhecido e recebeu recomendações técnicas sobre fluxo de caixa, fator de compartilhamento e modelagem. Não houve sanção, apenas orientações ao prefeito.','❔ em tramitação','media'),
+28: (True,'TCE rejeita representação sobre serralheria para escolas de Joinville','A representação contra o Pregão 229/2021 foi julgada improcedente. O processo foi arquivado depois de o Tribunal afastar as irregularidades alegadas.','🟢 julgado regular','media'),
+29: (True,'TCE condena procuradores de Joinville por honorários acima do teto','A tomada de contas especial tratou do pagamento de honorários sucumbenciais acima do teto remuneratório. O Tribunal julgou irregulares as contas, imputou débito e responsabilizou os procuradores.','⬛ julgado irregular','alta'),
+30: (True,'TCE confirma irregularidade na delegação dos bombeiros voluntários de Joinville','A denúncia foi julgada procedente por usurpação de atribuições exclusivas do Corpo de Bombeiros Militar. O Tribunal determinou a revisão dos termos de colaboração com os voluntários.','⬛ julgado irregular','media'),
+32: (True,'Joinville firma plano de ação sobre contratações temporárias de saúde','O Tribunal conheceu e aprovou o plano de ações apresentado pela prefeitura na representação sobre agentes de combate às endemias e comunitários de saúde. O caso segue em monitoramento.','❔ em tramitação','media'),
+33: (True,'TCE julga regular conta de Joinville e reconhece prescrição','Na tomada de contas especial sobre honorários sucumbenciais, o Tribunal julgou as contas regulares e reconheceu a prescrição das pretensões punitiva e ressarcitória. Os autos foram arquivados.','⚫ prescrito','media'),
+35: (True,'TCE abre diligências sobre pregão de medicamentos em Joinville','A representação sobre o Pregão 420/2023 foi conhecida e o relator determinou diligências para pedir justificativas técnicas. A cautelar ficou prejudicada e o mérito ainda depende de instrução.','❔ em tramitação','media'),
+36: (True,'TCE arquiva representação sobre impressoras em Joinville','A representação contra o Pregão 107/2021 foi julgada improcedente. O Tribunal arquivou os autos depois de afastar as alegações de irregularidade.','🟢 julgado regular','media'),
+38: (True,'TCE julga procedente denúncia sobre bombeiros voluntários de Joinville','A denúncia foi procedente e o Tribunal reiterou que a delegação de vistorias e autos de infração usurpava atribuições do Corpo de Bombeiros Militar. Determinou-se a revisão dos termos de colaboração.','⬛ julgado irregular','media'),
+39: (True,'TCE encontra falha parcial no pregão de serviços de Joinville','A representação sobre o Pregão 011/2022 foi julgada parcialmente procedente. O processo foi arquivado, mas o Tribunal reconheceu falha no certame.','🔴 apontou irregularidade','media'),
+40: (True,'TCE multa ex-secretário por reequilíbrio irregular no contrato de lixo de Joinville','A representação sobre o contrato de concessão 378/2002 foi parcialmente procedente. O Tribunal aplicou multa de R$ 3 mil por autorizar a revisão sem base técnica suficiente.','🔴 multa aplicada','alta'),
+42: (True,'TCE multa responsáveis por pregão de medicamentos em Joinville','No recurso sobre o Pregão 617/2022, o Tribunal considerou procedente a representação e aplicou multas aos responsáveis. A decisão apontou divisão indevida do objeto e violação à competitividade.','🔴 multa aplicada','alta'),
+43: (True,'TCE considera irregular pregão de caminhão hidrojato em Joinville','O edital do Pregão 157/2024 foi considerado irregular pela previsão de pagamento por hora trabalhada. O Tribunal determinou a anulação do certame.','⬛ julgado irregular','media'),
+54: (True,'Auditoria do TCE considera regulares obras do Hospital São José','A auditoria financeira sobre as obras do prédio de apoio do Hospital Municipal São José considerou regulares os atos analisados. O Tribunal fez recomendações e arquivou o processo.','🟢 julgado regular','media'),
+57: (True,'TCE condena Joinville por delegar poder de polícia aos bombeiros voluntários','A denúncia foi julgada procedente e o Tribunal determinou a revogação dos termos de colaboração que repassavam vistorias e autos de infração. O caso seguiu com diligências ao Corpo de Bombeiros Militar.','⬛ julgado irregular','media'),
+61: (True,'TCE arquiva representação sobre credenciamento de médicos em Joinville','A representação sobre o Credenciamento 229/2024 foi julgada improcedente. O processo foi arquivado após o Tribunal afastar as irregularidades narradas.','🟢 julgado regular','media'),
+62: (True,'Auditoria do TCE aponta problemas na gestão do Hospital São José de Joinville','O relatório sobre a gestão do Hospital Municipal São José pediu plano de ação da prefeitura e da Secretaria de Saúde. O Tribunal determinou correções e recomendações para a rede e para o atendimento hospitalar.','🔴 apontou irregularidade','media'),
+},
+'joinville__65.json': {
+86: (True,'TCE recomenda ajustes na PPP da iluminação de Joinville','O relatório preliminar da PPP foi conhecido e recebeu recomendações técnicas sobre fluxo de caixa, fator de compartilhamento e modelagem. Não houve sustação, apenas orientações ao prefeito.','❔ em tramitação','media'),
+91: (True,'TCE nega registro de aposentadoria reenquadrada em Joinville','O Tribunal negou o registro porque a aposentadoria decorreu de reenquadramento sem concurso público. O IPREVILLE foi instado a anular o ato.','⬛ julgado irregular','media'),
+98: (True,'TCE mantém decisão sobre bombeiros voluntários de Joinville','Nos embargos de declaração, o Tribunal manteve a decisão anterior no processo sobre a delegação de vistorias e autos de infração. A conclusão de irregularidade permaneceu de pé.','⬛ julgado irregular','media'),
+99: (True,'TCE nega registro de aposentadoria por enquadramento ilegal em Joinville','A servidora teve o registro de aposentadoria denegado por ter sido reenquadrada sem concurso público. O IPREVILLE foi instado a anular o ato.','⬛ julgado irregular','media'),
+103: (True,'Auditoria do TCE mira gestão do Hospital São José em Joinville','O relatório sobre o hospital municipal pediu plano de ação da prefeitura e da Secretaria de Saúde. O Tribunal determinou medidas para a urgência, a rede de atenção e a operação da unidade.','🔴 apontou irregularidade','media'),
+124: (True,'Auditoria do TCE sobre o Viva Cidade 2 é arquivada com recomendações','A auditoria financeira do projeto Viva Cidade 2 considerou regulares os atos analisados. O Tribunal recomendou revisar estratégias de execução e arquivou o processo.','🟢 julgado regular','media'),
+137: (True,'TCE faz recomendações na auditoria do Linha Verde de Joinville','A auditoria financeira do programa Linha Verde foi conhecida e recebeu recomendações sobre gastos e desembolsos. O processo foi arquivado após a análise.','🟢 julgado regular','media'),
+149: (True,'Auditoria do TCE considera regulares gastos do Viva Cidade II em Joinville','O relatório de auditoria financeira considerou regulares os atos analisados no projeto Viva Cidade II. O Tribunal arquivou os autos.','🟢 julgado regular','media'),
+},
+'joinville__66.json': {
+200: (True,'Auditoria do TCE arquiva Viva Cidade 2 com recomendações','A auditoria financeira de 2024 considerou o relatório e determinou o arquivamento. O Tribunal apenas pediu ciência à prefeitura e ao controle interno.','🟢 julgado regular','media'),
+201: (True,'TCE monitora o programa Linha Verde de Joinville','A auditoria financeira do programa Linha Verde foi conhecida e o Tribunal mandou monitorar as providências no exercício seguinte. O processo segue em acompanhamento.','❔ em tramitação','media'),
+207: (True,'TCE nega registro de aposentadoria por tempo insuficiente em Joinville','O registro da aposentadoria foi denegado porque a servidora não completou o tempo mínimo na carreira. O IPREVILLE deve anular o ato.','⬛ julgado irregular','media'),
+209: (True,'TCE mantém restrições na aposentadoria de servidor de Joinville','No recurso de reexame, o Tribunal manteve as restrições sobre ausência de certidões e cálculo irregular dos proventos. A decisão preserva a exigência de saneamento do ato.','⬛ julgado irregular','media'),
+211: (True,'Monitoramento do TCE aponta descumprimentos no Hospital São José','O segundo monitoramento do Hospital Municipal São José concluiu por cumprimentos parciais e itens ainda não cumpridos. O processo encerra o fluxo da auditoria com novas cobranças à gestão.','🔴 apontou irregularidade','media'),
+215: (True,'TCE acompanha obra de pavimentação da Rua Waldemiro José Borges','O processo de acompanhamento da obra foi conhecido e retornou à DLC para prosseguimento. O Tribunal ainda não fechou o mérito.','❔ em tramitação','media'),
+216: (True,'TCE nega registro de aposentadoria por acúmulo ilegal em Joinville','O Tribunal confirmou o acúmulo ilegal de cargos entre Joinville e o Estado e negou o registro do ato. Determinou a anulação da aposentadoria.','⬛ julgado irregular','media'),
+223: (True,'TCE nega registro de aposentadoria a médico de Joinville','A aposentadoria foi negada por ausência de certidão de tempo de contribuição e por cálculo irregular dos proventos. O IPREVILLE deve anular o decreto e revisar o valor.','⬛ julgado irregular','media'),
+224: (True,'TCE nega registro de aposentadoria por enquadramento ilegal em Joinville','O ato de aposentadoria foi negado porque o cargo decorreu de reenquadramento irregular sem concurso. O Tribunal determinou a anulação do decreto e nova análise.','⬛ julgado irregular','media'),
+},
+}
+
+for fn in files:
+    path=os.path.join(base,fn)
+    with open(path) as f:
+        data=json.load(f)
+    out_cases=[]
+    for c in data['casos']:
+        o=overrides.get(fn, {}).get(c['i'])
+        if o:
+            keep,title,desc,status,severity=o
+        else:
+            keep=False; title=''; desc=''; status=''; severity='media'
+        out_cases.append({'i':c['i'],'tipo':c['tipo'],'keep':keep,'title':title,'description':desc,'status':status,'severity':severity})
+    out_data={'cidade':data.get('cidade','Joinville'),'casos':out_cases}
+    out_path=os.path.join(out,fn)
+    with open(out_path,'w') as f:
+        json.dump(out_data,f,ensure_ascii=False,indent=2)
+        f.write('\n')
+PY
+(no output)
+[0m
+Os três arquivos já foram gerados. Agora vou validar quantos casos ficaram com `keep:true` e `severity:"alta"` em cada lote, e ajustar qualquer ponto que tenha ficado inconsistente.
+[0m$ [0mpython3 - <<'PY'
+import json, os
+for fn in ['joinville__64.json','joinville__65.json','joinville__66.json']:
+    path=f'/Users/jairofortunato/mp/pdf_template/amunesc/_lotes_curados/{fn}'
+    with open(path) as f:
+        data=json.load(f)
+    total=len(data['casos'])
+    keep=sum(1 for c in data['casos'] if c['keep'])
+    alta=sum(1 for c in data['casos'] if c['severity']=='alta')
+    print(fn, total, keep, alta)
+PY
+joinville__64.json 70 19 3
+joinville__65.json 70 8 0
+joinville__66.json 70 9 0
+[0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/joinville__64.json[90m [offset=1, limit=220][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/joinville__65.json[90m [offset=1, limit=220][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/joinville__66.json[90m [offset=1, limit=220][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/joinville__64.json[90m [offset=220, limit=200][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/joinville__66.json[90m [offset=220, limit=200][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/joinville__65.json[90m [offset=220, limit=200][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/joinville__64.json[90m [offset=420, limit=220][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/joinville__65.json[90m [offset=420, limit=220][0m
+[0m→ [0mRead pdf_template/amunesc/_lotes_curados/joinville__66.json[90m [offset=420, limit=220][0m
+Os arquivos estão válidos e alinhados; agora fecho a revisão com a contagem final por lote e marco tudo como concluído.
+[0m
+[0m# [0mTodos
+[✓] Ler `pdf_template/CURADORIA.md` e entender os critérios obrigatórios
+[✓] Inspecionar os lotes `joinville__64.json`, `joinville__65.json`, `joinville__66.json` e localizar as fontes de cada caso
+[✓] Curar e gravar `joinville__64.json` em `pdf_template/amunesc/_lotes_curados/`
+[✓] Curar e gravar `joinville__65.json` em `pdf_template/amunesc/_lotes_curados/`
+[✓] Curar e gravar `joinville__66.json` em `pdf_template/amunesc/_lotes_curados/`
+[✓] Resumir por lote: total de casos, keep:true e severity alta
+[0m
+Arquivos gravados em `pdf_template/amunesc/_lotes_curados/`.
+
+- `joinville__64.json`: 70 casos, 19 `keep:true`, 3 `severity:"alta"`
+- `joinville__65.json`: 70 casos, 8 `keep:true`, 0 `severity:"alta"`
+- `joinville__66.json`: 70 casos, 9 `keep:true`, 0 `severity:"alta"`

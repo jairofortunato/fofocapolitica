@@ -1,0 +1,668 @@
+{
+ "cidade": "Lages",
+ "casos": [
+  {
+   "i": 420,
+   "tipo": "mp",
+   "ref": "01.2025.00049068-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00049068-6",
+   "status": "🟡 em apuração",
+   "data": "15/09/2025",
+   "texto": "Ministério Público de Santa Catarina e Myatã Coral."
+  },
+  {
+   "i": 421,
+   "tipo": "mp",
+   "ref": "06.2025.00004149-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00004149-6",
+   "status": "🟡 em apuração",
+   "data": "07/10/2025",
+   "texto": "Igreja Quadrangular."
+  },
+  {
+   "i": 422,
+   "tipo": "mp",
+   "ref": "06.2021.00004515-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00004515-4",
+   "status": "🟢 arquivado",
+   "data": "16/10/2025",
+   "texto": "Luiz Carlos Ribeiro, Reinaldo José e Sá e Clube de Caça e Tiro 1º de Julho. Conclusão: diante da adequação estrutural do estabelecimento, afastou-se a problemática sonora na localidade, considerando que na nova medição acústica no Clube, realizada por profissional com ART, constatou-se que a pressão sonora está abaixo do limite fixado no zoneamento do estabelecimento. Inexistem novos danos à coletividade e, consequentemente, ausência circunstancial do interesse de agir, motivando o arquivamento dos autos."
+  },
+  {
+   "i": 423,
+   "tipo": "mp",
+   "ref": "06.2024.00003611-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2024.00003611-2",
+   "status": "🟠 TAC firmado",
+   "data": "16/10/2025",
+   "texto": "José Carlos Rosa da Silva. Conclusão: a celebração do Termo de Ajustamento de Conduta, implicou a ausência circunstancial do interesse de agir."
+  },
+  {
+   "i": 424,
+   "tipo": "mp",
+   "ref": "06.2025.00004242-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00004242-9",
+   "status": "🟡 em apuração",
+   "data": "20/10/2025",
+   "texto": "Bailão da Amizade 2."
+  },
+  {
+   "i": 425,
+   "tipo": "mp",
+   "ref": "06.2025.00004469-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00004469-3",
+   "status": "🟡 em apuração",
+   "data": "21/10/2025",
+   "texto": "Bar Hillbilly Rock House."
+  },
+  {
+   "i": 426,
+   "tipo": "mp",
+   "ref": "06.2023.00002758-6",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00002758-6",
+   "status": "🟢 arquivado",
+   "data": "27/10/2025",
+   "texto": "Defensoria Pública Estadual, Centro Socioeducativo Regional de Lages e Secretaria de Estado da Administração Prisional e Socioeducativa de Santa Catarina. Conclusão: Inquérito Civil instaurado para apurar a submissão de socioeducandos em ambiente de internação no âmbito do Centro Socioeducativo Regional de Lages a atos de violência levados a efeito por agentes socioeducativos. Situação esclarecida e não demonstrada diante da inexistência de elementos probatórios. Sindicância investigativa instaurada e conclusiva a respeito da não ocorrência de transgressão funcional. Arquivamento."
+  },
+  {
+   "i": 427,
+   "tipo": "mp",
+   "ref": "06.2025.00004578-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2025.00004578-1",
+   "status": "🟡 em apuração",
+   "data": "31/10/2025",
+   "texto": "ativa: Ministério Público de Santa Catarina; passiva: A. Angeloni e Cia. Ltda, em Lages."
+  },
+  {
+   "i": 428,
+   "tipo": "mp",
+   "ref": "01.2025.00058805-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00058805-5",
+   "status": "🟡 em apuração",
+   "data": "03/11/2025",
+   "texto": "Ministério Público de Santa Catarina e Lojas Colombo."
+  },
+  {
+   "i": 429,
+   "tipo": "mp",
+   "ref": "01.2025.00058822-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00058822-2",
+   "status": "🟡 em apuração",
+   "data": "03/11/2025",
+   "texto": "Ministério Público de Santa Catarina e Lojas Colombo."
+  },
+  {
+   "i": 430,
+   "tipo": "mp",
+   "ref": "01.2025.00058822-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2025.00058822-2",
+   "status": "🟡 em apuração",
+   "data": "13/11/2025",
+   "texto": "Ministério Público de Santa Catarina e Lojas Colombo."
+  },
+  {
+   "i": 431,
+   "tipo": "mp",
+   "ref": "06.2025.00004897-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2025.00004897-8",
+   "status": "🟡 em apuração",
+   "data": "13/11/2025",
+   "texto": "Bar e Mercearia São Lucas."
+  },
+  {
+   "i": 432,
+   "tipo": "mp",
+   "ref": "06.2025.00004469-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00004469-3",
+   "status": "🟠 TAC firmado",
+   "data": "04/12/2025",
+   "texto": "Hillbilly Rock House. Conclusão: com a firmatura do termo de ajustamento de conduta, resta ausente interesse de agir."
+  },
+  {
+   "i": 433,
+   "tipo": "mp",
+   "ref": "06.2022.00003031-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00003031-0",
+   "status": "🟠 TAC firmado",
+   "data": "10/12/2025",
+   "texto": "Loteamento Santa Theresa Empreendimentos Imobiliários. Conclusão: com a firmatura do termo de ajustamento de conduta, está ausente interesse de agir"
+  },
+  {
+   "i": 434,
+   "tipo": "mp",
+   "ref": "06.2026.00000270-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2026.00000270-8",
+   "status": "🟡 em apuração",
+   "data": "02/02/2026",
+   "texto": "Farm House Ltda."
+  },
+  {
+   "i": 435,
+   "tipo": "mp",
+   "ref": "09.2026.00000431-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2026.00000431-7",
+   "status": "🟡 em apuração",
+   "data": "05/02/2026",
+   "texto": "Depósito Mezzalira."
+  },
+  {
+   "i": 436,
+   "tipo": "mp",
+   "ref": "06.2026.00000233-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2026.00000233-0",
+   "status": "🟡 em apuração",
+   "data": "06/02/2026",
+   "texto": "Diretoria's Bar."
+  },
+  {
+   "i": 437,
+   "tipo": "mp",
+   "ref": "06.2026.00000253-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2026.00000253-0",
+   "status": "🟡 em apuração",
+   "data": "06/02/2026",
+   "texto": "Igreja Mevam Lages."
+  },
+  {
+   "i": 438,
+   "tipo": "mp",
+   "ref": "09.2026.00000428-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE PROCEDIMENTO ADMINISTRATIVO N. 09.2026.00000428-3",
+   "status": "🟡 em apuração",
+   "data": "09/02/2026",
+   "texto": "Wagner Manoel Ribeiro."
+  },
+  {
+   "i": 439,
+   "tipo": "mp",
+   "ref": "06.2023.00002046-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00002046-0",
+   "status": "🟢 arquivado",
+   "data": "09/03/2026",
+   "texto": "Delegacia de Polícia de Lages. Conclusão: inquérito civil instaurado para apurar notícia de agressão perpetrada contra o adolescente A. C. A., por cuidadora social no SAICA I. Situação está sendo devidamente apurada na seara criminal. Arquivamento."
+  },
+  {
+   "i": 440,
+   "tipo": "mp",
+   "ref": "06.2023.00003350-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL n. 06.2023.00003350-0",
+   "status": "🟢 arquivado",
+   "data": "13/03/2026",
+   "texto": "Estado de Santa Catarina. Conclusão: Inquérito Civil instaurado para apurar a insuficiência do quadro de servidores lotados nas Delegacias de Polícia Civil da Comarca de Lages/SC. Constatada a existência de outro procedimento com objeto mais amplo em tramitação na 40ª Promotoria de Justiça da Comarca da Capital, que avalia a falta de efetivo policial no âmbito estadual, ou seja, em todos os M unicípios catarinenses. Arquivamento."
+  },
+  {
+   "i": 441,
+   "tipo": "mp",
+   "ref": "06.2025.00004547-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00004547-0",
+   "status": "🔴 ACP ajuizada",
+   "data": "13/03/2026",
+   "texto": "Instituto Médico Legal de Lages. Conclusão: a suposta inadequação do espaço físico do local em que se realiza exame ginecológico foi devidamente esclarecida. Inexistência de fundamento para ajuizamento de ação civil pública. Arquivamento."
+  },
+  {
+   "i": 442,
+   "tipo": "mp",
+   "ref": "06.2023.00003350-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00003350-0",
+   "status": "🟢 arquivado",
+   "data": "17/03/2026",
+   "texto": "Estado de Santa Catarina. Conclusão: inquérito civil instaurado para apurar a insuficiência do quadro de servidores lotados nas Delegacias de Polícia Civil da Comarca de Lages. Constatada a existência de outro procedimento com objeto mais amplo em tramitação na 40ª Promotoria de Justiça da Comarca da Capital, que avalia a falta de efetivo policial no âmbito estadual, ou seja, em todos os municípios catarinenses. Arquivamento."
+  },
+  {
+   "i": 443,
+   "tipo": "mp",
+   "ref": "06.2025.00001370-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00001370-1",
+   "status": "❔ status indef.",
+   "data": "19/03/2026",
+   "texto": "After Club. Extrato da Decisão: houve a adoção das medidas pertinentes e a problemática encontra-se solucionada, inexistindo fundamento para propositura de ação judicial."
+  },
+  {
+   "i": 444,
+   "tipo": "mp",
+   "ref": "06.2025.00002519-6",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00002519-6",
+   "status": "❔ status indef.",
+   "data": "06/04/2026",
+   "texto": "Mercadão Calçando o Pé. Conclusão: pela inexistência de fundamento para a propositura de ação judicial, situação solucionada com o fechamento do estabelecimento."
+  },
+  {
+   "i": 445,
+   "tipo": "mp",
+   "ref": "06.2025.00000593-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00000593-4",
+   "status": "🟢 arquivado",
+   "data": "07/04/2026",
+   "texto": "Xodozinho Pet Shop. Conclusão: arquivado porque verificada a inexistência de fundamento para a propositura de ação judicial."
+  },
+  {
+   "i": 446,
+   "tipo": "mp",
+   "ref": "06.2025.00004897-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00004897-8",
+   "status": "❔ status indef.",
+   "data": "29/04/2026",
+   "texto": "Bar e Mercearia São Lucas. Conclusão: pela inexistência de fundamento para a propositura de ação judicial. Impacto negativo de vizinhança eliminado."
+  },
+  {
+   "i": 447,
+   "tipo": "mp",
+   "ref": "01.2026.00020618-6",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 01.2026.00020618-6",
+   "status": "❔ status indef.",
+   "data": "14/05/2026",
+   "texto": "Maria do Carmo Padilha Ribeiro. Conclusão: pela inexistência de fundamento para a propositura de ação judicial, porque parte dos fatos relatados não atingem direito tutelado pelo Ministério Publico e parte encontra-se solucionado."
+  },
+  {
+   "i": 448,
+   "tipo": "mp",
+   "ref": "06.2015.00006833-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2015.00006833-8",
+   "status": "🟢 arquivado",
+   "data": "20/05/2026",
+   "texto": "Ministério Público do Estado de Santa Catarina, Ladir Antunes de Sá, Paulo Vilson Constante da Silva e Edilma Rosimeri Wolff da Silva. Conclusão: [...] Assim, inexistindo justa causa para prosseguimento da investigação, e considerando que foram adotadas as providências possíveis e proporcionais no âmbito da tutela coletiva, impõe-se o arquivamento do presente Inquérito Civil, nos termos do art. 48, inciso I, do Ato 395/2018/PGJ, sem prejuízo de eventual reabertura caso sobrevenham fatos novos relevantes. [...]"
+  },
+  {
+   "i": 449,
+   "tipo": "mp",
+   "ref": "06.2025.00000338-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2025.00000338-0",
+   "status": "❔ status indef.",
+   "data": "16/06/2026",
+   "texto": "UNIPLAC. Conclusão: pela inexistência de fundamento para a propositura de ação judicial, considerando o acatamento de recomendação que dispõe sobre medida destinadas ao controle do impacto negativo de vizinhança."
+  },
+  {
+   "i": 450,
+   "tipo": "mp",
+   "ref": "09.2026.00005302-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2026.00005302-0",
+   "status": "🟡 em apuração",
+   "data": "18/06/2026",
+   "texto": "UNIPLAC."
+  },
+  {
+   "i": 451,
+   "tipo": "mp",
+   "ref": "06.2023.00002348-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2023.00002348-0",
+   "status": "🔴 ACP ajuizada",
+   "data": "22/06/2026",
+   "texto": "Estado de Santa Catarina. Conclusão: Inquérito Civil instaurado para apurar eventual insuficiência do efetivo policial militar na Comarca de Lages/SC. Constatado que a distribuição do efetivo observa os parâmetros normativos vigentes. Inexistência de fundamento para ajuizamento de ação civil pública. Arquivamento."
+  },
+  {
+   "i": 452,
+   "tipo": "mp",
+   "ref": "06.2026.00002618-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2026.00002618-8",
+   "status": "🟡 em apuração",
+   "data": "24/06/2026",
+   "texto": "J. L. de A. J. e L. H. de O."
+  },
+  {
+   "i": 0,
+   "tipo": "tce",
+   "ref": "REP 23/80120859",
+   "header": "⭐ REP 23/80120859 — Representação",
+   "status": "🟠 cautelar / sustação",
+   "data": "30/01/2025",
+   "texto": "Prefeitura Municipal de Lages Representação acerca de supostas irregularidades referentes à Concorrência Pública n. 10/2022 - Concessão do ",
+   "decisao": "decide: 1. Considerar parcialmente procedente a Representação e irregulares, nos termos dos arts. 36, § 2º, “a”, da Lei Complementar (estadual) n. 202/2000 e 27, parágrafo único, da Instrução Normativa n. TC-21/2015, os seguintes fatos: 1.1. Ausência de justificativas e erro do projeto ao adotar estimativas de salários menores que os mínimos praticados e exigíveis para as categorias: agente funerário, tanatopraxista, motorista, recepcionista/plantonista e servente de limpeza, conforme informações da planilha 7 - composição do custo com pessoal do “Anexo_V1_Demonstrativo_Viab_Econ_Finan” (item 2.2 da Decisão Singular GCS/GSS n. 1960/2023); 1.2. Erro na estimativa do quantitativo de urnas do estoque inicial e para reposição anual, pois indicam o quantitativo de 137 por ano em contraposição à projeção da quantidade de 158, conforme informações das planilhas 1, 4 e 20 do “Anexo_V1_Demonstrativo_Viab_Econ_Finan” (item 2.9 da Decisão Singular GCS/GSS n. 1960/2023); 1.3. Ausência de justificativas e erro na previsão dos custos com urnas personalizadas no estoque inicial e de reposição anual (despesas operacionais), conforme informações das planilhas 4 e 22 do “Anexo_V1_Demonstrativo_Viab_Econ_Finan” (item 2.10 da Decisão SingularGCS/GSS n. 1960/2023); 1.4. Erro no projeto ao estimar valores para a aquisição de veículos com ano de fabricação 2017 e 2018, mas prever no fluxo de caixa um período de uso em desacordo com a regra do Edital de idade máxima permitida, conforme informações das planilhas 4 e 22 do “Anexo_V1_Demonstrativo_Viab_Econ_Finan” (item 2.11 da Decisão Singular GCS/GSS n. 1960/2023); 1.5. Erro no projeto ao estimar compartilhamento de custos do serviço funerário gratuito em diferentes percentuais, aplicando 70% para as concessionárias na planilha 14, mas 30% para as concessionárias na planilha 20, todas do “Anexo_V1_Demonstrativo_Viab_Econ_Finan” (item 2.13 da Decisão Singular GCS/GSS n. 1960/2023); 1.6. Erro no projeto por não regulamentar de forma clara e objetiva como será a operação do serviço funerário gratuito, inclusive quanto à previsão de compartilhamento dos custos, conforme informações do item 11 do “Anexo_II_Projeto_Basico 2023” e do “Anexo_V1_Demonstrativo_Viab_Econ_Finan” (item 2.14 da Decisão Singular GCS/GSS n. 1960/2023); 2. Revogar a cautelar concedida pela Decisão Singular n. 771/2024 (fs. 819–843), confirmada pela Decisão Singular n. 42/2025 (fs. 1961–1967). 3. Recomendar à Prefeitura Municipal de Lages, na pessoa da Prefeita Municipal, que adote providências para, em futuros certames licitatórios relacionados ao mesmo objeto, evite a ocorrência das irregularidades descritas nos itens 1.1. a 1.6 desta Decisão. 4. Dar ciência desta Decisão, do Relatório e Voto do Relator que a fundamentam, bem como do Relatório DLC/CCON/Div.9 n. 1512/2024 e do Parecer MPC/SRF n. 176/2025, à empresa Representante, à Sra. Carmen Emília Bonfá Zanott, Prefeita Municipal de Lages, à Assessoria Jurídica e ao Controle Interno da Unidade Gest"
+  },
+  {
+   "i": 1,
+   "tipo": "tce",
+   "ref": "REP 23/80120859",
+   "header": "⭐ REP 23/80120859 — Representação",
+   "status": "🟠 cautelar / sustação",
+   "data": "21/05/2024",
+   "texto": "Prefeitura Municipal de Lages Representação acerca de supostas irregularidades na Concorrência Pública nº 10/2022 - Concessão do serviço ",
+   "decisao": "decide: 1. Considerar parcialmente procedente a Representação e irregulares, nos termos dos arts. 36, § 2º, “a”, da Lei Complementar (estadual) n. 202/2000 e 27, parágrafo único, da Instrução Normativa n. TC-21/2015, os seguintes fatos: 1.1. Ausência de justificativas e erro do projeto ao adotar estimativas de salários menores que os mínimos praticados e exigíveis para as categorias: agente funerário, tanatopraxista, motorista, recepcionista/plantonista e servente de limpeza, conforme informações da planilha 7 - composição do custo com pessoal do “Anexo_V1_Demonstrativo_Viab_Econ_Finan” (item 2.2 da Decisão Singular GCS/GSS n. 1960/2023); 1.2. Erro na estimativa do quantitativo de urnas do estoque inicial e para reposição anual, pois indicam o quantitativo de 137 por ano em contraposição à projeção da quantidade de 158, conforme informações das planilhas 1, 4 e 20 do “Anexo_V1_Demonstrativo_Viab_Econ_Finan” (item 2.9 da Decisão Singular GCS/GSS n. 1960/2023); 1.3. Ausência de justificativas e erro na previsão dos custos com urnas personalizadas no estoque inicial e de reposição anual (despesas operacionais), conforme informações das planilhas 4 e 22 do “Anexo_V1_Demonstrativo_Viab_Econ_Finan” (item 2.10 da Decisão SingularGCS/GSS n. 1960/2023); 1.4. Erro no projeto ao estimar valores para a aquisição de veículos com ano de fabricação 2017 e 2018, mas prever no fluxo de caixa um período de uso em desacordo com a regra do Edital de idade máxima permitida, conforme informações das planilhas 4 e 22 do “Anexo_V1_Demonstrativo_Viab_Econ_Finan” (item 2.11 da Decisão Singular GCS/GSS n. 1960/2023); 1.5. Erro no projeto ao estimar compartilhamento de custos do serviço funerário gratuito em diferentes percentuais, aplicando 70% para as concessionárias na planilha 14, mas 30% para as concessionárias na planilha 20, todas do “Anexo_V1_Demonstrativo_Viab_Econ_Finan” (item 2.13 da Decisão Singular GCS/GSS n. 1960/2023); 1.6. Erro no projeto por não regulamentar de forma clara e objetiva como será a operação do serviço funerário gratuito, inclusive quanto à previsão de compartilhamento dos custos, conforme informações do item 11 do “Anexo_II_Projeto_Basico 2023” e do “Anexo_V1_Demonstrativo_Viab_Econ_Finan” (item 2.14 da Decisão Singular GCS/GSS n. 1960/2023); 2. Revogar a cautelar concedida pela Decisão Singular n. 771/2024 (fs. 819–843), confirmada pela Decisão Singular n. 42/2025 (fs. 1961–1967). 3. Recomendar à Prefeitura Municipal de Lages, na pessoa da Prefeita Municipal, que adote providências para, em futuros certames licitatórios relacionados ao mesmo objeto, evite a ocorrência das irregularidades descritas nos itens 1.1. a 1.6 desta Decisão. 4. Dar ciência desta Decisão, do Relatório e Voto do Relator que a fundamentam, bem como do Relatório DLC/CCON/Div.9 n. 1512/2024 e do Parecer MPC/SRF n. 176/2025, à empresa Representante, à Sra. Carmen Emília Bonfá Zanott, Prefeita Municipal de Lages, à Assessoria Jurídica e ao Controle Interno da Unidade Gest"
+  },
+  {
+   "i": 2,
+   "tipo": "tce",
+   "ref": "LCC 22/00206636",
+   "header": "⭐ LCC 22/00206636 — Licitações e Contratos",
+   "status": "🟠 cautelar / sustação",
+   "data": "09/06/2022",
+   "texto": "Prefeitura Municipal de Lages Edital de Licitação n. 02/20221 para a contratação de empresa de engenharia para construção do CEIM Jardim Celina com Por meio da Decisão Singular GAC/CFF n. 390/2022 (fls. 94/100), este Relator acolheu o encaminhamento proposto pela Diretoria, para",
+   "decisao": "Diante do exposto, DECIDO acolher o entendimento exarado pela Diretoria de Licitações e Contratações, para: Conhecer do Relatório DLC-282/2022 que analisou o Edital de Concorrência Pública 02/2022, lançado pela Prefeitura Municipal de Lages, que visa à contratação de empresa de engenharia para construção do Centro de Educação Infantil Municipal Jardim Celina. Determinar, cautelarmente, ao Sr. Antônio César Alves de Arruda, Secretário de Administração e Fazenda do Município de Lages e subscritor do edital, com base no art. 29 da Instrução Normativa N.TC-21/2015 c/c o art. 114-A do Regimento Interno deste Tribunal de Contas, a sustação do Edital de Concorrência Pública 02/2022 (abertura em 09/05/2022), até manifestação ulterior que revogue a medida ex officio, ou até a deliberação pelo Egrégio Tribunal Pleno, em face das seguintes irregularidades: Projeto básico incompleto, contrariando o art. 6º, IX c/c § 2º do art. 7º da Lei (federal) 8.666/1993 (item 2.1 do Relatório DLC-282/2022); Elaboração de projeto básico pela empresa contratada para execução da obra, em inobservância ao art. 9º da Lei (federal) 8.666/1993 (item 2.2 do Relatório DLC-282/2022); Orçamento impropriamente avaliado, contrariando o art. 6º, IX, f, da Lei (federal) 8666/1993 (item 2.3 do Relatório DLC-282/2022). Determinar a audiência dos Srs. Antônio César Alves de Arruda, já qualificado, Fabiano Marcelino de Sá, Presidente da Comissão de Licitação e subscritor do edital e da Sra. Gisele Furtado Dornelles, membro da Comissão de Licitação e também subscritora do edital, para que, no prazo de 30 dias a contar do recebimento desta Decisão, nos termos do art. 29, §1º da Lei Complementar (estadual) 202/2000 e art. 5º, II da Instrução Normativa N.TC-21/2015, apresente justificativas, adote as medidas corretivas necessárias ao exato cumprimento da lei ou promova a anulação da licitação, se for o caso, em razão das irregularidades listadas no item 2 desta Deliberação. Submeter a decisão de concessão da cautelar, à ratificação do Tribunal Pleno, em atendimento ao § 1º do art. 114-A do Regimento Interno. Dar ciência desta Decisão e do Relatório DLC-282/2022 à Prefeitura Municipal de Lages, à sua Assessoria Jurídica e ao Controle Interno do Município. Florianópolis, 11 de abril de 2022. CESAR FILOMENO FONTES Conselheiro Relator Major Vieira"
+  },
+  {
+   "i": 3,
+   "tipo": "tce",
+   "ref": "REP 25/00209479",
+   "header": "⭐ REP 25/00209479 — Representação",
+   "status": "🟠 cautelar / sustação",
+   "data": "19/12/2025",
+   "texto": "Prefeitura Municipal de Lages | Instituto de Previdência do Município de Mafra – IPMM Possíveis irregularidades no Pregão Eletrônico n. 120/2025 - Registro de Preços para aquisição de uniformes | Registro do Ato de Pensão de Luciméry Schmidt Prefeitura Municipal de Lages | Prefeitura de Mafra",
+   "decisao": "Diante do exposto, DECIDO: 1. CONSIDERAR ATENDIDOS os requisitos de admissibilidade e os critérios de seletividade estabelecidos na Resolução n. TC- 283/2025. 2. CONHECER a representação apresentada pela empresa G ATLANTICUS LTDA., com fundamento no art. 170 da Lei Federal n. 14.133/21, contra o Edital de Pregão Eletrônico n. 120/2025, promovido pela Prefeitura Municipal de Lages, cujo objeto visa o registro de preços para aquisição de uniformes escolares para o ano letivo de 2026, no valor previsto de R$ 6.147.928,40, no tocante aos seguintes fatos: 2.1. Da aglutinação dos itens 1 e 2 (camisetas) com os itens 3, 4 e 5 (calças e jaqueta) em um mesmo lote, sem justificativa suficiente que demonstre a efetiva vantagem técnica ou econômica da medida, em desconformidade com o art. 18, § 1º, VIII, e com o art. 11, inciso I, da Lei Federal n. 14.133/2021, bem como com a Súmula 247 do TCU e o Prejulgado 2401 do TCE/SC (item 2.3.2 do Relatório n. DLC-1550/2025); 2.2. Exigência de laudos técnicos acreditados pelo INMETRO, sem a devida justificativa técnica e sem demonstração de que tal exigência seja essencial à natureza do produto, em afronta ao art. 42 da Lei Federal n. 14.133/2021, caracterizando cláusula potencialmente restritiva à participação de licitantes, vedada pelo art. 9º, inciso I, alínea “a”, do mesmo diploma legal (item 2.3.4 do Relatório n. DLC-1550/2025); e 2.3. Exigência de apresentação de amostras dos produtos no prazo de até 10 (dez) dias corridos, prevista no Termo de Referência, que se revela potencialmente restritiva à participação de licitantes, nos termos do art. 9º, inciso I, alínea “a”, da Lei Federal n. 14.133/2021, além de não assegurar a seleção da proposta mais vantajosa para a Administração, em afronta ao art. 11 do mesmo diploma legal (item 2.3.5 do Relatório n. DLC-1550/2025). 3. INDEFERIR o pedido de concessão da medida cautelar de suspensão de Pregão Eletrônico n. 120/2025 promovido pela Prefeitura Municipal de Lages por estar presente o periculum in mora reverso (item 2.4 do Relatório n. DLC – 1550/2025). 4. DETERMINAR A AUDIÊNCIA da Sra. Camille Bianchini de Brito (CPF-xxx.123.259-xx), Agente Administrativo, da Sra. Andrea Antunes Bortoluzzi Coelho (CPF-xxx.583.439-xx), Professora, e do Sr. Cristian Roberto Antunes de Oliveira (CPF-xxx.138.899- xx), Secretário Municipal de Educação, nos termos do art. 29, § 1º, da Lei Complementar Estadual n. 202, de 15 de dezembro de 2000, para, no prazo de 30 (trinta) dias, a contar do recebimento da deliberação, com fulcro no art. 46, I, b, do mesmo diploma legal c/c o art. 124 do Regimento Interno do Tribunal de Contas do Estado (Resolução n. TC-06, de 28 de dezembro de 2001), apresentarem justificativas em razão das irregularidades descritas nos itens 2.1 a 2.3 desta Decisão. 5. Determinar à Secretaria-Geral que submeta o deferimento da medida cautelar ao Plenário na próxima Sessão, nos termos do § 1º do art. 114-A do Regimento Interno desta Corte de Contas. 6. Determinar à Secret"
+  },
+  {
+   "i": 4,
+   "tipo": "tce",
+   "ref": "REP 21/00029996",
+   "header": "⭐ REP 21/00029996 — Representação",
+   "status": "🟠 cautelar / sustação",
+   "data": "09/08/2022",
+   "texto": "Prefeitura Municipal de Lages Representação acerca de supostas irregularidades na Concorrência 03/2018 para outorga de permissão de serviços funerários Alessandra Stramosk Viana, Ayrton Tadeu Webber Xavier, Bernardo de Souza Theodoro, Diretoria de Licitações e",
+   "decisao": "Diante do exposto, decido por: 1. Determinar o arquivamento dos autos com fundamento no parágrafo único do artigo 6.º da Instrução Normativa n.º TC-0021/2015 do Tribunal de Contas do Estado, em face da anulação da Concorrência n.º 03/2018, conforme anulação constante do site do Município. 2. Dar ciência desta Decisão aos Representantes deste Processo e dos a ele vinculados, à Administração Municipal de Lages, ao seu Controle Interno e à sua Procuradoria Jurídica. Florianópolis, 04 de agosto de 2022. CÉSAR FILOMENO FONTES Conselheiro Relator Mafra"
+  },
+  {
+   "i": 5,
+   "tipo": "tce",
+   "ref": "PAP 23/80120859",
+   "header": "⭐ PAP 23/80120859 — Processo de Apuração",
+   "status": "🟠 cautelar / sustação",
+   "data": "08/01/2024",
+   "texto": "Prefeitura Municipal de Lages Supostas irregularidades na Concorrência Pública 10/2022 - concessão do serviço funerário ",
+   "decisao": "3.1. CONSIDERAR atendidas as condições prévias para exame da seletividade do procedimento apuratório preliminar (PAP), nos termos do art. 6º da Resolução nº TC-0165/2020 (item 2.2. deste Relatório). 3.2. AFERIR que no critério de seletividade o procedimento apuratório preliminar (PAP) obteve nota 61,60 no índice RROM (mínimo 50) e 75 pontos na Matriz GUT (mínimo 48), em atenção ao art. 5º da Portaria nº TC-0156/2021 e no art. 9º da Resolução nº TC-0165/2020 (item 2.3. deste Relatório). 3.3. DETERMINAR a conversão do procedimento apuratório preliminar (PAP) em autos próprios para fiscalização do edital de Concorrência Pública nº 10/2022 PML, para concessão do serviço funerário do Município de Lages, nos termos do §2º do art. 9º da Resolução nº TC-0165/2020 (item 2.3. deste Relatório). 3.4. CONHECER DA REPRESENTAÇÃO oferecida pela empresa Venolo Serviços Funerários Ltda, pessoa jurídica de direito privado, inscrita no CNPJ/ME sob o nº 03.776.942/0001-54, estabelecida na Rua Santa Cruz, nº 57, Centro, Lages/SC, CEP 88.501-030, neste ato representada por Rafael Fagundes Mertins, inscrito no CPF/MF sob o nº 006.252.870-02, com fundamento no §1º do art. 113 da Lei (federal) nº 8.666/93, contra possíveis irregularidades no edital de Concorrência Pública nº 10/2022 PML, para concessão do serviço funerário do município de Lages, conforme previsto no §1º do art. 113 da Lei (federal) nº 8.666/93 c/c art. 65 da Lei Complementar (estadual) nº 202/00, pois atendidos os requisitos de admissibilidades previstos no art. 24 da Instrução Normativa nº TC-021/2015 (item 2.4. deste Relatório). 3.5. INDEFERIR o pedido de sustação cautelar do edital de Concorrência Pública nº 10/2022 PML, para concessão do serviço funerário do município de Lages (subitem 2.7. deste Relatório). 3.6. DETERMINAR audiência do sr. Juliano Polese Branco, Prefeito Municipal de Lages, e subscritor do ato convocatório, inscrito no CPF/MF sob o nº 944.911.519-20, para que, no prazo de 30 dias, a contar do recebimento desta deliberação, nos termos do art. 29, §1º, da Lei Complementar (estadual) nº 202/2000, c/c art. 5º, inc. II da Instrução Normativa nº TC-021/2015, apresente justificativas, adote as medidas corretivas necessárias ao exato cumprimento da Lei ou promova a anulação da licitação, se for o caso, em face das seguintes impropriedades, ensejadoras da aplicação de multa prevista no art. 70 da Lei Complementar (estadual) nº 202/2000: 3.6.1. Ausência de justificativas e possível erro na fórmula de cálculo do sobreaviso, conforme informações da planilha 7 - composição do custo com pessoal do “Anexo_V1_Demonstrativo_Viab_Econ_Finan”; 3.6.2. Ausência de justificativas e possível erro do projeto ao adotar estimativas de salários menores que os mínimos praticados e exigíveis para as categorias: agente funerário, tanatopraxista, motorista, recepcionista/plantonista e servente de limpeza, conforme informações da planilha 7 - composição do custo com pessoal do “Anexo_V1_Demonstrativo_Viab_Econ_F"
+  },
+  {
+   "i": 6,
+   "tipo": "tce",
+   "ref": "PAP 23/80055267",
+   "header": "⭐ PAP 23/80055267 — Processo de Apuração",
+   "status": "❔ em tramitação",
+   "data": "28/08/2024",
+   "texto": "Prefeitura Municipal de Lages Procedimento Apuratório Preliminar acerca de supostas irregularidades envolvendo a cobrança de créditos tributários Antônio Ceron e Juliano Polese Branco",
+   "decisao": "decide: 1. Determinar o arquivamento do Procedimento Apuratório Preliminar, nos termos do art. 7º, I, da Resolução n. TC-165/2020, por ausência das condições prévias exigidas no art. 6º, I e III, da Resolução n. TC-165/2020, quanto às alegações de nepotismo e de fraude à execução fiscal. 2. Reconhecer a incidência da prescrição das pretensões ressarcitória e sancionatória do TCE/SC quanto às alegadas omissões no Executivo Municipal de Lages na cobrança do Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU) dos exercícios de 1998 a 2010 devido pelo Sr. Álvaro João Mondadori Júnior, sem a devida apuração das responsabilidades, bem como da declaração de decadência de crédito tributário para o mesmo contribuinte formulada em 2007. 3. Dar ciência deste procedimento à Procuradoria-Geral do Estado de Santa Catarina e à Procuradoria da Fazenda Nacional em virtude da alegação de fraude à execução fiscal, como consta da ação popular de fs. 139-143, tendo em vista que as execuções fiscais se encontram em andamento no Tribunal de Justiça de Santa Catarina em que o Estado atua como exequente, sob os ns. 0901940-24.2014.8.24.0039 e 0900414-32.2008.8.24.0039, e naqueles que têm a União como exequente, sob ns. 0000405- 30.2004.8.24.0009 e 0000914-24.2005.8.24.0009. 4. Dar ciência desta Decisão ao Representante, ao Poder Executivo municipal de Lages e aos órgãos de Controle Interno e de Assessoramento Jurídico da Unidade Gestora em tela. Ata n.: 29/2024 Data da Sessão: 09/08/2024 - Ordinária - Virtual Especificação do quórum: Herneus João De Nadal, José Nei Alberton Ascari, Adircélio de Moraes Ferreira Júnior, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Luiz Eduardo Cherem e Aderson Flores Representante do Ministério Público junto ao Tribunal de Contas/SC: Diogo Roberto Ringenberg Conselheiros-Substitutos presentes: Gerson dos Santos Sicca, Cleber Muniz Gavi e Sabrina Nunes Iocken HERNEUS JOÃO DE NADAL Presidente GERSON DOS SANTOS SICCA Relator Fui presente: DIOGO ROBERTO RINGENBERG Procurador-Geral do Ministério Público junto ao Tribunal de Contas/SC Navegantes"
+  },
+  {
+   "i": 7,
+   "tipo": "tce",
+   "ref": "PCP 24/00182650",
+   "header": "⭐ PCP 24/00182650 — Prestação de Contas do Prefeito",
+   "status": "🟢 parecer pela aprovação",
+   "data": "07/01/2025",
+   "texto": "Prefeitura Municipal de Lages Prestação de Contas do Prefeito referente ao exercício de 2023 Antônio Ceron (1º/01 a 02/02 e 20/07 a 31/12/2023) e Juliano Polese Branco (03/02 a 19/07/2023)"
+  },
+  {
+   "i": 8,
+   "tipo": "tce",
+   "ref": "LCC 21/00613248",
+   "header": "⭐ LCC 21/00613248 — Licitações e Contratos",
+   "status": "🟠 cautelar / sustação",
+   "data": "25/08/2022",
+   "texto": "Secretaria Municipal de Águas e Saneamento de Lages - SEMASA Edital de Concorrência Pública04/2021 sobre contratação de Empresa Especializada para Prestação de Serviços Ayrton Tadeu Webber Xavier, Mariana Köche Mattos Buttendorf, Prefeitura Municipal de Lages, Secretaria",
+   "decisao": "decide: 1. Conhecer do Edital de Concorrência Pública n. 04/2021, lançado pela Secretaria Municipal de Águas e Saneamento (SEMASA) de Lages, visando à contratação de empresa especializada para prestação de serviços públicos de engenharia sanitária de manejo de resíduos sólidos no município, nos termos do art. 7º, I, da Instrução Normativa n. TC-21/2015. 2. Manter a medida cautelar concedida pela Decisão Singular n. GAC/CFF-1369/2021 e ratificada pelo Tribunal Pleno (conforme Certidão de Ratificação de Cautelar de f. 124), com base no art. 29 da Instrução Normativa n. TC-21/2015 c/c o art. 114-A do Regimento Interno deste Tribunal de Contas. 3. Determinar, com fundamento no art. 7º, II, da Instrução Normativa n. TC-21/2015, à Secretaria Municipal de Águas e Saneamento (SEMASA) de Lages que promova a retificação do Edital de Concorrência Pública n. 04/2021 e seus anexos, nos aspectos abaixo relacionados, comprovando a medida adotada a esta Corte de Contas, no prazo de até 30 (trinta) dias, a contar da publicação desta deliberação no Diário Oficial Eletrônico do TCE - DOTC-e: 3.1. Disponibilizar aos licitantes, dentre os anexos do edital, a planilha orçamentária detalhada, nos mesmos moldes da que foi previamente encaminhada a este Tribunal de Contas (item 2.1 do Relatório DLC/COSE/Div.3 n. 145/2022); 3.2. Corrigir os itens 16.3.4 e 16.4.2.1 do edital, conforme proposto, de modo que os documentos sejam exigidos somente da licitante vencedora no momento da assinatura do contrato (item 2.2 do Relatório DLC); 3.3. Corrigir o item 16.3.2 do edital, conforme proposto, excluindo exigência indevida quanto aos profissionais requeridos como responsáveis técnicos para habilitação das proponentes (item 2.3 do Relatório DLC); de destinação final dos resíduos de serviços de saúde (item 2.12 do Relatório DLC). 3.4. Corrigir o item 16.4.1 do edital, excluindo a expressão “devidamente registrado na entidade de classe competente”, no que se refere aos Atestados a serem apresentados para fins de comprovação de qualificação técnico-operacional da empresa (item 2.4 do Relatório DLC); 3.5. Corrigir o item 16.6.2 do edital, conforme proposto, de modo que a exigência de grau de endividamento seja igual ou menor que 1,0 (item 2.5 Relatório DLC); 3.6. Corrigir o item 6.1 do edital, conforme proposto, definindo as hipóteses de revisão contratual (item 2.6 do Relatório DLC); 3.7. Corrigir o item 6.2 do edital, conforme proposto, no que se refere ao índice a ser adotado para o reajuste contratual, e incluir, no edital e na minuta do contrato, cláusula com o seguinte teor: “as cláusulas de reajuste podem e devem ser revistas a qualquer tempo, em respeito à prevalência da garantia de manutenção da equação econômico-financeira do contrato” (item 2.7 do Relatório DLC); 3.8. Corrigir o item 16.6.4, “a”, do edital, conforme proposto, no que se refere ao prazo para comprovação da garantia da proposta (item 2.8 do Relatório DLC); 3.9. Corrigir a planilha orçamentária detalhada e o val"
+  },
+  {
+   "i": 9,
+   "tipo": "tce",
+   "ref": "PAP 23/80023063",
+   "header": "⭐ PAP 23/80023063 — Processo de Apuração",
+   "status": "🟠 cautelar / sustação",
+   "data": "23/05/2023",
+   "texto": "Prefeitura Municipal de Lages Possíveis irregularidades afetas ao Pregão Presencial n. 13/2022 ",
+   "decisao": "3.1. CONSIDERAR NÃO ATENDIDOS os critérios de seletividade pelo procedimento apuratório preliminar protocolado, nos termos do art. 5º da Portaria n.º TC-0156/2021 e do art. 9º da Resolução n.º TC-0165/2020; 3.2 NÃO CONCEDER A CAUTELAR por não estar presente o periculum in mora. 3.3. NÃO CONVERTER o presente Procedimento Apuratório Preliminar (PAP) em processo de Representação, em atenção ao parágrafo único do art. 100 da Resolução n.º TC-06/2001 (Regimento Interno). 3.4. NOTIFICAR O CONTROLE INTERNO da Prefeitura de Lages, nos termos do § 1º do art. 9º da Resolução nº TC-165/2020, acerca das circunstâncias noticiadas no Procedimento Apuratório Preliminar, determinando a adoção de providências com vistas ao exato cumprimento da lei, comprovando-as ao Tribunal de Contas no prazo de até 60 dias, relativamente à constatação da DIE/CFTI, conforme exposto no item 2.3.1 deste Relatório relativo a possíveis irregularidades quanto ao direcionamento do certame, ausência de estudos técnicos e devida pesquisa de preço na fase interna do pregão em desconformidade com o art. 3° da Lei 8.666/93 e art. 2°, inciso III da Lei 10.520/02. É o relatório. Passo a decidir. Verifico o atendimento das condições prévias para a análise da seletividade previstas no art. 6º da Resolução nº TC-165/2020, concernentes na competência do TCE/SC para exame da matéria, referência a objeto determinado e situação-problema específica e existência de elementos de convicção sobre a presença de irregularidades para permitir o início da atividade fiscalizatória. A Portaria nº TC-156/2021 regula os critérios e os pesos do procedimento de análise da seletividade. O seu art. 2º define a realização de duas etapas sucessivas, o Índice RROMa e a Matriz GUT. O Índice RROMa deve atingir a pontuação mínima de 50 pontos, para que seja submetido à Matriz GUT, conforme previsto no art. 5º da Portaria. A Matriz GUT deve alcançar o valor mínimo de 48 pontos para que o procedimento seja considerado apto à conversão em Representação, nos termos do art. 10 da Resolução nº TC165/2020. No caso em análise, conforme exame da diretoria técnica, tem-se que não houve o atingimento a pontuação mínima da Matriz GUT: Etapa Pontuação Mínima Pontuação atingida Índice RROMa 50 pontos 62,60 pontos Matriz GUT 48 pontos 18 pontos O corpo técnico sugeriu, portanto, o arquivamento do processo, e apontou ainda, por força do art. 11 da Resolução nº TC- 165/2020, que os argumentos do representante não seriam suficientes para atendimento do pressuposto de perigo na demora para a sustação cautelar da licitação, anotando inclusive o perigo reverso, pois a sustação dos atos decorrentes do contrato pode ensejar em descontinuidade do sistema da Unidade Gestora e, consequentemente, dos serviços púb"
+  },
+  {
+   "i": 10,
+   "tipo": "tce",
+   "ref": "PAP 23/80023063",
+   "header": "⭐ PAP 23/80023063 — Processo de Apuração",
+   "status": "🟠 cautelar / sustação",
+   "data": "06/12/2023",
+   "texto": "Prefeitura Municipal de Lages Supostas irregularidades referentes ao Pregão Presencial n. 13/2022 ",
+   "decisao": "3.1. CONSIDERAR NÃO ATENDIDOS os critérios de seletividade pelo procedimento apuratório preliminar protocolado, nos termos do art. 5º da Portaria n.º TC-0156/2021 e do art. 9º da Resolução n.º TC-0165/2020; 3.2 NÃO CONCEDER A CAUTELAR por não estar presente o periculum in mora. 3.3. NÃO CONVERTER o presente Procedimento Apuratório Preliminar (PAP) em processo de Representação, em atenção ao parágrafo único do art. 100 da Resolução n.º TC-06/2001 (Regimento Interno). 3.4. NOTIFICAR O CONTROLE INTERNO da Prefeitura de Lages, nos termos do § 1º do art. 9º da Resolução nº TC-165/2020, acerca das circunstâncias noticiadas no Procedimento Apuratório Preliminar, determinando a adoção de providências com vistas ao exato cumprimento da lei, comprovando-as ao Tribunal de Contas no prazo de até 60 dias, relativamente à constatação da DIE/CFTI, conforme exposto no item 2.3.1 deste Relatório relativo a possíveis irregularidades quanto ao direcionamento do certame, ausência de estudos técnicos e devida pesquisa de preço na fase interna do pregão em desconformidade com o art. 3° da Lei 8.666/93 e art. 2°, inciso III da Lei 10.520/02. É o relatório. Passo a decidir. Verifico o atendimento das condições prévias para a análise da seletividade previstas no art. 6º da Resolução nº TC-165/2020, concernentes na competência do TCE/SC para exame da matéria, referência a objeto determinado e situação-problema específica e existência de elementos de convicção sobre a presença de irregularidades para permitir o início da atividade fiscalizatória. A Portaria nº TC-156/2021 regula os critérios e os pesos do procedimento de análise da seletividade. O seu art. 2º define a realização de duas etapas sucessivas, o Índice RROMa e a Matriz GUT. O Índice RROMa deve atingir a pontuação mínima de 50 pontos, para que seja submetido à Matriz GUT, conforme previsto no art. 5º da Portaria. A Matriz GUT deve alcançar o valor mínimo de 48 pontos para que o procedimento seja considerado apto à conversão em Representação, nos termos do art. 10 da Resolução nº TC165/2020. No caso em análise, conforme exame da diretoria técnica, tem-se que não houve o atingimento a pontuação mínima da Matriz GUT: Etapa Pontuação Mínima Pontuação atingida Índice RROMa 50 pontos 62,60 pontos Matriz GUT 48 pontos 18 pontos O corpo técnico sugeriu, portanto, o arquivamento do processo, e apontou ainda, por força do art. 11 da Resolução nº TC- 165/2020, que os argumentos do representante não seriam suficientes para atendimento do pressuposto de perigo na demora para a sustação cautelar da licitação, anotando inclusive o perigo reverso, pois a sustação dos atos decorrentes do contrato pode ensejar em descontinuidade do sistema da Unidade Gestora e, consequentemente, dos serviços púb"
+  },
+  {
+   "i": 11,
+   "tipo": "tce",
+   "ref": "PAP 23/80121316",
+   "header": "⭐ PAP 23/80121316 — Processo de Apuração",
+   "status": "🟠 cautelar / sustação",
+   "data": "08/01/2024",
+   "texto": "Prefeitura Municipal de Lages Possíveis irregularidades no Edital de Concorrência Pública 10/2022 - Outorga de Concessão do Serviço Funerário ",
+   "decisao": "3.1. CONSIDERAR atendidas as condições prévias para exame daseletividade do procedimento apuratório preliminar (PAP), nos termos do art. 6º da Resolução nº TC-0165/2020 (item 2.2. deste Relatório). 3.2. AFERIR que no critério de seletividade o procedimento apuratóriopreliminar (PAP) obteve nota 61,60 no índice RROM (mínimo 50) e 75 pontos na Matriz GUT (mínimo 48), em atenção ao art. 5º da Portaria nº TC-0156/2021 e no art. 9º da Resolução nº TC-0165/2020 (item 2.3. deste Relatório).3.3. DETERMINAR a conversão do procedimento apuratório preliminar(PAP) em autos próprios para fiscalização do edital de Concorrência Pública nº 10/2022 PML, para concessão do serviço funerário do município de Lages, nos termos do §2º do art. 9º da Resolução nº TC-0165/2020 (item 2.3. deste Relatório).3.4. CONHECER DA REPRESENTAÇÃO oferecida pelo sr. PauloAugusto Machado, inscrito no CPF/ME sob o nº 052.178.089-69, residente edomiciliado na Rua Ricardo Kupas, nº 95, CEP:89070-830, município de Blumenau – SC, com fundamento no §1º do art. 113 da Lei (federal) nº 8.666/93, contra possíveis irregularidades no edital de Concorrência Pública nº 10/2022 PML, para concessão do serviço funerário do Município de Lages, conforme previsto no §1º do art. 113 da Lei (federal) nº 8.666/93 c/c art. 65 da Lei Complementar (estadual) nº 202/00, pois atendidos os requisitos de admissibilidades previstos no art. 24 da Instrução Normativa nº TC-021/2015 (item 2.4. deste Relatório). 3.5. INFORMAR que o exame de mérito e do pedido de sustação cautelardo certame será realizado no @PAP 23/80120859 (processo principal) (item 2.5. deste Relatório). 3.6. DETERMINAR a VINCULAÇÃO por dependência destes autos ao@PAP 23/80120859 (principal), devido a existência de conexão, nos termos do inc. I do art. 119-C da Resolução nº TC-06/2001 cumulado com o inc. II do art. 25 da Resolução nº TC- 126/2016 (item 2.6. deste Relatório). 3.7. DAR CIÊNCIA deste Relatório e da Decisão ao Demandante, aoResponsável e ao órgão de controle interno do município de Lages. Vieram os autos conclusos. É o relatório. Passo a decidir. Verifico o atendimento das condições prévias para a análise da seletividade previstas no art. 6º da Resolução nº TC-165/2020, concernentes à competência do TCE/SC para exame da matéria, referência a objeto determinado e situação-problema específica e existência de elementos de convicção sobre a presença de irregularidades para permitir o início da atividade fiscalizatória. A Portaria nº TC-156/2021 regula os critérios e os pesos do procedimento de análise da seletividade. O seu art. 2º define a realização de duas etapas sucessivas, o Índice RROMa e a Matriz GUT. O Índice RROMa deve atingir a pontuação mínima de 50 pontos, para que seja submetido à Matriz GUT, conforme previsto no art. 5º da Portaria. A Matriz GUT deve alcançar o valor mínimo de 48 pontos para que o procedimento seja considerado apto à conversão em Representação, nos termos do art. 10 da Resolução nº TC165/2020. No caso em aná"
+  },
+  {
+   "i": 12,
+   "tipo": "tce",
+   "ref": "PAP 23/80122983",
+   "header": "⭐ PAP 23/80122983 — Processo de Apuração",
+   "status": "🟠 cautelar / sustação",
+   "data": "08/01/2024",
+   "texto": "Prefeitura Municipal de Lages Possíveis irregularidades na Concorrência Pública 10/2022 - que objetiva a concessão da exploração dos serviços ",
+   "decisao": "3.1. CONSIDERAR atendidas as condições prévias para exame daseletividade do procedimento apuratório preliminar (PAP), nos termos do art. 6º da Resolução nº TC-0165/2020 (item 2.2. deste Relatório). 3.2. AFERIR que no critério de seletividade o procedimento apuratóriopreliminar (PAP) obteve nota 61,60 no índice RROM (mínimo 50) e 75 pontos na Matriz GUT (mínimo 48), em atenção ao art. 5º da Portaria nº TC-0156/2021 e no art. 9º da Resolução nº TC-0165/2020 (item 2.3. deste Relatório).3.3. DETERMINAR a conversão do procedimento apuratório preliminar(PAP) em autos próprios para fiscalização do edital de Concorrência Pública nº 10/2022 PML, para concessão do serviço funerário do município de Lages, nos termos do §2º do art. 9º da Resolução nº TC-0165/2020 (item 2.3. deste Relatório).3.4. CONHECER DA REPRESENTAÇÃO oferecida pela empresaFunerária São José, pessoa jurídica de direito privado, inscrita no CNPJ número 18.184.620/0001-93, com sede na Rua Raineri Castagna, 92, Bairro Copacabana, CEP 88.504-32, na cidade de Lages/SC, com fundamento no §1º do art. 113 da Lei (federal) nº 8.666/93, contra possíveis irregularidades no edital de Concorrência Pública nº 10/2022 PML, para concessão do serviço funerário do Município de Lages, conforme previsto no §1º do art. 113 da Lei (federal) nº 8.666/93 c/c art. 65 da Lei Complementar (estadual) nº 202/00, pois atendidos os requisitos de admissibilidades previstos no art. 24 da Instrução Normativa nº TC-021/2015 (item 2.4. deste Relatório). 3.5. INFORMAR que o exame de mérito e do pedido de sustação cautelardo certame será realizado no @PAP 23/80120859 (processo principal) (item 2.5. deste Relatório). 3.6. DETERMINAR a VINCULAÇÃO por dependência destes autos ao@PAP 23/80120859 (principal), devido a existência de conexão, nos termos do inc. I do art. 119-C da Resolução nº TC-06/2001 cumulado com o inc. II do art. 25 da Resolução nº TC- 126/2016 (item 2.6. deste Relatório). 3.7. DAR CIÊNCIA deste Relatório e da Decisão ao Demandante, aoResponsável e ao órgão de controle interno do município de Lages. Vieram os autos conclusos. É o relatório. Passo a decidir. Verifico o atendimento das condições prévias para a análise da seletividade previstas no art. 6º da Resolução nº TC-165/2020, concernentes à competência do TCE/SC para exame da matéria, referência a objeto determinado e situação-problema específica e existência de elementos de convicção sobre a presença de irregularidades para permitir o início da atividade fiscalizatória. A Portaria nº TC-156/2021 regula os critérios e os pesos do procedimento de análise da seletividade. O seu art. 2º define a realização de duas etapas sucessivas, o Índice RROMa e a Matriz GUT. O Índice RROMa deve atingir a pontuação mínima de 50 pontos, para que seja submetido à Matriz GUT, conforme previsto no art. 5º da Portaria. A Matriz GUT deve alcançar o valor mínimo de 48 pontos para que o procedimento seja considerado apto à conversão em Representação, nos termos do art. 10 da Resol"
+  },
+  {
+   "i": 13,
+   "tipo": "tce",
+   "ref": "PAP 23/80121235",
+   "header": "⭐ PAP 23/80121235 — Processo de Apuração",
+   "status": "🟠 cautelar / sustação",
+   "data": "08/01/2024",
+   "texto": "Prefeitura Municipal de Lages Possíveis irregularidades no Edital de Concorrência Pública 10/2022 - Outorga de Concessão do Serviço Funerário ",
+   "decisao": "3.1. CONSIDERAR atendidas as condições prévias para exame daseletividade do procedimento apuratório preliminar (PAP), nos termos do art. 6º da Resolução nº TC-0165/2020 (item 2.2. deste Relatório). 3.2. AFERIR que no critério de seletividade o procedimento apuratóriopreliminar (PAP) obteve nota 61,60 no índice RROM (mínimo 50) e 75 pontos na Matriz GUT (mínimo 48), em atenção ao art. 5º da Portaria nº TC-0156/2021 e no art. 9º da Resolução nº TC-0165/2020 (item 2.3. deste Relatório).3.3. DETERMINAR a conversão do procedimento apuratório preliminar(PAP) em autos próprios para fiscalização do edital de Concorrência Pública nº 10/2022 PML, para concessão do serviço funerário do município de Lages, nos termos do §2º do art. 9º da Resolução nº TC-0165/2020 (item 2.3. deste Relatório).3.4. CONHECER DA REPRESENTAÇÃO oferecida pela empresa BomSamaritano Ltda., pessoa jurídica de direito privado, inscrita no CNPJ/ME sob o nº 78.896.016/0001-11, com sede na Rua Lauro Muller nº 614, Centro, Lages/SC, CEP 88.501-131, representado pelo sócio Bernardo de Souza Theodoro, inscrito no CPF/MF sob o nº 386.017.889-04, por meio do advogado Carlos Dilvo dos Santos, inscrito na OAB/SC nº 64.327 (procuração à fl. 03), com fundamento no §1º do art. 113 da Lei (federal) nº 8.666/93, contra possíveis irregularidades no edital de Concorrência Pública nº 10/2022 PML, para concessão do serviço funerário do Município de Lages, conforme previsto no §1º do art. 113 da Lei (federal) nº 8.666/93 c/c art. 65 da Lei Complementar (estadual) nº 202/00, pois atendidos os requisitos de admissibilidades previstos no art. 24 da Instrução Normativa nº TC-021/2015 (item 2.4. deste Relatório). 3.5. INFORMAR que o exame de mérito e do pedido de sustação cautelardo certame será realizado no @PAP-23/80120859 (processo principal) (item 2.5. deste Relatório). 3.6. DETERMINAR a VINCULAÇÃO por dependência destes autos ao@PAP-23/80120859 (principal), devido a existência de conexão, nos termos do inc. I do art. 119-C da Resolução nº TC-06/2001 cumulado com o inc. II do art. 25 da Resolução nº TC- 126/2016 (item 2.6. deste Relatório). 3.7. DAR CIÊNCIA deste Relatório e da Decisão a Demandante, aoResponsável e ao órgão de controle interno do município de Lages. Vieram os autos conclusos. É o relatório. Passo a decidir. Verifico o atendimento das condições prévias para a análise da seletividade previstas no art. 6º da Resolução nº TC-165/2020, concernentes à competência do TCE/SC para exame da matéria, referência a objeto determinado e situação-problema específica e existência de elementos de convicção sobre a presença de irregularidades para permitir o início da atividade fiscalizatória. A Portaria nº TC-156/2021 regula os critérios e os pesos do procedimento de análise da seletividade. O seu art. 2º define a realização de duas etapas sucessivas, o Índice RROMa e a Matriz GUT. O Índice RROMa deve atingir a pontuação mínima de 50 pontos, para que seja submetido à Matriz GUT, conforme previsto no art. 5"
+  },
+  {
+   "i": 14,
+   "tipo": "tce",
+   "ref": "DEN 25/00006012",
+   "header": "⭐ DEN 25/00006012 — Denúncia",
+   "status": "🔴 apontou irregularidade",
+   "data": "24/02/2025",
+   "texto": "Prefeitura Municipal de Joinville | Instituto de Previdência do Município de Lages | Instituto de Previdência Social dos Servidores Públicos do Município de São Bento do Sul Possíveis irregularidades na contratação temporária de servidores para a função de Auxiliar de Educador, em | Registro de Ato de Aposentadoria de Andreia Simone Correa Melo | Registro de Ato de Aposentadoria de Sueli Aparecida Martins | Registro de Ato de Aposentadoria Joseane Dziedicz Instituto de Previdência do Município de Lages - LAGESPREVI, Prefeitura de Lages | Instituto de Previdência Social dos Servidores Públicos do Município de São Bento do Sul, Prefeitura de São",
+   "decisao": "DECIDO: 1 – Converter o procedimento em Relatório de Inspeção (RLI), na forma do art. 10, I, da Resolução nº TC – 0165/2020, tendo em vista o alcance dos critérios de seletividade dispostos no mesmo diploma normativo. 2 – Determinar a realização de diligência à Prefeitura Municipal de Joinville, na pessoa do seu atual gestor, para que, no prazo de 30 (trinta) dias, a contar da publicação da Decisão no Diário Oficial Eletrônico do Tribunal de Contas (DOTC-e): 2.1 – envie a relação entre a quantidade de servidores efetivos e contratados temporariamente, referente ao mês de janeiro/2025, no cargo de Auxiliar de Educador, no seguinte formato: Quantidade de cargos prevista Quantidade de servidores Quantidade de servidores Cargo em lei efetivos em exercício contratados temporariamente Auxiliar de Educador 2.2 – envie documentos e informações que elucidem a motivação das contratações temporárias realizadas para a função de Auxiliar de Educador, tendo em vista que o elevado quantitativo verificado em relação a dezembro/2024 indica possível desvirtuamento da transitoriedade inerente à modalidade de contratação; 2.3 – remeta outros documentos e informações que entender pertinentes. 3 – Alertar, desde já, que o não-atendimento à diligência é suscetível de aplicação da multa prevista no art. 70, III, da Lei Complementar (estadual) nº 202/2000, no modo previsto no art. 109, § 3º, do Regimento Interno do Tribunal de Contas. 4 – Dar ciência à Prefeitura Municipal de Joinville, na pessoa do seu atual gestor, bem como à assessoria jurídica e ao órgão de controle interno da unidade gestora. Gabinete, data da assinatura digital. Gerson dos Santos Sicca Relator Lages PROCESSO Nº: @APE-22/00677590 UNIDADE GESTORA: Instituto de Previdência do Município de Lages RESPONSÁVEL: Aldo da Silva Honório e Roselainy Lima Lopes INTERESSADOS: Instituto de Previdência do Município de Lages - LAGESPREVI, Prefeitura de Lages ASSUNTO: Registro de Ato de Aposentadoria de Andreia Simone Correa Melo RELATOR: Conselheiro Aderson Flores UNIDADE TÉCNICA: Divisão 7 - DAP/CAPE III/DIV7 DECISÃO SINGULAR: GAC/AF - 312/2025 Tratam os autos de ato de aposentadoria submetido à apreciação deste Tribunal de Contas, nos termos em que dispõem os arts. 59, III, da Constituição Estadual, 1º, IV, da Lei Complementar Estadual n° 202/2000, 1º, IV, do Regimento Interno do Tribunal de Contas - Resolução n° TC-6/2001, e a Resolução n° TC-35/2008. A Diretoria de Atos de Pessoal, por meio do Relatório nº DAP-58/2025 (fls. 60/63), sugeriu ordenar o registro do ato em questão, dada a regularidade deste. Instado a se manifestar, o Ministério Público de Contas, mediante o parecer nº MPC/SRF/147/2025 (fl. 64), acompanhou o posicionamento emitido pela DAP. Em seguida veio o processo, na forma regimental, para decisão. Considerando-se o Relatório Técnico emitido pela Diretoria de Controle"
+  },
+  {
+   "i": 15,
+   "tipo": "tce",
+   "ref": "PPA 21/00658772",
+   "header": "⭐ PPA 21/00658772 — Parecer Prévio (Contas Anuais)",
+   "status": "🔴 apontou irregularidade",
+   "data": "17/02/2022",
+   "texto": "Instituto de Previdência do Município de Lages - LAGESPREVI | Prefeitura Municipal de Navegantes Registro do Ato de Pensão e Auxílio Especial ELIO DOS SANTOS ANDRADE | Representação acerca de supostas irregularidades referentes ao Pregão Eletrônico n. 61/2021 - Serviços de limpeza urbana Libardoni Lauro Claudino Fronza e Franciele Justino",
+   "decisao": "decide: 1. Considerar procedentes os fatos representados nos presentes autos, de acordo com o art. 27 da Instrução Normativa n. TC-21/2015, deixando-se de aplicar sanção ou recomendação em razão da correção do Edital de Pregão Eletrônico n. 61/2021 pela Prefeitura Municipal de Navegantes, em atendimento à Decisão Singular GAC/HJN n. 702/2021 (fs. 312 a 324). 2. Considerar improcedentes os fatos representados por meio dos Processos ns. @REP-21/00515076 e @REP-21/00563631. 3. Dar ciência desta Decisão, bem como do Relatório e Voto do Relator que a fundamentam, à Representante, aos Responsáveis supranominados, ao Órgão de Controle Interno da Administração Municipal de Navegantes e à Procuradoria Jurídica daquele Município. 4. Determinar o arquivamento dos Processos ns. @REP-21/00450195, @REP-21/00515076 e @REP-21/00563631. Ata n.: 1/2022 Data da Sessão: 26/01/2022 - Ordinária - Virtual Especificação do quórum: Adircélio de Moraes Ferreira Júnior, Herneus João De Nadal, José Nei Alberton Ascari, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Cesar Filomeno Fontes e Luiz Eduardo Cherem Representante do Ministério Público de Contas/SC: Cibelly Farias Conselheiro-Substituto presente: Cleber Muniz Gavi ADIRCÉLIO DE MORAES FERREIRA JÚNIOR Presidente HERNEUS JOÃO DE NADAL Relator Fui presente: CIBELLY FARIAS Procuradora-Geral do Ministério Público de Contas/SC São Bento do Sul"
+  },
+  {
+   "i": 16,
+   "tipo": "tce",
+   "ref": "LCC 22/00206636",
+   "header": "⭐ LCC 22/00206636 — Licitações e Contratos",
+   "status": "🟠 cautelar / sustação",
+   "data": "12/04/2022",
+   "texto": "Prefeitura Municipal de Lages Contratação de Empresa de Engenharia para Construção do CEIM Jardim Celina Ana Paula Castro Flores, Prefeitura Municipal de Lages",
+   "decisao": "Diante do exposto, DECIDO acolher o entendimento exarado pela Diretoria de Licitações e Contratações, para: Conhecer do Relatório DLC-282/2022 que analisou o Edital de Concorrência Pública 02/2022, lançado pela Prefeitura Municipal de Lages, que visa à contratação de empresa de engenharia para construção do Centro de Educação Infantil Municipal Jardim Celina. Determinar, cautelarmente, ao Sr. Antônio César Alves de Arruda, Secretário de Administração e Fazenda do Município de Lages e subscritor do edital, com base no art. 29 da Instrução Normativa N.TC-21/2015 c/c o art. 114-A do Regimento Interno deste Tribunal de Contas, a sustação do Edital de Concorrência Pública 02/2022 (abertura em 09/05/2022), até manifestação ulterior que revogue a medida ex officio, ou até a deliberação pelo Egrégio Tribunal Pleno, em face das seguintes irregularidades: Projeto básico incompleto, contrariando o art. 6º, IX c/c § 2º do art. 7º da Lei (federal) 8.666/1993 (item 2.1 do Relatório DLC-282/2022); Elaboração de projeto básico pela empresa contratada para execução da obra, em inobservância ao art. 9º da Lei (federal) 8.666/1993 (item 2.2 do Relatório DLC-282/2022); Orçamento impropriamente avaliado, contrariando o art. 6º, IX, f, da Lei (federal) 8666/1993 (item 2.3 do Relatório DLC-282/2022). Determinar a audiência dos Srs. Antônio César Alves de Arruda, já qualificado, Fabiano Marcelino de Sá, Presidente da Comissão de Licitação e subscritor do edital e da Sra. Gisele Furtado Dornelles, membro da Comissão de Licitação e também subscritora do edital, para que, no prazo de 30 dias a contar do recebimento desta Decisão, nos termos do art. 29, §1º da Lei Complementar (estadual) 202/2000 e art. 5º, II da Instrução Normativa N.TC-21/2015, apresente justificativas, adote as medidas corretivas necessárias ao exato cumprimento da lei ou promova a anulação da licitação, se for o caso, em razão das irregularidades listadas no item 2 desta Deliberação. Submeter a decisão de concessão da cautelar, à ratificação do Tribunal Pleno, em atendimento ao § 1º do art. 114-A do Regimento Interno. Dar ciência desta Decisão e do Relatório DLC-282/2022 à Prefeitura Municipal de Lages, à sua Assessoria Jurídica e ao Controle Interno do Município. Florianópolis, 11 de abril de 2022. CESAR FILOMENO FONTES Conselheiro Relator Major Vieira"
+  },
+  {
+   "i": 17,
+   "tipo": "tce",
+   "ref": "PCP 23/00147208",
+   "header": "⭐ PCP 23/00147208 — Prestação de Contas do Prefeito",
+   "status": "🟢 parecer pela aprovação",
+   "data": "10/01/2024",
+   "texto": "Prefeitura Municipal de Lages Prestação de Contas do Prefeito referente ao exercício de 2022 "
+  },
+  {
+   "i": 18,
+   "tipo": "tce",
+   "ref": "REP 23/80069802",
+   "header": "⭐ REP 23/80069802 — Representação",
+   "status": "❔ em tramitação",
+   "data": "18/03/2024",
+   "texto": "Prefeitura Municipal de Lages Representação acerca de supostas irregularidades referentes ao Edital de Concorrência Pública n. 10/2022 PML - ",
+   "decisao": "decide: 1. Considerar procedente a Representação proposta pela Funerária Nossa Senhora do Rosário Ltda., acerca de irregularidades relativas Edital de Concorrência Pública n. 10/2022, promovido pela Prefeitura Municipal de Lages, que visa à seleção de 8 (oito) empresas para a delegação da concessão para prestação e exploração do serviço funerário no Município de Lages, nos termos do art. 27, parágrafo único da Instrução Normativa n. TC-021/2015, a seguir descritas: 1.1. Existência de 1 (uma) célula bloqueada na planilha 19 do Anexo_III2_Instr_Prop_Finan que inviabiliza o preenchimento da proposta nos termos estabelecidos no edital, em desacordo com o art. 18 da Lei n. 8.987/1995 (subitem 2.1 do Relatório DLC/CCON/Div.9 n. 934/2023); 1.2. Existência de inconsistências entre o edital, os anexos e as planilhas do fluxo de caixa, em afronta aos arts. 18 da Lei n. 8.987/1995 e 40, § 2º, II, da Lei n. 8.666/1993 (subitem 2.2 do Relatório DLC). 2. Recomendar à Prefeitura de Lages, em futuros editais, na fase interna da licitação, atente para possíveis inconsistências entre os termos do edital e seus anexos, o que pode prejudicar a elaboração de propostas pelos licitantes. 3. Dar ciência desta Decisão, do Relatório e do Voto do Relator que a fundamentam, bem como do Relatório DLC/CCON/Div.9 n. 934/2023, à empresa Representante, aos procuradores constituídos nos autos, à Prefeitura Municipal de Lages e ao Controle Interno e à Assessoria Jurídica daquela Unidade Gestora. Ata n.: 6/2024 Data da Sessão: 28/02/2024 - Ordinária - Virtual Especificação do quórum: Herneus João De Nadal, José Nei Alberton Ascari, Adircélio de Moraes Ferreira Júnior, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Luiz Eduardo Cherem e Aderson Flores Representante do Ministério Público junto ao Tribunal de Contas/SC: Diogo Roberto Ringenberg Conselheiros-Substitutos presentes: Gerson dos Santos Sicca, Cleber Muniz Gavi e Sabrina Nunes Iocken HERNEUS JOÃO DE NADAL Presidente GERSON DOS SANTOS SICCA Relator Fui presente: DIOGO ROBERTO RINGENBERG Procurador-Geral do Ministério Público junto ao Tribunal de Contas/SC Lajeado Grande"
+  },
+  {
+   "i": 19,
+   "tipo": "tce",
+   "ref": "DEN 23/80063952",
+   "header": "⭐ DEN 23/80063952 — Denúncia",
+   "status": "❔ em tramitação",
+   "data": "19/12/2024",
+   "texto": "Prefeitura Municipal de Lages Denúncia acerca de supostas irregularidades referentes ao provimento de cargos em comissão na ausência de gozo José Samuel Nercolini",
+   "decisao": "decide: 1. Não conhecer da Denúncia, nos termos dos arts. 96, § 3º, da Resolução n. TC-06/01, autuada em face de supostas irregularidades relacionadas ao provimento de cargos em comissão na ausência de gozo de direitos políticos e à ocorrência de nepotismo na Prefeitura Municipal de Lages, em razão da ausência de indícios quanto à presença das possíveis irregularidades noticiadas. 2. Reconhecer a incidência da prescrição punitiva em relação ao alegado nepotismo, na forma dos arts. 83-A, caput, e 83-B, III, da Lei Complementar (estadual) n. 202/2000, tendo em vista o decurso de prazo superior a cinco anos entre a data da cessação da irregularidade e a data do protocolo da Denúncia, extinguindo-se o processo sem julgamento de mérito (art. 83-A, §2º, da Lei Complementar - estadual - n. 202/2000). 3. Dar ciência desta Decisão, do Relatório e Voto do Relator que a fundamentam, bem como do Relatório DAP/CAPE-IV/Div.9 n. 3014/2024, ao Interessado retronominado, à Prefeitura Municipal de Lages e à Assessoria Jurídica e ao responsável pelo Controle Interno daquela Unidade Gestora. 4. Determinar o arquivamento dos autos. Ata n.: 46/2024 Data da Sessão: 06/12/2024 - Ordinária - Virtual Especificação do quórum: José Nei Alberton Ascari, Adircélio de Moraes Ferreira Júnior, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Luiz Eduardo Cherem, Aderson Flores e Gerson dos Santos Sicca (art. 86, caput, da LC n. 202/2000) Representante do Ministério Público junto ao Tribunal de Contas/SC: Cibelly Farias Conselheiros-Substitutos presentes: Cleber Muniz Gavi e Sabrina Nunes Iocken JOSÉ NEI ALBERTON ASCARI Presidente (art. 91, I, da LC n. 202/2000) GERSON DOS SANTOS SICCA Relator Fui presente: CIBELLY FARIAS Procuradora-Geral do Ministério Público junto ao Tribunal de Contas/SC Palhoça"
+  },
+  {
+   "i": 20,
+   "tipo": "tce",
+   "ref": "PCP 24/00472062",
+   "header": "⭐ PCP 24/00472062 — Prestação de Contas do Prefeito",
+   "status": "🟢 parecer pela aprovação",
+   "data": "14/01/2025",
+   "texto": "Prefeitura Municipal de Jaguaruna | Instituto de Previdência do Município de Lages | Instituto de Previdência Social dos Servidores Públicos do Município de São Bento do Sul Prestação de Contas do Prefeito referente ao exercício de 2023 | Registro de Ato de Aposentadoria de Neci Aparecida Rodrigues Branco | Registro de Ato de Aposentadoria de Osni Vieira Ramos Prefeitura Municipal de Lages | Prefeitura de São Bento do Sul",
+   "decisao": "DECIDO: 1. ORDENAR O REGISTRO, nos termos do artigo 34, inciso II, combinado com o artigo 36, § 2º, alínea 'b', da Lei Complementar Estadual nº 202/2000, do ato de aposentadoria de NECI APARECIDA RODRIGUES BRANCO, servidora da Prefeitura de Lages, ocupante do cargo de Professor, nível/classe 03, referência III, matrícula nº 19273/1, CPF nº 019.135.379-51, consubstanciado no Ato nº 19.766/2022, de 29-7-2022, considerado legal conforme análise realizada. 2. DAR CIÊNCIA da Decisão ao Instituto de Previdência do Município de Lages - LAGESPREVI. Florianópolis, 19 de dezembro de 2024. (assinado digitalmente) ADERSON FLORES Conselheiro Relator São Bento do Sul PROCESSO Nº: @APE-22/00691909 UNIDADE GESTORA: Instituto de Previdência Social dos Servidores Públicos do Município de São Bento do Sul RESPONSÁVEL: Antônio Joaquim Tomazini Filho – Prefeito INTERESSADOS: Prefeitura de São Bento do Sul ASSUNTO: Registro de Ato de Aposentadoria de Osni Vieira Ramos RELATOR: Conselheiro Aderson Flores UNIDADE TÉCNICA: Divisão 7 - DAP/CAPE III/DIV7 DECISÃO SINGULAR: GAC/AF - 2292/2024 Tratam os autos de ato de aposentadoria submetido à apreciação deste Tribunal de Contas,nos termos em que dispõem os arts. 59, III, da Constituição Estadual, 1º, IV, da Lei Complementar Estadual n° 202/2000, 1º, IV, do Regimento Interno do Tribunal de Contas - Resolução n° TC-6/2001, e a Resolução n° TC-35/2008. A Diretoria de Atos de Pessoal, por meio do Relatório nº DAP-4577/2024 (fls. 40/43), sugeriu ordenar o registro do ato em questão, dada a regularidade deste. Instado a se manifestar, o Ministério Público de Contas, mediante o Parecer n° MPC/CF/1982/2024 (fl. 44), acompanhou o posicionamento emitido pela DAP. Em seguida veio o processo, na forma regimental, para decisão. Considerando-se o Relatório Técnico emitido pela Diretoria de Controle de Atos de Pessoal e o Parecer do Ministério Público de Contas, acima mencionados, DECIDO: 1. ORDENAR O REGISTRO, nos termos do artigo 34, inciso II, combinado com o artigo 36, § 2º, alínea 'b', da Lei Complementar Estadual nº 202/2000, do ato de aposentadoria de OSNI VIEIRA RAMOS, servidor da Prefeitura de São Bento do Sul, ocupante do cargo de Auxiliar de Serviços, Grupo Ocupacional 01 - em extinção, Nível I, Classe A, matrícula nº 43045, CPF nº 023.275.099-80, consubstanciado no Ato nº 5535/2022, de 3-10-2022, considerado legal conforme análise realizada. 2. DAR CIÊNCIA da Decisão ao Instituto de Previdência Social dos Servidores Públicos do Município de São Bento do Sul - IPRESBS. Florianópolis, 19 de dezembro de 2024. (assinado digitalmente) ADERSON FLORES Conselheiro Relator São Lourenço do Oeste"
+  },
+  {
+   "i": 21,
+   "tipo": "tce",
+   "ref": "REP 23/80023063",
+   "header": "⭐ REP 23/80023063 — Representação",
+   "status": "⬛ julgado irregular + multa",
+   "data": "21/05/2025",
+   "texto": "Prefeitura Municipal de Lages Representação acerca de supostas irregularidades referentes ao Edital do Pregão Presencial n. 13/2022 - Atualização Juliano Polese Branco, Antônio César Alves de Arruda e Henrique Roberto Arruda Menegueli",
+   "decisao": "ACORDAM os Conselheiros do Tribunal de Contas do Estado de Santa Catarina, reunidos em Sessão Plenária, diante das razões apresentadas pelo Relator e com fulcro nos arts. 59 (e 113) da Constituição Estadual e 1º da Lei Complementar (estadual) n. 202/2000: 1. Considerar parcialmente procedente a Representação formulada por Kaio Jhonatan Farias em face de supostas irregularidades no Edital de Pregão Presencial n. 13/2022, que teve como objeto a atualização de sistema de gestão para a Prefeitura Municipal de Lages e que culminou no Contrato de Prestação de Serviços n. 16/2023, celebrado entre a Prefeitura Municipal de Lages e a empresa Betha Sistemas Ltda., no valor de R$ 2.673.336,00, para a prestação do serviço pelo prazo de 12 (doze) meses, nos termos do art. 27, parágrafo único, da Instrução Normativa n. TC-021/2015, e considerar irregular a ausência da pesquisa de preços, afrontando o art. 3°, III, da Lei n. 10.520/2002 (item 2.3 do Relatório DIE/CFTI n. 145/2024). 2. Aplicar ao Sr. Antônio César Alves de Arruda, Secretário de Administração e subscritor do Edital do Pregão Presencial n. 13/2022, com fundamento no art. 70, III e § 1º, da Lei Complementar (estadual) n. 202/2000 c/c o art. 109, III e § 1º, do Regimento Interno desta Casa, a multa no valor de R$ 5.733,42 (cinco mil, setecentos e trinta e três reais e quarenta e dois centavos), em face da irregularidade descrita no item 1 deste Acórdão, fixando-lhe o prazo de 30 (trinta) dias, a contar da publicação deste Acórdão no Diário Oficial Eletrônico desta Corte de Contas, para comprovar ao Tribunal o recolhimento ao Tesouro do Estado da multa cominada, ou interpor recurso na forma da lei, sem o quê, fica desde logo autorizado o encaminhamento da dívida para cobrança judicial, observado o disposto nos arts. 43, II, e 71 da referida Lei Complementar. 3. Recomendar à Prefeitura Municipal de Lages que, na hipótese de avaliação de prorrogação do contrato, a Unidade Gestora necessariamente efetue ampla pesquisa de preços, a fim de comprovar a vantajosidade da medida, ou, em outro sentido, a necessidade de realização de nova licitação. 4. Dar ciência deste Acórdão, do Relatório e Voto do Relator que o fundamentam, bem como do Relatório DIE/CFTI n. 145/2024, ao Interessado retronominado, ao Sr. Antônio César Alves de Arruda, à empresa Betha Sistemas Ltda., aos procuradores constituídos nos autos, à Prefeitura Municipal de Lages e à Secretaria de Administração, ao Controle Interno e à Assessoria Jurídica daquela Unidade Gestora. Ata n.: 14/2025 Data da Sessão: 02/05/2025 - Ordinária - Virtual Especificação do quórum: Herneus João De Nadal, José Nei Alberton Ascari, Adircélio de Moraes Ferreira Júnior, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Luiz Eduardo Cherem e Aderson Flores Representante do Ministério Público junto ao Tribunal de Contas/SC: Cibelly Farias Conselheiros-Substitutos presentes: Gerson dos Santos Sicca, Cleber Muniz Gavi e Sabrina Nunes Iocken HERNEUS JOÃO DE NADAL Presidente"
+  },
+  {
+   "i": 22,
+   "tipo": "tce",
+   "ref": "REP 24/80080131",
+   "header": "⭐ REP 24/80080131 — Representação",
+   "status": "⬛ julgado irregular + multa",
+   "data": "24/10/2025",
+   "texto": "Prefeitura Municipal de Lages | Prefeitura de Mafra Representação acerca de supostas irregularidades referentes aos Pregões Eletrônicos ns. 97 e 194/2023 - Aquisição | Pregão Eletrônico nº 43/2025 – Contratação de empresa especializada na prestação de serviços de limpeza urbana, Sérgio Antônio Silva Todeschini, Newton Silveira Júnior e Marcos Alexandre Lopes do Patrocínio | Luiz Vidal da Silva Júnior, Ana Cássia Gatelli Pscheidt, Gustavo Fernandes Siqueira",
+   "decisao": "ACORDAM os Conselheiros do Tribunal de Contas do Estado de Santa Catarina, reunidos em Sessão Plenária, diante das razões apresentadas pelo Relator e com fulcro nos arts. 59 (e 113) da Constituição Estadual e 1º da Lei Complementar (estadual) n. 202/2000: 1. Considerar procedente a Representação formulada pelo Procurador Diogo Roberto Ringenberg, do Ministério Público junto a este Tribunal de Contas, em face de possíveis irregularidades referentes aos Pregões Eletrônicos ns. 97 e 194/2023, da Prefeitura Municipal de Lages, que visam ao Registro de Preços para contratação de empresa para fornecimento e instalação de defensas metálicas simples semimaleáveis, com sinalizador e suporte para fixação de placas, para melhorias da sinalização de trânsito, e considerar irregular a ausência de Projeto Básico e executivo, contrariando ao disposto no art. 7°, § 2°, I, c/c o art. 6°, IX e X, da Lei n. 8.666/93 (item 2 do Relatório DLC/COSE/Div.2 n. 554/2025). 2. Aplicar aos Responsáveis abaixo nominados, com fundamento no art. 70, II, da Lei Complementar (estadual) n. 202/2000 c/c o art. 109, II, do Regimento Interno desta Casa, as multas a seguir especificadas, em face da irregularidade acima descrita, fixando-lhes o prazo de 30 (trinta) dias, a contar da publicação deste Acórdão no Diário Oficial Eletrônico desta Corte de Contas – DOTC-e -, para comprovarem a este Tribunal o recolhimento ao Tesouro do Estado das multas cominadas, ou interporem recurso na forma da lei, sem o quê, fica desde logo autorizado o encaminhamento da dívida para cobrança judicial, observado o disposto nos arts. 43, II, e 71 da citada Lei Complementar: 2.1. ao Sr. NEWTON SILVEIRA JÚNIOR, Executivo de Trânsito, a multa no valor de R$ 2.293,37 (dois mil, duzentos e noventa e três reais e trinta e sete centavos); 2.2. ao Sr. MARCOS ALEXANDRE LOPES DO PATROCÍNIO, Assessor de Gestão da Diretran, a multa no valor de R$ 2.293,37 (dois mil, duzentos e noventa e três reais e trinta e sete centavos); 2.3. ao Sr. SÉRGIO ANTÔNIO SILVA TODESCHINI, Diretor de Engenharia de Trânsito e Fiscalização, a multa no valor de R$ 2.293,37 (dois mil, duzentos e noventa e três reais e trinta e sete centavos). 3. Dar ciência deste Acórdão, do Relatório e Voto do Relator que o fundamentam, bem como do Relatório DLC/COSE/Div.2 n. 554/2025): 3.1. ao Sr. Diogo Roberto Ringenberg; 3.2. ao Ministério Público junto a este Tribunal de Contas; 3.3. à Prefeitura do Município de Lages; 3.4. ao procurador constituído nos autos; 3.5. aos Responsáveis supranominados; e 3.6. ao Controle Interno e à Assessoria Jurídica da Unidade Gestora em tela. Ata n.: 37/2025 Data da Sessão: 10/10/2025 - Ordinária - Virtual Especificação do quórum: Herneus João De Nadal, José Nei Alberton Ascari, Adircélio de Moraes Ferreira Júnior, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Luiz Eduardo Cherem e Aderson Flores Representante do Ministério Público junto ao Tribunal de Contas/SC: Sérgio Ramos Filho Conselheiros-Substitutos presentes: Gers"
+  },
+  {
+   "i": 23,
+   "tipo": "tce",
+   "ref": "PCP 25/00104022",
+   "header": "⭐ PCP 25/00104022 — Prestação de Contas do Prefeito",
+   "status": "🟢 parecer pela aprovação",
+   "data": "16/01/2026",
+   "texto": "Prefeitura Municipal de Lages Prestação de Contas do Prefeito referente ao exercício de 2024 "
+  },
+  {
+   "i": 24,
+   "tipo": "tce",
+   "ref": "PAP 22/80009476",
+   "header": "⭐ PAP 22/80009476 — Processo de Apuração",
+   "status": "🔴 apontou irregularidade",
+   "data": "19/04/2022",
+   "texto": "Prefeitura Municipal de Lages Questionário PAP - Possíveis irregularidades concernentes ao prazo contratual da concessão do serviço de transporte público Câmara Municipal de Lages, Gerson Omar dos Santos, Leandro Branco Lemos do Nascimento, Prefeitura Municipal de",
+   "decisao": "DECIDO: 1. Determinar o arquivamento dos autos, com fundamento no art. 7º, I, da Resolução N. TC-165/2020, por não preencher requisito previsto no art. 6º, inciso III, da mesma Norma. 2. Dar ciência da presente Decisão ao demandante e ao Controle Interno da Prefeitura Municipal de Lages. Florianópolis, 13 de abril de 2022. CÉSAR FILOMENO FONTES Conselheiro Relator São João Batista"
+  },
+  {
+   "i": 25,
+   "tipo": "tce",
+   "ref": "LCC 21/00613248",
+   "header": "⭐ LCC 21/00613248 — Licitações e Contratos",
+   "status": "🟠 cautelar / sustação",
+   "data": "13/01/2023",
+   "texto": "Secretaria Municipal de Águas e Saneamento de Lages - Semasa Edital de Concorrência Pública 04/2021 sobre contratação de Empresa Especializada para Prestação de Serviços Ayrton Tadeu Webber Xavier, Mariana Köche Mattos Buttendorf, Prefeitura Municipal de Lages, Taise",
+   "decisao": "decide: 1. Conhecer do Edital de Concorrência Pública n. 04/2021, lançado pela Secretaria Municipal de Águas e Saneamento (SEMASA) de Lages, visando à contratação de empresa especializada para prestação de serviços públicos de engenharia sanitária de manejo de resíduos sólidos no município, nos termos do art. 7º, I, da Instrução Normativa n. TC-21/2015. 2. Manter a medida cautelar concedida pela Decisão Singular n. GAC/CFF-1369/2021 e ratificada pelo Tribunal Pleno (conforme Certidão de Ratificação de Cautelar de f. 124), com base no art. 29 da Instrução Normativa n. TC-21/2015 c/c o art. 114-A do Regimento Interno deste Tribunal de Contas. 3. Determinar, com fundamento no art. 7º, II, da Instrução Normativa n. TC-21/2015, à Secretaria Municipal de Águas e Saneamento (SEMASA) de Lages que promova a retificação do Edital de Concorrência Pública n. 04/2021 e seus anexos, nos aspectos abaixo relacionados, comprovando a medida adotada a esta Corte de Contas, no prazo de até 30 (trinta) dias, a contar da publicação desta deliberação no Diário Oficial Eletrônico do TCE - DOTC-e: 3.1. Disponibilizar aos licitantes, dentre os anexos do edital, a planilha orçamentária detalhada, nos mesmos moldes da que foi previamente encaminhada a este Tribunal de Contas (item 2.1 do Relatório DLC/COSE/Div.3 n. 145/2022); 3.2. Corrigir os itens 16.3.4 e 16.4.2.1 do edital, conforme proposto, de modo que os documentos sejam exigidos somente da licitante vencedora no momento da assinatura do contrato (item 2.2 do Relatório DLC); 3.3. Corrigir o item 16.3.2 do edital, conforme proposto, excluindo exigência indevida quanto aos profissionais requeridos como responsáveis técnicos para habilitação das proponentes (item 2.3 do Relatório DLC); de destinação final dos resíduos de serviços de saúde (item 2.12 do Relatório DLC). 3.4. Corrigir o item 16.4.1 do edital, excluindo a expressão “devidamente registrado na entidade de classe competente”, no que se refere aos Atestados a serem apresentados para fins de comprovação de qualificação técnico-operacional da empresa (item 2.4 do Relatório DLC); 3.5. Corrigir o item 16.6.2 do edital, conforme proposto, de modo que a exigência de grau de endividamento seja igual ou menor que 1,0 (item 2.5 Relatório DLC); 3.6. Corrigir o item 6.1 do edital, conforme proposto, definindo as hipóteses de revisão contratual (item 2.6 do Relatório DLC); 3.7. Corrigir o item 6.2 do edital, conforme proposto, no que se refere ao índice a ser adotado para o reajuste contratual, e incluir, no edital e na minuta do contrato, cláusula com o seguinte teor: “as cláusulas de reajuste podem e devem ser revistas a qualquer tempo, em respeito à prevalência da garantia de manutenção da equação econômico-financeira do contrato” (item 2.7 do Relatório DLC); 3.8. Corrigir o item 16.6.4, “a”, do edital, conforme proposto, no que se refere ao prazo para comprovação da garantia da proposta (item 2.8 do Relatório DLC); 3.9. Corrigir a planilha orçamentária detalhada e o val"
+  },
+  {
+   "i": 26,
+   "tipo": "tce",
+   "ref": "PAP 23/80069802",
+   "header": "⭐ PAP 23/80069802 — Processo de Apuração",
+   "status": "🟠 cautelar / sustação",
+   "data": "17/08/2023",
+   "texto": "Prefeitura Municipal de Lages Possíveis irregularidades na Concorrência Pública 10/2022 PML, que objetiva a concessão da exploração dos ",
+   "decisao": "3.1. CONSIDERAR atendidas as condições prévias para exame da seletividade do Procedimento Apuratório Preliminar (PAP), nos termos do art. 6º da Resolução nº TC-0165/2020 (subitem 2.2. deste Relatório). 3.2. AFERIR que no critério de seletividade o procedimento apuratório preliminar (PAP) obteve nota 56,60 no índice RROM (mínimo 50) e 60 pontos na Matriz GUT (mínimo 48), em atenção ao art. 5º da Portaria nº TC-0156/2021 e no art. 9º da Resolução nº TC-0165/2020 (subitem 2.3. deste Relatório). 3.3. DETERMINAR a conversão do procedimento apuratório preliminar (PAP) em autos próprios para fiscalização de supostas irregularidades na execução dos contratos decorrentes do edital de Concorrência nº Pública nº 10/2023 PML que objetiva a seleção de 8 (oito) empresas para a delegação da Concessão para prestação e exploração do serviço funerário no Município de Lages, nos termos do §2º do art. 9º da Resolução nº TC-0165/2020 (subitem 2.3. deste Relatório). 3.4. CONHECER REPRESENTAÇÃO oferecida pela empresa FUNERÁRIA NOSSA SENHORA DO ROSÁRIO LTDA, inscrita no CNPJ sob nº 81.624.017/0001-11, sediada à Rua São Joaquim, nº 1.238, Bairro Copacabana, Lages/SC, representado pelo inventariante Sr. Pablo Henri de Souza Theodoro, brasileiro, solteiro, empresário, inscrito no CPF sob n. 049.132.869-94, com fundamento no §1º do art. 113 da Lei (federal) nº 8.666/93, contra supostas irregularidades no edital de Concorrência nº Pública nº 10/2023 PML que objetiva a seleção de 8 (oito) empresas para a delegação da Concessão para prestação e exploração do serviço funerário no Município de Lages, conforme previsto no §1º do art. 113 da Lei (federal) nº 8.666/93 c/c art. 65 da Lei Complementar (estadual) nº 202/00, pois atendidos os requisitos de admissibilidades previstos no inc. I e caput do art. 24 da Instrução Normativa nº TC-021/2015 (subitem 2.5. deste Relatório). 3.5. INDEFERIR O REQUERIMENTO DE MEDIDA CAUTELAR formulado, tendo em vista a inexistência dos pressupostos necessários para concessão da medida. 3.6. DETERMINAR AUDIÊNCIA do sr. Juliano Polesse Branco, Prefeito Interino Municipal de Lages e subscritor do Edital, inscrito no CPF/ME sob o nº 944.911.519-20, para que, inc. I do §5º do art. 114-A da Resolução nº TC-06/2001 (Regimento Interno), no prazo máximo de 05 (cinco) dias, a contar do recebimento desta deliberação, com fulcro na alínea “a” do inc. I do art. 46 da Lei Complementar (estadual) nº 202/2000, apresente justificativas, adote as medidas corretivas necessárias ao exato cumprimento da Lei ou promova a anulação da licitação, se for o caso, em face das seguintes irregularidades, ensejadoras da aplicação de multa prevista no art. 70 da Lei Complementar (estadual) nº 202/2000: 3.6.1. Existência de inconsistências entre o edital, os anexos e as planilhas do fluxo de caixa, em afronta ao art. 18 da Lei nº 8.987/1995, bem como, ao art. 40, § 2º, inciso II da Lei nº 8.666/1993. (subitem 2.5.3. deste Relatório) 3.6.2. Existência de 1 (uma) célula bloqueada na"
+  },
+  {
+   "i": 27,
+   "tipo": "tce",
+   "ref": "PAP 23/80096290",
+   "header": "⭐ PAP 23/80096290 — Processo de Apuração",
+   "status": "🔴 apontou irregularidade",
+   "data": "11/12/2023",
+   "texto": "Prefeitura Municipal de Lages Pessoal - Concurso Público ",
+   "decisao": "DECIDO: 1 – Determinar o arquivamento do Procedimento Apuratório Preliminar, nos termos dos artigos 6?, e 7º, I, da Resolução TC 0165/2020, autuado em face de comunicação da Ouvidoria, apontando supostas irregularidades relacionadas ao concurso público para provimento dos cargos de Auditor Fiscal Tributário e Procurador do Município de Lages, em razão da ausência de elementos de convicção razoáveis de possíveis irregularidades. 2 – Determinar à Diretoria de Atos de Pessoal - DAP que mantenha em seus arquivos as informações e documentos analisados neste Procedimento Apuratório Preliminar (PAP), para que eventualmente venham a servir de subsídio para futuras ações de fiscalização e de controle externo por parte desta Corte de Contas 3 – Determinar a remessa dos autos à Diretoria de Licitações eContratações – DLC, para que prossiga no exame do feito quanto à matéria de sua competência. 4 – Dar ciência da Decisão e do Relatório Técnico n° DAP – 6435/2023 ao Sr. Antônio Ceron, Prefeito Municipal de Lages. Gabinete, data da assinatura digital. Gerson dos Santos Sicca Relator Maracajá"
+  },
+  {
+   "i": 28,
+   "tipo": "tce",
+   "ref": "RLI 17/00618099",
+   "header": "⭐ RLI 17/00618099 — Relatório de Inspeção",
+   "status": "⬛ acórdão (decisão)",
+   "data": "17/03/2022",
+   "texto": "Prefeitura Municipal de Lages Processo de Monitoramento - Cumprimento da estratégia 18.1 (meta 18) da Lei (municipal) n. 4114/2015 - Plano Municipal de ",
+   "decisao": "ACORDAM os Conselheiros do Tribunal de Contas do Estado de Santa Catarina, reunidos em Sessão Plenária, diante das razões apresentadas pelo Relator e com fulcro no art. 59 e 113 da Constituição Estadual e 1° da Lei Complementar (estadual) n. 202/2000, em: 1. Conhecer do Relatório DAP/CAPE-I/Div.1 n. 5172/2021 (fs. 2050/2053). 2. Aplicar ao Sr. Antônio Ceron, Prefeito Municipal de Lages desde 1º/01/2017, CPF n. 021.394.809-53, com fundamento no art. 70, III e §1º, da Lei Complementar (estadual) n. 202/2000 c/c o art. 109, III e § 1º, da Resolução n. TC-06/2001, a multa no valor de R$ 842,33 (oitocentos e quarenta e dois reais e trinta e três centavos), tendo em vista o não cumprimento da determinação exarada pelo Tribunal de Contas no item 2 da Decisão n. 635/2018, publicada no Diário Oficial Eletrônico do TCE – DOTC-e – n. 2642, de 26/04/2019, de modo injustificado, e posterior diligência, fixando-lhe o prazo de 30 (trinta) dias, a contar da publicação deste Acórdão no DOTC-e, para comprovar ao Tribunal o recolhimento da multa ao Tesouro do Estado, ou interpor recurso na forma da lei, sem o quê, fica desde logo autorizado o encaminhamento da dívida para cobrança judicial, observado o disposto nos arts. 43, II, e 71 da citada Lei Complementar. 3. Reiterar a determinação constante no item 2 da Decisão n. 635/2018 proferida pelo Tribunal Pleno desta Corte de Contas no presente processo, com o estabelecimento do prazo de 180 (cento e oitenta) dias, a contar da publicação desta deliberação no DOTC-e para que a Prefeitura Municipal de Lages comprove a este Tribunal o cumprimento da referida determinação. 4. Alertar a Prefeitura Municipal de Lages, na pessoa do Prefeito Municipal, que a reincidência no descumprimento da determinação constante do item 2 da Decisão n. 635/2018 poderá ensejar as sanções previstas ao gestor no art. 70, VI e §1º, da Lei Complementar (estadual) n. 202/2000. 5. Dar ciência deste Acórdão, do Relatório e Voto do Relator que o fundamentam, bem como do Relatório DAP/CAPE-I/Div.1 n. 5172/2021, ao Sr. Antônio Ceron, Prefeito Municipal de Lages, à procuradora constituída nos autos e ao Responsável pelo Controle Interno daquele Município. Ata n.: 4/2022 Data da Sessão: 16/02/2022 - Ordinária - Virtual Especificação do quórum: Adircélio de Moraes Ferreira Júnior, Herneus João De Nadal, José Nei Alberton Ascari, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Cesar Filomeno Fontes e Luiz Eduardo Cherem Representante do Ministério Público de Contas/SC: Cibelly Farias Conselheiros-Substitutos presentes: Gerson dos Santos Sicca, Cleber Muniz Gavi e Sabrina Nunes Iocken ADIRCÉLIO DE MORAES FERREIRA JÚNIOR Presidente WILSON ROGÉRIO WAN-DALL Relator Fui presente: CIBELLY FARIAS Procuradora-Geral do Ministério Público de Contas/SC Leoberto Leal NOTIFICAÇÃO DE ALERTA Nº 3095/2022 O Diretor da Diretoria de Contas de Governo, por delegação de competência do Presidente do Tribunal de Contas do"
+  },
+  {
+   "i": 29,
+   "tipo": "tce",
+   "ref": "PCP 22/00121304",
+   "header": "⭐ PCP 22/00121304 — Prestação de Contas do Prefeito",
+   "status": "🟢 parecer pela aprovação",
+   "data": "06/01/2023",
+   "texto": "Prefeitura Municipal de Lages Prestação de Contas do Prefeito referente ao exercício de 2021 "
+  },
+  {
+   "i": 30,
+   "tipo": "tce",
+   "ref": "REP 22/80093086",
+   "header": "⭐ REP 22/80093086 — Representação",
+   "status": "❔ em tramitação",
+   "data": "03/07/2023",
+   "texto": "Prefeitura Municipal de Lages Representação acerca de supostas irregularidades referentes ao Pregão Eletrônico n. 183/2022 - Contratação de Elói Ampessan Filho, Juliano Polese Branco, Ayrton Tadeu Webber Xavier, Paulo Roberto Forbici dos Santos e",
+   "decisao": "decide: 1. Considerar improcedentes, com amparo no art. 27, parágrafo único, da Instrução Normativa n.TC-21/2015, os fatos relatados nesta Representação, por considerar que não houve restrição ao caráter competitivo do Pregão Eletrônico n. 183/2022, realizado pela Prefeitura Municipal de Lages. 2. Recomendar ao Município de Lages que antecipe o planejamento das licitações, a fim de possibilitar aos interessados tempo razoável entre o resultado do certame e o início do serviço, ampliando a competitividade. 3. Determinar o arquivamento do processo, com fundamento no art. 96, § 4º, c/c o art. 102, parágrafo único, do Regimento Interno deste Tribunal de Contas (Resolução n. TC-06/2001). 4. Dar ciência desta Decisão ao Sr. Antônio César Alves de Arruda, aos Interessados supramencionados, à Prefeitura Municipal de Lages e ao Controle Interno daquele Município. Ata n.: 22/2023 Data da Sessão: 21/06/2023 - Ordinária - Virtual Especificação do quórum: Herneus João De Nadal, José Nei Alberton Ascari, Adircélio de Moraes Ferreira Júnior, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Luiz Eduardo Cherem e Aderson Flores Representante do Ministério Público de Contas/SC: Diogo Roberto Ringenberg Conselheiros-Substitutos presentes: Gerson dos Santos Sicca, Cleber Muniz Gavi e Sabrina Nunes Iocken HERNEUS JOÃO DE NADAL Presidente ADERSON FLORES Relator Fui presente: DIOGO ROBERTO RINGENBERG Procurador-Geral do Ministério Público de Contas/SC Morro da Fumaça"
+  },
+  {
+   "i": 31,
+   "tipo": "tce",
+   "ref": "REP 24/80080131",
+   "header": "⭐ REP 24/80080131 — Representação",
+   "status": "🔴 apontou irregularidade",
+   "data": "06/11/2024",
+   "texto": "Prefeitura Municipal de Lages Potenciais irregularidades nos Pregões Eletrônicos 97/2023 e 194/2023 para aquisição e instalação de defesas ",
+   "decisao": "ACORDAM os Conselheiros do Tribunal de Contas do Estado de Santa Catarina, reunidos em Sessão Plenária, diante das razões apresentadas pelo Relator e com fulcro nos arts. 59 (e 113) da Constituição Estadual e 1º da Lei Complementar (estadual) n. 202/2000: 1. Considerar procedente a Representação formulada pelo Procurador Diogo Roberto Ringenberg, do Ministério Público junto a este Tribunal de Contas, em face de possíveis irregularidades referentes aos Pregões Eletrônicos ns. 97 e 194/2023, da Prefeitura Municipal de Lages, que visam ao Registro de Preços para contratação de empresa para fornecimento e instalação de defensas metálicas simples semimaleáveis, com sinalizador e suporte para fixação de placas, para melhorias da sinalização de trânsito, e considerar irregular a ausência de Projeto Básico e executivo, contrariando ao disposto no art. 7°, § 2°, I, c/c o art. 6°, IX e X, da Lei n. 8.666/93 (item 2 do Relatório DLC/COSE/Div.2 n. 554/2025). 2. Aplicar aos Responsáveis abaixo nominados, com fundamento no art. 70, II, da Lei Complementar (estadual) n. 202/2000 c/c o art. 109, II, do Regimento Interno desta Casa, as multas a seguir especificadas, em face da irregularidade acima descrita, fixando-lhes o prazo de 30 (trinta) dias, a contar da publicação deste Acórdão no Diário Oficial Eletrônico desta Corte de Contas – DOTC-e -, para comprovarem a este Tribunal o recolhimento ao Tesouro do Estado das multas cominadas, ou interporem recurso na forma da lei, sem o quê, fica desde logo autorizado o encaminhamento da dívida para cobrança judicial, observado o disposto nos arts. 43, II, e 71 da citada Lei Complementar: 2.1. ao Sr. NEWTON SILVEIRA JÚNIOR, Executivo de Trânsito, a multa no valor de R$ 2.293,37 (dois mil, duzentos e noventa e três reais e trinta e sete centavos); 2.2. ao Sr. MARCOS ALEXANDRE LOPES DO PATROCÍNIO, Assessor de Gestão da Diretran, a multa no valor de R$ 2.293,37 (dois mil, duzentos e noventa e três reais e trinta e sete centavos); 2.3. ao Sr. SÉRGIO ANTÔNIO SILVA TODESCHINI, Diretor de Engenharia de Trânsito e Fiscalização, a multa no valor de R$ 2.293,37 (dois mil, duzentos e noventa e três reais e trinta e sete centavos). 3. Dar ciência deste Acórdão, do Relatório e Voto do Relator que o fundamentam, bem como do Relatório DLC/COSE/Div.2 n. 554/2025): 3.1. ao Sr. Diogo Roberto Ringenberg; 3.2. ao Ministério Público junto a este Tribunal de Contas; 3.3. à Prefeitura do Município de Lages; 3.4. ao procurador constituído nos autos; 3.5. aos Responsáveis supranominados; e 3.6. ao Controle Interno e à Assessoria Jurídica da Unidade Gestora em tela. Ata n.: 37/2025 Data da Sessão: 10/10/2025 - Ordinária - Virtual Especificação do quórum: Herneus João De Nadal, José Nei Alberton Ascari, Adircélio de Moraes Ferreira Júnior, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Luiz Eduardo Cherem e Aderson Flores Representante do Ministério Público junto ao Tribunal de Contas/SC: Sérgio Ramos Filho Conselheiros-Substitutos presentes: Gers"
+  },
+  {
+   "i": 32,
+   "tipo": "tce",
+   "ref": "PCP 24/00154362",
+   "header": "⭐ PCP 24/00154362 — Prestação de Contas do Prefeito",
+   "status": "🟢 parecer pela aprovação",
+   "data": "03/12/2024",
+   "texto": "Prefeitura Municipal de Itajaí | Instituto de Previdência do Município de Lages - LAGESPREVI Prestação de Contas do Prefeito referente ao exercício de 2023 | Registro de Ato de Aposentadoria de Daniela Alves dos Santos Prefeitura de Lages",
+   "decisao": "DECIDO: 1. ORDENAR O REGISTRO, nos termos do artigo 34, inciso II, combinado com o artigo 36, § 2º, alínea 'b', da Lei Complementar Estadual nº 202/2000, do ato de aposentadoria de Daniela Alves dos Santos, servidora da Prefeitura Municipal de Lages, ocupante do cargo de Auxiliar de Serviços Gerais, Padrão 01, Classe I, matrícula nº 19736/1, CPF nº 009.801.369-62, consubstanciado no Ato nº 19.479/2022, de 25-2-2022, considerado legal conforme análise realizada. 2. DAR CIÊNCIA da Decisão ao Instituto de Previdência do Município de Lages - LAGESPREVI. Florianópolis, 25 de novembro de 2024. (assinado digitalmente) ADERSON FLORES Conselheiro Relator Palmeira"
+  },
+  {
+   "i": 33,
+   "tipo": "tce",
+   "ref": "REP 23/80120859",
+   "header": "⭐ REP 23/80120859 — Representação",
+   "status": "🔴 apontou irregularidade",
+   "data": "11/07/2025",
+   "texto": "Prefeitura Municipal de Lages Representação acerca de supostas irregularidades referentes à Concorrência Pública n. 10/2022 - Concessão do Antônio Ceron e Juliano Polese Branco",
+   "decisao": "decide: 1. Considerar parcialmente procedente a Representação e irregulares, nos termos dos arts. 36, § 2º, “a”, da Lei Complementar (estadual) n. 202/2000 e 27, parágrafo único, da Instrução Normativa n. TC-21/2015, os seguintes fatos: 1.1. Ausência de justificativas e erro do projeto ao adotar estimativas de salários menores que os mínimos praticados e exigíveis para as categorias: agente funerário, tanatopraxista, motorista, recepcionista/plantonista e servente de limpeza, conforme informações da planilha 7 - composição do custo com pessoal do “Anexo_V1_Demonstrativo_Viab_Econ_Finan” (item 2.2 da Decisão Singular GCS/GSS n. 1960/2023); 1.2. Erro na estimativa do quantitativo de urnas do estoque inicial e para reposição anual, pois indicam o quantitativo de 137 por ano em contraposição à projeção da quantidade de 158, conforme informações das planilhas 1, 4 e 20 do “Anexo_V1_Demonstrativo_Viab_Econ_Finan” (item 2.9 da Decisão Singular GCS/GSS n. 1960/2023); 1.3. Ausência de justificativas e erro na previsão dos custos com urnas personalizadas no estoque inicial e de reposição anual (despesas operacionais), conforme informações das planilhas 4 e 22 do “Anexo_V1_Demonstrativo_Viab_Econ_Finan” (item 2.10 da Decisão SingularGCS/GSS n. 1960/2023); 1.4. Erro no projeto ao estimar valores para a aquisição de veículos com ano de fabricação 2017 e 2018, mas prever no fluxo de caixa um período de uso em desacordo com a regra do Edital de idade máxima permitida, conforme informações das planilhas 4 e 22 do “Anexo_V1_Demonstrativo_Viab_Econ_Finan” (item 2.11 da Decisão Singular GCS/GSS n. 1960/2023); 1.5. Erro no projeto ao estimar compartilhamento de custos do serviço funerário gratuito em diferentes percentuais, aplicando 70% para as concessionárias na planilha 14, mas 30% para as concessionárias na planilha 20, todas do “Anexo_V1_Demonstrativo_Viab_Econ_Finan” (item 2.13 da Decisão Singular GCS/GSS n. 1960/2023); 1.6. Erro no projeto por não regulamentar de forma clara e objetiva como será a operação do serviço funerário gratuito, inclusive quanto à previsão de compartilhamento dos custos, conforme informações do item 11 do “Anexo_II_Projeto_Basico 2023” e do “Anexo_V1_Demonstrativo_Viab_Econ_Finan” (item 2.14 da Decisão Singular GCS/GSS n. 1960/2023); 2. Revogar a cautelar concedida pela Decisão Singular n. 771/2024 (fs. 819–843), confirmada pela Decisão Singular n. 42/2025 (fs. 1961–1967). 3. Recomendar à Prefeitura Municipal de Lages, na pessoa da Prefeita Municipal, que adote providências para, em futuros certames licitatórios relacionados ao mesmo objeto, evite a ocorrência das irregularidades descritas nos itens 1.1. a 1.6 desta Decisão. 4. Dar ciência desta Decisão, do Relatório e Voto do Relator que a fundamentam, bem como do Relatório DLC/CCON/Div.9 n. 1512/2024 e do Parecer MPC/SRF n. 176/2025, à empresa Representante, à Sra. Carmen Emília Bonfá Zanott, Prefeita Municipal de Lages, à Assessoria Jurídica e ao Controle Interno da Unidade Gest"
+  },
+  {
+   "i": 34,
+   "tipo": "tce",
+   "ref": "REP 21/00434319",
+   "header": "⭐ REP 21/00434319 — Representação",
+   "status": "❔ em tramitação",
+   "data": "09/02/2022",
+   "texto": "Prefeitura Municipal de Lages Representação acerca de supostas irregularidades referentes ao Edital de Chamamento n. 01/2021 - Credenciamento de leiloeiros Paulo Roberto Worm, Marcus Rogério Araújo Samoel, Roger Wenning, Diórgenes Valério Jorge, Aridina Maria do Amaral,",
+   "decisao": "decide: 1. Não conhecer da Representação, em face do não atendimento dos requisitos de admissibilidade exigidos no art. 24, §1º, da Instrução Normativa n. TC-21/2015 (item 3.1 do Relatório DLC/CAJU/Div.7 n. 969/2021). 2. Dar ciência desta Decisão aos Interessados retronominados, à Prefeitura Municipal de Lages e ao Responsável pelo Controle Interno daquele Município. 3. Determinar o arquivamento dos autos. Ata n.: 46/2021 Data da Sessão: 08/12/2021 - Ordinária - Virtual Especificação do quórum: Adircélio de Moraes Ferreira Júnior, Herneus João De Nadal, José Nei Alberton Ascari, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Cesar Filomeno Fontes e Luiz Eduardo Cherem Representante do Ministério Público de Contas/SC: Cibelly Farias Conselheiros-Substitutos presentes: Gerson dos Santos Sicca, Cleber Muniz Gavi e Sabrina Nunes Iocken ADIRCÉLIO DE MORAES FERREIRA JÚNIOR Presidente CESAR FILOMENO FONTES Relator Fui presente: CIBELLY FARIAS Procuradora-Geral do Ministério Público de Contas/SC Laurentino NOTIFICAÇÃO DE ALERTA Nº 3070/2022 O Diretor da Diretoria de Contas de Governo, por delegação de competência do Presidente do Tribunal de Contas do Estado de Santa Catarina através da Portaria nº TC 147/2019, no uso de suas atribuições e de acordo com as competências desta Corte de Contas para o exercício do controle externo conferidas pelo art. 59 da Constituição Estadual e em cumprimento ao disposto no art. 59, § 1º, inciso II da Lei Complementar nº 101/2000 e no artigo 27, II da Resolução nº TC-06/2001 (Regimento Interno), ALERTA o/a Chefe do Poder Executivo de LAURENTINO, com base nos dados remetidos por meio do Sistema e-Sfinge, que: A Despesa Total com Pessoal do Poder Executivo do Município no período examinado (3º quadrimestre de 2021) representou 51,93% da Receita Corrente Líquida ajustada (R$ 29.596.804,61), ou seja, acima de 95% do limite legal previsto na alínea “b” do inciso III do artigo 20 da Lei Complementar nº 101/2000, que corresponde a 51,3%, devendo ser obedecidas as vedações previstas no artigo 22, parágrafo único, da citada Lei. Notifique-se o/a responsável pelo Controle Interno por meio eletrônico. Publique-se. Florianópolis, 05/02/2022. Moises Hoegenn Diretor Nova Veneza"
+  },
+  {
+   "i": 35,
+   "tipo": "tce",
+   "ref": "REP 21/00271428",
+   "header": "⭐ REP 21/00271428 — Representação",
+   "status": "❔ em tramitação",
+   "data": "02/03/2022",
+   "texto": "Prefeitura Municipal de Lages Representação acerca de supostas irregularidades referentes ao Edital de Concorrência n. 03/2021 - Prestação de serviços ",
+   "decisao": "decide: 1. Considerar improcedente a Representação, nos termos do art. 27, parágrafo único, da Instrução Normativa n. TC-21/2015, em face do Edital de Concorrência n. 03/2021, para contratação de empresa de engenharia para prestação de serviços especializados na operação da gestão comercial, na operação das estações de tratamento de água, esgoto e controle laboratorial, lançado pelo Município de Lages, em razão da não confirmação da irregularidade indicada. 2. Dar ciência desta Decisão à Representante, à procuradora constituída nos autos, aos Srs. Antônio Ceron e Jurandi Domingos Agustini e ao Órgão de Controle Interno do Município de Lages. 3. Determinar o arquivamento do presente processo. Ata n.: 2/2022 Data da Sessão: 02/02/2022 - Ordinária - Virtual Especificação do quórum: Adircélio de Moraes Ferreira Júnior, Herneus João De Nadal, José Nei Alberton Ascari, Wilson Rogério Wan-Dall, Luiz Roberto Herbst, Cesar Filomeno Fontes e Luiz Eduardo Cherem Representante do Ministério Público de Contas/SC: Cibelly Farias Conselheiro-Substituto presente: Cleber Muniz Gavi ADIRCÉLIO DE MORAES FERREIRA JÚNIOR Presidente CESAR FILOMENO FONTES Relator Fui presente: CIBELLY FARIAS Procuradora-Geral do Ministério Público de Contas/SC Mafra"
+  },
+  {
+   "i": 36,
+   "tipo": "tce",
+   "ref": "RLA 11/00678279",
+   "header": "⭐ RLA 11/00678279 — Relatório de Auditoria",
+   "status": "⬛ decisão singular",
+   "data": "24/04/2024",
+   "texto": "Prefeitura Municipal de Lages Auditoria de Atos de Pessoal na Prefeitura Municipal de Lages para verificar a legalidade dos atos de pessoal Prefeitura Municipal de Lages, Elizeu Mattos, Antônio César Alves de Arruda, Francisco Ramos Martins,",
+   "decisao": "Diante do exposto, considerando os termos do Relatório DAP n. 6521/2023 (fls. 2609 a 2618), DECIDO: 1.1. Determinar à Diretoria de Atos de Pessoal (DAP) que inclua a Prefeitura Municipal de Lages na sua Programação de Fiscalização, para que possa averiguar in loco a situação examinada nestes autos, assim como outras questões relacionadas a atos de pessoal, nos termos do art. 22, § 2º, da Resolução n. TC-0161/2020. 1.2. Apensar o presente processo à futura fiscalização in loco, a ser realizada pela Diretoria de Atos de Pessoal na Prefeitura Municipal de Lages. 1.3. Dar ciência desta Decisão e do Relatório DAP n. 6521/2023 aos responsáveis e à Prefeitura Municipal de Lages. Publique-se. Florianópolis, em 15 de abril de 2024. Conselheiro Adircélio de Moraes Ferreira Júnior Relator Mafra"
+  }
+ ]
+}

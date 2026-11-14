@@ -1,0 +1,632 @@
+[
+  {
+    "i": 70,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC sobre a prática de poluição sonora do estabelecimento Fundação Promotora d...",
+    "description": "O MP apurou a prática de poluição sonora do estabelecimento Fundação Promotora de Eventos de São Bento do Sul (PROMOSUL). Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 71,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre meio ambiente. Despejo de esgoto sanitário na rede de drenage...",
+    "description": "O MP apurou meio ambiente. Despejo de esgoto sanitário na rede de drenagem pluvial. Adoção das medi.... O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 72,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 73,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC sobre possíveis irregularidades consistentes no estacionamento de veículos...",
+    "description": "O MP apurou possíveis irregularidades consistentes no estacionamento de veículos em passeios públicos no município de São Bento do Sul/SC. Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 74,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 75,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre eventuais irregularidade no pagamento de exames de Raio X pel...",
+    "description": "O MP apurou eventuais irregularidade no pagamento de exames de Raio X pelo Fundo Municipal de Saúde de São Bento do Sul ao Hospital e Maternidade Sagrada Família. Não foram constatadas irregularidades. O caso ficou arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "alta"
+  },
+  {
+    "i": 76,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 77,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre supostas ilicitudes na cessão de uso do autódromo Lourenço Sc...",
+    "description": "O MP apurou supostas ilicitudes na cessão de uso do autódromo Lourenço Schreiner. Não foram constatadas irregularidades. O caso ficou arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 78,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC sobre moralidade administrativa. Irregularidade referente à representação...",
+    "description": "O MP apurou moralidade administrativa. Irregularidade referente à representação judicial do Municíp.... Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 79,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre irregularidade na cessão de imóvel à Associação Centro Especi...",
+    "description": "O MP apurou irregularidade na cessão de imóvel à Associação Centro Especializado em Prevenção e Recuperação de Dependentes Químicos. Não foram constatadas irregularidades. O caso ficou arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "alta"
+  },
+  {
+    "i": 80,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre meio ambiente. Suposta contaminação do lençol freático e de r...",
+    "description": "O MP apurou meio ambiente. Suposta contaminação do lençol freático e de rios oriunda do antigo \"Lix.... O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 81,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre suposta infração ambiental praticada por Máxima Indústria de...",
+    "description": "O MP apurou suposta infração ambiental praticada por Máxima Indústria de Móveis Ltda. O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 82,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre irregularidades no pagamento de horas extras a servidores da...",
+    "description": "O MP apurou irregularidades no pagamento de horas extras a servidores da Secretaria de Obras de São Bento do Sul. O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 83,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre supostas irregularidades na cobrança de mensalidade e falta d...",
+    "description": "O MP apurou supostas irregularidades na cobrança de mensalidade e falta de vagas na Escola de Música Donaldo Ritzmann do Município de São Bento do Sul. O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "alta"
+  },
+  {
+    "i": 84,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC sobre possíveis irregularidades no serviços de transporte, guarda e depósi...",
+    "description": "O MP apurou possíveis irregularidades no serviços de transporte, guarda e depósito de veículos apreendidos e retirados de circulação pelas polícias civil e militar no Município de São Bento do Sul, derivadas de supostos aumentos abusivos das respectivas taxas, bem como de sua cobrança indevida e por períodos superiores aos permitidos pelas normas de regência. Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 85,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre possíveis irregularidades no redirecionamento de cirurgias el...",
+    "description": "O MP apurou possíveis irregularidades no redirecionamento de cirurgias eletivas custeadas pelo Município de São Bento do Sul do Hospital e Maternidade Sagrada Família para a Maternidade e Cirurgia Nossa Senhora do Rocio S/A. O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "alta"
+  },
+  {
+    "i": 86,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 87,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 88,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC sobre instaurado para constatar e sanar as irregularidades verificadas, ao...",
+    "description": "O MP apurou instaurado para constatar e sanar as irregularidades verificadas, ao longo das inspeçõe.... Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 89,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre a ausência de suporte às fiscalizações e punições de irregula...",
+    "description": "O MP apurou a ausência de suporte às fiscalizações e punições de irregularidades do Serviço de Inspeção Municipal de São Bento do Sul. O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 90,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC sobre supostas irregularidades na contratação temporária de psicólogos",
+    "description": "O MP apurou supostas irregularidades na contratação temporária de psicólogos. Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 91,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 92,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre moralidade administrativa. Suposta irregularidade nos requisi...",
+    "description": "O MP apurou moralidade administrativa. Suposta irregularidade nos requisitos exigidos para cargo de.... O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 93,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 94,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC sobre suposta contratação temporária irregular de secretário de escola pel...",
+    "description": "O MP apurou suposta contratação temporária irregular de secretário de escola pelo Município de São Bento do Sul. A irregularidade foi sanada durante a apuração. O caso ficou encerrado com TAC.",
+    "status": "🟠 TAC firmado",
+    "severity": "alta"
+  },
+  {
+    "i": 95,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC sobre fluxo entre atenção primária e hospital local. Tempo de atendimento...",
+    "description": "O MP apurou fluxo entre atenção primária e hospital local. Tempo de atendimento por médicos em sobr.... Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+    "status": "🟠 TAC firmado",
+    "severity": "alta"
+  },
+  {
+    "i": 96,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 97,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 98,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC sobre meio ambiente. Aterro em área de preservação permanente. Medidas adm...",
+    "description": "O MP apurou meio ambiente. Aterro em área de preservação permanente. Medidas administrativas sufici.... Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+    "status": "🟠 TAC firmado",
+    "severity": "alta"
+  },
+  {
+    "i": 99,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 100,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP registra apuração sobre apuração em São Bento do Sul",
+    "description": "O MP apurou o caso. O caso foi encerrado conforme o texto de origem. O caso ficou sem desfecho claro no texto.",
+    "status": "❔ status indef.",
+    "severity": "media"
+  },
+  {
+    "i": 101,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 102,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 103,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP registra apuração sobre apuração em São Bento do Sul",
+    "description": "O MP apurou o caso. O caso foi encerrado conforme o texto de origem. O caso ficou sem desfecho claro no texto.",
+    "status": "❔ status indef.",
+    "severity": "media"
+  },
+  {
+    "i": 104,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre moralidade Administrativa. Suposta promoção pessoal pelo ex-S...",
+    "description": "O MP apurou moralidade Administrativa. Suposta promoção pessoal pelo ex-Secretário de Educação do M.... O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 105,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC sobre meio Ambiente. Suposta terraplanagem em área de preservação permanen...",
+    "description": "O MP apurou meio Ambiente. Suposta terraplanagem em área de preservação permanente. Termo de Ajusta.... Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 106,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC sobre o cumprimento, por parte do Município de São Bento do Sul, das obrig...",
+    "description": "O MP apurou o cumprimento, por parte do Município de São Bento do Sul, das obrigações estabelecidas na Lei n. Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 107,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP registra apuração sobre as condições de segurança do transporte escolar ofertado pel...",
+    "description": "O MP apurou as condições de segurança do transporte escolar ofertado pela Secretaria Municipal de Educação do Município de São Bento do Sul. O caso foi encerrado conforme o texto de origem. O caso ficou sem desfecho claro no texto.",
+    "status": "❔ status indef.",
+    "severity": "media"
+  },
+  {
+    "i": 108,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP registra apuração sobre as condições de segurança do transporte escolar ofertado pel...",
+    "description": "O MP apurou as condições de segurança do transporte escolar ofertado pela Secretaria Municipal de Educação do Município de São Bento do Sul. O caso foi encerrado conforme o texto de origem. O caso ficou sem desfecho claro no texto.",
+    "status": "❔ status indef.",
+    "severity": "media"
+  },
+  {
+    "i": 109,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 110,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre possível má qualidade das fraldas de uso adulto fornecidas pe...",
+    "description": "O MP apurou possível má qualidade das fraldas de uso adulto fornecidas pelo Sistema Único de Saúde (SUS) aos pacientes. O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 111,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 112,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre o atual estágio da área degradada objeto da Notícia de Infraç...",
+    "description": "O MP apurou o atual estágio da área degradada objeto da Notícia de Infração Penal Ambiental n. O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 113,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC sobre meio Ambiente. Supressão de vegetação nativa do Bioma Mata Atlântica...",
+    "description": "O MP apurou meio Ambiente. Supressão de vegetação nativa do Bioma Mata Atlântica. Acordo de não per.... Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 114,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC sobre a violação dos direitos de consumidores de São Bento do Sul, derivad...",
+    "description": "O MP apurou a violação dos direitos de consumidores de São Bento do Sul, derivada do comércio de medicamentos em desacordo com as normas sanitárias vigentes pela Drogaria 25 de Julho Ltda. Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 115,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC sobre a ausência de regulamentação da revisão de horas extras e de sobreav...",
+    "description": "O MP apurou a ausência de regulamentação da revisão de horas extras e de sobreaviso dos conselheiros tutelares de São Bento do Sul. Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 116,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP leva à Justiça apuração sobre ajuizamento de ação civil pública.",
+    "description": "O MP apurou ajuizamento de ação civil pública.. O procedimento terminou com ajuizamento de ação civil pública. O caso ficou encerrado com ação judicial.",
+    "status": "🔴 ACP ajuizada",
+    "severity": "media"
+  },
+  {
+    "i": 117,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC sobre meio Ambiente. Dano provocado a duas árvores ameaçadas de extinção,...",
+    "description": "O MP apurou meio Ambiente. Dano provocado a duas árvores ameaçadas de extinção, um pinheiro-brasile.... Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 118,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 119,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 120,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 121,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC sobre possível deficiência de política pública municipal voltada ao fornec...",
+    "description": "O MP apurou possível deficiência de política pública municipal voltada ao fornecimento de leite especial (suplemento alimentar/alimento acompanhado de alimentação diversificada para substituir o leite materno) para as crianças do Município de São Bento do Sul. Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 122,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre instaurado objetivando implementar medidas para manter, no Mu...",
+    "description": "O MP apurou instaurado objetivando implementar medidas para manter, no Município de São Bento do Su.... O caso foi encerrado conforme o texto de origem. O caso ficou arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "media"
+  },
+  {
+    "i": 123,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP leva à Justiça apuração sobre ajuizamento de ação civil pública.",
+    "description": "O MP apurou ajuizamento de ação civil pública.. O procedimento terminou com ajuizamento de ação civil pública. O caso ficou encerrado com ação judicial.",
+    "status": "🔴 ACP ajuizada",
+    "severity": "media"
+  },
+  {
+    "i": 124,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP leva à Justiça apuração sobre ajuizamento de ação civil pública.",
+    "description": "O MP apurou ajuizamento de ação civil pública.. O procedimento terminou com ajuizamento de ação civil pública. O caso ficou encerrado com ação judicial.",
+    "status": "🔴 ACP ajuizada",
+    "severity": "media"
+  },
+  {
+    "i": 125,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP leva à Justiça apuração sobre ajuizamento de ação civil pública.",
+    "description": "O MP apurou ajuizamento de ação civil pública.. O procedimento terminou com ajuizamento de ação civil pública. O caso ficou encerrado com ação judicial.",
+    "status": "🔴 ACP ajuizada",
+    "severity": "media"
+  },
+  {
+    "i": 126,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP leva à Justiça apuração sobre ajuizamento de ação civil pública.",
+    "description": "O MP apurou ajuizamento de ação civil pública.. O procedimento terminou com ajuizamento de ação civil pública. O caso ficou encerrado com ação judicial.",
+    "status": "🔴 ACP ajuizada",
+    "severity": "media"
+  },
+  {
+    "i": 127,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 128,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre desídia do Município de São Bento do Sul na conservação de be...",
+    "description": "O MP apurou desídia do Município de São Bento do Sul na conservação de bem público. O caso tratava de possível dano ao erário. O caso ficou arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "alta"
+  },
+  {
+    "i": 129,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP arquiva apuração sobre desídia do Município de São Bento do Sul na conservação de be...",
+    "description": "O MP apurou desídia do Município de São Bento do Sul na conservação de bem público. O caso tratava de possível dano ao erário. O caso ficou arquivado.",
+    "status": "🟢 arquivado",
+    "severity": "alta"
+  },
+  {
+    "i": 130,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 131,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 132,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 133,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 134,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC sobre possível descumprimento da carga horária de trabalho por servidora d...",
+    "description": "O MP apurou possível descumprimento da carga horária de trabalho por servidora do Município de São Bento do Sul. Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 135,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 136,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC sobre a ilegalidade do recebimento de horas extras por servidora efetiva q...",
+    "description": "O MP apurou a ilegalidade do recebimento de horas extras por servidora efetiva que exerce função comissionada. Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  },
+  {
+    "i": 137,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP leva à Justiça apuração sobre ajuizamento de ação civil pública.",
+    "description": "O MP apurou ajuizamento de ação civil pública.. O procedimento terminou com ajuizamento de ação civil pública. O caso ficou encerrado com ação judicial.",
+    "status": "🔴 ACP ajuizada",
+    "severity": "media"
+  },
+  {
+    "i": 138,
+    "tipo": "mp",
+    "keep": false,
+    "title": "",
+    "description": "",
+    "status": "",
+    "severity": "media"
+  },
+  {
+    "i": 139,
+    "tipo": "mp",
+    "keep": true,
+    "title": "MP firma TAC sobre a legalidade e eventual privilégio à atual permissionária na fixação...",
+    "description": "O MP apurou a legalidade e eventual privilégio à atual permissionária na fixação de cláusula de indenização de serviços prestados referentes aos veículos depositados, na Concorrência Pública n. Foi firmado TAC para ajustar a conduta apurada. O caso ficou encerrado com TAC.",
+    "status": "🟠 TAC firmado",
+    "severity": "media"
+  }
+]

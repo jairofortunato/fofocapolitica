@@ -1,0 +1,635 @@
+{
+ "cidade": "Joinville",
+ "casos": [
+  {
+   "i": 2730,
+   "tipo": "mp",
+   "ref": "06.2022.00003753-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00003753-6",
+   "status": "🟡 em apuração",
+   "data": "12/09/2022",
+   "texto": "Marli Piekarski e Geovana da Veiga Coutinho."
+  },
+  {
+   "i": 2731,
+   "tipo": "mp",
+   "ref": "06.2015.00009063-0",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2015.00009063-0",
+   "status": "🟠 TAC firmado",
+   "data": "13/09/2022",
+   "texto": "Almir César Cassiano. Conclusão: \"[...] Diante do todo exposto, considerando que os direitos que se pretendiam resguardar com o presente ICP efetivamente estão sendo assegurados, notadamente diante da assinatura do Termo de Ajustamento de Conduta prevendo e recuperação da área e reparação dos danos ambientais, promovo o arquivamento do Inquérito Civil Público nº 06.2015.00009063-0.\" Ilone Maria Raymundo. Rafaela Cassiana."
+  },
+  {
+   "i": 2732,
+   "tipo": "mp",
+   "ref": "09.2022.00005883-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00005883-1",
+   "status": "🟡 em apuração",
+   "data": "15/09/2022",
+   "texto": "Instituição de Longa Permanência para Idosos Brilho da Idade Ltda. (\"Centro Geriátrico Nosso Lar\")."
+  },
+  {
+   "i": 2733,
+   "tipo": "mp",
+   "ref": "01.2022.00030861-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2022.00030861-0",
+   "status": "🟡 em apuração",
+   "data": "16/09/2022",
+   "texto": "Conselho Regional de Fármacia do Estado de Santa Catarina (CRF/SC) e Empreendimentos Pague Menos S.A. Edvânia Anselmo."
+  },
+  {
+   "i": 2734,
+   "tipo": "mp",
+   "ref": "01.2022.00018273-9",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00018273-9",
+   "status": "🟢 arquivado",
+   "data": "19/09/2022",
+   "texto": "Karoline Trommholz e Jennifer Caroline. Conclusão: supostos maus-tratos contra cinco caninos que passariam fome e seriam agredidos por seu tutor. Caninos filhotes encaminhados ao Abrigo Animal para adoção. Caninas adultas que aparentam estar bem e ter afeto com seu tutor, castradas e microchipadas. Melhoria do abrigo para dificultar o acesso às ruas. Indeferimento de Instauração com base no artigo 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 2735,
+   "tipo": "mp",
+   "ref": "06.2022.00003796-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00003796-9",
+   "status": "🟡 em apuração",
+   "data": "19/09/2022",
+   "texto": "Roseleni Bilk Marques."
+  },
+  {
+   "i": 2736,
+   "tipo": "mp",
+   "ref": "01.2022.00031820-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00031820-8",
+   "status": "🟡 em apuração",
+   "data": "20/09/2022",
+   "texto": "Lais Cizeski."
+  },
+  {
+   "i": 2737,
+   "tipo": "mp",
+   "ref": "01.2022.00030858-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2022.00030858-7",
+   "status": "🟡 em apuração",
+   "data": "21/09/2022",
+   "texto": "Conselho Regional de Fármacia do Estado de Santa Catarina (CRF/SC) e Raia Drogasil S.A."
+  },
+  {
+   "i": 2738,
+   "tipo": "mp",
+   "ref": "06.2021.00004749-6",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00004749-6",
+   "status": "🟠 TAC firmado",
+   "data": "23/09/2022",
+   "texto": "Instituição de Longa Permanência para Idosos Brilho da Idade Ltda. (\"Centro Geriátrico Nosso Lar\"). Conclusão: arquivamento ante a a formalização de termo de compromisso de ajustamento de conduta para regularizar o acolhimento de pessoas adultas na instituição investigada, cujo cumprimento das obrigações será acompanhado no Procedimento Administrativo n. 09.2022.00005883-1. Ausência circunstancial de interesse de agir."
+  },
+  {
+   "i": 2739,
+   "tipo": "mp",
+   "ref": "01.2022.00031894-1",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00031894-1",
+   "status": "🟢 arquivado",
+   "data": "26/09/2022",
+   "texto": "Amanda Belchior Ramos. Conclusão: Negativa de atendimento do Centro de Bem Estar Animal a canino abandonado. Medida adotada pelo Órgão. Situação resolvida. Indeferimento de Instauração com base no artigo 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 2740,
+   "tipo": "mp",
+   "ref": "01.2022.00031616-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00031616-5",
+   "status": "🟡 em apuração",
+   "data": "26/09/2022",
+   "texto": "Helena Vultuoso. Marcília Sedei Alves Faria. Simara Koentopp dos Santos. Enzo Kawamoto."
+  },
+  {
+   "i": 2741,
+   "tipo": "mp",
+   "ref": "01.2022.00031386-8",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00031386-8",
+   "status": "🟢 arquivado",
+   "data": "27/09/2022",
+   "texto": "Samantha Angela Marques. Conclusão: [...] Conforme se depreende dos autos, no âmbito das atribuições administrativas desta Promotoria de Justiça, não há outras medidas a serem adotadas, especialmente diante do paradeiro incerto do animal. Indeferimento de Instauração com base no artigo 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 2742,
+   "tipo": "mp",
+   "ref": "06.2022.00003177-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00003177-5",
+   "status": "🟢 arquivado",
+   "data": "27/09/2022",
+   "texto": "Marli Piekarski. Conclusão: Constatados que os cães estão com seu bem-estar resguardados, bem como que eventual crime está sob investigação da Autoridade Policial e considerando que os direitos que se pretendiam resguardar com o presente procedimento efetivamente estão sendo assegurados, promove-se o arquivamento. Marli Piekarski e Geovana da Veiga Coutinho. Conclusão: [...] Diante do todo exposto, considerando que todas as diligências possíveis foram empreendidas e que não há outras medidas a serem adotadas no âmbito desta Promotoria de Justiça no caso concreto, promovo o arquivamento do Procedimento Preparatório n. 06.2022.00003753-6."
+  },
+  {
+   "i": 2743,
+   "tipo": "mp",
+   "ref": "01.2022.00030318-1",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N.01.2022.00030318-1",
+   "status": "🟢 arquivado",
+   "data": "28/09/2022",
+   "texto": "Leidiane da Silva Moreira; Unimed Joinville e Unimed Belo Horizonte. Conclusão: Consumidor. Prestação de serviço. Liberação de procedimento cirúrgico. Solução do conflito. Cirurgia agendada. Arquivamento. Lais Teodoro. Conclusão: Canino mantido em corrente curta. Providenciado cabo de aço pelo tutor. Ademais, melhorado abrigo e apresentado atestado veterinário. Bem-estar agora resguardado. Indeferimento de Instauração com base no artigo 7º, inciso II, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 2744,
+   "tipo": "mp",
+   "ref": "06.2022.00002889-2",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00002889-2",
+   "status": "🟢 arquivado",
+   "data": "28/09/2022",
+   "texto": "Josiane da Cunha Isabel. Conclusão: [...] considerando que a situação que motivou a instauração do presente procedimento se encontra solucionada, bem como que a família de tutores do cão recebeu as orientações necessárias tanto para continuar o cuidado do animal, quanto para buscar auxílio ao próprio núcleo familiar, não restam, ao menos por ora, medidas a serem tomadas no âmbito desta Promotoria de Justiça. Diante do todo exposto, considerando que os direitos que se pretendiam resguardar com o presente PP efetivamente estão sendo assegurados, promove-se o arquivamento do Procedimento Preparatório n. 06.2022.00002889-2."
+  },
+  {
+   "i": 2745,
+   "tipo": "mp",
+   "ref": "06.2022.00003643-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00003643-7",
+   "status": "🟢 arquivado",
+   "data": "28/09/2022",
+   "texto": "Anderson Ricardo Pereira dos Santos. Conclusão: Suposta situação de vulnerabilidade de quatro caninos da raça pitbull. Tutor que adotou todas as providências necessárias. Pendente apenas castração de uma canina, providência acompanhada na via adminsitrativa. Arquivamento, nos termos do artigo 16, § 2º, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 2746,
+   "tipo": "mp",
+   "ref": "01.2022.00032689-6",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00032689-6",
+   "status": "🟡 em apuração",
+   "data": "28/09/2022",
+   "texto": "Quélita Goedert."
+  },
+  {
+   "i": 2747,
+   "tipo": "mp",
+   "ref": "01.2022.00032999-3",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00032999-3",
+   "status": "🟡 em apuração",
+   "data": "28/09/2022",
+   "texto": "Claudete Silveira."
+  },
+  {
+   "i": 2748,
+   "tipo": "mp",
+   "ref": "01.2022.00032392-2",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00032392-2",
+   "status": "🟢 arquivado",
+   "data": "29/09/2022",
+   "texto": "Marcelo Cordeiro de Azevedo e Tigre Tubos e Conexões. Conclusão: negativa de cobertura de garantia legal em produto comercializado pela empresa Tigre Tubos e conexões. Interesse individual. Indeferimento de investigação."
+  },
+  {
+   "i": 2749,
+   "tipo": "mp",
+   "ref": "06.2022.00004004-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004004-1",
+   "status": "🟡 em apuração",
+   "data": "30/09/2022",
+   "texto": "Ilone Maria Raymundo."
+  },
+  {
+   "i": 2750,
+   "tipo": "mp",
+   "ref": "01.2022.00033776-0",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00033776-0",
+   "status": "🟢 arquivado",
+   "data": "03/10/2022",
+   "texto": "Maria Eduarda de Assumpção. Conclusão: Suposta imperícia em atendimento prestado por clínica veterinária conveniada ao Município. Danos materiais à tutora que deverão ser pleiteados na esfera cível, se for o caso. Fatos que não incidem no crime previsto no artigo 32, § 1º-A, da Lei dos Crimes Ambientais ante a ausência do elemento subjetivo do tipo. Cópia dos autos ao Município e ao Conselho Regional de Medicina Veterinária para conhecimento e adoção das providências cabíveis. Indeferimento de Instauração com base no artigo 7º, inciso I, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 2751,
+   "tipo": "mp",
+   "ref": "01.2022.00033829-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00033829-2",
+   "status": "🟡 em apuração",
+   "data": "03/10/2022",
+   "texto": "Bianca Lopes."
+  },
+  {
+   "i": 2752,
+   "tipo": "mp",
+   "ref": "01.2022.00031632-1",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00031632-1",
+   "status": "🟢 arquivado",
+   "data": "04/10/2022",
+   "texto": "André Kasmirski e Celesc. Conclusão: Notícia de Fato. Falha na prestação de serviço pela CELESC. Retirada de medidor de consumo. Ausência de interesse social qualificado tutelado pelo Ministério Público. Interesse individual. Indeferimento de investigação."
+  },
+  {
+   "i": 2753,
+   "tipo": "mp",
+   "ref": "06.2022.00004041-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00004041-9",
+   "status": "🟡 em apuração",
+   "data": "04/10/2022",
+   "texto": "Ivete Dorpmueller Eugênio."
+  },
+  {
+   "i": 2754,
+   "tipo": "mp",
+   "ref": "06.2019.00003956-0",
+   "header": "· EXTRATO DE CONCLUSÃO DE INQUÉRITO CIVIL N. 06.2019.00003956-0",
+   "status": "❔ status indef.",
+   "data": "06/10/2022",
+   "texto": "Eraldo Sucatas. Conclusão: a partir dos elementos de prova angariados nos autos, conclui-se pela necessidade do ingresso de Ação Civil Pública."
+  },
+  {
+   "i": 2755,
+   "tipo": "mp",
+   "ref": "06.2021.00001782-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2021.00001782-5",
+   "status": "❔ status indef.",
+   "data": "06/10/2022",
+   "texto": "Eli Roberto Malisia Junior e Hacasa Administração e Empreendimentos Imobiliarios Ltda. Conclusão: inexistência de fundamento para tomada de Ajuste de Condutas ou propositura de Ação Civil Pública."
+  },
+  {
+   "i": 2756,
+   "tipo": "mp",
+   "ref": "06.2019.00003631-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2019.00003631-8",
+   "status": "🟢 arquivado",
+   "data": "07/10/2022",
+   "texto": "White Martins Gases Industriais Ltda. Conclusão: promoveu-se o arquivamento do Inquérito Civil n. 06.2019.00003631-8 ante a ausência de elementos que comprovem a prática de atividade poluidora pela empresa representada."
+  },
+  {
+   "i": 2757,
+   "tipo": "mp",
+   "ref": "01.2022.00029444-3",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00029444-3",
+   "status": "🟢 arquivado",
+   "data": "10/10/2022",
+   "texto": "FRADA - Frente de Ação pelos Direitos dos Animais. Conclusão: ausentes indícios de maus-tratos em face do felino e não sendo caso de instauração de Inquérito Civil ou Procedimento Preparatório, com supedâneo no art. 7º, inciso I, do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato."
+  },
+  {
+   "i": 2758,
+   "tipo": "mp",
+   "ref": "01.2022.00032804-0",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00032804-0",
+   "status": "🟢 arquivado",
+   "data": "10/10/2022",
+   "texto": "Enzo Kawamoto. Conclusão: Deixando o noticiante de complementar o procedimento com as informações solicitadas e não sendo caso de instauração de Inquérito Civil ou Procedimento Preparatório, com supedâneo no art. 7º, inciso III, do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato."
+  },
+  {
+   "i": 2759,
+   "tipo": "mp",
+   "ref": "06.2017.00004954-9",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2017.00004954-9",
+   "status": "🟢 arquivado",
+   "data": "10/10/2022",
+   "texto": "Mitra Diocesana de Joinville. Conclusão: arquivamento promovido devido à celebração de Termo de Ajuste de Condutas com o interessado, não havendo necessidade da deflagração de Ação Civil Pública ou qualquer outra providência, com base nos artigos 9º da Lei n. 7.347/85, c/c o art. 48, inciso I, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 2760,
+   "tipo": "mp",
+   "ref": "06.2017.00004969-3",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2017.00004969-3",
+   "status": "🟢 arquivado",
+   "data": "10/10/2022",
+   "texto": "Cemitério Estrada dos Morros, Sonia Liermann. Conclusão: arquivamento promovido devido à celebração de Termo de Ajuste de Condutas com o interessado, não havendo necessidade da deflagração de Ação Civil Pública ou qualquer outra providência, com base nos artigos 9º da Lei n. 7.347/85, c/c 48, inciso I, do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 2761,
+   "tipo": "mp",
+   "ref": "06.2020.00000443-7",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00000443-7",
+   "status": "❔ status indef.",
+   "data": "10/10/2022",
+   "texto": "Daniela Langhammer da Silva, Santa Fé Tabacaria e Choperia. Conclusão: inexistência de fundamento para tomada de Ajuste de Condutas ou propositura de Ação Civil Pública."
+  },
+  {
+   "i": 2762,
+   "tipo": "mp",
+   "ref": "06.2020.00004750-4",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2020.00004750-4",
+   "status": "🟢 arquivado",
+   "data": "10/10/2022",
+   "texto": "Fernando Quevedo de Barros, Food Truck. Conclusão: arquivamento promovido devido à falta de necessidade/utilidade na tomada de Ajuste de Condutas ou na deflagração de Ação Civil Pública ou qualquer outra providência, com base no artigo 9º da Lei n. 7.347/85, c/c o art. 48, inciso I, do Ato n. 395/2018/PGJ. Fran Gobbi."
+  },
+  {
+   "i": 2763,
+   "tipo": "mp",
+   "ref": "06.2022.00003880-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00003880-2",
+   "status": "🟡 em apuração",
+   "data": "10/10/2022",
+   "texto": "Clínica de Estética Vita D Ltda."
+  },
+  {
+   "i": 2764,
+   "tipo": "mp",
+   "ref": "06.2022.00004048-5",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004048-5",
+   "status": "🟡 em apuração",
+   "data": "10/10/2022",
+   "texto": "Cacild's Bebidas."
+  },
+  {
+   "i": 2765,
+   "tipo": "mp",
+   "ref": "06.2022.00004195-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004195-1",
+   "status": "🟡 em apuração",
+   "data": "18/10/2022",
+   "texto": "Governo no Estado de Santa Catarina, Secretaria de Estado de Infraestrutura e Secretaria de Estado de Comunicação e Propaganda."
+  },
+  {
+   "i": 2766,
+   "tipo": "mp",
+   "ref": "01.2022.00032689-6",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00032689-6",
+   "status": "❔ status indef.",
+   "data": "18/10/2022",
+   "texto": "Quélita Goedert. Conclusão: a situação que ensejou a instauração da Notícia de Fato foi solucionada, haja vista que as fichas de castração foram efetivamente fornecidas à noticiante pelo CBEA, não havendo, portanto, razões para a continuidade do apuratório. Leda Maria Barbie dos Santos."
+  },
+  {
+   "i": 2767,
+   "tipo": "mp",
+   "ref": "06.2022.00004241-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004241-7",
+   "status": "🟡 em apuração",
+   "data": "20/10/2022",
+   "texto": "Estado de Santa Catarina - Secretaria de Administração Prisional (SAP)."
+  },
+  {
+   "i": 2768,
+   "tipo": "mp",
+   "ref": "06.2022.00002804-8",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00002804-8",
+   "status": "🟢 arquivado",
+   "data": "21/10/2022",
+   "texto": "Serviço de Anestesiologia de Joinville (SAJ). Conclusão: arquivamento ante a notícia de adequação do estabelecimento às normas de acessibilidade vigentes. Inexistência de fundamento para a propositura de ação judicial. Thairine Cristina."
+  },
+  {
+   "i": 2769,
+   "tipo": "mp",
+   "ref": "06.2022.00003369-5",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2022.00003369-5",
+   "status": "🟠 TAC firmado",
+   "data": "24/10/2022",
+   "texto": "Posto Tio Tata Ltda. Conclusão: arquivamento ante a formalização de termo de compromisso de ajustamento de conduta para implementação de completa acessibilidade das edificações do Auto Posto Tio Tata Ltda., desta cidade de Joinville, cujo cumprimento das obrigações será acompanhado no Procedimento Administrativo n. 09.2022.00006801-8. Ausência circunstancial de interesse de agir."
+  },
+  {
+   "i": 2770,
+   "tipo": "mp",
+   "ref": "06.2022.00003294-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00003294-1",
+   "status": "🟢 arquivado",
+   "data": "24/10/2022",
+   "texto": "anônimo. Conclusão: resguardado o bem-estar de todos os felinos e já havendo intervenção do Poder Público Municipal, promovo o arquivamento, nos termos do artigo 16, § 2º, do Ato n. 395/2018/PGJ. Rosana da Maia."
+  },
+  {
+   "i": 2771,
+   "tipo": "mp",
+   "ref": "01.2022.00036680-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DA NOTÍCIA DE FATO N. 01.2022.00036680-0",
+   "status": "🟡 em apuração",
+   "data": "25/10/2022",
+   "texto": "R.S. da. S. H."
+  },
+  {
+   "i": 2772,
+   "tipo": "mp",
+   "ref": "01.2022.00036039-4",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00036039-4",
+   "status": "❔ status indef.",
+   "data": "25/10/2022",
+   "texto": "FRADA. Conclusão: considerando que a canina foi acolhida e encaminhada para receber tratamento veterinário pelo CBEA, portanto, está com seu bem-estar resguardado, não restam razões para a continuidade do apuratório."
+  },
+  {
+   "i": 2773,
+   "tipo": "mp",
+   "ref": "06.2022.00004302-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004302-7",
+   "status": "🟡 em apuração",
+   "data": "26/10/2022",
+   "texto": "Valdir Bandoch, Urbana Entulhos, Vitório Mafezolli e Luciano Aparecido Gomes."
+  },
+  {
+   "i": 2774,
+   "tipo": "mp",
+   "ref": "01.2022.00034949-0",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00034949-0",
+   "status": "🟢 arquivado",
+   "data": "27/10/2022",
+   "texto": "Josiane Cardoso. Conclusão: [...] conforme se depreende do relatório acima, a situação que ensejou a instauração do presente procedimento restou solucionada. Isso porque, segundo o aludido Memorando, os cães foram adotados, mediante esforços empreendidos pela própria noticiante. Por todo o exposto, não sendo caso de instauração de Inquérito Civil ou Procedimento Preparatório, com supedâneo no art. 7º, inciso II do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato."
+  },
+  {
+   "i": 2775,
+   "tipo": "mp",
+   "ref": "06.2022.00004081-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE INQUÉRITO CIVIL N. 06.2022.00004081-9",
+   "status": "🟡 em apuração",
+   "data": "31/10/2022",
+   "texto": "Fundinho Mercearia."
+  },
+  {
+   "i": 2776,
+   "tipo": "mp",
+   "ref": "01.2022.00037439-9",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00037439-9",
+   "status": "🟡 em apuração",
+   "data": "01/11/2022",
+   "texto": "Liliane Lovato e Milena Carolina Krobel Harger."
+  },
+  {
+   "i": 2777,
+   "tipo": "mp",
+   "ref": "06.2022.00004337-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004337-1",
+   "status": "🟡 em apuração",
+   "data": "03/11/2022",
+   "texto": "Alzira Furlick e Ederson Marcelo Fulik."
+  },
+  {
+   "i": 2778,
+   "tipo": "mp",
+   "ref": "01.2022.00030861-0",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00030861-0",
+   "status": "🟢 arquivado",
+   "data": "04/11/2022",
+   "texto": "Conselho Regional de Farmácia do Estado de Santa Catarina (CRF/SC) e Empreendimentos Pague Menos S.A. Conclusão: Notícia de Fato. Farmácia sem responsável técnico durante o horário de regular funcionamento. Infração ao disposto no art. 15, § 1º, da Lei n. 5.991/73. Regularização dos fatos. Arquivamento que se impõe."
+  },
+  {
+   "i": 2779,
+   "tipo": "mp",
+   "ref": "01.2022.00037502-1",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00037502-1",
+   "status": "❔ status indef.",
+   "data": "04/11/2022",
+   "texto": "Felipe Hostin e Conselho Regional de Engenharia e Agronomia de Santa Catarina. Conclusão: Notícia de Fato. Ausência de inscrição no Conselho Regional de Engenharia e Agronomia de Santa Catarina (CREA-SC). Serviço público federal. Interesse da União. Atribuição do Ministério Público Federal (MPF). Declínio de atribuição."
+  },
+  {
+   "i": 2780,
+   "tipo": "mp",
+   "ref": "01.2022.00038228-8",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00038228-8",
+   "status": "🟡 em apuração",
+   "data": "04/11/2022",
+   "texto": "Marian Felisberto Bitencourt."
+  },
+  {
+   "i": 2781,
+   "tipo": "mp",
+   "ref": "01.2022.00035647-9",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00035647-9",
+   "status": "🟢 arquivado",
+   "data": "07/11/2022",
+   "texto": "Annelore Ruth Rathunde e Medcorp Administradora de Benefícios. Conclusão: Notícia de Fato. Instauração. Falha na prestação de serviço. Contratação de plano de saúde. Ausência de envio de carteira de identificação física. Dificuldade de acesso aos boletos de pagamento. Inexistência de interesse social qualificado tutelado pelo Ministério Público. Interesse individual. Indeferimento de investigação."
+  },
+  {
+   "i": 2782,
+   "tipo": "mp",
+   "ref": "01.2022.00036508-9",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00036508-9",
+   "status": "🟢 arquivado",
+   "data": "07/11/2022",
+   "texto": "Daniella Di Renzo e Clínica Firenza. Conclusão: Notícia de Fato. Suposta falha na prestação de serviço. Danos à saúde em razão de procedimento estético. Inexistência de interesse social qualificado tutelado pelo Ministério Público. Interesse individual. Indeferimento de investigação. Arquivamento."
+  },
+  {
+   "i": 2783,
+   "tipo": "mp",
+   "ref": "01.2022.00033922-5",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00033922-5",
+   "status": "🟢 arquivado",
+   "data": "07/11/2022",
+   "texto": "Gaby Derio. Conclusão: diante do óbito do animal e da instauração do respectivo inquérito policial para apuração do crime de maus-tratos e não sendo caso de instauração de Inquérito Civil ou Procedimento Preparatório, com supedâneo no art. 7º, inciso II, do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato."
+  },
+  {
+   "i": 2784,
+   "tipo": "mp",
+   "ref": "06.2022.00004419-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00004419-2",
+   "status": "🟡 em apuração",
+   "data": "09/11/2022",
+   "texto": "anônimo e Jefferson Daniel de Souza Carneiro."
+  },
+  {
+   "i": 2785,
+   "tipo": "mp",
+   "ref": "01.2022.00038114-5",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00038114-5",
+   "status": "🟢 arquivado",
+   "data": "11/11/2022",
+   "texto": "sigilosa. Conclusão: ausente indícios de maus tratos e não sendo caso de instauração de Inquérito Civil ou Procedimento Preparatório, com supedâneo no art. 7º, inciso I, do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato. Liliane Lovato."
+  },
+  {
+   "i": 2786,
+   "tipo": "mp",
+   "ref": "01.2022.00028109-2",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00028109-2",
+   "status": "🟢 arquivado",
+   "data": "17/11/2022",
+   "texto": "anônimo. Conclusão: ausentes indícios de maus-tratos em face do canino e não sendo caso de instauração de Inquérito Civil ou Procedimento Preparatório, com supedâneo no art. 7º, inciso II, do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato."
+  },
+  {
+   "i": 2787,
+   "tipo": "mp",
+   "ref": "06.2022.00004524-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004524-7",
+   "status": "🟡 em apuração",
+   "data": "21/11/2022",
+   "texto": "a apurar."
+  },
+  {
+   "i": 2788,
+   "tipo": "mp",
+   "ref": "09.2022.00008584-0",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N. 09.2022.00008584-0",
+   "status": "🟡 em apuração",
+   "data": "24/11/2022",
+   "texto": "L.D.Q. da S."
+  },
+  {
+   "i": 2789,
+   "tipo": "mp",
+   "ref": "01.2022.00032711-8",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00032711-8",
+   "status": "🟢 arquivado",
+   "data": "24/11/2022",
+   "texto": "Simara Koentopp dos Santos. Conclusão: não persistindo a situação de maus-tratos da canina e já instaurado o respectivo inquérito policial e não sendo caso de instauração de Inquérito Civil ou Procedimento Preparatório, com supedâneo no art. 7º, inciso II, do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato."
+  },
+  {
+   "i": 2790,
+   "tipo": "mp",
+   "ref": "09.2022.00008617-1",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO ADMINISTRATIVO N.09.2022.00008617-1",
+   "status": "🟡 em apuração",
+   "data": "25/11/2022",
+   "texto": "S.E de S.F."
+  },
+  {
+   "i": 2791,
+   "tipo": "mp",
+   "ref": "01.2022.00039667-1",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00039667-1",
+   "status": "❔ status indef.",
+   "data": "29/11/2022",
+   "texto": "Liliane Lovato e Rancho 3RE. Conclusão: realização de rodeio com uso de animais. Medidas fiscalizatórias. Curto espaço de tempo entre a comunicação ao Ministério Público e a realização do evento. Inviabilidade de adoção de outras medidas. Documentação do evento regular. Não constatação de situação de maus-tratos aos animais."
+  },
+  {
+   "i": 2792,
+   "tipo": "mp",
+   "ref": "06.2022.00004692-4",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO INQUÉRITO CIVIL N. 06.2022.00004692-4",
+   "status": "🟡 em apuração",
+   "data": "29/11/2022",
+   "texto": "ILPI Casa de Repouso Edilar."
+  },
+  {
+   "i": 2793,
+   "tipo": "mp",
+   "ref": "01.2022.00030209-3",
+   "header": "· EXTRATO DE CONCLUSÃO DA NOTÍCIA DE FATO N. 01.2022.00030209-3",
+   "status": "🟢 arquivado",
+   "data": "30/11/2022",
+   "texto": "Deryck Garcia e Tiago Rodrigo da Silva. Conclusão: Notícia de Fato. Moralidade administrativa. Suposto ato ímprobo por assessor parlamentar. Feito incompreensível e desprovido de elementos de prova e de informações mínimos para o início de uma apuração. Renúncia a representação. Arquivamento que se impõe."
+  },
+  {
+   "i": 2794,
+   "tipo": "mp",
+   "ref": "06.2017.00006466-1",
+   "header": "· EXTRATO DE CONCLUSÃO DO INQUÉRITO CIVIL N. 06.2017.00006466-1",
+   "status": "🟢 arquivado",
+   "data": "05/12/2022",
+   "texto": "Salvelina Maria Bersan Valentini. Conclusão: considerando que o SAMAE implantou nova rede coletora de esgoto, corrigindo as deficiência existentes na anterior, eliminando as ocorrências de extravasamento de esgoto sanitário; considerando que não há novas notícias de extravasamento de esgoto, desde 19/4/2021 (fls. 274/280); considerando que a autora da representação, questionada pelos técnicos do SAMAE, informou que não houve novos casos de extravasamento desde a implantação da nova rede (fls. 319/322); concluo que não há outras providências a serem adotadas pelo Ministério Público, motivo pelo qual promovo o arquivamento do presente Inquérito Civil, nos termos do disposto no artigo 9º da Lei n. 7.347/85 e no artigo 48 do Ato n. 395/2018/PGJ."
+  },
+  {
+   "i": 2795,
+   "tipo": "mp",
+   "ref": "01.2022.00025730-4",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00025730-4",
+   "status": "🟢 arquivado",
+   "data": "06/12/2022",
+   "texto": "sigiloso. Conclusão: não constatada situação de maus-tratos e adotas providências para resguardar o bem estar dos animais e e não sendo caso de instauração de Inquérito Civil ou Procedimento Preparatório, com supedâneo no art. 7º, inciso II, do Ato n. 395/2018/PGJ, determino o arquivamento da presente Notícia de Fato."
+  },
+  {
+   "i": 2796,
+   "tipo": "mp",
+   "ref": "01.2022.00039662-7",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00039662-7",
+   "status": "🟢 arquivado",
+   "data": "06/12/2022",
+   "texto": "2º Registro de Imóveis de Joinville. Conclusão: diante da não obrigatoriedade da averbação da reserva legal em relação ao imóvel em questão, nenhuma medida há a ser adotada pelo Ministério Público, pelo que promovo o arquivamento da Notícia de Fato n. 01.2022.00039662-7."
+  },
+  {
+   "i": 2797,
+   "tipo": "mp",
+   "ref": "06.2022.00004685-7",
+   "header": "· EXTRATO DE INSTAURAÇÃO DO PROCEDIMENTO PREPARATÓRIO N. 06.2022.00004685-7",
+   "status": "🟡 em apuração",
+   "data": "06/12/2022",
+   "texto": "Adriana Bastos."
+  },
+  {
+   "i": 2798,
+   "tipo": "mp",
+   "ref": "01.2022.00039899-1",
+   "header": "· EXTRATO DE CONCLUSÃO DE NOTÍCIA DE FATO N. 01.2022.00039899-1",
+   "status": "🟢 arquivado",
+   "data": "07/12/2022",
+   "texto": "1º Registro de Imóveis de Joinville. Conclusão: diante da não obrigatoriedade da averbação da reserva legal em relação ao imóvel de transcrição n. 27903 do 1º Registro de Imóveis de Joinville, nenhuma medida há a ser adotada pelo Ministério Público, pelo que promovo o arquivamento da Notícia de Fato n. 01.2022.00039899-1."
+  },
+  {
+   "i": 2799,
+   "tipo": "mp",
+   "ref": "01.2022.00043347-2",
+   "header": "· EXTRATO DE INSTAURAÇÃO DE NOTÍCIA DE FATO N. 01.2022.00043347-2",
+   "status": "🟡 em apuração",
+   "data": "13/12/2022",
+   "texto": "sigiloso."
+  }
+ ]
+}
